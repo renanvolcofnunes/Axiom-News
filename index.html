@@ -60,6 +60,9 @@ img{display:block}
 .mark{width:40px;height:40px;flex:none}
 .logo b{font-family:var(--display);font-weight:800;font-size:clamp(26px,4.2vw,38px);line-height:1;letter-spacing:-.015em}
 .logo .w1{font-weight:700} .logo .w2{font-weight:500}
+.logo .wm{display:inline-flex;align-items:baseline;white-space:nowrap}
+.logo .wa{height:.67em;width:auto;align-self:baseline;margin-right:.015em;overflow:visible;flex:none}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .logo small{display:block;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--on-brand-muted);margin-top:6px;font-weight:600}
 .pill{display:inline-flex;align-items:center;gap:7px;padding:6px 12px;border-radius:999px;background:var(--brand-2);font-size:12.5px;font-weight:600;white-space:nowrap}
 .pill::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--accent)}
@@ -212,11 +215,7 @@ footer a{text-decoration:underline}
 </div></div>
 <header class="masthead"><div class="wrap">
   <a class="logo" href="#topo" aria-label="Axiom News, início">
-    <svg class="mark" viewBox="0 0 100 100" aria-hidden="true">
-      <path d="M50 6 L94 94 L6 94 Z M50 42 L24 94 L76 94 Z" fill-rule="evenodd" style="fill:var(--on-brand)"/>
-      <polygon points="4,60 96,60 96,70 4,70" style="fill:var(--bar)"/>
-    </svg>
-    <span><b><span class="w1">Axiom</span> <span class="w2">News</span></b></span>
+    <b class="wm"><svg class="wa" viewBox="0 0 100 88" aria-hidden="true"><path d="M50 0 L94 88 L6 88 Z M50 34 L26 88 L74 88 Z" fill-rule="evenodd" style="fill:var(--on-brand)"/><rect x="13" y="54" width="74" height="10" style="fill:var(--bar)"/></svg><span class="vh">A</span><span class="w1">xiom</span> <span class="w2">News</span></b>
   </a>
   <div class="mast-r">
     <span class="pill" id="ed-nome"></span>
