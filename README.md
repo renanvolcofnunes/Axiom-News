@@ -10,6 +10,7 @@ Portal de notícias do dia, sem lado: resumos próprios, várias fontes por assu
 - `worker/`: código do Cloudflare Worker que publica o site e responde `/api/ibov` com a cotação do Ibovespa.
 - `wrangler.jsonc` e `.assetsignore`: configuração da publicação no Cloudflare.
 - `_headers`: regras de cache.
+- `logo/` e `favicon.svg`: símbolo da marca (versão normal e negativa) e ícone da aba.
 
 ## Cotações ao vivo
 
