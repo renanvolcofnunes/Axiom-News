@@ -1,10 +1,10 @@
 {
  "data": "Segunda-feira, 26 de outubro de 2026",
  "edicao": "Edição da noite",
- "atualizado": "26/10/2026 · 19h15 (Brasília)",
+ "atualizado": "26/10/2026 · 20h35 (Brasília)",
  "proxima": "Próxima atualização: amanhã, 7h",
  "mercado_hora": "Cotações de 17h15",
- "fontes": 32,
+ "fontes": 34,
  "mercado": [
   {
    "nome": "Ibovespa · fechamento 17h15",
@@ -333,14 +333,18 @@
     {
      "kicker": "Novo mandato",
      "quando": "Hoje",
-     "titulo": "Lula volta a Brasília e começa o quarto mandato pela agenda externa; Fonteles nega convite para a Fazenda",
-     "resumo": "Reeleito com 51,79% dos votos válidos, Lula recebeu no Alvorada o chanceler Mauro Vieira e o assessor Celso Amorim, e teve reuniões previstas com o ministro da Defesa e os presidentes da Câmara e do Senado. Citado por aliados como cotado para a Fazenda, o governador do Piauí, Rafael Fonteles (PT), disse à GloboNews que nunca tratou de cargo com o presidente e que pretende seguir no governo estadual.",
+     "titulo": "Lula recebe chefes do Congresso e apresenta plano do quarto mandato; Fonteles nega convite para a Fazenda",
+     "resumo": "Reeleito com 51,79% dos votos válidos, Lula passou o dia no Alvorada: recebeu o chanceler Mauro Vieira e, no fim da tarde, Hugo Motta e Davi Alcolumbre, que saíram às 18h27 sem falar com a imprensa; os ministros Dario Durigan e Bruno Moretti participaram do fim da reunião. Citado como cotado para a Fazenda, o governador do Piauí, Rafael Fonteles (PT), disse que nunca tratou de cargo com o presidente.",
      "foto": {
       "src": "fotos/lula.jpg",
       "credito": "Paulo Pinto/Agência Brasil"
      },
      "destaque": false,
      "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365150/hugo-motta-e-davi-alcolumbre-deixam-alvorada-apos-reuniao-com-lula"
+      },
       {
        "n": "Brasil 247",
        "u": "https://www.brasil247.com/brasilia/encontro-de-lula-reune-mauro-vieira-defesa-e-assessores-da-area-internacional/"
@@ -581,7 +585,7 @@
       },
       {
        "quem": "Governo brasileiro e TSE",
-       "txt": "O Planalto avalia que o silêncio ou a posição de outros governos não afeta a validade do resultado. O presidente do TSE, Nunes Marques, afirmou que a prorrogação não alterou a apuração."
+       "txt": "O vice-presidente Geraldo Alckmin chamou a declaração de totalmente equivocada e defendeu a urna eletrônica; o assessor Celso Amorim disse que o resultado não depende de reconhecimento dos EUA. O presidente do TSE, Nunes Marques, afirmou que a prorrogação não alterou a apuração."
       }
      ],
      "fontes": [
@@ -592,6 +596,14 @@
       {
        "n": "Correio Braziliense",
        "u": "https://www.correiobraziliense.com.br/politica/2026/10/7528240-trump-questiona-prorrogacao-e-fala-em-eleicao-fraudada.html"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/alckmin-rebate-fala-de-trump-sobre-as-eleicoes-no-brasil-totalmente-equivocada/"
+      },
+      {
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/alckmin-rebate-declaracao-de-trump-sobre-eleicao-totalmente-equivocada/"
       },
       {
        "n": "Poder360",
