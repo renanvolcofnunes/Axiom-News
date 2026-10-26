@@ -1,10 +1,9 @@
-// Cloudflare Pages Function: /api/ibov
-// Busca a cotação do Ibovespa (com atraso de ~15 min) e devolve só o necessário para a página.
+// /api/ibov: busca a cotação do Ibovespa (com atraso de ~15 min) e devolve só o necessário para a página.
 // Existe porque o navegador não consegue ler a fonte diretamente (bloqueio de CORS).
 
 const FONTE = 'https://query1.finance.yahoo.com/v8/finance/chart/%5EBVSP?interval=5m&range=1d';
 
-export async function onRequest() {
+export async function ibov() {
   try {
     const r = await fetch(FONTE, {
       headers: { 'User-Agent': 'Mozilla/5.0 (AxiomNews)', 'Accept': 'application/json' },

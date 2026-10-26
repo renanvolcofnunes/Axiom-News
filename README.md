@@ -7,8 +7,9 @@ Portal de notícias do dia, sem lado: resumos próprios, várias fontes por assu
 - `index.html`: o layout e o código da página. Raramente muda.
 - `data/edicao.json`: todo o conteúdo da edição (manchete, editorias, agenda, mercado). As atualizações automáticas mexem só neste arquivo.
 - `fotos/`: fotos da Agência Brasil (licença Creative Commons BY 3.0 BR), sempre com crédito do fotógrafo.
-- `functions/api/ibov.js`: função do Cloudflare Pages que entrega a cotação do Ibovespa para a página.
-- `_headers`: regras de cache do Cloudflare Pages.
+- `worker/`: código do Cloudflare Worker que publica o site e responde `/api/ibov` com a cotação do Ibovespa.
+- `wrangler.jsonc` e `.assetsignore`: configuração da publicação no Cloudflare.
+- `_headers`: regras de cache.
 
 ## Cotações ao vivo
 
@@ -16,7 +17,7 @@ A faixa do mercado busca dólar, euro e bitcoin na AwesomeAPI a cada minuto e o 
 
 ## Editar à mão
 
-Abra `data/edicao.json` no GitHub, edite e salve (commit). O Cloudflare Pages publica a nova versão em cerca de um minuto.
+Abra `data/edicao.json` no GitHub, edite e salve (commit). O Cloudflare publica a nova versão em cerca de um minuto.
 
 Cada matéria segue este formato:
 
