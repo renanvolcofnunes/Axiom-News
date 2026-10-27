@@ -1,27 +1,27 @@
 {
  "data": "Terça-feira, 27 de outubro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "27/10/2026 · 12h56 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 12h43",
- "fontes": 44,
+ "edicao": "Edição da noite",
+ "atualizado": "27/10/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h",
+ "fontes": 52,
  "mercado": [
   {
-   "nome": "Ibovespa · 12h43",
-   "valor": "176.979 pts",
-   "var": "+0,21%",
-   "dir": "up"
-  },
-  {
-   "nome": "Dólar comercial · 12h43",
-   "valor": "R$ 5,333",
-   "var": "−1,51%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "175.710 pts",
+   "var": "−0,51%",
    "dir": "down"
   },
   {
-   "nome": "DI jan/2029 · 9h15",
-   "valor": "15,13%",
-   "var": "−0,12 p.p.",
+   "nome": "Dólar comercial · fechamento",
+   "valor": "R$ 5,35",
+   "var": "−0,97%",
+   "dir": "down"
+  },
+  {
+   "nome": "Petróleo Brent · fechamento",
+   "valor": "US$ 113,88",
+   "var": "−1,7%",
    "dir": "down"
   },
   {
@@ -81,33 +81,33 @@
  },
  "agenda": [
   {
-   "hora": "17h",
-   "txt": "Festa aberta ao público pelos 81 anos de Lula em frente ao Palácio da Alvorada",
-   "cat": "politica"
-  },
-  {
-   "hora": "17h",
-   "txt": "Fecham as urnas em Israel; bocas de urna saem a partir das 22h locais",
-   "cat": "mundo"
-  },
-  {
    "hora": "20h",
-   "txt": "Ceará x Goiás pela Série B; às 21h, Mega-Sena sorteia R$ 305 milhões",
+   "txt": "Ceará x Goiás fecha a 35ª rodada da Série B, na Arena Castelão",
    "cat": "esporte"
+  },
+  {
+   "hora": "21h",
+   "txt": "Mega-Sena sorteia prêmio estimado em R$ 305 milhões",
+   "cat": "brasil"
   },
   {
    "hora": "Qua 28",
-   "txt": "Começa a 33ª rodada do Brasileirão, com Santos x Palmeiras às 19h30",
-   "cat": "esporte"
+   "txt": "Fed anuncia decisão sobre os juros nos EUA; à noite, Santos x Palmeiras abre a 33ª rodada do Brasileirão",
+   "cat": "economia"
   },
   {
    "hora": "Qui 29",
-   "txt": "Premiação e encerramento da 50ª Mostra de Cinema de São Paulo; fim das inscrições do Mais Médicos Especialistas",
-   "cat": "cultura"
+   "txt": "Vale divulga balanço do 3º trimestre; premiação da 50ª Mostra de Cinema de São Paulo",
+   "cat": "economia"
+  },
+  {
+   "hora": "Qui 29",
+   "txt": "Fim das inscrições do Mais Médicos Especialistas",
+   "cat": "saude"
   },
   {
    "hora": "Sex 30",
-   "txt": "Ponto facultativo do Dia do Servidor no Executivo federal",
+   "txt": "Ponto facultativo do Dia do Servidor no Executivo federal; Israel prevê fim da contagem dos votos",
    "cat": "brasil"
   }
  ],
@@ -204,44 +204,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercado",
-  "titulo": "Dólar recua para R$ 5,33 e Bolsa oscila no dia seguinte ao tombo; Fazenda promete projeto pelo centro da meta",
-  "resumo": "Depois de subir mais de 8% na segunda, o dólar caía 1,5% no fim da manhã, enquanto o Ibovespa alternava altas e quedas perto dos 177 mil pontos. O ministro Dario Durigan disse que o governo enviará um projeto de lei complementar para fixar o compromisso com o centro da meta fiscal.",
+  "kicker": "Flávio Bolsonaro",
+  "titulo": "Flávio deixa o Brasil rumo aos EUA após não entregar passaportes, segundo PF e aliados; governo Trump confirma vistos",
+  "resumo": "A Polícia Federal confirmou à Gazeta do Povo que o senador saiu do país e cancelou seus passaportes depois que o prazo dado por Alexandre de Moraes para a entrega terminou sem cumprimento. Um alto funcionário do Departamento de Estado disse à CNN que os EUA emitirão vistos para ele e a família e permitirão a entrada no país.",
   "foto": {
-   "src": "fotos/real.jpg",
-   "credito": "José Cruz/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/WzdWZ5Di1qifhqnxvJi-5_ecDr0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/0d4a6236.jpg?itok=L148hQ-O",
+   "credito": "Joédson Alves/Agência Brasil (arquivo)"
   },
-  "entenda": "Na segunda, primeiro pregão após a reeleição de Lula, o Ibovespa caiu 13,88%, a maior queda diária desde março de 2020, e o dólar teve a maior alta em mais de duas décadas; analistas atribuíram o movimento ao desmonte de apostas na vitória de Flávio Bolsonaro e às dúvidas sobre a política fiscal do quarto mandato. Na noite de segunda, Lula reuniu no Alvorada os ministros Durigan (Fazenda) e Bruno Moretti (Planejamento). Nesta terça, Durigan atribuiu a reação a uma troca de posições, e não a descrença nas contas públicas. O presidente do BC, Gabriel Galípolo, disse que o banco atuará no câmbio se houver disfuncionalidade, o que, segundo ele, não é o caso agora. O comando da Fazenda no novo mandato segue indefinido.",
+  "entenda": "No domingo, Moraes determinou, em inquérito sigiloso que apura suposta lavagem de dinheiro envolvendo Flávio e o advogado Willer Tomaz (ambos negam irregularidades), a entrega dos passaportes em 24 horas e proibiu o senador de sair do país. O pedido partiu de deputados governistas depois que Eduardo Bolsonaro, que vive nos EUA, disse que o irmão deveria deixar o Brasil se perdesse a eleição. Na segunda, Flávio afirmou em vídeo que ficaria para liderar a oposição; sua assessoria disse que ele nunca pensou em sair. Segundo a CNN, o último contato da defesa com ele foi às 16h30 de segunda. A rota da viagem não foi esclarecida: o governo argentino nega que ele tenha entrado no país, e a PF diz que não houve passagem por posto regular de migração.",
   "fatos": [
-   "Às 12h43, o Ibovespa subia 0,21%, a 176.979 pontos, depois de chegar a avançar cerca de 1% na abertura; o dólar caía 1,51%, a R$ 5,333.",
-   "Citi e BCA Research rebaixaram a recomendação para ativos brasileiros, citando dúvidas sobre disciplina fiscal e reformas.",
-   "O Relatório de Estabilidade Financeira do BC mostrou 20,3 milhões de endividados de risco, alta de 75% em cinco anos; o banco afirma que não há risco relevante ao sistema."
+   "A Reuters, reproduzida pela Agência Brasil, ouviu um aliado próximo e uma fonte do governo americano que confirmaram a viagem aos EUA; a defesa não comentou.",
+   "Aliados ouvidos pela Folha dizem que ele viajou nesta terça com a mulher e as duas filhas e que o nome dele numa lista de passageiros de jato em Puerto Iguazú foi usado para despistar.",
+   "Até a noite, Flávio não havia se pronunciado; parte do PL cobrou um vídeo ou nota de esclarecimento, segundo a CNN."
   ],
   "fontes": [
    {
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/republica/pf-confirma-flavio-bolsonaro-deixou-brasil/",
+    "d": "PF confirma saída"
+   },
+   {
     "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/",
-    "d": "Pregão desta terça"
+    "u": "https://www.cnnbrasil.com.br/internacional/departamento-de-estado-dos-eua-diz-a-cnn-que-emitira-vistos-para-flavio/",
+    "d": "Vistos dos EUA"
    },
    {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
-    "d": "Falas de Galípolo"
+    "n": "Agência Brasil / Reuters",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-fugiu-para-os-eua-diz-agencia-reuters",
+    "d": "Fontes confirmam viagem"
    },
    {
-    "n": "Diário do Grande ABC / Broadcast",
-    "u": "https://www.dgabc.com.br/Noticia/4365253/durigan-diz-que-governo-fara-plp-para-perseguir-centro-da-meta-fiscal",
-    "d": "Projeto pela meta fiscal"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-cancela-passaportes-de-flavio-bolsonaro",
+    "d": "Passaportes cancelados"
    },
    {
-    "n": "Correio Braziliense",
-    "u": "https://www.correiobraziliense.com.br/economia/2026/10/7528617-dolar-recua-apos-disparada-e-bolsa-abre-esta-terca-feira-27-em-alta.html",
-    "d": "Abertura do mercado"
+    "n": "NSC Total / O Globo",
+    "u": "https://www.nsctotal.com.br/politica/lula-critica-fuga-de-flavio-bolsonaro-para-os-eua-e-diz-que-ele-deveria-provar-sua-inocencia-sai-escondido-e-porque-deve-algo",
+    "d": "Versão dos aliados"
    },
    {
-    "n": "SBT News",
-    "u": "https://sbtnews.sbt.com.br/noticia/economia/bc-endividamento-de-risco-avanca-75-em-cinco-anos",
-    "d": "Endividamento das famílias"
+    "n": "Money Times",
+    "u": "https://www.moneytimes.com.br/flavio-bolsonaro-saiu-do-pais-veja-o-que-se-sabe-sobre-o-paradeiro-do-senador-apos-derrota-para-lula-davs/",
+    "d": "Rota pela Argentina"
    }
   ]
  },
@@ -253,40 +258,56 @@
    "nota": "Brasil",
    "itens": [
     {
-     "kicker": "STF e Polícia Federal",
+     "kicker": "Reações",
      "quando": "Hoje",
-     "titulo": "PF apura relato de que Flávio deixou o país; Argentina nega entrada e aliados dizem que ele está no Brasil",
-     "resumo": "O site argentino Infobae publicou de madrugada que o senador teria cruzado a fronteira para embarcar num jato rumo aos EUA; a PF checa postos de fronteira e o governo brasileiro acionou as autoridades argentinas. Segundo Folha e O Globo, não há registro da passagem dele por postos regulares de migração. O prazo de 24 horas para a entrega dos passaportes, determinada por Alexandre de Moraes em inquérito sigiloso sobre lavagem de dinheiro, terminou nesta terça sem confirmação da entrega.",
+     "titulo": "Na festa de 81 anos, Lula diz que Flávio deveria ficar para provar inocência; aliados do senador falam em perseguição",
+     "resumo": "Em discurso num trio elétrico em frente ao Alvorada, segundo O Globo, o presidente comentou a saída do adversário. Mais cedo, recebeu Hugo Motta e Davi Alcolumbre, que prometeram harmonia entre os Poderes, e lideranças da Bahia, em meio à montagem do quarto mandato; a escolha do ministro da Fazenda segue sem anúncio.",
      "lados": [
       {
-       "quem": "Flávio e aliados",
-       "txt": "Em vídeo na segunda, Flávio disse que nunca pensou em sair do país, que entregaria os passaportes e chamou a medida de tentativa de intimidação. Rogério Marinho, coordenador da campanha, negou a saída."
+       "quem": "Lula",
+       "txt": "Disse que quem sai do país escondido deve algo ou tem medo de algo, que o Brasil vive uma democracia e que Flávio desrespeitou os próprios eleitores."
       },
       {
-       "quem": "Investigação e governo argentino",
-       "txt": "A decisão de Moraes, pedida por três deputados, cita fala de Eduardo Bolsonaro defendendo que o irmão deixasse o país se perdesse. A Casa Rosada diz que não há registro de entrada e que um jato vistoriado em Iguazú não tinha plano de voo com a família Bolsonaro."
+       "quem": "Aliados de Flávio",
+       "txt": "O presidente do PL mineiro, Zé Vitor, disse haver caça a quem pensa diferente; Nikolas Ferreira sugeriu que a saída mostra falta de segurança para opositores. Eduardo Bolsonaro havia chamado de falsas as primeiras notícias da viagem."
       }
      ],
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/pf-aciona-argentina-por-temor-de-fuga-de-flavio/"
+       "n": "NSC Total / O Globo",
+       "u": "https://www.nsctotal.com.br/politica/lula-critica-fuga-de-flavio-bolsonaro-para-os-eua-e-diz-que-ele-deveria-provar-sua-inocencia-sai-escondido-e-porque-deve-algo"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html"
+       "n": "ND+",
+       "u": "https://ndmais.com.br/politica/lula-aniversario-militancia-alvorada-trio-discurso/"
       },
       {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/10/27/pf-rastreia-fronteiras-e-aciona-argentina-para-saber-se-flavio-bolsonaro-deixou-o-pais-aliados-negam/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/"
-      },
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/minas-gerais/aliados-mineiros-apontam-perseguicao-a-flavio-e-apoiam-saida-do-pais"
+      }
+     ]
+    },
+    {
+     "kicker": "Investigação",
+     "quando": "Hoje",
+     "titulo": "Rota da saída segue sem confirmação; Argentina nega entrada e aliado de Trump fala em \"Operação Alba\"",
+     "resumo": "O site argentino Infobae relatou de madrugada que Flávio teria embarcado num jato em Puerto Iguazú, o que a Casa Rosada e aliados do senador negam. À tarde, o investidor mexicano Simón Levy escreveu nas redes que Flávio chegou aos EUA numa articulação atribuída ao secretário de Estado Marco Rubio; nenhuma autoridade confirmou o local de chegada. A PF vai informar Moraes do descumprimento da ordem.",
+     "fontes": [
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais"
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/aliado-de-trump-diz-que-flavio-bolsonaro-chegou-aos-eua"
+      },
+      {
+       "n": "Ric",
+       "u": "https://ric.com.br/politica/flavio-bolsonaro-chegou-aos-eua-em-seguranca/"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/flavio-bolsonaro-saiu-do-pais-veja-o-que-se-sabe-sobre-o-paradeiro-do-senador-apos-derrota-para-lula-davs/"
       }
      ]
     },
@@ -321,31 +342,6 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-lula-entra-com-acao-no-tse-para-cassar-chapa-de-flavio"
-      }
-     ]
-    },
-    {
-     "kicker": "Governo",
-     "quando": "Hoje",
-     "titulo": "Lula faz 81 anos com festa no Alvorada; Fonteles é citado para a Fazenda",
-     "resumo": "O PT organiza uma comemoração aberta ao público às 17h em frente ao Palácio da Alvorada, com discurso do presidente em um pequeno trio elétrico. Segundo a Folha, Lula sinalizou preferência pelo governador reeleito do Piauí, Rafael Fonteles, para a Fazenda; nada foi anunciado. A posse do quarto mandato será em 5 de janeiro.",
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil"
-     },
-     "destaque": false,
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/bolo-trio-eletrico-como-sera-a-festa-de-aniversario-de-lula-no-alvorada"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/politica/lula-reune-durigan-e-moretti-apos-bolsa-cair-e-dolar-disparar-com-reeleicao/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/posse-de-lula-sera-em-5-de-janeiro"
       }
      ]
     },
@@ -403,9 +399,33 @@
    "nota": "Mercado e indicadores",
    "itens": [
     {
+     "kicker": "Mercado",
+     "quando": "Hoje",
+     "titulo": "Ibovespa cai 0,51% e dólar recua a R$ 5,35 em dia de acomodação após o tombo",
+     "resumo": "A bolsa fechou em 175.710 pontos, depois de oscilar entre 175.130 e 178.526, com Petrobras (−2,02%) e Vale (−2,14%) pressionadas por petróleo e minério em baixa. O dólar perdeu 0,97%, em parte por realização de lucros após a alta de 8,21% de segunda. Analistas citados pela InfoMoney dizem que o mercado espera a escolha do ministro da Fazenda e sinais concretos sobre as contas públicas.",
+     "foto": {
+      "src": "fotos/real.jpg",
+      "credito": "José Cruz/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "InfoMoney",
+       "u": "https://infomoney.com.br/mercados/ibovespa-tem-queda-modesta-em-dia-de-acomodacao-apos-tombo-incertezas-persistem"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-051-dolar-recua-535-cautela-eleicao/"
+      },
+      {
+       "n": "B3 Bora Investir",
+       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cede-051-puxado-por-minerio-de-ferro-e-petroleo-em-baixa-dolar-cai-a-r-535/"
+      }
+     ]
+    },
+    {
      "kicker": "Contas públicas",
      "quando": "Hoje",
-     "titulo": "Durigan anuncia projeto de lei complementar para perseguir o centro da meta fiscal",
+     "titulo": "Durigan diz que governo enviará projeto de lei complementar para perseguir o centro da meta fiscal",
      "resumo": "Ao Broadcast, o ministro da Fazenda disse que a análise técnica indica que um projeto de lei complementar basta, sem emenda constitucional, e que a banda de tolerância da meta será mantida. Ele afirmou ter conversado com agentes do mercado e que outras medidas fiscais estão em estudo. Na véspera, o presidente do PT, Edinho Silva, disse que Lula escolherá o novo ministro até o fim do ano.",
      "fontes": [
       {
@@ -419,6 +439,22 @@
       {
        "n": "A Crítica",
        "u": "https://acritica.net/politica/lula-escolhera-ministro-da-fazenda-ate-o-fim-do-ano-e-mantera-meta-fiscal-diz-edinho/"
+      }
+     ]
+    },
+    {
+     "kicker": "Juros nos EUA",
+     "quando": "Hoje",
+     "titulo": "Fed decide juros na quarta; analistas esperam manutenção entre 3,75% e 4%",
+     "resumo": "Com o PCE em 3,8% em agosto e o Brent acima de US$ 110, analistas ouvidos pelo BPMoney projetam pausa agora e possível nova alta em dezembro ou no início de 2027. O banco central americano subiu os juros em setembro.",
+     "fontes": [
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/fed-deve-manter-juros-em-outubro-mas-analistas-preveem-novas-altas/"
+      },
+      {
+       "n": "Suno",
+       "u": "https://www.suno.com.br/noticias/fed-juros-analistas-alta-dezembro/"
       }
      ]
     },
@@ -453,51 +489,6 @@
        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-enviara-mp-do-imposto-seletivo-e-renova-subvencao-ao-diesel"
       }
      ]
-    },
-    {
-     "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Dólar tem a maior alta diária desde 1999 e Ibovespa cai 13,88%",
-     "resumo": "A moeda americana fechou a R$ 5,403, alta de 8,21%, depois de chegar a R$ 5,60. O Ibovespa encerrou em 176.608 pontos, o menor nível desde 31 de agosto, com volume de R$ 88,6 bilhões. Em outubro, a bolsa acumula queda de 5,22%.",
-     "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     },
-     "destaque": false,
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-26-outubro-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Tesouro e juros",
-     "quando": "Ontem",
-     "titulo": "Tesouro recompra R$ 7,1 bilhões em títulos; juros longos fecham perto de 15,2%",
-     "resumo": "Depois de cancelar os leilões de prefixados e de títulos ligados à inflação desta semana, o Tesouro recomprou papéis prefixados de 5, 7 e 10 anos. O DI para janeiro de 2029 fechou em 15,25%, alta de 2,66 pontos; na sexta, a curva de juros estava invertida.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/juros-futuros-sobem-mais-de-260-pontos-base-apos-vitoria-de-lula/"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/live-blog/invest/bolsa-dolar-mercado-26-outubro-apos-eleicoes/"
-      }
-     ]
     }
    ]
   },
@@ -510,8 +501,8 @@
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Chuva forte atinge áreas agrícolas do Centro-Oeste e do Norte; risco de temporal segue até quarta",
-     "resumo": "Segundo o Inmet, uma frente fria no litoral sul da Bahia forma um corredor de umidade que leva pancadas a Rondônia, Mato Grosso, Tocantins, Goiás, DF, norte de Minas e partes do Nordeste, com alerta amarelo para chuva de até 30 mm por hora e ventos de até 60 km/h. No Sul, a manhã teve frio e chance de geada nas serras; Teresina pode chegar a 40 °C.",
+     "titulo": "Temporais atingem Centro-Oeste, Norte e Minas; Inmet mantém alertas até quarta",
+     "resumo": "Um corredor de umidade leva pancadas a Rondônia, Mato Grosso, Tocantins, Goiás, DF e partes do Nordeste, com alerta amarelo para ventos de até 60 km/h; Brasília teve chuva forte à tarde. Em Minas, 186 cidades ficaram sob alerta para até 50 mm em 24 horas e possibilidade de granizo, segundo O Tempo. Teresina pode chegar a 40 °C.",
      "fontes": [
       {
        "n": "Agência Brasil",
@@ -520,6 +511,10 @@
       {
        "n": "Inmet",
        "u": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-ter%C3%A7a-feira-27-e-quarta-feira-28"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://otempo.com.br/cidades/2026/10/27/inmet-coloca-186-cidades-de-minas-sob-alerta-para-chuvas-intensas-nesta-terca-feira"
       }
      ],
      "foto": {
@@ -531,7 +526,7 @@
      "kicker": "Loteria",
      "quando": "Hoje",
      "titulo": "Mega-Sena acumula e sorteia R$ 305 milhões nesta terça",
-     "resumo": "Ninguém acertou as seis dezenas do concurso 3.075 (07, 10, 14, 27, 36, 55); 182 apostas fizeram a quina. O próximo sorteio, o segundo da semana especial, é às 21h, com apostas até as 20h.",
+     "resumo": "Ninguém acertou as seis dezenas do concurso 3.075 na segunda. O sorteio desta terça, às 21h, paga o segundo maior prêmio de um concurso regular da história da loteria.",
      "foto": {
       "src": "fotos/megasena.jpg",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
@@ -544,12 +539,16 @@
       {
        "n": "Diário do Nordeste",
        "u": "https://diariodonordeste.verdesmares.com.br/loterias/veja-o-resultado-da-mega-sena-3075-desta-segunda-feira-2610-premio-e-de-r-3000-milhoes-1.3801624"
+      },
+      {
+       "n": "BNLData",
+       "u": "https://bnldata.com.br/mega-sena-de-r-305-milhoes-segundo-maior-premio-de-um-concurso-regular-da-historia-da-loteria-sera-sorteado-nesta-terca-feira/"
       }
      ]
     },
     {
      "kicker": "Segurança",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Força Nacional vai reforçar segurança na fronteira com a Colômbia",
      "resumo": "Os agentes atuarão com a Polícia Federal em Tabatinga (AM) por 90 dias, segundo portaria publicada hoje no Diário Oficial. A região é rota de tráfico de drogas, contrabando e crimes ambientais.",
      "foto": {
@@ -590,26 +589,26 @@
     {
      "kicker": "Israel",
      "quando": "Hoje",
-     "titulo": "Israel vota com disputa apertada entre Netanyahu e Eisenkot; urnas fecham às 17h de Brasília",
-     "resumo": "Cerca de 7,3 milhões de eleitores escolhem os 120 deputados do Knesset, na primeira eleição desde os ataques do Hamas de 2023. As pesquisas não dão os 61 assentos necessários a nenhum dos blocos, e analistas não descartam nova eleição. O partido Yashar!, de Eisenkot, apresentou queixa à Comissão Eleitoral alegando manipulação de cédulas; o resultado oficial sai em 4 de novembro.",
+     "titulo": "Bocas de urna em Israel indicam Likud à frente, mas nenhum bloco com maioria",
+     "resumo": "Projeções dos canais 11, 12 e 13 dão de 52 a 53 cadeiras à oposição e 50 ao bloco de Netanyahu, abaixo das 61 necessárias; o i24NEWS vê 55 para o governo. O Likud teria 24 ou 25 cadeiras, e o Yashar!, de Gadi Eisenkot, de 21 a 23; partidos árabes podem ser decisivos. A participação foi a maior em décadas, e a contagem deve terminar em 30 de outubro.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/israel-vai-as-urnas-em-eleicao-acirrada-entre-netanyahu-e-oposicao"
+       "n": "Montevideo Portal",
+       "u": "https://www.montevideo.com.uy/Noticias/Elecciones-en-Israel-Netanyahu-y-Eisenkot-quedaron-sin-mayoria-segun-boca-de-urna-uc980111"
       },
       {
-       "n": "EFE / Infobae",
-       "u": "https://infobae.com/america/agencias/2026/10/27/temas-del-dia-de-efe-internacional-del-martes-27-de-octubre-1200-gmt"
+       "n": "MDZ",
+       "u": "https://www.mdzol.com/mundo/2026/10/27/israel-vota-en-unas-elecciones-clave-para-el-futuro-politico-de-benjamin-netanyahu-1990988.html"
       },
       {
-       "n": "Al Jazeera",
-       "u": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next"
+       "n": "Infobae",
+       "u": "https://www.infobae.com/america/mundo/2026/10/27/en-vivo-elecciones-parlamentarias-en-israel/"
       }
      ]
     },
     {
      "kicker": "Estados Unidos",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Trump diz que eleição brasileira \"pareceu fraudada\", mas afirma gostar de Lula",
      "resumo": "Questionado por jornalistas, o presidente americano criticou a prorrogação do horário de votação, sem apresentar provas de fraude, e disse que não tomou partido. A Casa Branca ainda não reconheceu oficialmente o resultado; ao menos 48 chefes de governo já cumprimentaram Lula, segundo o Poder360.",
      "lados": [
@@ -666,36 +665,22 @@
      ]
     },
     {
-     "kicker": "Venezuela",
-     "quando": "Ontem",
-     "titulo": "Delcy Rodríguez critica retorno de María Corina; oposição pede lugar no diálogo",
-     "resumo": "A presidente interina disse que a volta da líder opositora, recebida por multidões entre Barquisimeto e Caracas, foi um espetáculo desnecessário. O diálogo com apoio dos EUA começou em agosto sem a participação de Machado.",
-     "lados": [
-      {
-       "quem": "Delcy Rodríguez",
-       "txt": "Afirma que o retorno poderia ter sido feito sem alarde e que o diálogo deve seguir como espaço de convivência democrática."
-      },
-      {
-       "quem": "Vente Venezuela",
-       "txt": "Diz que Machado aceita sentar com o governo com pauta clara e cobra eleições em 2027."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "EFE / Swissinfo",
-       "u": "https://www.swissinfo.ch/por/delcy-rodr%C3%ADguez-acusa-mar%C3%ADa-corina-machado-de-fazer-um-%22show%22-com-retorno-%C3%A0-venezuela/92278274"
-      },
-      {
-       "n": "CNN",
-       "u": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl"
-      }
-     ]
-    },
-    {
      "kicker": "Ucrânia",
      "quando": "Hoje",
      "titulo": "Rússia e Ucrânia fazem cessar-fogo local em Kherson com mediação dos EUA",
      "resumo": "Segundo a EFE, os exércitos dos dois países acertaram uma trégua restrita à área de Oleshki, no sul da Ucrânia. Vladimir Putin disse que uma paz duradoura depende de que os interesses russos sejam levados em conta.",
+     "fontes": [
+      {
+       "n": "EFE / Infobae",
+       "u": "https://infobae.com/america/agencias/2026/10/27/temas-del-dia-de-efe-internacional-del-martes-27-de-octubre-1200-gmt"
+      }
+     ]
+    },
+    {
+     "kicker": "Oriente Médio",
+     "quando": "Hoje",
+     "titulo": "Síria condena bombardeios da Jordânia em seu território após atentado contra igreja",
+     "resumo": "Amã diz ter matado mais de 20 integrantes do Estado Islâmico em represália ao ataque; fontes sírias relatam ao menos três crianças mortas. Damasco classificou a ação como inaceitável, segundo a EFE.",
      "fontes": [
       {
        "n": "EFE / Infobae",
@@ -715,21 +700,25 @@
      "kicker": "Agenda",
      "quando": "Hoje",
      "titulo": "Ceará recebe o Goiás pela Série B; Brasileirão volta na quarta com Santos x Palmeiras",
-     "resumo": "O único jogo de time brasileiro nesta terça é Ceará x Goiás, às 20h, pela Série B. A 33ª rodada da Série A começa na quarta; o Palmeiras visita o Santos na Vila Belmiro às 19h30 e, no domingo, recebe o Vasco na ida da semifinal da Copa do Brasil. A final da Libertadores, contra o Estudiantes, será em 28 de novembro, em Montevidéu.",
+     "resumo": "O jogo, às 20h na Arena Castelão, fecha a 35ª rodada da Série B. Na quarta, o Santos recebe o vice-líder Palmeiras na Vila Belmiro, às 19h30, na abertura da 33ª rodada da Série A.",
      "fontes": [
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-27-10-2026.html"
+       "n": "Estadão",
+       "u": "https://paiquerefm.com.br/estadao/ceara-e-goias-fecham-a-35a-rodada-da-serie-b-em-duelo-de-opostos-na-arena-castelao/"
       },
       {
        "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-classico-e-virada-de-chave-semifinal-copa-do-brasil/"
+       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-x-palmeiras-onde-assistir-horario-brasileirao-2026/"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-27-10-2026.html"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Flamengo vence o Atlético-MG nos acréscimos e volta à liderança",
      "resumo": "Carrascal converteu um pênalti no último lance e fechou o 3 a 2 no Maracanã; Plata e Arrascaeta marcaram os outros gols, e Bernard e Renan Lodi fizeram os do Atlético. O Flamengo tem 70 pontos, um a mais que o Palmeiras, a seis rodadas do fim.",
      "fontes": [
@@ -745,7 +734,7 @@
     },
     {
      "kicker": "Brasileirão",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Grêmio vence o Coritiba no fim e deixa o Corinthians em 18º",
      "resumo": "Braithwaite marcou de cabeça aos 46 minutos do segundo tempo no Couto Pereira. Com 34 pontos, o Grêmio segue no Z-4, em 17º, um ponto atrás do Internacional; o Corinthians tem 33. A 33ª rodada começa na quarta-feira.",
      "fontes": [
@@ -765,7 +754,7 @@
     },
     {
      "kicker": "Bola de Ouro",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Harry Kane e Alexia Putellas ganham a Bola de Ouro",
      "resumo": "O atacante inglês do Bayern ganhou o prêmio pela primeira vez, depois de 73 gols na temporada; a espanhola chegou ao terceiro. Vinícius Júnior ficou em 17º, e o Flamengo perdeu o prêmio de time do ano para o PSG.",
      "fontes": [
@@ -796,8 +785,24 @@
    "nota": "",
    "itens": [
     {
-     "kicker": "Dengue",
+     "kicker": "Anvisa",
      "quando": "Ontem",
+     "titulo": "Anvisa aprova novo remédio para câncer de pulmão avançado",
+     "resumo": "O sugemalimabe, um anticorpo que ajuda o sistema imune a atacar o tumor, foi registrado para uso inicial com quimioterapia em adultos com câncer de pulmão de células não pequenas metastático sem certas alterações genéticas. A análise usou como referência a avaliação da agência europeia de medicamentos.",
+     "fontes": [
+      {
+       "n": "Anvisa",
+       "u": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/novo-medicamento-para-cancer-de-pulmao-e-aprovado-pela-anvisa"
+      },
+      {
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/2026/10/20/medicina-e-saude/anvisa-aprova-novo-remedio-contra-cancer-de-pulmao-brasil-e-o-2-pais-a-liberar-terapia"
+      }
+     ]
+    },
+    {
+     "kicker": "Dengue",
+     "quando": "26/10",
      "titulo": "Mais de 3 milhões de adolescentes ainda precisam da segunda dose da vacina contra a dengue",
      "resumo": "Segundo o Ministério da Saúde, 7,6 milhões de jovens de 10 a 14 anos tomaram a primeira dose, mas só 4,2 milhões completaram o esquema. Quase 4 milhões de doses distribuídas aos municípios não foram aplicadas, e o ministério teme um verão com mais casos por causa do El Niño.",
      "foto": {
@@ -817,7 +822,7 @@
     },
     {
      "kicker": "Anvisa",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Anvisa manda recolher picolé com melatonina e suplemento de proteína",
      "resumo": "A agência suspendeu a venda e mandou recolher um picolé que leva melatonina e inositol, substâncias permitidas só em suplementos, e todos os lotes de um suplemento com proteína de fava não autorizada, que também trazia propaganda considerada irregular. Quem comprou deve evitar o consumo e procurar o fabricante ou o local da compra.",
      "fontes": [
@@ -850,22 +855,6 @@
        "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/saude-inicia-oferta-de-novos-medicamentos-oncologicos-no-sus"
       }
      ]
-    },
-    {
-     "kicker": "Vacinação",
-     "quando": "23/10",
-     "titulo": "Só 5% das crianças pequenas têm as três doses da vacina contra covid",
-     "resumo": "A doença causou mais de mil internações e 25 mortes de crianças e adolescentes em 2026. O Ministério da Saúde diz ter estoque e atribui a baixa adesão à desinformação sobre a vacina.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/desinformacao-faz-com-que-so-5-das-criancas-sejam-protegidas-da-covid"
-      }
-     ]
     }
    ]
   },
@@ -877,7 +866,7 @@
    "itens": [
     {
      "kicker": "Enem",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Enem será em 8 e 15 de novembro; portões fecham às 13h",
      "resumo": "É preciso levar documento original com foto e caneta preta de corpo transparente. No primeiro dia, a prova traz redação, linguagens e ciências humanas.",
      "foto": {
@@ -896,8 +885,24 @@
      ]
     },
     {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Inep libera consulta aos locais de prova do Enem",
+     "resumo": "O cartão de confirmação da inscrição, com endereço e horário, já pode ser acessado na Página do Participante. As provas serão em 8 e 15 de novembro, com portões fechando às 13h.",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365338/enem-2026-inep-divulga-locais-de-prova-saiba-como-consultar"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/para/inep-libera-consulta-aos-locais-de-prova-do-enem-2026-1.1187494"
+      }
+     ]
+    },
+    {
      "kicker": "Leitura",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Biblioteca digital do MEC passa de 1 milhão de empréstimos e dobra limite mensal",
      "resumo": "O MEC Livros, lançado em abril, tem mais de 25 mil obras e 1,3 milhão de usuários. Cada CPF agora pode pegar até quatro títulos protegidos por direito autoral por mês; os de domínio público seguem sem limite.",
      "fontes": [
@@ -909,7 +914,7 @@
     },
     {
      "kicker": "Fies",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Fies abre inscrições para 50 mil vagas remanescentes até 3 de novembro",
      "resumo": "Metade das vagas é do Fies Social, para famílias com renda de até meio salário mínimo por pessoa. É preciso ter feito o Enem a partir de 2010 com média mínima de 450 pontos; o resultado sai em 16 de novembro.",
      "fontes": [
@@ -925,7 +930,7 @@
     },
     {
      "kicker": "Ciência nas escolas",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Semana Nacional de Ciência e Tecnologia começa com o tema Ciência Delas",
      "resumo": "Até 1º de novembro, escolas, universidades e institutos fazem atividades sobre a participação das mulheres na pesquisa.",
      "fontes": [
@@ -945,7 +950,7 @@
    "itens": [
     {
      "kicker": "Clima e florestas",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Países Baixos anunciam US$ 500 milhões para o fundo de florestas tropicais proposto pelo Brasil",
      "resumo": "O aporte ao TFFF será pago ao longo de dez anos. O fundo, lançado na COP30, paga países que mantêm o desmatamento abaixo de limites medidos por satélite e quer reunir ao menos US$ 125 bilhões, a maior parte do setor privado.",
      "foto": {
@@ -961,7 +966,7 @@
     },
     {
      "kicker": "Inteligência artificial",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Anthropic pede registro para abrir capital na Nasdaq",
      "resumo": "A empresa que desenvolve o Claude apresentou o prospecto de oferta pública com o código ANT. O documento mostra receita de cerca de US$ 16,3 bilhões no primeiro semestre e prejuízo líquido de US$ 80,7 bilhões, a maior parte ligada à reavaliação de instrumentos de financiamento. Não há data definida para a estreia.",
      "fontes": [
@@ -1045,7 +1050,7 @@
     },
     {
      "kicker": "Obituário",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Morre aos 90 anos Walter Koenig, o Chekov de Jornada nas Estrelas",
      "resumo": "O ator morreu em casa, em Los Angeles, segundo seu agente. Ele interpretou o navegador russo na série original e em sete filmes, e também atuou em Babylon 5.",
      "fontes": [
@@ -1061,7 +1066,7 @@
     },
     {
      "kicker": "Música",
-     "quando": "Ontem",
+     "quando": "26/10",
      "titulo": "Belchior faria 80 anos; data teve documentários, livros e programação especial",
      "resumo": "O documentário Alucinação, que percorre o disco de 1976 faixa a faixa, estreou na Mostra de São Paulo, e a filha caçula do cantor lançou um filme com depoimentos de amigos e parceiros. Uma antologia marca os 50 anos do álbum, e emissoras públicas exibem entrevistas raras.",
      "fontes": [
