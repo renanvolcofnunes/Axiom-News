@@ -1,34 +1,34 @@
 {
  "data": "Terça-feira, 27 de outubro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "27/10/2026 · 07h04 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 26/10, 17h15",
- "fontes": 35,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "27/10/2026 · 12h56 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 12h43",
+ "fontes": 44,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 26/10",
-   "valor": "176.608 pts",
-   "var": "−13,88%",
+   "nome": "Ibovespa · 12h43",
+   "valor": "176.979 pts",
+   "var": "+0,21%",
+   "dir": "up"
+  },
+  {
+   "nome": "Dólar comercial · 12h43",
+   "valor": "R$ 5,333",
+   "var": "−1,51%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · fechamento 26/10",
-   "valor": "R$ 5,403",
-   "var": "+8,21%",
-   "dir": "up"
+   "nome": "DI jan/2029 · 9h15",
+   "valor": "15,13%",
+   "var": "−0,12 p.p.",
+   "dir": "down"
   },
   {
-   "nome": "DI jan/2029 · 26/10",
-   "valor": "15,25%",
-   "var": "+2,66 p.p.",
-   "dir": "up"
-  },
-  {
-   "nome": "Petróleo Brent · 27/10, manhã",
-   "valor": "US$ 111,54",
-   "var": "+0,7%",
-   "dir": "up"
+   "nome": "Selic · taxa atual",
+   "valor": "13,75%",
+   "var": "",
+   "dir": ""
   },
   {
    "nome": "Selic projetada fim de 2026 · Focus",
@@ -81,28 +81,28 @@
  },
  "agenda": [
   {
-   "hora": "11h",
-   "txt": "Galípolo apresenta o Relatório de Estabilidade Financeira; às 11h30, BC faz leilão de swap de até US$ 4 bi",
-   "cat": "economia"
+   "hora": "17h",
+   "txt": "Festa aberta ao público pelos 81 anos de Lula em frente ao Palácio da Alvorada",
+   "cat": "politica"
   },
   {
-   "hora": "Até 17h",
-   "txt": "Israel vota para o Parlamento; boca de urna sai após o fechamento (horário de Brasília)",
+   "hora": "17h",
+   "txt": "Fecham as urnas em Israel; bocas de urna saem a partir das 22h locais",
    "cat": "mundo"
   },
   {
-   "hora": "21h",
-   "txt": "Mega-Sena sorteia prêmio estimado em R$ 305 milhões",
-   "cat": "brasil"
+   "hora": "20h",
+   "txt": "Ceará x Goiás pela Série B; às 21h, Mega-Sena sorteia R$ 305 milhões",
+   "cat": "esporte"
   },
   {
    "hora": "Qua 28",
-   "txt": "Começa a 33ª rodada do Brasileirão",
+   "txt": "Começa a 33ª rodada do Brasileirão, com Santos x Palmeiras às 19h30",
    "cat": "esporte"
   },
   {
    "hora": "Qui 29",
-   "txt": "Fim da 50ª Mostra de Cinema de São Paulo e das inscrições do Mais Médicos Especialistas",
+   "txt": "Premiação e encerramento da 50ª Mostra de Cinema de São Paulo; fim das inscrições do Mais Médicos Especialistas",
    "cat": "cultura"
   },
   {
@@ -205,43 +205,43 @@
  ],
  "manchete": {
   "kicker": "Mercado",
-  "titulo": "Depois do maior tombo desde 2020, mercado aguarda Galípolo e sinais sobre a Fazenda",
-  "resumo": "O Ibovespa fechou a segunda-feira com queda de 13,88% e o dólar subiu 8,21%, a maior alta diária desde janeiro de 1999. Nesta manhã, o fundo de índice brasileiro negociado em Nova York subia antes da abertura, e o presidente do Banco Central fala às 11h.",
+  "titulo": "Dólar recua para R$ 5,33 e Bolsa oscila no dia seguinte ao tombo; Fazenda promete projeto pelo centro da meta",
+  "resumo": "Depois de subir mais de 8% na segunda, o dólar caía 1,5% no fim da manhã, enquanto o Ibovespa alternava altas e quedas perto dos 177 mil pontos. O ministro Dario Durigan disse que o governo enviará um projeto de lei complementar para fixar o compromisso com o centro da meta fiscal.",
   "foto": {
    "src": "fotos/real.jpg",
    "credito": "José Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "A reação veio no primeiro pregão após a reeleição de Lula, com o circuit breaker acionado na abertura e o Tesouro recomprando títulos para conter os juros. Analistas ligam a queda à incerteza sobre a política fiscal do quarto mandato. Na segunda, o presidente do PT, Edinho Silva, disse ao Broadcast que Lula escolherá o ministro da Fazenda até o fim do ano e não abrirá mão da meta de superávit; o ministro Dario Durigan afirmou que o governo pretende mudar a lei, ou a Constituição, para mirar o centro da meta ainda em 2026. Nesta terça, o BC apresenta o Relatório de Estabilidade Financeira e faz leilão de rolagem de swaps de até US$ 4 bilhões.",
+  "entenda": "Na segunda, primeiro pregão após a reeleição de Lula, o Ibovespa caiu 13,88%, a maior queda diária desde março de 2020, e o dólar teve a maior alta em mais de duas décadas; analistas atribuíram o movimento ao desmonte de apostas na vitória de Flávio Bolsonaro e às dúvidas sobre a política fiscal do quarto mandato. Na noite de segunda, Lula reuniu no Alvorada os ministros Durigan (Fazenda) e Bruno Moretti (Planejamento). Nesta terça, Durigan atribuiu a reação a uma troca de posições, e não a descrença nas contas públicas. O presidente do BC, Gabriel Galípolo, disse que o banco atuará no câmbio se houver disfuncionalidade, o que, segundo ele, não é o caso agora. O comando da Fazenda no novo mandato segue indefinido.",
   "fatos": [
-   "O dólar chegou a R$ 5,60 pela manhã de segunda e fechou a R$ 5,403; no ano, ainda acumula queda de 1,57%.",
-   "O Ibovespa terminou em 176.608 pontos, com volume de R$ 88,6 bilhões, mais de três vezes a média diária.",
-   "Nos EUA, o S&P 500 subiu 0,7% na segunda; na Ásia, Tóquio avançou 1,7% e Seul, 3,1% nesta terça."
+   "Às 12h43, o Ibovespa subia 0,21%, a 176.979 pontos, depois de chegar a avançar cerca de 1% na abertura; o dólar caía 1,51%, a R$ 5,333.",
+   "Citi e BCA Research rebaixaram a recomendação para ativos brasileiros, citando dúvidas sobre disciplina fiscal e reformas.",
+   "O Relatório de Estabilidade Financeira do BC mostrou 20,3 milhões de endividados de risco, alta de 75% em cinco anos; o banco afirma que não há risco relevante ao sistema."
   ],
   "fontes": [
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula",
-    "d": "Fechamento de segunda"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/",
+    "d": "Pregão desta terça"
    },
    {
     "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/",
-    "d": "Agenda desta terça"
+    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/",
+    "d": "Falas de Galípolo"
    },
    {
-    "n": "A Crítica / Broadcast",
-    "u": "https://acritica.net/politica/lula-escolhera-ministro-da-fazenda-ate-o-fim-do-ano-e-mantera-meta-fiscal-diz-edinho/",
-    "d": "Edinho sobre a Fazenda"
+    "n": "Diário do Grande ABC / Broadcast",
+    "u": "https://www.dgabc.com.br/Noticia/4365253/durigan-diz-que-governo-fara-plp-para-perseguir-centro-da-meta-fiscal",
+    "d": "Projeto pela meta fiscal"
    },
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-26-outubro-2026/",
-    "d": "Reação do mercado"
+    "n": "Correio Braziliense",
+    "u": "https://www.correiobraziliense.com.br/economia/2026/10/7528617-dolar-recua-apos-disparada-e-bolsa-abre-esta-terca-feira-27-em-alta.html",
+    "d": "Abertura do mercado"
    },
    {
-    "n": "AP",
-    "u": "https://www.clickondetroit.com/business/2026/10/27/asian-stocks-advance-following-a-rally-on-wall-street-and-oil-prices-fall/",
-    "d": "Bolsas no exterior"
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/economia/bc-endividamento-de-risco-avanca-75-em-cinco-anos",
+    "d": "Endividamento das famílias"
    }
   ]
  },
@@ -252,6 +252,44 @@
    "cor": "--pol",
    "nota": "Brasil",
    "itens": [
+    {
+     "kicker": "STF e Polícia Federal",
+     "quando": "Hoje",
+     "titulo": "PF apura relato de que Flávio deixou o país; Argentina nega entrada e aliados dizem que ele está no Brasil",
+     "resumo": "O site argentino Infobae publicou de madrugada que o senador teria cruzado a fronteira para embarcar num jato rumo aos EUA; a PF checa postos de fronteira e o governo brasileiro acionou as autoridades argentinas. Segundo Folha e O Globo, não há registro da passagem dele por postos regulares de migração. O prazo de 24 horas para a entrega dos passaportes, determinada por Alexandre de Moraes em inquérito sigiloso sobre lavagem de dinheiro, terminou nesta terça sem confirmação da entrega.",
+     "lados": [
+      {
+       "quem": "Flávio e aliados",
+       "txt": "Em vídeo na segunda, Flávio disse que nunca pensou em sair do país, que entregaria os passaportes e chamou a medida de tentativa de intimidação. Rogério Marinho, coordenador da campanha, negou a saída."
+      },
+      {
+       "quem": "Investigação e governo argentino",
+       "txt": "A decisão de Moraes, pedida por três deputados, cita fala de Eduardo Bolsonaro defendendo que o irmão deixasse o país se perdesse. A Casa Rosada diz que não há registro de entrada e que um jato vistoriado em Iguazú não tinha plano de voo com a família Bolsonaro."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/pf-aciona-argentina-por-temor-de-fuga-de-flavio/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/brasil/policia/pf-apura-se-flavio-bolsonaro-deixou-o-brasil-apos-relato-de-site-argentino,c99f6a0890e385b6591e14f88937a02ct0f4g9a2.html"
+      },
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/10/27/pf-rastreia-fronteiras-e-aciona-argentina-para-saber-se-flavio-bolsonaro-deixou-o-pais-aliados-negam/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais"
+      }
+     ]
+    },
     {
      "kicker": "Justiça Eleitoral",
      "quando": "Hoje",
@@ -287,6 +325,31 @@
      ]
     },
     {
+     "kicker": "Governo",
+     "quando": "Hoje",
+     "titulo": "Lula faz 81 anos com festa no Alvorada; Fonteles é citado para a Fazenda",
+     "resumo": "O PT organiza uma comemoração aberta ao público às 17h em frente ao Palácio da Alvorada, com discurso do presidente em um pequeno trio elétrico. Segundo a Folha, Lula sinalizou preferência pelo governador reeleito do Piauí, Rafael Fonteles, para a Fazenda; nada foi anunciado. A posse do quarto mandato será em 5 de janeiro.",
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil"
+     },
+     "destaque": false,
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/bolo-trio-eletrico-como-sera-a-festa-de-aniversario-de-lula-no-alvorada"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/lula-reune-durigan-e-moretti-apos-bolsa-cair-e-dolar-disparar-com-reeleicao/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/posse-de-lula-sera-em-5-de-janeiro"
+      }
+     ]
+    },
+    {
      "kicker": "Oposição",
      "quando": "Ontem",
      "titulo": "PL reconhece a vitória de Lula; TSE nega que fiscais do partido tenham sido retirados",
@@ -316,31 +379,6 @@
      ]
     },
     {
-     "kicker": "Governo",
-     "quando": "Ontem",
-     "titulo": "Lula começa a montar o quarto mandato; posse será em 5 de janeiro",
-     "resumo": "No Alvorada, o presidente recebeu Hugo Motta e Davi Alcolumbre e tratou de política externa com o chanceler Mauro Vieira; nenhuma decisão foi anunciada. Pela emenda constitucional de 2021, a posse passa a ser em 5 de janeiro, e a dos governadores no dia 6. Alckmin, Camilo Santana, Haddad e Gleisi Hoffmann aparecem entre os nomes citados nas conversas sobre a nova equipe.",
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil"
-     },
-     "destaque": false,
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/posse-de-lula-sera-em-5-de-janeiro"
-      },
-      {
-       "n": "Maringá Post",
-       "u": "https://maringapost.com.br/2026/10/27/lula-reune-aliados-para-definir-os-rumos-do-quarto-mandato/"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/politica/lula-plano-quarto-mandato-motta-alcolumbre-alvorada/"
-      }
-     ]
-    },
-    {
      "kicker": "Estados",
      "quando": "Ontem",
      "titulo": "Oito partidos vão governar os 26 estados e o DF a partir de janeiro",
@@ -355,40 +393,6 @@
        "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-oito-partidos-vao-comandar-26-estados-e-o-df"
       }
      ]
-    },
-    {
-     "kicker": "Crimes eleitorais",
-     "quando": "Ontem",
-     "titulo": "PF registra 86 casos de possíveis crimes eleitorais no segundo turno e apura falta de ônibus",
-     "resumo": "Os registros vieram de 21 estados, com Paraíba e Minas Gerais à frente; a maior parte envolve possível quebra do sigilo do voto e propaganda irregular. Os números são preliminares. A PF também investiga, em Sergipe e outros quatro estados, se a redução da frota de ônibus no domingo impediu eleitores de votar.",
-     "foto": {
-      "src": "fotos/onibus.jpg",
-      "credito": "Tomaz Silva/Agência Brasil"
-     },
-     "lados": [
-      {
-       "quem": "Quem pediu a prorrogação",
-       "txt": "A coligação de Lula alegou redução de ônibus em cidades da Bahia e de São Paulo. O PL pediu extensão no Sul por causa do clima."
-      },
-      {
-       "quem": "Quem criticou",
-       "txt": "Tarcísio de Freitas e Ricardo Nunes negaram falta de transporte em SP e questionaram o horário da decisão, tomada perto do fim da votação."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pf-registrou-no-2o-turno-86-casos-de-possiveis-crimes-eleitorais"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pf-investiga-se-problemas-na-circulacao-de-onibus-prejudicaram-eleitor"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/colunistas/beatriz-manfredini/tarcisio-critica-zanin-por-prorrogacao-da-votacao-mais-uma-decisao-monocratica/"
-      }
-     ]
     }
    ]
   },
@@ -399,14 +403,54 @@
    "nota": "Mercado e indicadores",
    "itens": [
     {
-     "kicker": "Banco Central",
+     "kicker": "Contas públicas",
      "quando": "Hoje",
-     "titulo": "Galípolo fala às 11h; BC faz leilão de swap de até US$ 4 bilhões",
-     "resumo": "O presidente do Banco Central apresenta o Relatório de Estabilidade Financeira em entrevista coletiva. Às 11h30, o BC oferece até US$ 4 bilhões em rolagem de swaps cambiais e, às 12h, uma operação compromissada de até R$ 5 bilhões. Antes da abertura, o principal fundo de ações brasileiras em Nova York e os recibos de Petrobras, Itaú e Bradesco subiam.",
+     "titulo": "Durigan anuncia projeto de lei complementar para perseguir o centro da meta fiscal",
+     "resumo": "Ao Broadcast, o ministro da Fazenda disse que a análise técnica indica que um projeto de lei complementar basta, sem emenda constitucional, e que a banda de tolerância da meta será mantida. Ele afirmou ter conversado com agentes do mercado e que outras medidas fiscais estão em estudo. Na véspera, o presidente do PT, Edinho Silva, disse que Lula escolherá o novo ministro até o fim do ano.",
      "fontes": [
       {
+       "n": "Diário do Grande ABC / Broadcast",
+       "u": "https://www.dgabc.com.br/Noticia/4365253/durigan-diz-que-governo-fara-plp-para-perseguir-centro-da-meta-fiscal"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/durigan-estresse-mercado-troca-posicao-reeleicao-lula/"
+      },
+      {
+       "n": "A Crítica",
+       "u": "https://acritica.net/politica/lula-escolhera-ministro-da-fazenda-ate-o-fim-do-ano-e-mantera-meta-fiscal-diz-edinho/"
+      }
+     ]
+    },
+    {
+     "kicker": "Banco Central",
+     "quando": "Hoje",
+     "titulo": "BC conta 20,3 milhões de endividados de risco; Galípolo diz que não vê motivo para agir no câmbio agora",
+     "resumo": "O Relatório de Estabilidade Financeira aponta alta de 75% desde 2021 no número de pessoas com sinais graves de aperto nas dívidas, e o comprometimento da renda com dívidas chegou a cerca de 38%, o maior da série. O BC estuda endurecer regras para as linhas de crédito mais arriscadas, mas diz que o sistema segue sólido. Na entrevista, Galípolo negou estar cotado para a Fazenda e lembrou que seu mandato vai até 2028.",
+     "fontes": [
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/economia/bc-endividamento-de-risco-avanca-75-em-cinco-anos"
+      },
+      {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/correcao-mercados-galipolo-leiloes-bc-agenda-27102026/"
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Tributos",
+     "quando": "Hoje",
+     "titulo": "Governo vai enviar MP com alíquotas do Imposto Seletivo e renova subsídio ao diesel",
+     "resumo": "Durigan disse que a medida provisória que define as alíquotas do tributo sobre produtos nocivos à saúde e ao meio ambiente deve ir ao Congresso provavelmente nesta semana; a cobrança começa em 2027. A subvenção de R$ 2,12 por litro de diesel foi renovada por um mês e pode ser prorrogada, segundo o Planejamento.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/8V8kf1Pi8PEgSP8u1odL_4gSlLU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/0d9a7467.jpg?itok=QyegqZyj",
+      "credito": "Lula Marques/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-enviara-mp-do-imposto-seletivo-e-renova-subvencao-ao-diesel"
       }
      ]
     },
@@ -436,22 +480,6 @@
      ]
     },
     {
-     "kicker": "Contas públicas",
-     "quando": "Ontem",
-     "titulo": "Fazenda quer mirar o centro da meta; PT diz que ministro sai até o fim do ano",
-     "resumo": "Dario Durigan disse ao Broadcast que o governo vai propor mudanças na lei, ou na Constituição se preciso, nos dois meses que restam de 2026, citando emendas, supersalários e aposentadorias especiais. O presidente do PT, Edinho Silva, afirmou que Lula manterá a meta de superávit e defendeu rever incentivos fiscais que, segundo ele, somam cerca de 4% do PIB.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/politica/durigan-vamos-fazer-alteracoes-para-buscar-o-centro-da-meta-fiscal-ainda-este-ano/"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/politica/lula-escolhera-ministro-da-fazenda-ate-o-fim-do-ano-e-mantera-meta-fiscal-diz-edinho/"
-      }
-     ]
-    },
-    {
      "kicker": "Tesouro e juros",
      "quando": "Ontem",
      "titulo": "Tesouro recompra R$ 7,1 bilhões em títulos; juros longos fecham perto de 15,2%",
@@ -470,18 +498,6 @@
        "u": "https://exame.com/live-blog/invest/bolsa-dolar-mercado-26-outubro-apos-eleicoes/"
       }
      ]
-    },
-    {
-     "kicker": "Exterior",
-     "quando": "Hoje",
-     "titulo": "Ásia sobe após alta em Wall Street; petróleo Brent passa de US$ 111",
-     "resumo": "Na segunda, o S&P 500 subiu 0,7% e o Nasdaq, 0,8%, puxados pela Nvidia. Nesta terça, Tóquio avançou 1,7% e Seul, 3,1%, enquanto Xangai e Hong Kong recuaram.",
-     "fontes": [
-      {
-       "n": "AP",
-       "u": "https://www.clickondetroit.com/business/2026/10/27/asian-stocks-advance-following-a-rally-on-wall-street-and-oil-prices-fall/"
-      }
-     ]
     }
    ]
   },
@@ -491,6 +507,26 @@
    "cor": "--bra",
    "nota": "Segurança, clima e cidades",
    "itens": [
+    {
+     "kicker": "Tempo",
+     "quando": "Hoje",
+     "titulo": "Chuva forte atinge áreas agrícolas do Centro-Oeste e do Norte; risco de temporal segue até quarta",
+     "resumo": "Segundo o Inmet, uma frente fria no litoral sul da Bahia forma um corredor de umidade que leva pancadas a Rondônia, Mato Grosso, Tocantins, Goiás, DF, norte de Minas e partes do Nordeste, com alerta amarelo para chuva de até 30 mm por hora e ventos de até 60 km/h. No Sul, a manhã teve frio e chance de geada nas serras; Teresina pode chegar a 40 °C.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuvas-atingem-importantes-areas-agricolas-nesta-terca-preve-inmet"
+      },
+      {
+       "n": "Inmet",
+       "u": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-ter%C3%A7a-feira-27-e-quarta-feira-28"
+      }
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/PIvJwUGOqnO277LQ44VwuUFlO9s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/v0030538.jpg?itok=oC1QD1mn",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
+     }
+    },
     {
      "kicker": "Loteria",
      "quando": "Hoje",
@@ -512,18 +548,18 @@
      ]
     },
     {
-     "kicker": "Tempo",
-     "quando": "Hoje",
-     "titulo": "Frente fria leva temporais ao Norte, Centro-Oeste e Bahia; Sul pode ter geada",
-     "resumo": "O Inmet mantém alerta amarelo para tempestades no Acre, em partes do Amazonas e do Tocantins, no sul do Piauí e do Maranhão, na Bahia e no DF. São Paulo deve ser a capital mais fria, com mínima de 11 °C, e há chance de geada fraca nas serras gaúcha e catarinense. Teresina pode chegar a 40 °C.",
+     "kicker": "Segurança",
+     "quando": "Ontem",
+     "titulo": "Força Nacional vai reforçar segurança na fronteira com a Colômbia",
+     "resumo": "Os agentes atuarão com a Polícia Federal em Tabatinga (AM) por 90 dias, segundo portaria publicada hoje no Diário Oficial. A região é rota de tráfico de drogas, contrabando e crimes ambientais.",
+     "foto": {
+      "src": "fotos/fronteira.jpg",
+      "credito": "Marcelo Camargo/Agência Brasil"
+     },
      "fontes": [
       {
-       "n": "Inmet",
-       "u": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-ter%C3%A7a-feira-27-e-quarta-feira-28"
-      },
-      {
-       "n": "GPS Brasília",
-       "u": "https://gpsbrasilia.com.br/brasilia-terca-feira-tempestades-maxima-31c/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/forca-nacional-reforcara-seguranca-na-fronteira-com-colombia"
       }
      ]
     },
@@ -542,22 +578,6 @@
        "u": "https://www.gazetadopovo.com.br/economia/dia-do-servidor-publico-quem-folga-em-28-de-outubro/"
       }
      ]
-    },
-    {
-     "kicker": "Segurança",
-     "quando": "Ontem",
-     "titulo": "Força Nacional vai reforçar segurança na fronteira com a Colômbia",
-     "resumo": "Os agentes atuarão com a Polícia Federal em Tabatinga (AM) por 90 dias, segundo portaria publicada hoje no Diário Oficial. A região é rota de tráfico de drogas, contrabando e crimes ambientais.",
-     "foto": {
-      "src": "fotos/fronteira.jpg",
-      "credito": "Marcelo Camargo/Agência Brasil"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/forca-nacional-reforcara-seguranca-na-fronteira-com-colombia"
-      }
-     ]
     }
    ]
   },
@@ -570,46 +590,20 @@
     {
      "kicker": "Israel",
      "quando": "Hoje",
-     "titulo": "Israel vota hoje com pesquisas sem maioria para Netanyahu nem para Eisenkot",
-     "resumo": "Cerca de 7,3 milhões de eleitores escolhem os 120 deputados do Knesset; as urnas ficam abertas até 17h de Brasília, e as bocas de urna saem em seguida. A média das últimas pesquisas dava cerca de 50 cadeiras ao bloco do premiê e 54 ao da oposição, abaixo das 61 necessárias. O resultado oficial está previsto para 4 de novembro.",
+     "titulo": "Israel vota com disputa apertada entre Netanyahu e Eisenkot; urnas fecham às 17h de Brasília",
+     "resumo": "Cerca de 7,3 milhões de eleitores escolhem os 120 deputados do Knesset, na primeira eleição desde os ataques do Hamas de 2023. As pesquisas não dão os 61 assentos necessários a nenhum dos blocos, e analistas não descartam nova eleição. O partido Yashar!, de Eisenkot, apresentou queixa à Comissão Eleitoral alegando manipulação de cédulas; o resultado oficial sai em 4 de novembro.",
      "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/israel-vai-as-urnas-em-eleicao-acirrada-entre-netanyahu-e-oposicao"
+      },
+      {
+       "n": "EFE / Infobae",
+       "u": "https://infobae.com/america/agencias/2026/10/27/temas-del-dia-de-efe-internacional-del-martes-27-de-octubre-1200-gmt"
+      },
       {
        "n": "Al Jazeera",
        "u": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/mundo/israel-eleicao-guerra-seguranca-coalizao-netanyahu-eisenkot/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/eleicao-de-israel-ultimas-pesquisas-apontam-que-netanyahu-nao-tera-maioria/"
-      }
-     ]
-    },
-    {
-     "kicker": "Venezuela",
-     "quando": "Ontem",
-     "titulo": "Delcy Rodríguez critica retorno de María Corina; oposição pede lugar no diálogo",
-     "resumo": "A presidente interina disse que a volta da líder opositora, recebida por multidões entre Barquisimeto e Caracas, foi um espetáculo desnecessário. O diálogo com apoio dos EUA começou em agosto sem a participação de Machado.",
-     "lados": [
-      {
-       "quem": "Delcy Rodríguez",
-       "txt": "Afirma que o retorno poderia ter sido feito sem alarde e que o diálogo deve seguir como espaço de convivência democrática."
-      },
-      {
-       "quem": "Vente Venezuela",
-       "txt": "Diz que Machado aceita sentar com o governo com pauta clara e cobra eleições em 2027."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "EFE / Swissinfo",
-       "u": "https://www.swissinfo.ch/por/delcy-rodr%C3%ADguez-acusa-mar%C3%ADa-corina-machado-de-fazer-um-%22show%22-com-retorno-%C3%A0-venezuela/92278274"
-      },
-      {
-       "n": "CNN",
-       "u": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl"
       }
      ]
     },
@@ -656,18 +650,56 @@
      ]
     },
     {
-     "kicker": "Sérvia",
-     "quando": "Ontem",
-     "titulo": "Vučić admite derrota e lista dos estudantes deve ter maioria no Parlamento da Sérvia",
-     "resumo": "Com base em amostra da apuração, o presidente estimou de 135 a 140 cadeiras para a Lista Estudantil e 105 para o partido governista. A eleição antecipada foi convocada após quase dois anos de protestos iniciados com o desabamento na estação de Novi Sad, em 2024.",
+     "kicker": "África",
+     "quando": "Hoje",
+     "titulo": "Surto de ebola no Congo passa de 10 mil casos e se aproxima de 5 mil mortes",
+     "resumo": "Os dados oficiais até domingo somam mais de 10.060 casos confirmados e 4.887 mortes desde maio, com transmissão em 8 das 26 províncias. É o segundo maior surto da doença já registrado. O vírus Bundibugyo não tem vacina aprovada, e um ensaio clínico com candidatas começou em 23 de outubro.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/movimento-liderado-por-estudantes-vence-eleicao-parlamentar-na-servia/"
+       "n": "HealthNews / Lusa",
+       "u": "https://healthnews.pt/2026/10/27/ebola-na-rdcongo-ultrapassa-10-mil-casos-e-aproxima-se-das-cinco-mil-mortes/"
       },
       {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/10/26/serbias-strongman-toppled-by-student-backed-movement"
+       "n": "EFE / Infobae",
+       "u": "https://infobae.com/america/agencias/2026/10/27/temas-del-dia-de-efe-internacional-del-martes-27-de-octubre-1200-gmt"
+      }
+     ]
+    },
+    {
+     "kicker": "Venezuela",
+     "quando": "Ontem",
+     "titulo": "Delcy Rodríguez critica retorno de María Corina; oposição pede lugar no diálogo",
+     "resumo": "A presidente interina disse que a volta da líder opositora, recebida por multidões entre Barquisimeto e Caracas, foi um espetáculo desnecessário. O diálogo com apoio dos EUA começou em agosto sem a participação de Machado.",
+     "lados": [
+      {
+       "quem": "Delcy Rodríguez",
+       "txt": "Afirma que o retorno poderia ter sido feito sem alarde e que o diálogo deve seguir como espaço de convivência democrática."
+      },
+      {
+       "quem": "Vente Venezuela",
+       "txt": "Diz que Machado aceita sentar com o governo com pauta clara e cobra eleições em 2027."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "EFE / Swissinfo",
+       "u": "https://www.swissinfo.ch/por/delcy-rodr%C3%ADguez-acusa-mar%C3%ADa-corina-machado-de-fazer-um-%22show%22-com-retorno-%C3%A0-venezuela/92278274"
+      },
+      {
+       "n": "CNN",
+       "u": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Rússia e Ucrânia fazem cessar-fogo local em Kherson com mediação dos EUA",
+     "resumo": "Segundo a EFE, os exércitos dos dois países acertaram uma trégua restrita à área de Oleshki, no sul da Ucrânia. Vladimir Putin disse que uma paz duradoura depende de que os interesses russos sejam levados em conta.",
+     "fontes": [
+      {
+       "n": "EFE / Infobae",
+       "u": "https://infobae.com/america/agencias/2026/10/27/temas-del-dia-de-efe-internacional-del-martes-27-de-octubre-1200-gmt"
       }
      ]
     }
@@ -679,6 +711,22 @@
    "cor": "--esp",
    "nota": "Futebol e outros esportes",
    "itens": [
+    {
+     "kicker": "Agenda",
+     "quando": "Hoje",
+     "titulo": "Ceará recebe o Goiás pela Série B; Brasileirão volta na quarta com Santos x Palmeiras",
+     "resumo": "O único jogo de time brasileiro nesta terça é Ceará x Goiás, às 20h, pela Série B. A 33ª rodada da Série A começa na quarta; o Palmeiras visita o Santos na Vila Belmiro às 19h30 e, no domingo, recebe o Vasco na ida da semifinal da Copa do Brasil. A final da Libertadores, contra o Estudiantes, será em 28 de novembro, em Montevidéu.",
+     "fontes": [
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-27-10-2026.html"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-classico-e-virada-de-chave-semifinal-copa-do-brasil/"
+      }
+     ]
+    },
     {
      "kicker": "Brasileirão",
      "quando": "Ontem",
@@ -768,14 +816,14 @@
      ]
     },
     {
-     "kicker": "Oncologia",
-     "quando": "20/10",
-     "titulo": "SUS passa a oferecer nove novos remédios contra o câncer",
-     "resumo": "Os medicamentos, como abemaciclibe para câncer de mama e abiraterona para próstata, cobrem 13 tratamentos e devem atender mais de 116 mil pacientes. O custo anual de compra é estimado em R$ 155,4 milhões, segundo o Ministério da Saúde.",
+     "kicker": "Anvisa",
+     "quando": "Ontem",
+     "titulo": "Anvisa manda recolher picolé com melatonina e suplemento de proteína",
+     "resumo": "A agência suspendeu a venda e mandou recolher um picolé que leva melatonina e inositol, substâncias permitidas só em suplementos, e todos os lotes de um suplemento com proteína de fava não autorizada, que também trazia propaganda considerada irregular. Quem comprou deve evitar o consumo e procurar o fabricante ou o local da compra.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/saude-inicia-oferta-de-novos-medicamentos-oncologicos-no-sus"
+       "n": "Hora MS",
+       "u": "https://horams.com.br/anvisa-recolhe-picole-melatonina-suplemento-equaliv/"
       }
      ]
     },
@@ -792,6 +840,18 @@
      ]
     },
     {
+     "kicker": "Oncologia",
+     "quando": "20/10",
+     "titulo": "SUS passa a oferecer nove novos remédios contra o câncer",
+     "resumo": "Os medicamentos, como abemaciclibe para câncer de mama e abiraterona para próstata, cobrem 13 tratamentos e devem atender mais de 116 mil pacientes. O custo anual de compra é estimado em R$ 155,4 milhões, segundo o Ministério da Saúde.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/saude-inicia-oferta-de-novos-medicamentos-oncologicos-no-sus"
+      }
+     ]
+    },
+    {
      "kicker": "Vacinação",
      "quando": "23/10",
      "titulo": "Só 5% das crianças pequenas têm as três doses da vacina contra covid",
@@ -804,18 +864,6 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/desinformacao-faz-com-que-so-5-das-criancas-sejam-protegidas-da-covid"
-      }
-     ]
-    },
-    {
-     "kicker": "Pesquisa",
-     "quando": "10/10",
-     "titulo": "Vacina brasileira contra malária começa a ser testada em humanos",
-     "resumo": "A Anvisa autorizou a primeira fase de testes da Vivaxin, da UFMG, contra o parasita que causa a maioria dos casos no país. O estudo terá 48 voluntários de 18 a 59 anos, acompanhados por um ano.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira"
       }
      ]
     }
@@ -982,16 +1030,16 @@
     {
      "kicker": "Mostra de SP",
      "quando": "Hoje",
-     "titulo": "Mostra Internacional de Cinema de São Paulo tem os últimos dias",
-     "resumo": "A 50ª edição vai até quinta-feira (29), com 392 filmes de 93 países. Desde 1977, o festival já exibiu mais de 11 mil filmes.",
+     "titulo": "Mostra de São Paulo entra na reta final; premiação é na quinta",
+     "resumo": "A 50ª edição divulgou os 15 filmes da Competição Novos Diretores mais votados pelo público, entre eles \"Brasas\", \"Horizonte\" e \"Meu Semba\". Os vencedores do Troféu Bandeira Paulista serão anunciados na quinta (29), na cerimônia de encerramento na Cultura Artística.",
      "fontes": [
+      {
+       "n": "Revista de Cinema",
+       "u": "https://revistadecinema.com.br/2026/10/mostra-revela-os-15-filmes-preferidos-do-publico/"
+      },
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/mostra-internacional-de-cinema-de-sp-comeca-nesta-quinta-feira"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/cinema/mostra-internacional-de-cinema-de-sao-paulo-revela-programacao-de-2026/"
       }
      ]
     },
