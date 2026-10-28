@@ -1,15 +1,15 @@
 {
  "data": "Quarta-feira, 28 de outubro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "28/10/2026 · 07h05 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h",
+ "edicao": "Edição do meio-dia",
+ "atualizado": "28/10/2026 · 12h40 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 12h",
  "fontes": 63,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 27/10",
-   "valor": "175.710 pts",
-   "var": "−0,51%",
+   "nome": "Ibovespa · 12h",
+   "valor": "170.828 pts",
+   "var": "−2,78%",
    "dir": "down"
   },
   {
@@ -19,10 +19,10 @@
    "dir": "down"
   },
   {
-   "nome": "Petróleo Brent · fechamento 27/10",
-   "valor": "US$ 113,88",
-   "var": "−1,7%",
-   "dir": "down"
+   "nome": "Petróleo Brent · 12h",
+   "valor": "US$ 115,33",
+   "var": "+1,27%",
+   "dir": "up"
   },
   {
    "nome": "Selic · taxa atual",
@@ -40,8 +40,13 @@
  "agenda": [
   {
    "hora": "15h",
-   "txt": "Fed anuncia decisão sobre os juros nos EUA; entrevista do presidente do banco central americano às 15h30",
+   "txt": "Fed anuncia decisão sobre os juros nos EUA; mercado espera manutenção entre 3,75% e 4%. Entrevista do presidente do banco central americano às 15h30",
    "cat": "economia"
+  },
+  {
+   "hora": "Após 17h",
+   "txt": "Microsoft e Alphabet divulgam balanços do trimestre; Petrobras publica dados de produção",
+   "cat": "ciencia"
   },
   {
    "hora": "19h30",
@@ -52,11 +57,6 @@
    "hora": "21h30",
    "txt": "Bahia x São Paulo e Remo x Botafogo completam a noite da rodada",
    "cat": "esporte"
-  },
-  {
-   "hora": "Hoje",
-   "txt": "Assembleia Geral da ONU vota resolução de Cuba pelo fim do embargo americano; Microsoft e Alphabet divulgam balanços",
-   "cat": "mundo"
   },
   {
    "hora": "Qui 29",
@@ -163,48 +163,48 @@
  ],
  "manchete": {
   "kicker": "Flávio Bolsonaro",
-  "titulo": "Flávio cruza a fronteira por terra, voa da Argentina ao Equador e segue rumo a Miami",
-  "resumo": "A Migração argentina informou de madrugada que o senador, a mulher e as duas filhas entraram em Puerto Iguazú pela ponte de Foz do Iguaçu às 22h50 de terça e embarcaram cerca de 40 minutos depois num jato particular com destino a Guayaquil, onde o avião pousou por volta das 5h45. Dados de rastreamento de voo citados pelo g1 indicam que a aeronave segue para Miami, com chegada prevista para o fim da manhã.",
+  "titulo": "Flávio pousa em Miami com a família depois de deixar o Brasil pela Argentina",
+  "resumo": "O jato particular com o senador, a mulher e as duas filhas pousou por volta das 10h30 no aeroporto executivo de Opa-Locka, na Flórida, após escala em Guayaquil, no Equador. Autoridades americanas disseram à CNN que vistos estão sendo emitidos para a família; até o fim da manhã, Flávio não havia se manifestado.",
   "foto": {
    "src": "https://imagens.ebc.com.br/WzdWZ5Di1qifhqnxvJi-5_ecDr0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/0d4a6236.jpg?itok=L148hQ-O",
    "credito": "Joédson Alves/Agência Brasil (arquivo)"
   },
-  "entenda": "No domingo, Alexandre de Moraes proibiu Flávio de deixar o país e mandou entregar os passaportes, a pedido da PF, que apontou risco concreto de fuga em inquéritos que apuram suposta lavagem de dinheiro ligada ao advogado Willer Tomaz e o financiamento do filme Dark Horse; o senador nega irregularidades. O prazo terminou às 11h de terça sem a entrega, e a PF cancelou os passaportes comum e diplomático. Na segunda, Flávio havia dito em vídeo que não pretendia sair do Brasil. Na terça, o governo argentino chegou a negar que ele tivesse entrado no país, versão corrigida horas depois pelo próprio órgão de migração, que disse que a família tinha documentos de viagem válidos e nenhum impedimento legal. O Departamento de Estado americano disse que emitirá vistos para ele e a família.",
+  "entenda": "No domingo, Alexandre de Moraes proibiu Flávio de deixar o país e mandou entregar os passaportes, a pedido da PF, que apontou risco de fuga em inquérito que apura suposta lavagem de dinheiro envolvendo o senador e o advogado Willer Tomaz; os dois negam irregularidades. O prazo terminou na terça sem a entrega, e a PF cancelou os passaportes comum e diplomático. Segundo a Migração argentina, a família atravessou a ponte de Foz do Iguaçu às 22h50 de terça e embarcou 40 minutos depois num voo privado; o governo argentino chegou a negar a entrada antes de corrigir a informação. Flávio também tem cidadania italiana. Na véspera da viagem, ele havia dito em vídeo que ficaria no país para organizar a oposição.",
   "fatos": [
-   "Na madrugada desta quarta, Donald Trump disse a jornalistas que aprovaria a ida de Flávio aos EUA, voltou a chamar a eleição brasileira de estranha e afirmou não tomar partido.",
-   "Segundo a Jovem Pan, que cita pessoas próximas à família, o senador pretende pedir asilo político e encontrar o irmão Eduardo, que vive na Flórida; a defesa não confirmou.",
-   "Até a manhã, Flávio não havia se pronunciado sobre a viagem; o avião evitou o espaço aéreo brasileiro, segundo dados do FlightAware."
+   "Donald Trump disse que aprovaria a entrada da família nos EUA; pessoas próximas ao senador, citadas pela Jovem Pan e pelo Metrópoles, dizem que ele pretende pedir asilo, o que a defesa não confirmou.",
+   "Lula chamou a saída de um dos episódios mais vergonhosos da história do país e orientou ministros a evitar o tema; aliados de Flávio falam em exílio diante do que chamam de perseguição do STF.",
+   "Analistas do Citi, citados pela Reuters, avaliam que a viagem reduz quase a zero a chance de contestação do resultado eleitoral."
   ],
   "fontes": [
    {
-    "n": "ND+",
-    "u": "https://ndmais.com.br/politica/flavio-bolsonaro-entrou-na-argentina-e-embarcou-em-voo-privado-confirma-governo/",
-    "d": "Argentina confirma entrada"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/internacional/aviao-em-que-estaria-flavio-bolsonaro-pousa-em-miami/",
+    "d": "Pouso e vistos"
    },
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/mundo/advogado-ligado-a-trump-disse-que-flavio-bolsonaro-estava-nos-eua-desde-3a",
-    "d": "Cronologia da saída"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/aeronave-com-flavio-bolsonaro-e-familia-pousa-nos-estados-unidos",
+    "d": "Chegada a Opa-Locka"
    },
    {
-    "n": "Agenda do Poder / g1",
-    "u": "https://agendadopoder.com.br/voo-de-flavio-bolsonaro-e-familia-faz-escala-no-equador-antes-de-seguir-para-miami/",
-    "d": "Escala no Equador"
+    "n": "Congresso em Foco",
+    "u": "https://www.congressoemfoco.com.br/noticia/129584/aviao-com-flavio-bolsonaro-pousa-em-miami-apos-passar-por-tres-paises",
+    "d": "Rota por três países"
    },
    {
-    "n": "Observador",
-    "u": "https://observador.pt/2026/10/28/argentina-confirma-que-flavio-bolsonaro-abandonou-o-brasil-trump-diz-que-aprovaria-vinda-do-candidato-para-os-eua/",
-    "d": "Declaração de Trump"
+    "n": "Reuters / Investing.com",
+    "u": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-ainda-sob-ajuste-poseleicao-com-balancos-e-flavio-no-radar-2105951",
+    "d": "Avaliação do Citi"
+   },
+   {
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/republica/aliados-flavio-justificam-viagem-eua-perseguicao-exilio/",
+    "d": "Versão dos aliados"
    },
    {
     "n": "Jovem Pan",
     "u": "https://jovempan.com.br/colunistas/beatriz-manfredini/flavio-bolsonaro-asilo-politico-encontro-eduardo-estados-unidos/",
     "d": "Plano de asilo"
-   },
-   {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil/",
-    "d": "Passaportes cancelados"
    }
   ]
  },
@@ -218,16 +218,16 @@
     {
      "kicker": "Repercussão",
      "quando": "Hoje",
-     "titulo": "Aliados de Flávio falam em exílio e perseguição; governo teme que apoio de Trump amplie esse discurso",
-     "resumo": "Deputados do PL e o senador eleito Deltan Dallagnol defenderam a saída do país, enquanto parte do partido cobrou explicações do senador. No Planalto, segundo a CNN, a preocupação é que uma declaração de Flávio com respaldo do governo americano aumente o desgaste entre os dois países.",
+     "titulo": "Lula chama saída de Flávio de vergonhosa; aliados do senador falam em exílio",
+     "resumo": "Em frente ao Alvorada, no aniversário de 81 anos, Lula disse na terça que o senador deveria ter entregado o passaporte e provado no Brasil que as acusações não procedem. Segundo a CNN, ele orientou ministros a não explorar o caso para não reforçar a tese de perseguição; reservadamente, auxiliares e o próprio presidente demonstraram preocupação com a decisão de Moraes sobre os passaportes.",
      "lados": [
       {
        "quem": "Aliados de Flávio",
-       "txt": "Maurício Marcon (PL-RS) disse que ele ruma ao exílio por causa da ordem de Moraes; Carlos Jordy (PL-RJ) afirmou que ele fez certo; Dallagnol disse que a viagem tirou do ministro sua principal arma contra o senador."
+       "txt": "Deputados do PL como Maurício Marcon e Carlos Jordy dizem que ele parte para o exílio por perseguição do STF e que a ordem de Moraes visava pressionar senadores; Deltan Dallagnol afirmou que a viagem tirou do ministro sua principal arma."
       },
       {
        "quem": "Governo Lula",
-       "txt": "Lula disse na terça que quem sai do país escondido deve algo ou tem medo de algo. Auxiliares, segundo a CNN, avaliam que a saída pode ser usada para levar ao exterior a tese de perseguição, e alguns governistas consideram que a ordem de Moraes deu esse argumento à oposição."
+       "txt": "Lula disse que quem não deve não teme e que quem sai escondido do país deve alguma coisa; afirmou que os EUA são a segunda pátria da família Bolsonaro. O PT pediu a prisão do senador e um alerta vermelho da Interpol, segundo o Poder360."
       }
      ],
      "foto": {
@@ -236,20 +236,24 @@
      },
      "fontes": [
       {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/lula-orienta-ministros-a-nao-explorar-fuga-de-flavio/"
+      },
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/politica/lula-diz-que-fuga-de-flavio-bolsonaro-mostra-que-ele-deve-alguma-coisa/"
+      },
+      {
+       "n": "A Notícia do Vale",
+       "u": "https://anoticiadovale.com/2026/10/28/lula-comemora-81-anos-e-diz-que-fuga-de-flavio-e-vergonhosa-mas-reprova-decisao-de-moraes/"
+      },
+      {
        "n": "Gazeta do Povo",
        "u": "https://www.gazetadopovo.com.br/republica/aliados-flavio-justificam-viagem-eua-perseguicao-exilio/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/governo-teme-que-apoio-de-trump-amplie-discurso-de-perseguicao-de-flavio/"
-      },
-      {
-       "n": "Congresso em Foco",
-       "u": "https://www.congressoemfoco.com.br/noticia/129267/aliados-ja-comecam-a-defender-fuga-de-flavio-aos-eua--repressao"
-      },
-      {
-       "n": "NSC Total / O Globo",
-       "u": "https://www.nsctotal.com.br/politica/lula-critica-fuga-de-flavio-bolsonaro-para-os-eua-e-diz-que-ele-deveria-provar-sua-inocencia-sai-escondido-e-porque-deve-algo"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-congresso/pt-pede-prisao-de-flavio-bolsonaro-e-alerta-vermelho-da-interpol/"
       }
      ]
     },
@@ -266,6 +270,32 @@
       {
        "n": "Nexo",
        "u": "https://www.nexojornal.com.br/expresso/2026/10/27/flavio-bolsonaro-fugiu-argentina-pf-passaporte"
+      }
+     ]
+    },
+    {
+     "kicker": "Senado",
+     "quando": "Ontem",
+     "titulo": "Caso Flávio reforça na oposição a ideia de candidatura única contra Alcolumbre",
+     "resumo": "Rogério Marinho (PL-RN) e Tereza Cristina (PP-MS) avaliam que a saída do senador reforça a pauta de impeachment de Alexandre de Moraes, à qual o presidente do Senado se opõe. A eleição para o comando da Casa será em 1º de fevereiro de 2027 e exige 41 dos 81 votos; a federação União Progressista anunciou apoio à recondução de Alcolumbre.",
+     "lados": [
+      {
+       "quem": "Davi Alcolumbre",
+       "txt": "Diz já contar com 48 votos e busca apoio formal de partidos do centrão para um novo mandato."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "Contesta a conta, afirma que ele teria cerca de 38 votos e articula um nome único, com Marinho entre os citados."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/caso-flavio-fortalece-candidatura-unica-da-oposicao-contra-alcolumbre/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/uniao-pp-contrariam-alianca-flavio-apoio-reeleicao-alcolumbre/"
       }
      ]
     },
@@ -341,14 +371,66 @@
    "nota": "Mercado e indicadores",
    "itens": [
     {
-     "kicker": "Juros nos EUA",
+     "kicker": "Mercado",
      "quando": "Hoje",
-     "titulo": "Fed anuncia juros às 15h; mercado espera manutenção, e balanços de big techs e bancos dividem a atenção",
-     "resumo": "Levantamento citado pela InfoMoney aponta cerca de 92% de chance de o banco central americano manter a taxa. No Brasil, Santander, Klabin, Motiva e Intelbras divulgam resultados, e a Petrobras publica dados de produção do trimestre após o fechamento; nos EUA, Microsoft e Alphabet apresentam balanços. O Ibovespa futuro operava perto da estabilidade no início da manhã, segundo o Investing.com.",
+     "titulo": "Ibovespa cai quase 3% e volta a níveis de agosto, puxado por bancos",
+     "resumo": "Por volta das 12h, o índice recuava 2,78%, a 170.828 pontos, depois de passar de 3% de queda; Bradesco, BTG e Santander perdiam mais de 4%. Analistas ouvidos pela InfoMoney e pela Reuters atribuem a baixa às dúvidas sobre as contas públicas e a equipe econômica, à notícia de possível IOF sobre títulos isentos e à espera pelo Fed; Hypera subia após balanço acima do esperado.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
+     "fontes": [
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-estresse-continua-por-que-indice-cai-forte-apos-terca-mais-tranquila-no-mercado-28102026/"
+      },
+      {
+       "n": "Reuters / Investing.com",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-ainda-sob-ajuste-poseleicao-com-balancos-e-flavio-no-radar-2105951"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/ibovespa-cai-aos-1742-mil-pontos-com-bancos-santander-recua-mais-de-4/"
+      }
+     ]
+    },
+    {
+     "kicker": "Impostos",
+     "quando": "Hoje",
+     "titulo": "Governo estuda cobrar IOF sobre LCI, LCA, CRI, CRA e debêntures incentivadas, diz O Globo",
+     "resumo": "Esses títulos hoje têm alíquota zero, e o benefício fiscal ligado a eles é estimado em R$ 33 bilhões por ano. Como o IOF pode ser alterado por decreto, a cobrança não dependeria de aprovação do Congresso; a alíquota não foi definida e a Fazenda não comentou oficialmente.",
+     "fontes": [
+      {
+       "n": "InfoMoney / O Globo",
+       "u": "https://www.infomoney.com.br/politica/governo-estuda-aplicar-iof-sobre-lci-lca-cri-cra-e-debentures-diz-jornal/"
+      },
+      {
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/renda-fixa/lcis-lcas-e-outros-isentos-voltam-a-mira-do-governo-e-podem-passar-a-ter-iof-diz-jornal-mlim/"
+      }
+     ]
+    },
+    {
+     "kicker": "Balanços",
+     "quando": "Hoje",
+     "titulo": "Lucro do Santander Brasil cai 28% no trimestre e fica abaixo do esperado",
+     "resumo": "O lucro recorrente foi de R$ 2,9 bilhões no terceiro trimestre, contra projeção de R$ 3,16 bilhões compilada pela Bloomberg, e a rentabilidade caiu para 11,9%. A direção do banco indicou que a recuperação mais consistente deve vir no início de 2027; a ação recuava mais de 4% na bolsa.",
+     "fontes": [
+      {
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/empresas/santander-sanb11-lucro-roe-rentabilidade-3t26-veja-os-destaques-do-balanco-miql/"
+      },
+      {
+       "n": "Forbes Brasil",
+       "u": "https://forbes.com.br/forbes-money/2026/10/lucro-do-santander-brasil-cai-28-no-3o-tri/"
+      }
+     ]
+    },
+    {
+     "kicker": "Juros nos EUA",
+     "quando": "Hoje",
+     "titulo": "Fed anuncia juros às 15h; mercado aposta em manutenção entre 3,75% e 4%",
+     "resumo": "A probabilidade de manutenção passava de 90% nas apostas do mercado, e a entrevista do presidente do banco central americano está marcada para as 15h30. A alta dos rendimentos dos títulos americanos e do petróleo, com o Brent acima de US$ 115, também pesa sobre os mercados.",
      "fontes": [
       {
        "n": "InfoMoney",
@@ -357,42 +439,6 @@
       {
        "n": "Investing.com",
        "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-mercado-se-acomoda-predecisao-do-fed-de-olho-no-fiscal-2104954"
-      }
-     ]
-    },
-    {
-     "kicker": "Fazenda",
-     "quando": "Ontem",
-     "titulo": "Alckmin e Rafael Fonteles são as principais apostas para a Fazenda, segundo a Reuters",
-     "resumo": "Três fontes ouvidas pela agência citam o vice-presidente e o governador reeleito do Piauí, ex-secretário estadual de Fazenda; a permanência de Dario Durigan não está descartada, e Fernando Haddad é cotado para a Casa Civil. O governo não anunciou decisão, e o presidente do PT, Edinho Silva, disse que a escolha sai até o fim do ano.",
-     "fontes": [
-      {
-       "n": "Reuters / Investing.com",
-       "u": "https://br.investing.com/news/economy-news/alckmin-e-fonteles-sao-principais-apostas-para-comando-da-fazenda-dizem-fontes-2104485"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/politica/lula-escolhera-ministro-da-fazenda-ate-o-fim-do-ano-e-mantera-meta-fiscal-diz-edinho/"
-      }
-     ]
-    },
-    {
-     "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Ibovespa cai 0,51% e dólar recua a R$ 5,35 em dia de acomodação após o tombo",
-     "resumo": "A bolsa fechou em 175.710 pontos, depois de oscilar entre 175.130 e 178.526, com Petrobras (−2,02%) e Vale (−2,14%) pressionadas por petróleo e minério em baixa. O dólar perdeu 0,97%, em parte por realização de lucros após a alta de 8,21% de segunda. Analistas citados pela InfoMoney dizem que o mercado espera a escolha do ministro da Fazenda e sinais concretos sobre as contas públicas.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://infomoney.com.br/mercados/ibovespa-tem-queda-modesta-em-dia-de-acomodacao-apos-tombo-incertezas-persistem"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-051-dolar-recua-535-cautela-eleicao/"
-      },
-      {
-       "n": "B3 Bora Investir",
-       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cede-051-puxado-por-minerio-de-ferro-e-petroleo-em-baixa-dolar-cai-a-r-535/"
       }
      ]
     },
@@ -413,22 +459,6 @@
       {
        "n": "A Crítica",
        "u": "https://acritica.net/politica/lula-escolhera-ministro-da-fazenda-ate-o-fim-do-ano-e-mantera-meta-fiscal-diz-edinho/"
-      }
-     ]
-    },
-    {
-     "kicker": "Banco Central",
-     "quando": "Ontem",
-     "titulo": "BC conta 20,3 milhões de endividados de risco; Galípolo diz que não vê motivo para agir no câmbio agora",
-     "resumo": "O Relatório de Estabilidade Financeira aponta alta de 75% desde 2021 no número de pessoas com sinais graves de aperto nas dívidas, e o comprometimento da renda com dívidas chegou a cerca de 38%, o maior da série. O BC estuda endurecer regras para as linhas de crédito mais arriscadas, mas diz que o sistema segue sólido. Na entrevista, Galípolo negou estar cotado para a Fazenda e lembrou que seu mandato vai até 2028.",
-     "fontes": [
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/economia/bc-endividamento-de-risco-avanca-75-em-cinco-anos"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27102026/"
       }
      ]
     }
@@ -485,6 +515,10 @@
       {
        "n": "Brasil 61",
        "u": "https://brasil61.com/n/o-tempo-e-a-temperatura-sul-tem-quarta-feira-28-de-tempo-estavel-e-temperaturas-amenas-ptrs264487"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/brasil/inmet-alerta-para-temporais-no-centro-oeste-e-outras-regioes-do-brasil-nesta-quarta-feira/"
       }
      ]
     },
@@ -535,20 +569,20 @@
     {
      "kicker": "Israel",
      "quando": "Hoje",
-     "titulo": "Likud lidera a apuração em Israel, mas nenhum bloco chega à maioria",
-     "resumo": "Com parte dos votos contados, o partido de Benjamin Netanyahu aparece em primeiro e o Yashar!, de Gadi Eisenkot, em segundo; contagens parciais e bocas de urna divergem sobre qual bloco terá mais cadeiras, mas nenhum alcança as 61 necessárias. A participação passou de 74%, recorde segundo a comissão eleitoral, e os partidos árabes podem ser decisivos para formar governo.",
+     "titulo": "Com 84% das urnas apuradas, bloco de Netanyahu fica sete cadeiras abaixo da maioria em Israel",
+     "resumo": "Às 11h, horário de Brasília, os partidos que apoiam Benjamin Netanyahu somavam 54 das 120 cadeiras, contra 49 da oposição liderada por Gadi Eisenkot e 17 dos partidos árabes; são necessárias 61 para governar. O Likud segue como o partido mais votado, e a participação chegou a 77,7%, segundo a contagem parcial.",
      "fontes": [
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/10/28/eleicoes-em-israel-partido-de-netanyahu-mantem-lideranca-apuracao-continua/"
+      },
+      {
+       "n": "Jornal do Comércio / AFP",
+       "u": "https://www.jornaldocomercio.com/internacional/2026/10/1268519-partido-de-netanyahu-lidera-eleicoes-legislativas-em-israel-apos-apuracao-de-66-dos-votos.html"
+      },
       {
        "n": "EFE / Infobae",
        "u": "https://www.infobae.com/america/agencias/2026/10/28/miercoles-28-de-octubre-de-2026-0700-gmt/"
-      },
-      {
-       "n": "elDiario.es",
-       "u": "https://www.eldiario.es/internacional/netanyahu-gana-primeras-elecciones-israel-genocidio-no-podra-formar-gobierno-sondeos_1_13619855.html"
-      },
-      {
-       "n": "Café Torah",
-       "u": "https://cafetorah.com/israel-acorda-com-empate-tecnico-nas-eleicoes-da-knesset/"
       }
      ]
     },
@@ -568,8 +602,12 @@
      "kicker": "ONU",
      "quando": "Hoje",
      "titulo": "Assembleia Geral vota resolução de Cuba contra o embargo americano",
-     "resumo": "O texto pede o fim das sanções dos EUA à ilha, que enfrenta bloqueio ao petróleo e sanções secundárias. Nos EUA, a menos de uma semana das eleições de meio de mandato, Trump fez comício em Ohio, e os republicanos tentam manter a maioria na Câmara.",
+     "resumo": "Será a 34ª votação sobre o tema; o embargo foi imposto em 1960, e os EUA, com apoio de Israel, costumam votar contra. O debate começou na terça com um bate-boca entre o chanceler cubano e o embaixador americano, Mike Waltz, que levou à suspensão breve da sessão, segundo a ONU.",
      "fontes": [
+      {
+       "n": "ONU News",
+       "u": "https://news.un.org/en/story/2026/10/1168686"
+      },
       {
        "n": "EFE / Infobae",
        "u": "https://www.infobae.com/america/agencias/2026/10/28/miercoles-28-de-octubre-de-2026-0700-gmt/"
@@ -646,15 +684,15 @@
      "kicker": "Agenda",
      "quando": "Hoje",
      "titulo": "Palmeiras visita o Santos na Vila para tentar retomar a liderança; rodada tem cinco jogos",
-     "resumo": "O vice-líder, um ponto atrás do Flamengo, joga às 19h30, mesmo horário de Fluminense x Internacional e Bragantino x Chapecoense. Às 21h30, o Bahia recebe o São Paulo e o Remo enfrenta o Botafogo.",
+     "resumo": "O vice-líder, com 69 pontos, um atrás do Flamengo, joga às 19h30 na Vila Belmiro sem Ramón Sosa; o Santos, 8º, não terá Neymar, suspenso. No mesmo horário jogam Fluminense x Internacional e Bragantino x Chapecoense; às 21h30, o Bahia recebe o São Paulo e o Remo enfrenta o Botafogo.",
      "fontes": [
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-x-palmeiras-tudo-sobre-33-rodada-brasileirao-28-10-2026/"
+      },
       {
        "n": "Bolavip",
        "u": "https://br.bolavip.com/futebol/jogos-de-hoje-28-10-2026-horarios-onde-assistir-futebol-ao-vivo"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-x-palmeiras-onde-assistir-horario-brasileirao-2026/"
       },
       {
        "n": "Portal do Palestra",
@@ -739,6 +777,22 @@
    "nota": "",
    "itens": [
     {
+     "kicker": "Orçamento",
+     "quando": "Hoje",
+     "titulo": "Governo remaneja R$ 5,2 bilhões para BPC e remédios do SUS",
+     "resumo": "Portaria publicada nesta quarta destina cerca de R$ 4,7 bilhões ao pagamento do BPC a pessoas com deficiência e da Renda Mensal Vitalícia, e R$ 387,6 milhões à assistência farmacêutica do SUS. O dinheiro vem do cancelamento de outras dotações já previstas no Orçamento.",
+     "fontes": [
+      {
+       "n": "Mercado & Consumo",
+       "u": "https://mercadoeconsumo.com.br/28/10/2026/economia/governo-libera-credito-de-r-52-bilhoes-para-reforcar-assistencia-social-e-saude/"
+      },
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365487/governo-destina-rs-4-7-bilhoes-a-beneficios-assistenciais"
+      }
+     ]
+    },
+    {
      "kicker": "Vacinas",
      "quando": "Ontem",
      "titulo": "Tecpar pede à Anvisa registro de vacina contra a catapora para o SUS",
@@ -799,22 +853,6 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada"
-      }
-     ]
-    },
-    {
-     "kicker": "Anvisa",
-     "quando": "26/10",
-     "titulo": "Anvisa aprova novo remédio para câncer de pulmão avançado",
-     "resumo": "O sugemalimabe, um anticorpo que ajuda o sistema imune a atacar o tumor, foi registrado para uso inicial com quimioterapia em adultos com câncer de pulmão de células não pequenas metastático sem certas alterações genéticas. A análise usou como referência a avaliação da agência europeia de medicamentos.",
-     "fontes": [
-      {
-       "n": "Anvisa",
-       "u": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/novo-medicamento-para-cancer-de-pulmao-e-aprovado-pela-anvisa"
-      },
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/10/20/medicina-e-saude/anvisa-aprova-novo-remedio-contra-cancer-de-pulmao-brasil-e-o-2-pais-a-liberar-terapia"
       }
      ]
     }
