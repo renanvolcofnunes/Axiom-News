@@ -1,7 +1,7 @@
 {
  "data": "Quinta-feira, 29 de outubro de 2026",
  "edicao": "Edição da noite",
- "atualizado": "29/10/2026 · 19h15 (Brasília)",
+ "atualizado": "29/10/2026 · 19h10 (Brasília)",
  "proxima": "Próxima atualização: amanhã, 7h",
  "mercado_hora": "Cotações de 18h00",
  "fontes": 50,
@@ -241,48 +241,6 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/brasil/lindbergh-critica-carta-criminosa-de-flavio-figura-patetica"
-      }
-     ]
-    },
-    {
-     "kicker": "Repercussão",
-     "quando": "27/10",
-     "titulo": "Lula chama saída de Flávio de vergonhosa; aliados do senador falam em exílio",
-     "resumo": "Em frente ao Alvorada, no aniversário de 81 anos, Lula disse na terça que o senador deveria ter entregado o passaporte e provado no Brasil que as acusações não procedem. Segundo a CNN, ele orientou ministros a não explorar o caso para não reforçar a tese de perseguição; reservadamente, auxiliares e o próprio presidente demonstraram preocupação com a decisão de Moraes sobre os passaportes.",
-     "lados": [
-      {
-       "quem": "Aliados de Flávio",
-       "txt": "Deputados do PL como Maurício Marcon e Carlos Jordy dizem que ele parte para o exílio por perseguição do STF e que a ordem de Moraes visava pressionar senadores; Deltan Dallagnol afirmou que a viagem tirou do ministro sua principal arma."
-      },
-      {
-       "quem": "Governo Lula",
-       "txt": "Lula disse que quem não deve não teme e que quem sai escondido do país deve alguma coisa; afirmou que os EUA são a segunda pátria da família Bolsonaro. O PT pediu a prisão do senador e um alerta vermelho da Interpol, segundo o Poder360."
-      }
-     ],
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/lula-orienta-ministros-a-nao-explorar-fuga-de-flavio/"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/politica/lula-diz-que-fuga-de-flavio-bolsonaro-mostra-que-ele-deve-alguma-coisa/"
-      },
-      {
-       "n": "A Notícia do Vale",
-       "u": "https://anoticiadovale.com/2026/10/28/lula-comemora-81-anos-e-diz-que-fuga-de-flavio-e-vergonhosa-mas-reprova-decisao-de-moraes/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/aliados-flavio-justificam-viagem-eua-perseguicao-exilio/"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-congresso/pt-pede-prisao-de-flavio-bolsonaro-e-alerta-vermelho-da-interpol/"
       }
      ]
     },
@@ -663,6 +621,26 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
+     "kicker": "Seleção",
+     "quando": "Hoje",
+     "titulo": "Ancelotti convoca 26 jogadores para amistosos contra Japão e Singapura, sem atletas de Flamengo e Palmeiras",
+     "resumo": "Os jogos serão em 14 e 17 de novembro, no Estádio Nacional de Singapura. A lista tem Vini Jr., Raphinha, Endrick e Estêvão e estreantes como Jonathan Jesus (Cruzeiro) e André Luiz (Corinthians). Segundo a CBF, Flamengo e Palmeiras ficaram de fora para não desfalcar os dois na disputa do título, e cada clube brasileiro teve no máximo um convocado.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/selecao-brasileira-seis-convocados-por-ancelotti-jogam-no-brasileirao"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/esporte/ancelotti-convoca-26-jogadores-para-a-selecao-veja-a-lista/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/selecao-brasileira-veja-convocados-de-ancelotti-para-amistosos-pos-copa/"
+      }
+     ]
+    },
+    {
      "kicker": "Agenda",
      "quando": "Hoje",
      "titulo": "Flamengo enfrenta o Vasco empatado em pontos com o Palmeiras",
@@ -759,22 +737,6 @@
       {
        "n": "Diário do Grande ABC",
        "u": "https://www.dgabc.com.br/Noticia/4365747/ministerio-da-saude-cria-painel-para-monitorar-vacina-contra-meningite-em-adolescentes-"
-      }
-     ]
-    },
-    {
-     "kicker": "Vacinação",
-     "quando": "23/10",
-     "titulo": "Só 5% das crianças pequenas têm as três doses da vacina contra a covid",
-     "resumo": "Segundo o Programa Nacional de Imunizações, a doença causou neste ano mais de mil internações e 25 mortes de crianças e adolescentes, 15 delas de menores de 2 anos. A vacina está no calendário aos 6, 7 e 9 meses desde 2024; pesquisa do IBGE aponta medo de reação e descrença como principais motivos para não vacinar.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/tqy95B7S-9CzNg-7akLZZrcwmsc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/22/toms0027.jpg?itok=nqY8nixq",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/desinformacao-faz-com-que-so-5-das-criancas-sejam-protegidas-da-covid"
       }
      ]
     },
@@ -961,51 +923,35 @@
        "u": "https://bpmoney.com.br/economia/internacional-economia/alphabet-dona-google-frustra-lucro-acao-cai/"
       }
      ]
-    },
-    {
-     "kicker": "Meio ambiente",
-     "quando": "20/10",
-     "titulo": "Queda do desmatamento desde 2023 gerou até R$ 1,16 trilhão à economia global, estima FGV",
-     "resumo": "O cálculo do economista Bráulio Borges, do Ibre/FGV, considera danos climáticos evitados com a redução da derrubada na Amazônia e no Cerrado; para o Brasil, o benefício estimado vai de R$ 67 bilhões a R$ 192 bilhões. Segundo o Inpe, a área desmatada na Amazônia entre agosto de 2025 e julho de 2026 foi a menor desde 1998.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/4DEFyhsRdGQX1Cm1_Ag2iiAX5so=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/08/pzzb8315_0.jpg?itok=RioEAOWX",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/queda-de-desmatamento-no-brasil-gera-r-116-trilhao-economia-global"
-      },
-      {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202610/brasil-anuncia-a-maior-queda-de-desmatamento-na-amazonia-e-no-cerrado-desde-1988"
-      }
-     ]
-    },
-    {
-     "kicker": "Clima e florestas",
-     "quando": "26/10",
-     "titulo": "Países Baixos anunciam US$ 500 milhões para o fundo de florestas tropicais proposto pelo Brasil",
-     "resumo": "O aporte ao TFFF será pago ao longo de dez anos. O fundo, lançado na COP30, paga países que mantêm o desmatamento abaixo de limites medidos por satélite e quer reunir ao menos US$ 125 bilhões, a maior parte do setor privado.",
-     "foto": {
-      "src": "fotos/floresta.jpg",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/paises-baixos-anunciam-us500-mi-em-fundo-florestal-criado-pelo-brasil"
-      }
-     ]
     }
    ]
   },
   {
    "id": "cultura",
-   "nome": "Cultura",
+   "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Música, cinema e TV",
+   "nota": "Música, cinema, TV e famosos",
    "itens": [
+    {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre Patrick Stewart, o Professor Xavier de X-Men e o capitão Picard de Star Trek, aos 86 anos",
+     "resumo": "O ator britânico morreu na quarta-feira (28), em Los Angeles, e a morte foi confirmada nesta quinta por sua representante. Ele tinha Alzheimer e demência com corpos de Lewy. Formado no teatro da Royal Shakespeare Company, foi nomeado cavaleiro em 2010.",
+     "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/morre-patrick-stewart-o-professor-xavier-de-x-men-aos-86-anos,d0c55e0c4c640b455a59cefa8b3363b3h28hina0.html"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/pop/morre-patrick-stewart-ator-de-x-men-e-star-trek-morre-aos-86-anos/"
+      },
+      {
+       "n": "Estado de Minas / Uai",
+       "u": "https://www.uai.com.br/app/entretenimento/famosos/2026/10/29/not-famosos,393682/patrick-stewart-o-professor-xavier-de-x-men-morre-aos-86-anos.shtml"
+      }
+     ]
+    },
     {
      "kicker": "Mostra de SP",
      "quando": "Hoje",
@@ -1043,46 +989,6 @@
       {
        "n": "Radioagência Nacional / Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-10/bndes-anuncia-projetos-selecionados-no-edital-de-cinema-2026"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "16/09",
-     "titulo": "Grammy Latino, em 12 de novembro, tem mais de 30 brasileiros indicados",
-     "resumo": "Anitta concorre a melhor álbum com EQUILIBRIVM, e Djavan disputa na categoria de cantor e compositor com Improviso. Marisa Monte, Criolo e Ney Matogrosso estão entre os indicados a melhor canção em língua portuguesa.",
-     "fontes": [
-      {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/entretenimento/grammy-latino-2026-34-artistas-brasileiros-foram-indicados-ao-premio-confira/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/diversao/musica/grammy-latino-2026-anuncia-indicados-veja-lista-completa,711fab120c64f9527628e891bc1cd1b2pe4j6tay.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "26/10",
-     "titulo": "Belchior faria 80 anos; data teve documentários, livros e programação especial",
-     "resumo": "O documentário Alucinação, que percorre o disco de 1976 faixa a faixa, estreou na Mostra de São Paulo, e a filha caçula do cantor lançou um filme com depoimentos de amigos e parceiros. Uma antologia marca os 50 anos do álbum, e emissoras públicas exibem entrevistas raras.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/2026/10/26/belchior-80-anos-livros-disco-e-filmes-reafirmam-a-forca-da-obra-atemporal-do-anjo-rebelde"
-      },
-      {
-       "n": "Rádio Nacional / Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-10/belchior-completaria-80-anos-nesta-segunda-feira"
-      },
-      {
-       "n": "Billboard Brasil",
-       "u": "https://billboard.com.br/belchior-80-anos-radio-cultura-brasil/"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://mais.opovo.com.br/reportagens-especiais/belchior/2026/10/28/uma-saudade-chamada-belchior.html"
       }
      ]
     }
