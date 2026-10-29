@@ -1,72 +1,72 @@
 {
  "data": "Quinta-feira, 29 de outubro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "29/10/2026 · 07h10 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h",
- "fontes": 61,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "29/10/2026 · 12h50 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 11h10",
+ "fontes": 58,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 28/10",
-   "valor": "171.006 pts",
-   "var": "−2,68%",
+   "nome": "Ibovespa · 11h10",
+   "valor": "170.596 pts",
+   "var": "−0,24%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · fechamento 28/10",
-   "valor": "R$ 5,34",
-   "var": "−0,19%",
-   "dir": "down"
+   "nome": "Dólar comercial · 11h10",
+   "valor": "R$ 5,36",
+   "var": "+0,36%",
+   "dir": "up"
+  },
+  {
+   "nome": "DI jan/2029 · 9h08",
+   "valor": "14,79%",
+   "var": "+0,045 p.p.",
+   "dir": "up"
   },
   {
    "nome": "Selic · taxa atual",
    "valor": "13,75%",
-   "var": "",
+   "var": "Copom decide em 4/11",
    "dir": ""
   },
   {
-   "nome": "Chance de pausa no Copom de 4/11 · opções B3 (27/10)",
-   "valor": "62%",
-   "var": "eram 17,5% em 23/10",
-   "dir": "up"
-  },
-  {
-   "nome": "Juros nos EUA · Fed 28/10",
-   "valor": "3,75% a 4%",
+   "nome": "Juros do BCE · decisão 29/10",
+   "valor": "2,5%",
    "var": "mantidos",
    "dir": ""
   }
  ],
  "agenda": [
   {
+   "hora": "Qui 29 · tarde",
+   "txt": "Flávio Bolsonaro dá entrevista coletiva em Miami, segundo aliados; horário e local não foram divulgados",
+   "cat": "politica"
+  },
+  {
+   "hora": "Qui 29 · noite",
+   "txt": "Vale divulga o balanço do terceiro trimestre depois do fechamento da bolsa",
+   "cat": "economia"
+  },
+  {
    "hora": "19h30",
-   "txt": "Atlético-MG x Cruzeiro abre a noite do Brasileirão; Vasco x Flamengo às 20h e Grêmio x Athletico às 21h30",
+   "txt": "Atlético-MG x Cruzeiro; Vasco x Flamengo às 20h e Grêmio x Athletico às 21h30 (horários de Brasília)",
    "cat": "esporte"
   },
   {
    "hora": "Qui 29",
-   "txt": "Aliados anunciam entrevista coletiva de Flávio Bolsonaro em Miami à tarde; horário e local não foram divulgados",
-   "cat": "politica"
-  },
-  {
-   "hora": "Qui 29",
-   "txt": "Vale e Amazon divulgam balanços do trimestre; Banco Central Europeu anuncia decisão de juros",
-   "cat": "economia"
-  },
-  {
-   "hora": "Qui 29",
-   "txt": "Premiação da 50ª Mostra de Cinema de São Paulo; último dia de inscrições no Mais Médicos Especialistas",
+   "txt": "Cerimônia de premiação encerra a 50ª Mostra de Cinema de São Paulo; último dia de inscrições no Mais Médicos Especialistas",
    "cat": "cultura"
   },
   {
-   "hora": "Ter 3/11",
-   "txt": "Eleições de meio de mandato nos EUA; na quarta (4), o Copom decide a Selic",
-   "cat": "mundo"
+   "hora": "Sex 30",
+   "txt": "Ponto facultativo do Dia do Servidor nas repartições federais",
+   "cat": "brasil"
   },
   {
-   "hora": "Dom 8/11",
-   "txt": "Primeiro dia do Enem; portões fecham às 13h",
-   "cat": "educacao"
+   "hora": "Ter 3/11",
+   "txt": "Eleições de meio de mandato nos EUA; na quarta (4), o Copom decide a Selic e Israel deve certificar o resultado da eleição",
+   "cat": "mundo"
   }
  ],
  "acervo": [
@@ -163,48 +163,43 @@
  ],
  "manchete": {
   "kicker": "Flávio Bolsonaro",
-  "titulo": "EUA autorizam Flávio a ficar um ano no país; TSE e Tarcísio defendem resultado da eleição",
-  "resumo": "O senador e a família entraram nos Estados Unidos com uma autorização humanitária temporária, o parole, válida até outubro de 2027, segundo registros da alfândega americana consultados pelo Metrópoles. Depois de se apresentar como presidente eleito em carta, Flávio trocou o termo por “líder do Brasil” e deve dar entrevista em Miami nesta quinta.",
+  "titulo": "Flávio deve falar hoje em Miami; PF avalia pedir ao STF bloqueio de bens do senador",
+  "resumo": "Aliados anunciaram para esta tarde a primeira entrevista coletiva de Flávio desde que ele deixou o Brasil, mas não divulgaram horário nem local. Segundo a CNN Brasil, a Polícia Federal estuda pedir o bloqueio de bens e contas do senador como resposta ao descumprimento da ordem de entregar os passaportes; o pedido ainda não foi feito.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/Yr-N7dpTC99Az4BBY8ykROl9mXI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/0d4a6224.jpg?itok=5dIkLSxN",
+   "src": "https://imagens.ebc.com.br/WzdWZ5Di1qifhqnxvJi-5_ecDr0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/0d4a6236.jpg?itok=L148hQ-O",
    "credito": "Joédson Alves/Agência Brasil (arquivo)"
   },
-  "entenda": "Flávio, derrotado por Lula no segundo turno de 25 de outubro, deixou o Brasil sem entregar os passaportes, como havia determinado Alexandre de Moraes em inquéritos no STF sobre suposta lavagem de dinheiro com o advogado Willer Tomaz; os dois negam irregularidades. Ele cruzou a fronteira com a Argentina, passou pelo Equador e pousou perto de Miami na quarta. O parole é uma permissão excepcional de permanência por razões humanitárias ou de interesse público e não equivale a asilo político, que aliados dizem que ele vai pedir. Na carta, o senador acusa fraude sem apresentar provas e atribui a derrota à prorrogação do horário de votação; o TSE registrou menos de 35 mil votos no período estendido, numa eleição decidida por cerca de 4,4 milhões de votos.",
+  "entenda": "Derrotado por Lula no segundo turno de 25 de outubro, Flávio atravessou a ponte entre Foz do Iguaçu e Puerto Iguazú na noite de terça (27), embarcou num jato particular na Argentina, fez escala no Equador e chegou a Miami na quarta com a mulher e as filhas. Dias antes, Alexandre de Moraes havia determinado a entrega dos passaportes e proibido a saída do país, a pedido da PF, em inquéritos sobre suposta lavagem de dinheiro ligada a apostas e sobre o financiamento do filme Dark Horse. O senador e o advogado Willer Tomaz, também investigado, negam irregularidades. Não há mandado de prisão contra Flávio, e investigadores ouvidos pela CNN tratam com cautela a hipótese de prisão preventiva.",
   "fatos": [
-   "Em nota, o presidente do TSE, Nunes Marques, defendeu a segurança e a legitimidade da eleição, sem citar Flávio, e disse que questionamentos feitos pelo devido processo legal serão analisados.",
-   "Tarcísio de Freitas, governador reeleito de São Paulo, disse entender a indignação do senador, mas afirmou que a eleição acabou e que o resultado das urnas deve ser respeitado; o PL já havia reconhecido a vitória de Lula.",
-   "Donald Trump disse que a eleição brasileira foi “muito estranha”, mas que não vai se envolver na reivindicação de Flávio, segundo a Euronews."
+   "Segundo a Gazeta do Povo, o senador viajou com passaporte italiano e, nos EUA, apresentou o passaporte diplomático já cancelado; o jato voltou a Buenos Aires nesta manhã sem passar pelo espaço aéreo brasileiro.",
+   "A PF apura se políticos aliados ajudaram na saída por Santa Catarina ou Paraná; o relatório sobre a rota será enviado ao STF.",
+   "Eduardo Bolsonaro publicou foto com o irmão nos EUA e escreveu que, mesmo de fora, os dois não vão desistir do Brasil."
   ],
   "fontes": [
    {
-    "n": "ND Mais",
-    "u": "https://ndmais.com.br/politica/flavio-bolsonaro-recebe-autorizacao-para-ficar-um-ano-nos-eua/",
-    "d": "Autorização de um ano"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-avalia-pedir-bloqueio-de-bens-de-flavio-bolsonaro-apos-fuga/",
+    "d": "Avaliação da PF"
    },
    {
-    "n": "Em Tempo",
-    "u": "https://emtempo.com.br/611088/politica/flavio-bolsonaro-autorizacao-humanitaria-estados-unidos/",
-    "d": "Parole humanitário"
+    "n": "Correio Braziliense",
+    "u": "https://www.correiobraziliense.com.br/politica/2026/10/7529281-flavio-bolsonaro-deve-dar-coletiva-em-miami-nesta-quinta-feira-28.html",
+    "d": "Coletiva em Miami"
    },
    {
-    "n": "Gizmodo Brasil",
-    "u": "https://www.gizmodo.com.br/flavio-bolsonaro-recua-apos-se-declarar-presidente-eleito-e-agora-se-apresenta-como-lider-do-brasil-73179",
-    "d": "Mudança na carta"
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/republica/jato-que-levou-flavio-a-miami-volta-a-buenos-aires-sem-entrar-no-espaco-aereo-brasileiro/",
+    "d": "Rota do jato"
    },
    {
     "n": "Jovem Pan",
-    "u": "https://jovempan.com.br/politica/tarcisio-comenta-carta-de-flavio-e-diz-que-caminho-e-respeitar-o-resultado-das-urnas/",
-    "d": "Reação de Tarcísio"
+    "u": "https://jovempan.com.br/politica/eduardo-publica-foto-com-flavio-nao-desistiremos-do-brasil/",
+    "d": "Encontro com Eduardo"
    },
    {
-    "n": "Jota",
-    "u": "https://jota.info/eleicoes/eleicoes-2026/nunes-marques-diz-que-eleicao-foi-legitima-sem-citar-carta-golpista-de-flavio",
-    "d": "Nota do TSE"
-   },
-   {
-    "n": "Euronews",
-    "u": "https://www.euronews.com/2026/10/29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us",
-    "d": "Declaração de Trump"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-cancela-passaportes-de-flavio-bolsonaro",
+    "d": "Passaportes cancelados"
    }
   ]
  },
@@ -216,36 +211,22 @@
    "nota": "Brasil",
    "itens": [
     {
-     "kicker": "Carta de Flávio",
+     "kicker": "Oposição",
      "quando": "Hoje",
-     "titulo": "Tese de fraude encontra resistência na direita; aliados veem perseguição",
-     "resumo": "O PL e outros partidos de oposição já haviam reconhecido o resultado antes da carta, e Rogério Marinho disse não ter provas de fraude. Parte dos aliados, porém, defende a saída do senador e diz que ele é alvo do Judiciário.",
-     "lados": [
-      {
-       "quem": "Flávio e aliados",
-       "txt": "O senador diz ser perseguido pelo STF e contesta a prorrogação do horário de votação; deputados do PL em Minas e outros aliados afirmam que a viagem é um exílio forçado e que não há mandado de prisão contra ele."
-      },
-      {
-       "quem": "TSE e críticos da carta",
-       "txt": "O TSE afirma que a eleição foi segura e que os votos no horário estendido não explicam a diferença; Tarcísio e o governador Jorginho Mello disseram que a eleição acabou e que o resultado deve ser respeitado."
-      }
-     ],
+     "titulo": "Tarcísio admite pela primeira vez pensar em candidatura presidencial",
+     "resumo": "Reeleito em São Paulo no primeiro turno, o governador disse na quarta que cogita disputar a Presidência, possivelmente em 2030, e em vídeo repetiu que a eleição acabou e defendeu uma oposição vigilante. Marcos Pereira, presidente do Republicanos, o chama de principal nome do partido; parlamentares do PL evitam falar do futuro e dizem que é cedo para discutir a próxima disputa.",
      "fontes": [
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/carta-de-flavio-isola-tese-de-fraude-e-encontra-resistencia-ate-entre-aliados-e-partidos-da-direita/"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/eleicoes/2026/ganha-espaco-para-liderar-direita-e-oposicao-a-lula/"
+      },
+      {
+       "n": "Rádio Corredor",
+       "u": "https://radiocorredor.com.br/posts/passarinho-flavio-miami-trump-tarcisio-2910"
       },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/minas-gerais/aliados-mineiros-apontam-perseguicao-a-flavio-e-apoiam-saida-do-pais"
-      },
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/politica/presidente-do-tse-nunes-marques-rebate-acusacoes-de-fraude-e-defende-legitimidade-das-eleicoes-apos-carta-de-flavio-bolsonaro/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/2026/10/28/tarcisio-diz-entender-revolta-de-flavio-mas-afirma-que-eleicao-acabou-e-urnas-devem-ser-respeitadas"
+       "u": "https://www.metropoles.com/sao-paulo/tarcisio-rebate-carta-de-flavio-respeitar-urnas-e-seguir-em-frente"
       }
      ]
     },
@@ -292,6 +273,56 @@
      ]
     },
     {
+     "kicker": "Carta de Flávio",
+     "quando": "Hoje",
+     "titulo": "Tese de fraude encontra resistência na direita; aliados veem perseguição",
+     "resumo": "O PL e outros partidos de oposição já haviam reconhecido o resultado antes da carta, e Rogério Marinho disse não ter provas de fraude. Parte dos aliados, porém, defende a saída do senador e diz que ele é alvo do Judiciário.",
+     "lados": [
+      {
+       "quem": "Flávio e aliados",
+       "txt": "O senador diz ser perseguido pelo STF e contesta a prorrogação do horário de votação; deputados do PL em Minas e outros aliados afirmam que a viagem é um exílio forçado e que não há mandado de prisão contra ele."
+      },
+      {
+       "quem": "TSE e críticos da carta",
+       "txt": "O TSE afirma que a eleição foi segura e que os votos no horário estendido não explicam a diferença; Tarcísio e o governador Jorginho Mello disseram que a eleição acabou e que o resultado deve ser respeitado."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/carta-de-flavio-isola-tese-de-fraude-e-encontra-resistencia-ate-entre-aliados-e-partidos-da-direita/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/minas-gerais/aliados-mineiros-apontam-perseguicao-a-flavio-e-apoiam-saida-do-pais"
+      },
+      {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/politica/presidente-do-tse-nunes-marques-rebate-acusacoes-de-fraude-e-defende-legitimidade-das-eleicoes-apos-carta-de-flavio-bolsonaro/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/2026/10/28/tarcisio-diz-entender-revolta-de-flavio-mas-afirma-que-eleicao-acabou-e-urnas-devem-ser-respeitadas"
+      }
+     ]
+    },
+    {
+     "kicker": "Governo",
+     "quando": "Hoje",
+     "titulo": "Lula começa a montar a equipe do quarto mandato; Fazenda segue em aberto",
+     "resumo": "Relatos de bastidores citados pela TV Sim apontam Camilo Santana para a Casa Civil, Rui Costa para a Infraestrutura e João Campos para Ciência e Tecnologia; nada foi anunciado oficialmente. Dario Durigan, ministro da Fazenda desde março, está entre os nomes avaliados para continuar no cargo.",
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/10/29/lula-articula-novo-ministerio-proximo-governo"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/lula-confirma-durigan-na-fazenda-apos-saida-de-haddad"
+      }
+     ]
+    },
+    {
      "kicker": "Investigação",
      "quando": "Ontem",
      "titulo": "PF diz que ordem de Moraes não previa prisão; Itália confirma que Flávio tem cidadania italiana",
@@ -310,52 +341,6 @@
        "u": "https://ndmais.com.br/politica/flavio-bolsonaro-recebe-autorizacao-para-ficar-um-ano-nos-eua/"
       }
      ]
-    },
-    {
-     "kicker": "Oposição",
-     "quando": "Ontem",
-     "titulo": "Saída de Flávio abre disputa pela liderança da direita",
-     "resumo": "Segundo a CNN Brasil, aliados e partidos do centrão apontam Tarcísio de Freitas como o nome mais forte para 2030; Michelle e Carlos Bolsonaro, eleitos para o Senado, também são citados. Uma coluna da Folha BV relata que parte do PL se disse surpresa por não ter sido avisada da viagem.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://cnnbrasil.com.br/politica/fuga-de-flavio-bolsonaro-abre-disputa-por-lideranca-da-direita-no-brasil"
-      },
-      {
-       "n": "Folha BV",
-       "u": "https://www.folhabv.com.br/colunas/fuga-de-flavio-bolsonaro-decepciona-aliados-e-abala-projeto-politico-do-pl/"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/colunistas/beatriz-manfredini/direita-aguarda-desfecho-de-fuga-de-flavio-bolsonaro-para-reorganizar-oposicao/"
-      }
-     ]
-    },
-    {
-     "kicker": "Senado",
-     "quando": "27/10",
-     "titulo": "Caso Flávio reforça na oposição a ideia de candidatura única contra Alcolumbre",
-     "resumo": "Rogério Marinho (PL-RN) e Tereza Cristina (PP-MS) avaliam que a saída do senador reforça a pauta de impeachment de Alexandre de Moraes, à qual o presidente do Senado se opõe. A eleição para o comando da Casa será em 1º de fevereiro de 2027 e exige 41 dos 81 votos; a federação União Progressista anunciou apoio à recondução de Alcolumbre.",
-     "lados": [
-      {
-       "quem": "Davi Alcolumbre",
-       "txt": "Diz já contar com 48 votos e busca apoio formal de partidos do centrão para um novo mandato."
-      },
-      {
-       "quem": "Oposição",
-       "txt": "Contesta a conta, afirma que ele teria cerca de 38 votos e articula um nome único, com Marinho entre os citados."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/caso-flavio-fortalece-candidatura-unica-da-oposicao-contra-alcolumbre/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/uniao-pp-contrariam-alianca-flavio-apoio-reeleicao-alcolumbre/"
-      }
-     ]
     }
    ]
   },
@@ -367,89 +352,102 @@
    "itens": [
     {
      "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Ibovespa cai 2,68% e fecha aos 171 mil pontos; dólar recua a R$ 5,34",
-     "resumo": "A bolsa teve o segundo dia de forte queda depois da eleição, com investidores à espera de medidas fiscais e preocupados com a possível cobrança de IOF sobre aplicações hoje isentas. Exportadoras como Suzano, PRIO e WEG resistiram melhor; empresas mais endividadas, como Cosan e Vamos, sofreram mais, segundo analistas ouvidos pelo BPMoney. Em Nova York, os índices fecharam em leve alta.",
+     "quando": "Hoje",
+     "titulo": "Ibovespa oscila perto dos 170 mil pontos e dólar sobe a R$ 5,36",
+     "resumo": "Depois de cair 2,68% na quarta, a bolsa abriu em leve baixa e recuava 0,24% às 11h10, aos 170.596 pontos; o dólar subia 0,36%. Investidores acompanham os sinais sobre a equipe econômica e a política fiscal do próximo mandato, além dos dados americanos e da temporada de balanços.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-mais-de-2-e-fecha-aos-171-mil-pontos-com-temor-fiscal/"
+       "n": "Portal do Agronegócio",
+       "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-hoje-sobe-a-r-5-36-e-ibovespa-recua-aos-170-mil-pontos-com-juros-dos-eua-no-radar"
       },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/bolsa-fecha-em-queda-atenta-a-sinalizacao-fiscal-e-sob-resultado-do-fed"
+       "u": "https://www.metropoles.com/brasil/ibovespa-abertura-quinta"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ibovespa-cai-268-e-dolar-fecha-em-leve-baixa-r-534"
+      }
+     ]
+    },
+    {
+     "kicker": "Contas públicas",
+     "quando": "Hoje",
+     "titulo": "Governo central tem superávit de R$ 4,8 bilhões em setembro",
+     "resumo": "Em setembro de 2025 houve déficit de R$ 14,4 bilhões. Segundo o Tesouro, pesaram a alta das receitas com petróleo, a arrecadação de Imposto de Renda e a devolução de recursos de precatórios cancelados; no ano, o déficit acumulado é de cerca de R$ 90 bilhões, abaixo do registrado no mesmo período do ano passado.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/_drCizYcQ2dTn5kZU6-8_TJzdE4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/_ja03456-3.jpg?itok=RhKFAzG4",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
+     },
+     "destaque": false,
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/contas-do-governo-tem-superavit-de-r-48-bilhoes-em-setembro"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/contas-do-governo-registram-superavit-de-r-48-bilhoes-em-setembro"
       }
      ]
     },
     {
      "kicker": "Juros",
      "quando": "Hoje",
-     "titulo": "Aposta em pausa nos cortes da Selic salta para 62% depois da eleição",
-     "resumo": "Pelo Termômetro do Copom, do Valor Investe, baseado em opções negociadas na B3, a chance de manutenção da taxa em 13,75% na reunião de 4 de novembro passou de 17,5% em 23 de outubro para 62% em 27 de outubro. A probabilidade de novo corte de 0,25 ponto caiu de 76% para 28%.",
+     "titulo": "Curva de juros já indica pausa na Selic em novembro e chance de alta em dezembro",
+     "resumo": "Pelos contratos de DI na B3, a maior aposta é de manutenção da taxa em 13,75% na reunião de 4 de novembro, e já há probabilidade majoritária de alta em dezembro, segundo a Bloomberg Línea. Pelas opções da B3, a chance de pausa saltou de 17,5% em 23 de outubro para 62% no dia 27; nesta manhã, as taxas longas voltavam a subir.",
      "fontes": [
+      {
+       "n": "Bloomberg Línea",
+       "u": "https://www.bloomberglinea.com.br/mercados/operadores-abandonam-cenario-de-corte-de-juros-e-veem-chance-de-alta-ate-2027/"
+      },
       {
        "n": "Investir é Começar / Valor Investe",
        "u": "https://investirecocaresocomecar.com.br/selic-copom-novembro-pausa-cortes/"
       },
       {
-       "n": "Meelion",
-       "u": "https://www.meelion.com/blog/mercado-financeiro/copom-novembro-2026-selic-vai-a-1350-ou-para-em-1375/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/"
       }
      ]
     },
     {
      "kicker": "Exterior",
      "quando": "Hoje",
-     "titulo": "Bolsas da Ásia caem e balanço da Alphabet pesa nos futuros de Nova York",
-     "resumo": "Seul recuou 1,24%, Hong Kong 0,59% e Xangai 0,82%, enquanto Tóquio subiu 1,10%. As ações da dona do Google chegaram a cair cerca de 10% antes da abertura, e o comunicado do Fed reforçou apostas de alta de juros em dezembro; BCE e Banco do Japão também decidem taxas até sexta.",
+     "titulo": "PIB dos EUA cresce 3,4% no trimestre e BCE mantém juros em 2,5%",
+     "resumo": "A primeira leitura do PIB americano do terceiro trimestre veio acima dos 3,1% esperados, e a inflação medida pelo PCE subiu 0,5% em setembro, como previsto. Na zona do euro, o Banco Central Europeu manteve as taxas depois da alta de setembro, citando a energia mais cara e a crise política e fiscal na França.",
      "fontes": [
+      {
+       "n": "Safras & Mercado",
+       "u": "https://safras.com.br/pib-do-3o-trimestre-nos-eua-sobe-34-acima-do-esperado-mercado-pce-tem-alta-de-05-em-setembro-no-consenso"
+      },
       {
        "n": "Diário do Grande ABC / Estadão Conteúdo",
-       "u": "https://dgabc.com.br/Noticia/4365656/bolsas-da-asia-fecham-em-baixa-com-balancos-e-juros-no-radar-nikkei-destoa"
+       "u": "https://www.dgabc.com.br/Noticia/4365717/bce-mantem-juros-em-2-5-com-crise-na-franca-e-riscos-inflacionarios-no-radar"
       },
       {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/10/29/shares-and-us-futures-mixed-after-google-parent-alphabets-earnings-disappoint"
+       "n": "Observador",
+       "u": "https://observador.pt/2026/10/29/bce-decide-manter-a-taxa-de-juro-inalterada-em-25-apesar-de-pressoes-inflacionistas/"
       }
      ]
     },
     {
-     "kicker": "Impostos",
-     "quando": "Ontem",
-     "titulo": "Governo estuda cobrar IOF sobre LCI, LCA, CRI, CRA e debêntures incentivadas, diz O Globo",
-     "resumo": "Esses títulos hoje têm alíquota zero, e o benefício fiscal ligado a eles é estimado em R$ 33 bilhões por ano. Como o IOF pode ser alterado por decreto, a cobrança não dependeria de aprovação do Congresso; a alíquota não foi definida e a Fazenda não comentou oficialmente.",
-     "fontes": [
-      {
-       "n": "InfoMoney / O Globo",
-       "u": "https://www.infomoney.com.br/politica/governo-estuda-aplicar-iof-sobre-lci-lca-cri-cra-e-debentures-diz-jornal/"
-      },
-      {
-       "n": "Seu Dinheiro",
-       "u": "https://www.seudinheiro.com/2026/renda-fixa/lcis-lcas-e-outros-isentos-voltam-a-mira-do-governo-e-podem-passar-a-ter-iof-diz-jornal-mlim/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/governo-estuda-iof-sobre-lci-lca-titulos-isentos/"
-      }
-     ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Ontem",
-     "titulo": "Fed mantém juros entre 3,75% e 4% e diz que pode esperar antes de novas altas",
-     "resumo": "A decisão veio como o mercado esperava, depois da alta de 0,25 ponto em setembro. O banco central americano cita pressão de preços da energia, efeitos das tarifas e demanda ligada à inteligência artificial; investidores ainda contam com novas elevações, segundo a InfoMoney.",
+     "kicker": "Empresas",
+     "quando": "Hoje",
+     "titulo": "Ambev lucra R$ 4,37 bilhões no trimestre; Vale divulga resultado à noite",
+     "resumo": "O lucro da cervejaria ficou abaixo dos R$ 4,86 bilhões de um ano antes, quando houve ganhos tributários não recorrentes. Analistas citados pelo Money Times e pelo Seu Dinheiro esperam queda forte no lucro da Vale, com o minério de ferro mais barato.",
      "fontes": [
       {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/economia/juros-fed-eua-outubro-2026/"
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/"
       },
       {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-internacional/fed-mantem-juros-de-375-a-400-em-outubro-de-2026/"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/lucro-liquido-da-vale-vale3-deve-cair-quase-50-no-3t26-veja-os-motivos-e-o-que-mais-esperar-do-balanco-bdap/"
       }
      ]
     }
@@ -464,88 +462,72 @@
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Defesa Civil prevê chuva moderada a forte na Grande São Paulo; Rio Preto tem alerta laranja",
-     "resumo": "Em São Paulo, a chuva desta quinta deve ser mais ampla, com destaque para o norte, o centro e o noroeste do estado, e risco de raios, granizo isolado, alagamentos e deslizamentos. O Inmet emitiu alerta laranja para São José do Rio Preto, com chuva de 30 a 60 mm por hora e ventos de até 100 km/h.",
+     "titulo": "Inmet prevê tempestades em SP, MG e RJ até sexta; sul de Goiás tem aviso laranja",
+     "resumo": "A Defesa Civil paulista espera chuva mais abrangente nesta quinta, com risco de alagamentos e rajadas de vento na capital e no interior. No Nordeste, o interior segue com tempo firme e temperaturas perto de 40 °C, segundo o Inmet.",
      "foto": {
-      "src": "https://imagens.ebc.com.br/PIvJwUGOqnO277LQ44VwuUFlO9s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/v0030538.jpg?itok=oC1QD1mn",
-      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/h8WOZLtq-_G9_boCPqMJ0KmFMTc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/06/chuva_sp_tarde_05.jpg?itok=4QFhKU9L",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/semana-termina-com-previsao-de-chuva-em-grande-parte-do-pais"
+      },
       {
        "n": "Agência SP",
        "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-alerta-para-temporais-em-sao-paulo-com-chuvas-mais-abrangentes-na-quinta-feira-29/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/10/28/chuvas-intensas-e-vento-de-100-km-h-podem-cortar-energia-inmet-poe-sao-jose-do-rio-preto-em-alerta-laranja"
-      },
-      {
-       "n": "Diário de Suzano",
-       "u": "https://www.diariodesuzano.com.br/regiao/2026/10/27/defesa-civil-alerta-para-temporais-em-sao-paulo-com-chuvas-mais-abrangentes-na-quinta-feira-29.html"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-para-chuva-forte-em-sao-paulo/"
       }
      ]
     },
     {
      "kicker": "Minas Gerais",
-     "quando": "Ontem",
-     "titulo": "Quase 5 mil imóveis seguem sem luz três dias após temporal em Minas",
-     "resumo": "A Cemig diz ter religado mais de 99% dos clientes afetados pelo temporal de domingo, que teve mais de 60 mil raios e rajadas de até 150 km/h em Patos de Minas. Na quarta, 4.676 clientes continuavam sem energia, 441 deles em Belo Horizonte.",
+     "quando": "Hoje",
+     "titulo": "Cemig conclui religação de todos os clientes atingidos pelo temporal de domingo",
+     "resumo": "A tempestade de 25 de outubro deixou mais de 641 mil clientes sem luz em 774 municípios, com rajadas de até 150 km/h em Patos de Minas. A empresa informou que cerca de 4.600 profissionais trabalharam sem interrupção e que quedas pontuais registradas desde quinta não têm relação com o temporal.",
      "fontes": [
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/gerais/2026/10/7530017-tres-dias-apos-temporal-cemig-restabelece-energia-para-todos-os-clientes.html"
+      },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/minas-gerais/quase-5-mil-imoveis-seguem-sem-energia-tres-dias-apos-temporal-em-mg"
-      },
-      {
-       "n": "G5 Minas",
-       "u": "https://g5minas.com/regiao-metropolitana-de-bh-registra-64-quedas-de-arvores-em-24-horas-apos-temporal/"
       }
      ]
     },
     {
-     "kicker": "Segurança",
+     "kicker": "Rio Grande do Sul",
      "quando": "Ontem",
-     "titulo": "Um ano após operação com 122 mortos no Rio, Human Rights Watch aponta falhas em câmeras e perícias",
-     "resumo": "Relatório divulgado nesta quarta diz que nenhuma das 117 mortes de civis nos complexos do Alemão e da Penha aparece nas gravações das câmeras corporais e que os locais não foram preservados para perícia; a entidade analisou 4,4 mil horas de vídeo e 122 laudos. O Ministério Público do Rio já apresentou 12 denúncias contra 28 policiais militares por crimes como roubo e descumprimento das regras de uso das câmeras, e a polícia sustenta que as mortes ocorreram em confronto.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/bTF61FPi43Nowt0Qco6mhk4VCuY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/0d4a6512.jpg?itok=Z56pxXrs",
-      "credito": "Joédson Alves/Agência Brasil (arquivo)"
-     },
+     "titulo": "Rio Uruguai atinge cota de alerta em Uruguaiana e tira mais de 200 pessoas de casa",
+     "resumo": "O rio subiu 60 centímetros em 24 horas, segundo o Serviço Geológico do Brasil, e a Defesa Civil prevê novas altas ao menos até sábado. A prefeitura contabiliza 41 desabrigados em abrigos públicos e 176 desalojados na casa de parentes.",
      "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/brasil/2026/10/28/um-ano-apos-operacao-com-122-mortos-investigacao-aponta-falhas-em-cameras-e-pericias-no-rio"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/brasil/ong-aponta-falhas-na-operacao-que-deixou-122-mortos-no-rio"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/sociedade/ong-internacional-aponta-falhas-na-investigacao-da-operacao-contencao/"
-      },
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/um-ano-depois-mortes-da-operacao-contencao-ainda-sao-investigadas"
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/rio-uruguai-esta-em-elevacao-e-atinge-cota-de-alerta-em-uruguaiana"
+      },
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/meio-ambiente/rio-uruguai-atinge-cota-de-alerta-apos-subir-60-centimetros-em-24-horas-no-rs/"
       }
      ]
     },
     {
-     "kicker": "Loteria",
-     "quando": "27/10",
-     "titulo": "Mega-Sena acumula de novo e prêmio vai a R$ 320 milhões",
-     "resumo": "Ninguém acertou as seis dezenas do concurso 3.076 (06, 30, 32, 38, 49 e 57). A quina teve 68 apostas ganhadoras, com cerca de R$ 58 mil cada; o próximo sorteio é o do concurso 3.077.",
-     "foto": {
-      "src": "fotos/megasena.jpg",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
-     },
+     "kicker": "Rio de Janeiro",
+     "quando": "Hoje",
+     "titulo": "PF faz nova fase da Operação Unha e Carne contra lavagem de dinheiro",
+     "resumo": "Foram cumpridos quatro mandados de busca na Barra da Tijuca, autorizados por Alexandre de Moraes, em salas ligadas ao pastor Márcio Poncio e num imóvel de um sobrinho do bicheiro Adilsinho. A defesa do pastor diz que ele não teve acesso à decisão e não foi alvo direto da medida.",
      "fontes": [
       {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/brasil/brasil-geral/resultado-mega-sena-3076-premio-acumula-e-vai-a-r-320-milhoes-veja-numeros/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pf-deflagra-nona-fase-da-operacao-unha-e-carne-no-rio-de-janeiro/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/loterias/2026/10/27/resultado-da-mega-sena-3076-hoje-27-10-veja-os-numeros-sorteados"
+       "n": "ICL Notícias",
+       "u": "https://iclnoticias.com.br/pf-mira-enderecos-ligados-ao-pastor-poncio"
       }
      ]
     },
@@ -574,38 +556,71 @@
    "nota": "Internacional",
    "itens": [
     {
+     "kicker": "Espanha",
+     "quando": "Hoje",
+     "titulo": "Colisão de trens de alta velocidade perto de Toledo deixa 69 mortos",
+     "resumo": "Um trem da Renfe bateu na traseira de um trem parado da Iryo na linha Madri–Sevilha na quarta; mais de 100 pessoas ficaram feridas e equipes ainda vasculham os vagões. O ministro dos Transportes atribuiu o acidente a uma ordem errada de um controlador após falha no sistema de segurança, e o governo decretou três dias de luto.",
+     "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/10/29/espanha-equipes-fazem-buscas-na-esperanca-de-encontrar-sobreviventes.html"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-da-colisao-entre-trens-na-espanha-com-dezenas-de-mortos/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/espanha-equipes-fazem-buscas-na-esperanca-de-encontrar-sobreviventes"
+      }
+     ]
+    },
+    {
      "kicker": "Israel",
      "quando": "Hoje",
-     "titulo": "Com 90% dos votos contados, nenhum bloco tem maioria; Likud acusa fraude de partidos árabes",
-     "resumo": "O bloco de Netanyahu tem 53 das 120 cadeiras, o de Gadi Eisenkot, 48, e os partidos árabes somam 19, um recorde. Faltam cerca de 450 mil votos especiais, de militares e diplomatas, cuja contagem deve terminar nesta quinta; o resultado oficial sai em 4 de novembro.",
+     "titulo": "Israel investiga suspeita de compra de votos; bloco de Netanyahu segue sem maioria",
+     "resumo": "Com quase todos os votos contados, o bloco do premiê tem 53 das 120 cadeiras, o de Gadi Eisenkot 48 e os partidos árabes 19. O comitê eleitoral mandou o Shin Bet apurar suspeitas de financiamento estrangeiro, e quatro membros do partido Ra’am foram presos sob suspeita de oferecer dinheiro por votos; o resultado deve ser certificado até 4 de novembro.",
      "lados": [
       {
        "quem": "Likud",
-       "txt": "O partido do premiê diz que a eleição foi roubada por meio de compra de votos e ameaças em áreas árabes e pediu investigação à polícia e ao Shin Bet; Netanyahu rejeita um governo que dependa desses partidos."
+       "txt": "O partido de Netanyahu afirma que partidos árabes receberam dinheiro do exterior e “roubaram” a eleição, sem apresentar provas publicamente, e rejeita qualquer governo que dependa deles."
       },
       {
-       "quem": "Comitê eleitoral e oposição",
-       "txt": "Um integrante do comitê rejeitou as acusações, e o órgão diz analisá-las dentro do monitoramento de rotina; Eisenkot afirma que os eleitores escolheram mudança e pede a saída de Netanyahu."
+       "quem": "Oposição e partidos árabes",
+       "txt": "O Ra’am nega as acusações; Eisenkot apoia a investigação, mas diz que ela não pode atrasar a posse do novo Parlamento, e Yair Golan acusa o premiê de não aceitar o resultado."
       }
      ],
      "fontes": [
       {
-       "n": "Times of Israel",
-       "u": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/10/29/apos-perder-maioria-no-parlamento-netanyahu-contesta-eleicoes-em-israel-e-acusa-fraude/"
       },
       {
        "n": "Ynet",
        "u": "https://www.ynetnews.com/article/hjnatbkaml"
       },
       {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/10/28/netanyahu-lidera-apuracao-em-israel-mas-nao-obtem-maioria-e-bancada-palestina-bate-recorde-com-19-cadeiras/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/quem-venceu-a-eleicao-em-israel-e-o-que-acontece-agora,2ea900309f19a5ed3e998b170b8a4db37j6qx8sb.html"
+       "n": "Jerusalem Post",
+       "u": "https://www.jpost.com/israel-election-2026/article-913122"
       }
      ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Ontem",
+     "titulo": "Democratas cobram explicações de Trump sobre entrada de Flávio nos EUA",
+     "resumo": "Trump confirmou que autorizou a entrada do senador, chamou a eleição brasileira de “muito estranha” e disse que não vai se envolver na disputa. Parlamentares democratas como Joaquin Castro e Andy Kim afirmam que perder uma eleição não justifica asilo e comparam o caso às restrições impostas a refugiados de outros países.",
+     "fontes": [
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/democratas-cobram-explicacoes-de-trump-sobre-vistos-a-flavio-bolsonaro-e-criticam-rubio/"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/10/29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us"
+      }
+     ],
+     "destaque": false
     },
     {
      "kicker": "Ucrânia",
@@ -620,56 +635,6 @@
       {
        "n": "Swissinfo",
        "u": "https://swissinfo.ch/por/ucr%C3%A2nia-sofre-novos-ataques;-zelensky-critica-a-r%C3%BAssia/92256660"
-      }
-     ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Ontem",
-     "titulo": "Trump chama eleição brasileira de “muito estranha”, mas diz que não vai se envolver",
-     "resumo": "Questionado sobre a carta em que Flávio Bolsonaro se diz o presidente legítimo, Trump disse que não comentaria a reivindicação. O Departamento de Segurança Interna confirmou que o senador passou pela inspeção de fronteira e foi liberado.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/10/29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us"
-      },
-      {
-       "n": "Outlook India",
-       "u": "https://www.outlookindia.com/international/fl%C3%A1vio-bolsonaro-says-he-was-stunned-by-an-electoral-fraud-with-trump-calling-brazil-vote-very-strange"
-      },
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/politica/flavio-bolsonaro-recebe-autorizacao-para-ficar-um-ano-nos-eua/"
-      }
-     ]
-    },
-    {
-     "kicker": "ONU",
-     "quando": "Ontem",
-     "titulo": "Resolução contra o embargo a Cuba é aprovada com o menor apoio em três décadas",
-     "resumo": "Foram 130 votos a favor, 17 contra e 25 abstenções, ante 165 a 7 no ano passado; Argentina, Paraguai, Colômbia, Equador e Costa Rica passaram a votar com os EUA, e Alemanha e Itália se abstiveram. A resolução não tem efeito obrigatório, e as sanções dependem do governo americano.",
-     "lados": [
-      {
-       "quem": "Estados Unidos",
-       "txt": "O embaixador Mike Waltz comemorou a mudança e disse esperar que a tendência continue; Washington atribui a crise cubana à repressão política e à política econômica do regime."
-      },
-      {
-       "quem": "Brasil e defensores da resolução",
-       "txt": "O embaixador Sérgio Danese, que votou a favor, disse que as sanções prejudicam a economia e a ajuda humanitária a Cuba e questionou a inclusão do país na lista americana de patrocinadores do terrorismo."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "ONU News",
-       "u": "https://news.un.org/pt/story/2026/10/1854778"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/cuba-perde-35-votos-na-onu-apos-ofensiva-diplomatica-de-trump-brasil-mantem-apoio-ao-regime/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/10/28/resolucao-contra-embargo-a-cuba-tem-menor-apoio-na-onu-em-tres-decadas"
       }
      ]
     },
@@ -698,6 +663,38 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
+     "kicker": "Agenda",
+     "quando": "Hoje",
+     "titulo": "Clássicos marcam a noite: Vasco x Flamengo e Atlético-MG x Cruzeiro",
+     "resumo": "O líder Flamengo visita o Vasco, que tem 38 pontos, às 20h. O Cruzeiro, com 54 pontos, enfrenta o Atlético-MG, com 50, na Arena MRV às 19h30; às 21h30, o Grêmio, primeiro time na zona de rebaixamento, recebe o Athletico-PR.",
+     "fontes": [
+      {
+       "n": "Campo Grande News",
+       "u": "https://www.campograndenews.com.br/esportes/classicos-entre-vasco-x-flamengo-e-atletico-x-cruzeiro-agitam-o-brasileirao"
+      },
+      {
+       "n": "Torcedores.com",
+       "u": "https://www.torcedores.com/noticias/2026/10/futebol-na-tv-hoje-quinta-29-tem-vasco-x-flamengo-e-atletico-mg-x-cruzeiro"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Remo vence o Botafogo após 12 jogos sem vitória; Bahia bate o São Paulo",
+     "resumo": "Em Belém, o Remo fez 2 a 1 e chegou a 29 pontos, seis atrás do primeiro time fora da zona de rebaixamento; o Botafogo ficou com 39. Em Salvador, o Bahia venceu o São Paulo por 3 a 2 e está a um ponto do Fluminense, quinto colocado.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/remo-volta-vencer-apos-12-jogos-e-complica-botafogo-no-brasileirao"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/brasileirao-veja-os-melhores-momentos-dos-jogos-dessa-quarta-feira-28-10"
+      }
+     ]
+    },
+    {
      "kicker": "Brasileirão",
      "quando": "Ontem",
      "titulo": "Santos e Palmeiras empatam sem gols, e Flamengo segue na liderança",
@@ -718,51 +715,11 @@
      ]
     },
     {
-     "kicker": "Agenda",
-     "quando": "Hoje",
-     "titulo": "Flamengo enfrenta o Vasco em São Januário e pode abrir vantagem",
-     "resumo": "O clássico carioca começa às 20h. Antes, às 19h30, Atlético-MG e Cruzeiro fazem o clássico mineiro; às 21h30, o Grêmio recebe o Athletico.",
-     "fontes": [
-      {
-       "n": "Torcedores.com",
-       "u": "https://www.torcedores.com/noticias/2026/10/futebol-na-tv-hoje-quinta-29-tem-vasco-x-flamengo-e-atletico-mg-x-cruzeiro"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/esporte/vasco-x-flamengo-provaveis-escalacoes-como-chegam-onde-assistir-retrospecto-e-palpite/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/atletico-mg/atletico-deve-ter-time-mesclado-para-classico-contra-o-cruzeiro,e81981520ad4a7507fcd37366572e7a1w5ugynnw.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Rodada",
-     "quando": "Ontem",
-     "titulo": "Bahia vence o São Paulo por 3 a 2; Fluminense e Remo também ganham",
-     "resumo": "Na mesma noite, o Fluminense bateu o Internacional por 2 a 1, o Remo venceu o Botafogo pelo mesmo placar e o Bragantino fez 3 a 0 na Chapecoense.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-veja-os-melhores-momentos-dos-jogos-dessa-quarta-feira-28-10"
-      },
-      {
-       "n": "Vavel",
-       "u": "https://www.vavel.com/br/futebol/2026/10/28/1277048-bahia-x-sao-paulo-ao-vivo-brasileirao.html"
-      }
-     ]
-    },
-    {
      "kicker": "Libertadores",
      "quando": "Ontem",
      "titulo": "Conmebol rejeita protesto do Flamengo, e Estudiantes enfrenta o Palmeiras na final",
      "resumo": "O Flamengo contestava a escalação do zagueiro Marcos Rojo na semifinal do Maracanã, alegando que a inscrição dele era provisória; a Comissão Disciplinar negou o pedido por completo. O clube ainda pode recorrer à Comissão de Apelações e aguarda o julgamento na Corte Arbitral do Esporte. A final é em 28 de novembro, no Centenário, em Montevidéu.",
      "fontes": [
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/conmebol-rejeita-protesto-flamengo-estudiantes-final-libertadores/"
-      },
       {
        "n": "Terra",
        "u": "https://www.terra.com.br/esportes/flamengo/conmebol-toma-atitude-surpreendente-sobre-a-final-da-libertadores-revela-jornal,24040b65f0b1dcf9bab82561dbc00673al4aw93f.html"
@@ -790,6 +747,18 @@
       {
        "n": "Plantão Brasil",
        "u": "https://www.plantaobrasil.net/noticias/160493-ministerio-da-saude-planeja-nova-rede-de-assistencia-para-mulheres-na-menopausa"
+      }
+     ]
+    },
+    {
+     "kicker": "Vacinação",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde lança painel para acompanhar vacina contra meningite em adolescentes",
+     "resumo": "A ferramenta mostra a cobertura da vacina meningocócica ACWY entre jovens de 11 a 14 anos, por município, para orientar campanhas onde a vacinação está baixa. A dose protege contra quatro tipos da bactéria que causa meningite e faz parte do calendário do SUS.",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365747/ministerio-da-saude-cria-painel-para-monitorar-vacina-contra-meningite-em-adolescentes-"
       }
      ]
     },
@@ -826,22 +795,6 @@
       {
        "n": "Canal 38",
        "u": "https://canal38.com.br/tecpar-submete-a-anvisa-pedido-de-registro-da-vacina-contra-varicela/"
-      }
-     ]
-    },
-    {
-     "kicker": "Orçamento",
-     "quando": "Ontem",
-     "titulo": "Governo remaneja R$ 5,2 bilhões para BPC e remédios do SUS",
-     "resumo": "Portaria publicada nesta quarta destina cerca de R$ 4,7 bilhões ao pagamento do BPC a pessoas com deficiência e da Renda Mensal Vitalícia, e R$ 387,6 milhões à assistência farmacêutica do SUS. O dinheiro vem do cancelamento de outras dotações já previstas no Orçamento.",
-     "fontes": [
-      {
-       "n": "Mercado & Consumo",
-       "u": "https://mercadoeconsumo.com.br/28/10/2026/economia/governo-libera-credito-de-r-52-bilhoes-para-reforcar-assistencia-social-e-saude/"
-      },
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365487/governo-destina-rs-4-7-bilhoes-a-beneficios-assistenciais"
       }
      ]
     },
@@ -966,6 +919,26 @@
    "nota": "Meio ambiente, pesquisa e inovação",
    "itens": [
     {
+     "kicker": "Meio ambiente",
+     "quando": "Hoje",
+     "titulo": "Vegetação nativa do Brasil está mais fragmentada, aponta MapBiomas",
+     "resumo": "Entre 1986 e 2024, o número de fragmentos de mata nativa passou de 2,35 milhões para 3,41 milhões, e o tamanho médio caiu 43%, segundo o módulo de degradação do MapBiomas apresentado na COP17 da biodiversidade, na Armênia. A Mata Atlântica tem os fragmentos mais numerosos e menores, com média de 25 hectares.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/2355XKR6ST3_VGgsOaqq2zwN_Fw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/29/dji_0511_1-2.jpg?itok=3rgAse7U",
+      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/brasil-diminui-em-43-area-de-vegetacao-nativa-fragmentada"
+      },
+      {
+       "n": "Revista Amazônia",
+       "u": "https://revistaamazonia.com.br/cop17-biodiversidade-us-200-bilhoes-amazonia"
+      }
+     ]
+    },
+    {
      "kicker": "Big techs",
      "quando": "Ontem",
      "titulo": "Microsoft supera previsões; Alphabet tem lucro abaixo do esperado e ação cai 9%",
@@ -1036,22 +1009,6 @@
        "u": "https://www.clickondetroit.com/business/2026/10/27/asian-stocks-advance-following-a-rally-on-wall-street-and-oil-prices-fall/"
       }
      ]
-    },
-    {
-     "kicker": "Chips",
-     "quando": "27/10",
-     "titulo": "OpenAI planeja comprar chips de IA do Google, diz The Information",
-     "resumo": "A empresa quer usar as TPUs do Google para ampliar a capacidade de processamento e reduzir a dependência da Nvidia; os termos não foram definidos. A OpenAI também desenvolve chips próprios com a Broadcom.",
-     "fontes": [
-      {
-       "n": "Investing.com",
-       "u": "https://br.investing.com/news/stock-market-news/openai-planeja-comprar-chips-de-ia-do-google-para-expandir-capacidade-2105048"
-      },
-      {
-       "n": "Agora Litoral",
-       "u": "https://agoralitoral.com.br/2026/10/27/openai-planeja-comprar-chips-de-ia-do-google-para-reduzir-dependencia-da-nvidia/"
-      }
-     ]
     }
    ]
   },
@@ -1064,16 +1021,28 @@
     {
      "kicker": "Mostra de SP",
      "quando": "Hoje",
-     "titulo": "Mostra de São Paulo anuncia os vencedores nesta noite",
-     "resumo": "A 50ª edição divulgou os 15 filmes da Competição Novos Diretores mais votados pelo público, entre eles \"Brasas\", \"Horizonte\" e \"Meu Semba\". Os vencedores do Troféu Bandeira Paulista serão anunciados na quinta (29), na cerimônia de encerramento na Cultura Artística.",
+     "titulo": "Mostra de São Paulo encerra 50ª edição com premiação nesta noite",
+     "resumo": "O Troféu Bandeira Paulista será entregue no Cultura Artística; o júri tem Boots Riley, Ali Asgari, César Augusto Acevedo e Laís Bodanzky. Na primeira semana, o público destacou 15 dos 115 filmes da Competição Novos Diretores, entre eles o brasileiro “Adeus, Verão!”, de Diego de Jesus.",
      "fontes": [
+      {
+       "n": "JWave",
+       "u": "https://www.jwave.com.br/2026/10/mostra-de-cinema-de-sao-paulo-revela-os-15-filmes-favoritos-do-publico/"
+      },
       {
        "n": "Revista de Cinema",
        "u": "https://revistadecinema.com.br/2026/10/mostra-revela-os-15-filmes-preferidos-do-publico/"
-      },
+      }
+     ]
+    },
+    {
+     "kicker": "TV",
+     "quando": "27/10",
+     "titulo": "Morre aos 91 anos Roberto Maya, apresentador do Documento Especial",
+     "resumo": "O ator e jornalista morreu em Campinas, por insuficiência respiratória. Começou no rádio nos anos 1950, atuou em novelas da Tupi e da Globo e apresentou o Documento Especial, programa sobre temas sociais que passou por Manchete, SBT e Band.",
+     "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/mostra-internacional-de-cinema-de-sp-comeca-nesta-quinta-feira"
+       "n": "OFuxico",
+       "u": "https://ofuxico.com.br/morte/roberto-maya-do-documento-especial-morre-aos-91-anos-relembre-a-carreira"
       }
      ]
     },
@@ -1126,22 +1095,6 @@
       {
        "n": "O Povo",
        "u": "https://mais.opovo.com.br/reportagens-especiais/belchior/2026/10/28/uma-saudade-chamada-belchior.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Obituário",
-     "quando": "26/10",
-     "titulo": "Morre aos 90 anos Walter Koenig, o Chekov de Jornada nas Estrelas",
-     "resumo": "O ator morreu em casa, em Los Angeles, segundo seu agente. Ele interpretou o navegador russo na série original e em sete filmes, e também atuou em Babylon 5.",
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/10/26/walter-koenig-ator-de-jornada-nas-estrelas-morre-aos-90-anos.html"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/2026/10/26/morre-walter-koenig-o-chekov-de-jornada-nas-estrelas-aos-90-anos"
       }
      ]
     }
