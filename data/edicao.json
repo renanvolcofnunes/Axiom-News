@@ -1,27 +1,27 @@
 {
- "data": "Quinta-feira, 29 de outubro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "29/10/2026 · 19h10 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 18h00",
- "fontes": 50,
+ "data": "Sexta-feira, 30 de outubro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "30/10/2026 · 07h05 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de 29/10, 18h00",
+ "fontes": 49,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento",
+   "nome": "Ibovespa · fechamento 29/10",
    "valor": "169.186 pts",
    "var": "−1,06%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · fechamento",
-   "valor": "R$ 5,39",
+   "nome": "Dólar comercial · fechamento 29/10",
+   "valor": "R$ 5,38",
    "var": "+0,89%",
    "dir": "up"
   },
   {
-   "nome": "Petróleo Brent · fechamento",
-   "valor": "US$ 114,88",
-   "var": "−0,38%",
+   "nome": "Bitcoin · manhã de 30/10",
+   "valor": "US$ 77 mil",
+   "var": "cerca de −2%",
    "dir": "down"
   },
   {
@@ -39,19 +39,24 @@
  ],
  "agenda": [
   {
-   "hora": "Qui 29 · noite",
-   "txt": "Vale divulga o balanço do terceiro trimestre após o fechamento; analistas projetam lucro menor com o minério em baixa",
+   "hora": "Sex 30 · manhã",
+   "txt": "IBGE divulga a taxa de desemprego (Pnad Contínua) do trimestre encerrado em setembro",
    "cat": "economia"
   },
   {
-   "hora": "19h30",
-   "txt": "Atlético-MG x Cruzeiro; Vasco x Flamengo às 20h e Grêmio x Athletico às 21h30 (horários de Brasília)",
+   "hora": "Sex 30",
+   "txt": "Ponto facultativo do Dia do Servidor nas repartições federais; serviços essenciais funcionam",
+   "cat": "brasil"
+  },
+  {
+   "hora": "Sex 30 · 15h30",
+   "txt": "Primeiro treino livre do GP do México de Fórmula 1; à noite, Corinthians enfrenta o Mirassol pelo Brasileirão",
    "cat": "esporte"
   },
   {
-   "hora": "Sex 30",
-   "txt": "Ponto facultativo do Dia do Servidor nas repartições federais",
-   "cat": "brasil"
+   "hora": "Dom 1º/11",
+   "txt": "Palmeiras x Vasco, ida da semifinal da Copa do Brasil, às 16h; GP do México às 17h (horários de Brasília)",
+   "cat": "esporte"
   },
   {
    "hora": "Ter 3/11",
@@ -59,13 +64,8 @@
    "cat": "mundo"
   },
   {
-   "hora": "Qua 4/11",
-   "txt": "Copom decide a Selic; Ministério do Trabalho divulga o Caged de setembro",
-   "cat": "economia"
-  },
-  {
-   "hora": "Dom 8/11",
-   "txt": "Primeiro dia de provas do Enem; portões fecham às 13h",
+   "hora": "Qua 4/11 e Dom 8/11",
+   "txt": "Copom decide a Selic na quarta; primeiro dia de provas do Enem no domingo, com portões fechando às 13h",
    "cat": "educacao"
   }
  ],
@@ -162,44 +162,40 @@
   }
  ],
  "manchete": {
-  "kicker": "Flávio Bolsonaro",
-  "titulo": "Trump chama eleição brasileira de “desgraça”, mas diz que não vai se envolver; coletiva de Flávio é cancelada",
-  "resumo": "Questionado sobre a carta em que Flávio Bolsonaro se apresentou como presidente eleito, Trump afirmou nesta quinta que vai conversar com Lula e que não tomou partido na disputa a pedido do petista. A entrevista coletiva que aliados haviam anunciado para esta tarde em Miami foi cancelada.",
-  "foto": {
-   "src": "https://imagens.ebc.com.br/WzdWZ5Di1qifhqnxvJi-5_ecDr0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/25/0d4a6236.jpg?itok=L148hQ-O",
-   "credito": "Joédson Alves/Agência Brasil (arquivo)"
-  },
-  "entenda": "Derrotado por Lula no segundo turno de 25 de outubro, Flávio deixou o país na noite de terça (27), depois de Alexandre de Moraes determinar a entrega dos passaportes em inquéritos sobre suposta lavagem de dinheiro ligada a apostas e sobre o financiamento do filme Dark Horse; ele nega irregularidades. Já nos EUA, divulgou uma carta que, na primeira versão, o chamava de “verdadeiro presidente eleito” e alegava fraude por causa da prorrogação do horário de votação; cerca de meia hora depois, o trecho foi trocado por “líder do Brasil”. Segundo a Agência Brasil, os votos no horário estendido somaram 34.393, para uma diferença de cerca de 5 milhões entre os candidatos.",
+  "kicker": "Criptomoedas",
+  "titulo": "Binance confirma ataque hacker de US$ 6,3 bilhões, o maior já registrado no mercado de criptomoedas",
+  "resumo": "A maior corretora de criptomoedas do mundo informou na noite de quinta que invasores desviaram ativos por meio do notebook de um engenheiro e que cerca de US$ 3 bilhões já foram congelados. Saques estão suspensos, e o bitcoin recuava cerca de 2% nesta manhã, perto de US$ 77 mil.",
+  "entenda": "Segundo a apuração preliminar divulgada pela própria Binance, o computador de um engenheiro da área de infraestrutura foi comprometido, o que deu ao invasor acesso a um serviço interno usado para autorizar retiradas. A empresa diz não ter encontrado sinais de vazamento das chaves privadas das carteiras e afirma que vai cobrir todas as perdas com recursos próprios e com o SAFU, seu fundo de emergência. Empresas de rastreamento de blockchain atribuem o roubo a hackers ligados à Coreia do Norte; o governo norte-coreano costuma negar acusações desse tipo. O valor supera o de todos os ataques anteriores a corretoras de criptomoedas.",
   "fatos": [
-   "Segundo colunista do SBT News, um integrante do governo Trump disse, sem se identificar, que Washington não quer ver o senador se apresentar como presidente de fato; Trump confirmou que os EUA autorizaram a entrada de Flávio.",
-   "Integrantes do governo ouvidos pelo g1 dizem que o Planalto não pretende reagir diplomaticamente e quer manter relações pragmáticas com EUA e Argentina.",
-   "O senador Rogério Marinho, coordenador da campanha de Flávio, disse que o PL não tem provas de fraude; o presidente do TSE, Nunes Marques, afirmou que a eleição transcorreu com normalidade."
+   "TRM Labs e Chainalysis dizem ter alta confiança de que um grupo de hackers norte-coreano está por trás do ataque, segundo a CNN Brasil.",
+   "A Binance pausou depósitos e saques, revogou a autorização do endereço afetado e acionou a polícia; promete publicar um relatório completo e uma nova prova de reservas.",
+   "Bitcoin, ether e BNB caíram logo após a notícia e recuperaram parte das perdas; na manhã desta sexta, o bitcoin cedia cerca de 2%, segundo a BitNotícias."
   ],
   "fontes": [
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/mundo/trump-diz-que-vai-falar-com-lula-e-chama-eleicao-no-brasil-de-desgraca",
-    "d": "Declaração de Trump"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/economia/hackers-da-coreia-do-norte-sao-suspeitos-de-roubo-de-us-6-bi-na-binance/",
+    "d": "Suspeita sobre Coreia do Norte"
    },
    {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/mundo/trump-diz-que-nao-vai-se-envolver-apos-flavio-se-declarar-presidente-eleito-do-brasil-em-carta/",
-    "d": "Trump sobre a carta"
+    "n": "Exame",
+    "u": "https://exame.com/future-of-money/caso-binance-corretora-diz-que-ataque-hacker-atingiu-us-63-bilhoes/",
+    "d": "Valor e origem do ataque"
    },
    {
-    "n": "Estado de Minas",
-    "u": "https://www.em.com.br/politica/2026/10/7530105-o-recado-duro-da-casa-branca-para-flavio-bolsonaro.html",
-    "d": "Coletiva cancelada"
+    "n": "CoinDesk",
+    "u": "https://www.coindesk.com/pt-br/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+    "d": "Impacto no mercado"
    },
    {
-    "n": "Imirante / g1",
-    "u": "https://imirante.com/noticias/brasil/2026/10/29/ipolitica-lula-mantem-pragmatismo-apos-saida-flavio-bolsonaro",
-    "d": "Posição do Planalto"
+    "n": "Swissinfo / AFP",
+    "u": "https://www.swissinfo.ch/por/plataforma-de-criptomoedas-binance-confirma-ciberataque-de-us$-6,3-bilh%C3%B5es/92301076",
+    "d": "Confirmação da Binance"
    },
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-carta-flavio-agradece-milei-e-trump-por-apoio-para-fugir-do-brasil",
-    "d": "Conteúdo da carta"
+    "n": "BitNotícias",
+    "u": "https://bitnoticias.com.br/noticias/preco-do-bitcoin-hoje-30-de-outubro-de-2026/",
+    "d": "Preço do bitcoin"
    }
   ]
  },
@@ -211,8 +207,66 @@
    "nota": "Brasil",
    "itens": [
     {
+     "kicker": "Oposição",
+     "quando": "Ontem",
+     "titulo": "Flávio Bolsonaro deve lançar candidatura a 2030 dos EUA; Valdemar diz que não gostou da carta",
+     "resumo": "Segundo a colunista Mônica Bergamo, da Folha, aliados dizem que o senador pretende anunciar nos próximos dias que disputará a Presidência em 2030, o que é lido como tentativa de conter Tarcísio de Freitas e Michelle Bolsonaro na direita. Ao visitar Jair Bolsonaro em Brasília, o presidente do PL, Valdemar Costa Neto, disse que não gostou da carta em que Flávio se apresentou como presidente eleito.",
+     "lados": [
+      {
+       "quem": "Flávio e aliados",
+       "txt": "O senador afirma que não fugiu, que deixou o país para exercer a liderança da oposição com liberdade e que é alvo de perseguição judicial; promete pronunciamentos regulares e mobilização por meios pacíficos."
+      },
+      {
+       "quem": "Críticos",
+       "txt": "Governistas e parte da direita dizem que a viagem enfraquece a oposição; Tarcísio afirmou entender a indignação de Flávio, mas defendeu respeito ao resultado das urnas."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Bahia Notícias / Folha",
+       "u": "https://www.bahianoticias.com.br/noticia/323142-derrotado-em-2026-flavio-bolsonaro-deve-anunciar-candidatura-para-2030-e-tenta-frear-tarcisio-e-michelle-na-direita"
+      },
+      {
+       "n": "Correio / Metrópoles",
+       "u": "https://www.correio24horas.com.br/brasil/valdemar-visita-jair-bolsonaro-e-critica-carta-de-flavio-nao-gostei-1026"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-declara-lideranca-da-oposicao-a-partir-dos-eua/"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/colunistas/eliseu-caetano/flavio-deve-ir-a-washington-para-articulacao-com-governo-trump-dizem-aliados/"
+      }
+     ]
+    },
+    {
+     "kicker": "Relações exteriores",
+     "quando": "Ontem",
+     "titulo": "Trump diz que vai falar com Lula; Planalto indica que presidente não vai procurá-lo, mas aceita a conversa",
+     "resumo": "Trump afirmou que Lula lhe pediu para não tomar partido na eleição e que atendeu ao pedido, embora tenha voltado a criticar o processo eleitoral brasileiro. Segundo relatos da imprensa, o presidente brasileiro não pretende tomar a iniciativa do telefonema e quer manter uma relação pragmática com Washington.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/trump-diz-que-lula-pediu-neutralidade-sobre-as-eleicoes-no-brasil"
+      },
+      {
+       "n": "Jornal do Comércio",
+       "u": "https://www.jornaldocomercio.com/politica/2026/10/1268783-trump-diz-que-conversara-com-lula-e-que-petista-lhe-pediu-para-nao-tomar-lado.html"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/mundo/trump-diz-que-nao-vai-se-envolver-sobre-flavio-afirmar-ser-presidente-eleito-do-brasil/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/donald-trump-diz-que-pretende-conversar-com-presidente-lula"
+      }
+     ]
+    },
+    {
      "kicker": "Carta de Flávio",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Coordenador da campanha diz que PL não tem provas de fraude; aliados mantêm tese de perseguição",
      "resumo": "Rogério Marinho, líder da oposição no Senado, disse que nem ele nem o partido podem afirmar que houve fraude e tratou a carta de Flávio como desabafo. O deputado Paulo Bilynskyj havia anunciado para esta quinta a apresentação de supostas provas; até a noite, nada havia sido divulgado.",
      "lados": [
@@ -246,61 +300,21 @@
     },
     {
      "kicker": "Governo",
-     "quando": "Hoje",
-     "titulo": "Planalto evita reagir à saída de Flávio; Lula estuda criar Ministério do Idoso",
-     "resumo": "Integrantes do governo ouvidos pelo g1 dizem que a orientação é não transformar o caso em atrito diplomático com EUA e Argentina. Na montagem do quarto mandato, segundo a CNN, Lula discute em caráter preliminar uma pasta para idosos, com Paulo Paim e Alexandre Cardoso citados por aliados; a Fazenda segue sem definição e nada foi anunciado.",
+     "quando": "Ontem",
+     "titulo": "Lula quer definir vaga no STF com Alcolumbre ainda neste ano; Pacheco é o mais cotado",
+     "resumo": "Segundo a CNN Brasil, o presidente pretende negociar a indicação diretamente com o presidente do Senado antes da posse dos novos senadores, em fevereiro, e o ministro do TCU Rodrigo Pacheco é o nome preferido. Aliados dizem que o novo ministério deve ser anunciado só depois da COP31; Camilo Santana é citado para a Casa Civil ou a Segurança Pública.",
      "fontes": [
-      {
-       "n": "Imirante / g1",
-       "u": "https://imirante.com/noticias/brasil/2026/10/29/ipolitica-lula-mantem-pragmatismo-apos-saida-flavio-bolsonaro"
-      },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/lula-cogita-criar-ministerio-do-idoso-em-quarto-governo/"
+       "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/lula-quer-negociar-indicacao-ao-stf-com-alcolumbre-ainda-neste-ano/"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/lula-confirma-durigan-na-fazenda-apos-saida-de-haddad"
-      }
-     ]
-    },
-    {
-     "kicker": "Oposição",
-     "quando": "28/10",
-     "titulo": "Tarcísio admite pela primeira vez pensar em candidatura presidencial",
-     "resumo": "Reeleito em São Paulo no primeiro turno, o governador disse na quarta que cogita disputar a Presidência, possivelmente em 2030, e em vídeo repetiu que a eleição acabou e defendeu uma oposição vigilante. Marcos Pereira, presidente do Republicanos, o chama de principal nome do partido; parlamentares do PL evitam falar do futuro e dizem que é cedo para discutir a próxima disputa.",
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/eleicoes/2026/ganha-espaco-para-liderar-direita-e-oposicao-a-lula/"
+       "n": "Cidade Verde",
+       "u": "https://cidadeverde.com/ultimas/465547/wellington-diz-que-lula-deve-anunciar-ministros-apos-cop31-e-poe-rafael-no-radar"
       },
       {
-       "n": "Rádio Corredor",
-       "u": "https://radiocorredor.com.br/posts/passarinho-flavio-miami-trump-tarcisio-2910"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/sao-paulo/tarcisio-rebate-carta-de-flavio-respeitar-urnas-e-seguir-em-frente"
-      }
-     ]
-    },
-    {
-     "kicker": "Investigação",
-     "quando": "28/10",
-     "titulo": "PF diz que ordem de Moraes não previa prisão; Itália confirma que Flávio tem cidadania italiana",
-     "resumo": "Segundo a Polícia Federal, a decisão que restringiu os passaportes não autorizava prender o senador, e a restrição por si só não o torna foragido. O governo italiano informou que ele é cidadão do país desde 2023; reportagens apontam que ele usou passaporte italiano no trecho entre Argentina e Equador.",
-     "fontes": [
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/politica/pf-restricao-passaporte-nao-torna-flavio-foragido/"
-      },
-      {
-       "n": "Jornal Razão",
-       "u": "https://jornalrazao.com/politica/caneta-moraes-nao-chega-roma-flavio-bolsonaro-cidadao-italiano-passaporte"
-      },
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/politica/flavio-bolsonaro-recebe-autorizacao-para-ficar-um-ano-nos-eua/"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/politica/2026/10/29/espaco-do-ceara-no-ministerio-de-lula-e-cenario-da-oposicao-apos-fuga-de-flavio-jogo-politico.html"
       }
      ]
     }
@@ -313,28 +327,64 @@
    "nota": "Mercado e indicadores",
    "itens": [
     {
+     "kicker": "Balanços",
+     "quando": "Ontem",
+     "titulo": "Lucro da Vale cai 56% no terceiro trimestre, para R$ 6,4 bilhões",
+     "resumo": "Em dólares, o lucro foi de US$ 1,2 bilhão, abaixo do que esperavam os analistas, e a receita caiu 4%, para R$ 54,4 bilhões. A mineradora atribui o resultado ao minério mais barato, à produção menor e ao frete marítimo mais caro com a alta do petróleo.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/10/29/lucro-da-vale-cai-56-no-terceiro-trimestre-para-r-6-4-bilhoes"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/vale-vale3-balanco-3t26/"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/economia/lucro-da-vale-cai-56-no-terceiro-trimestre-para-r-64-bilhoes/"
+      }
+     ]
+    },
+    {
      "kicker": "Mercado",
-     "quando": "Hoje",
-     "titulo": "Ibovespa cai 1,06% e fecha aos 169 mil pontos; dólar sobe a R$ 5,39",
-     "resumo": "A bolsa teve a quarta queda seguida, pressionada por preocupações com as contas públicas, por balanços fracos e pelo recuo de Wall Street. Petrobras e Vale caíram, assim como varejistas e construtoras; Gerdau e WEG lideraram as altas.",
+     "quando": "Ontem",
+     "titulo": "Ibovespa cai pela quarta sessão seguida e fecha aos 169 mil pontos; dólar vai a R$ 5,38",
+     "resumo": "O índice recuou 1,06%, a 169.186 pontos, com investidores cautelosos sobre as contas públicas e à espera de sinais da política econômica do próximo mandato. O dólar comercial terminou o dia em alta, a R$ 5,387.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-hoje-queda-dolar-sobe-29-outubro-2026/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/ibovespa-cai-pela-4a-vez-seguida-e-dolar-fecha-a-r-538"
       },
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/ibovespa-hoje-queda-dolar-sobe-29-outubro-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Petróleo",
+     "quando": "Ontem",
+     "titulo": "Petrobras anuncia terceira descoberta de petróleo no poço Morpho, na Foz do Amazonas",
+     "resumo": "O poço fica em águas ultraprofundas, a 2.886 metros de lâmina d'água, na costa do Amapá; com a perfuração concluída, a sonda seguirá para a Bacia Potiguar. Na véspera, a estatal informou produção média recorde de 3,51 milhões de barris de óleo equivalente por dia no terceiro trimestre. O Ministério Público Federal pede na Justiça a suspensão da licença ambiental da campanha.",
+     "fontes": [
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-30-de-outubro-de-2026/"
+      },
+      {
+       "n": "eixos",
+       "u": "https://eixos.com.br/petroleo-e-gas/petrobras-anuncia-nova-descoberta-de-petroleo-na-bacia-foz-do-amazonas/"
       }
      ]
     },
     {
      "kicker": "Contas públicas",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "IFI estima que bets, pacote do MEI e Bolsa Família somam R$ 40 bilhões ao desequilíbrio fiscal",
      "resumo": "No relatório de outubro, a Instituição Fiscal Independente do Senado projeta déficit primário de 0,5% do PIB em 2026 e calcula que seria preciso superávit de 2,1% do PIB para estabilizar a dívida. A IFI elevou para 81,6% a probabilidade de a dívida bruta passar de 90% do PIB até 2030.",
      "fontes": [
@@ -353,40 +403,8 @@
      ]
     },
     {
-     "kicker": "Reforma tributária",
-     "quando": "Ontem",
-     "titulo": "TCU propõe alíquota de 11,3% para a CBS em 2027, acima das estimativas anteriores",
-     "resumo": "O ministro Vital do Rêgo propôs a taxa de referência para a contribuição que substituirá PIS e Cofins; em 2024, a Fazenda estimava 8,8%, e o comitê gestor do IBS, 9,21% em julho. A palavra final é do Senado, que tem até 15 de dezembro para fixar a alíquota.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/economia/tcu-propoe-aliquota-de-113-para-a-cbs-em-2027-acima-do-previsto-pelo-governo/"
-      },
-      {
-       "n": "CBIC",
-       "u": "https://cbic.org.br/reforma-tributaria-tcu-propoe-aliquota-de-referencia-de-113-para-a-cbs-em-2027/"
-      }
-     ]
-    },
-    {
-     "kicker": "Empresas",
-     "quando": "Hoje",
-     "titulo": "Ação da Ambev cai mais de 3% após lucro menor; Vale divulga balanço nesta noite",
-     "resumo": "A Ambev lucrou R$ 4,37 bilhões no terceiro trimestre, abaixo do mesmo período do ano passado, e anunciou recompra de ações. Para a Vale, que publica os números após o fechamento, analistas projetam queda forte do lucro por causa do minério de ferro mais barato.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-29102026/"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/lucro-liquido-da-vale-vale3-deve-cair-quase-50-no-3t26-veja-os-motivos-e-o-que-mais-esperar-do-balanco-bdap/"
-      }
-     ]
-    },
-    {
      "kicker": "Contas públicas",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Governo central tem superávit de R$ 4,8 bilhões em setembro",
      "resumo": "Em setembro de 2025 houve déficit de R$ 14,4 bilhões. Segundo o Tesouro, pesaram a alta das receitas com petróleo, a arrecadação de Imposto de Renda e a devolução de recursos de precatórios cancelados; no ano, o déficit acumulado é de cerca de R$ 90 bilhões, abaixo do registrado no mesmo período do ano passado.",
      "foto": {
@@ -416,30 +434,70 @@
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Inmet prevê tempestades em SP, MG e RJ até sexta; sul de Goiás tem aviso laranja",
-     "resumo": "A Defesa Civil paulista espera chuva mais abrangente nesta quinta, com risco de alagamentos e rajadas de vento na capital e no interior. No Nordeste, o interior segue com tempo firme e temperaturas perto de 40 °C, segundo o Inmet.",
+     "titulo": "Inmet mantém alerta de chuva em todas as regiões nesta sexta; SP e BH têm risco de temporais",
+     "resumo": "O aviso amarelo prevê até 50 milímetros de chuva por dia e rajadas de 40 a 60 km/h, com instabilidade mais forte no Sudeste e no Centro-Oeste. Belo Horizonte amanheceu com chuva, e a Defesa Civil alerta para alagamentos em São Paulo; no Norte e no Nordeste, Roraima, Amapá e nordeste do Pará seguem secos, com máximas perto de 38 °C.",
      "foto": {
       "src": "https://imagens.ebc.com.br/h8WOZLtq-_G9_boCPqMJ0KmFMTc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/06/chuva_sp_tarde_05.jpg?itok=4QFhKU9L",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/chuva-alerta-amarelo-brasil-ventos-60-km-h-sexta-feira-30/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/cidades/2026/10/30/bh-amanhece-chuvosa-e-pode-ter-novas-pancadas-nesta-sexta-feira-veja-a-previsao"
+      },
+      {
+       "n": "SP Agora",
+       "u": "https://www.spagora.com.br/cotidiano/clima/previsao-tempo-sao-paulo-sexta-30-outubro-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Mato Grosso",
+     "quando": "Ontem",
+     "titulo": "PF prende presidente do Tribunal de Contas de Mato Grosso em operação contra corrupção",
+     "resumo": "Sérgio Ricardo de Almeida foi preso preventivamente por ordem do ministro Og Fernandes, do STJ, na Operação Tomada de Contas, que cumpriu seis mandados de prisão e 26 de busca em MT, MS e SP. A PF investiga suspeitas de corrupção, lavagem de dinheiro e organização criminosa ligadas a contratos do tribunal; a defesa não havia se manifestado até a publicação da reportagem.",
+     "fontes": [
+      {
+       "n": "Canal MT",
+       "u": "https://www.canalmt.com.br/2026/10/30/alvo-de-operacao-da-pf-sergio-ricardo-ficara-preso-no-bope/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ceará",
+     "quando": "Ontem",
+     "titulo": "PF diz que presos de facção planejavam ataques a policiais penais no Ceará",
+     "resumo": "Na Operação Nexo, a força-tarefa Ficco cumpriu mandados de prisão contra suspeitos de organizar, de dentro dos presídios, uma paralisação do sistema prisional e atos violentos contra agentes. Segundo a PF, o grupo também vendia drogas e celulares nas unidades, com uso de drones.",
+     "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/seguranca-publica/2026/10/29/pf-presos-planejavam-atacar-agentes-de-seguranca-no-ceara.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Serviços",
+     "quando": "26/10",
+     "titulo": "Ponto facultativo do Dia do Servidor é nesta sexta nas repartições federais",
+     "resumo": "A folga dos órgãos federais foi transferida de quarta (28) para esta sexta, e os serviços essenciais funcionam normalmente. São Paulo, Rio, Ceará, Bahia, Sergipe, Acre e o Distrito Federal adotaram a mesma data; empresas privadas seguem o calendário normal.",
+     "fontes": [
+      {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/semana-termina-com-previsao-de-chuva-em-grande-parte-do-pais"
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/dia-do-servidor-publico-ponto-facultativo-sera-na-sexta-feira"
       },
       {
-       "n": "Agência SP",
-       "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-alerta-para-temporais-em-sao-paulo-com-chuvas-mais-abrangentes-na-quinta-feira-29/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-para-chuva-forte-em-sao-paulo/"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/dia-do-servidor-publico-quem-folga-em-28-de-outubro/"
       }
      ]
     },
     {
      "kicker": "Minas Gerais",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Cemig conclui religação de todos os clientes atingidos pelo temporal de domingo",
      "resumo": "A tempestade de 25 de outubro deixou mais de 641 mil clientes sem luz em 774 municípios, com rajadas de até 150 km/h em Patos de Minas. A empresa informou que cerca de 4.600 profissionais trabalharam sem interrupção e que quedas pontuais registradas desde quinta não têm relação com o temporal.",
      "fontes": [
@@ -450,54 +508,6 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/minas-gerais/quase-5-mil-imoveis-seguem-sem-energia-tres-dias-apos-temporal-em-mg"
-      }
-     ]
-    },
-    {
-     "kicker": "Rio Grande do Sul",
-     "quando": "28/10",
-     "titulo": "Rio Uruguai atinge cota de alerta em Uruguaiana e tira mais de 200 pessoas de casa",
-     "resumo": "O rio subiu 60 centímetros em 24 horas, segundo o Serviço Geológico do Brasil, e a Defesa Civil prevê novas altas ao menos até sábado. A prefeitura contabiliza 41 desabrigados em abrigos públicos e 176 desalojados na casa de parentes.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/rio-uruguai-esta-em-elevacao-e-atinge-cota-de-alerta-em-uruguaiana"
-      },
-      {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/meio-ambiente/rio-uruguai-atinge-cota-de-alerta-apos-subir-60-centimetros-em-24-horas-no-rs/"
-      }
-     ]
-    },
-    {
-     "kicker": "Rio de Janeiro",
-     "quando": "Hoje",
-     "titulo": "PF faz nova fase da Operação Unha e Carne contra lavagem de dinheiro",
-     "resumo": "Foram cumpridos quatro mandados de busca na Barra da Tijuca, autorizados por Alexandre de Moraes, em salas ligadas ao pastor Márcio Poncio e num imóvel de um sobrinho do bicheiro Adilsinho. A defesa do pastor diz que ele não teve acesso à decisão e não foi alvo direto da medida.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pf-deflagra-nona-fase-da-operacao-unha-e-carne-no-rio-de-janeiro/"
-      },
-      {
-       "n": "ICL Notícias",
-       "u": "https://iclnoticias.com.br/pf-mira-enderecos-ligados-ao-pastor-poncio"
-      }
-     ]
-    },
-    {
-     "kicker": "Serviços",
-     "quando": "26/10",
-     "titulo": "Dia do Servidor: ponto facultativo federal fica para sexta-feira",
-     "resumo": "Segundo o Ministério da Gestão, citado pela Agência Brasil, a folga dos órgãos federais passa de quarta (28) para sexta (30), e os serviços essenciais devem funcionar. São Paulo, Rio, Ceará, Bahia, Sergipe, Acre e o DF também transferiram a data para sexta; empresas privadas seguem o calendário normal.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/dia-do-servidor-publico-ponto-facultativo-sera-na-sexta-feira"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/economia/dia-do-servidor-publico-quem-folga-em-28-de-outubro/"
       }
      ]
     }
@@ -512,8 +522,8 @@
     {
      "kicker": "Espanha",
      "quando": "Ontem",
-     "titulo": "Espanha decreta três dias de luto após colisão de trens que matou 69 perto de Toledo",
-     "resumo": "Um trem da Renfe atingiu uma composição da Iryo na linha de alta velocidade entre Madri e a Andaluzia, na manhã de quarta, com mais de 540 passageiros a bordo. Dezenas seguem internados; a principal hipótese investigada é falha na sinalização, e erro humano não foi descartado.",
+     "titulo": "Espanha investiga autorização dada a trem que avançou sinal vermelho antes de colisão que matou 69",
+     "resumo": "O ministro dos Transportes, Óscar Puente, disse que uma falha de comunicação entre computadores desligou o sistema de segurança num trecho de 63 km e que a central de controle autorizou o trem da Renfe a seguir em velocidade normal; ele percorreu cerca de 25 km até atingir a composição da Iryo. O país está em luto oficial até sábado, e 57 feridos seguiam internados.",
      "fontes": [
       {
        "n": "Metrópoles",
@@ -530,8 +540,28 @@
      ]
     },
     {
-     "kicker": "Israel",
+     "kicker": "Estados Unidos",
      "quando": "Hoje",
+     "titulo": "A quatro dias das eleições de meio de mandato, pesquisas favorecem democratas na Câmara",
+     "resumo": "Levantamento Ipsos feito entre 22 e 26 de outubro dá 53% das intenções de voto para a Câmara aos democratas, contra 44% dos republicanos, e a Decision Desk HQ estima em 80% a chance de o partido retomar a Casa. No Senado, a disputa é mais apertada, com corridas próximas no Texas, em Ohio, no Alasca e no Maine.",
+     "fontes": [
+      {
+       "n": "Congresso em Foco",
+       "u": "https://www.congressoemfoco.com.br/noticia/129665/midterms-eleicoes-dos-eua-na-proxima-terca-testam-forca-de-trump"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mundo/o-que-as-pesquisas-indicam-sobre-as-midterms-nos-eua-e-para-o-governo-trump/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/mundo/2026/10/28/eua-entenda-como-funcionam-as-eleicoes-de-meio-mandato-e-o-que-pode-mudar-na-politica-americana"
+      }
+     ]
+    },
+    {
+     "kicker": "Israel",
+     "quando": "Ontem",
      "titulo": "Sem maioria, Netanyahu deve seguir como premiê interino em Israel",
      "resumo": "Com mais de 90% das urnas apuradas, projeções das emissoras dão 53 das 120 cadeiras ao bloco de Netanyahu, 48 à oposição liderada por Gadi Eisenkot e 19 a partidos árabes. A participação, de 77,7%, foi a maior em mais de duas décadas; autoridades também investigam suspeita de compra de votos.",
      "lados": [
@@ -564,51 +594,22 @@
      ]
     },
     {
-     "kicker": "Estados Unidos",
+     "kicker": "ONU",
      "quando": "28/10",
-     "titulo": "Democratas cobram explicações de Trump sobre entrada de Flávio nos EUA",
-     "resumo": "Trump confirmou que autorizou a entrada do senador, chamou a eleição brasileira de “muito estranha” e disse que não vai se envolver na disputa. Parlamentares democratas como Joaquin Castro e Andy Kim afirmam que perder uma eleição não justifica asilo e comparam o caso às restrições impostas a refugiados de outros países.",
+     "titulo": "Assembleia da ONU volta a pedir fim do embargo dos EUA a Cuba, com o menor apoio em 30 anos",
+     "resumo": "A resolução teve 130 votos a favor, 17 contra e 25 abstenções; o Brasil votou a favor. O texto não obriga os EUA a encerrar o bloqueio, e o número de apoios ficou bem abaixo dos mais de 180 votos de anos anteriores.",
      "fontes": [
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/democratas-cobram-explicacoes-de-trump-sobre-vistos-a-flavio-bolsonaro-e-criticam-rubio/"
+       "n": "Diario de Pernambuco",
+       "u": "https://www.diariodepernambuco.com.br/mundo/2026/10/11727872-assembleia-geral-da-onu-pede-o-fim-do-embargo-contra-cuba-com-menor-apoio-em-30-anos.html"
       },
       {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/10/29/bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us"
-      }
-     ],
-     "destaque": false
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "28/10",
-     "titulo": "Trump diz que encontro entre Putin e Zelensky será marcado em breve",
-     "resumo": "O Kremlin informou que a reunião trilateral com Kiev e Washington seria em novembro, nos Emirados Árabes Unidos. Rússia e Ucrânia trocaram ataques horas depois do anúncio da retomada das negociações.",
-     "fontes": [
-      {
-       "n": "O Tempo / AFP",
-       "u": "https://www.otempo.com.br/mundo/2026/10/28/guerra-na-ucrania-encontro-entre-putin-e-zelensky-sera-organizado-em-breve-garante-trump"
+       "n": "Folha de Pernambuco",
+       "u": "https://www.folhape.com.br/noticias/assembleia-geral-da-onu-pede-o-fim-do-bloqueio-dos-eua-contra-cuba/447050/"
       },
       {
-       "n": "Swissinfo",
-       "u": "https://swissinfo.ch/por/ucr%C3%A2nia-sofre-novos-ataques;-zelensky-critica-a-r%C3%BAssia/92256660"
-      }
-     ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "28/10",
-     "titulo": "Eleição de terça nos EUA decide o controle do Congresso",
-     "resumo": "Pesquisas de voto genérico citadas pela InfoMoney dão vantagem de 7 a 12 pontos aos democratas, e uma projeção da Universidade Cornell lhes atribui 80% de chance de conquistar a Câmara. No Senado, onde os republicanos têm 53 das 100 cadeiras, a disputa é considerada mais equilibrada.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mundo/o-que-as-pesquisas-indicam-sobre-as-midterms-nos-eua-e-para-o-governo-trump/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/eleicoes-americanas-definem-o-nivel-de-controle-de-donald-trump-no-congresso/"
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-30-de-outubro-de-2026/"
       }
      ]
     }
@@ -621,70 +622,78 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
-     "kicker": "Seleção",
-     "quando": "Hoje",
-     "titulo": "Ancelotti convoca 26 jogadores para amistosos contra Japão e Singapura, sem atletas de Flamengo e Palmeiras",
-     "resumo": "Os jogos serão em 14 e 17 de novembro, no Estádio Nacional de Singapura. A lista tem Vini Jr., Raphinha, Endrick e Estêvão e estreantes como Jonathan Jesus (Cruzeiro) e André Luiz (Corinthians). Segundo a CBF, Flamengo e Palmeiras ficaram de fora para não desfalcar os dois na disputa do título, e cada clube brasileiro teve no máximo um convocado.",
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Flamengo goleia o Vasco por 4 a 1 e abre três pontos sobre o Palmeiras na liderança",
+     "resumo": "Pedro e Samuel Lino marcaram duas vezes cada um no clássico, no Nilton Santos; Alan Lescano descontou para o Vasco, que poupou titulares. O Flamengo chegou a 73 pontos, com cinco rodadas por jogar, e o Vasco, 13º, encara o Palmeiras no domingo pela Copa do Brasil.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/selecao-brasileira-seis-convocados-por-ancelotti-jogam-no-brasileirao"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/flamengo/flamengo-goleia-misto-do-vasco-e-abre-tres-pontos-para-o-palmeiras-na-ponta/"
       },
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/esporte/ancelotti-convoca-26-jogadores-para-a-selecao-veja-a-lista/"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/futebol-nacional/veja-gols-em-vasco-x-flamengo-pedro-abre-o-placar-e-lescano-empata.html"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/selecao-brasileira-veja-convocados-de-ancelotti-para-amistosos-pos-copa/"
-      }
-     ]
-    },
-    {
-     "kicker": "Agenda",
-     "quando": "Hoje",
-     "titulo": "Flamengo enfrenta o Vasco empatado em pontos com o Palmeiras",
-     "resumo": "Depois do 0 a 0 do Palmeiras com o Santos na Vila Belmiro, os dois times somam 70 pontos, e o Flamengo lidera pelo número de vitórias. O clássico no Nilton Santos começa às 20h; antes, às 19h30, Atlético-MG e Cruzeiro jogam na Arena MRV, e Grêmio e Athletico fecham a noite às 21h30.",
-     "fontes": [
-      {
-       "n": "Coluna do Fla",
-       "u": "https://colunadofla.com/2026/10/jogos-do-brasileirao-hoje-flamengo-defende-a-lideranca-contra-o-vasco-em-quinta-com-3-partidas-da-33a-rodada/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-x-flamengo-horario-e-onde-assistir-ao-campeonato-brasileiro-serie-a/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/flamengo/flamengo-defende-invencibilidade-de-11-anos-contra-o-vasco-no-brasileirao,c8800741407000b1df78e882ffd1be26qyao984z.html"
+       "n": "ESPN",
+       "u": "https://www.espn.com/soccer/match/_/gameId/401841292"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
-     "quando": "28/10",
-     "titulo": "Remo vence o Botafogo após 12 jogos sem vitória; Bahia bate o São Paulo",
-     "resumo": "Em Belém, o Remo fez 2 a 1 e chegou a 29 pontos, seis atrás do primeiro time fora da zona de rebaixamento; o Botafogo ficou com 39. Em Salvador, o Bahia venceu o São Paulo por 3 a 2 e está a um ponto do Fluminense, quinto colocado.",
+     "quando": "Ontem",
+     "titulo": "Cruzeiro vence clássico na Arena MRV; Grêmio bate o Athletico e deixa a zona de rebaixamento",
+     "resumo": "Kaio Jorge marcou aos 3 minutos, e o Cruzeiro, com 57 pontos, firmou-se em terceiro; o Atlético-MG é sétimo. Em Porto Alegre, o Grêmio fez 2 a 0 com gols de Marlon e Balbuena, foi a 37 pontos e empurrou o Internacional para o Z4; o Corinthians, também na zona, recebe o Mirassol nesta sexta.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/remo-volta-vencer-apos-12-jogos-e-complica-botafogo-no-brasileirao"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/brasileirao-cruzeiro-bate-atletico-fora-de-casa-no-ultimo-classico-do-ano"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/gremio-vence-o-athletico-pr-deixa-zona-de-rebaixamento-do-brasileirao-e-complica-o-corinthians,f2bb3a40a6283d9e00660345cd6ed0a674klz3sj.html"
       },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-veja-os-melhores-momentos-dos-jogos-dessa-quarta-feira-28-10"
+       "u": "https://www.metropoles.com/esportes/gremio-derrota-athletico-pr-e-deixa-a-zona-de-rebaixamento-do-brasileirao"
       }
      ]
     },
     {
-     "kicker": "Libertadores",
-     "quando": "28/10",
-     "titulo": "Conmebol rejeita protesto do Flamengo, e Estudiantes enfrenta o Palmeiras na final",
-     "resumo": "O Flamengo contestava a escalação do zagueiro Marcos Rojo na semifinal do Maracanã, alegando que a inscrição dele era provisória; a Comissão Disciplinar negou o pedido por completo. O clube ainda pode recorrer à Comissão de Apelações e aguarda o julgamento na Corte Arbitral do Esporte. A final é em 28 de novembro, no Centenário, em Montevidéu.",
+     "kicker": "Seleção",
+     "quando": "Ontem",
+     "titulo": "Ancelotti convoca 26 para amistosos contra Japão e Singapura, com quatro estreantes e a volta de Estêvão",
+     "resumo": "Arthur Dias, do Athletico, Jonathan Jesus, do Cruzeiro, e Alisson Santana e Marlon Gomes, do Shakhtar, recebem a primeira chamada; não há jogadores de Flamengo e Palmeiras na lista. Os jogos são em 14 e 17 de novembro, em Singapura, de madrugada no horário de Brasília.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/flamengo/conmebol-toma-atitude-surpreendente-sobre-a-final-da-libertadores-revela-jornal,24040b65f0b1dcf9bab82561dbc00673al4aw93f.html"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/ancelotti-convoca-selecao-para-amistosos-contra-japao-e-singapura"
+      },
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-30-de-outubro-de-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "GP do México começa com treinos nesta sexta; Bortoleto cede o carro a reserva no primeiro",
+     "resumo": "O primeiro treino livre é às 15h30 e o segundo às 19h; a corrida, 19ª etapa do ano, será no domingo às 17h (horários de Brasília). Kimi Antonelli lidera o campeonato com 365 pontos, 123 à frente de George Russell; no primeiro treino, o carro de Gabriel Bortoleto na Audi será usado por Freddie Slater.",
+     "fontes": [
+      {
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-e-race-week-gp-do-mexico-marca-19a-etapa-da-temporada-2026/"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/formula-1/com-bortoleto-f1-divulga-lista-de-pilotos-substituidos-em-atividade-do-gp-do-mexico.html"
+      },
+      {
+       "n": "Piranot",
+       "u": "https://www.piranot.com.br/2026/10/29/noticias/esporte/bortoleto-audi-treino-gp-mexico/"
       }
      ]
     }
@@ -698,7 +707,7 @@
    "itens": [
     {
      "kicker": "Anvisa",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Anvisa aprova mais cinco canetas de semaglutida e liraglutida para diabetes e obesidade",
      "resumo": "Os novos registros são de versões produzidas pelas indianas Biocon e OneSource, distribuídas por Farma Vision, Dr. Reddy's e Aché; com eles, a agência chega a 20 aprovações de canetas em 2026. A Anvisa diz que prioriza essas análises desde agosto de 2025 a pedido do Ministério da Saúde, de olho no SUS e no abastecimento.",
      "fontes": [
@@ -713,24 +722,8 @@
      ]
     },
     {
-     "kicker": "Saúde da mulher",
-     "quando": "28/10",
-     "titulo": "Ministério da Saúde planeja programa no SUS para mulheres na menopausa",
-     "resumo": "Em visita à Unicamp, o ministro Alexandre Padilha disse que o programa deve incluir acesso a medicamentos para mulheres na perimenopausa e na menopausa. Pesquisadores do hospital da mulher da universidade devem ajudar a desenhar a proposta.",
-     "fontes": [
-      {
-       "n": "CNN Brasil / Sim Notícias",
-       "u": "https://simnoticias.com.br/cnn-brasil/saude-planeja-programa-no-sus-para-tratamento-de-mulheres-na-menopausa/"
-      },
-      {
-       "n": "Plantão Brasil",
-       "u": "https://www.plantaobrasil.net/noticias/160493-ministerio-da-saude-planeja-nova-rede-de-assistencia-para-mulheres-na-menopausa"
-      }
-     ]
-    },
-    {
      "kicker": "Vacinação",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ministério da Saúde lança painel para acompanhar vacina contra meningite em adolescentes",
      "resumo": "A ferramenta mostra a cobertura da vacina meningocócica ACWY entre jovens de 11 a 14 anos, por município, para orientar campanhas onde a vacinação está baixa. A dose protege contra quatro tipos da bactéria que causa meningite e faz parte do calendário do SUS.",
      "fontes": [
@@ -790,46 +783,6 @@
     },
     {
      "kicker": "Enem",
-     "quando": "26/10",
-     "titulo": "Enem será em 8 e 15 de novembro; portões fecham às 13h",
-     "resumo": "É preciso levar documento original com foto e caneta preta de corpo transparente. No primeiro dia, a prova traz redação, linguagens e ciências humanas.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/rHDnTGUIwl5hvd6TUaDsYRtyNvE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/07/pzzb7257.jpg?itok=b1IwZrdX",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/curiosidades/2026/10/26/enem-2026-datas-das-provas-horario-dos-portoes-e-tudo-o-que-pode-e-nao-pode-levar"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-2026-inscrito-automaticamente-deve-escolher-idioma-da-prova"
-      }
-     ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "27/10",
-     "titulo": "Inep libera consulta aos locais de prova do Enem",
-     "resumo": "O cartão de confirmação da inscrição, com endereço e horário, já pode ser acessado na Página do Participante. As provas serão em 8 e 15 de novembro, com portões fechando às 13h.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365338/enem-2026-inep-divulga-locais-de-prova-saiba-como-consultar"
-      },
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/para/inep-libera-consulta-aos-locais-de-prova-do-enem-2026-1.1187494"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/inep-divulga-local-de-provas-do-enem-candidato-pode-conferir-no-site"
-      }
-     ]
-    },
-    {
-     "kicker": "Enem",
      "quando": "28/10",
      "titulo": "Aplicativo MEC Enem passa de 1 milhão de estudantes cadastrados",
      "resumo": "A ferramenta gratuita oferece simulados, correção automática de redação e um assistente virtual, e ganhou mais questões na reta final antes das provas. O Enem 2026 tem mais de 5 milhões de inscritos.",
@@ -845,20 +798,28 @@
      ]
     },
     {
-     "kicker": "Fies",
-     "quando": "26/10",
-     "titulo": "Fies abre inscrições para 50 mil vagas remanescentes até 3 de novembro",
-     "resumo": "Metade das vagas é do Fies Social, para famílias com renda de até meio salário mínimo por pessoa. É preciso ter feito o Enem a partir de 2010 com média mínima de 450 pontos; o resultado sai em 16 de novembro.",
+     "kicker": "Enem",
+     "quando": "27/10",
+     "titulo": "Enem será em 8 e 15 de novembro; locais de prova já podem ser consultados",
+     "resumo": "O cartão de confirmação, com endereço e horário, está na Página do Participante. Os portões fecham às 13h, e é preciso levar documento original com foto e caneta preta de corpo transparente; no primeiro dia há redação, linguagens e ciências humanas.",
      "fontes": [
       {
-       "n": "JM Online",
-       "u": "https://jmonline.com.br/geral/fies-abre-50-mil-vagas-remanescentes-inscric-es-v-o-ate-3-de-novembro-1.677671"
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365338/enem-2026-inep-divulga-locais-de-prova-saiba-como-consultar"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/para/inep-libera-consulta-aos-locais-de-prova-do-enem-2026-1.1187494"
       },
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/fies-2-inscricoes-gratuitas-para-vagas-remanescentes-estao-abertas"
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/inep-divulga-local-de-provas-do-enem-candidato-pode-conferir-no-site"
       }
-     ]
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/rHDnTGUIwl5hvd6TUaDsYRtyNvE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/07/pzzb7257.jpg?itok=b1IwZrdX",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+     }
     }
    ]
   },
@@ -870,7 +831,7 @@
    "itens": [
     {
      "kicker": "Meio ambiente",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Vegetação nativa do Brasil está mais fragmentada, aponta MapBiomas",
      "resumo": "Entre 1986 e 2024, o número de fragmentos de mata nativa passou de 2,35 milhões para 3,41 milhões, e o tamanho médio caiu 43%, segundo o módulo de degradação do MapBiomas apresentado na COP17 da biodiversidade, na Armênia. A Mata Atlântica tem os fragmentos mais numerosos e menores, com média de 25 hectares.",
      "foto": {
@@ -890,7 +851,7 @@
     },
     {
      "kicker": "Tecnologia",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Amazon fica abaixo das previsões de lucro e receita, e ação cai 6% após o pregão",
      "resumo": "A empresa lucrou US$ 20,7 bilhões no terceiro trimestre, um pouco menos que um ano antes, com receita de US$ 201,9 bilhões; a nuvem AWS cresceu 39%. O fluxo de caixa livre em 12 meses ficou negativo em US$ 42,4 bilhões, o que a companhia associa aos gastos com infraestrutura de IA.",
      "fontes": [
@@ -934,61 +895,57 @@
    "itens": [
     {
      "kicker": "Morte",
-     "quando": "Hoje",
-     "titulo": "Morre Patrick Stewart, o Professor Xavier de X-Men e o capitão Picard de Star Trek, aos 86 anos",
-     "resumo": "O ator britânico morreu na quarta-feira (28), em Los Angeles, e a morte foi confirmada nesta quinta por sua representante. Ele tinha Alzheimer e demência com corpos de Lewy. Formado no teatro da Royal Shakespeare Company, foi nomeado cavaleiro em 2010.",
+     "quando": "Ontem",
+     "titulo": "Hugh Jackman, Ian McKellen e Marvel homenageiam Patrick Stewart, morto aos 86 anos",
+     "resumo": "O ator britânico, o Professor Xavier de X-Men e o capitão Picard de Star Trek, morreu na quarta (28), em Los Angeles; a família informou que ele tinha Alzheimer e demência com corpos de Lewy. Colegas de elenco, os estúdios Marvel, a franquia Star Trek e a Academia de Hollywood publicaram mensagens de despedida.",
      "fontes": [
       {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/celebridades/hugh-jackman-e-outros-famosos-lamentam-a-morte-de-patrick-stewart/"
+      },
+      {
        "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/morre-patrick-stewart-o-professor-xavier-de-x-men-aos-86-anos,d0c55e0c4c640b455a59cefa8b3363b3h28hina0.html"
+       "u": "https://www.terra.com.br/diversao/entre-telas/filmes/perdemos-um-dos-maiores-hugh-jackman-e-mais-famosos-lamentam-morte-de-patrick-stewart,ec580c0bc3dc2c34ee310b7eeef1c3bet8gmq9hj.html"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/pop/morre-patrick-stewart-ator-de-x-men-e-star-trek-morre-aos-86-anos/"
-      },
-      {
-       "n": "Estado de Minas / Uai",
-       "u": "https://www.uai.com.br/app/entretenimento/famosos/2026/10/29/not-famosos,393682/patrick-stewart-o-professor-xavier-de-x-men-morre-aos-86-anos.shtml"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/10/30/boa-viagem-capitao-homenagens-sentidas-a-sir-patrick-stewart"
       }
      ]
     },
     {
      "kicker": "Mostra de SP",
-     "quando": "Hoje",
-     "titulo": "Mostra de São Paulo encerra 50ª edição com premiação nesta noite",
-     "resumo": "O Troféu Bandeira Paulista será entregue no Cultura Artística; o júri tem Boots Riley, Ali Asgari, César Augusto Acevedo e Laís Bodanzky. Na primeira semana, o público destacou 15 dos 115 filmes da Competição Novos Diretores, entre eles o brasileiro “Adeus, Verão!”, de Diego de Jesus.",
+     "quando": "Ontem",
+     "titulo": "“Cinco Anos, Quatro Meses” vence a 50ª Mostra de São Paulo; público premia “Feito Pipa” e “100 Dias”",
+     "resumo": "O filme de Juan Miguel Gelacio levou o prêmio do júri de ficção, e o documentário “O Beija-Flor Pinta Canções Perfumadas” venceu entre os documentários. Entre os brasileiros, a crítica escolheu “Pequenas Tragédias”, de Daniel Nolasco, e “Talismã”, de Thais Fujinaga, ganhou distribuição internacional pela Netflix.",
      "fontes": [
       {
-       "n": "JWave",
-       "u": "https://www.jwave.com.br/2026/10/mostra-de-cinema-de-sao-paulo-revela-os-15-filmes-favoritos-do-publico/"
+       "n": "Exame",
+       "u": "https://exame.com/casual/50a-mostra-de-cinema-de-sao-paulo-anuncia-vencedores-de-2026-veja-os-filmes/"
       },
       {
-       "n": "Revista de Cinema",
-       "u": "https://revistadecinema.com.br/2026/10/mostra-revela-os-15-filmes-preferidos-do-publico/"
-      }
-     ]
-    },
-    {
-     "kicker": "TV",
-     "quando": "27/10",
-     "titulo": "Morre aos 91 anos Roberto Maya, apresentador do Documento Especial",
-     "resumo": "O ator e jornalista morreu em Campinas, por insuficiência respiratória. Começou no rádio nos anos 1950, atuou em novelas da Tupi e da Globo e apresentou o Documento Especial, programa sobre temas sociais que passou por Manchete, SBT e Band.",
-     "fontes": [
+       "n": "JWave",
+       "u": "https://www.jwave.com.br/2026/10/50a-mostra-de-cinema-de-sao-paulo-anuncia-vencedores-confira-os-premiados/"
+      },
       {
-       "n": "OFuxico",
-       "u": "https://ofuxico.com.br/morte/roberto-maya-do-documento-especial-morre-aos-91-anos-relembre-a-carreira"
+       "n": "Oxente Pipoca",
+       "u": "https://www.oxentepipoca.com.br/post/pr%C3%AAmios-mostra-de-s%C3%A3o-paulo"
       }
      ]
     },
     {
-     "kicker": "Cinema",
+     "kicker": "Morte",
      "quando": "28/10",
-     "titulo": "BNDES seleciona 18 projetos de cinema de sete estados",
-     "resumo": "São 15 longas-metragens e 3 festivais, cada um com R$ 600 mil de patrocínio, num total de R$ 10,8 milhões. Parte das vagas foi reservada a produções de fora dos polos tradicionais, e os festivais foram escolhidos por atividades em escolas públicas e comunidades da periferia e ribeirinhas.",
+     "titulo": "Morre aos 30 anos Matheus Sabbá, ator e diretor de ópera do Amazonas",
+     "resumo": "Nascido em Manaus, ele atuava no Festival Amazonas de Ópera e neste ano dirigiu a encenação de “Onheama”, ópera inspirada na mitologia amazônica, no Festival de Música de Santa Catarina. O governo do Amazonas o chamou de referência do teatro musical no estado; a causa da morte não foi divulgada.",
      "fontes": [
       {
-       "n": "Radioagência Nacional / Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/cultura/audio/2026-10/bndes-anuncia-projetos-selecionados-no-edital-de-cinema-2026"
+       "n": "Brasil 247",
+       "u": "https://brasil247.com/geral/morre-aos-30-anos-matheus-sabba-ator-e-diretor-de-opera-amazonense"
+      },
+      {
+       "n": "Contigo!",
+       "u": "https://contigo.com.br/noticias/famosos/ator-e-diretor-morre-aos-30-anos.phtml"
       }
      ]
     }
