@@ -1,34 +1,34 @@
 {
  "data": "Sexta-feira, 30 de outubro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "30/10/2026 · 13h40 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 11h42",
- "fontes": 58,
+ "edicao": "Edição da noite",
+ "atualizado": "30/10/2026 · 19h05 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h08",
+ "fontes": 56,
  "mercado": [
   {
-   "nome": "Ibovespa · 11h42",
-   "valor": "168.481 pts",
-   "var": "−0,42%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "167.922 pts",
+   "var": "−0,75%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · 10h20",
-   "valor": "R$ 5,43",
-   "var": "cerca de +0,8%",
+   "nome": "Dólar comercial · fechamento",
+   "valor": "R$ 5,44",
+   "var": "+1,10%",
    "dir": "up"
   },
   {
-   "nome": "Petróleo Brent · 9h54",
-   "valor": "US$ 113,29",
-   "var": "+2,25%",
+   "nome": "Petróleo Brent · fechamento",
+   "valor": "US$ 113,43",
+   "var": "+2,37%",
    "dir": "up"
   },
   {
-   "nome": "Desemprego · tri. até set. (IBGE)",
-   "valor": "5,2%",
-   "var": "menor para o período desde 2012",
-   "dir": ""
+   "nome": "Ibovespa · outubro",
+   "valor": "−9,88%",
+   "var": "semana: −18,12%",
+   "dir": "down"
   },
   {
    "nome": "Selic · taxa atual",
@@ -39,14 +39,14 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 30 · 15h30 e 20h",
-   "txt": "Treinos livres do GP do México de Fórmula 1 (15h30 e 19h); às 20h, Corinthians e Mirassol se enfrentam pelo Brasileirão",
+   "hora": "Sex 30 · 20h",
+   "txt": "Corinthians e Mirassol se enfrentam na Neo Química Arena, em jogo direto contra o rebaixamento no Brasileirão",
    "cat": "esporte"
   },
   {
    "hora": "Sáb 31",
-   "txt": "Prazo para escolas públicas regularizarem pendências com o FNDE; último dia da vacinação contra meningite para jovens de até 24 anos em quatro cidades do Rio",
-   "cat": "educacao"
+   "txt": "Começa o feriadão de Finados com alerta amarelo de chuva em 1.886 cidades; último dia para escolas regularizarem pendências no FNDE e para a vacinação contra meningite de jovens até 24 anos em quatro cidades do Rio",
+   "cat": "brasil"
   },
   {
    "hora": "Dom 1º/11",
@@ -55,7 +55,7 @@
   },
   {
    "hora": "Seg 2/11",
-   "txt": "Feriado nacional de Finados",
+   "txt": "Feriado nacional de Finados, com alerta de tempestade e granizo em 2.396 cidades",
    "cat": "brasil"
   },
   {
@@ -163,43 +163,43 @@
  ],
  "manchete": {
   "kicker": "Mercado",
-  "titulo": "Ibovespa cai pela quinta sessão e caminha para a pior semana de sua história",
-  "resumo": "A bolsa chegou a recuar 1,29% nesta manhã, aos 167 mil pontos, e às 11h42 caía 0,42%; o dólar subiu à casa de R$ 5,43. Até quinta, a perda acumulada desde a eleição era de 17,5%, acima dos 15,6% da pior semana registrada, em março de 2020.",
+  "titulo": "Ibovespa perde 18% na semana pós-eleição, a maior queda semanal desde 2020; dólar fecha a R$ 5,44",
+  "resumo": "A bolsa caiu 0,75% nesta sexta, aos 167.922 pontos, quinta baixa seguida desde o segundo turno, e encerrou outubro com perda de 9,88%. O dólar subiu 1,10% e o petróleo Brent passou de US$ 113 com novos incidentes em Ormuz.",
   "foto": {
    "src": "fotos/real.jpg",
    "credito": "José Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "O índice despencou 13,88% na segunda-feira seguinte ao segundo turno, quando o pregão chegou a ser interrompido pelo circuit breaker, e não se recuperou desde então. Analistas ouvidos pelo SBT News dizem que parte dos investidores tinha apostado na vitória de Flávio Bolsonaro e que a falta de um plano fiscal detalhado e de nomes para a equipe econômica de 2027 ampliou a venda de ações. O ministro da Fazenda, Dario Durigan, prometeu na terça um projeto para perseguir o centro da meta fiscal, sem detalhar medidas nem prazos. Nesta sexta, também pesam a queda das bolsas americanas, puxada por Intel e Amazon, e a alta do petróleo após novos ataques no Golfo.",
+  "entenda": "O índice despencou 13,88% na segunda-feira seguinte à eleição, com acionamento do circuit breaker, e não se recuperou ao longo da semana. Analistas ouvidos pela InfoMoney citam a falta de um plano de ajuste fiscal detalhado e a indefinição sobre a equipe econômica do quarto mandato de Lula; o ministro da Fazenda, Dario Durigan, prometeu na terça um projeto para perseguir o centro da meta, sem detalhar medidas. Nesta sexta, também pesaram a queda forte de Nova York, depois dos balanços de Intel e Amazon, e juros em alta em vários países. A especulação sobre nomes para a Fazenda continuou: o governador do Piauí, Rafael Fonteles, negou ter sido convidado para o cargo.",
   "fatos": [
-   "Bancos, varejo e a própria B3 lideravam as perdas pela manhã; Usiminas caía após lucro abaixo do esperado, segundo a BPMoney.",
-   "Vale e Petrobras subiam: a mineradora reagia ao balanço do trimestre, e a petroleira acompanhava o barril e anunciou nova descoberta na Margem Equatorial.",
-   "O IBGE informou desemprego de 5,2% no trimestre até setembro, o menor para o período desde 2012; parte do mercado lê o dado como sinal de juros altos por mais tempo."
+   "Na semana, o Ibovespa caiu 18,12%, a maior baixa semanal desde março de 2020 e a quinta maior desde o Plano Real, segundo a InfoMoney.",
+   "Siderúrgicas lideraram as perdas do dia, com Usiminas (−8,59%) e CSN (−8,49%); a Vale subiu 3,28% após o balanço do trimestre, segundo a B3.",
+   "Em Nova York, a Nasdaq recuou 2,86%, o S&P 500 1,75% e o Dow Jones 1,05%, com temores sobre o retorno dos gastos em inteligência artificial."
   ],
   "fontes": [
+   {
+    "n": "Bora Investir (B3)",
+    "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544/",
+    "d": "Fechamento do dia"
+   },
    {
     "n": "InfoMoney",
     "u": "https://www.infomoney.com.br/mercados/ibovespa-cai-pela-5a-vez-com-temor-fiscal-e-externo-queda-historica-semanal/",
     "d": "Queda histórica semanal"
    },
    {
-    "n": "SBT News",
-    "u": "https://sbtnews.sbt.com.br/noticia/economia/investidor-rejeita-urnas-e-bolsa-tem-pior-semana-pos-eleicao-em-37-anos",
-    "d": "Análise da semana"
+    "n": "Money Times",
+    "u": "https://www.moneytimes.com.br/ibovespa-30-10-26-lils/",
+    "d": "Pior semana em seis anos"
    },
    {
-    "n": "BPMoney",
-    "u": "https://bpmoney.com.br/economia/ibovespa-cai-aos-167-mil-pontos-com-bancos-e-varejo-vale-vira-para-alta/",
-    "d": "Ações na manhã"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/",
+    "d": "Semana pós-eleição"
    },
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/dolar-nesta-sexta-4",
-    "d": "Abertura e dólar"
-   },
-   {
-    "n": "Exame",
-    "u": "https://exame.com/economia/apos-quedada-bolsa-durigan-promete-medida-para-reforcar-meta-fiscal/",
-    "d": "Resposta da Fazenda"
+    "n": "O Tempo",
+    "u": "https://www.otempo.com.br/politica/governo/2026/10/30/rafael-fonteles-nega-que-tenha-sido-convidado-por-lula-para-o-comando-do-ministerio-da-fazenda",
+    "d": "Sucessão na Fazenda"
    }
   ]
  },
@@ -211,10 +211,68 @@
    "nota": "Brasil",
    "itens": [
     {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "Fachin arquiva mais cinco investigações e avança no encerramento do inquérito das fake news",
+     "resumo": "Entre terça e quinta, o presidente do STF encerrou ao menos oito apurações ligadas ao inquérito aberto em 2019, entre elas as que envolviam Silas Malafaia, Eduardo Bolsonaro, Gilson Machado e Rui Costa Pimenta. Relator desde setembro, quando Alexandre de Moraes deixou o caso, Fachin mapeou 104 procedimentos e diz que arquivamentos por falta de provas podem ser revistos se surgirem fatos novos.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/fachin-arquiva-investigacoes-e-avanca-no-fim-do-inquerito-das-fake-news/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://gazetadopovo.com.br/republica/fachin-arquiva-mais-cinco-investigacoes-do-inquerito-das-fake-news"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/fachin-arquiva-mais-5-investigacoes-do-inquerito-das-ifake-news-i/"
+      },
+      {
+       "n": "Congresso em Foco",
+       "u": "https://www.congressoemfoco.com.br/noticia/129651/fachin-retira-ex-ministro-do-bolsonaro-do-inquerito-das-fake-news"
+      }
+     ]
+    },
+    {
+     "kicker": "Relações exteriores",
+     "quando": "Hoje",
+     "titulo": "Chanceler chega aos EUA para o G20 com Rubio enquanto Casa Branca não reconhece vitória de Lula",
+     "resumo": "Mauro Vieira desembarcou em Atlanta para a reunião de chanceleres do G20, presidida pelo secretário de Estado Marco Rubio; não há encontro bilateral marcado, mas conversas informais são esperadas. É o primeiro contato de alto nível desde a eleição e desde a entrada de Flávio Bolsonaro nos EUA.",
+     "lados": [
+      {
+       "quem": "Governo Trump",
+       "txt": "Trump levantou suspeitas sobre a apuração brasileira, sem apresentar provas, mas disse que vai conversar com Lula e que atendeu ao pedido de não tomar partido na eleição."
+      },
+      {
+       "quem": "Governo brasileiro",
+       "txt": "O Itamaraty trata o resultado certificado pelo TSE como encerrado; segundo a imprensa, Lula aceita a conversa, mas não pretende tomar a iniciativa, e a expectativa para o G20 é baixa."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/mauro-vieira-chega-ao-g20-nos-eua-em-meio-a-tensao-com-casa-branca"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/no-g20-vieira-tera-1-evento-com-rubio-desde-fuga-de-flavio"
+      },
+      {
+       "n": "Brasil de Fato",
+       "u": "https://brasildefato.com.br/2026/10/29/trump-revela-que-lula-pediu-que-ele-nao-tomasse-partido-na-eleicao-e-diz-que-vai-conversar-com-presidente"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/mauro-vieira-chega-aos-eua-para-o-g20-em-meio-ao-silencio-de-trump-sobre-lula/"
+      }
+     ]
+    },
+    {
      "kicker": "Assédio eleitoral",
      "quando": "Hoje",
      "titulo": "Justiça do Trabalho manda Meta tirar do ar posts que incentivam demitir eleitores de Lula; governo estuda “lista suja”",
-     "resumo": "Atendendo a pedido do Ministério Público do Trabalho, a 77ª Vara do Trabalho de São Paulo deu 24 horas para a remoção de publicações de políticos como Victor Ruiz (PL-SP) e Guilherme Kilter (Novo-PR), sob multa diária. O MPT recebeu 1.140 denúncias de assédio eleitoral só entre o segundo turno e quarta-feira, e o ministro do Trabalho, Luiz Marinho, anunciou que estuda um cadastro de empresas que punirem funcionários pelo voto.",
+     "resumo": "A 77ª Vara do Trabalho de São Paulo deu 24 horas para a remoção de publicações de políticos como Victor Ruiz (PL-SP) e Guilherme Kilter (Novo-PR), sob multa diária. Segundo o MPT, as denúncias de assédio eleitoral subiram mais de 75% após o segundo turno, com 1.459 registros em três dias, e o ministro do Trabalho, Luiz Marinho, estuda um cadastro de empresas que punirem funcionários pelo voto.",
      "lados": [
       {
        "quem": "MPT e governo",
@@ -239,120 +297,62 @@
        "u": "https://www.tribunadosertao.com.br/politica/2026/10/30/1009848-patrao-nao-e-dono-do-voto-governo-e-justica-fecham-cerco-contra-demissoes-e-boicotes-a-eleitores-de-lula"
       },
       {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/politica/eleicoes/pt-e-parlamentares-pedem-investigacao-nacional-sobre-listas-de-boicote-a-eleitores-de-lula/"
-      }
-     ]
-    },
-    {
-     "kicker": "Flávio Bolsonaro",
-     "quando": "Ontem",
-     "titulo": "Deputados do PT e do PSOL pedem prisão e bloqueio de bens de Flávio; PF diz que ele não é foragido",
-     "resumo": "Desde segunda, parlamentares como Erika Hilton, Lindbergh Farias e Rogério Correia enviaram ao STF e à PGR pedidos de apreensão de passaportes, bloqueio de bens de até R$ 6 bilhões e prisão preventiva do senador, que entrou nos EUA na quarta. Segundo a Gazeta do Povo, a Polícia Federal afirma que deixar de entregar os passaportes não torna Flávio foragido.",
-     "lados": [
-      {
-       "quem": "Autores dos pedidos",
-       "txt": "Os deputados alegam que o senador descumpriu a ordem do ministro Alexandre de Moraes de entregar os passaportes e que há risco de ele não voltar ao país."
-      },
-      {
-       "quem": "Flávio e aliados",
-       "txt": "O senador nega ter fugido, diz ser alvo de perseguição judicial e afirma que vai liderar a oposição a partir dos EUA; juristas ouvidos pela Gazeta dizem que o descumprimento, sozinho, não basta para prender um parlamentar."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/esquerda-intensifica-ofensiva-judicial-contra-flavio-bolsonaro-direita-stf/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/"
-      },
-      {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-fugiu-para-os-eua-diz-agencia-reuters"
-      }
-     ]
-    },
-    {
-     "kicker": "Oposição",
-     "quando": "Ontem",
-     "titulo": "Flávio Bolsonaro deve lançar candidatura a 2030 dos EUA; Valdemar diz que não gostou da carta",
-     "resumo": "Segundo a colunista Mônica Bergamo, da Folha, aliados dizem que o senador pretende anunciar nos próximos dias que disputará a Presidência em 2030, o que é lido como tentativa de conter Tarcísio de Freitas e Michelle Bolsonaro na direita. Ao visitar Jair Bolsonaro em Brasília, o presidente do PL, Valdemar Costa Neto, disse que não gostou da carta em que Flávio se apresentou como presidente eleito.",
-     "lados": [
-      {
-       "quem": "Flávio e aliados",
-       "txt": "O senador afirma que não fugiu, que deixou o país para exercer a liderança da oposição com liberdade e que é alvo de perseguição judicial; promete pronunciamentos regulares e mobilização por meios pacíficos."
-      },
-      {
-       "quem": "Críticos",
-       "txt": "Governistas e parte da direita dizem que a viagem enfraquece a oposição; Tarcísio afirmou entender a indignação de Flávio, mas defendeu respeito ao resultado das urnas."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Bahia Notícias / Folha",
-       "u": "https://www.bahianoticias.com.br/noticia/323142-derrotado-em-2026-flavio-bolsonaro-deve-anunciar-candidatura-para-2030-e-tenta-frear-tarcisio-e-michelle-na-direita"
-      },
-      {
-       "n": "Correio / Metrópoles",
-       "u": "https://www.correio24horas.com.br/brasil/valdemar-visita-jair-bolsonaro-e-critica-carta-de-flavio-nao-gostei-1026"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-declara-lideranca-da-oposicao-a-partir-dos-eua/"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/colunistas/eliseu-caetano/flavio-deve-ir-a-washington-para-articulacao-com-governo-trump-dizem-aliados/"
-      }
-     ]
-    },
-    {
-     "kicker": "Relações exteriores",
-     "quando": "Ontem",
-     "titulo": "Trump diz que vai falar com Lula; Planalto indica que presidente não vai procurá-lo, mas aceita a conversa",
-     "resumo": "Trump afirmou que Lula lhe pediu para não tomar partido na eleição e que atendeu ao pedido, embora tenha voltado a criticar o processo eleitoral brasileiro. Segundo relatos da imprensa, o presidente brasileiro não pretende tomar a iniciativa do telefonema e quer manter uma relação pragmática com Washington.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/trump-diz-que-lula-pediu-neutralidade-sobre-as-eleicoes-no-brasil"
-      },
-      {
-       "n": "Jornal do Comércio",
-       "u": "https://www.jornaldocomercio.com/politica/2026/10/1268783-trump-diz-que-conversara-com-lula-e-que-petista-lhe-pediu-para-nao-tomar-lado.html"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/trump-diz-que-nao-vai-se-envolver-sobre-flavio-afirmar-ser-presidente-eleito-do-brasil/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-10/donald-trump-diz-que-pretende-conversar-com-presidente-lula"
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/denuncias-de-assedio-eleitoral-no-trabalho-disparam-75-apos-2-turno"
       }
      ]
     },
     {
      "kicker": "Governo",
-     "quando": "Ontem",
-     "titulo": "Lula quer definir vaga no STF com Alcolumbre ainda neste ano; Pacheco é o mais cotado",
-     "resumo": "Segundo a CNN Brasil, o presidente pretende negociar a indicação diretamente com o presidente do Senado antes da posse dos novos senadores, em fevereiro, e o ministro do TCU Rodrigo Pacheco é o nome preferido. A CNN e a Itatiaia relatam que Lula avalia indicar Gleisi Hoffmann para a vaga de Pacheco no TCU; o novo ministério deve ser anunciado só depois da COP31.",
+     "quando": "Hoje",
+     "titulo": "Rafael Fonteles nega convite para a Fazenda; Lula começa a desenhar o ministério de 2027",
+     "resumo": "O governador reeleito do Piauí disse à GloboNews que nunca tratou de cargos com Lula, depois de notícias de que o presidente iria a Teresina convidá-lo. Também são citados para a Fazenda o atual ministro, Dario Durigan, o presidente do BC, Gabriel Galípolo, e o ministro do Planejamento, Bruno Moretti; para a Casa Civil, o mais cotado é o senador Camilo Santana.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/lula-quer-negociar-indicacao-ao-stf-com-alcolumbre-ainda-neste-ano/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/10/30/rafael-fonteles-nega-que-tenha-sido-convidado-por-lula-para-o-comando-do-ministerio-da-fazenda"
       },
       {
-       "n": "Cidade Verde",
-       "u": "https://cidadeverde.com/ultimas/465547/wellington-diz-que-lula-deve-anunciar-ministros-apos-cop31-e-poe-rafael-no-radar"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-governo/lula-cogita-ir-ao-piaui-convidar-fonteles-para-fazenda-e-anima-mercado/"
       },
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/politica/2026/10/29/espaco-do-ceara-no-ministerio-de-lula-e-cenario-da-oposicao-apos-fuga-de-flavio-jogo-politico.html"
+       "n": "Ric",
+       "u": "https://ric.com.br/politica/lula-ministerios-2027-nomes-cotados-ministros-equipe/"
+      }
+     ]
+    },
+    {
+     "kicker": "Oposição",
+     "quando": "Hoje",
+     "titulo": "Valdemar visita Bolsonaro e reafirma que não aprovou carta de Flávio; Malafaia critica os filhos do ex-presidente",
+     "resumo": "O presidente do PL voltou a dizer que não sabia do conteúdo da carta em que o senador, nos EUA desde quarta, se apresentou como presidente eleito; Silas Malafaia criticou a condução do caso pelos filhos de Bolsonaro. Deputados do PT e do PSOL pediram ao STF a prisão de Flávio, e a PF afirma que ele não é considerado foragido.",
+     "lados": [
+      {
+       "quem": "Flávio e aliados",
+       "txt": "O senador nega ter fugido, diz ser alvo de perseguição judicial e afirma que vai liderar a oposição a partir dos EUA, por meios pacíficos."
       },
       {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/politica/lula-avalia-gleisi-hoffmann-tcu-pacheco-stf/"
+       "quem": "Críticos",
+       "txt": "Parlamentares governistas pedem prisão e bloqueio de bens por descumprimento da ordem de entregar os passaportes; parte da direita, como Tarcísio, defende respeito ao resultado das urnas."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/canal-o-tempo/programas/primeira-analise/2026/10/30/tensao-no-pl-valdemar-e-bolsonaro-malafaia-critica-flavio-e-bastidores-no-congresso-esquentam"
+      },
+      {
+       "n": "Jornal Cruzeiro",
+       "u": "https://www.jornalcruzeiro.com.br/geral/brasil/2026/10/767155-valdemar-ninguem-aprovou-a-carta-de-flavio.html"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/esquerda-intensifica-ofensiva-judicial-contra-flavio-bolsonaro-direita-stf/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-declara-lideranca-da-oposicao-a-partir-dos-eua/"
       }
      ]
     }
@@ -365,18 +365,42 @@
    "nota": "Mercado e indicadores",
    "itens": [
     {
-     "kicker": "Mercado",
+     "kicker": "Bolsa",
      "quando": "Hoje",
-     "titulo": "Bancos e varejo puxam a bolsa para baixo; Vale e Petrobras sobem na contramão",
-     "resumo": "Logo após a abertura, Bradesco, Banco do Brasil e Itaú recuavam até 2,2%, a B3 caía 3,8% e a Usiminas perdia perto de 7% depois de lucro abaixo das projeções. A Vale virou para alta após o balanço, e a Petrobras subia com o petróleo; os juros futuros avançavam em toda a curva.",
+     "titulo": "Siderúrgicas lideram as perdas, e Vale sobe 3,3% após balanço no último pregão de outubro",
+     "resumo": "Usiminas caiu 8,59% e CSN 8,49%, e as ações da B3 perderam 5,42%; na ponta positiva ficaram CSN Mineração, Magazine Luiza e Vale. O volume foi de R$ 41,8 bilhões, e opções da B3 indicam aposta majoritária na manutenção da Selic em 13,75% pelo Copom na quarta.",
      "fontes": [
       {
+       "n": "Bora Investir (B3)",
+       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544/"
+      },
+      {
        "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/ibovespa-cai-aos-167-mil-pontos-com-bancos-e-varejo-vale-vira-para-alta/"
+       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-075-e-fecha-aos-1679-mil-pontos-dolar-sobe/"
       },
       {
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Petrobras",
+     "quando": "Ontem",
+     "titulo": "Petrobras anuncia terceira descoberta de petróleo no mesmo poço na costa do Amapá",
+     "resumo": "O poço Morpho, no bloco FZA-M-59, a 2.886 metros de lâmina d'água na Foz do Amazonas, teve a perfuração concluída e será abandonado; a sonda segue para a Bacia Potiguar. A estatal também informou produção recorde de 3,51 milhões de barris de óleo equivalente por dia no terceiro trimestre, 11,7% acima de um ano antes.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas"
+      },
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/economia/petrobras-anuncia-terceira-descoberta-de-petroleo-na-costa-do-amapa/"
+      },
+      {
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/empresas/petrobras-petr4-confirma-terceira-descoberta-de-petroleo-na-margem-equatorial-bdap/"
       }
      ]
     },
@@ -401,6 +425,22 @@
      ]
     },
     {
+     "kicker": "Conta de luz",
+     "quando": "Hoje",
+     "titulo": "Aneel mantém bandeira verde em novembro, sem cobrança extra na conta de luz",
+     "resumo": "É o segundo mês seguido sem acréscimo, depois de cinco meses de bandeira amarela. Segundo a agência, as chuvas nas regiões das grandes hidrelétricas recompuseram os reservatórios e reduziram a necessidade de acionar térmicas, que custam mais.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/RqneoT0_2Arc0lKSlamOm7w_TkQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/21/_rbr1646.jpg?itok=2io4dTo9",
+      "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/aneel-mantem-bandeira-tarifaria-verde-em-novembro"
+      }
+     ]
+    },
+    {
      "kicker": "Imposto de Renda",
      "quando": "Hoje",
      "titulo": "Receita paga nesta sexta R$ 531,6 milhões a 184 mil contribuintes no lote da malha fina",
@@ -415,42 +455,6 @@
        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-paga-nesta-sexta-feira-lote-da-malha-fina-do-imposto-de-renda"
       }
      ]
-    },
-    {
-     "kicker": "Estados e municípios",
-     "quando": "Ontem",
-     "titulo": "CMN amplia em R$ 2 bilhões o limite de crédito de estados e municípios em 2026",
-     "resumo": "Em reunião extraordinária, o Conselho Monetário Nacional elevou o teto global de R$ 28,6 bilhões para R$ 30,6 bilhões, com mais espaço para operações com e sem garantia da União. Segundo a Fazenda, a medida remaneja espaço fiscal já previsto para o ano e não usado.",
-     "fontes": [
-      {
-       "n": "O Povo / Estadão Conteúdo",
-       "u": "https://www.opovo.com.br/noticias/economia/2026/10/29/cmn-extra-amplia-limites-para-operacoes-de-credito-de-estados-do-df-e-de-municipios-em-2026.html"
-      },
-      {
-       "n": "Diário do Comércio",
-       "u": "https://diariodocomercio.com.br/economia/cmn-amplia-credito-estados/"
-      }
-     ]
-    },
-    {
-     "kicker": "Contas públicas",
-     "quando": "Ontem",
-     "titulo": "IFI estima que bets, pacote do MEI e Bolsa Família somam R$ 40 bilhões ao desequilíbrio fiscal",
-     "resumo": "No relatório de outubro, a Instituição Fiscal Independente do Senado projeta déficit primário de 0,5% do PIB em 2026 e calcula que seria preciso superávit de 2,1% do PIB para estabilizar a dívida. A IFI elevou para 81,6% a probabilidade de a dívida bruta passar de 90% do PIB até 2030.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/economia/ifi-projeta-alta-deficit-primario-2026-gastos-extra-orcamento/"
-      },
-      {
-       "n": "O Povo / Estadão Conteúdo",
-       "u": "https://www.opovo.com.br/noticias/economia/2026/10/29/ifi-aumento-do-bolsa-familia-fim-de-bets-e-pacote-meis-somam-rs-40-bi-de-desequilibrio-fiscal.html"
-      },
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/ifi-bets-mei-bolsa-familia-impacto-fiscal-40-bilhoes"
-      }
-     ]
     }
    ]
   },
@@ -461,22 +465,46 @@
    "nota": "Segurança, clima e cidades",
    "itens": [
     {
-     "kicker": "Tempo",
+     "kicker": "Feriadão",
      "quando": "Hoje",
-     "titulo": "Chuva forte se concentra no Sudeste e no Centro-Oeste nesta sexta, segundo o Inmet",
-     "resumo": "A previsão é de chuva com trovoadas em quase todo o Sudeste e em todo o Centro-Oeste, com mínima de 16 °C em Belo Horizonte e máxima de 34 °C em Cuiabá. O Norte segue quente, com até 38 °C em Boa Vista, e no Sul há trovoadas no Paraná, em Santa Catarina e no norte gaúcho.",
+     "titulo": "Inmet põe 3.463 cidades em alerta de chuva forte no feriadão de Finados",
+     "resumo": "Os avisos amarelos valem para ao menos um dos três dias em 62% dos municípios do país e para todo o feriadão em 711 deles, com Minas Gerais concentrando os alertas; domingo e segunda têm risco de granizo. A PRF iniciou a Operação Finados nas rodovias federais, com foco no uso do celular ao volante.",
      "foto": {
       "src": "https://imagens.ebc.com.br/znTa6KJm1vEw9On3LoJ6HClroDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9067.jpg?itok=SgyT8Pu6",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuvas-predominam-nas-regioes-sudeste-e-centro-oeste-do-pais"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/tempo/2026/10/30/feriado-de-finados-tem-alerta-de-chuva-forte-em-3-4-mil-cidades-e-bh-fica-na-lista-os-tres-dias"
       },
       {
-       "n": "Agora RS",
-       "u": "https://agorars.com/agora-no-tempo/alerta-amarelo-chuva-intensa-rs-30-outubro-2026/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-10/feriado-de-finados-vai-ser-com-chuva-em-grande-parte-do-brasil"
+      },
+      {
+       "n": "Midiamax",
+       "u": "https://midiamax.com.br/cotidiano/2026/mato-grosso-sul-tem-previsao-chuva-fim-semana-ate-feriado-finados/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/prf-inicia-operacao-finados-com-foco-no-uso-do-celular-ao-volante"
+      }
+     ]
+    },
+    {
+     "kicker": "Rio de Janeiro",
+     "quando": "Hoje",
+     "titulo": "Engavetamento com 21 veículos na Dutra deixa um morto e ao menos dez feridos",
+     "resumo": "O acidente ocorreu por volta das 7h, no km 174, em São João de Meriti, na Baixada Fluminense, no sentido Rio. O motorista de um ônibus morreu no local; a suspeita é de que ele tenha passado mal ao volante, mas a causa ainda não foi confirmada.",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365924/motorista-passa-mal-e-acidente-envolve-mais-de-20-veiculos-na-dutra"
+      },
+      {
+       "n": "Agora RN",
+       "u": "https://agorarn.com.br/policia/infarto-de-motorista-provoca-acidente/"
       }
      ]
     },
@@ -501,18 +529,14 @@
      ]
     },
     {
-     "kicker": "Serviços",
+     "kicker": "Turismo",
      "quando": "Hoje",
-     "titulo": "Sexta tem feriado municipal em 41 cidades e ponto facultativo; Finados é na segunda",
-     "resumo": "Segundo a Febraban, 41 municípios têm feriado local nesta sexta, e vários estados e capitais transferiram para hoje o ponto facultativo do Dia do Servidor. Na segunda (2), Finados é feriado nacional; quem precisa de banco deve conferir o funcionamento da agência.",
+     "titulo": "Temporada de cruzeiros começa com previsão de R$ 4,7 bilhões em movimentação",
+     "resumo": "Até 9 de abril, oito navios farão roteiros pela costa brasileira e outros 28, de longo curso, devem fazer mais de 200 escalas, segundo o Ministério do Turismo. Santos lidera as projeções, seguida por Rio de Janeiro e Balneário Camboriú, e a pasta espera superar os 72 mil empregos da temporada anterior.",
      "fontes": [
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/curiosidades/2026/10/30/hoje-30-de-outubro-e-feriado-veja-onde-e-quem-folga-nesta-sexta-feira.html"
-      },
-      {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/dia-do-servidor-publico-ponto-facultativo-sera-na-sexta-feira"
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/temporada-de-cruzeiros-comeca-na-sexta-com-projecao-de-mais-empregos"
       }
      ]
     },
@@ -527,18 +551,6 @@
        "u": "https://www.canalmt.com.br/2026/10/30/alvo-de-operacao-da-pf-sergio-ricardo-ficara-preso-no-bope/"
       }
      ]
-    },
-    {
-     "kicker": "Ceará",
-     "quando": "Ontem",
-     "titulo": "PF diz que presos de facção planejavam ataques a policiais penais no Ceará",
-     "resumo": "Na Operação Nexo, a força-tarefa Ficco cumpriu mandados de prisão contra suspeitos de organizar, de dentro dos presídios, uma paralisação do sistema prisional e atos violentos contra agentes. Segundo a PF, o grupo também vendia drogas e celulares nas unidades, com uso de drones.",
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/seguranca-publica/2026/10/29/pf-presos-planejavam-atacar-agentes-de-seguranca-no-ceara.html"
-      }
-     ]
     }
    ]
   },
@@ -551,20 +563,64 @@
     {
      "kicker": "Oriente Médio",
      "quando": "Hoje",
-     "titulo": "Navio-tanque é atacado em Ormuz e Arábia Saudita diz ter derrubado drone houthi perto de Meca",
-     "resumo": "Segundo a agência britânica UKMTO, explosivos presos ao casco de um petroleiro causaram incêndio na casa de máquinas; a tripulação está a salvo. Os houthis negam ter mirado Meca e dizem atacar instalações de petróleo e bases sauditas; outubro tem o maior número de ataques a navios em Ormuz desde março, e o Brent passou de US$ 113.",
+     "titulo": "Irã diz que três petroleiros pegaram fogo em Ormuz; Omã resgata 25 tripulantes de outro navio",
+     "resumo": "Segundo a Guarda Revolucionária, os navios tentavam passar por rotas não autorizadas por Teerã, sem dizer a causa dos incêndios; separadamente, a Marinha de Omã retirou a tripulação de um navio panamenho atacado perto de Musandam. Trump disse que a guerra com o Irã vai acabar em breve, e o Brent fechou em alta de 2,37%, a US$ 113,43.",
+     "lados": [
+      {
+       "quem": "Irã",
+       "txt": "A Guarda Revolucionária afirma que os navios desligaram sistemas de navegação, ignoraram avisos e tinham apoio militar dos EUA."
+      },
+      {
+       "quem": "Estados Unidos",
+       "txt": "O Comando Central diz que as principais rotas estão livres de minas e que a força naval iraniana já não opera no estreito; Trump cobra garantias de que o Irã nunca terá arma nuclear."
+      }
+     ],
      "fontes": [
       {
-       "n": "O Povo / Estadão Conteúdo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/10/30/arabia-saudita-diz-ter-interceptado-drone-perto-de-meca-navio-tanque-e-atacado-em-ormuz.html"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/10/30/guarda-revolucionaria-do-irao-diz-que-dois-petroleiros-se-incendiaram-no-estreito-de-ormuz"
       },
       {
-       "n": "Business Recorder / Reuters",
-       "u": "https://www.brecorder.com/news/40446647/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/tres-petroleiros-pegam-fogo-em-ormuz-diz-marinha-iraniana"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/dolar-nesta-sexta-4"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mundo/trump-guerra-com-ira-acabara-em-breve-de-um-jeito-ou-de-outro/"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/mundo/petroleo/petroleo-fecha-em-alta-com-incertezas-sobre-negociacoes-entre-estados-unidos-e-ira"
+      }
+     ]
+    },
+    {
+     "kicker": "Israel",
+     "quando": "Hoje",
+     "titulo": "Resultado confirmado deixa Netanyahu sem maioria e abre disputa por coalizão",
+     "resumo": "O bloco do premiê ficou com 53 das 120 cadeiras, a oposição liderada por Gadi Eisenkot com 48 e os partidos árabes com 19. A comissão eleitoral deve entregar o resultado ao presidente Isaac Herzog na quarta, e o novo Parlamento toma posse em 10 de novembro.",
+     "lados": [
+      {
+       "quem": "Netanyahu e Likud",
+       "txt": "Afirmam, sem apresentar provas, que partidos árabes “roubaram” a eleição com ajuda externa e rejeitam qualquer coalizão que dependa deles; o Catar, citado por integrantes do Likud, nega."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "Acusa o premiê de demonizar a minoria árabe, cerca de 20% da população, e articula com bancadas árabes a eleição do presidente do Parlamento."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365968/israel-confirma-perda-de-maioria-de-netanyahu-e-abre-disputa-por-coalizao-com-partidos-arabes"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/mundo/eleicao-em-israel-nao-define-premie-e-abre-disputa-por-coalizao-entre-netanyahu-e-oposicao-1.1188997"
+      },
+      {
+       "n": "Times of Israel",
+       "u": "https://www.timesofisrael.com/liveblog-october-30-2026/"
       }
      ]
     },
@@ -623,40 +679,6 @@
        "u": "https://www.otempo.com.br/mundo/2026/10/28/eua-entenda-como-funcionam-as-eleicoes-de-meio-mandato-e-o-que-pode-mudar-na-politica-americana"
       }
      ]
-    },
-    {
-     "kicker": "Israel",
-     "quando": "Ontem",
-     "titulo": "Sem maioria, Netanyahu deve seguir como premiê interino em Israel",
-     "resumo": "Com mais de 90% das urnas apuradas, projeções das emissoras dão 53 das 120 cadeiras ao bloco de Netanyahu, 48 à oposição liderada por Gadi Eisenkot e 19 a partidos árabes. A participação, de 77,7%, foi a maior em mais de duas décadas; autoridades também investigam suspeita de compra de votos.",
-     "lados": [
-      {
-       "quem": "Likud",
-       "txt": "O partido de Netanyahu afirma que partidos árabes receberam dinheiro do exterior e “roubaram” a eleição, sem apresentar provas publicamente, e rejeita qualquer governo que dependa deles."
-      },
-      {
-       "quem": "Oposição e partidos árabes",
-       "txt": "O Ra’am nega as acusações; Eisenkot apoia a investigação, mas diz que ela não pode atrasar a posse do novo Parlamento, e Yair Golan acusa o premiê de não aceitar o resultado."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/israel-netanyahu-deve-permanecer-como-interino-apos-eleicao-inconclusiva/"
-      },
-      {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/netanyahu-vence-eleicoes-israel-sem-maioria-parlamento"
-      },
-      {
-       "n": "Ynet",
-       "u": "https://www.ynetnews.com/article/hjnatbkaml"
-      },
-      {
-       "n": "Jerusalem Post",
-       "u": "https://www.jpost.com/israel-election-2026/article-913122"
-      }
-     ]
     }
    ]
   },
@@ -669,20 +691,24 @@
     {
      "kicker": "Fórmula 1",
      "quando": "Hoje",
-     "titulo": "GP do México começa nesta sexta, e Antonelli pode ser campeão já no domingo",
-     "resumo": "Kimi Antonelli, da Mercedes, chega com 365 pontos, 123 à frente de George Russell, e pode garantir o título dependendo do resultado dos rivais, segundo as contas da imprensa mexicana. Os treinos livres são às 15h30 e 19h e a corrida, domingo às 17h (Brasília); no primeiro treino, o carro de Gabriel Bortoleto será guiado pelo reserva Freddie Slater.",
+     "titulo": "Leclerc lidera o primeiro treino no México; Antonelli se recupera de virose e é segundo",
+     "resumo": "O piloto da Ferrari fez 1min18s128 numa sessão com dez reservas na pista, entre eles Freddie Slater no carro de Gabriel Bortoleto. Líder com 365 pontos, 123 à frente de George Russell, Kimi Antonelli foi liberado pelos médicos depois de cancelar compromissos na quinta e pode ser campeão no domingo.",
      "fontes": [
       {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/f1-com-10-pilotos-reservas-leclerc-lidera-primeiro-treino-livre-no-mexico"
+      },
+      {
        "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-hoje-saiba-como-assistir-aos-treinos-livres-do-gp-do-mexico-2026/"
+       "u": "https://www.f1mania.net/f1/f1-antonelli-se-sente-melhor-e-e-liberado-para-participar-dos-tls-no-gp-do-mexico/"
       },
       {
-       "n": "Uno TV",
-       "u": "https://www.unotv.com/deportes/gp-de-mexico-2026-kimi-antonelli-a-un-paso-de-ser-el-campeon-mas-joven-de-la-f1-que-necesita-para-coronarse/"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/formula-1/ao-vivo-siga-o-treino-livre-1-do-gp-da-cidade-do-mexico-pela-f1-2026.html"
       },
       {
-       "n": "Piranot",
-       "u": "https://www.piranot.com.br/2026/10/29/noticias/esporte/bortoleto-audi-treino-gp-mexico/"
+       "n": "Formula 1",
+       "u": "https://www.formula1.com/en/latest/article/fp1-leclerc-leads-antonelli-in-mexico-city-as-new-faces-make-formula-1-debuts.5IkozqYxX25QgmGJqc0NlA"
       }
      ]
     },
@@ -746,7 +772,7 @@
      "kicker": "Seleção",
      "quando": "Ontem",
      "titulo": "Ancelotti convoca 26 para amistosos contra Japão e Singapura, com quatro estreantes e a volta de Estêvão",
-     "resumo": "Arthur Dias, do Athletico, Jonathan Jesus, do Cruzeiro, e Alisson Santana e Marlon Gomes, do Shakhtar, recebem a primeira chamada; não há jogadores de Flamengo e Palmeiras na lista. Os jogos são em 14 e 17 de novembro, em Singapura, de madrugada no horário de Brasília.",
+     "resumo": "Arthur Dias, do Athletico, Jonathan Jesus, do Cruzeiro, e Alisson Santana e Marlon Gomes, do Shakhtar, recebem a primeira chamada; não há jogadores de Flamengo e Palmeiras na lista. A Seleção enfrenta o Japão em 14 de novembro, às 7h15, e Singapura no dia 17, às 7h (Brasília), no Estádio Nacional de Singapura.",
      "fontes": [
       {
        "n": "Agência Brasil",
@@ -755,6 +781,10 @@
       {
        "n": "ClicRDC",
        "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-30-de-outubro-de-2026/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/10/30/ancelotti-convocou-e-agora-veja-o-roteiro-da-selecao-ate-o-fim-de-2026"
       }
      ]
     }
@@ -766,6 +796,22 @@
    "cor": "--sau",
    "nota": "",
    "itens": [
+    {
+     "kicker": "Vírus respiratórios",
+     "quando": "Hoje",
+     "titulo": "Síndrome respiratória grave cresce em cinco estados, com alta de covid em MT e MS",
+     "resumo": "Amapá, Mato Grosso, Mato Grosso do Sul, Sergipe e Maranhão estão em alerta com tendência de alta, segundo o boletim InfoGripe, da Fiocruz. Os casos graves de covid aumentaram, mas seguem baixos em relação à pandemia; nas últimas quatro semanas, o rinovírus respondeu por mais da metade dos testes positivos.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/saude/cinco-estados-do-brasil-estao-em-nivel-de-risco-para-sindrome-respiratoria/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-10/sindrome-respiratoria-aguda-esta-em-nivel-de-alerta-em-cinco-estados"
+      }
+     ]
+    },
     {
      "kicker": "Gestantes",
      "quando": "Hoje",
@@ -885,8 +931,8 @@
     {
      "kicker": "Tecnologia",
      "quando": "Hoje",
-     "titulo": "Intel despenca cerca de 28% e arrasta a Nasdaq em dia de temor sobre gastos com IA",
-     "resumo": "A fabricante de chips projetou receitas abaixo do esperado, citando uma explosão em sua fábrica em Israel e a desaceleração do mercado de PCs. À tarde, a Nasdaq caía perto de 2,3%, com perdas em Nvidia, AMD e Qualcomm, após o balanço da Amazon também frustrar investidores.",
+     "titulo": "Intel despenca 28% e Nasdaq fecha em queda de 2,86% com temor sobre gastos em IA",
+     "resumo": "A fabricante de chips projetou receitas abaixo do esperado, citando uma explosão em sua fábrica em Israel e a desaceleração dos PCs; Nvidia, AMD e Qualcomm também caíram. Com o balanço da Amazon, que mostrou fluxo de caixa negativo pelos gastos com infraestrutura de IA, a Nasdaq foi ao menor nível em três meses.",
      "fontes": [
       {
        "n": "Dinheiro Vivo",
@@ -897,8 +943,12 @@
        "u": "https://infobae.com/america/mundo/2026/10/30/fuertes-bajas-en-wall-street-por-las-dudas-sobre-la-inversion-en-inteligencia-artificial-intel-se-desploma-mas-del-25"
       },
       {
-       "n": "ECO",
-       "u": "https://eco.sapo.pt/2026/10/30/ativo-do-dia-intel-afunda-30-e-vai-a-caminho-da-pior-sessao-de-sempre/"
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/economia/2026/10/30/wall-street-despenca-puxada-por-queda-do-nasdaq-e-duvidas-sobre-o-retorno-de-investimentos-em-ia/"
+      },
+      {
+       "n": "Bora Investir (B3)",
+       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544/"
       }
      ]
     },
@@ -923,6 +973,18 @@
      ]
     },
     {
+     "kicker": "Espaço",
+     "quando": "Ontem",
+     "titulo": "Meteorito marciano de 4,1 bilhões de anos guarda sinais de água antiga em Marte",
+     "resumo": "Estudo publicado na Science por pesquisadores do Laboratório de Propulsão a Jato da Nasa analisou o Teghaza 001, rocha de cerca de 800 gramas achada no Saara, em Mali, em 2022. Minerais da amostra indicam interação com água no passado do planeta.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/ciencia/2026/10/30/meteorito-de-mais-de-4-bilhoes-de-anos-revela-pistas-sobre-agua-em-marte"
+      }
+     ]
+    },
+    {
      "kicker": "Meio ambiente",
      "quando": "Ontem",
      "titulo": "Vegetação nativa do Brasil está mais fragmentada, aponta MapBiomas",
@@ -941,22 +1003,6 @@
        "u": "https://revistaamazonia.com.br/cop17-biodiversidade-us-200-bilhoes-amazonia"
       }
      ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "Ontem",
-     "titulo": "Amazon fica abaixo das previsões de lucro e receita, e ação cai 6% após o pregão",
-     "resumo": "A empresa lucrou US$ 20,7 bilhões no terceiro trimestre, um pouco menos que um ano antes, com receita de US$ 201,9 bilhões; a nuvem AWS cresceu 39%. O fluxo de caixa livre em 12 meses ficou negativo em US$ 42,4 bilhões, o que a companhia associa aos gastos com infraestrutura de IA.",
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/economia/2026/10/29/amazon-frustra-em-lucro-e-receita-investimentos-em-infraestrutura-de-ia-crescem-e-acao-cai-6.html"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/internacional-economia/amazon-lucro-abaixo-esperado-acao-cai-investimentos-ia/"
-      }
-     ]
     }
    ]
   },
@@ -969,20 +1015,40 @@
     {
      "kicker": "Morte",
      "quando": "Hoje",
-     "titulo": "Fãs deixam flores na estrela de Patrick Stewart em Hollywood; colegas e estúdios homenageiam o ator",
-     "resumo": "O ator britânico, o Professor Xavier de X-Men e o capitão Picard de Star Trek, morreu na quarta (28), aos 86 anos, em Los Angeles; a família informou que ele tinha Alzheimer e demência com corpos de Lewy. Nesta sexta, fãs levaram flores à sua estrela na Calçada da Fama, depois de mensagens de Hugh Jackman, Ian McKellen, da Marvel e da franquia Star Trek.",
+     "titulo": "Elenco de X-Men resgata fotos para homenagear Patrick Stewart; família detalha doenças do ator",
+     "resumo": "Hugh Jackman, Ian McKellen, James McAvoy, James Marsden e Rebecca Romijn publicaram imagens de bastidores com o ator, que morreu na quarta, aos 86 anos, em Los Angeles. Segundo a família, ele tinha Alzheimer e demência com corpos de Lewy; fãs também deixaram flores em sua estrela na Calçada da Fama.",
      "fontes": [
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/celebridades/hugh-jackman-e-outros-famosos-lamentam-a-morte-de-patrick-stewart/"
+       "u": "https://www.cnnbrasil.com.br/pop/celebridades/atores-de-x-men-resgatam-fotos-antigas-para-homenagear-patrick-stewart/"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/diversao/entre-telas/filmes/perdemos-um-dos-maiores-hugh-jackman-e-mais-famosos-lamentam-morte-de-patrick-stewart,ec580c0bc3dc2c34ee310b7eeef1c3bet8gmq9hj.html"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/celebridades/causa-da-morte-de-patrick-stewart-professor-xavier-de-x-men-e-revelada/"
+      },
+      {
+       "n": "Omelete",
+       "u": "https://www.omelete.com.br/filmes/patrick-stewart-morre"
       },
       {
        "n": "Euronews",
        "u": "https://pt.euronews.com/2026/10/30/boa-viagem-capitao-homenagens-sentidas-a-sir-patrick-stewart"
+      }
+     ]
+    },
+    {
+     "kicker": "Música",
+     "quando": "Hoje",
+     "titulo": "Venda geral de ingressos para show de Pitbull em São Paulo começa nesta sexta",
+     "resumo": "O cantor volta ao Brasil depois de 13 anos para apresentação única em 31 de janeiro de 2027. Os ingressos estão na Ticketmaster e nas bilheterias, com preços de R$ 450 a R$ 890 a inteira.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://cnnbrasil.com.br/pop/musica/pitbull-no-brasil-venda-geral-de-ingressos-comeca-nesta-sexta-feira-30"
+      },
+      {
+       "n": "Portal Tela",
+       "u": "https://www.portaltela.com/entretenimento/2026/10/30/pitbull-volta-ao-brasil-em-2027-com-show-em-sp-confira-ingressos/"
       }
      ]
     },
@@ -1003,6 +1069,26 @@
      ]
     },
     {
+     "kicker": "Reality",
+     "quando": "Ontem",
+     "titulo": "Atriz Giovanna Gold é a sexta eliminada de “A Fazenda 18”",
+     "resumo": "Ela deixou o programa da Record na roça de quinta, com 27,12% dos votos, contra Maíra Charken e Darlin Ferrattry. A edição já teve três desistências.",
+     "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/divirtase/a-fazenda/2026/10/29/a-fazenda-18-quem-saiu-hoje-veja-6-eliminado-e-porcentagens.html"
+      },
+      {
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/entretenimento/quem-saiu-de-a-fazenda-18-peoa-e-eliminada-em-roca-acirrada/"
+      },
+      {
+       "n": "Bahia Notícias",
+       "u": "https://www.bahianoticias.com.br/holofote/noticia/85982-a-fazenda-tem-nova-desistencia-apos-eliminacao-edicao-de-2026-conta-com-3-desistentes"
+      }
+     ]
+    },
+    {
      "kicker": "Cinema",
      "quando": "Ontem",
      "titulo": "“100 Dias”, de Carlos Saldanha, estreia em semana de ingressos a R$ 12 para filmes nacionais",
@@ -1015,42 +1101,6 @@
       {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/entretenimento/2026/10/29/cinema-confira-as-novidades-que-entram-em-cartaz-em-29-de-outubro"
-      }
-     ]
-    },
-    {
-     "kicker": "Mostra de SP",
-     "quando": "Ontem",
-     "titulo": "“Cinco Anos, Quatro Meses” vence a 50ª Mostra de São Paulo; público premia “Feito Pipa” e “100 Dias”",
-     "resumo": "O filme de Juan Miguel Gelacio levou o prêmio do júri de ficção, e o documentário “O Beija-Flor Pinta Canções Perfumadas” venceu entre os documentários. Entre os brasileiros, a crítica escolheu “Pequenas Tragédias”, de Daniel Nolasco, e “Talismã”, de Thais Fujinaga, ganhou distribuição internacional pela Netflix.",
-     "fontes": [
-      {
-       "n": "Exame",
-       "u": "https://exame.com/casual/50a-mostra-de-cinema-de-sao-paulo-anuncia-vencedores-de-2026-veja-os-filmes/"
-      },
-      {
-       "n": "JWave",
-       "u": "https://www.jwave.com.br/2026/10/50a-mostra-de-cinema-de-sao-paulo-anuncia-vencedores-confira-os-premiados/"
-      },
-      {
-       "n": "Oxente Pipoca",
-       "u": "https://www.oxentepipoca.com.br/post/pr%C3%AAmios-mostra-de-s%C3%A3o-paulo"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "Ontem",
-     "titulo": "Shakira deve abrir turnê no Brasil no Réveillon de Balneário Camboriú, segundo coluna",
-     "resumo": "A colunista Fábia Oliveira, do Metrópoles, informa que a cantora faria o show da virada em Santa Catarina e teria datas em Salvador e no Rio em janeiro de 2027. Nem a artista nem produtores confirmaram oficialmente as apresentações.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/fabia-oliveira/shakira-retorna-ao-brasil-com-show-no-reveillon-e-datas-no-nordeste"
-      },
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/musica/shakira-pode-fazer-apresentacao-no-ano-novo-de-balneario-camboriu-em-primeiro-show-de-turne-pelo-pais-diz-site/"
       }
      ]
     }
