@@ -1,72 +1,72 @@
 {
  "data": "Sexta-feira, 30 de outubro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "30/10/2026 · 07h05 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 29/10, 18h00",
- "fontes": 49,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "30/10/2026 · 13h40 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 11h42",
+ "fontes": 58,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 29/10",
-   "valor": "169.186 pts",
-   "var": "−1,06%",
+   "nome": "Ibovespa · 11h42",
+   "valor": "168.481 pts",
+   "var": "−0,42%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · fechamento 29/10",
-   "valor": "R$ 5,38",
-   "var": "+0,89%",
+   "nome": "Dólar comercial · 10h20",
+   "valor": "R$ 5,43",
+   "var": "cerca de +0,8%",
    "dir": "up"
   },
   {
-   "nome": "Bitcoin · manhã de 30/10",
-   "valor": "US$ 77 mil",
-   "var": "cerca de −2%",
-   "dir": "down"
+   "nome": "Petróleo Brent · 9h54",
+   "valor": "US$ 113,29",
+   "var": "+2,25%",
+   "dir": "up"
+  },
+  {
+   "nome": "Desemprego · tri. até set. (IBGE)",
+   "valor": "5,2%",
+   "var": "menor para o período desde 2012",
+   "dir": ""
   },
   {
    "nome": "Selic · taxa atual",
    "valor": "13,75%",
    "var": "Copom decide em 4/11",
    "dir": ""
-  },
-  {
-   "nome": "Juros do BCE · decisão 29/10",
-   "valor": "2,5%",
-   "var": "mantidos",
-   "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Sex 30 · manhã",
-   "txt": "IBGE divulga a taxa de desemprego (Pnad Contínua) do trimestre encerrado em setembro",
-   "cat": "economia"
-  },
-  {
-   "hora": "Sex 30",
-   "txt": "Ponto facultativo do Dia do Servidor nas repartições federais; serviços essenciais funcionam",
-   "cat": "brasil"
-  },
-  {
-   "hora": "Sex 30 · 15h30",
-   "txt": "Primeiro treino livre do GP do México de Fórmula 1; à noite, Corinthians enfrenta o Mirassol pelo Brasileirão",
+   "hora": "Sex 30 · 15h30 e 20h",
+   "txt": "Treinos livres do GP do México de Fórmula 1 (15h30 e 19h); às 20h, Corinthians e Mirassol se enfrentam pelo Brasileirão",
    "cat": "esporte"
+  },
+  {
+   "hora": "Sáb 31",
+   "txt": "Prazo para escolas públicas regularizarem pendências com o FNDE; último dia da vacinação contra meningite para jovens de até 24 anos em quatro cidades do Rio",
+   "cat": "educacao"
   },
   {
    "hora": "Dom 1º/11",
-   "txt": "Palmeiras x Vasco, ida da semifinal da Copa do Brasil, às 16h; GP do México às 17h (horários de Brasília)",
+   "txt": "Palmeiras x Vasco, ida da semifinal da Copa do Brasil, às 16h; GP do México às 17h, com chance de título para Kimi Antonelli",
    "cat": "esporte"
   },
   {
+   "hora": "Seg 2/11",
+   "txt": "Feriado nacional de Finados",
+   "cat": "brasil"
+  },
+  {
    "hora": "Ter 3/11",
-   "txt": "Eleições de meio de mandato nos EUA decidem o controle do Congresso",
+   "txt": "Eleições de meio de mandato nos EUA decidem o controle do Congresso; inscrições do Fies 2026/2 terminam",
    "cat": "mundo"
   },
   {
    "hora": "Qua 4/11 e Dom 8/11",
    "txt": "Copom decide a Selic na quarta; primeiro dia de provas do Enem no domingo, com portões fechando às 13h",
-   "cat": "educacao"
+   "cat": "economia"
   }
  ],
  "acervo": [
@@ -162,40 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Criptomoedas",
-  "titulo": "Binance confirma ataque hacker de US$ 6,3 bilhões, o maior já registrado no mercado de criptomoedas",
-  "resumo": "A maior corretora de criptomoedas do mundo informou na noite de quinta que invasores desviaram ativos por meio do notebook de um engenheiro e que cerca de US$ 3 bilhões já foram congelados. Saques estão suspensos, e o bitcoin recuava cerca de 2% nesta manhã, perto de US$ 77 mil.",
-  "entenda": "Segundo a apuração preliminar divulgada pela própria Binance, o computador de um engenheiro da área de infraestrutura foi comprometido, o que deu ao invasor acesso a um serviço interno usado para autorizar retiradas. A empresa diz não ter encontrado sinais de vazamento das chaves privadas das carteiras e afirma que vai cobrir todas as perdas com recursos próprios e com o SAFU, seu fundo de emergência. Empresas de rastreamento de blockchain atribuem o roubo a hackers ligados à Coreia do Norte; o governo norte-coreano costuma negar acusações desse tipo. O valor supera o de todos os ataques anteriores a corretoras de criptomoedas.",
+  "kicker": "Mercado",
+  "titulo": "Ibovespa cai pela quinta sessão e caminha para a pior semana de sua história",
+  "resumo": "A bolsa chegou a recuar 1,29% nesta manhã, aos 167 mil pontos, e às 11h42 caía 0,42%; o dólar subiu à casa de R$ 5,43. Até quinta, a perda acumulada desde a eleição era de 17,5%, acima dos 15,6% da pior semana registrada, em março de 2020.",
+  "foto": {
+   "src": "fotos/real.jpg",
+   "credito": "José Cruz/Agência Brasil (arquivo)"
+  },
+  "entenda": "O índice despencou 13,88% na segunda-feira seguinte ao segundo turno, quando o pregão chegou a ser interrompido pelo circuit breaker, e não se recuperou desde então. Analistas ouvidos pelo SBT News dizem que parte dos investidores tinha apostado na vitória de Flávio Bolsonaro e que a falta de um plano fiscal detalhado e de nomes para a equipe econômica de 2027 ampliou a venda de ações. O ministro da Fazenda, Dario Durigan, prometeu na terça um projeto para perseguir o centro da meta fiscal, sem detalhar medidas nem prazos. Nesta sexta, também pesam a queda das bolsas americanas, puxada por Intel e Amazon, e a alta do petróleo após novos ataques no Golfo.",
   "fatos": [
-   "TRM Labs e Chainalysis dizem ter alta confiança de que um grupo de hackers norte-coreano está por trás do ataque, segundo a CNN Brasil.",
-   "A Binance pausou depósitos e saques, revogou a autorização do endereço afetado e acionou a polícia; promete publicar um relatório completo e uma nova prova de reservas.",
-   "Bitcoin, ether e BNB caíram logo após a notícia e recuperaram parte das perdas; na manhã desta sexta, o bitcoin cedia cerca de 2%, segundo a BitNotícias."
+   "Bancos, varejo e a própria B3 lideravam as perdas pela manhã; Usiminas caía após lucro abaixo do esperado, segundo a BPMoney.",
+   "Vale e Petrobras subiam: a mineradora reagia ao balanço do trimestre, e a petroleira acompanhava o barril e anunciou nova descoberta na Margem Equatorial.",
+   "O IBGE informou desemprego de 5,2% no trimestre até setembro, o menor para o período desde 2012; parte do mercado lê o dado como sinal de juros altos por mais tempo."
   ],
   "fontes": [
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/economia/hackers-da-coreia-do-norte-sao-suspeitos-de-roubo-de-us-6-bi-na-binance/",
-    "d": "Suspeita sobre Coreia do Norte"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/mercados/ibovespa-cai-pela-5a-vez-com-temor-fiscal-e-externo-queda-historica-semanal/",
+    "d": "Queda histórica semanal"
+   },
+   {
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/economia/investidor-rejeita-urnas-e-bolsa-tem-pior-semana-pos-eleicao-em-37-anos",
+    "d": "Análise da semana"
+   },
+   {
+    "n": "BPMoney",
+    "u": "https://bpmoney.com.br/economia/ibovespa-cai-aos-167-mil-pontos-com-bancos-e-varejo-vale-vira-para-alta/",
+    "d": "Ações na manhã"
+   },
+   {
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/dolar-nesta-sexta-4",
+    "d": "Abertura e dólar"
    },
    {
     "n": "Exame",
-    "u": "https://exame.com/future-of-money/caso-binance-corretora-diz-que-ataque-hacker-atingiu-us-63-bilhoes/",
-    "d": "Valor e origem do ataque"
-   },
-   {
-    "n": "CoinDesk",
-    "u": "https://www.coindesk.com/pt-br/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-    "d": "Impacto no mercado"
-   },
-   {
-    "n": "Swissinfo / AFP",
-    "u": "https://www.swissinfo.ch/por/plataforma-de-criptomoedas-binance-confirma-ciberataque-de-us$-6,3-bilh%C3%B5es/92301076",
-    "d": "Confirmação da Binance"
-   },
-   {
-    "n": "BitNotícias",
-    "u": "https://bitnoticias.com.br/noticias/preco-do-bitcoin-hoje-30-de-outubro-de-2026/",
-    "d": "Preço do bitcoin"
+    "u": "https://exame.com/economia/apos-quedada-bolsa-durigan-promete-medida-para-reforcar-meta-fiscal/",
+    "d": "Resposta da Fazenda"
    }
   ]
  },
@@ -206,6 +210,70 @@
    "cor": "--pol",
    "nota": "Brasil",
    "itens": [
+    {
+     "kicker": "Assédio eleitoral",
+     "quando": "Hoje",
+     "titulo": "Justiça do Trabalho manda Meta tirar do ar posts que incentivam demitir eleitores de Lula; governo estuda “lista suja”",
+     "resumo": "Atendendo a pedido do Ministério Público do Trabalho, a 77ª Vara do Trabalho de São Paulo deu 24 horas para a remoção de publicações de políticos como Victor Ruiz (PL-SP) e Guilherme Kilter (Novo-PR), sob multa diária. O MPT recebeu 1.140 denúncias de assédio eleitoral só entre o segundo turno e quarta-feira, e o ministro do Trabalho, Luiz Marinho, anunciou que estuda um cadastro de empresas que punirem funcionários pelo voto.",
+     "lados": [
+      {
+       "quem": "MPT e governo",
+       "txt": "O procurador-geral do Trabalho diz que o empresário é dono do negócio, não do voto do empregado; o juiz entendeu que as postagens ultrapassam a liberdade de expressão e incentivam discriminação."
+      },
+      {
+       "quem": "Citados e críticos",
+       "txt": "Os políticos não se manifestaram formalmente no processo, e Ruiz tem respondido às críticas em vídeos; críticos da proposta apontam que Marinho não explicou critérios nem como as denúncias seriam comprovadas."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/demetrio-vecchioli/politicos-de-direita-terao-posts-removidos-por-incentivar-demissoes"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/governo-lula-lista-suja-empresas-demitirem-por-voto-politico/"
+      },
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/politica/2026/10/30/1009848-patrao-nao-e-dono-do-voto-governo-e-justica-fecham-cerco-contra-demissoes-e-boicotes-a-eleitores-de-lula"
+      },
+      {
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/politica/eleicoes/pt-e-parlamentares-pedem-investigacao-nacional-sobre-listas-de-boicote-a-eleitores-de-lula/"
+      }
+     ]
+    },
+    {
+     "kicker": "Flávio Bolsonaro",
+     "quando": "Ontem",
+     "titulo": "Deputados do PT e do PSOL pedem prisão e bloqueio de bens de Flávio; PF diz que ele não é foragido",
+     "resumo": "Desde segunda, parlamentares como Erika Hilton, Lindbergh Farias e Rogério Correia enviaram ao STF e à PGR pedidos de apreensão de passaportes, bloqueio de bens de até R$ 6 bilhões e prisão preventiva do senador, que entrou nos EUA na quarta. Segundo a Gazeta do Povo, a Polícia Federal afirma que deixar de entregar os passaportes não torna Flávio foragido.",
+     "lados": [
+      {
+       "quem": "Autores dos pedidos",
+       "txt": "Os deputados alegam que o senador descumpriu a ordem do ministro Alexandre de Moraes de entregar os passaportes e que há risco de ele não voltar ao país."
+      },
+      {
+       "quem": "Flávio e aliados",
+       "txt": "O senador nega ter fugido, diz ser alvo de perseguição judicial e afirma que vai liderar a oposição a partir dos EUA; juristas ouvidos pela Gazeta dizem que o descumprimento, sozinho, não basta para prender um parlamentar."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/esquerda-intensifica-ofensiva-judicial-contra-flavio-bolsonaro-direita-stf/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-fugiu-para-os-eua-diz-agencia-reuters"
+      }
+     ]
+    },
     {
      "kicker": "Oposição",
      "quando": "Ontem",
@@ -265,44 +333,10 @@
      ]
     },
     {
-     "kicker": "Carta de Flávio",
-     "quando": "Ontem",
-     "titulo": "Coordenador da campanha diz que PL não tem provas de fraude; aliados mantêm tese de perseguição",
-     "resumo": "Rogério Marinho, líder da oposição no Senado, disse que nem ele nem o partido podem afirmar que houve fraude e tratou a carta de Flávio como desabafo. O deputado Paulo Bilynskyj havia anunciado para esta quinta a apresentação de supostas provas; até a noite, nada havia sido divulgado.",
-     "lados": [
-      {
-       "quem": "Aliados de Flávio",
-       "txt": "Deputados do PL como Carlos Jordy e Gustavo Gayer dizem que o senador é asilado político, alvo de perseguição do Judiciário, e ligam o caso à disputa pela presidência do Senado."
-      },
-      {
-       "quem": "Governistas e TSE",
-       "txt": "Lindbergh Farias e Gleisi Hoffmann, do PT, criticaram a autoproclamação e cobraram saber quem financiou a viagem; o presidente do TSE disse que a prorrogação do horário não comprometeu a votação."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/tse-defende-normalidade-das-eleicoes-de-2026"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/eleicoes/carta-de-flavio-mobiliza-aliados-e-provoca-criticas-de-governistas/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/aliados-flavio-justificam-viagem-eua-perseguicao-exilio/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/lindbergh-critica-carta-criminosa-de-flavio-figura-patetica"
-      }
-     ]
-    },
-    {
      "kicker": "Governo",
      "quando": "Ontem",
      "titulo": "Lula quer definir vaga no STF com Alcolumbre ainda neste ano; Pacheco é o mais cotado",
-     "resumo": "Segundo a CNN Brasil, o presidente pretende negociar a indicação diretamente com o presidente do Senado antes da posse dos novos senadores, em fevereiro, e o ministro do TCU Rodrigo Pacheco é o nome preferido. Aliados dizem que o novo ministério deve ser anunciado só depois da COP31; Camilo Santana é citado para a Casa Civil ou a Segurança Pública.",
+     "resumo": "Segundo a CNN Brasil, o presidente pretende negociar a indicação diretamente com o presidente do Senado antes da posse dos novos senadores, em fevereiro, e o ministro do TCU Rodrigo Pacheco é o nome preferido. A CNN e a Itatiaia relatam que Lula avalia indicar Gleisi Hoffmann para a vaga de Pacheco no TCU; o novo ministério deve ser anunciado só depois da COP31.",
      "fontes": [
       {
        "n": "CNN Brasil",
@@ -315,6 +349,10 @@
       {
        "n": "O Povo",
        "u": "https://www.opovo.com.br/noticias/politica/2026/10/29/espaco-do-ceara-no-ministerio-de-lula-e-cenario-da-oposicao-apos-fuga-de-flavio-jogo-politico.html"
+      },
+      {
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/politica/lula-avalia-gleisi-hoffmann-tcu-pacheco-stf/"
       }
      ]
     }
@@ -327,58 +365,70 @@
    "nota": "Mercado e indicadores",
    "itens": [
     {
-     "kicker": "Balanços",
-     "quando": "Ontem",
-     "titulo": "Lucro da Vale cai 56% no terceiro trimestre, para R$ 6,4 bilhões",
-     "resumo": "Em dólares, o lucro foi de US$ 1,2 bilhão, abaixo do que esperavam os analistas, e a receita caiu 4%, para R$ 54,4 bilhões. A mineradora atribui o resultado ao minério mais barato, à produção menor e ao frete marítimo mais caro com a alta do petróleo.",
+     "kicker": "Mercado",
+     "quando": "Hoje",
+     "titulo": "Bancos e varejo puxam a bolsa para baixo; Vale e Petrobras sobem na contramão",
+     "resumo": "Logo após a abertura, Bradesco, Banco do Brasil e Itaú recuavam até 2,2%, a B3 caía 3,8% e a Usiminas perdia perto de 7% depois de lucro abaixo das projeções. A Vale virou para alta após o balanço, e a Petrobras subia com o petróleo; os juros futuros avançavam em toda a curva.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/economia/2026/10/29/lucro-da-vale-cai-56-no-terceiro-trimestre-para-r-6-4-bilhoes"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/ibovespa-cai-aos-167-mil-pontos-com-bancos-e-varejo-vale-vira-para-alta/"
       },
       {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/vale-vale3-balanco-3t26/"
-      },
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/economia/lucro-da-vale-cai-56-no-terceiro-trimestre-para-r-64-bilhoes/"
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/"
       }
      ]
     },
     {
-     "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Ibovespa cai pela quarta sessão seguida e fecha aos 169 mil pontos; dólar vai a R$ 5,38",
-     "resumo": "O índice recuou 1,06%, a 169.186 pontos, com investidores cautelosos sobre as contas públicas e à espera de sinais da política econômica do próximo mandato. O dólar comercial terminou o dia em alta, a R$ 5,387.",
+     "kicker": "Emprego",
+     "quando": "Hoje",
+     "titulo": "Desemprego cai para 5,2% no trimestre até setembro, o menor para o período desde 2012",
+     "resumo": "A taxa veio em linha com as projeções e ficou abaixo dos 5,4% do trimestre anterior e dos 5,6% de um ano antes, segundo a Pnad Contínua do IBGE. A renda média real chegou a R$ 3.790, alta de 3,6% em 12 meses, e cerca de 5,6 milhões de pessoas procuravam trabalho.",
+     "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/10/30/taxa-de-desemprego-no-brasil-cai-para-52-no-trimestre-ate-setembro-mostra-ibge.html"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/economia/desemprego-no-brasil-atinge-56-milhoes-em-setembro-indica-ibge/"
+      },
+      {
+       "n": "ADVFN",
+       "u": "https://br.advfn.com/jornal/2026/10/pnad-continua-desemprego-no-brasil-fica-em-5-2-em-setembro-e-numero-de-desocupados-chega-a-5-6-milhoes-diz-ibge"
+      }
+     ]
+    },
+    {
+     "kicker": "Imposto de Renda",
+     "quando": "Hoje",
+     "titulo": "Receita paga nesta sexta R$ 531,6 milhões a 184 mil contribuintes no lote da malha fina",
+     "resumo": "Do total, R$ 293,4 milhões vão para quem tem prioridade legal, como idosos, professores e pessoas com deficiência ou doença grave. O dinheiro cai na conta ou na chave Pix informada na declaração; quem não está no lote pode verificar pendências no e-CAC.",
      "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/Cd0Lt2OOjMnw-SPgMmH75to6CfM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/24/_mg_6811.jpg?itok=VyatooZv",
+      "credito": "Bruno Peres/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/ibovespa-cai-pela-4a-vez-seguida-e-dolar-fecha-a-r-538"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-hoje-queda-dolar-sobe-29-outubro-2026/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-paga-nesta-sexta-feira-lote-da-malha-fina-do-imposto-de-renda"
       }
      ]
     },
     {
-     "kicker": "Petróleo",
+     "kicker": "Estados e municípios",
      "quando": "Ontem",
-     "titulo": "Petrobras anuncia terceira descoberta de petróleo no poço Morpho, na Foz do Amazonas",
-     "resumo": "O poço fica em águas ultraprofundas, a 2.886 metros de lâmina d'água, na costa do Amapá; com a perfuração concluída, a sonda seguirá para a Bacia Potiguar. Na véspera, a estatal informou produção média recorde de 3,51 milhões de barris de óleo equivalente por dia no terceiro trimestre. O Ministério Público Federal pede na Justiça a suspensão da licença ambiental da campanha.",
+     "titulo": "CMN amplia em R$ 2 bilhões o limite de crédito de estados e municípios em 2026",
+     "resumo": "Em reunião extraordinária, o Conselho Monetário Nacional elevou o teto global de R$ 28,6 bilhões para R$ 30,6 bilhões, com mais espaço para operações com e sem garantia da União. Segundo a Fazenda, a medida remaneja espaço fiscal já previsto para o ano e não usado.",
      "fontes": [
       {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-30-de-outubro-de-2026/"
+       "n": "O Povo / Estadão Conteúdo",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/10/29/cmn-extra-amplia-limites-para-operacoes-de-credito-de-estados-do-df-e-de-municipios-em-2026.html"
       },
       {
-       "n": "eixos",
-       "u": "https://eixos.com.br/petroleo-e-gas/petrobras-anuncia-nova-descoberta-de-petroleo-na-bacia-foz-do-amazonas/"
+       "n": "Diário do Comércio",
+       "u": "https://diariodocomercio.com.br/economia/cmn-amplia-credito-estados/"
       }
      ]
     },
@@ -401,27 +451,6 @@
        "u": "https://istoedinheiro.com.br/ifi-bets-mei-bolsa-familia-impacto-fiscal-40-bilhoes"
       }
      ]
-    },
-    {
-     "kicker": "Contas públicas",
-     "quando": "Ontem",
-     "titulo": "Governo central tem superávit de R$ 4,8 bilhões em setembro",
-     "resumo": "Em setembro de 2025 houve déficit de R$ 14,4 bilhões. Segundo o Tesouro, pesaram a alta das receitas com petróleo, a arrecadação de Imposto de Renda e a devolução de recursos de precatórios cancelados; no ano, o déficit acumulado é de cerca de R$ 90 bilhões, abaixo do registrado no mesmo período do ano passado.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/_drCizYcQ2dTn5kZU6-8_TJzdE4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/_ja03456-3.jpg?itok=RhKFAzG4",
-      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
-     },
-     "destaque": false,
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/contas-do-governo-tem-superavit-de-r-48-bilhoes-em-setembro"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/contas-do-governo-registram-superavit-de-r-48-bilhoes-em-setembro"
-      }
-     ]
     }
    ]
   },
@@ -434,24 +463,56 @@
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Inmet mantém alerta de chuva em todas as regiões nesta sexta; SP e BH têm risco de temporais",
-     "resumo": "O aviso amarelo prevê até 50 milímetros de chuva por dia e rajadas de 40 a 60 km/h, com instabilidade mais forte no Sudeste e no Centro-Oeste. Belo Horizonte amanheceu com chuva, e a Defesa Civil alerta para alagamentos em São Paulo; no Norte e no Nordeste, Roraima, Amapá e nordeste do Pará seguem secos, com máximas perto de 38 °C.",
+     "titulo": "Chuva forte se concentra no Sudeste e no Centro-Oeste nesta sexta, segundo o Inmet",
+     "resumo": "A previsão é de chuva com trovoadas em quase todo o Sudeste e em todo o Centro-Oeste, com mínima de 16 °C em Belo Horizonte e máxima de 34 °C em Cuiabá. O Norte segue quente, com até 38 °C em Boa Vista, e no Sul há trovoadas no Paraná, em Santa Catarina e no norte gaúcho.",
      "foto": {
-      "src": "https://imagens.ebc.com.br/h8WOZLtq-_G9_boCPqMJ0KmFMTc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/06/chuva_sp_tarde_05.jpg?itok=4QFhKU9L",
+      "src": "https://imagens.ebc.com.br/znTa6KJm1vEw9On3LoJ6HClroDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9067.jpg?itok=SgyT8Pu6",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/tempo/chuva-alerta-amarelo-brasil-ventos-60-km-h-sexta-feira-30/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuvas-predominam-nas-regioes-sudeste-e-centro-oeste-do-pais"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/cidades/2026/10/30/bh-amanhece-chuvosa-e-pode-ter-novas-pancadas-nesta-sexta-feira-veja-a-previsao"
+       "n": "Agora RS",
+       "u": "https://agorars.com/agora-no-tempo/alerta-amarelo-chuva-intensa-rs-30-outubro-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Rio Grande do Sul",
+     "quando": "Ontem",
+     "titulo": "Cheia do Rio Uruguai passa da cota de inundação em Itaqui e deixa mais de 200 fora de casa em Uruguaiana",
+     "resumo": "Na quinta, o rio marcou 8,32 metros em Itaqui e 8,49 metros em Uruguaiana, onde 217 pessoas estavam desalojadas ou desabrigadas, segundo a prefeitura. A Defesa Civil prevê que o nível siga subindo ao menos até sábado, e o Inmet associa a primavera chuvosa ao El Niño.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/rio-uruguai-esta-em-elevacao-e-atinge-cota-de-alerta-em-uruguaiana"
       },
       {
-       "n": "SP Agora",
-       "u": "https://www.spagora.com.br/cotidiano/clima/previsao-tempo-sao-paulo-sexta-30-outubro-2026/"
+       "n": "Jornal dos Futuros",
+       "u": "https://jornaldosfuturos.substack.com/p/flavio-chega-a-miami-o-teste-fiscal"
+      },
+      {
+       "n": "Canal Rural",
+       "u": "https://www.canalrural.com.br/diversos/rio-uruguai-sobe-e-atinge-cota-de-alerta-em-uruguaiana/"
+      }
+     ]
+    },
+    {
+     "kicker": "Serviços",
+     "quando": "Hoje",
+     "titulo": "Sexta tem feriado municipal em 41 cidades e ponto facultativo; Finados é na segunda",
+     "resumo": "Segundo a Febraban, 41 municípios têm feriado local nesta sexta, e vários estados e capitais transferiram para hoje o ponto facultativo do Dia do Servidor. Na segunda (2), Finados é feriado nacional; quem precisa de banco deve conferir o funcionamento da agência.",
+     "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/curiosidades/2026/10/30/hoje-30-de-outubro-e-feriado-veja-onde-e-quem-folga-nesta-sexta-feira.html"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/dia-do-servidor-publico-ponto-facultativo-sera-na-sexta-feira"
       }
      ]
     },
@@ -478,38 +539,6 @@
        "u": "https://www.opovo.com.br/noticias/seguranca-publica/2026/10/29/pf-presos-planejavam-atacar-agentes-de-seguranca-no-ceara.html"
       }
      ]
-    },
-    {
-     "kicker": "Serviços",
-     "quando": "26/10",
-     "titulo": "Ponto facultativo do Dia do Servidor é nesta sexta nas repartições federais",
-     "resumo": "A folga dos órgãos federais foi transferida de quarta (28) para esta sexta, e os serviços essenciais funcionam normalmente. São Paulo, Rio, Ceará, Bahia, Sergipe, Acre e o Distrito Federal adotaram a mesma data; empresas privadas seguem o calendário normal.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/dia-do-servidor-publico-ponto-facultativo-sera-na-sexta-feira"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/economia/dia-do-servidor-publico-quem-folga-em-28-de-outubro/"
-      }
-     ]
-    },
-    {
-     "kicker": "Minas Gerais",
-     "quando": "Ontem",
-     "titulo": "Cemig conclui religação de todos os clientes atingidos pelo temporal de domingo",
-     "resumo": "A tempestade de 25 de outubro deixou mais de 641 mil clientes sem luz em 774 municípios, com rajadas de até 150 km/h em Patos de Minas. A empresa informou que cerca de 4.600 profissionais trabalharam sem interrupção e que quedas pontuais registradas desde quinta não têm relação com o temporal.",
-     "fontes": [
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/gerais/2026/10/7530017-tres-dias-apos-temporal-cemig-restabelece-energia-para-todos-os-clientes.html"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/minas-gerais/quase-5-mil-imoveis-seguem-sem-energia-tres-dias-apos-temporal-em-mg"
-      }
-     ]
     }
    ]
   },
@@ -520,28 +549,64 @@
    "nota": "Internacional",
    "itens": [
     {
-     "kicker": "Espanha",
-     "quando": "Ontem",
-     "titulo": "Espanha investiga autorização dada a trem que avançou sinal vermelho antes de colisão que matou 69",
-     "resumo": "O ministro dos Transportes, Óscar Puente, disse que uma falha de comunicação entre computadores desligou o sistema de segurança num trecho de 63 km e que a central de controle autorizou o trem da Renfe a seguir em velocidade normal; ele percorreu cerca de 25 km até atingir a composição da Iryo. O país está em luto oficial até sábado, e 57 feridos seguiam internados.",
+     "kicker": "Oriente Médio",
+     "quando": "Hoje",
+     "titulo": "Navio-tanque é atacado em Ormuz e Arábia Saudita diz ter derrubado drone houthi perto de Meca",
+     "resumo": "Segundo a agência britânica UKMTO, explosivos presos ao casco de um petroleiro causaram incêndio na casa de máquinas; a tripulação está a salvo. Os houthis negam ter mirado Meca e dizem atacar instalações de petróleo e bases sauditas; outubro tem o maior número de ataques a navios em Ormuz desde março, e o Brent passou de US$ 113.",
      "fontes": [
       {
+       "n": "O Povo / Estadão Conteúdo",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/10/30/arabia-saudita-diz-ter-interceptado-drone-perto-de-meca-navio-tanque-e-atacado-em-ormuz.html"
+      },
+      {
+       "n": "Business Recorder / Reuters",
+       "u": "https://www.brecorder.com/news/40446647/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia"
+      },
+      {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/espanha-decreta-luto-e-busca-sobreviventes-apos-colisao-de-trens"
+       "u": "https://www.metropoles.com/brasil/dolar-nesta-sexta-4"
+      }
+     ]
+    },
+    {
+     "kicker": "Espanha",
+     "quando": "Hoje",
+     "titulo": "Primeiro relatório sobre colisão de trens na Espanha aponta “cadeia de falhas”; buscas terminam com 69 mortos",
+     "resumo": "A comissão de investigação ferroviária diz que uma pane no sistema de segurança deixou 63 km sem proteção e que a sequência de instruções que se seguiu não foi barrada; a colisão teria ocorrido entre 160 e 200 km/h. Portugal confirmou a morte de um tripulante português, e mais de 50 feridos seguem internados.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/10/30/espanha-primeiro-relatorio-tecnico-de-urda-aponta-para-cadeia-de-falhas"
       },
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/sobe-para-69-numero-de-mortos-em-acidente-de-trem-na-espanha"
+       "n": "Renascença",
+       "u": "https://rr.pt/noticia/mundo/2026/10/30/espanha-terminaram-as-buscas-por-mais-vitimas-mortais-na-tragedia-de-toledo/491358/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/colisao-de-trem-na-espanha-deixa-pelo-menos-68-mortos-diz-governo/"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/10/30/confirmada-morte-de-portugues-em-acidente-ferroviario-em-espanha"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Ataque russo mata duas adolescentes em Chernihiv; trégua em Oleshky completa 30 horas",
+     "resumo": "Autoridades locais dizem que um míssil de cruzeiro atingiu o centro da cidade, matou duas meninas de 15 anos e feriu 25 pessoas. No sul, a pausa mediada pelos EUA em torno de Oleshky, ocupada pela Rússia, seguia sem incidentes, e Zelensky disse que a retirada de civis será decisiva.",
+     "fontes": [
+      {
+       "n": "Africanews",
+       "u": "https://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/"
+      },
+      {
+       "n": "Ukrinform",
+       "u": "https://www.ukrinform.net/rubric-ato/4179467-attack-on-chernihiv-city-center-leaves-two-dead-and-raises-injury-toll-to-25.html"
       }
      ]
     },
     {
      "kicker": "Estados Unidos",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "A quatro dias das eleições de meio de mandato, pesquisas favorecem democratas na Câmara",
      "resumo": "Levantamento Ipsos feito entre 22 e 26 de outubro dá 53% das intenções de voto para a Câmara aos democratas, contra 44% dos republicanos, e a Decision Desk HQ estima em 80% a chance de o partido retomar a Casa. No Senado, a disputa é mais apertada, com corridas próximas no Texas, em Ohio, no Alasca e no Maine.",
      "fontes": [
@@ -592,26 +657,6 @@
        "u": "https://www.jpost.com/israel-election-2026/article-913122"
       }
      ]
-    },
-    {
-     "kicker": "ONU",
-     "quando": "28/10",
-     "titulo": "Assembleia da ONU volta a pedir fim do embargo dos EUA a Cuba, com o menor apoio em 30 anos",
-     "resumo": "A resolução teve 130 votos a favor, 17 contra e 25 abstenções; o Brasil votou a favor. O texto não obriga os EUA a encerrar o bloqueio, e o número de apoios ficou bem abaixo dos mais de 180 votos de anos anteriores.",
-     "fontes": [
-      {
-       "n": "Diario de Pernambuco",
-       "u": "https://www.diariodepernambuco.com.br/mundo/2026/10/11727872-assembleia-geral-da-onu-pede-o-fim-do-embargo-contra-cuba-com-menor-apoio-em-30-anos.html"
-      },
-      {
-       "n": "Folha de Pernambuco",
-       "u": "https://www.folhape.com.br/noticias/assembleia-geral-da-onu-pede-o-fim-do-bloqueio-dos-eua-contra-cuba/447050/"
-      },
-      {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-30-de-outubro-de-2026/"
-      }
-     ]
     }
    ]
   },
@@ -622,10 +667,46 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "GP do México começa nesta sexta, e Antonelli pode ser campeão já no domingo",
+     "resumo": "Kimi Antonelli, da Mercedes, chega com 365 pontos, 123 à frente de George Russell, e pode garantir o título dependendo do resultado dos rivais, segundo as contas da imprensa mexicana. Os treinos livres são às 15h30 e 19h e a corrida, domingo às 17h (Brasília); no primeiro treino, o carro de Gabriel Bortoleto será guiado pelo reserva Freddie Slater.",
+     "fontes": [
+      {
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-hoje-saiba-como-assistir-aos-treinos-livres-do-gp-do-mexico-2026/"
+      },
+      {
+       "n": "Uno TV",
+       "u": "https://www.unotv.com/deportes/gp-de-mexico-2026-kimi-antonelli-a-un-paso-de-ser-el-campeon-mas-joven-de-la-f1-que-necesita-para-coronarse/"
+      },
+      {
+       "n": "Piranot",
+       "u": "https://www.piranot.com.br/2026/10/29/noticias/esporte/bortoleto-audi-treino-gp-mexico/"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Na zona de rebaixamento, Corinthians recebe o Mirassol às 20h",
+     "resumo": "O time paulista é o 18º colocado e não vence há dez rodadas, com nove derrotas e um empate. O Mirassol, 16º com 37 pontos, tenta se afastar da zona; o jogo, pela 33ª rodada, é na Neo Química Arena.",
+     "fontes": [
+      {
+       "n": "O Hoje",
+       "u": "https://ohoje.com/2026/10/30/na-luta-contra-o-rebaixamento-corinthians-enfrenta-o-mirassol-nesta-sexta-30-horario-e-onde-assistir/"
+      },
+      {
+       "n": "Folha CG",
+       "u": "https://folhacg.com.br/esportes/corinthians-recebe-mirassol-em-jogo-decisivo-na-luta-contra-o-rebaixamento/"
+      }
+     ]
+    },
+    {
      "kicker": "Brasileirão",
      "quando": "Ontem",
      "titulo": "Flamengo goleia o Vasco por 4 a 1 e abre três pontos sobre o Palmeiras na liderança",
-     "resumo": "Pedro e Samuel Lino marcaram duas vezes cada um no clássico, no Nilton Santos; Alan Lescano descontou para o Vasco, que poupou titulares. O Flamengo chegou a 73 pontos, com cinco rodadas por jogar, e o Vasco, 13º, encara o Palmeiras no domingo pela Copa do Brasil.",
+     "resumo": "Pedro e Samuel Lino marcaram duas vezes cada um no clássico, no Nilton Santos; Alan Lescano descontou para o Vasco, que poupou titulares. O Flamengo chegou a 73 pontos, com cinco rodadas por jogar, e o Vasco, 13º, encara o Palmeiras no domingo pela Copa do Brasil. A CBF marcou o confronto direto com o Palmeiras para 21 de novembro, às 16h30.",
      "fontes": [
       {
        "n": "Gazeta Esportiva",
@@ -645,7 +726,7 @@
      "kicker": "Brasileirão",
      "quando": "Ontem",
      "titulo": "Cruzeiro vence clássico na Arena MRV; Grêmio bate o Athletico e deixa a zona de rebaixamento",
-     "resumo": "Kaio Jorge marcou aos 3 minutos, e o Cruzeiro, com 57 pontos, firmou-se em terceiro; o Atlético-MG é sétimo. Em Porto Alegre, o Grêmio fez 2 a 0 com gols de Marlon e Balbuena, foi a 37 pontos e empurrou o Internacional para o Z4; o Corinthians, também na zona, recebe o Mirassol nesta sexta.",
+     "resumo": "Kaio Jorge marcou aos 3 minutos, e o Cruzeiro, com 57 pontos, firmou-se em terceiro; o Atlético-MG é sétimo. Em Porto Alegre, o Grêmio fez 2 a 0 com gols de Marlon e Balbuena, foi a 37 pontos e empurrou o Internacional para o Z4; o Corinthians também está na zona.",
      "fontes": [
       {
        "n": "Metrópoles",
@@ -676,26 +757,6 @@
        "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-30-de-outubro-de-2026/"
       }
      ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "GP do México começa com treinos nesta sexta; Bortoleto cede o carro a reserva no primeiro",
-     "resumo": "O primeiro treino livre é às 15h30 e o segundo às 19h; a corrida, 19ª etapa do ano, será no domingo às 17h (horários de Brasília). Kimi Antonelli lidera o campeonato com 365 pontos, 123 à frente de George Russell; no primeiro treino, o carro de Gabriel Bortoleto na Audi será usado por Freddie Slater.",
-     "fontes": [
-      {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-e-race-week-gp-do-mexico-marca-19a-etapa-da-temporada-2026/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/formula-1/com-bortoleto-f1-divulga-lista-de-pilotos-substituidos-em-atividade-do-gp-do-mexico.html"
-      },
-      {
-       "n": "Piranot",
-       "u": "https://www.piranot.com.br/2026/10/29/noticias/esporte/bortoleto-audi-treino-gp-mexico/"
-      }
-     ]
     }
    ]
   },
@@ -705,6 +766,38 @@
    "cor": "--sau",
    "nota": "",
    "itens": [
+    {
+     "kicker": "Gestantes",
+     "quando": "Hoje",
+     "titulo": "Pesquisa mostra mais gestantes preocupadas com bronquiolite, mas dúvidas sobre a vacina persistem",
+     "resumo": "Levantamento Ipsos-Ipec com 530 grávidas, encomendado pela Pfizer, mostra que 70% conhecem o vírus sincicial respiratório, ante 58% antes, mas 79% têm ao menos uma dúvida ou ideia errada sobre o tema. Parte delas não sabe que a vacina contra o VSR, que protege o bebê, está no SUS desde dezembro de 2025.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/preocupacao-com-bronquiolite-e-virus-sincicial-cresce-entre-gestantes"
+      }
+     ]
+    },
+    {
+     "kicker": "Vacinação",
+     "quando": "Ontem",
+     "titulo": "Ministério da Saúde lança painel para acompanhar vacina contra meningite em adolescentes",
+     "resumo": "A ferramenta mostra, por município, a cobertura da vacina meningocócica ACWY entre jovens de 11 a 14 anos, para orientar campanhas onde ela está baixa. No Rio, Belford Roxo, Duque de Caxias e Nova Iguaçu, pessoas de até 24 anos podem tomar a dose nos postos até sábado (31).",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365747/ministerio-da-saude-cria-painel-para-monitorar-vacina-contra-meningite-em-adolescentes-"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/meningite-quatro-cidades-do-rio-ofertam-vacina-pessoas-ate-24-anos"
+      }
+     ],
+     "foto": {
+      "src": "fotos/sarampo.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     }
+    },
     {
      "kicker": "Anvisa",
      "quando": "Ontem",
@@ -720,38 +813,6 @@
        "u": "https://www.otempo.com.br/saude-e-bem-estar/2026/10/29/anvisa-aprova-cinco-novas-canetas-emagrecedoras-para-tratar-diabetes-e-obesidade-saiba-quais-sao"
       }
      ]
-    },
-    {
-     "kicker": "Vacinação",
-     "quando": "Ontem",
-     "titulo": "Ministério da Saúde lança painel para acompanhar vacina contra meningite em adolescentes",
-     "resumo": "A ferramenta mostra a cobertura da vacina meningocócica ACWY entre jovens de 11 a 14 anos, por município, para orientar campanhas onde a vacinação está baixa. A dose protege contra quatro tipos da bactéria que causa meningite e faz parte do calendário do SUS.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365747/ministerio-da-saude-cria-painel-para-monitorar-vacina-contra-meningite-em-adolescentes-"
-      }
-     ]
-    },
-    {
-     "kicker": "Vacinas",
-     "quando": "28/10",
-     "titulo": "Tecpar pede à Anvisa registro de vacina contra a catapora para o SUS",
-     "resumo": "O instituto paranaense, parceiro da chinesa Sinovac, prevê fornecer 7 milhões de doses ao Ministério da Saúde em 2027, se o registro for aprovado; a análise deve levar de seis meses a um ano. No início, o imunizante será importado, e a meta é produzi-lo numa fábrica em Maringá.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Preto no Branco",
-       "u": "https://pretonobranco.com.br/noticia/12644/tecpar-submete-a-anvisa-pedido-de-registro-da-vacina-contra-varicela"
-      },
-      {
-       "n": "Canal 38",
-       "u": "https://canal38.com.br/tecpar-submete-a-anvisa-pedido-de-registro-da-vacina-contra-varicela/"
-      }
-     ]
     }
    ]
   },
@@ -762,38 +823,30 @@
    "nota": "",
    "itens": [
     {
-     "kicker": "Enem",
-     "quando": "28/10",
-     "titulo": "Enem tem 5,05 milhões de inscritos; mulheres são 64% e pardos, o maior grupo",
-     "resumo": "Os dados do painel do Inep mostram que metade dos candidatos tem 17 ou 18 anos e que 47% estão no último ano do ensino médio. Cerca de 3,4 milhões de inscrições foram gratuitas, e 138 mil pedidos de atendimento especializado foram confirmados.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/bKZcEfPbMTh_BhZfpwNGgXbcM08=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/16/toms0126.jpg?itok=Eg0SCTX7",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
+     "kicker": "Enade",
+     "quando": "Hoje",
+     "titulo": "Calouros de cursos avaliados no Enade 2026 devem responder questionário até 18 de dezembro",
+     "resumo": "O questionário do ingressante abriu nesta sexta no Sistema Enade, com login gov.br, e é obrigatório para quem começou a graduação neste ano em cursos avaliados. Esses estudantes estão dispensados da prova, marcada para 29 de novembro.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enem-mulheres-e-pardos-lideram-inscricoes-confira-o-painel-do-inep"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/educacao/enem-2026-confira-guia-completo-para-prova/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/educacao/2026/10/30/enade-2026-estudantes-devem-preencher-questionario-obrigatorio-ate-18-de-dezembro"
       }
      ]
     },
     {
-     "kicker": "Enem",
-     "quando": "28/10",
-     "titulo": "Aplicativo MEC Enem passa de 1 milhão de estudantes cadastrados",
-     "resumo": "A ferramenta gratuita oferece simulados, correção automática de redação e um assistente virtual, e ganhou mais questões na reta final antes das provas. O Enem 2026 tem mais de 5 milhões de inscritos.",
+     "kicker": "Escolas públicas",
+     "quando": "Ontem",
+     "titulo": "Escolas têm até sábado para regularizar pendências com o FNDE e receber verba do PDDE Equidade",
+     "resumo": "O programa repassa recursos extras a escolas que atendem populações historicamente excluídas, mas só as unidades em situação regular podem receber. O MEC publicou um guia e pede que secretarias estaduais e municipais orientem os diretores.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/JLf0vW-5qqFpKd-bJTlZPjCbXAE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/escola_publica_ciep_rio_tania_regoabr.jpg?itok=pT-SOIY1",
+      "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202610/mec-enem-mais-de-1-milhao-de-estudantes-cadastrados-na-plataforma"
-      },
-      {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/aplicativo-de-simulados-do-enem-tera-mais-questoes-na-reta-final"
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolas-publicas-tem-ate-sabado-para-regularizar-pendencias-com-fnde"
       }
      ]
     },
@@ -801,7 +854,7 @@
      "kicker": "Enem",
      "quando": "27/10",
      "titulo": "Enem será em 8 e 15 de novembro; locais de prova já podem ser consultados",
-     "resumo": "O cartão de confirmação, com endereço e horário, está na Página do Participante. Os portões fecham às 13h, e é preciso levar documento original com foto e caneta preta de corpo transparente; no primeiro dia há redação, linguagens e ciências humanas.",
+     "resumo": "O cartão de confirmação, com endereço e horário, está na Página do Participante dos 5,05 milhões de inscritos. Os portões fecham às 13h, e é preciso levar documento original com foto e caneta preta de corpo transparente; no primeiro dia há redação, linguagens e ciências humanas.",
      "fontes": [
       {
        "n": "Diário do Grande ABC",
@@ -829,6 +882,46 @@
    "cor": "--cie",
    "nota": "Meio ambiente, pesquisa e inovação",
    "itens": [
+    {
+     "kicker": "Tecnologia",
+     "quando": "Hoje",
+     "titulo": "Intel despenca cerca de 28% e arrasta a Nasdaq em dia de temor sobre gastos com IA",
+     "resumo": "A fabricante de chips projetou receitas abaixo do esperado, citando uma explosão em sua fábrica em Israel e a desaceleração do mercado de PCs. À tarde, a Nasdaq caía perto de 2,3%, com perdas em Nvidia, AMD e Qualcomm, após o balanço da Amazon também frustrar investidores.",
+     "fontes": [
+      {
+       "n": "Dinheiro Vivo",
+       "u": "https://dinheirovivo.dn.pt/mercados/dia-negro-na-ia-intel-tomba-28-e-arrasta-nasdaq-100-para-queda-de-quase-3"
+      },
+      {
+       "n": "Infobae",
+       "u": "https://infobae.com/america/mundo/2026/10/30/fuertes-bajas-en-wall-street-por-las-dudas-sobre-la-inversion-en-inteligencia-artificial-intel-se-desploma-mas-del-25"
+      },
+      {
+       "n": "ECO",
+       "u": "https://eco.sapo.pt/2026/10/30/ativo-do-dia-intel-afunda-30-e-vai-a-caminho-da-pior-sessao-de-sempre/"
+      }
+     ]
+    },
+    {
+     "kicker": "Criptomoedas",
+     "quando": "Hoje",
+     "titulo": "Tether e Circle congelam US$ 2,4 bilhões após ataque de US$ 6,3 bilhões à Binance",
+     "resumo": "As emissoras de stablecoins bloquearam parte dos recursos desviados, e a Binance diz que cerca de metade dos ativos já foi congelada e que cobrirá todas as perdas; os saques seguem suspensos. Empresas de rastreamento atribuem o ataque a hackers ligados à Coreia do Norte, e o bitcoin chegou a cair mais de 4%.",
+     "fontes": [
+      {
+       "n": "O Povo / BBC",
+       "u": "https://www.opovo.com.br/agencia/bbc/2026/10/30/binance-sofre-ataque-de-uss-63-bilhoes-em-possivel-maior-roubo-da-historia-das-criptomoedas.html"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/future-of-money/binance-sofre-ataque-hacker-estimado-em-us-27-bilhoes-o-maior-da-historia/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/hackers-da-coreia-do-norte-sao-suspeitos-de-roubo-de-us-6-bi-na-binance/"
+      }
+     ]
+    },
     {
      "kicker": "Meio ambiente",
      "quando": "Ontem",
@@ -864,26 +957,6 @@
        "u": "https://bpmoney.com.br/economia/internacional-economia/amazon-lucro-abaixo-esperado-acao-cai-investimentos-ia/"
       }
      ]
-    },
-    {
-     "kicker": "Big techs",
-     "quando": "28/10",
-     "titulo": "Microsoft supera previsões; Alphabet tem lucro abaixo do esperado e ação cai 9%",
-     "resumo": "A Microsoft faturou US$ 92,3 bilhões no trimestre, acima das estimativas, puxada pela nuvem, e as ações subiram cerca de 4% após o fechamento. A dona do Google teve receita de US$ 127,6 bilhões e viu o Google Cloud dobrar de tamanho, mas o lucro por ação ficou abaixo do previsto e o fluxo de caixa ficou negativo com os gastos em IA, segundo a Exame.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/microsoft-supera-projecao-de-lucro-e-receita-com-crescimento-de-nuvem-acao-sobe/"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/dona-do-google-amplia-queima-de-caixa-e-lucro-vem-abaixo-do-esperado-acao-cai-9/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/internacional-economia/alphabet-dona-google-frustra-lucro-acao-cai/"
-      }
-     ]
     }
    ]
   },
@@ -895,9 +968,9 @@
    "itens": [
     {
      "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Hugh Jackman, Ian McKellen e Marvel homenageiam Patrick Stewart, morto aos 86 anos",
-     "resumo": "O ator britânico, o Professor Xavier de X-Men e o capitão Picard de Star Trek, morreu na quarta (28), em Los Angeles; a família informou que ele tinha Alzheimer e demência com corpos de Lewy. Colegas de elenco, os estúdios Marvel, a franquia Star Trek e a Academia de Hollywood publicaram mensagens de despedida.",
+     "quando": "Hoje",
+     "titulo": "Fãs deixam flores na estrela de Patrick Stewart em Hollywood; colegas e estúdios homenageiam o ator",
+     "resumo": "O ator britânico, o Professor Xavier de X-Men e o capitão Picard de Star Trek, morreu na quarta (28), aos 86 anos, em Los Angeles; a família informou que ele tinha Alzheimer e demência com corpos de Lewy. Nesta sexta, fãs levaram flores à sua estrela na Calçada da Fama, depois de mensagens de Hugh Jackman, Ian McKellen, da Marvel e da franquia Star Trek.",
      "fontes": [
       {
        "n": "CNN Brasil",
@@ -910,6 +983,38 @@
       {
        "n": "Euronews",
        "u": "https://pt.euronews.com/2026/10/30/boa-viagem-capitao-homenagens-sentidas-a-sir-patrick-stewart"
+      }
+     ]
+    },
+    {
+     "kicker": "TV",
+     "quando": "Hoje",
+     "titulo": "Após dois adiamentos, beijo de Mau Mau e Felipe vai ao ar em “Quem Ama Cuida”",
+     "resumo": "A cena da novela das nove da Globo, com João Victor Gonçalves e Pietro Antonelli, estava prevista para 20 de outubro e foi remarcada duas vezes. Segundo o Portal Leo Dias, a emissora orientou que o beijo fosse gravado de forma mais delicada.",
+     "fontes": [
+      {
+       "n": "Portal Leo Dias",
+       "u": "https://portalleodias.com/colunas/carla-bittencourt/e-hoje-apos-adiamentos-beijo-de-mau-mau-e-felipe-vai-ao-ar-em-quem-ama-cuida"
+      },
+      {
+       "n": "O Planeta TV",
+       "u": "https://oplanetatv.clickgratis.com.br/noticias/novelas/globo-finalmente-exibe-beijo-de-felipe-e-mau-mau-em-quem-ama-cuida.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Cinema",
+     "quando": "Ontem",
+     "titulo": "“100 Dias”, de Carlos Saldanha, estreia em semana de ingressos a R$ 12 para filmes nacionais",
+     "resumo": "O filme sobre a travessia do Atlântico de Amyr Klink chega às salas com outros três brasileiros e com a animação “O Bosque Selvagem”, do estúdio Laika. O Festival do Cinema Brasileiro, com ingressos a R$ 12 nas redes participantes, vai até 4 de novembro.",
+     "fontes": [
+      {
+       "n": "Pipoca Moderna",
+       "u": "https://pipocamoderna.com.br/2026/10/cinema-brasileiro-estreias-ingressos-12/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/2026/10/29/cinema-confira-as-novidades-que-entram-em-cartaz-em-29-de-outubro"
       }
      ]
     },
@@ -934,18 +1039,18 @@
      ]
     },
     {
-     "kicker": "Morte",
-     "quando": "28/10",
-     "titulo": "Morre aos 30 anos Matheus Sabbá, ator e diretor de ópera do Amazonas",
-     "resumo": "Nascido em Manaus, ele atuava no Festival Amazonas de Ópera e neste ano dirigiu a encenação de “Onheama”, ópera inspirada na mitologia amazônica, no Festival de Música de Santa Catarina. O governo do Amazonas o chamou de referência do teatro musical no estado; a causa da morte não foi divulgada.",
+     "kicker": "Música",
+     "quando": "Ontem",
+     "titulo": "Shakira deve abrir turnê no Brasil no Réveillon de Balneário Camboriú, segundo coluna",
+     "resumo": "A colunista Fábia Oliveira, do Metrópoles, informa que a cantora faria o show da virada em Santa Catarina e teria datas em Salvador e no Rio em janeiro de 2027. Nem a artista nem produtores confirmaram oficialmente as apresentações.",
      "fontes": [
       {
-       "n": "Brasil 247",
-       "u": "https://brasil247.com/geral/morre-aos-30-anos-matheus-sabba-ator-e-diretor-de-opera-amazonense"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/fabia-oliveira/shakira-retorna-ao-brasil-com-show-no-reveillon-e-datas-no-nordeste"
       },
       {
-       "n": "Contigo!",
-       "u": "https://contigo.com.br/noticias/famosos/ator-e-diretor-morre-aos-30-anos.phtml"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/musica/shakira-pode-fazer-apresentacao-no-ano-novo-de-balneario-camboriu-em-primeiro-show-de-turne-pelo-pais-diz-site/"
       }
      ]
     }
