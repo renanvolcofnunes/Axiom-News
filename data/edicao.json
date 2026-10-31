@@ -1,11 +1,17 @@
 {
  "data": "Sábado, 31 de outubro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "31/10/2026 · 07h05 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h08 (sexta)",
- "fontes": 56,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "31/10/2026 · 12h50 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 11h50 (bitcoin); B3 fechada no sábado",
+ "fontes": 68,
  "mercado": [
+  {
+   "nome": "Bitcoin · 11h50",
+   "valor": "US$ 77.410",
+   "var": "+0,58% em 24h",
+   "dir": "up"
+  },
   {
    "nome": "Ibovespa · fechamento 30/10",
    "valor": "167.922 pts",
@@ -25,12 +31,6 @@
    "dir": "up"
   },
   {
-   "nome": "Ibovespa · semana",
-   "valor": "−18,12%",
-   "var": "outubro: −9,88%",
-   "dir": "down"
-  },
-  {
    "nome": "Selic · taxa atual",
    "valor": "13,75%",
    "var": "Copom decide em 4/11",
@@ -39,23 +39,23 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 31 · 18h",
-   "txt": "Classificação do GP do México de Fórmula 1; antes, às 16h, Coritiba x Vitória pelo Brasileirão e, às 16h45, Milan x Inter pelo Italiano",
+   "hora": "Sáb 31 · 16h",
+   "txt": "Coritiba x Vitória fecha a 33ª rodada do Brasileirão; às 18h, classificação do GP do México de Fórmula 1",
    "cat": "esporte"
   },
   {
-   "hora": "Sáb 31 · 20h",
-   "txt": "BTS faz no MorumBIS, em São Paulo, o último dos três shows da turnê no Brasil; portões abrem às 16h",
+   "hora": "Sáb 31 · 20h e 21h",
+   "txt": "BTS faz no MorumBIS o último show no Brasil; às 21h, Corinthians e Cruzeiro decidem a Libertadores Feminina em Quito",
    "cat": "cultura"
   },
   {
    "hora": "Dom 1º/11",
-   "txt": "Palmeiras x Vasco, ida da semifinal da Copa do Brasil, às 16h; GP do México às 17h, com chance de título para Kimi Antonelli",
+   "txt": "Palmeiras x Vasco, ida da semifinal da Copa do Brasil, às 16h; GP do México às 17h, e Antonelli é campeão se terminar entre os nove primeiros",
    "cat": "esporte"
   },
   {
    "hora": "Seg 2/11",
-   "txt": "Feriado nacional de Finados, com alerta de tempestade e granizo em 2.396 cidades",
+   "txt": "Feriado nacional de Finados; Inmet prevê tempestades com granizo no Sul, Sudeste e Centro-Oeste a partir de domingo",
    "cat": "brasil"
   },
   {
@@ -163,33 +163,38 @@
  ],
  "manchete": {
   "kicker": "Oposição",
-  "titulo": "Dos EUA, Flávio diz que pode disputar a Presidência antes de 2030; democratas cobram Trump por sua entrada no país",
-  "resumo": "Em transmissão nas redes sociais na sexta (30), o senador afirmou que “o jogo não acabou”, voltou a questionar o resultado confirmado pelo TSE e disse que decidiu a viagem com a mulher. Nos EUA, parlamentares democratas pedem que o governo Trump explique ao Congresso seu papel na saída do senador do Brasil.",
+  "titulo": "Carta de Flávio com tese de fraude é ignorada por três em cada quatro eleitos do PL; Itamaraty cobra Argentina por ajuda na saída do senador",
+  "resumo": "Levantamento do jornal O Globo mostra que 117 dos 155 eleitos pelo PL para o Congresso e os governos estaduais não se manifestaram sobre a carta em que Flávio Bolsonaro se diz o presidente eleito; 38 a compartilharam ou defenderam. Em Brasília, o Itamaraty convocou a encarregada de negócios da Argentina para explicar o suposto apoio de integrantes do governo Milei à viagem do senador aos EUA.",
   "foto": {
    "src": "fotos/flavio.jpg",
    "credito": "Joédson Alves/Agência Brasil (arquivo)"
   },
-  "entenda": "Derrotado por Lula no segundo turno por 51,77% a 48,23%, Flávio Bolsonaro (PL-RJ) deixou o país com a família depois de o ministro Alexandre de Moraes, do STF, mandar que entregasse os passaportes, num inquérito que apura suspeita de lavagem de dinheiro; ele nega irregularidades. A PF cancelou os documentos e investiga o descumprimento da ordem, mas, segundo o Ministério da Justiça, não classifica a saída como fuga. Aliados falam em perseguição judicial e exílio; parlamentares governistas pediram ao STF a prisão do senador. Nos EUA, onde obteve autorização humanitária de um ano, Flávio projetou uma crise no governo Lula e não explicou como uma nova eleição antes de 2030 seria possível.",
+  "entenda": "Derrotado por Lula no segundo turno por 51,77% a 48,23%, Flávio Bolsonaro (PL-RJ) deixou o país pela fronteira com a Argentina, em Puerto Iguazú, depois de o ministro Alexandre de Moraes, do STF, mandar que entregasse os passaportes num inquérito que apura suspeita de lavagem de dinheiro e evasão de divisas; ele nega irregularidades e diz ser alvo de perseguição. Nos EUA, onde obteve autorização humanitária de um ano, o senador voltou a questionar o resultado confirmado pelo TSE, sem apresentar provas, e afirmou que pode disputar a Presidência antes de 2030. O presidente do PL, Valdemar Costa Neto, reconheceu a vitória de Lula na segunda-feira (26), e dirigentes do partido querem que Flávio abandone a tese de fraude. Aliados do senador falam em exílio; governistas pediram ao STF sua prisão.",
   "fatos": [
-   "Flávio contou que o pai, Jair Bolsonaro, em prisão domiciliar, chorou ao ver a PF chegar com a ordem judicial, segundo o Metrópoles.",
-   "O senador anunciou apoio a Rogério Marinho (PL-RN) na disputa pela presidência do Senado, contra a recondução de Davi Alcolumbre.",
-   "Democratas como o deputado Joaquin Castro e o senador Andy Kim acusam o secretário de Estado, Marco Rubio, de facilitar a entrada do senador; Trump disse ter aprovado a entrada e que não pretende se envolver na disputa com Lula."
+   "A encarregada de negócios argentina, Maria Emília Cortés, foi recebida pelo diretor do Departamento de América do Sul do Itamaraty, segundo a Reuters; o governo argentino não se manifestou oficialmente.",
+   "Na carta, Flávio agradeceu a Javier Milei; a imprensa argentina relatou escolta da polícia aeroportuária até o embarque num jato fretado pelo governo dos EUA.",
+   "Nos EUA, parlamentares democratas pedem que o governo Trump explique ao Congresso seu papel na entrada do senador; Trump disse ter aprovado a entrada e que não pretende se envolver na disputa com Lula."
   ],
   "fontes": [
+   {
+    "n": "Bahia Notícias / O Globo",
+    "u": "https://www.bahianoticias.com.br/noticia/323209-carta-de-flavio-bolsonaro-com-alegacao-de-fraude-e-ignorada-por-75-dos-eleitos-do-pl-e-amplia-isolamento-do-senador",
+    "d": "Reação dos eleitos do PL"
+   },
+   {
+    "n": "Money Times / Reuters",
+    "u": "https://www.moneytimes.com.br/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-fuga-de-flavio-bolsonaro/",
+    "d": "Convocação da diplomata"
+   },
+   {
+    "n": "Jornal de Brasília",
+    "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-flavio/",
+    "d": "Itamaraty e Argentina"
+   },
    {
     "n": "Metrópoles",
     "u": "https://www.metropoles.com/mundo/flavio-sugere-que-poderia-disputar-a-presidencia-novamente-antes-de-2030",
     "d": "Live nos EUA"
-   },
-   {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/",
-    "d": "Projeção de crise"
-   },
-   {
-    "n": "Piranot",
-    "u": "https://www.piranot.com.br/2026/10/31/noticias/politica/eleicoes/flavio-bolsonaro-eua-ordem-passaportes/",
-    "d": "Decisão da viagem"
    },
    {
     "n": "Times Brasil",
@@ -198,7 +203,7 @@
    },
    {
     "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-fugiu-para-os-eua-diz-agencia-reuters",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
     "d": "Ordem sobre passaportes"
    }
   ]
@@ -212,21 +217,41 @@
    "itens": [
     {
      "kicker": "Governo",
-     "quando": "Ontem",
-     "titulo": "Lula confirma ida à COP31, na Turquia, onde passará a presidência da conferência do clima",
-     "resumo": "O presidente deve chegar a Antália em 10 de novembro e participar da cúpula de líderes nos dias 11 e 12, quando o Brasil entrega o comando da conferência ao país anfitrião. Depois, em 13 de novembro, segue para as Filipinas, para a reunião da Asean e uma visita bilateral.",
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
+     "quando": "Hoje",
+     "titulo": "Lula promete mais rigor na negociação de ministérios com partidos do Centrão",
+     "resumo": "Segundo relatos publicados neste sábado, o presidente pretende vincular a entrega de pastas no novo mandato ao compromisso de votos das bancadas no Congresso. A montagem do ministério de 2027 começou nesta semana; o governador do Piauí, Rafael Fonteles, negou ter sido convidado para a Fazenda.",
      "fontes": [
       {
-       "n": "O Repórter",
-       "u": "https://oreporter.com/politica/lula-participara-da-cop31-na-turquia-chegada-esta-prevista-para-10-de-novembro"
+       "n": "O Cafezinho",
+       "u": "https://www.ocafezinho.com/2026-10-31/lula-condiciona-vaga-em-ministerio-a-promessa-de-voto-no-congresso"
+      },
+      {
+       "n": "PAIPEE",
+       "u": "https://br.paipee.com/2026/10/31/lula-promete-mais-rigor-nas-negociacoes-de-ministerios-com-o-centrao/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/10/30/rafael-fonteles-nega-que-tenha-sido-convidado-por-lula-para-o-comando-do-ministerio-da-fazenda"
       },
       {
        "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-governo/lula-passara-bastao-na-cop31-e-buscara-continuidade-climatica/"
+       "u": "https://www.poder360.com.br/poder-governo/lula-cogita-ir-ao-piaui-convidar-fonteles-para-fazenda-e-anima-mercado/"
+      }
+     ],
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     }
+    },
+    {
+     "kicker": "Congresso",
+     "quando": "Hoje",
+     "titulo": "Hugo Motta articula votação ainda em 2026 de PEC que adota o voto distrital misto",
+     "resumo": "O presidente da Câmara negocia com líderes a troca do sistema proporcional de lista aberta pelo modelo distrital misto, segundo o Metrópoles. A proposta divide partidos do Centrão e da oposição e, por ser emenda constitucional, precisa de 308 votos na Câmara, em dois turnos, e de 49 no Senado.",
+     "fontes": [
+      {
+       "n": "Correio / Metrópoles",
+       "u": "https://correio24horas.com.br/brasil/voto-distrital-misto-divide-centrao-e-oposicao-e-ganha-forca-no-congresso-1026"
       }
      ]
     },
@@ -247,6 +272,22 @@
       {
        "n": "A Tarde",
        "u": "https://atarde.com.br/politica/pl-lanca-rogerio-marinho-contra-reeleicao-de-alcolumbre-no-senado-1407729"
+      }
+     ]
+    },
+    {
+     "kicker": "Governo",
+     "quando": "Ontem",
+     "titulo": "Lula confirma ida à COP31, na Turquia, onde passará a presidência da conferência do clima",
+     "resumo": "O presidente deve chegar a Antália em 10 de novembro e participar da cúpula de líderes nos dias 11 e 12, quando o Brasil entrega o comando da conferência ao país anfitrião. Depois, em 13 de novembro, segue para as Filipinas, para a reunião da Asean e uma visita bilateral.",
+     "fontes": [
+      {
+       "n": "O Repórter",
+       "u": "https://oreporter.com/politica/lula-participara-da-cop31-na-turquia-chegada-esta-prevista-para-10-de-novembro"
+      },
+      {
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-governo/lula-passara-bastao-na-cop31-e-buscara-continuidade-climatica/"
       }
      ]
     },
@@ -279,26 +320,6 @@
        "u": "https://www.diariodocentrodomundo.com.br/mauro-vieira-marco-rubio-cumprimento-g20-atlanta"
       }
      ]
-    },
-    {
-     "kicker": "Governo",
-     "quando": "Ontem",
-     "titulo": "Rafael Fonteles nega convite para a Fazenda; Lula começa a desenhar o ministério de 2027",
-     "resumo": "O governador reeleito do Piauí disse à GloboNews que nunca tratou de cargos com Lula, depois de notícias de que o presidente iria a Teresina convidá-lo. Também são citados para a Fazenda o atual ministro, Dario Durigan, o presidente do BC, Gabriel Galípolo, e o ministro do Planejamento, Bruno Moretti; para a Casa Civil, o mais cotado é o senador Camilo Santana.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/governo/2026/10/30/rafael-fonteles-nega-que-tenha-sido-convidado-por-lula-para-o-comando-do-ministerio-da-fazenda"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-governo/lula-cogita-ir-ao-piaui-convidar-fonteles-para-fazenda-e-anima-mercado/"
-      },
-      {
-       "n": "Ric",
-       "u": "https://ric.com.br/politica/lula-ministerios-2027-nomes-cotados-ministros-equipe/"
-      }
-     ]
     }
    ]
   },
@@ -306,7 +327,7 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado e indicadores",
+   "nota": "Mercado e indicadores · B3 fechada no sábado",
    "itens": [
     {
      "kicker": "Câmbio",
@@ -333,18 +354,38 @@
      ]
     },
     {
+     "kicker": "Criptomoedas",
+     "quando": "Hoje",
+     "titulo": "Com a bolsa fechada, bitcoin sobe 0,6% e é negociado perto de US$ 77,4 mil neste sábado",
+     "resumo": "Por volta das 11h50, a moeda digital avançava 0,58% em 24 horas, mas acumulava queda de 3,4% em sete dias, segundo dados do CoinMarketCap. Na sexta, chegou a cair abaixo de US$ 77 mil, o menor nível desde setembro, após o ataque de US$ 6,3 bilhões à Binance; investidores também acompanham a eleição americana de terça.",
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/"
+      },
+      {
+       "n": "BitNotícias",
+       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-31-de-outubro-de-2026/"
+      }
+     ]
+    },
+    {
      "kicker": "Juros",
      "quando": "Ontem",
-     "titulo": "Mercado passa a apostar em pausa nos cortes da Selic no Copom da próxima quarta",
-     "resumo": "Opções de Copom negociadas na B3 indicavam cerca de 61% de chance de manutenção dos juros em 13,75%, ante 36% para um corte de 0,25 ponto; antes do segundo turno, a maioria apostava em redução. A taxa caiu nas cinco reuniões anteriores, e parte dos analistas já fala em juros parados por mais tempo.",
+     "titulo": "Economistas se dividem sobre o Copom de quarta; maioria passa a prever pausa nos cortes da Selic",
+     "resumo": "Em sondagem da Bloomberg Línea com 18 economistas, dez esperam manutenção dos juros em 13,75% e oito ainda preveem corte de 0,25 ponto; 13 elevaram a projeção para o fim do ano. JPMorgan, Itaú e Goldman Sachs citam a alta do dólar e as expectativas de inflação, enquanto Inter e Tivio esperam um último corte.",
      "fontes": [
+      {
+       "n": "Bloomberg Línea",
+       "u": "https://www.bloomberglinea.com.br/brasil/reeleicao-de-lula-sacode-apostas-sobre-juros-e-bc-decide-a-selic-com-mercado-dividido/"
+      },
+      {
+       "n": "Space Money",
+       "u": "https://www.spacemoney.com.br/economia/macroeconomia/opcoes-copom-selic-estavel"
+      },
       {
        "n": "Seu Dinheiro",
        "u": "https://www.seudinheiro.com/2026/renda-fixa/o-mercado-mudou-de-ideia-sobre-a-selic-pausa-nos-cortes-ja-lidera-apostas-para-o-proximo-copom-mlim/"
-      },
-      {
-       "n": "Bora Investir (B3)",
-       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544/"
       }
      ]
     },
@@ -395,28 +436,44 @@
     {
      "kicker": "Feriadão",
      "quando": "Hoje",
-     "titulo": "Feriadão de Finados começa com alerta de chuva forte em 1.886 cidades neste sábado",
-     "resumo": "Os avisos amarelos do Inmet sobem para 1.977 municípios no domingo e 2.396 na segunda, quando há risco de tempestade com granizo; ao todo, 3.463 cidades (62% do país) têm alerta em ao menos um dos três dias, com Minas Gerais à frente. A PRF reforçou a fiscalização nas rodovias federais na Operação Finados, que vai até segunda.",
+     "titulo": "Inmet mantém alerta de chuva forte no sábado e prevê tempestades com granizo no Sul, Sudeste e Centro-Oeste no domingo",
+     "resumo": "Neste sábado, o aviso amarelo vale para todo o Espírito Santo, Rondônia e Acre e para partes de Rio, Minas, Bahia, Amazonas, Pará, Tocantins e Mato Grosso, com até 50 mm de chuva e ventos de 60 km/h. No domingo, o alerta de tempestade inclui o Distrito Federal, quase todo o Mato Grosso do Sul e áreas de Paraná, São Paulo, Minas e Goiás.",
      "foto": {
       "src": "https://imagens.ebc.com.br/znTa6KJm1vEw9On3LoJ6HClroDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9067.jpg?itok=SgyT8Pu6",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/inmet-alerta-para-chuvas-no-norte-sudeste-e-centro-oeste"
+      },
+      {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/tempo/2026/10/30/feriado-de-finados-tem-alerta-de-chuva-forte-em-3-4-mil-cidades-e-bh-fica-na-lista-os-tres-dias"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-10/feriado-de-finados-vai-ser-com-chuva-em-grande-parte-do-brasil"
+       "n": "Sou Brasília",
+       "u": "https://soubrasilia.com/feriadao-finados-df-previsao-inmet-chuva-trovoadas-aviso-amarelo-30-31-outubro-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Rio de Janeiro",
+     "quando": "Ontem",
+     "titulo": "Seis ônibus são usados como barricadas em Irajá e Cavalcanti após ocupação policial na Serrinha",
+     "resumo": "Criminosos tomaram os veículos na tarde de sexta e bloquearam vias da Zona Norte, como a Avenida Monsenhor Félix; 19 linhas foram afetadas, segundo a Rio Ônibus. A polícia trata os bloqueios como possível retaliação à ocupação do Complexo da Serrinha, em Madureira, que a PM diz que vai manter por tempo indeterminado.",
+     "fontes": [
+      {
+       "n": "O Repórter",
+       "u": "https://oreporter.com/rio/seis-onibus-barricadas-iraja-cavalcanti"
       },
       {
-       "n": "Midiamax",
-       "u": "https://midiamax.com.br/cotidiano/2026/mato-grosso-sul-tem-previsao-chuva-fim-semana-ate-feriado-finados/"
+       "n": "Diário do Transporte",
+       "u": "https://diariodotransporte.com.br/2026/10/30/onibus-sao-sequestrados-e-utilizados-como-barricadas-em-iraja-na-zona-norte-do-rio-de-janeiro-rj-nesta-sexta-feira-30/"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-10/prf-inicia-operacao-finados-com-foco-no-uso-do-celular-ao-volante"
+       "n": "O São Gonçalo",
+       "u": "https://www.osaogoncalo.com.br/seguranca-publica/180012/criminosos-utilizam-onibus-como-barricadas-em-iraja"
       }
      ]
     },
@@ -447,26 +504,6 @@
        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/temporada-de-cruzeiros-comeca-na-sexta-com-projecao-de-mais-empregos"
       }
      ]
-    },
-    {
-     "kicker": "Rio Grande do Sul",
-     "quando": "29/10",
-     "titulo": "Cheia do Rio Uruguai passa da cota de inundação em Itaqui e deixa mais de 200 fora de casa em Uruguaiana",
-     "resumo": "Na quinta, o rio marcou 8,32 metros em Itaqui e 8,49 metros em Uruguaiana, onde 217 pessoas estavam desalojadas ou desabrigadas, segundo a prefeitura. A Defesa Civil prevê que o nível siga subindo ao menos até este sábado, e o Inmet associa a primavera chuvosa ao El Niño.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/rio-uruguai-esta-em-elevacao-e-atinge-cota-de-alerta-em-uruguaiana"
-      },
-      {
-       "n": "Jornal dos Futuros",
-       "u": "https://jornaldosfuturos.substack.com/p/flavio-chega-a-miami-o-teste-fiscal"
-      },
-      {
-       "n": "Canal Rural",
-       "u": "https://www.canalrural.com.br/diversos/rio-uruguai-sobe-e-atinge-cota-de-alerta-em-uruguaiana/"
-      }
-     ]
     }
    ]
   },
@@ -476,6 +513,26 @@
    "cor": "--int",
    "nota": "Internacional",
    "itens": [
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Drones russos atingem a rede elétrica nas regiões de Kiev e Dnipropetrovsk e deixam 280 mil famílias sem luz",
+     "resumo": "Zelensky disse que os ataques criaram uma situação difícil no fornecimento de energia e pediu ajuda europeia para conter a escalada. O presidente ucraniano também cobra dos EUA mais rapidez na entrega de 500 mísseis Patriot, enquanto moradores retirados de Oleshky, sob ocupação russa, chegam à Bielorrússia.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/russia-lanca-ataque-com-drones-contra-infraestrutura-energetica-da-ucrania/"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/10/31/noticias-do-dia-31-de-outubro-2026-tarde"
+      },
+      {
+       "n": "Renascença",
+       "u": "https://rr.pt/noticia/mundo/2026/10/31/moradores-de-oleshky-chegam-a-bielorrussia-russia-e-ucrania-trocam-novos-ataques/491501/"
+      }
+     ]
+    },
     {
      "kicker": "Oriente Médio",
      "quando": "Ontem",
@@ -561,42 +618,22 @@
      ]
     },
     {
-     "kicker": "Espanha",
-     "quando": "Ontem",
-     "titulo": "Primeiro relatório sobre colisão de trens na Espanha aponta “cadeia de falhas”; buscas terminam com 69 mortos",
-     "resumo": "A comissão de investigação ferroviária diz que uma pane no sistema de segurança deixou 63 km sem proteção e que a sequência de instruções que se seguiu não foi barrada; a colisão teria ocorrido entre 160 e 200 km/h. Portugal confirmou a morte de um tripulante português, e mais de 50 feridos seguem internados.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/10/30/espanha-primeiro-relatorio-tecnico-de-urda-aponta-para-cadeia-de-falhas"
-      },
-      {
-       "n": "Renascença",
-       "u": "https://rr.pt/noticia/mundo/2026/10/30/espanha-terminaram-as-buscas-por-mais-vitimas-mortais-na-tragedia-de-toledo/491358/"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/10/30/confirmada-morte-de-portugues-em-acidente-ferroviario-em-espanha"
-      }
-     ]
-    },
-    {
      "kicker": "Estados Unidos",
-     "quando": "29/10",
-     "titulo": "A três dias das eleições de meio de mandato, pesquisas favorecem democratas na Câmara",
-     "resumo": "Levantamento Ipsos feito entre 22 e 26 de outubro dá 53% das intenções de voto para a Câmara aos democratas, contra 44% dos republicanos, e a Decision Desk HQ estima em 80% a chance de o partido retomar a Casa. No Senado, a disputa é mais apertada, com corridas próximas no Texas, em Ohio, no Alasca e no Maine.",
+     "quando": "28/10",
+     "titulo": "A cinco dias das eleições de meio de mandato, mais de 36 milhões de americanos já votaram",
+     "resumo": "Os republicanos têm 53 das 100 cadeiras do Senado, e analistas veem boas chances de os democratas conquistarem a maioria na Câmara. Trump fez campanha em Ohio e Obama, na Geórgia; a votação é na terça (3).",
      "fontes": [
       {
-       "n": "Congresso em Foco",
-       "u": "https://www.congressoemfoco.com.br/noticia/129665/midterms-eleicoes-dos-eua-na-proxima-terca-testam-forca-de-trump"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/trump-e-obama-intensificam-campanha-na-reta-final-das-eleicoes-nos-eua/"
       },
       {
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/mundo/o-que-as-pesquisas-indicam-sobre-as-midterms-nos-eua-e-para-o-governo-trump/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/10/28/eua-entenda-como-funcionam-as-eleicoes-de-meio-mandato-e-o-que-pode-mudar-na-politica-americana"
+       "n": "Congresso em Foco",
+       "u": "https://www.congressoemfoco.com.br/noticia/129665/midterms-eleicoes-dos-eua-na-proxima-terca-testam-forca-de-trump"
       }
      ]
     }
@@ -608,6 +645,66 @@
    "cor": "--esp",
    "nota": "Futebol e outros esportes",
    "itens": [
+    {
+     "kicker": "Libertadores Feminina",
+     "quando": "Hoje",
+     "titulo": "Corinthians e Cruzeiro decidem a Libertadores Feminina neste sábado, às 21h, em Quito",
+     "resumo": "O Corinthians, maior campeão do torneio, chega à quarta final seguida após eliminar o Santa Fé; o Cruzeiro, estreante, está invicto e passou pelo Olimpia na semifinal. O jogo no estádio Rodrigo Paz Delgado tem transmissão de CazéTV e SporTV.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/cruzeiro/2026/10/29/final-da-libertadores-feminina-entre-cruzeiro-e-corinthians-tem-horario-definido"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/futebol-feminino/libertadores-feminina-tera-final-brasileira-entre-corinthians-e-cruzeiro-veja-detalhes.html"
+      },
+      {
+       "n": "Olympics.com",
+       "u": "https://www.olympics.com/pt/noticias/libertadores-feminina-2026-final-corinthians-cruzeiro-horario-onde-assistir"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "F1 define o grid do GP do México às 18h; Antonelli é campeão no domingo se terminar entre os nove primeiros",
+     "resumo": "Charles Leclerc, da Ferrari, liderou os dois treinos de sexta, com Kimi Antonelli em quarto e Gabriel Bortoleto em último no segundo. O italiano da Mercedes soma 365 pontos, contra 242 de George Russell e 241 de Lewis Hamilton; a corrida é no domingo, às 17h.",
+     "fontes": [
+      {
+       "n": "Grande Prêmio",
+       "u": "https://grandepremio.com/br/f1/tem-f1-hoje-veja-horarios-do-tl3-e-da-classificacao-do-gp-do-mexico/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-leclerc-lidera-tl2-do-mexico-bortoleto-e-ultimo,a7919647346f01b8f9a2e3cb20a8d511ta9clsx4.html"
+      },
+      {
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-antonelli-fica-perto-do-titulo-no-mexico-mas-ferrari-e-mclaren-ameacam-seus-planos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Coritiba recebe o Vitória às 16h no Couto Pereira e encerra a 33ª rodada",
+     "resumo": "O jogo fecha a rodada que teve a goleada do Flamengo sobre o Vasco e a vitória do Corinthians sobre o Mirassol. No domingo, a atenção passa para a Copa do Brasil, com Palmeiras x Vasco na ida da semifinal.",
+     "fontes": [
+      {
+       "n": "Bahia.ba",
+       "u": "https://bahia.ba/esporte/vitoria-visita-o-coritiba-em-encerramento-da-33a-rodada-do-brasileirao/"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/onde-assistir/coritiba-x-vitoria-onde-assistir-horario-e-escalacoes.html"
+      },
+      {
+       "n": "Band",
+       "u": "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/coritiba-x-vitoria-onde-assistir-e-provaveis-escalacoes"
+      }
+     ]
+    },
     {
      "kicker": "Brasileirão",
      "quando": "Ontem",
@@ -625,62 +722,6 @@
       {
        "n": "VAVEL Brasil",
        "u": "https://www.vavel.com/br/futebol/2026/10/30/1277248-corinthians-x-mirassol-ao-vivo-brasileirao.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Ontem",
-     "titulo": "Leclerc lidera também o segundo treino no México; Antonelli é quarto e Bortoleto, último",
-     "resumo": "O piloto da Ferrari fez 1min17s827, 0s103 à frente de Lando Norris e 0s106 de George Russell. Líder do campeonato, Kimi Antonelli ficou em quarto; Gabriel Bortoleto só foi à pista nos minutos finais por problemas no carro da Audi. A classificação é neste sábado, às 18h, e a corrida, no domingo, às 17h (Brasília).",
-     "fontes": [
-      {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/leclerc-mantem-ferrari-no-topo-e-lidera-tl2-no-gp-da-cidade-do-mexico-bortoleto-tem-problemas/"
-      },
-      {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-leclerc-lidera-tl2-no-mexico-bortoleto-sofre-com-problemas-e-termina-em-ultimo/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/formula-1/ao-vivo-siga-o-treino-livre-2-do-gp-da-cidade-do-mexico-pela-f1-2026.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Futebol",
-     "quando": "Hoje",
-     "titulo": "Sábado tem Coritiba x Vitória no Brasileirão e clássicos em Milão e Munique",
-     "resumo": "O único jogo da Série A é às 16h, no Couto Pereira. Na Europa, destaque para Chelsea x Manchester United (9h30), Bayern x Borussia Dortmund (14h30) e Milan x Inter (16h45); no domingo, Palmeiras e Vasco abrem a semifinal da Copa do Brasil, às 16h.",
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/esportes/futebol/jogos-de-hoje/2026/10/31/jogos-hoje-31-10-26-ao-vivo-de-futebol-onde-assistir-e-horario.html"
-      },
-      {
-       "n": "Máquina do Esporte",
-       "u": "https://maquinadoesporte.com.br/onde-assistir/palmeiras-x-vasco-onde-assistir-ao-jogo-de-ida-das-semifinais-da-copa-do-brasil/"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "29/10",
-     "titulo": "Flamengo goleia o Vasco por 4 a 1 e abre três pontos sobre o Palmeiras na liderança",
-     "resumo": "Pedro e Samuel Lino marcaram duas vezes cada um no clássico, no Nilton Santos; Alan Lescano descontou para o Vasco, que poupou titulares. O Flamengo chegou a 73 pontos, com cinco rodadas por jogar, e o Vasco, 13º, encara o Palmeiras no domingo pela Copa do Brasil. A CBF marcou o confronto direto com o Palmeiras para 21 de novembro, às 16h30.",
-     "fontes": [
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/flamengo/flamengo-goleia-misto-do-vasco-e-abre-tres-pontos-para-o-palmeiras-na-ponta/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/futebol-nacional/veja-gols-em-vasco-x-flamengo-pedro-abre-o-placar-e-lescano-empata.html"
-      },
-      {
-       "n": "ESPN",
-       "u": "https://www.espn.com/soccer/match/_/gameId/401841292"
       }
      ]
     },
@@ -712,6 +753,26 @@
    "cor": "--sau",
    "nota": "",
    "itens": [
+    {
+     "kicker": "SUS",
+     "quando": "Ontem",
+     "titulo": "Padilha defende canetas de semaglutida como direito no SUS e anuncia hospital com 250 leitos em BH",
+     "resumo": "Em Belo Horizonte, o ministro da Saúde disse que o pedido de incorporação está na Conitec, que deve se manifestar ainda este ano, e que o governo prepara um protocolo para definir quais pacientes teriam indicação; ele estima custo de R$ 1,5 bilhão por ano. No mesmo evento, anunciou uma nova unidade 100% SUS do Hospital Universitário Ciências Médicas, com 250 leitos e 70 pontos de hemodiálise.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/cidades/2026/10/30/ministro-de-lula-quer-que-canetas-emagrecedoras-sejam-direito-no-sus"
+      },
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/10/7530959-novo-hospital-em-bh-vai-dobrar-atendimento-pelo-sus-anuncia-padilha.html"
+      },
+      {
+       "n": "Hoje em Dia",
+       "u": "https://www.hojeemdia.com.br/saudeebemestar/100-sus-rede-publica-de-saude-de-bh-tera-250-novos-leitos-e-70-pontos-de-hemodialise-1.1139053"
+      }
+     ]
+    },
     {
      "kicker": "Vírus respiratórios",
      "quando": "Ontem",
@@ -759,22 +820,6 @@
       "src": "fotos/sarampo.jpg",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      }
-    },
-    {
-     "kicker": "Anvisa",
-     "quando": "29/10",
-     "titulo": "Anvisa aprova mais cinco canetas de semaglutida e liraglutida para diabetes e obesidade",
-     "resumo": "Os novos registros são de versões produzidas pelas indianas Biocon e OneSource, distribuídas por Farma Vision, Dr. Reddy's e Aché; com eles, a agência chega a 20 aprovações de canetas em 2026. A Anvisa diz que prioriza essas análises desde agosto de 2025 a pedido do Ministério da Saúde, de olho no SUS e no abastecimento.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365765/anvisa-aprova-cinco-novas-canetas-para-tratamento-do-diabetes-e-da-obesidade"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/saude-e-bem-estar/2026/10/29/anvisa-aprova-cinco-novas-canetas-emagrecedoras-para-tratar-diabetes-e-obesidade-saiba-quais-sao"
-      }
-     ]
     }
    ]
   },
@@ -785,21 +830,33 @@
    "nota": "",
    "itens": [
     {
-     "kicker": "Enade",
+     "kicker": "Enem",
      "quando": "Ontem",
-     "titulo": "Calouros de cursos avaliados no Enade 2026 devem responder questionário até 18 de dezembro",
-     "resumo": "O questionário do ingressante abriu na sexta (30) no Sistema Enade, com login gov.br, e é obrigatório para quem começou a graduação neste ano em cursos avaliados. Esses estudantes estão dispensados da prova, marcada para 29 de novembro.",
+     "titulo": "Inep libera cartão de confirmação do Enem, com local de prova para 8 e 15 de novembro",
+     "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais disponibilizou na Página do Participante o documento com o local de prova dos dois domingos de exame. No primeiro dia, 8 de novembro, os portões fecham às 13h, e os candidatos devem conferir os dados com antecedência.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/educacao/2026/10/30/enade-2026-estudantes-devem-preencher-questionario-obrigatorio-ate-18-de-dezembro"
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/10/30/inep-libera-cartao-do-enem-2026-com-local-de-prova-para-8-e-15-de/"
+      },
+      {
+       "n": "Jornal do Brasil",
+       "u": "https://www.jb.com.br/brasil/educacao/2026/10/1061373-enem-2026-libera-consulta-ao-local-de-prova.html"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/inep-divulga-local-de-provas-do-enem-candidato-pode-conferir-no-site"
       }
-     ]
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/rHDnTGUIwl5hvd6TUaDsYRtyNvE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/07/pzzb7257.jpg?itok=b1IwZrdX",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+     }
     },
     {
      "kicker": "Escolas públicas",
      "quando": "29/10",
-     "titulo": "Escolas têm até este sábado para regularizar pendências com o FNDE e receber verba do PDDE Equidade",
+     "titulo": "Termina neste sábado o prazo para escolas regularizarem pendências com o FNDE e receberem verba do PDDE Equidade",
      "resumo": "O programa repassa recursos extras a escolas que atendem populações historicamente excluídas, mas só as unidades em situação regular podem receber. O MEC publicou um guia e pede que secretarias estaduais e municipais orientem os diretores.",
      "foto": {
       "src": "https://imagens.ebc.com.br/JLf0vW-5qqFpKd-bJTlZPjCbXAE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/escola_publica_ciep_rio_tania_regoabr.jpg?itok=pT-SOIY1",
@@ -813,28 +870,16 @@
      ]
     },
     {
-     "kicker": "Enem",
-     "quando": "27/10",
-     "titulo": "Enem será em 8 e 15 de novembro; locais de prova já podem ser consultados",
-     "resumo": "O cartão de confirmação, com endereço e horário, está na Página do Participante dos 5,05 milhões de inscritos. Os portões fecham às 13h, e é preciso levar documento original com foto e caneta preta de corpo transparente; no primeiro dia há redação, linguagens e ciências humanas.",
+     "kicker": "Enade",
+     "quando": "Ontem",
+     "titulo": "Calouros de cursos avaliados no Enade 2026 devem responder questionário até 18 de dezembro",
+     "resumo": "O questionário do ingressante abriu na sexta (30) no Sistema Enade, com login gov.br, e é obrigatório para quem começou a graduação neste ano em cursos avaliados. Esses estudantes estão dispensados da prova, marcada para 29 de novembro.",
      "fontes": [
       {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365338/enem-2026-inep-divulga-locais-de-prova-saiba-como-consultar"
-      },
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/para/inep-libera-consulta-aos-locais-de-prova-do-enem-2026-1.1187494"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/inep-divulga-local-de-provas-do-enem-candidato-pode-conferir-no-site"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/educacao/2026/10/30/enade-2026-estudantes-devem-preencher-questionario-obrigatorio-ate-18-de-dezembro"
       }
-     ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/rHDnTGUIwl5hvd6TUaDsYRtyNvE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/07/pzzb7257.jpg?itok=b1IwZrdX",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     }
+     ]
     }
    ]
   },
@@ -941,6 +986,26 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre aos 87 anos Solano Ribeiro, criador dos festivais de música popular na TV",
+     "resumo": "O produtor e crítico morreu na madrugada deste sábado em São Paulo, onde tratava um câncer, segundo a família. Organizou festivais na Excelsior, Record, Globo e Tupi, que revelaram nomes como Elis Regina e Chico Buarque, e comandava desde 2006 um programa na Rádio Cultura Brasil.",
+     "fontes": [
+      {
+       "n": "Diário do Centro do Mundo / g1",
+       "u": "https://www.diariodocentrodomundo.com.br/morre-solano-ribeiro-produtor-festivais-mpb-87-anos"
+      },
+      {
+       "n": "Midiamax",
+       "u": "https://midiamax.com.br/midiamais/famosos/2026/critico-produtor-musical-solano-ribeiro-morre-87-anos/"
+      },
+      {
+       "n": "Folha de Curitiba",
+       "u": "https://folhadecuritiba.com.br/solano-ribeiro-criador-dos-festivais-de-mpb-na-tv-morre-aos-87-anos/"
+      }
+     ]
+    },
+    {
      "kicker": "Música",
      "quando": "Hoje",
      "titulo": "BTS encerra neste sábado a passagem pelo Brasil com o terceiro show no MorumBIS",
@@ -957,26 +1022,6 @@
       {
        "n": "Billboard Brasil",
        "u": "https://billboard.com.br/bts-shows-sp-morumbis-horarios-acessos-itens/"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "29/10",
-     "titulo": "Morre aos 76 anos o cantor Ruban, autor do sucesso “Cinderela”",
-     "resumo": "Ruban Barra morreu na noite de quinta, segundo a família, que anunciou a morte no perfil oficial do artista; ele estava internado em estado grave, e a causa não foi divulgada. O cantor e compositor ficou conhecido nos anos 1980 por canções românticas como “Cinderela” e “Vitrine”.",
-     "fontes": [
-      {
-       "n": "Diário do Pará",
-       "u": "https://diariodopara.com.br/entretenimento/morre-ruban-barra-cantor-cinderela-76-anos/"
-      },
-      {
-       "n": "TV Foco",
-       "u": "https://tvfoco.uai.com.br/luto-jornal-da-globo-confirma-morte-de-cantor-e-causa-comocao-2"
-      },
-      {
-       "n": "Portal Saiba Mais",
-       "u": "https://www.portalsaibamais.com.br/morre-o-cantor-ruban-do-hit-cinderela-aos-76-anos/"
       }
      ]
     },
@@ -1021,18 +1066,22 @@
      ]
     },
     {
-     "kicker": "Cinema",
+     "kicker": "Morte",
      "quando": "29/10",
-     "titulo": "“100 Dias”, de Carlos Saldanha, estreia em semana de ingressos a R$ 12 para filmes nacionais",
-     "resumo": "O filme sobre a travessia do Atlântico de Amyr Klink chega às salas com outros três brasileiros e com a animação “O Bosque Selvagem”, do estúdio Laika. O Festival do Cinema Brasileiro, com ingressos a R$ 12 nas redes participantes, vai até 4 de novembro.",
+     "titulo": "Morre aos 76 anos o cantor Ruban, autor do sucesso “Cinderela”",
+     "resumo": "Ruban Barra morreu na noite de quinta, segundo a família, que anunciou a morte no perfil oficial do artista; ele estava internado em estado grave, e a causa não foi divulgada. O cantor e compositor ficou conhecido nos anos 1980 por canções românticas como “Cinderela” e “Vitrine”.",
      "fontes": [
       {
-       "n": "Pipoca Moderna",
-       "u": "https://pipocamoderna.com.br/2026/10/cinema-brasileiro-estreias-ingressos-12/"
+       "n": "Diário do Pará",
+       "u": "https://diariodopara.com.br/entretenimento/morre-ruban-barra-cantor-cinderela-76-anos/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/2026/10/29/cinema-confira-as-novidades-que-entram-em-cartaz-em-29-de-outubro"
+       "n": "TV Foco",
+       "u": "https://tvfoco.uai.com.br/luto-jornal-da-globo-confirma-morte-de-cantor-e-causa-comocao-2"
+      },
+      {
+       "n": "Portal Saiba Mais",
+       "u": "https://www.portalsaibamais.com.br/morre-o-cantor-ruban-do-hit-cinderela-aos-76-anos/"
       }
      ]
     }
