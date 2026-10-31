@@ -1,33 +1,33 @@
 {
- "data": "Sexta-feira, 30 de outubro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "30/10/2026 · 19h05 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 18h08",
+ "data": "Sábado, 31 de outubro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "31/10/2026 · 07h05 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de 18h08 (sexta)",
  "fontes": 56,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento",
+   "nome": "Ibovespa · fechamento 30/10",
    "valor": "167.922 pts",
    "var": "−0,75%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · fechamento",
-   "valor": "R$ 5,44",
-   "var": "+1,10%",
+   "nome": "Dólar comercial · fechamento 30/10",
+   "valor": "R$ 5,45",
+   "var": "+1,09%",
    "dir": "up"
   },
   {
-   "nome": "Petróleo Brent · fechamento",
+   "nome": "Petróleo Brent · fechamento 30/10",
    "valor": "US$ 113,43",
    "var": "+2,37%",
    "dir": "up"
   },
   {
-   "nome": "Ibovespa · outubro",
-   "valor": "−9,88%",
-   "var": "semana: −18,12%",
+   "nome": "Ibovespa · semana",
+   "valor": "−18,12%",
+   "var": "outubro: −9,88%",
    "dir": "down"
   },
   {
@@ -39,14 +39,14 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 30 · 20h",
-   "txt": "Corinthians e Mirassol se enfrentam na Neo Química Arena, em jogo direto contra o rebaixamento no Brasileirão",
+   "hora": "Sáb 31 · 18h",
+   "txt": "Classificação do GP do México de Fórmula 1; antes, às 16h, Coritiba x Vitória pelo Brasileirão e, às 16h45, Milan x Inter pelo Italiano",
    "cat": "esporte"
   },
   {
-   "hora": "Sáb 31",
-   "txt": "Começa o feriadão de Finados com alerta amarelo de chuva em 1.886 cidades; último dia para escolas regularizarem pendências no FNDE e para a vacinação contra meningite de jovens até 24 anos em quatro cidades do Rio",
-   "cat": "brasil"
+   "hora": "Sáb 31 · 20h",
+   "txt": "BTS faz no MorumBIS, em São Paulo, o último dos três shows da turnê no Brasil; portões abrem às 16h",
+   "cat": "cultura"
   },
   {
    "hora": "Dom 1º/11",
@@ -65,7 +65,7 @@
   },
   {
    "hora": "Qua 4/11 e Dom 8/11",
-   "txt": "Copom decide a Selic na quarta; primeiro dia de provas do Enem no domingo, com portões fechando às 13h",
+   "txt": "Copom decide a Selic e PL deve oficializar Rogério Marinho na disputa pelo comando do Senado na quarta; primeiro dia do Enem no domingo, com portões fechando às 13h",
    "cat": "economia"
   }
  ],
@@ -162,44 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercado",
-  "titulo": "Ibovespa perde 18% na semana pós-eleição, a maior queda semanal desde 2020; dólar fecha a R$ 5,44",
-  "resumo": "A bolsa caiu 0,75% nesta sexta, aos 167.922 pontos, quinta baixa seguida desde o segundo turno, e encerrou outubro com perda de 9,88%. O dólar subiu 1,10% e o petróleo Brent passou de US$ 113 com novos incidentes em Ormuz.",
+  "kicker": "Oposição",
+  "titulo": "Dos EUA, Flávio diz que pode disputar a Presidência antes de 2030; democratas cobram Trump por sua entrada no país",
+  "resumo": "Em transmissão nas redes sociais na sexta (30), o senador afirmou que “o jogo não acabou”, voltou a questionar o resultado confirmado pelo TSE e disse que decidiu a viagem com a mulher. Nos EUA, parlamentares democratas pedem que o governo Trump explique ao Congresso seu papel na saída do senador do Brasil.",
   "foto": {
-   "src": "fotos/real.jpg",
-   "credito": "José Cruz/Agência Brasil (arquivo)"
+   "src": "fotos/flavio.jpg",
+   "credito": "Joédson Alves/Agência Brasil (arquivo)"
   },
-  "entenda": "O índice despencou 13,88% na segunda-feira seguinte à eleição, com acionamento do circuit breaker, e não se recuperou ao longo da semana. Analistas ouvidos pela InfoMoney citam a falta de um plano de ajuste fiscal detalhado e a indefinição sobre a equipe econômica do quarto mandato de Lula; o ministro da Fazenda, Dario Durigan, prometeu na terça um projeto para perseguir o centro da meta, sem detalhar medidas. Nesta sexta, também pesaram a queda forte de Nova York, depois dos balanços de Intel e Amazon, e juros em alta em vários países. A especulação sobre nomes para a Fazenda continuou: o governador do Piauí, Rafael Fonteles, negou ter sido convidado para o cargo.",
+  "entenda": "Derrotado por Lula no segundo turno por 51,77% a 48,23%, Flávio Bolsonaro (PL-RJ) deixou o país com a família depois de o ministro Alexandre de Moraes, do STF, mandar que entregasse os passaportes, num inquérito que apura suspeita de lavagem de dinheiro; ele nega irregularidades. A PF cancelou os documentos e investiga o descumprimento da ordem, mas, segundo o Ministério da Justiça, não classifica a saída como fuga. Aliados falam em perseguição judicial e exílio; parlamentares governistas pediram ao STF a prisão do senador. Nos EUA, onde obteve autorização humanitária de um ano, Flávio projetou uma crise no governo Lula e não explicou como uma nova eleição antes de 2030 seria possível.",
   "fatos": [
-   "Na semana, o Ibovespa caiu 18,12%, a maior baixa semanal desde março de 2020 e a quinta maior desde o Plano Real, segundo a InfoMoney.",
-   "Siderúrgicas lideraram as perdas do dia, com Usiminas (−8,59%) e CSN (−8,49%); a Vale subiu 3,28% após o balanço do trimestre, segundo a B3.",
-   "Em Nova York, a Nasdaq recuou 2,86%, o S&P 500 1,75% e o Dow Jones 1,05%, com temores sobre o retorno dos gastos em inteligência artificial."
+   "Flávio contou que o pai, Jair Bolsonaro, em prisão domiciliar, chorou ao ver a PF chegar com a ordem judicial, segundo o Metrópoles.",
+   "O senador anunciou apoio a Rogério Marinho (PL-RN) na disputa pela presidência do Senado, contra a recondução de Davi Alcolumbre.",
+   "Democratas como o deputado Joaquin Castro e o senador Andy Kim acusam o secretário de Estado, Marco Rubio, de facilitar a entrada do senador; Trump disse ter aprovado a entrada e que não pretende se envolver na disputa com Lula."
   ],
   "fontes": [
    {
-    "n": "Bora Investir (B3)",
-    "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544/",
-    "d": "Fechamento do dia"
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/mundo/flavio-sugere-que-poderia-disputar-a-presidencia-novamente-antes-de-2030",
+    "d": "Live nos EUA"
    },
    {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/ibovespa-cai-pela-5a-vez-com-temor-fiscal-e-externo-queda-historica-semanal/",
-    "d": "Queda histórica semanal"
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/",
+    "d": "Projeção de crise"
    },
    {
-    "n": "Money Times",
-    "u": "https://www.moneytimes.com.br/ibovespa-30-10-26-lils/",
-    "d": "Pior semana em seis anos"
+    "n": "Piranot",
+    "u": "https://www.piranot.com.br/2026/10/31/noticias/politica/eleicoes/flavio-bolsonaro-eua-ordem-passaportes/",
+    "d": "Decisão da viagem"
    },
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/",
-    "d": "Semana pós-eleição"
+    "n": "Times Brasil",
+    "u": "https://timesbrasil.com.br/brasil/democratas-dos-eua-cobram-explicacoes-de-trump-sobre-saida-de-flavio-bolsonaro-do-brasil/",
+    "d": "Cobrança de democratas"
    },
    {
-    "n": "O Tempo",
-    "u": "https://www.otempo.com.br/politica/governo/2026/10/30/rafael-fonteles-nega-que-tenha-sido-convidado-por-lula-para-o-comando-do-ministerio-da-fazenda",
-    "d": "Sucessão na Fazenda"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-fugiu-para-os-eua-diz-agencia-reuters",
+    "d": "Ordem sobre passaportes"
    }
   ]
  },
@@ -211,100 +211,78 @@
    "nota": "Brasil",
    "itens": [
     {
-     "kicker": "STF",
-     "quando": "Hoje",
-     "titulo": "Fachin arquiva mais cinco investigações e avança no encerramento do inquérito das fake news",
-     "resumo": "Entre terça e quinta, o presidente do STF encerrou ao menos oito apurações ligadas ao inquérito aberto em 2019, entre elas as que envolviam Silas Malafaia, Eduardo Bolsonaro, Gilson Machado e Rui Costa Pimenta. Relator desde setembro, quando Alexandre de Moraes deixou o caso, Fachin mapeou 104 procedimentos e diz que arquivamentos por falta de provas podem ser revistos se surgirem fatos novos.",
+     "kicker": "Governo",
+     "quando": "Ontem",
+     "titulo": "Lula confirma ida à COP31, na Turquia, onde passará a presidência da conferência do clima",
+     "resumo": "O presidente deve chegar a Antália em 10 de novembro e participar da cúpula de líderes nos dias 11 e 12, quando o Brasil entrega o comando da conferência ao país anfitrião. Depois, em 13 de novembro, segue para as Filipinas, para a reunião da Asean e uma visita bilateral.",
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/fachin-arquiva-investigacoes-e-avanca-no-fim-do-inquerito-das-fake-news/"
+       "n": "O Repórter",
+       "u": "https://oreporter.com/politica/lula-participara-da-cop31-na-turquia-chegada-esta-prevista-para-10-de-novembro"
       },
       {
-       "n": "Gazeta do Povo",
-       "u": "https://gazetadopovo.com.br/republica/fachin-arquiva-mais-cinco-investigacoes-do-inquerito-das-fake-news"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-governo/lula-passara-bastao-na-cop31-e-buscara-continuidade-climatica/"
+      }
+     ]
+    },
+    {
+     "kicker": "Senado",
+     "quando": "Ontem",
+     "titulo": "PL recusa acordo com Alcolumbre e deve lançar Rogério Marinho à presidência do Senado",
+     "resumo": "O partido terá 29 senadores a partir de fevereiro e, com os três eleitos do Novo, soma cerca de 32 votos; Alcolumbre busca 39 com União, PP, PT, PSB, PDT e Rede. A candidatura deve ser oficializada na quarta (4), e a votação secreta e os 16 votos ainda indefinidos de Republicanos, Podemos e PSDB mantêm a disputa aberta.",
+     "fontes": [
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/poder-e-governo/2026/10/30/1010220-pl-rejeita-acordo-com-alcolumbre-e-lanca-marinho-como-candidato"
       },
       {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/politica/fachin-arquiva-mais-5-investigacoes-do-inquerito-das-ifake-news-i/"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-congresso/pl-deve-lancar-marinho-a-presidencia-do-senado-em-4-de-novembro/"
       },
       {
-       "n": "Congresso em Foco",
-       "u": "https://www.congressoemfoco.com.br/noticia/129651/fachin-retira-ex-ministro-do-bolsonaro-do-inquerito-das-fake-news"
+       "n": "A Tarde",
+       "u": "https://atarde.com.br/politica/pl-lanca-rogerio-marinho-contra-reeleicao-de-alcolumbre-no-senado-1407729"
       }
      ]
     },
     {
      "kicker": "Relações exteriores",
-     "quando": "Hoje",
-     "titulo": "Chanceler chega aos EUA para o G20 com Rubio enquanto Casa Branca não reconhece vitória de Lula",
-     "resumo": "Mauro Vieira desembarcou em Atlanta para a reunião de chanceleres do G20, presidida pelo secretário de Estado Marco Rubio; não há encontro bilateral marcado, mas conversas informais são esperadas. É o primeiro contato de alto nível desde a eleição e desde a entrada de Flávio Bolsonaro nos EUA.",
+     "quando": "Ontem",
+     "titulo": "Mauro Vieira e Rubio conversam no G20 e combinam reunião antes da cúpula de dezembro",
+     "resumo": "O chanceler e o secretário de Estado dos EUA se falaram rapidamente na recepção aos ministros do G20 em Atlanta, no primeiro contato de alto nível desde a eleição. Lula confirmou presença na cúpula de líderes em Miami, em 14 e 15 de dezembro, onde pode ter o primeiro encontro com Trump depois da reeleição.",
      "lados": [
       {
        "quem": "Governo Trump",
-       "txt": "Trump levantou suspeitas sobre a apuração brasileira, sem apresentar provas, mas disse que vai conversar com Lula e que atendeu ao pedido de não tomar partido na eleição."
+       "txt": "Trump ainda não reconheceu oficialmente a vitória de Lula e levantou suspeitas sobre a apuração, sem apresentar provas, mas disse que pretende conversar com o presidente brasileiro."
       },
       {
        "quem": "Governo brasileiro",
-       "txt": "O Itamaraty trata o resultado certificado pelo TSE como encerrado; segundo a imprensa, Lula aceita a conversa, mas não pretende tomar a iniciativa, e a expectativa para o G20 é baixa."
+       "txt": "O Itamaraty trata o resultado certificado pelo TSE como encerrado; Vieira recebeu cumprimentos pela reeleição de chanceleres de outras delegações."
       }
      ],
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/mauro-vieira-chega-ao-g20-nos-eua-em-meio-a-tensao-com-casa-branca"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/politica/no-g20-vieira-tera-1-evento-com-rubio-desde-fuga-de-flavio"
-      },
-      {
-       "n": "Brasil de Fato",
-       "u": "https://brasildefato.com.br/2026/10/29/trump-revela-que-lula-pediu-que-ele-nao-tomasse-partido-na-eleicao-e-diz-que-vai-conversar-com-presidente"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/mauro-vieira-e-marco-rubio-se-encontram-nos-estados-unidos-e-combinam-reuniao-em-meio-a-tensao-entre-brasil-e-eua-apos-eleicao/"
       },
       {
        "n": "Revista Oeste",
        "u": "https://revistaoeste.com/politica/mauro-vieira-chega-aos-eua-para-o-g20-em-meio-ao-silencio-de-trump-sobre-lula/"
-      }
-     ]
-    },
-    {
-     "kicker": "Assédio eleitoral",
-     "quando": "Hoje",
-     "titulo": "Justiça do Trabalho manda Meta tirar do ar posts que incentivam demitir eleitores de Lula; governo estuda “lista suja”",
-     "resumo": "A 77ª Vara do Trabalho de São Paulo deu 24 horas para a remoção de publicações de políticos como Victor Ruiz (PL-SP) e Guilherme Kilter (Novo-PR), sob multa diária. Segundo o MPT, as denúncias de assédio eleitoral subiram mais de 75% após o segundo turno, com 1.459 registros em três dias, e o ministro do Trabalho, Luiz Marinho, estuda um cadastro de empresas que punirem funcionários pelo voto.",
-     "lados": [
-      {
-       "quem": "MPT e governo",
-       "txt": "O procurador-geral do Trabalho diz que o empresário é dono do negócio, não do voto do empregado; o juiz entendeu que as postagens ultrapassam a liberdade de expressão e incentivam discriminação."
       },
       {
-       "quem": "Citados e críticos",
-       "txt": "Os políticos não se manifestaram formalmente no processo, e Ruiz tem respondido às críticas em vídeos; críticos da proposta apontam que Marinho não explicou critérios nem como as denúncias seriam comprovadas."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/demetrio-vecchioli/politicos-de-direita-terao-posts-removidos-por-incentivar-demissoes"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/economia/governo-lula-lista-suja-empresas-demitirem-por-voto-politico/"
-      },
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/politica/2026/10/30/1009848-patrao-nao-e-dono-do-voto-governo-e-justica-fecham-cerco-contra-demissoes-e-boicotes-a-eleitores-de-lula"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/denuncias-de-assedio-eleitoral-no-trabalho-disparam-75-apos-2-turno"
+       "n": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/mauro-vieira-marco-rubio-cumprimento-g20-atlanta"
       }
      ]
     },
     {
      "kicker": "Governo",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Rafael Fonteles nega convite para a Fazenda; Lula começa a desenhar o ministério de 2027",
      "resumo": "O governador reeleito do Piauí disse à GloboNews que nunca tratou de cargos com Lula, depois de notícias de que o presidente iria a Teresina convidá-lo. Também são citados para a Fazenda o atual ministro, Dario Durigan, o presidente do BC, Gabriel Galípolo, e o ministro do Planejamento, Bruno Moretti; para a Casa Civil, o mais cotado é o senador Camilo Santana.",
      "fontes": [
@@ -321,40 +299,6 @@
        "u": "https://ric.com.br/politica/lula-ministerios-2027-nomes-cotados-ministros-equipe/"
       }
      ]
-    },
-    {
-     "kicker": "Oposição",
-     "quando": "Hoje",
-     "titulo": "Valdemar visita Bolsonaro e reafirma que não aprovou carta de Flávio; Malafaia critica os filhos do ex-presidente",
-     "resumo": "O presidente do PL voltou a dizer que não sabia do conteúdo da carta em que o senador, nos EUA desde quarta, se apresentou como presidente eleito; Silas Malafaia criticou a condução do caso pelos filhos de Bolsonaro. Deputados do PT e do PSOL pediram ao STF a prisão de Flávio, e a PF afirma que ele não é considerado foragido.",
-     "lados": [
-      {
-       "quem": "Flávio e aliados",
-       "txt": "O senador nega ter fugido, diz ser alvo de perseguição judicial e afirma que vai liderar a oposição a partir dos EUA, por meios pacíficos."
-      },
-      {
-       "quem": "Críticos",
-       "txt": "Parlamentares governistas pedem prisão e bloqueio de bens por descumprimento da ordem de entregar os passaportes; parte da direita, como Tarcísio, defende respeito ao resultado das urnas."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/canal-o-tempo/programas/primeira-analise/2026/10/30/tensao-no-pl-valdemar-e-bolsonaro-malafaia-critica-flavio-e-bastidores-no-congresso-esquentam"
-      },
-      {
-       "n": "Jornal Cruzeiro",
-       "u": "https://www.jornalcruzeiro.com.br/geral/brasil/2026/10/767155-valdemar-ninguem-aprovou-a-carta-de-flavio.html"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/esquerda-intensifica-ofensiva-judicial-contra-flavio-bolsonaro-direita-stf/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-declara-lideranca-da-oposicao-a-partir-dos-eua/"
-      }
-     ]
     }
    ]
   },
@@ -365,48 +309,48 @@
    "nota": "Mercado e indicadores",
    "itens": [
     {
-     "kicker": "Bolsa",
-     "quando": "Hoje",
-     "titulo": "Siderúrgicas lideram as perdas, e Vale sobe 3,3% após balanço no último pregão de outubro",
-     "resumo": "Usiminas caiu 8,59% e CSN 8,49%, e as ações da B3 perderam 5,42%; na ponta positiva ficaram CSN Mineração, Magazine Luiza e Vale. O volume foi de R$ 41,8 bilhões, e opções da B3 indicam aposta majoritária na manutenção da Selic em 13,75% pelo Copom na quarta.",
+     "kicker": "Câmbio",
+     "quando": "Ontem",
+     "titulo": "Dólar fecha a R$ 5,45 e tem a maior alta semanal desde 2008; Ibovespa tem o pior mês desde 2022",
+     "resumo": "A moeda subiu 1,09% na sexta, ao maior fechamento do ano, e acumulou 9,15% na semana seguinte à eleição; a bolsa caiu 18,12% no período e fechou outubro com perda de 9,88%. Segundo a Agência Brasil, pesaram a incerteza fiscal e a indefinição da equipe econômica, a saída de R$ 7,6 bilhões de estrangeiros e a procura por proteção antes do feriado.",
+     "foto": {
+      "src": "fotos/real.jpg",
+      "credito": "José Cruz/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Bora Investir (B3)",
-       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008"
       },
       {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-075-e-fecha-aos-1679-mil-pontos-dolar-sobe/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/"
       },
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30102026/"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/tempo-real-30-10-26-lils/"
       }
      ]
     },
     {
-     "kicker": "Petrobras",
+     "kicker": "Juros",
      "quando": "Ontem",
-     "titulo": "Petrobras anuncia terceira descoberta de petróleo no mesmo poço na costa do Amapá",
-     "resumo": "O poço Morpho, no bloco FZA-M-59, a 2.886 metros de lâmina d'água na Foz do Amazonas, teve a perfuração concluída e será abandonado; a sonda segue para a Bacia Potiguar. A estatal também informou produção recorde de 3,51 milhões de barris de óleo equivalente por dia no terceiro trimestre, 11,7% acima de um ano antes.",
+     "titulo": "Mercado passa a apostar em pausa nos cortes da Selic no Copom da próxima quarta",
+     "resumo": "Opções de Copom negociadas na B3 indicavam cerca de 61% de chance de manutenção dos juros em 13,75%, ante 36% para um corte de 0,25 ponto; antes do segundo turno, a maioria apostava em redução. A taxa caiu nas cinco reuniões anteriores, e parte dos analistas já fala em juros parados por mais tempo.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/economia/petrobras-anuncia-terceira-descoberta-de-petroleo-na-costa-do-amapa/"
-      },
-      {
        "n": "Seu Dinheiro",
-       "u": "https://www.seudinheiro.com/2026/empresas/petrobras-petr4-confirma-terceira-descoberta-de-petroleo-na-margem-equatorial-bdap/"
+       "u": "https://www.seudinheiro.com/2026/renda-fixa/o-mercado-mudou-de-ideia-sobre-a-selic-pausa-nos-cortes-ja-lidera-apostas-para-o-proximo-copom-mlim/"
+      },
+      {
+       "n": "Bora Investir (B3)",
+       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544/"
       }
      ]
     },
     {
      "kicker": "Emprego",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Desemprego cai para 5,2% no trimestre até setembro, o menor para o período desde 2012",
      "resumo": "A taxa veio em linha com as projeções e ficou abaixo dos 5,4% do trimestre anterior e dos 5,6% de um ano antes, segundo a Pnad Contínua do IBGE. A renda média real chegou a R$ 3.790, alta de 3,6% em 12 meses, e cerca de 5,6 milhões de pessoas procuravam trabalho.",
      "fontes": [
@@ -426,7 +370,7 @@
     },
     {
      "kicker": "Conta de luz",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Aneel mantém bandeira verde em novembro, sem cobrança extra na conta de luz",
      "resumo": "É o segundo mês seguido sem acréscimo, depois de cinco meses de bandeira amarela. Segundo a agência, as chuvas nas regiões das grandes hidrelétricas recompuseram os reservatórios e reduziram a necessidade de acionar térmicas, que custam mais.",
      "foto": {
@@ -437,22 +381,6 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/aneel-mantem-bandeira-tarifaria-verde-em-novembro"
-      }
-     ]
-    },
-    {
-     "kicker": "Imposto de Renda",
-     "quando": "Hoje",
-     "titulo": "Receita paga nesta sexta R$ 531,6 milhões a 184 mil contribuintes no lote da malha fina",
-     "resumo": "Do total, R$ 293,4 milhões vão para quem tem prioridade legal, como idosos, professores e pessoas com deficiência ou doença grave. O dinheiro cai na conta ou na chave Pix informada na declaração; quem não está no lote pode verificar pendências no e-CAC.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/Cd0Lt2OOjMnw-SPgMmH75to6CfM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/24/_mg_6811.jpg?itok=VyatooZv",
-      "credito": "Bruno Peres/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-paga-nesta-sexta-feira-lote-da-malha-fina-do-imposto-de-renda"
       }
      ]
     }
@@ -467,8 +395,8 @@
     {
      "kicker": "Feriadão",
      "quando": "Hoje",
-     "titulo": "Inmet põe 3.463 cidades em alerta de chuva forte no feriadão de Finados",
-     "resumo": "Os avisos amarelos valem para ao menos um dos três dias em 62% dos municípios do país e para todo o feriadão em 711 deles, com Minas Gerais concentrando os alertas; domingo e segunda têm risco de granizo. A PRF iniciou a Operação Finados nas rodovias federais, com foco no uso do celular ao volante.",
+     "titulo": "Feriadão de Finados começa com alerta de chuva forte em 1.886 cidades neste sábado",
+     "resumo": "Os avisos amarelos do Inmet sobem para 1.977 municípios no domingo e 2.396 na segunda, quando há risco de tempestade com granizo; ao todo, 3.463 cidades (62% do país) têm alerta em ao menos um dos três dias, com Minas Gerais à frente. A PRF reforçou a fiscalização nas rodovias federais na Operação Finados, que vai até segunda.",
      "foto": {
       "src": "https://imagens.ebc.com.br/znTa6KJm1vEw9On3LoJ6HClroDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9067.jpg?itok=SgyT8Pu6",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
@@ -494,7 +422,7 @@
     },
     {
      "kicker": "Rio de Janeiro",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Engavetamento com 21 veículos na Dutra deixa um morto e ao menos dez feridos",
      "resumo": "O acidente ocorreu por volta das 7h, no km 174, em São João de Meriti, na Baixada Fluminense, no sentido Rio. O motorista de um ônibus morreu no local; a suspeita é de que ele tenha passado mal ao volante, mas a causa ainda não foi confirmada.",
      "fontes": [
@@ -509,10 +437,22 @@
      ]
     },
     {
-     "kicker": "Rio Grande do Sul",
+     "kicker": "Turismo",
      "quando": "Ontem",
+     "titulo": "Temporada de cruzeiros começa com previsão de R$ 4,7 bilhões em movimentação",
+     "resumo": "Até 9 de abril, oito navios farão roteiros pela costa brasileira e outros 28, de longo curso, devem fazer mais de 200 escalas, segundo o Ministério do Turismo. Santos lidera as projeções, seguida por Rio de Janeiro e Balneário Camboriú, e a pasta espera superar os 72 mil empregos da temporada anterior.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/temporada-de-cruzeiros-comeca-na-sexta-com-projecao-de-mais-empregos"
+      }
+     ]
+    },
+    {
+     "kicker": "Rio Grande do Sul",
+     "quando": "29/10",
      "titulo": "Cheia do Rio Uruguai passa da cota de inundação em Itaqui e deixa mais de 200 fora de casa em Uruguaiana",
-     "resumo": "Na quinta, o rio marcou 8,32 metros em Itaqui e 8,49 metros em Uruguaiana, onde 217 pessoas estavam desalojadas ou desabrigadas, segundo a prefeitura. A Defesa Civil prevê que o nível siga subindo ao menos até sábado, e o Inmet associa a primavera chuvosa ao El Niño.",
+     "resumo": "Na quinta, o rio marcou 8,32 metros em Itaqui e 8,49 metros em Uruguaiana, onde 217 pessoas estavam desalojadas ou desabrigadas, segundo a prefeitura. A Defesa Civil prevê que o nível siga subindo ao menos até este sábado, e o Inmet associa a primavera chuvosa ao El Niño.",
      "fontes": [
       {
        "n": "Agência Brasil",
@@ -527,30 +467,6 @@
        "u": "https://www.canalrural.com.br/diversos/rio-uruguai-sobe-e-atinge-cota-de-alerta-em-uruguaiana/"
       }
      ]
-    },
-    {
-     "kicker": "Turismo",
-     "quando": "Hoje",
-     "titulo": "Temporada de cruzeiros começa com previsão de R$ 4,7 bilhões em movimentação",
-     "resumo": "Até 9 de abril, oito navios farão roteiros pela costa brasileira e outros 28, de longo curso, devem fazer mais de 200 escalas, segundo o Ministério do Turismo. Santos lidera as projeções, seguida por Rio de Janeiro e Balneário Camboriú, e a pasta espera superar os 72 mil empregos da temporada anterior.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/temporada-de-cruzeiros-comeca-na-sexta-com-projecao-de-mais-empregos"
-      }
-     ]
-    },
-    {
-     "kicker": "Mato Grosso",
-     "quando": "Ontem",
-     "titulo": "PF prende presidente do Tribunal de Contas de Mato Grosso em operação contra corrupção",
-     "resumo": "Sérgio Ricardo de Almeida foi preso preventivamente por ordem do ministro Og Fernandes, do STJ, na Operação Tomada de Contas, que cumpriu seis mandados de prisão e 26 de busca em MT, MS e SP. A PF investiga suspeitas de corrupção, lavagem de dinheiro e organização criminosa ligadas a contratos do tribunal; a defesa não havia se manifestado até a publicação da reportagem.",
-     "fontes": [
-      {
-       "n": "Canal MT",
-       "u": "https://www.canalmt.com.br/2026/10/30/alvo-de-operacao-da-pf-sergio-ricardo-ficara-preso-no-bope/"
-      }
-     ]
     }
    ]
   },
@@ -562,7 +478,7 @@
    "itens": [
     {
      "kicker": "Oriente Médio",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Irã diz que três petroleiros pegaram fogo em Ormuz; Omã resgata 25 tripulantes de outro navio",
      "resumo": "Segundo a Guarda Revolucionária, os navios tentavam passar por rotas não autorizadas por Teerã, sem dizer a causa dos incêndios; separadamente, a Marinha de Omã retirou a tripulação de um navio panamenho atacado perto de Musandam. Trump disse que a guerra com o Irã vai acabar em breve, e o Brent fechou em alta de 2,37%, a US$ 113,43.",
      "lados": [
@@ -595,10 +511,30 @@
      ]
     },
     {
+     "kicker": "Coreia do Norte",
+     "quando": "Ontem",
+     "titulo": "Coreia do Norte dispara cerca de 12 mísseis balísticos ao mar; Seul insiste em diálogo militar",
+     "resumo": "Os mísseis de curto alcance partiram da região de Wonsan e voaram cerca de 250 km, segundo o Estado-Maior sul-coreano. Seul voltou a propor conversas para evitar choques acidentais na fronteira, sem resposta de Pyongyang; a tensão cresceu desde a explosão de minas na Zona Desmilitarizada em setembro, que o Norte nega ter causado.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/10/30/coreia-do-norte-ameaca-coreia-do-sul-com-misseis-balisticos-seul-apela-ao-dialogo-para-red"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/coreia-do-norte-lanca-cerca-de-10-misseis-ao-mar-diz-seul"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/10/29/coreia-do-norte-dispara-misseis-ao-mar-em-meio-a-escalada-de-tensao-com-o-sul.html"
+      }
+     ]
+    },
+    {
      "kicker": "Israel",
-     "quando": "Hoje",
-     "titulo": "Resultado confirmado deixa Netanyahu sem maioria e abre disputa por coalizão",
-     "resumo": "O bloco do premiê ficou com 53 das 120 cadeiras, a oposição liderada por Gadi Eisenkot com 48 e os partidos árabes com 19. A comissão eleitoral deve entregar o resultado ao presidente Isaac Herzog na quarta, e o novo Parlamento toma posse em 10 de novembro.",
+     "quando": "Ontem",
+     "titulo": "Sem maioria para Netanyahu, Herzog começa a definir quem tentará formar o governo",
+     "resumo": "O Likud foi o partido mais votado, com 27 cadeiras, seguido pelo Yashar, de Gadi Eisenkot (21), pelo Juntos, de Naftali Bennett (12), e pela Lista Conjunta árabe (11); o bloco do premiê somou 53 das 120. O indicado pelo presidente terá 28 dias, prorrogáveis por 14, para montar uma coalizão; se ninguém conseguir, pode haver nova eleição.",
      "lados": [
       {
        "quem": "Netanyahu e Likud",
@@ -611,22 +547,22 @@
      ],
      "fontes": [
       {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365968/israel-confirma-perda-de-maioria-de-netanyahu-e-abre-disputa-por-coalizao-com-partidos-arabes"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/eleicao-em-israel-o-que-acontece-apos-netanyahu-nao-conseguir-maioria/"
       },
       {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/mundo/eleicao-em-israel-nao-define-premie-e-abre-disputa-por-coalizao-entre-netanyahu-e-oposicao-1.1188997"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-internacional/bloco-de-netanyahu-perde-maioria-no-parlamento-em-israel/"
       },
       {
-       "n": "Times of Israel",
-       "u": "https://www.timesofisrael.com/liveblog-october-30-2026/"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/10/31/noticias-do-dia-31-de-outubro-2026-manha"
       }
      ]
     },
     {
      "kicker": "Espanha",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Primeiro relatório sobre colisão de trens na Espanha aponta “cadeia de falhas”; buscas terminam com 69 mortos",
      "resumo": "A comissão de investigação ferroviária diz que uma pane no sistema de segurança deixou 63 km sem proteção e que a sequência de instruções que se seguiu não foi barrada; a colisão teria ocorrido entre 160 e 200 km/h. Portugal confirmou a morte de um tripulante português, e mais de 50 feridos seguem internados.",
      "fontes": [
@@ -645,25 +581,9 @@
      ]
     },
     {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Ataque russo mata duas adolescentes em Chernihiv; trégua em Oleshky completa 30 horas",
-     "resumo": "Autoridades locais dizem que um míssil de cruzeiro atingiu o centro da cidade, matou duas meninas de 15 anos e feriu 25 pessoas. No sul, a pausa mediada pelos EUA em torno de Oleshky, ocupada pela Rússia, seguia sem incidentes, e Zelensky disse que a retirada de civis será decisiva.",
-     "fontes": [
-      {
-       "n": "Africanews",
-       "u": "https://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/"
-      },
-      {
-       "n": "Ukrinform",
-       "u": "https://www.ukrinform.net/rubric-ato/4179467-attack-on-chernihiv-city-center-leaves-two-dead-and-raises-injury-toll-to-25.html"
-      }
-     ]
-    },
-    {
      "kicker": "Estados Unidos",
-     "quando": "Ontem",
-     "titulo": "A quatro dias das eleições de meio de mandato, pesquisas favorecem democratas na Câmara",
+     "quando": "29/10",
+     "titulo": "A três dias das eleições de meio de mandato, pesquisas favorecem democratas na Câmara",
      "resumo": "Levantamento Ipsos feito entre 22 e 26 de outubro dá 53% das intenções de voto para a Câmara aos democratas, contra 44% dos republicanos, e a Decision Desk HQ estima em 80% a chance de o partido retomar a Casa. No Senado, a disputa é mais apertada, com corridas próximas no Texas, em Ohio, no Alasca e no Maine.",
      "fontes": [
       {
@@ -689,48 +609,64 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "Leclerc lidera o primeiro treino no México; Antonelli se recupera de virose e é segundo",
-     "resumo": "O piloto da Ferrari fez 1min18s128 numa sessão com dez reservas na pista, entre eles Freddie Slater no carro de Gabriel Bortoleto. Líder com 365 pontos, 123 à frente de George Russell, Kimi Antonelli foi liberado pelos médicos depois de cancelar compromissos na quinta e pode ser campeão no domingo.",
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Corinthians vence o Mirassol por 2 a 0 e encerra jejum, mas segue na zona de rebaixamento",
+     "resumo": "Matheus Bidu e Kaio César marcaram no segundo tempo na Neo Química Arena, depois da expulsão de Bruno Santos, do Mirassol, ainda na primeira etapa; foi a primeira vitória do time em 11 jogos. O Corinthians é o 17º, com 36 pontos, um a menos que o Mirassol, e enfrenta o São Paulo na quarta.",
      "fontes": [
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/f1-com-10-pilotos-reservas-leclerc-lidera-primeiro-treino-livre-no-mexico"
+       "u": "https://www.metropoles.com/esportes/brasileirao-corinthians-bate-mirassol-e-volta-a-vencer-apos-11-jogos"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-mirassol-e-segue-vivo-contra-rebaixamento/"
+      },
+      {
+       "n": "VAVEL Brasil",
+       "u": "https://www.vavel.com/br/futebol/2026/10/30/1277248-corinthians-x-mirassol-ao-vivo-brasileirao.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "Ontem",
+     "titulo": "Leclerc lidera também o segundo treino no México; Antonelli é quarto e Bortoleto, último",
+     "resumo": "O piloto da Ferrari fez 1min17s827, 0s103 à frente de Lando Norris e 0s106 de George Russell. Líder do campeonato, Kimi Antonelli ficou em quarto; Gabriel Bortoleto só foi à pista nos minutos finais por problemas no carro da Audi. A classificação é neste sábado, às 18h, e a corrida, no domingo, às 17h (Brasília).",
+     "fontes": [
+      {
+       "n": "Grande Prêmio",
+       "u": "https://grandepremio.com/br/f1/leclerc-mantem-ferrari-no-topo-e-lidera-tl2-no-gp-da-cidade-do-mexico-bortoleto-tem-problemas/"
       },
       {
        "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-antonelli-se-sente-melhor-e-e-liberado-para-participar-dos-tls-no-gp-do-mexico/"
+       "u": "https://www.f1mania.net/f1/f1-leclerc-lidera-tl2-no-mexico-bortoleto-sofre-com-problemas-e-termina-em-ultimo/"
       },
       {
        "n": "Lance!",
-       "u": "https://www.lance.com.br/formula-1/ao-vivo-siga-o-treino-livre-1-do-gp-da-cidade-do-mexico-pela-f1-2026.html"
-      },
-      {
-       "n": "Formula 1",
-       "u": "https://www.formula1.com/en/latest/article/fp1-leclerc-leads-antonelli-in-mexico-city-as-new-faces-make-formula-1-debuts.5IkozqYxX25QgmGJqc0NlA"
+       "u": "https://www.lance.com.br/formula-1/ao-vivo-siga-o-treino-livre-2-do-gp-da-cidade-do-mexico-pela-f1-2026.html"
       }
      ]
     },
     {
-     "kicker": "Brasileirão",
+     "kicker": "Futebol",
      "quando": "Hoje",
-     "titulo": "Na zona de rebaixamento, Corinthians recebe o Mirassol às 20h",
-     "resumo": "O time paulista é o 18º colocado e não vence há dez rodadas, com nove derrotas e um empate. O Mirassol, 16º com 37 pontos, tenta se afastar da zona; o jogo, pela 33ª rodada, é na Neo Química Arena.",
+     "titulo": "Sábado tem Coritiba x Vitória no Brasileirão e clássicos em Milão e Munique",
+     "resumo": "O único jogo da Série A é às 16h, no Couto Pereira. Na Europa, destaque para Chelsea x Manchester United (9h30), Bayern x Borussia Dortmund (14h30) e Milan x Inter (16h45); no domingo, Palmeiras e Vasco abrem a semifinal da Copa do Brasil, às 16h.",
      "fontes": [
       {
-       "n": "O Hoje",
-       "u": "https://ohoje.com/2026/10/30/na-luta-contra-o-rebaixamento-corinthians-enfrenta-o-mirassol-nesta-sexta-30-horario-e-onde-assistir/"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/esportes/futebol/jogos-de-hoje/2026/10/31/jogos-hoje-31-10-26-ao-vivo-de-futebol-onde-assistir-e-horario.html"
       },
       {
-       "n": "Folha CG",
-       "u": "https://folhacg.com.br/esportes/corinthians-recebe-mirassol-em-jogo-decisivo-na-luta-contra-o-rebaixamento/"
+       "n": "Máquina do Esporte",
+       "u": "https://maquinadoesporte.com.br/onde-assistir/palmeiras-x-vasco-onde-assistir-ao-jogo-de-ida-das-semifinais-da-copa-do-brasil/"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
-     "quando": "Ontem",
+     "quando": "29/10",
      "titulo": "Flamengo goleia o Vasco por 4 a 1 e abre três pontos sobre o Palmeiras na liderança",
      "resumo": "Pedro e Samuel Lino marcaram duas vezes cada um no clássico, no Nilton Santos; Alan Lescano descontou para o Vasco, que poupou titulares. O Flamengo chegou a 73 pontos, com cinco rodadas por jogar, e o Vasco, 13º, encara o Palmeiras no domingo pela Copa do Brasil. A CBF marcou o confronto direto com o Palmeiras para 21 de novembro, às 16h30.",
      "fontes": [
@@ -749,28 +685,8 @@
      ]
     },
     {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Cruzeiro vence clássico na Arena MRV; Grêmio bate o Athletico e deixa a zona de rebaixamento",
-     "resumo": "Kaio Jorge marcou aos 3 minutos, e o Cruzeiro, com 57 pontos, firmou-se em terceiro; o Atlético-MG é sétimo. Em Porto Alegre, o Grêmio fez 2 a 0 com gols de Marlon e Balbuena, foi a 37 pontos e empurrou o Internacional para o Z4; o Corinthians também está na zona.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-cruzeiro-bate-atletico-fora-de-casa-no-ultimo-classico-do-ano"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/gremio-vence-o-athletico-pr-deixa-zona-de-rebaixamento-do-brasileirao-e-complica-o-corinthians,f2bb3a40a6283d9e00660345cd6ed0a674klz3sj.html"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/gremio-derrota-athletico-pr-e-deixa-a-zona-de-rebaixamento-do-brasileirao"
-      }
-     ]
-    },
-    {
      "kicker": "Seleção",
-     "quando": "Ontem",
+     "quando": "29/10",
      "titulo": "Ancelotti convoca 26 para amistosos contra Japão e Singapura, com quatro estreantes e a volta de Estêvão",
      "resumo": "Arthur Dias, do Athletico, Jonathan Jesus, do Cruzeiro, e Alisson Santana e Marlon Gomes, do Shakhtar, recebem a primeira chamada; não há jogadores de Flamengo e Palmeiras na lista. A Seleção enfrenta o Japão em 14 de novembro, às 7h15, e Singapura no dia 17, às 7h (Brasília), no Estádio Nacional de Singapura.",
      "fontes": [
@@ -798,7 +714,7 @@
    "itens": [
     {
      "kicker": "Vírus respiratórios",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Síndrome respiratória grave cresce em cinco estados, com alta de covid em MT e MS",
      "resumo": "Amapá, Mato Grosso, Mato Grosso do Sul, Sergipe e Maranhão estão em alerta com tendência de alta, segundo o boletim InfoGripe, da Fiocruz. Os casos graves de covid aumentaram, mas seguem baixos em relação à pandemia; nas últimas quatro semanas, o rinovírus respondeu por mais da metade dos testes positivos.",
      "fontes": [
@@ -814,7 +730,7 @@
     },
     {
      "kicker": "Gestantes",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Pesquisa mostra mais gestantes preocupadas com bronquiolite, mas dúvidas sobre a vacina persistem",
      "resumo": "Levantamento Ipsos-Ipec com 530 grávidas, encomendado pela Pfizer, mostra que 70% conhecem o vírus sincicial respiratório, ante 58% antes, mas 79% têm ao menos uma dúvida ou ideia errada sobre o tema. Parte delas não sabe que a vacina contra o VSR, que protege o bebê, está no SUS desde dezembro de 2025.",
      "fontes": [
@@ -826,9 +742,9 @@
     },
     {
      "kicker": "Vacinação",
-     "quando": "Ontem",
+     "quando": "29/10",
      "titulo": "Ministério da Saúde lança painel para acompanhar vacina contra meningite em adolescentes",
-     "resumo": "A ferramenta mostra, por município, a cobertura da vacina meningocócica ACWY entre jovens de 11 a 14 anos, para orientar campanhas onde ela está baixa. No Rio, Belford Roxo, Duque de Caxias e Nova Iguaçu, pessoas de até 24 anos podem tomar a dose nos postos até sábado (31).",
+     "resumo": "A ferramenta mostra, por município, a cobertura da vacina meningocócica ACWY entre jovens de 11 a 14 anos, para orientar campanhas onde ela está baixa. No Rio, Belford Roxo, Duque de Caxias e Nova Iguaçu, pessoas de até 24 anos podem tomar a dose nos postos até este sábado (31), último dia da ação.",
      "fontes": [
       {
        "n": "Diário do Grande ABC",
@@ -846,7 +762,7 @@
     },
     {
      "kicker": "Anvisa",
-     "quando": "Ontem",
+     "quando": "29/10",
      "titulo": "Anvisa aprova mais cinco canetas de semaglutida e liraglutida para diabetes e obesidade",
      "resumo": "Os novos registros são de versões produzidas pelas indianas Biocon e OneSource, distribuídas por Farma Vision, Dr. Reddy's e Aché; com eles, a agência chega a 20 aprovações de canetas em 2026. A Anvisa diz que prioriza essas análises desde agosto de 2025 a pedido do Ministério da Saúde, de olho no SUS e no abastecimento.",
      "fontes": [
@@ -870,9 +786,9 @@
    "itens": [
     {
      "kicker": "Enade",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Calouros de cursos avaliados no Enade 2026 devem responder questionário até 18 de dezembro",
-     "resumo": "O questionário do ingressante abriu nesta sexta no Sistema Enade, com login gov.br, e é obrigatório para quem começou a graduação neste ano em cursos avaliados. Esses estudantes estão dispensados da prova, marcada para 29 de novembro.",
+     "resumo": "O questionário do ingressante abriu na sexta (30) no Sistema Enade, com login gov.br, e é obrigatório para quem começou a graduação neste ano em cursos avaliados. Esses estudantes estão dispensados da prova, marcada para 29 de novembro.",
      "fontes": [
       {
        "n": "O Tempo",
@@ -882,8 +798,8 @@
     },
     {
      "kicker": "Escolas públicas",
-     "quando": "Ontem",
-     "titulo": "Escolas têm até sábado para regularizar pendências com o FNDE e receber verba do PDDE Equidade",
+     "quando": "29/10",
+     "titulo": "Escolas têm até este sábado para regularizar pendências com o FNDE e receber verba do PDDE Equidade",
      "resumo": "O programa repassa recursos extras a escolas que atendem populações historicamente excluídas, mas só as unidades em situação regular podem receber. O MEC publicou um guia e pede que secretarias estaduais e municipais orientem os diretores.",
      "foto": {
       "src": "https://imagens.ebc.com.br/JLf0vW-5qqFpKd-bJTlZPjCbXAE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/escola_publica_ciep_rio_tania_regoabr.jpg?itok=pT-SOIY1",
@@ -929,8 +845,52 @@
    "nota": "Meio ambiente, pesquisa e inovação",
    "itens": [
     {
+     "kicker": "Criptomoedas",
+     "quando": "Ontem",
+     "titulo": "Binance diz que ataque de US$ 6,3 bilhões começou pelo notebook de um engenheiro; US$ 3 bilhões já foram congelados",
+     "resumo": "Segundo a corretora, o invasor chegou a um contêiner de serviço a partir do computador de um funcionário de DevOps e fez saques não autorizados, sem evidência de vazamento de chaves privadas; Tether e Circle bloquearam parte dos recursos. TRM Labs e Chainalysis ligam o ataque a um grupo norte-coreano, o que a Binance não confirma, e a empresa prevê retomar os saques em até 44 horas.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/10/30/binance-sofre-ataque-hacker-de-us-6-3-bilhoes-e-registra-o-maior-roubo-de-criptomoedas-da-historia"
+      },
+      {
+       "n": "O Povo / BBC",
+       "u": "https://www.opovo.com.br/agencia/bbc/2026/10/30/binance-sofre-ataque-de-uss-63-bilhoes-em-possivel-maior-roubo-da-historia-das-criptomoedas.html"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/future-of-money/binance-sofre-ataque-hacker-estimado-em-us-27-bilhoes-o-maior-da-historia/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/hackers-da-coreia-do-norte-sao-suspeitos-de-roubo-de-us-6-bi-na-binance/"
+      }
+     ]
+    },
+    {
+     "kicker": "Espaço",
+     "quando": "Ontem",
+     "titulo": "Telescópio Swift, da Nasa, deve cair nas próximas semanas, e parte do Brasil está na faixa de reentrada",
+     "resumo": "Depois de 22 anos de observações, o observatório perdeu altitude até cerca de 275 km por causa do arrasto atmosférico, ampliado pela atividade solar, e encerrou as operações. A Nasa ainda não sabe quando nem onde ele vai reentrar; fragmentos tendem a cair no oceano ou em áreas pouco povoadas.",
+     "fontes": [
+      {
+       "n": "Gizmodo Brasil",
+       "u": "https://www.gizmodo.com.br/telescopio-da-nasa-vai-reentrar-na-atmosfera-e-parte-do-brasil-esta-na-faixa-de-possivel-queda-73199"
+      },
+      {
+       "n": "DOL",
+       "u": "https://dol.com.br/noticias/brasil/966934/telescopio-espacial-da-nasa-pode-cair-no-brasil-veja-o-que-ja-se-sabe"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/mundo/2026/10/7529451-telescopio-da-nasa-vai-cair-na-terra-apos-22-anos-de-descobertas-incriveis.html"
+      }
+     ]
+    },
+    {
      "kicker": "Tecnologia",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Intel despenca 28% e Nasdaq fecha em queda de 2,86% com temor sobre gastos em IA",
      "resumo": "A fabricante de chips projetou receitas abaixo do esperado, citando uma explosão em sua fábrica em Israel e a desaceleração dos PCs; Nvidia, AMD e Qualcomm também caíram. Com o balanço da Amazon, que mostrou fluxo de caixa negativo pelos gastos com infraestrutura de IA, a Nasdaq foi ao menor nível em três meses.",
      "fontes": [
@@ -953,40 +913,8 @@
      ]
     },
     {
-     "kicker": "Criptomoedas",
-     "quando": "Hoje",
-     "titulo": "Tether e Circle congelam US$ 2,4 bilhões após ataque de US$ 6,3 bilhões à Binance",
-     "resumo": "As emissoras de stablecoins bloquearam parte dos recursos desviados, e a Binance diz que cerca de metade dos ativos já foi congelada e que cobrirá todas as perdas; os saques seguem suspensos. Empresas de rastreamento atribuem o ataque a hackers ligados à Coreia do Norte, e o bitcoin chegou a cair mais de 4%.",
-     "fontes": [
-      {
-       "n": "O Povo / BBC",
-       "u": "https://www.opovo.com.br/agencia/bbc/2026/10/30/binance-sofre-ataque-de-uss-63-bilhoes-em-possivel-maior-roubo-da-historia-das-criptomoedas.html"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/future-of-money/binance-sofre-ataque-hacker-estimado-em-us-27-bilhoes-o-maior-da-historia/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/hackers-da-coreia-do-norte-sao-suspeitos-de-roubo-de-us-6-bi-na-binance/"
-      }
-     ]
-    },
-    {
-     "kicker": "Espaço",
-     "quando": "Ontem",
-     "titulo": "Meteorito marciano de 4,1 bilhões de anos guarda sinais de água antiga em Marte",
-     "resumo": "Estudo publicado na Science por pesquisadores do Laboratório de Propulsão a Jato da Nasa analisou o Teghaza 001, rocha de cerca de 800 gramas achada no Saara, em Mali, em 2022. Minerais da amostra indicam interação com água no passado do planeta.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/ciencia/2026/10/30/meteorito-de-mais-de-4-bilhoes-de-anos-revela-pistas-sobre-agua-em-marte"
-      }
-     ]
-    },
-    {
      "kicker": "Meio ambiente",
-     "quando": "Ontem",
+     "quando": "29/10",
      "titulo": "Vegetação nativa do Brasil está mais fragmentada, aponta MapBiomas",
      "resumo": "Entre 1986 e 2024, o número de fragmentos de mata nativa passou de 2,35 milhões para 3,41 milhões, e o tamanho médio caiu 43%, segundo o módulo de degradação do MapBiomas apresentado na COP17 da biodiversidade, na Armênia. A Mata Atlântica tem os fragmentos mais numerosos e menores, com média de 25 hectares.",
      "foto": {
@@ -1013,8 +941,48 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
-     "kicker": "Morte",
+     "kicker": "Música",
      "quando": "Hoje",
+     "titulo": "BTS encerra neste sábado a passagem pelo Brasil com o terceiro show no MorumBIS",
+     "resumo": "O grupo sul-coreano voltou ao país depois de sete anos com a turnê “Arirang” e fez apresentações também na quarta e na sexta, com ingressos esgotados. Os portões abrem às 16h, e o show está marcado para as 20h.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/pop/bts-no-brasil-veja-horario-como-chegar-e-possivel-setlist-deste-sabado/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/diversao/musica/que-horas-comeca-o-show-do-bts-em-sao-paulo-no-sabado-31,d44e5560ba771725615ce3459b88bc95guajtpyd.html"
+      },
+      {
+       "n": "Billboard Brasil",
+       "u": "https://billboard.com.br/bts-shows-sp-morumbis-horarios-acessos-itens/"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "29/10",
+     "titulo": "Morre aos 76 anos o cantor Ruban, autor do sucesso “Cinderela”",
+     "resumo": "Ruban Barra morreu na noite de quinta, segundo a família, que anunciou a morte no perfil oficial do artista; ele estava internado em estado grave, e a causa não foi divulgada. O cantor e compositor ficou conhecido nos anos 1980 por canções românticas como “Cinderela” e “Vitrine”.",
+     "fontes": [
+      {
+       "n": "Diário do Pará",
+       "u": "https://diariodopara.com.br/entretenimento/morre-ruban-barra-cantor-cinderela-76-anos/"
+      },
+      {
+       "n": "TV Foco",
+       "u": "https://tvfoco.uai.com.br/luto-jornal-da-globo-confirma-morte-de-cantor-e-causa-comocao-2"
+      },
+      {
+       "n": "Portal Saiba Mais",
+       "u": "https://www.portalsaibamais.com.br/morre-o-cantor-ruban-do-hit-cinderela-aos-76-anos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Ontem",
      "titulo": "Elenco de X-Men resgata fotos para homenagear Patrick Stewart; família detalha doenças do ator",
      "resumo": "Hugh Jackman, Ian McKellen, James McAvoy, James Marsden e Rebecca Romijn publicaram imagens de bastidores com o ator, que morreu na quarta, aos 86 anos, em Los Angeles. Segundo a família, ele tinha Alzheimer e demência com corpos de Lewy; fãs também deixaram flores em sua estrela na Calçada da Fama.",
      "fontes": [
@@ -1037,24 +1005,8 @@
      ]
     },
     {
-     "kicker": "Música",
-     "quando": "Hoje",
-     "titulo": "Venda geral de ingressos para show de Pitbull em São Paulo começa nesta sexta",
-     "resumo": "O cantor volta ao Brasil depois de 13 anos para apresentação única em 31 de janeiro de 2027. Os ingressos estão na Ticketmaster e nas bilheterias, com preços de R$ 450 a R$ 890 a inteira.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://cnnbrasil.com.br/pop/musica/pitbull-no-brasil-venda-geral-de-ingressos-comeca-nesta-sexta-feira-30"
-      },
-      {
-       "n": "Portal Tela",
-       "u": "https://www.portaltela.com/entretenimento/2026/10/30/pitbull-volta-ao-brasil-em-2027-com-show-em-sp-confira-ingressos/"
-      }
-     ]
-    },
-    {
      "kicker": "TV",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Após dois adiamentos, beijo de Mau Mau e Felipe vai ao ar em “Quem Ama Cuida”",
      "resumo": "A cena da novela das nove da Globo, com João Victor Gonçalves e Pietro Antonelli, estava prevista para 20 de outubro e foi remarcada duas vezes. Segundo o Portal Leo Dias, a emissora orientou que o beijo fosse gravado de forma mais delicada.",
      "fontes": [
@@ -1069,28 +1021,8 @@
      ]
     },
     {
-     "kicker": "Reality",
-     "quando": "Ontem",
-     "titulo": "Atriz Giovanna Gold é a sexta eliminada de “A Fazenda 18”",
-     "resumo": "Ela deixou o programa da Record na roça de quinta, com 27,12% dos votos, contra Maíra Charken e Darlin Ferrattry. A edição já teve três desistências.",
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/divirtase/a-fazenda/2026/10/29/a-fazenda-18-quem-saiu-hoje-veja-6-eliminado-e-porcentagens.html"
-      },
-      {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/entretenimento/quem-saiu-de-a-fazenda-18-peoa-e-eliminada-em-roca-acirrada/"
-      },
-      {
-       "n": "Bahia Notícias",
-       "u": "https://www.bahianoticias.com.br/holofote/noticia/85982-a-fazenda-tem-nova-desistencia-apos-eliminacao-edicao-de-2026-conta-com-3-desistentes"
-      }
-     ]
-    },
-    {
      "kicker": "Cinema",
-     "quando": "Ontem",
+     "quando": "29/10",
      "titulo": "“100 Dias”, de Carlos Saldanha, estreia em semana de ingressos a R$ 12 para filmes nacionais",
      "resumo": "O filme sobre a travessia do Atlântico de Amyr Klink chega às salas com outros três brasileiros e com a animação “O Bosque Selvagem”, do estúdio Laika. O Festival do Cinema Brasileiro, com ingressos a R$ 12 nas redes participantes, vai até 4 de novembro.",
      "fontes": [
