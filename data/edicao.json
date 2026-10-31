@@ -1,10 +1,10 @@
 {
  "data": "Sábado, 31 de outubro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "31/10/2026 · 12h50 (Brasília)",
- "proxima": "Próxima atualização: 19h",
+ "edicao": "Edição da noite",
+ "atualizado": "31/10/2026 · 19h35 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
  "mercado_hora": "Cotações de 11h50 (bitcoin); B3 fechada no sábado",
- "fontes": 68,
+ "fontes": 75,
  "mercado": [
   {
    "nome": "Bitcoin · 11h50",
@@ -39,14 +39,9 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 31 · 16h",
-   "txt": "Coritiba x Vitória fecha a 33ª rodada do Brasileirão; às 18h, classificação do GP do México de Fórmula 1",
-   "cat": "esporte"
-  },
-  {
    "hora": "Sáb 31 · 20h e 21h",
    "txt": "BTS faz no MorumBIS o último show no Brasil; às 21h, Corinthians e Cruzeiro decidem a Libertadores Feminina em Quito",
-   "cat": "cultura"
+   "cat": "esporte"
   },
   {
    "hora": "Dom 1º/11",
@@ -55,7 +50,7 @@
   },
   {
    "hora": "Seg 2/11",
-   "txt": "Feriado nacional de Finados; Inmet prevê tempestades com granizo no Sul, Sudeste e Centro-Oeste a partir de domingo",
+   "txt": "Feriado de Finados com calor e risco de temporais no Sul, Sudeste e Centro-Oeste, segundo o Inmet",
    "cat": "brasil"
   },
   {
@@ -64,9 +59,14 @@
    "cat": "mundo"
   },
   {
-   "hora": "Qua 4/11 e Dom 8/11",
-   "txt": "Copom decide a Selic e PL deve oficializar Rogério Marinho na disputa pelo comando do Senado na quarta; primeiro dia do Enem no domingo, com portões fechando às 13h",
+   "hora": "Qua 4/11",
+   "txt": "Copom decide a Selic após o fechamento do mercado; PL deve oficializar Rogério Marinho na disputa pelo comando do Senado",
    "cat": "economia"
+  },
+  {
+   "hora": "Dom 8/11",
+   "txt": "Primeiro dia do Enem, com linguagens, ciências humanas e redação; portões fecham às 13h",
+   "cat": "educacao"
   }
  ],
  "acervo": [
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Oposição",
-  "titulo": "Carta de Flávio com tese de fraude é ignorada por três em cada quatro eleitos do PL; Itamaraty cobra Argentina por ajuda na saída do senador",
-  "resumo": "Levantamento do jornal O Globo mostra que 117 dos 155 eleitos pelo PL para o Congresso e os governos estaduais não se manifestaram sobre a carta em que Flávio Bolsonaro se diz o presidente eleito; 38 a compartilharam ou defenderam. Em Brasília, o Itamaraty convocou a encarregada de negócios da Argentina para explicar o suposto apoio de integrantes do governo Milei à viagem do senador aos EUA.",
+  "kicker": "Estados Unidos",
+  "titulo": "Rubio nega que os EUA tenham ajudado na saída de Flávio Bolsonaro do Brasil, mas confirma que Trump autorizou a entrada",
+  "resumo": "Em entrevista em Atlanta, durante a reunião de chanceleres do G20, o secretário de Estado americano disse que Washington não participou dos arranjos da viagem do senador. Segundo ele, Trump havia deixado claro que Flávio receberia uma autorização temporária de permanência se chegasse a um posto de entrada dos EUA, o que ocorreu.",
   "foto": {
    "src": "fotos/flavio.jpg",
    "credito": "Joédson Alves/Agência Brasil (arquivo)"
   },
-  "entenda": "Derrotado por Lula no segundo turno por 51,77% a 48,23%, Flávio Bolsonaro (PL-RJ) deixou o país pela fronteira com a Argentina, em Puerto Iguazú, depois de o ministro Alexandre de Moraes, do STF, mandar que entregasse os passaportes num inquérito que apura suspeita de lavagem de dinheiro e evasão de divisas; ele nega irregularidades e diz ser alvo de perseguição. Nos EUA, onde obteve autorização humanitária de um ano, o senador voltou a questionar o resultado confirmado pelo TSE, sem apresentar provas, e afirmou que pode disputar a Presidência antes de 2030. O presidente do PL, Valdemar Costa Neto, reconheceu a vitória de Lula na segunda-feira (26), e dirigentes do partido querem que Flávio abandone a tese de fraude. Aliados do senador falam em exílio; governistas pediram ao STF sua prisão.",
+  "entenda": "Derrotado por Lula no segundo turno de 25 de outubro, Flávio Bolsonaro (PL-RJ) deixou o país por terra entre 27 e 28 de outubro, cruzou a fronteira com a Argentina e seguiu de jato até Miami, com escala em Guayaquil, depois de o ministro Alexandre de Moraes, do STF, mandar que entregasse os passaportes num inquérito sobre suspeita de lavagem de dinheiro e evasão de divisas; ele nega irregularidades e diz ser alvo de perseguição. Nos EUA, recebeu com a família o chamado parole, autorização de permanência por um ano. Um advogado ligado a Trump havia dito que Rubio arquitetou a saída; o senador afirma que ninguém é responsável por ela e não disse quem pagou a viagem. Na sexta, o Itamaraty convocou a encarregada de negócios da Argentina para explicar o suposto apoio de integrantes do governo Milei.",
   "fatos": [
-   "A encarregada de negócios argentina, Maria Emília Cortés, foi recebida pelo diretor do Departamento de América do Sul do Itamaraty, segundo a Reuters; o governo argentino não se manifestou oficialmente.",
-   "Na carta, Flávio agradeceu a Javier Milei; a imprensa argentina relatou escolta da polícia aeroportuária até o embarque num jato fretado pelo governo dos EUA.",
-   "Nos EUA, parlamentares democratas pedem que o governo Trump explique ao Congresso seu papel na entrada do senador; Trump disse ter aprovado a entrada e que não pretende se envolver na disputa com Lula."
+   "Rubio afirmou que Flávio já tinha visto válido e que a decisão de deixá-lo entrar foi pessoal de Trump; disse que o governo não esteve “diretamente” envolvido na saída.",
+   "Rubio e o chanceler Mauro Vieira conversaram no G20 e combinaram nova reunião antes da cúpula de líderes em Miami, em dezembro; um integrante do governo brasileiro disse à Reuters que o Planalto não pretende politizar o episódio.",
+   "Levantamento do jornal O Globo mostra que 117 dos 155 eleitos pelo PL não se manifestaram sobre a carta em que Flávio se diz presidente eleito, sem apresentar provas de fraude."
   ],
   "fontes": [
    {
-    "n": "Bahia Notícias / O Globo",
-    "u": "https://www.bahianoticias.com.br/noticia/323209-carta-de-flavio-bolsonaro-com-alegacao-de-fraude-e-ignorada-por-75-dos-eleitos-do-pl-e-amplia-isolamento-do-senador",
-    "d": "Reação dos eleitos do PL"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/internacional/marco-rubio-nega-que-eua-tenham-facilitado-entrada-de-flavio-no-pais/",
+    "d": "Declaração de Rubio"
+   },
+   {
+    "n": "InfoMoney / Reuters",
+    "u": "https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/",
+    "d": "Aval de Trump"
+   },
+   {
+    "n": "O Tempo",
+    "u": "https://www.otempo.com.br/politica/2026/10/31/secretario-de-estado-nega-envolvimento-dos-eua-em-viagem-de-flavio-bolsonaro",
+    "d": "Roteiro da viagem"
+   },
+   {
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/eleicoes/ninguem-e-responsavel-pela-minha-saida-do-brasil-diz-flavio/",
+    "d": "Versão de Flávio"
+   },
+   {
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/mundo/advogado-ligado-trump-diz-flavio-chegou-eua-rubio-arquitetou-saida/",
+    "d": "Versão de aliado de Trump"
    },
    {
     "n": "Money Times / Reuters",
     "u": "https://www.moneytimes.com.br/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-fuga-de-flavio-bolsonaro/",
-    "d": "Convocação da diplomata"
-   },
-   {
-    "n": "Jornal de Brasília",
-    "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-flavio/",
     "d": "Itamaraty e Argentina"
-   },
-   {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/mundo/flavio-sugere-que-poderia-disputar-a-presidencia-novamente-antes-de-2030",
-    "d": "Live nos EUA"
-   },
-   {
-    "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/brasil/democratas-dos-eua-cobram-explicacoes-de-trump-sobre-saida-de-flavio-bolsonaro-do-brasil/",
-    "d": "Cobrança de democratas"
-   },
-   {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
-    "d": "Ordem sobre passaportes"
    }
   ]
  },
@@ -216,8 +216,74 @@
    "nota": "Brasil",
    "itens": [
     {
-     "kicker": "Governo",
+     "kicker": "Senado",
      "quando": "Hoje",
+     "titulo": "Carlos Bolsonaro visita o pai e reafirma apoio a Rogério Marinho para presidir o Senado",
+     "resumo": "Em vídeo nas redes, o senador eleito pelo PL disse que o grupo manterá a candidatura de Marinho contra a tentativa de reeleição de Davi Alcolumbre (União), em votação prevista para fevereiro; o partido recusou acordo e deve oficializar o nome na quarta (4). Carlos relatou preocupação com a saúde de Jair Bolsonaro, citando a volta das crises de soluço.",
+     "fontes": [
+      {
+       "n": "Tribuna do Agreste",
+       "u": "https://www.tribunadoagreste.com.br/geral/2026/10/31/1010808-carlos-bolsonaro-reafirma-apoio-a-rogerio-marinho-para-presidir-o-senado"
+      },
+      {
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/carlos-bolsonaro-reforca-apoio-a-marinho-para-presidencia-do-senado/"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/carlos-bolsonaro-visita-o-pai-e-relata-preocupacao-com-sua-saude"
+      },
+      {
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-congresso/pl-deve-lancar-marinho-a-presidencia-do-senado-em-4-de-novembro/"
+      }
+     ]
+    },
+    {
+     "kicker": "Oposição",
+     "quando": "Hoje",
+     "titulo": "Carta de Flávio com tese de fraude é ignorada por três em cada quatro eleitos do PL",
+     "resumo": "Segundo levantamento do jornal O Globo, 117 dos 155 eleitos pelo partido para o Congresso e os governos estaduais não comentaram a carta em que o senador se diz o presidente eleito; 38 a compartilharam ou defenderam. O presidente do PL, Valdemar Costa Neto, já reconheceu a vitória de Lula.",
+     "lados": [
+      {
+       "quem": "Flávio Bolsonaro",
+       "txt": "Questiona o resultado confirmado pelo TSE, sem apresentar provas, e diz que pode voltar a disputar a Presidência antes de 2030."
+      },
+      {
+       "quem": "Dirigentes do PL e governistas",
+       "txt": "Dirigentes do partido querem que ele abandone a tese de fraude; parlamentares governistas pediram ao STF sua prisão."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Bahia Notícias / O Globo",
+       "u": "https://www.bahianoticias.com.br/noticia/323209-carta-de-flavio-bolsonaro-com-alegacao-de-fraude-e-ignorada-por-75-dos-eleitos-do-pl-e-amplia-isolamento-do-senador"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/flavio-sugere-que-poderia-disputar-a-presidencia-novamente-antes-de-2030"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-flavio/"
+      }
+     ]
+    },
+    {
+     "kicker": "Congresso",
+     "quando": "Hoje",
+     "titulo": "Hugo Motta articula votação ainda em 2026 de PEC que adota o voto distrital misto",
+     "resumo": "O presidente da Câmara negocia com líderes a troca do sistema proporcional de lista aberta pelo modelo distrital misto, segundo o Metrópoles. A proposta divide partidos do Centrão e da oposição e, por ser emenda constitucional, precisa de 308 votos na Câmara, em dois turnos, e de 49 no Senado.",
+     "fontes": [
+      {
+       "n": "Correio / Metrópoles",
+       "u": "https://correio24horas.com.br/brasil/voto-distrital-misto-divide-centrao-e-oposicao-e-ganha-forca-no-congresso-1026"
+      }
+     ]
+    },
+    {
+     "kicker": "Governo",
+     "quando": "Ontem",
      "titulo": "Lula promete mais rigor na negociação de ministérios com partidos do Centrão",
      "resumo": "Segundo relatos publicados neste sábado, o presidente pretende vincular a entrega de pastas no novo mandato ao compromisso de votos das bancadas no Congresso. A montagem do ministério de 2027 começou nesta semana; o governador do Piauí, Rafael Fonteles, negou ter sido convidado para a Fazenda.",
      "fontes": [
@@ -244,38 +310,6 @@
      }
     },
     {
-     "kicker": "Congresso",
-     "quando": "Hoje",
-     "titulo": "Hugo Motta articula votação ainda em 2026 de PEC que adota o voto distrital misto",
-     "resumo": "O presidente da Câmara negocia com líderes a troca do sistema proporcional de lista aberta pelo modelo distrital misto, segundo o Metrópoles. A proposta divide partidos do Centrão e da oposição e, por ser emenda constitucional, precisa de 308 votos na Câmara, em dois turnos, e de 49 no Senado.",
-     "fontes": [
-      {
-       "n": "Correio / Metrópoles",
-       "u": "https://correio24horas.com.br/brasil/voto-distrital-misto-divide-centrao-e-oposicao-e-ganha-forca-no-congresso-1026"
-      }
-     ]
-    },
-    {
-     "kicker": "Senado",
-     "quando": "Ontem",
-     "titulo": "PL recusa acordo com Alcolumbre e deve lançar Rogério Marinho à presidência do Senado",
-     "resumo": "O partido terá 29 senadores a partir de fevereiro e, com os três eleitos do Novo, soma cerca de 32 votos; Alcolumbre busca 39 com União, PP, PT, PSB, PDT e Rede. A candidatura deve ser oficializada na quarta (4), e a votação secreta e os 16 votos ainda indefinidos de Republicanos, Podemos e PSDB mantêm a disputa aberta.",
-     "fontes": [
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/poder-e-governo/2026/10/30/1010220-pl-rejeita-acordo-com-alcolumbre-e-lanca-marinho-como-candidato"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-congresso/pl-deve-lancar-marinho-a-presidencia-do-senado-em-4-de-novembro/"
-      },
-      {
-       "n": "A Tarde",
-       "u": "https://atarde.com.br/politica/pl-lanca-rogerio-marinho-contra-reeleicao-de-alcolumbre-no-senado-1407729"
-      }
-     ]
-    },
-    {
      "kicker": "Governo",
      "quando": "Ontem",
      "titulo": "Lula confirma ida à COP31, na Turquia, onde passará a presidência da conferência do clima",
@@ -290,36 +324,6 @@
        "u": "https://www.poder360.com.br/poder-governo/lula-passara-bastao-na-cop31-e-buscara-continuidade-climatica/"
       }
      ]
-    },
-    {
-     "kicker": "Relações exteriores",
-     "quando": "Ontem",
-     "titulo": "Mauro Vieira e Rubio conversam no G20 e combinam reunião antes da cúpula de dezembro",
-     "resumo": "O chanceler e o secretário de Estado dos EUA se falaram rapidamente na recepção aos ministros do G20 em Atlanta, no primeiro contato de alto nível desde a eleição. Lula confirmou presença na cúpula de líderes em Miami, em 14 e 15 de dezembro, onde pode ter o primeiro encontro com Trump depois da reeleição.",
-     "lados": [
-      {
-       "quem": "Governo Trump",
-       "txt": "Trump ainda não reconheceu oficialmente a vitória de Lula e levantou suspeitas sobre a apuração, sem apresentar provas, mas disse que pretende conversar com o presidente brasileiro."
-      },
-      {
-       "quem": "Governo brasileiro",
-       "txt": "O Itamaraty trata o resultado certificado pelo TSE como encerrado; Vieira recebeu cumprimentos pela reeleição de chanceleres de outras delegações."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/mauro-vieira-e-marco-rubio-se-encontram-nos-estados-unidos-e-combinam-reuniao-em-meio-a-tensao-entre-brasil-e-eua-apos-eleicao/"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/politica/mauro-vieira-chega-aos-eua-para-o-g20-em-meio-ao-silencio-de-trump-sobre-lula/"
-      },
-      {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://www.diariodocentrodomundo.com.br/mauro-vieira-marco-rubio-cumprimento-g20-atlanta"
-      }
-     ]
     }
    ]
   },
@@ -327,7 +331,7 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado e indicadores · B3 fechada no sábado",
+   "nota": "Mercado e indicadores · B3 fechada no sábado; Copom na quarta",
    "itens": [
     {
      "kicker": "Câmbio",
@@ -350,22 +354,6 @@
       {
        "n": "Money Times",
        "u": "https://www.moneytimes.com.br/tempo-real-30-10-26-lils/"
-      }
-     ]
-    },
-    {
-     "kicker": "Criptomoedas",
-     "quando": "Hoje",
-     "titulo": "Com a bolsa fechada, bitcoin sobe 0,6% e é negociado perto de US$ 77,4 mil neste sábado",
-     "resumo": "Por volta das 11h50, a moeda digital avançava 0,58% em 24 horas, mas acumulava queda de 3,4% em sete dias, segundo dados do CoinMarketCap. Na sexta, chegou a cair abaixo de US$ 77 mil, o menor nível desde setembro, após o ataque de US$ 6,3 bilhões à Binance; investidores também acompanham a eleição americana de terça.",
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/"
-      },
-      {
-       "n": "BitNotícias",
-       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-31-de-outubro-de-2026/"
       }
      ]
     },
@@ -410,6 +398,22 @@
      ]
     },
     {
+     "kicker": "Criptomoedas",
+     "quando": "Hoje",
+     "titulo": "Com a bolsa fechada, bitcoin sobe 0,6% e é negociado perto de US$ 77,4 mil neste sábado",
+     "resumo": "Por volta das 11h50, a moeda digital avançava 0,58% em 24 horas, mas acumulava queda de 3,4% em sete dias, segundo dados do CoinMarketCap. Na sexta, chegou a cair abaixo de US$ 77 mil, o menor nível desde setembro, após o ataque de US$ 6,3 bilhões à Binance; investidores também acompanham a eleição americana de terça.",
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/"
+      },
+      {
+       "n": "BitNotícias",
+       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-31-de-outubro-de-2026/"
+      }
+     ]
+    },
+    {
      "kicker": "Conta de luz",
      "quando": "Ontem",
      "titulo": "Aneel mantém bandeira verde em novembro, sem cobrança extra na conta de luz",
@@ -434,26 +438,60 @@
    "nota": "Segurança, clima e cidades",
    "itens": [
     {
+     "kicker": "Mato Grosso do Sul",
+     "quando": "Hoje",
+     "titulo": "Governo amplia Força Nacional em aldeias Guarani Kaiowá após denúncias de ameaças depois da eleição",
+     "resumo": "Os ministros da Justiça, dos Povos Indígenas e dos Direitos Humanos visitaram as aldeias Sassoró, em Tacuru, e Taquapery, em Coronel Sapucaia, e anunciaram um sistema de resposta rápida acionado pela PF, pela PRF ou pelas polícias estaduais. A Apib registrou mais de 30 denúncias; depois de triagem, o governo recebeu dez, quatro no estado, e a PF já ouviu suspeitos de um áudio que ameaçava envenenar a água de Sassoró.",
+     "lados": [
+      {
+       "quem": "Governo federal",
+       "txt": "O ministro Eloy Terena diz que, por ora, só o caso do envenenamento tem ligação direta com crime político; os atropelamentos ainda são apurados e não foram descartados."
+      },
+      {
+       "quem": "Prefeitura de Tacuru",
+       "txt": "Confirmou o vínculo de servidores com a administração e afastou dois funcionários acusados de gravar as ameaças; não há confirmação de contaminação da água."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional"
+      },
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/10/31/todos-os-casos-estao-em-investigacao-afirma-ministra-dos-direitos-humanos-sobre-ameacas-a-indigenas-em-ms/"
+      },
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/10/7531429-ministros-de-lula-visitam-aldeias-em-ms-apos-onda-de-ataques-pos-eleicoes.html"
+      }
+     ]
+    },
+    {
      "kicker": "Feriadão",
      "quando": "Hoje",
-     "titulo": "Inmet mantém alerta de chuva forte no sábado e prevê tempestades com granizo no Sul, Sudeste e Centro-Oeste no domingo",
-     "resumo": "Neste sábado, o aviso amarelo vale para todo o Espírito Santo, Rondônia e Acre e para partes de Rio, Minas, Bahia, Amazonas, Pará, Tocantins e Mato Grosso, com até 50 mm de chuva e ventos de 60 km/h. No domingo, o alerta de tempestade inclui o Distrito Federal, quase todo o Mato Grosso do Sul e áreas de Paraná, São Paulo, Minas e Goiás.",
+     "titulo": "Feriado de Finados terá calor e risco de temporais com granizo no Sul, Sudeste e Centro-Oeste",
+     "resumo": "Segundo o Inmet, o calor e a umidade favorecem tempestades até o início da semana; no domingo, há risco de granizo no norte do Paraná, em partes de Minas, São Paulo, Goiás e Mato Grosso do Sul. No Nordeste, predominam sol e calor, com máximas de até 38 °C em Teresina, e a chuva segue concentrada no Amazonas, no Acre e em Rondônia.",
      "foto": {
       "src": "https://imagens.ebc.com.br/znTa6KJm1vEw9On3LoJ6HClroDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9067.jpg?itok=SgyT8Pu6",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/inmet-alerta-para-chuvas-no-norte-sudeste-e-centro-oeste"
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/10/31/finados-deve-ter-calor-e-risco-de-temporais-em-diferentes-regioes-do-brasil/"
       },
       {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/tempo/2026/10/30/feriado-de-finados-tem-alerta-de-chuva-forte-em-3-4-mil-cidades-e-bh-fica-na-lista-os-tres-dias"
       },
       {
-       "n": "Sou Brasília",
-       "u": "https://soubrasilia.com/feriadao-finados-df-previsao-inmet-chuva-trovoadas-aviso-amarelo-30-31-outubro-2026/"
+       "n": "Canal Rural",
+       "u": "https://www.canalrural.com.br/previsao-do-tempo/chuva-trovoadas-e-risco-para-queda-de-granizo-o-que-esperar-do-tempo-no-feriado-de-finados/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/inmet-alerta-para-chuvas-no-norte-sudeste-e-centro-oeste"
       }
      ]
     },
@@ -492,18 +530,6 @@
        "u": "https://agorarn.com.br/policia/infarto-de-motorista-provoca-acidente/"
       }
      ]
-    },
-    {
-     "kicker": "Turismo",
-     "quando": "Ontem",
-     "titulo": "Temporada de cruzeiros começa com previsão de R$ 4,7 bilhões em movimentação",
-     "resumo": "Até 9 de abril, oito navios farão roteiros pela costa brasileira e outros 28, de longo curso, devem fazer mais de 200 escalas, segundo o Ministério do Turismo. Santos lidera as projeções, seguida por Rio de Janeiro e Balneário Camboriú, e a pasta espera superar os 72 mil empregos da temporada anterior.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/temporada-de-cruzeiros-comeca-na-sexta-com-projecao-de-mais-empregos"
-      }
-     ]
     }
    ]
   },
@@ -514,10 +540,30 @@
    "nota": "Internacional",
    "itens": [
     {
+     "kicker": "Europa",
+     "quando": "Hoje",
+     "titulo": "Protestos contra o custo de vida levam 320 mil às ruas na França e têm confrontos; Alemanha também tem atos",
+     "resumo": "No terceiro fim de semana seguido de manifestações, as autoridades francesas contaram cerca de 320 mil pessoas, 70 mil delas em Paris; os organizadores falam em 500 mil, e o governo informou mais de 290 detidos, com confrontos em Paris, Lyon, Marselha, Rennes e Toulouse. Na Alemanha, atos de jovens contra o custo de vida e o possível retorno do serviço militar tiveram uso de canhões de água; sindicatos franceses convocam greve nacional para 5 de novembro.",
+     "fontes": [
+      {
+       "n": "Jovem Pan / AFP",
+       "u": "https://jovempan.com.br/mundo/franca-protestos-custo-de-vida-confrontos-presos"
+      },
+      {
+       "n": "CNN Portugal",
+       "u": "https://cnnportugal.iol.pt/manifestacoes/europa/halloween-sob-tensao-na-europa-protestos-alastram-a-alemanha-e-franca-com-mais-70-mil-policias-mobilizados/20261031/6ae61581d34e9a786e75ea47"
+      },
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/10/31/protestos-contra-custo-de-vida-e-desigualdade-levam-multidao-as-ruas-na-franca-e-na-alemanha-neste-sabado-31/"
+      }
+     ]
+    },
+    {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Drones russos atingem a rede elétrica nas regiões de Kiev e Dnipropetrovsk e deixam 280 mil famílias sem luz",
-     "resumo": "Zelensky disse que os ataques criaram uma situação difícil no fornecimento de energia e pediu ajuda europeia para conter a escalada. O presidente ucraniano também cobra dos EUA mais rapidez na entrega de 500 mísseis Patriot, enquanto moradores retirados de Oleshky, sob ocupação russa, chegam à Bielorrússia.",
+     "titulo": "Drones russos deixam 280 mil famílias sem luz na Ucrânia; ataque ucraniano mata duas pessoas na Rússia",
+     "resumo": "Os ataques russos atingiram a rede elétrica nas regiões de Kiev e Dnipropetrovsk, e Zelensky pediu ajuda europeia e mais rapidez na entrega de mísseis Patriot pelos EUA. Do lado russo, um governador regional disse que um drone atingiu uma casa na vila de Klimovo, com dois mortos e cinco feridos; Kiev afirma ter atingido uma fábrica de combustível para mísseis na região de Rostov.",
      "fontes": [
       {
        "n": "CNN Brasil",
@@ -528,16 +574,16 @@
        "u": "https://pt.euronews.com/video/2026/10/31/noticias-do-dia-31-de-outubro-2026-tarde"
       },
       {
-       "n": "Renascença",
-       "u": "https://rr.pt/noticia/mundo/2026/10/31/moradores-de-oleshky-chegam-a-bielorrussia-russia-e-ucrania-trocam-novos-ataques/491501/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/ataque-ucraniano-mata-pessoas-na-russia-diz-governador/"
       }
      ]
     },
     {
      "kicker": "Oriente Médio",
-     "quando": "Ontem",
-     "titulo": "Irã diz que três petroleiros pegaram fogo em Ormuz; Omã resgata 25 tripulantes de outro navio",
-     "resumo": "Segundo a Guarda Revolucionária, os navios tentavam passar por rotas não autorizadas por Teerã, sem dizer a causa dos incêndios; separadamente, a Marinha de Omã retirou a tripulação de um navio panamenho atacado perto de Musandam. Trump disse que a guerra com o Irã vai acabar em breve, e o Brent fechou em alta de 2,37%, a US$ 113,43.",
+     "quando": "Hoje",
+     "titulo": "Rubio diz que Trump ainda não decidiu se retoma ataques ao Irã; negociação mediada pelo Catar segue em Doha",
+     "resumo": "Segundo o secretário de Estado, Trump prefere uma solução diplomática, mas os EUA estão prontos para agir se ele julgar necessário. Na sexta, a Guarda Revolucionária disse que petroleiros pegaram fogo ao tentar cruzar o Estreito de Ormuz por rotas não autorizadas por Teerã, e Omã resgatou 25 tripulantes de outro navio; o Brent fechou a semana em alta.",
      "lados": [
       {
        "quem": "Irã",
@@ -550,20 +596,36 @@
      ],
      "fontes": [
       {
+       "n": "InfoMoney / Reuters",
+       "u": "https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/"
+      },
+      {
        "n": "Euronews",
        "u": "https://pt.euronews.com/2026/10/30/guarda-revolucionaria-do-irao-diz-que-dois-petroleiros-se-incendiaram-no-estreito-de-ormuz"
       },
       {
        "n": "SBT News",
        "u": "https://sbtnews.sbt.com.br/noticia/mundo/tres-petroleiros-pegam-fogo-em-ormuz-diz-marinha-iraniana"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Ontem",
+     "titulo": "A três dias das eleições de meio de mandato, projeções apontam risco de republicanos perderem a Câmara e o Senado",
+     "resumo": "Os republicanos têm hoje 53 das 100 cadeiras do Senado e a maioria na Câmara; pesquisas citadas por analistas indicam vantagem democrata na disputa pela Câmara e um Senado mais equilibrado. A votação é na terça (3), e mais de 36 milhões de americanos já haviam votado antecipadamente até o meio da semana.",
+     "fontes": [
+      {
+       "n": "Transmissão Política",
+       "u": "https://transmissaopolitica.com.br/politica-internacional/2026/10/30/eleicoes-eua-projecao-democratas-congresso-2026/"
       },
       {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mundo/trump-guerra-com-ira-acabara-em-breve-de-um-jeito-ou-de-outro/"
+       "u": "https://www.infomoney.com.br/mundo/o-que-as-pesquisas-indicam-sobre-as-midterms-nos-eua-e-para-o-governo-trump/"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/mundo/petroleo/petroleo-fecha-em-alta-com-incertezas-sobre-negociacoes-entre-estados-unidos-e-ira"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/mundo/2026/10/27/eleicoes-de-meio-de-mandato-pesquisas-apontam-derrota-para-partido-de-trump"
       }
      ]
     },
@@ -586,56 +648,6 @@
        "u": "https://www.opovo.com.br/noticias/mundo/2026/10/29/coreia-do-norte-dispara-misseis-ao-mar-em-meio-a-escalada-de-tensao-com-o-sul.html"
       }
      ]
-    },
-    {
-     "kicker": "Israel",
-     "quando": "Ontem",
-     "titulo": "Sem maioria para Netanyahu, Herzog começa a definir quem tentará formar o governo",
-     "resumo": "O Likud foi o partido mais votado, com 27 cadeiras, seguido pelo Yashar, de Gadi Eisenkot (21), pelo Juntos, de Naftali Bennett (12), e pela Lista Conjunta árabe (11); o bloco do premiê somou 53 das 120. O indicado pelo presidente terá 28 dias, prorrogáveis por 14, para montar uma coalizão; se ninguém conseguir, pode haver nova eleição.",
-     "lados": [
-      {
-       "quem": "Netanyahu e Likud",
-       "txt": "Afirmam, sem apresentar provas, que partidos árabes “roubaram” a eleição com ajuda externa e rejeitam qualquer coalizão que dependa deles; o Catar, citado por integrantes do Likud, nega."
-      },
-      {
-       "quem": "Oposição",
-       "txt": "Acusa o premiê de demonizar a minoria árabe, cerca de 20% da população, e articula com bancadas árabes a eleição do presidente do Parlamento."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/eleicao-em-israel-o-que-acontece-apos-netanyahu-nao-conseguir-maioria/"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-internacional/bloco-de-netanyahu-perde-maioria-no-parlamento-em-israel/"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/video/2026/10/31/noticias-do-dia-31-de-outubro-2026-manha"
-      }
-     ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "28/10",
-     "titulo": "A cinco dias das eleições de meio de mandato, mais de 36 milhões de americanos já votaram",
-     "resumo": "Os republicanos têm 53 das 100 cadeiras do Senado, e analistas veem boas chances de os democratas conquistarem a maioria na Câmara. Trump fez campanha em Ohio e Obama, na Geórgia; a votação é na terça (3).",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/trump-e-obama-intensificam-campanha-na-reta-final-das-eleicoes-nos-eua/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mundo/o-que-as-pesquisas-indicam-sobre-as-midterms-nos-eua-e-para-o-governo-trump/"
-      },
-      {
-       "n": "Congresso em Foco",
-       "u": "https://www.congressoemfoco.com.br/noticia/129665/midterms-eleicoes-dos-eua-na-proxima-terca-testam-forca-de-trump"
-      }
-     ]
     }
    ]
   },
@@ -645,6 +657,50 @@
    "cor": "--esp",
    "nota": "Futebol e outros esportes",
    "itens": [
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Coritiba vence o Vitória por 2 a 0 e se afasta da zona de rebaixamento",
+     "resumo": "Pedro Rocha e Tinga marcaram no início do segundo tempo no Couto Pereira, e o Coritiba voltou a vencer depois de dois meses, chegando a 42 pontos, em 11º. O Vitória, 14º com 38, segue dois pontos à frente do Corinthians, primeiro time da zona de rebaixamento, com 36.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/coritiba-vence-o-vitoria-e-se-afasta-da-zona-de-rebaixamento-do-brasileirao"
+      },
+      {
+       "n": "Campo Grande News",
+       "u": "https://www.campograndenews.com.br/esportes/apos-dois-meses-sem-vencer-coritiba-bate-vitoria-por-2-a-0-no-brasileirao"
+      },
+      {
+       "n": "365Scores",
+       "u": "https://www.365scores.com/pt-br/news/magazine/coritiba-vence-vitoria-afasta-z4-brasileirao/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "Bortoleto larga em 14º no GP do México; Antonelli pode ser campeão neste domingo",
+     "resumo": "O brasileiro da Audi passou ao Q2 na classificação deste sábado, depois de abandonar o último treino livre, liderado por Lando Norris com 0s001 de vantagem sobre Kimi Antonelli. O italiano da Mercedes soma 365 pontos, 123 à frente de George Russell, e garante o título se terminar entre os nove primeiros; a corrida é às 17h (Brasília).",
+     "fontes": [
+      {
+       "n": "F1Mania",
+       "u": "https://f1mania.net/f1/f1-bortoleto-participa-da-classificacao-e-larga-em-14o-no-gp-do-mexico"
+      },
+      {
+       "n": "Grande Prêmio",
+       "u": "https://grandepremio.com/br/f1/norris-bate-antonelli-por-0s001-e-lidera-tl3-do-gp-da-cidade-do-mexico-bortoleto-abandona/"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/formula-1/ao-vivo-siga-a-classificacao-do-gp-do-mexico-etapa-da-f1.html"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/esportes/antonelli-gp-do-mexico-titulo-f1"
+      }
+     ]
+    },
     {
      "kicker": "Libertadores Feminina",
      "quando": "Hoje",
@@ -666,62 +722,22 @@
      ]
     },
     {
-     "kicker": "Fórmula 1",
+     "kicker": "Copa do Brasil",
      "quando": "Hoje",
-     "titulo": "F1 define o grid do GP do México às 18h; Antonelli é campeão no domingo se terminar entre os nove primeiros",
-     "resumo": "Charles Leclerc, da Ferrari, liderou os dois treinos de sexta, com Kimi Antonelli em quarto e Gabriel Bortoleto em último no segundo. O italiano da Mercedes soma 365 pontos, contra 242 de George Russell e 241 de Lewis Hamilton; a corrida é no domingo, às 17h.",
+     "titulo": "Palmeiras recebe o Vasco neste domingo, às 16h, na ida da semifinal da Copa do Brasil",
+     "resumo": "O Palmeiras fez neste sábado o último treino antes do jogo no Allianz Parque; o Vasco chega depois da goleada sofrida para o Flamengo pelo Brasileirão. A volta, em São Januário, define um dos finalistas.",
      "fontes": [
       {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/tem-f1-hoje-veja-horarios-do-tl3-e-da-classificacao-do-gp-do-mexico/"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-faz-ultimo-treino-antes-de-enfrentar-o-vasco-pela-semifinal-da-copa-do-brasil/"
+      },
+      {
+       "n": "Diário do Rio",
+       "u": "https://diariodorio.com/esporte/2026/10/31/palmeiras-x-vasco-onde-assistir-ao-vivo-ao-jogo-de-ida-da-semifinal-da-copa-do-brasil.html"
       },
       {
        "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-leclerc-lidera-tl2-do-mexico-bortoleto-e-ultimo,a7919647346f01b8f9a2e3cb20a8d511ta9clsx4.html"
-      },
-      {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-antonelli-fica-perto-do-titulo-no-mexico-mas-ferrari-e-mclaren-ameacam-seus-planos/"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Hoje",
-     "titulo": "Coritiba recebe o Vitória às 16h no Couto Pereira e encerra a 33ª rodada",
-     "resumo": "O jogo fecha a rodada que teve a goleada do Flamengo sobre o Vasco e a vitória do Corinthians sobre o Mirassol. No domingo, a atenção passa para a Copa do Brasil, com Palmeiras x Vasco na ida da semifinal.",
-     "fontes": [
-      {
-       "n": "Bahia.ba",
-       "u": "https://bahia.ba/esporte/vitoria-visita-o-coritiba-em-encerramento-da-33a-rodada-do-brasileirao/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/onde-assistir/coritiba-x-vitoria-onde-assistir-horario-e-escalacoes.html"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/coritiba-x-vitoria-onde-assistir-e-provaveis-escalacoes"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Corinthians vence o Mirassol por 2 a 0 e encerra jejum, mas segue na zona de rebaixamento",
-     "resumo": "Matheus Bidu e Kaio César marcaram no segundo tempo na Neo Química Arena, depois da expulsão de Bruno Santos, do Mirassol, ainda na primeira etapa; foi a primeira vitória do time em 11 jogos. O Corinthians é o 17º, com 36 pontos, um a menos que o Mirassol, e enfrenta o São Paulo na quarta.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-corinthians-bate-mirassol-e-volta-a-vencer-apos-11-jogos"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-mirassol-e-segue-vivo-contra-rebaixamento/"
-      },
-      {
-       "n": "VAVEL Brasil",
-       "u": "https://www.vavel.com/br/futebol/2026/10/30/1277248-corinthians-x-mirassol-ao-vivo-brasileirao.html"
+       "u": "https://www.terra.com.br/esportes/palmeiras-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes-pela-copa-do-brasil,d258601c8a74156337da75dc47ff43b19fn56xv5.html"
       }
      ]
     },
@@ -753,6 +769,22 @@
    "cor": "--sau",
    "nota": "",
    "itens": [
+    {
+     "kicker": "Ebola",
+     "quando": "Hoje",
+     "titulo": "Surto de ebola passa de 5 mil mortes no Congo, com letalidade perto de 50%",
+     "resumo": "Segundo o Ministério da Saúde congolês, são 10.351 infecções e 5.026 mortes desde maio, em oito das 26 províncias, sobretudo Ituri e Kivu do Norte; é o segundo surto mais letal já registrado. Causado pela espécie Bundibugyo, não tem vacina nem tratamento aprovados, e Quênia e Nigéria confirmaram casos em outubro.",
+     "fontes": [
+      {
+       "n": "O Liberal / Estadão Conteúdo",
+       "u": "https://www.oliberal.com/variedades/ebola-ultrapassa-5-mil-mortes-no-congo-e-atinge-letalidade-proxima-de-50-1.1189177"
+      },
+      {
+       "n": "Portal de Prefeitura",
+       "u": "https://portaldeprefeitura.com.br/mundo/ebola-ultrapassa-mortes-no-congo-atinge-letalidade-proxima/635297/"
+      }
+     ]
+    },
     {
      "kicker": "SUS",
      "quando": "Ontem",
@@ -854,6 +886,26 @@
      }
     },
     {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "A uma semana do Enem, especialistas recomendam revisão leve e conferência do local de prova",
+     "resumo": "O exame será aplicado nos domingos 8 e 15 de novembro, com portões abertos ao meio-dia e fechados às 13h (Brasília). A orientação é revisar conteúdos sem sobrecarga, manter o sono regular e checar com antecedência o cartão de confirmação e o trajeto até o local.",
+     "fontes": [
+      {
+       "n": "A Tarde",
+       "u": "https://atarde.com.br/educacao/enem/enem-2026-veja-como-se-preparar-nos-ultimos-dias-antes-da-prova-1407558"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-10/especial-enem-2026-exame-sera-aplicado-nos-dias-8-e-15-de-novembro"
+      },
+      {
+       "n": "Bem Paraná",
+       "u": "https://www.bemparana.com.br/noticias/parana/reta-final-para-o-enem-nao-e-so-de-estudo-veja-dicas-do-que-fazer-na-ultima-semana-antes-das-provas/"
+      }
+     ]
+    },
+    {
      "kicker": "Escolas públicas",
      "quando": "29/10",
      "titulo": "Termina neste sábado o prazo para escolas regularizarem pendências com o FNDE e receberem verba do PDDE Equidade",
@@ -934,6 +986,22 @@
      ]
     },
     {
+     "kicker": "Inteligência artificial",
+     "quando": "Ontem",
+     "titulo": "Google liga chips de IA em satélite e testa ideia de data centers no espaço",
+     "resumo": "No Project Suncatcher, os processadores TPU foram acionados em órbita e rodaram o modelo Gemma 4, que respondeu a comandos e escreveu um haicai sobre a Terra vista do espaço. A próxima fase testa os chips sob radiação e variação de temperatura; a meta para 2027 é ter dois satélites interligados.",
+     "fontes": [
+      {
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/2026/10/30/pro/google-testa-ia-em-satelite-e-avanca-em-projeto-de-data-centers-espaciais"
+      },
+      {
+       "n": "Gizmodo Brasil",
+       "u": "https://gizmodo.com.br/google-coloca-inteligencia-artificial-no-espaco-e-satelite-envia-primeira-mensagem-a-terra-73505"
+      }
+     ]
+    },
+    {
      "kicker": "Tecnologia",
      "quando": "Ontem",
      "titulo": "Intel despenca 28% e Nasdaq fecha em queda de 2,86% com temor sobre gastos em IA",
@@ -986,22 +1054,22 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
-     "kicker": "Morte",
+     "kicker": "Luto",
      "quando": "Hoje",
-     "titulo": "Morre aos 87 anos Solano Ribeiro, criador dos festivais de música popular na TV",
-     "resumo": "O produtor e crítico morreu na madrugada deste sábado em São Paulo, onde tratava um câncer, segundo a família. Organizou festivais na Excelsior, Record, Globo e Tupi, que revelaram nomes como Elis Regina e Chico Buarque, e comandava desde 2006 um programa na Rádio Cultura Brasil.",
+     "titulo": "Morre Mulher Banana, cantora do funk carioca dos anos 2000 e ex-Furacão 2000",
+     "resumo": "Julyana Barbosa, também conhecida como Garota X, ganhou projeção nacional com o sucesso que lhe deu o nome artístico e é lembrada como uma das primeiras artistas trans com visibilidade no funk. A causa da morte não foi divulgada; Tati Quebra Barraco e outros artistas prestaram homenagens.",
      "fontes": [
       {
-       "n": "Diário do Centro do Mundo / g1",
-       "u": "https://www.diariodocentrodomundo.com.br/morre-solano-ribeiro-produtor-festivais-mpb-87-anos"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/celebridades/morre-mulher-banana-veterana-do-funk-e-ex-furacao-2000"
       },
       {
-       "n": "Midiamax",
-       "u": "https://midiamax.com.br/midiamais/famosos/2026/critico-produtor-musical-solano-ribeiro-morre-87-anos/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/diversao/gente/morre-mulher-banana-ex-furacao-2000-e-icone-do-funk-carioca,6ae2b26d274c9580dbd7d80e5cb607effc0ei4b5.html"
       },
       {
-       "n": "Folha de Curitiba",
-       "u": "https://folhadecuritiba.com.br/solano-ribeiro-criador-dos-festivais-de-mpb-na-tv-morre-aos-87-anos/"
+       "n": "Imirante",
+       "u": "https://m.imirante.com/entretenimento/brasil/2026/10/31/morre-mulher-banana-ex-furacao-2000-pioneira-trans-funk"
       }
      ]
     },
@@ -1022,6 +1090,26 @@
       {
        "n": "Billboard Brasil",
        "u": "https://billboard.com.br/bts-shows-sp-morumbis-horarios-acessos-itens/"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre aos 87 anos Solano Ribeiro, criador dos festivais de música popular na TV",
+     "resumo": "O produtor e crítico morreu na madrugada deste sábado em São Paulo, onde tratava um câncer, segundo a família. Organizou festivais na Excelsior, Record, Globo e Tupi, que revelaram nomes como Elis Regina e Chico Buarque, e comandava desde 2006 um programa na Rádio Cultura Brasil.",
+     "fontes": [
+      {
+       "n": "Diário do Centro do Mundo / g1",
+       "u": "https://www.diariodocentrodomundo.com.br/morre-solano-ribeiro-produtor-festivais-mpb-87-anos"
+      },
+      {
+       "n": "Midiamax",
+       "u": "https://midiamax.com.br/midiamais/famosos/2026/critico-produtor-musical-solano-ribeiro-morre-87-anos/"
+      },
+      {
+       "n": "Folha de Curitiba",
+       "u": "https://folhadecuritiba.com.br/solano-ribeiro-criador-dos-festivais-de-mpb-na-tv-morre-aos-87-anos/"
       }
      ]
     },
@@ -1062,26 +1150,6 @@
       {
        "n": "O Planeta TV",
        "u": "https://oplanetatv.clickgratis.com.br/noticias/novelas/globo-finalmente-exibe-beijo-de-felipe-e-mau-mau-em-quem-ama-cuida.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "29/10",
-     "titulo": "Morre aos 76 anos o cantor Ruban, autor do sucesso “Cinderela”",
-     "resumo": "Ruban Barra morreu na noite de quinta, segundo a família, que anunciou a morte no perfil oficial do artista; ele estava internado em estado grave, e a causa não foi divulgada. O cantor e compositor ficou conhecido nos anos 1980 por canções românticas como “Cinderela” e “Vitrine”.",
-     "fontes": [
-      {
-       "n": "Diário do Pará",
-       "u": "https://diariodopara.com.br/entretenimento/morre-ruban-barra-cantor-cinderela-76-anos/"
-      },
-      {
-       "n": "TV Foco",
-       "u": "https://tvfoco.uai.com.br/luto-jornal-da-globo-confirma-morte-de-cantor-e-causa-comocao-2"
-      },
-      {
-       "n": "Portal Saiba Mais",
-       "u": "https://www.portalsaibamais.com.br/morre-o-cantor-ruban-do-hit-cinderela-aos-76-anos/"
       }
      ]
     }
