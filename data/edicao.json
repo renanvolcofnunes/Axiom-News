@@ -1,16 +1,16 @@
 {
- "data": "Sábado, 31 de outubro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "31/10/2026 · 19h35 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 11h50 (bitcoin); B3 fechada no sábado",
- "fontes": 75,
+ "data": "Domingo, 1º de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "01/11/2026 · 07h06 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de 01h (bitcoin); B3 fechada no fim de semana",
+ "fontes": 71,
  "mercado": [
   {
-   "nome": "Bitcoin · 11h50",
-   "valor": "US$ 77.410",
-   "var": "+0,58% em 24h",
-   "dir": "up"
+   "nome": "Bitcoin · 01h",
+   "valor": "US$ 77.675",
+   "var": "estável em 24h",
+   "dir": ""
   },
   {
    "nome": "Ibovespa · fechamento 30/10",
@@ -39,18 +39,18 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 31 · 20h e 21h",
-   "txt": "BTS faz no MorumBIS o último show no Brasil; às 21h, Corinthians e Cruzeiro decidem a Libertadores Feminina em Quito",
-   "cat": "esporte"
+   "hora": "Dom 1º/11 · 13h",
+   "txt": "Fuvest aplica a primeira fase do vestibular da USP; portões fecham às 13h e a prova vai até 18h",
+   "cat": "educacao"
   },
   {
-   "hora": "Dom 1º/11",
-   "txt": "Palmeiras x Vasco, ida da semifinal da Copa do Brasil, às 16h; GP do México às 17h, e Antonelli é campeão se terminar entre os nove primeiros",
+   "hora": "Dom 1º/11 · 16h e 17h",
+   "txt": "Palmeiras x Vasco, ida da semifinal da Copa do Brasil; às 17h, GP do México, e Antonelli é campeão se terminar entre os nove primeiros",
    "cat": "esporte"
   },
   {
    "hora": "Seg 2/11",
-   "txt": "Feriado de Finados com calor e risco de temporais no Sul, Sudeste e Centro-Oeste, segundo o Inmet",
+   "txt": "Feriado de Finados com alerta de tempestades em Minas até 9h e risco de temporais no Sul, Sudeste e Centro-Oeste",
    "cat": "brasil"
   },
   {
@@ -163,48 +163,48 @@
  ],
  "manchete": {
   "kicker": "Estados Unidos",
-  "titulo": "Rubio nega que os EUA tenham ajudado na saída de Flávio Bolsonaro do Brasil, mas confirma que Trump autorizou a entrada",
-  "resumo": "Em entrevista em Atlanta, durante a reunião de chanceleres do G20, o secretário de Estado americano disse que Washington não participou dos arranjos da viagem do senador. Segundo ele, Trump havia deixado claro que Flávio receberia uma autorização temporária de permanência se chegasse a um posto de entrada dos EUA, o que ocorreu.",
+  "titulo": "Trump diz que Flávio Bolsonaro pode ficar nos EUA “o tempo que quiser” e volta a pôr em dúvida a eleição brasileira",
+  "resumo": "Em Mar-a-Lago, na Flórida, o presidente americano disse neste sábado que não pretende se encontrar com o senador, mas que ele foi maltratado no Brasil e pode permanecer no país. Trump voltou a criticar a eleição vencida por Lula, sem apresentar provas, e não endossou a tentativa de Flávio de se apresentar como presidente eleito.",
   "foto": {
    "src": "fotos/flavio.jpg",
    "credito": "Joédson Alves/Agência Brasil (arquivo)"
   },
-  "entenda": "Derrotado por Lula no segundo turno de 25 de outubro, Flávio Bolsonaro (PL-RJ) deixou o país por terra entre 27 e 28 de outubro, cruzou a fronteira com a Argentina e seguiu de jato até Miami, com escala em Guayaquil, depois de o ministro Alexandre de Moraes, do STF, mandar que entregasse os passaportes num inquérito sobre suspeita de lavagem de dinheiro e evasão de divisas; ele nega irregularidades e diz ser alvo de perseguição. Nos EUA, recebeu com a família o chamado parole, autorização de permanência por um ano. Um advogado ligado a Trump havia dito que Rubio arquitetou a saída; o senador afirma que ninguém é responsável por ela e não disse quem pagou a viagem. Na sexta, o Itamaraty convocou a encarregada de negócios da Argentina para explicar o suposto apoio de integrantes do governo Milei.",
+  "entenda": "Derrotado por Lula no segundo turno de 25 de outubro, Flávio Bolsonaro (PL-RJ) deixou o Brasil por terra pela Argentina, depois de o ministro Alexandre de Moraes, do STF, mandar que entregasse os passaportes num inquérito sobre suspeita de lavagem de dinheiro e evasão de divisas; ele nega irregularidades e diz ser alvo de perseguição. Chegou a Miami em 28 de outubro, com escala no Equador, e recebeu com a família o chamado parole, autorização humanitária de permanência que costuma valer por um ano. No mesmo sábado, em Atlanta, o secretário de Estado Marco Rubio negou que os EUA tenham ajudado na saída, mas confirmou que Trump autorizou a entrada. Na Argentina, a Justiça Federal de Misiones arquivou uma denúncia sobre a passagem do senador pelo país. O Planalto tem evitado responder às falas de Trump sobre a eleição.",
   "fatos": [
-   "Rubio afirmou que Flávio já tinha visto válido e que a decisão de deixá-lo entrar foi pessoal de Trump; disse que o governo não esteve “diretamente” envolvido na saída.",
-   "Rubio e o chanceler Mauro Vieira conversaram no G20 e combinaram nova reunião antes da cúpula de líderes em Miami, em dezembro; um integrante do governo brasileiro disse à Reuters que o Planalto não pretende politizar o episódio.",
-   "Levantamento do jornal O Globo mostra que 117 dos 155 eleitos pelo PL não se manifestaram sobre a carta em que Flávio se diz presidente eleito, sem apresentar provas de fraude."
+   "Trump disse que não tem planos de se reunir com Flávio e que o senador pode ficar nos EUA pelo tempo que quiser.",
+   "O presidente americano voltou a chamar a eleição brasileira de desastre, sem apresentar provas; o TSE confirmou a vitória de Lula.",
+   "Desde a fala de Trump de 26 de outubro, o governo Lula optou por não reagir publicamente; Alckmin disse na ocasião que não se interfere na política de outro país."
   ],
   "fontes": [
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/internacional/marco-rubio-nega-que-eua-tenham-facilitado-entrada-de-flavio-no-pais/",
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/mundo/trump-diz-nao-ter-planos-para-se-encontrar-com-flavio-bolsonaro-nos-eua",
+    "d": "Fala de Trump"
+   },
+   {
+    "n": "O Antagonista",
+    "u": "https://oantagonista.com.br/mundo/trump-diz-nao-ter-planos-de-encontrar-flavio-bolsonaro/",
+    "d": "Críticas à eleição"
+   },
+   {
+    "n": "Al Jazeera / Reuters",
+    "u": "https://www.aljazeera.com/news/2026/11/1/flavio",
     "d": "Declaração de Rubio"
    },
    {
-    "n": "InfoMoney / Reuters",
-    "u": "https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/",
-    "d": "Aval de Trump"
-   },
-   {
-    "n": "O Tempo",
-    "u": "https://www.otempo.com.br/politica/2026/10/31/secretario-de-estado-nega-envolvimento-dos-eua-em-viagem-de-flavio-bolsonaro",
-    "d": "Roteiro da viagem"
-   },
-   {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/eleicoes/ninguem-e-responsavel-pela-minha-saida-do-brasil-diz-flavio/",
-    "d": "Versão de Flávio"
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/eleicoes/planalto-nao-vai-reagir-a-fala-de-trump-2",
+    "d": "Posição do Planalto"
    },
    {
     "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/mundo/advogado-ligado-trump-diz-flavio-chegou-eua-rubio-arquitetou-saida/",
-    "d": "Versão de aliado de Trump"
+    "u": "https://www.gazetadopovo.com.br/republica/moraes-sera-relator-de-novo-inquerito-contra-flavio-bolsonaro-no-stf/",
+    "d": "Inquérito no STF"
    },
    {
-    "n": "Money Times / Reuters",
-    "u": "https://www.moneytimes.com.br/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-fuga-de-flavio-bolsonaro/",
-    "d": "Itamaraty e Argentina"
+    "n": "Sou Brasília",
+    "u": "https://soubrasilia.com/argentina-arquiva-denuncia-entrada-flavio-bolsonaro-misiones-milei-31-outubro-2026/",
+    "d": "Denúncia na Argentina"
    }
   ]
  },
@@ -216,32 +216,38 @@
    "nota": "Brasil",
    "itens": [
     {
-     "kicker": "Senado",
-     "quando": "Hoje",
-     "titulo": "Carlos Bolsonaro visita o pai e reafirma apoio a Rogério Marinho para presidir o Senado",
-     "resumo": "Em vídeo nas redes, o senador eleito pelo PL disse que o grupo manterá a candidatura de Marinho contra a tentativa de reeleição de Davi Alcolumbre (União), em votação prevista para fevereiro; o partido recusou acordo e deve oficializar o nome na quarta (4). Carlos relatou preocupação com a saúde de Jair Bolsonaro, citando a volta das crises de soluço.",
+     "kicker": "Argentina",
+     "quando": "Ontem",
+     "titulo": "Justiça argentina arquiva denúncia sobre a entrada de Flávio no país; duas ações contra o governo Milei seguem abertas",
+     "resumo": "Com base em relatórios da Interpol e do serviço de migrações, a procuradoria federal de Misiones concluiu que não houve crime na passagem do senador pela fronteira, e o caso foi arquivado. Seguem em tramitação uma ação que acusa Milei e auxiliares de encobrimento e outra que apura se houve uso de recursos públicos na viagem.",
+     "lados": [
+      {
+       "quem": "Governo Milei",
+       "txt": "Sustenta que Flávio apresentou documentos válidos e que não havia alerta da Interpol contra ele; o assessor Santiago Caputo nega as acusações."
+      },
+      {
+       "quem": "Autores das ações e governo brasileiro",
+       "txt": "Deputados de oposição acusam integrantes do governo argentino de facilitar a saída; o Itamaraty convocou na sexta a encarregada de negócios da Argentina para dar explicações."
+      }
+     ],
      "fontes": [
       {
-       "n": "Tribuna do Agreste",
-       "u": "https://www.tribunadoagreste.com.br/geral/2026/10/31/1010808-carlos-bolsonaro-reafirma-apoio-a-rogerio-marinho-para-presidir-o-senado"
+       "n": "Sou Brasília",
+       "u": "https://soubrasilia.com/argentina-arquiva-denuncia-entrada-flavio-bolsonaro-misiones-milei-31-outubro-2026/"
       },
       {
-       "n": "O Antagonista",
-       "u": "https://oantagonista.com.br/brasil/carlos-bolsonaro-reforca-apoio-a-marinho-para-presidencia-do-senado/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/itamaraty-convoca-encarregada-argentina-por-suposto-apoio-de-milei-a-flavio"
       },
       {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/politica/carlos-bolsonaro-visita-o-pai-e-relata-preocupacao-com-sua-saude"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-congresso/pl-deve-lancar-marinho-a-presidencia-do-senado-em-4-de-novembro/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mundo/itamaraty-pede-explicacoes-a-argentina-sobre-saida-de-flavio-bolsonaro-para-os-eua/"
       }
      ]
     },
     {
      "kicker": "Oposição",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Carta de Flávio com tese de fraude é ignorada por três em cada quatro eleitos do PL",
      "resumo": "Segundo levantamento do jornal O Globo, 117 dos 155 eleitos pelo partido para o Congresso e os governos estaduais não comentaram a carta em que o senador se diz o presidente eleito; 38 a compartilharam ou defenderam. O presidente do PL, Valdemar Costa Neto, já reconheceu a vitória de Lula.",
      "lados": [
@@ -270,8 +276,32 @@
      ]
     },
     {
+     "kicker": "Senado",
+     "quando": "Ontem",
+     "titulo": "Carlos Bolsonaro visita o pai e reafirma apoio a Rogério Marinho para presidir o Senado",
+     "resumo": "Em vídeo nas redes, o senador eleito pelo PL disse que o grupo manterá a candidatura de Marinho contra a tentativa de reeleição de Davi Alcolumbre (União), em votação prevista para fevereiro; o partido recusou acordo e deve oficializar o nome na quarta (4). Carlos relatou preocupação com a saúde de Jair Bolsonaro, citando a volta das crises de soluço.",
+     "fontes": [
+      {
+       "n": "Tribuna do Agreste",
+       "u": "https://www.tribunadoagreste.com.br/geral/2026/10/31/1010808-carlos-bolsonaro-reafirma-apoio-a-rogerio-marinho-para-presidir-o-senado"
+      },
+      {
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/carlos-bolsonaro-reforca-apoio-a-marinho-para-presidencia-do-senado/"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/carlos-bolsonaro-visita-o-pai-e-relata-preocupacao-com-sua-saude"
+      },
+      {
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-congresso/pl-deve-lancar-marinho-a-presidencia-do-senado-em-4-de-novembro/"
+      }
+     ]
+    },
+    {
      "kicker": "Congresso",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Hugo Motta articula votação ainda em 2026 de PEC que adota o voto distrital misto",
      "resumo": "O presidente da Câmara negocia com líderes a troca do sistema proporcional de lista aberta pelo modelo distrital misto, segundo o Metrópoles. A proposta divide partidos do Centrão e da oposição e, por ser emenda constitucional, precisa de 308 votos na Câmara, em dois turnos, e de 49 no Senado.",
      "fontes": [
@@ -283,9 +313,9 @@
     },
     {
      "kicker": "Governo",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Lula promete mais rigor na negociação de ministérios com partidos do Centrão",
-     "resumo": "Segundo relatos publicados neste sábado, o presidente pretende vincular a entrega de pastas no novo mandato ao compromisso de votos das bancadas no Congresso. A montagem do ministério de 2027 começou nesta semana; o governador do Piauí, Rafael Fonteles, negou ter sido convidado para a Fazenda.",
+     "resumo": "Segundo relatos publicados no fim de semana, o presidente pretende vincular a entrega de pastas no novo mandato ao compromisso de votos das bancadas no Congresso. A montagem do ministério de 2027 começou nesta semana; o governador do Piauí, Rafael Fonteles, negou ter sido convidado para a Fazenda.",
      "fontes": [
       {
        "n": "O Cafezinho",
@@ -308,22 +338,6 @@
       "src": "fotos/lula.jpg",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      }
-    },
-    {
-     "kicker": "Governo",
-     "quando": "Ontem",
-     "titulo": "Lula confirma ida à COP31, na Turquia, onde passará a presidência da conferência do clima",
-     "resumo": "O presidente deve chegar a Antália em 10 de novembro e participar da cúpula de líderes nos dias 11 e 12, quando o Brasil entrega o comando da conferência ao país anfitrião. Depois, em 13 de novembro, segue para as Filipinas, para a reunião da Asean e uma visita bilateral.",
-     "fontes": [
-      {
-       "n": "O Repórter",
-       "u": "https://oreporter.com/politica/lula-participara-da-cop31-na-turquia-chegada-esta-prevista-para-10-de-novembro"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-governo/lula-passara-bastao-na-cop31-e-buscara-continuidade-climatica/"
-      }
-     ]
     }
    ]
   },
@@ -331,11 +345,11 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado e indicadores · B3 fechada no sábado; Copom na quarta",
+   "nota": "Mercado e indicadores · B3 fechada no fim de semana; Copom na quarta",
    "itens": [
     {
      "kicker": "Câmbio",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Dólar fecha a R$ 5,45 e tem a maior alta semanal desde 2008; Ibovespa tem o pior mês desde 2022",
      "resumo": "A moeda subiu 1,09% na sexta, ao maior fechamento do ano, e acumulou 9,15% na semana seguinte à eleição; a bolsa caiu 18,12% no período e fechou outubro com perda de 9,88%. Segundo a Agência Brasil, pesaram a incerteza fiscal e a indefinição da equipe econômica, a saída de R$ 7,6 bilhões de estrangeiros e a procura por proteção antes do feriado.",
      "foto": {
@@ -359,7 +373,7 @@
     },
     {
      "kicker": "Juros",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Economistas se dividem sobre o Copom de quarta; maioria passa a prever pausa nos cortes da Selic",
      "resumo": "Em sondagem da Bloomberg Línea com 18 economistas, dez esperam manutenção dos juros em 13,75% e oito ainda preveem corte de 0,25 ponto; 13 elevaram a projeção para o fim do ano. JPMorgan, Itaú e Goldman Sachs citam a alta do dólar e as expectativas de inflação, enquanto Inter e Tivio esperam um último corte.",
      "fontes": [
@@ -378,8 +392,24 @@
      ]
     },
     {
+     "kicker": "Combustíveis",
+     "quando": "30/10",
+     "titulo": "Com petróleo acima de US$ 110, governo prorroga subsídio ao diesel e mercado discute reajuste da Petrobras",
+     "resumo": "O governo estendeu por 30 dias os incentivos que seguram o preço do diesel, que venciam em 25 de outubro, depois de o Brent superar US$ 110 com os ataques a petroleiros no Estreito de Ormuz. Analistas estimam o diesel da Petrobras entre 20% e 25% abaixo da paridade de importação; a estatal não confirmou mudanças de preço para novembro.",
+     "fontes": [
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/petrobras-petr4-tera-que-reajustar-diesel-por-que-tema-segue-no-radar-mesmo-com-subsidios/"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/10/30/petroleo-dispara-brasil-estende-subsidio-ao-diesel"
+      }
+     ]
+    },
+    {
      "kicker": "Emprego",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Desemprego cai para 5,2% no trimestre até setembro, o menor para o período desde 2012",
      "resumo": "A taxa veio em linha com as projeções e ficou abaixo dos 5,4% do trimestre anterior e dos 5,6% de um ano antes, segundo a Pnad Contínua do IBGE. A renda média real chegou a R$ 3.790, alta de 3,6% em 12 meses, e cerca de 5,6 milhões de pessoas procuravam trabalho.",
      "fontes": [
@@ -398,24 +428,8 @@
      ]
     },
     {
-     "kicker": "Criptomoedas",
-     "quando": "Hoje",
-     "titulo": "Com a bolsa fechada, bitcoin sobe 0,6% e é negociado perto de US$ 77,4 mil neste sábado",
-     "resumo": "Por volta das 11h50, a moeda digital avançava 0,58% em 24 horas, mas acumulava queda de 3,4% em sete dias, segundo dados do CoinMarketCap. Na sexta, chegou a cair abaixo de US$ 77 mil, o menor nível desde setembro, após o ataque de US$ 6,3 bilhões à Binance; investidores também acompanham a eleição americana de terça.",
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/bitcoin-btc-avanca-neste-sabado-31-aos-us-77-mil-veja-os-precos-das-criptomoedas-lmrs/"
-      },
-      {
-       "n": "BitNotícias",
-       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-31-de-outubro-de-2026/"
-      }
-     ]
-    },
-    {
      "kicker": "Conta de luz",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Aneel mantém bandeira verde em novembro, sem cobrança extra na conta de luz",
      "resumo": "É o segundo mês seguido sem acréscimo, depois de cinco meses de bandeira amarela. Segundo a agência, as chuvas nas regiões das grandes hidrelétricas recompuseram os reservatórios e reduziram a necessidade de acionar térmicas, que custam mais.",
      "foto": {
@@ -438,8 +452,72 @@
    "nota": "Segurança, clima e cidades",
    "itens": [
     {
-     "kicker": "Mato Grosso do Sul",
+     "kicker": "Clima",
      "quando": "Hoje",
+     "titulo": "Minas tem alerta de tempestades com ventos de até 80 km/h até a manhã de Finados",
+     "resumo": "A Defesa Civil estadual prevê chuva de até 40 mm, raios e possível granizo em boa parte do estado, incluindo Belo Horizonte, até as 9h de segunda. A orientação é não se abrigar sob árvores, evitar áreas alagadas e encostas e não estacionar perto de torres e placas.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/cidades/2026/10/31/defesa-civil-alerta-para-tempestades-com-ventos-de-ate-80-km-h-em-minas-neste-domingo"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/minas-gerais/defesa-civil-alerta-para-mais-chuva-forte-em-bh-apos-temporal-alagar-ruas"
+      }
+     ]
+    },
+    {
+     "kicker": "Feriadão",
+     "quando": "Ontem",
+     "titulo": "Feriado de Finados terá calor e risco de temporais com granizo no Sul, Sudeste e Centro-Oeste",
+     "resumo": "Segundo o Inmet, o calor e a umidade favorecem tempestades até o início da semana, com risco de granizo neste domingo no norte do Paraná e em partes de Minas, São Paulo, Goiás e Mato Grosso do Sul. No Nordeste, predominam sol e calor, com máximas de até 38 °C em Teresina, e a chuva segue concentrada no Amazonas, no Acre e em Rondônia.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/znTa6KJm1vEw9On3LoJ6HClroDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9067.jpg?itok=SgyT8Pu6",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/10/31/finados-deve-ter-calor-e-risco-de-temporais-em-diferentes-regioes-do-brasil/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/tempo/2026/10/30/feriado-de-finados-tem-alerta-de-chuva-forte-em-3-4-mil-cidades-e-bh-fica-na-lista-os-tres-dias"
+      },
+      {
+       "n": "Canal Rural",
+       "u": "https://www.canalrural.com.br/previsao-do-tempo/chuva-trovoadas-e-risco-para-queda-de-granizo-o-que-esperar-do-tempo-no-feriado-de-finados/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/inmet-alerta-para-chuvas-no-norte-sudeste-e-centro-oeste"
+      }
+     ]
+    },
+    {
+     "kicker": "Finados",
+     "quando": "Hoje",
+     "titulo": "Cidades preparam operações para receber visitantes nos cemitérios no feriado de segunda",
+     "resumo": "Belo Horizonte espera mais de 80 mil pessoas nos cemitérios municipais, e o Distrito Federal antecipou a abertura dos portões. A PRF reforça a fiscalização nas rodovias federais durante o feriadão e alerta para o movimento de pedestres perto de cemitérios à beira das estradas.",
+     "fontes": [
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/gerais/2026/10/7530278-finados-bh-tem-operacao-para-receber-mais-de-80-mil-pessoas-nos-cemiterios.html"
+      },
+      {
+       "n": "Agência Satélite",
+       "u": "https://www.satelitenoticias.com.br/2026/10/dia-de-finados-cemiterios-do-df-abrem.html"
+      },
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/seguranca/prf-reforca-fiscalizacao-operacao-finados-2026-em-sc"
+      }
+     ]
+    },
+    {
+     "kicker": "Mato Grosso do Sul",
+     "quando": "Ontem",
      "titulo": "Governo amplia Força Nacional em aldeias Guarani Kaiowá após denúncias de ameaças depois da eleição",
      "resumo": "Os ministros da Justiça, dos Povos Indígenas e dos Direitos Humanos visitaram as aldeias Sassoró, em Tacuru, e Taquapery, em Coronel Sapucaia, e anunciaram um sistema de resposta rápida acionado pela PF, pela PRF ou pelas polícias estaduais. A Apib registrou mais de 30 denúncias; depois de triagem, o governo recebeu dez, quatro no estado, e a PF já ouviu suspeitos de um áudio que ameaçava envenenar a água de Sassoró.",
      "lados": [
@@ -466,70 +544,6 @@
        "u": "https://www.em.com.br/politica/2026/10/7531429-ministros-de-lula-visitam-aldeias-em-ms-apos-onda-de-ataques-pos-eleicoes.html"
       }
      ]
-    },
-    {
-     "kicker": "Feriadão",
-     "quando": "Hoje",
-     "titulo": "Feriado de Finados terá calor e risco de temporais com granizo no Sul, Sudeste e Centro-Oeste",
-     "resumo": "Segundo o Inmet, o calor e a umidade favorecem tempestades até o início da semana; no domingo, há risco de granizo no norte do Paraná, em partes de Minas, São Paulo, Goiás e Mato Grosso do Sul. No Nordeste, predominam sol e calor, com máximas de até 38 °C em Teresina, e a chuva segue concentrada no Amazonas, no Acre e em Rondônia.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/znTa6KJm1vEw9On3LoJ6HClroDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9067.jpg?itok=SgyT8Pu6",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/10/31/finados-deve-ter-calor-e-risco-de-temporais-em-diferentes-regioes-do-brasil/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/10/30/feriado-de-finados-tem-alerta-de-chuva-forte-em-3-4-mil-cidades-e-bh-fica-na-lista-os-tres-dias"
-      },
-      {
-       "n": "Canal Rural",
-       "u": "https://www.canalrural.com.br/previsao-do-tempo/chuva-trovoadas-e-risco-para-queda-de-granizo-o-que-esperar-do-tempo-no-feriado-de-finados/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/inmet-alerta-para-chuvas-no-norte-sudeste-e-centro-oeste"
-      }
-     ]
-    },
-    {
-     "kicker": "Rio de Janeiro",
-     "quando": "Ontem",
-     "titulo": "Seis ônibus são usados como barricadas em Irajá e Cavalcanti após ocupação policial na Serrinha",
-     "resumo": "Criminosos tomaram os veículos na tarde de sexta e bloquearam vias da Zona Norte, como a Avenida Monsenhor Félix; 19 linhas foram afetadas, segundo a Rio Ônibus. A polícia trata os bloqueios como possível retaliação à ocupação do Complexo da Serrinha, em Madureira, que a PM diz que vai manter por tempo indeterminado.",
-     "fontes": [
-      {
-       "n": "O Repórter",
-       "u": "https://oreporter.com/rio/seis-onibus-barricadas-iraja-cavalcanti"
-      },
-      {
-       "n": "Diário do Transporte",
-       "u": "https://diariodotransporte.com.br/2026/10/30/onibus-sao-sequestrados-e-utilizados-como-barricadas-em-iraja-na-zona-norte-do-rio-de-janeiro-rj-nesta-sexta-feira-30/"
-      },
-      {
-       "n": "O São Gonçalo",
-       "u": "https://www.osaogoncalo.com.br/seguranca-publica/180012/criminosos-utilizam-onibus-como-barricadas-em-iraja"
-      }
-     ]
-    },
-    {
-     "kicker": "Rio de Janeiro",
-     "quando": "Ontem",
-     "titulo": "Engavetamento com 21 veículos na Dutra deixa um morto e ao menos dez feridos",
-     "resumo": "O acidente ocorreu por volta das 7h, no km 174, em São João de Meriti, na Baixada Fluminense, no sentido Rio. O motorista de um ônibus morreu no local; a suspeita é de que ele tenha passado mal ao volante, mas a causa ainda não foi confirmada.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365924/motorista-passa-mal-e-acidente-envolve-mais-de-20-veiculos-na-dutra"
-      },
-      {
-       "n": "Agora RN",
-       "u": "https://agorarn.com.br/policia/infarto-de-motorista-provoca-acidente/"
-      }
-     ]
     }
    ]
   },
@@ -540,80 +554,80 @@
    "nota": "Internacional",
    "itens": [
     {
-     "kicker": "Europa",
-     "quando": "Hoje",
-     "titulo": "Protestos contra o custo de vida levam 320 mil às ruas na França e têm confrontos; Alemanha também tem atos",
-     "resumo": "No terceiro fim de semana seguido de manifestações, as autoridades francesas contaram cerca de 320 mil pessoas, 70 mil delas em Paris; os organizadores falam em 500 mil, e o governo informou mais de 290 detidos, com confrontos em Paris, Lyon, Marselha, Rennes e Toulouse. Na Alemanha, atos de jovens contra o custo de vida e o possível retorno do serviço militar tiveram uso de canhões de água; sindicatos franceses convocam greve nacional para 5 de novembro.",
-     "fontes": [
-      {
-       "n": "Jovem Pan / AFP",
-       "u": "https://jovempan.com.br/mundo/franca-protestos-custo-de-vida-confrontos-presos"
-      },
-      {
-       "n": "CNN Portugal",
-       "u": "https://cnnportugal.iol.pt/manifestacoes/europa/halloween-sob-tensao-na-europa-protestos-alastram-a-alemanha-e-franca-com-mais-70-mil-policias-mobilizados/20261031/6ae61581d34e9a786e75ea47"
-      },
-      {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/10/31/protestos-contra-custo-de-vida-e-desigualdade-levam-multidao-as-ruas-na-franca-e-na-alemanha-neste-sabado-31/"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Drones russos deixam 280 mil famílias sem luz na Ucrânia; ataque ucraniano mata duas pessoas na Rússia",
-     "resumo": "Os ataques russos atingiram a rede elétrica nas regiões de Kiev e Dnipropetrovsk, e Zelensky pediu ajuda europeia e mais rapidez na entrega de mísseis Patriot pelos EUA. Do lado russo, um governador regional disse que um drone atingiu uma casa na vila de Klimovo, com dois mortos e cinco feridos; Kiev afirma ter atingido uma fábrica de combustível para mísseis na região de Rostov.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/russia-lanca-ataque-com-drones-contra-infraestrutura-energetica-da-ucrania/"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/video/2026/10/31/noticias-do-dia-31-de-outubro-2026-tarde"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/ataque-ucraniano-mata-pessoas-na-russia-diz-governador/"
-      }
-     ]
-    },
-    {
      "kicker": "Oriente Médio",
-     "quando": "Hoje",
-     "titulo": "Rubio diz que Trump ainda não decidiu se retoma ataques ao Irã; negociação mediada pelo Catar segue em Doha",
-     "resumo": "Segundo o secretário de Estado, Trump prefere uma solução diplomática, mas os EUA estão prontos para agir se ele julgar necessário. Na sexta, a Guarda Revolucionária disse que petroleiros pegaram fogo ao tentar cruzar o Estreito de Ormuz por rotas não autorizadas por Teerã, e Omã resgatou 25 tripulantes de outro navio; o Brent fechou a semana em alta.",
+     "quando": "Ontem",
+     "titulo": "Irã descarta reunião com os EUA por ora e mantém consultas com mediadores em Doha",
+     "resumo": "O chanceler Abbas Araqchi disse não ver necessidade de encontrar autoridades americanas agora e condicionou qualquer conversa ao fim das hostilidades na região, à liberação de ativos congelados e ao fim do bloqueio naval. Trump afirma que o diálogo continua, enquanto jornais americanos relatam que EUA e Israel discutem uma nova ofensiva.",
      "lados": [
       {
-       "quem": "Irã",
-       "txt": "A Guarda Revolucionária afirma que os navios desligaram sistemas de navegação, ignoraram avisos e tinham apoio militar dos EUA."
+       "quem": "Governo do Irã",
+       "txt": "Diz que sua proposta é a única em discussão para reabrir o Estreito de Ormuz, onde afirma que três petroleiros pegaram fogo na sexta ao usar rotas não autorizadas."
       },
       {
-       "quem": "Estados Unidos",
-       "txt": "O Comando Central diz que as principais rotas estão livres de minas e que a força naval iraniana já não opera no estreito; Trump cobra garantias de que o Irã nunca terá arma nuclear."
+       "quem": "Governo dos EUA",
+       "txt": "Trump diz preferir uma saída negociada e que o Irã nunca terá arma nuclear; Rubio afirmou que ainda não há decisão sobre retomar ataques."
       }
      ],
      "fontes": [
       {
-       "n": "InfoMoney / Reuters",
-       "u": "https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/"
+       "n": "Infobae / EFE",
+       "u": "https://infobae.com/america/agencias/2026/10/31/iran-continua-las-consultas-sobre-la-guerra-en-doha-pero-descarta-reunirse-con-eeuu"
+      },
+      {
+       "n": "Terra / Reuters",
+       "u": "https://www.terra.com.br/noticias/mundo/marinha-da-guarda-revolucionaria-iraniana-diz-que-tres-petroleiros-pegaram-fogo-no-estreito-de-ormuz,da8762f7605779b059086d483a0b7e18prg4ng5q.html"
+      },
+      {
+       "n": "O Cafezinho",
+       "u": "https://ocafezinho.com/2026-10-31/chanceler-do-ira-condiciona-conversa-com-eua-a-aceitacao-de-seus-termos"
+      }
+     ]
+    },
+    {
+     "kicker": "Guerra na Ucrânia",
+     "quando": "Ontem",
+     "titulo": "Ataques russos matam cinco e deixam 280 mil casas sem luz na Ucrânia",
+     "resumo": "Segundo a Força Aérea ucraniana, 105 dos 134 drones lançados na madrugada de sábado foram derrubados; houve mortes em Donetsk, Sumy, Dnipropetrovsk e Zaporizhzhia e ao menos 46 feridos. Zelensky classificou a situação da energia como difícil, com 200 mil casas sem energia em Dnipropetrovsk e 80 mil na região de Kiev; no sul, civis foram retirados de Oleshky durante um cessar-fogo local.",
+     "fontes": [
+      {
+       "n": "Kyiv Independent",
+       "u": "https://kyivindependent.com/russian-attacks-kill-5-injure-at-least-46-as-ukraine-faces-difficult-energy-situation/"
       },
       {
        "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/10/30/guarda-revolucionaria-do-irao-diz-que-dois-petroleiros-se-incendiaram-no-estreito-de-ormuz"
+       "u": "https://pt.euronews.com/video/2026/11/01/noticias-do-dia-1-de-novembro-2026-manha"
+      }
+     ]
+    },
+    {
+     "kicker": "Europa",
+     "quando": "Ontem",
+     "titulo": "Onda de protestos contra o custo de vida tem confrontos na França e greve geral na Itália",
+     "resumo": "Na França, que mobilizou 70 mil policiais para o fim de semana, o terceiro sábado seguido de atos voltou a ter confrontos, e sindicatos convocam greve nacional para 5 de novembro. Na Itália, a greve geral de sexta atingiu cerca de 50 cidades, com reivindicações de reajuste de salários e críticas aos gastos militares, e teve choques com a polícia em Roma, Turim e Vicenza.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/11/01/noticias-do-dia-1-de-novembro-2026-manha"
       },
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/tres-petroleiros-pegam-fogo-em-ormuz-diz-marinha-iraniana"
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/10/30/greve-geral-paralisa-50-cidades-na-italia-em-protesto-contra-governo-meloni-e-seu-aumento-de-gastos-militares/"
+      },
+      {
+       "n": "DN",
+       "u": "https://www.dn.pt/internacional/greve-geral-leva-milhares-s-ruas-de-itlia-e-provoca-confrontos-com-a-polcia-veja-as-imagens"
+      },
+      {
+       "n": "Jovem Pan / AFP",
+       "u": "https://jovempan.com.br/mundo/franca-protestos-custo-de-vida-confrontos-presos"
       }
      ]
     },
     {
      "kicker": "Estados Unidos",
-     "quando": "Ontem",
-     "titulo": "A três dias das eleições de meio de mandato, projeções apontam risco de republicanos perderem a Câmara e o Senado",
-     "resumo": "Os republicanos têm hoje 53 das 100 cadeiras do Senado e a maioria na Câmara; pesquisas citadas por analistas indicam vantagem democrata na disputa pela Câmara e um Senado mais equilibrado. A votação é na terça (3), e mais de 36 milhões de americanos já haviam votado antecipadamente até o meio da semana.",
+     "quando": "30/10",
+     "titulo": "A dois dias das eleições de meio de mandato, pesquisas apontam vantagem democrata na disputa pelo Congresso",
+     "resumo": "Na pesquisa Reuters/Ipsos encerrada em 26 de outubro, os democratas tinham 47% das intenções de voto entre eleitores registrados, ante 36% dos republicanos, e a aprovação de Trump estava em 32%. Os republicanos têm hoje 53 das 100 cadeiras do Senado e a maioria na Câmara; analistas lembram que o voto distrito a distrito pode reduzir a diferença, e a eleição é na terça (3).",
      "fontes": [
       {
        "n": "Transmissão Política",
@@ -626,26 +640,10 @@
       {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/mundo/2026/10/27/eleicoes-de-meio-de-mandato-pesquisas-apontam-derrota-para-partido-de-trump"
-      }
-     ]
-    },
-    {
-     "kicker": "Coreia do Norte",
-     "quando": "Ontem",
-     "titulo": "Coreia do Norte dispara cerca de 12 mísseis balísticos ao mar; Seul insiste em diálogo militar",
-     "resumo": "Os mísseis de curto alcance partiram da região de Wonsan e voaram cerca de 250 km, segundo o Estado-Maior sul-coreano. Seul voltou a propor conversas para evitar choques acidentais na fronteira, sem resposta de Pyongyang; a tensão cresceu desde a explosão de minas na Zona Desmilitarizada em setembro, que o Norte nega ter causado.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/10/30/coreia-do-norte-ameaca-coreia-do-sul-com-misseis-balisticos-seul-apela-ao-dialogo-para-red"
       },
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/coreia-do-norte-lanca-cerca-de-10-misseis-ao-mar-diz-seul"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/10/29/coreia-do-norte-dispara-misseis-ao-mar-em-meio-a-escalada-de-tensao-com-o-sul.html"
+       "n": "CNN Brasil / Reuters",
+       "u": "https://www.cnnbrasil.com.br/internacional/trump-atinge-32-de-aprovacao-antes-das-eleicoes-de-meio-de-mandato-nos-eua/"
       }
      ]
     }
@@ -658,8 +656,76 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
-     "kicker": "Brasileirão",
+     "kicker": "Futebol feminino",
+     "quando": "Ontem",
+     "titulo": "Cruzeiro empata em 4 a 4 com o Corinthians, vence nos pênaltis e conquista a Libertadores Feminina pela primeira vez",
+     "resumo": "Na primeira final entre dois brasileiros, no Equador, o Corinthians chegou a abrir 3 a 1, com dois gols de Gabi Zanotti e dois de Vic Albuquerque, mas Letícia Ferreira empatou aos 45 do segundo tempo. Nos pênaltis, o Cruzeiro venceu por 5 a 4, com defesa da goleira Camila; clubes do Brasil ganharam 15 das 18 edições do torneio.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-campeao-da-libertadores-feminina-veja-o-ranking-de-titulos/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/libertadores/corinthians-perde-para-cruzeiro-e-fica-com-vice-da-libertadores-feminina,f6ed3fc3153079f5ff36b018f31a4f77dqfh1nsc.html"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-cruzeiro-final-libertadores-feminina-2026/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/final-brasileira-garante-15o-titulo-do-pais-na-libertadores-feminina"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
      "quando": "Hoje",
+     "titulo": "Antonelli larga em 4º e pode ser campeão no GP do México; Hamilton herda a pole",
+     "resumo": "O piloto da Mercedes garante o título se terminar entre os nove primeiros na corrida das 17h (Brasília). Hamilton, da Ferrari, larga na frente depois de punições a Verstappen e Lawson, com Russell e Leclerc logo atrás; Gabriel Bortoleto, da Audi, sai em 14º.",
+     "fontes": [
+      {
+       "n": "Grande Prêmio",
+       "u": "https://grandepremio.com/en/f1/mexican-gp-2026-starting-grid-hamilton-on-pole-as-verstappen-and-lawson-take-penalties/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/hamilton-garante-pole-no-gp-do-mexico-bortoleto-e-14o"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/automobilismo/noticia/2026/11/01/antonelli-pode-ser-campeao-f1-hoje-mexico"
+      }
+     ]
+    },
+    {
+     "kicker": "Copa do Brasil",
+     "quando": "Hoje",
+     "titulo": "Palmeiras recebe o Vasco às 16h na ida da semifinal da Copa do Brasil",
+     "resumo": "O jogo no Allianz Parque abre o confronto; o Vasco chega depois da goleada sofrida para o Flamengo pelo Brasileirão. A volta, em São Januário, define um dos finalistas.",
+     "fontes": [
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-faz-ultimo-treino-antes-de-enfrentar-o-vasco-pela-semifinal-da-copa-do-brasil/"
+      },
+      {
+       "n": "Diário do Rio",
+       "u": "https://diariodorio.com/esporte/2026/10/31/palmeiras-x-vasco-onde-assistir-ao-vivo-ao-jogo-de-ida-da-semifinal-da-copa-do-brasil.html"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/palmeiras-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes-pela-copa-do-brasil,d258601c8a74156337da75dc47ff43b19fn56xv5.html"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-x-vasco-veja-as-provaveis-escalacoes-para-a-copa-do-brasil/"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
      "titulo": "Coritiba vence o Vitória por 2 a 0 e se afasta da zona de rebaixamento",
      "resumo": "Pedro Rocha e Tinga marcaram no início do segundo tempo no Couto Pereira, e o Coritiba voltou a vencer depois de dois meses, chegando a 42 pontos, em 11º. O Vitória, 14º com 38, segue dois pontos à frente do Corinthians, primeiro time da zona de rebaixamento, com 36.",
      "fontes": [
@@ -674,70 +740,6 @@
       {
        "n": "365Scores",
        "u": "https://www.365scores.com/pt-br/news/magazine/coritiba-vence-vitoria-afasta-z4-brasileirao/"
-      }
-     ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "Bortoleto larga em 14º no GP do México; Antonelli pode ser campeão neste domingo",
-     "resumo": "O brasileiro da Audi passou ao Q2 na classificação deste sábado, depois de abandonar o último treino livre, liderado por Lando Norris com 0s001 de vantagem sobre Kimi Antonelli. O italiano da Mercedes soma 365 pontos, 123 à frente de George Russell, e garante o título se terminar entre os nove primeiros; a corrida é às 17h (Brasília).",
-     "fontes": [
-      {
-       "n": "F1Mania",
-       "u": "https://f1mania.net/f1/f1-bortoleto-participa-da-classificacao-e-larga-em-14o-no-gp-do-mexico"
-      },
-      {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/norris-bate-antonelli-por-0s001-e-lidera-tl3-do-gp-da-cidade-do-mexico-bortoleto-abandona/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/formula-1/ao-vivo-siga-a-classificacao-do-gp-do-mexico-etapa-da-f1.html"
-      },
-      {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/esportes/antonelli-gp-do-mexico-titulo-f1"
-      }
-     ]
-    },
-    {
-     "kicker": "Libertadores Feminina",
-     "quando": "Hoje",
-     "titulo": "Corinthians e Cruzeiro decidem a Libertadores Feminina neste sábado, às 21h, em Quito",
-     "resumo": "O Corinthians, maior campeão do torneio, chega à quarta final seguida após eliminar o Santa Fé; o Cruzeiro, estreante, está invicto e passou pelo Olimpia na semifinal. O jogo no estádio Rodrigo Paz Delgado tem transmissão de CazéTV e SporTV.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/cruzeiro/2026/10/29/final-da-libertadores-feminina-entre-cruzeiro-e-corinthians-tem-horario-definido"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/futebol-feminino/libertadores-feminina-tera-final-brasileira-entre-corinthians-e-cruzeiro-veja-detalhes.html"
-      },
-      {
-       "n": "Olympics.com",
-       "u": "https://www.olympics.com/pt/noticias/libertadores-feminina-2026-final-corinthians-cruzeiro-horario-onde-assistir"
-      }
-     ]
-    },
-    {
-     "kicker": "Copa do Brasil",
-     "quando": "Hoje",
-     "titulo": "Palmeiras recebe o Vasco neste domingo, às 16h, na ida da semifinal da Copa do Brasil",
-     "resumo": "O Palmeiras fez neste sábado o último treino antes do jogo no Allianz Parque; o Vasco chega depois da goleada sofrida para o Flamengo pelo Brasileirão. A volta, em São Januário, define um dos finalistas.",
-     "fontes": [
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-faz-ultimo-treino-antes-de-enfrentar-o-vasco-pela-semifinal-da-copa-do-brasil/"
-      },
-      {
-       "n": "Diário do Rio",
-       "u": "https://diariodorio.com/esporte/2026/10/31/palmeiras-x-vasco-onde-assistir-ao-vivo-ao-jogo-de-ida-da-semifinal-da-copa-do-brasil.html"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/palmeiras-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes-pela-copa-do-brasil,d258601c8a74156337da75dc47ff43b19fn56xv5.html"
       }
      ]
     },
@@ -770,8 +772,32 @@
    "nota": "",
    "itens": [
     {
+     "kicker": "Mpox",
+     "quando": "Ontem",
+     "titulo": "Ministério da Saúde envia doses extras de vacina contra mpox ao Rio após alta de casos",
+     "resumo": "A capital fluminense registrou 74 casos em setembro e outubro, ante 10 no mesmo período de 2025, segundo o observatório epidemiológico da prefeitura. O ministro Alexandre Padilha disse que não há surto nacional, com 665 casos no país neste ano; a vacina segue restrita a grupos de risco, como pessoas com HIV imunossuprimidas e contatos de casos.",
+     "foto": {
+      "src": "fotos/vacina.jpg",
+      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/saude/mpox-governo-reforca-volumes-de-vacina-no-rio-para-lidar-com-alta-de-casos"
+      },
+      {
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/saude/mpox-governo-lula-vacinacao-rio"
+      },
+      {
+       "n": "Meio News",
+       "u": "https://www.meionews.com/noticias/ministerio-da-saude-reforca-vacinas-contra-mpox-no-rio-apos-74-casos-em-dois-meses-579777"
+      }
+     ]
+    },
+    {
      "kicker": "Ebola",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Surto de ebola passa de 5 mil mortes no Congo, com letalidade perto de 50%",
      "resumo": "Segundo o Ministério da Saúde congolês, são 10.351 infecções e 5.026 mortes desde maio, em oito das 26 províncias, sobretudo Ituri e Kivu do Norte; é o segundo surto mais letal já registrado. Causado pela espécie Bundibugyo, não tem vacina nem tratamento aprovados, e Quênia e Nigéria confirmaram casos em outubro.",
      "fontes": [
@@ -787,7 +813,7 @@
     },
     {
      "kicker": "SUS",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Padilha defende canetas de semaglutida como direito no SUS e anuncia hospital com 250 leitos em BH",
      "resumo": "Em Belo Horizonte, o ministro da Saúde disse que o pedido de incorporação está na Conitec, que deve se manifestar ainda este ano, e que o governo prepara um protocolo para definir quais pacientes teriam indicação; ele estima custo de R$ 1,5 bilhão por ano. No mesmo evento, anunciou uma nova unidade 100% SUS do Hospital Universitário Ciências Médicas, com 250 leitos e 70 pontos de hemodiálise.",
      "fontes": [
@@ -807,7 +833,7 @@
     },
     {
      "kicker": "Vírus respiratórios",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Síndrome respiratória grave cresce em cinco estados, com alta de covid em MT e MS",
      "resumo": "Amapá, Mato Grosso, Mato Grosso do Sul, Sergipe e Maranhão estão em alerta com tendência de alta, segundo o boletim InfoGripe, da Fiocruz. Os casos graves de covid aumentaram, mas seguem baixos em relação à pandemia; nas últimas quatro semanas, o rinovírus respondeu por mais da metade dos testes positivos.",
      "fontes": [
@@ -820,38 +846,6 @@
        "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-10/sindrome-respiratoria-aguda-esta-em-nivel-de-alerta-em-cinco-estados"
       }
      ]
-    },
-    {
-     "kicker": "Gestantes",
-     "quando": "Ontem",
-     "titulo": "Pesquisa mostra mais gestantes preocupadas com bronquiolite, mas dúvidas sobre a vacina persistem",
-     "resumo": "Levantamento Ipsos-Ipec com 530 grávidas, encomendado pela Pfizer, mostra que 70% conhecem o vírus sincicial respiratório, ante 58% antes, mas 79% têm ao menos uma dúvida ou ideia errada sobre o tema. Parte delas não sabe que a vacina contra o VSR, que protege o bebê, está no SUS desde dezembro de 2025.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/preocupacao-com-bronquiolite-e-virus-sincicial-cresce-entre-gestantes"
-      }
-     ]
-    },
-    {
-     "kicker": "Vacinação",
-     "quando": "29/10",
-     "titulo": "Ministério da Saúde lança painel para acompanhar vacina contra meningite em adolescentes",
-     "resumo": "A ferramenta mostra, por município, a cobertura da vacina meningocócica ACWY entre jovens de 11 a 14 anos, para orientar campanhas onde ela está baixa. No Rio, Belford Roxo, Duque de Caxias e Nova Iguaçu, pessoas de até 24 anos podem tomar a dose nos postos até este sábado (31), último dia da ação.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365747/ministerio-da-saude-cria-painel-para-monitorar-vacina-contra-meningite-em-adolescentes-"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/meningite-quatro-cidades-do-rio-ofertam-vacina-pessoas-ate-24-anos"
-      }
-     ],
-     "foto": {
-      "src": "fotos/sarampo.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     }
     }
    ]
   },
@@ -862,8 +856,52 @@
    "nota": "",
    "itens": [
     {
+     "kicker": "Vestibular",
+     "quando": "Hoje",
+     "titulo": "Fuvest aplica hoje a primeira fase do vestibular da USP para mais de 106 mil candidatos",
+     "resumo": "Os portões abrem ao meio-dia e fecham às 13h em ponto; a prova tem 90 questões de múltipla escolha e dura cinco horas. Estão em disputa 8.147 vagas, e a segunda fase será em 6 e 7 de dezembro.",
+     "foto": {
+      "src": "fotos/enamed.jpg",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Estuda.com",
+       "u": "https://estuda.com/prova-fuvest-2027-1-fase-acontece-neste-domingo-1-de-novembro"
+      },
+      {
+       "n": "Estratégia Vestibulares",
+       "u": "https://vestibulares.estrategia.com/portal/noticias/prova-fuvest-2027-veja-o-que-levar-horarios-e-instrucoes-para-a-1a-fase/"
+      },
+      {
+       "n": "Diário da Região",
+       "u": "https://www.diariodaregiao.com.br/cidades/fuvest-aplica-primeira-fase-neste-domingo.1793469182360"
+      }
+     ]
+    },
+    {
      "kicker": "Enem",
      "quando": "Ontem",
+     "titulo": "A uma semana do Enem, especialistas recomendam revisão leve e conferência do local de prova",
+     "resumo": "O exame será aplicado nos domingos 8 e 15 de novembro, com portões abertos ao meio-dia e fechados às 13h (Brasília). A orientação é revisar conteúdos sem sobrecarga, manter o sono regular e checar com antecedência o cartão de confirmação e o trajeto até o local.",
+     "fontes": [
+      {
+       "n": "A Tarde",
+       "u": "https://atarde.com.br/educacao/enem/enem-2026-veja-como-se-preparar-nos-ultimos-dias-antes-da-prova-1407558"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-10/especial-enem-2026-exame-sera-aplicado-nos-dias-8-e-15-de-novembro"
+      },
+      {
+       "n": "Bem Paraná",
+       "u": "https://www.bemparana.com.br/noticias/parana/reta-final-para-o-enem-nao-e-so-de-estudo-veja-dicas-do-que-fazer-na-ultima-semana-antes-das-provas/"
+      }
+     ]
+    },
+    {
+     "kicker": "Enem",
+     "quando": "30/10",
      "titulo": "Inep libera cartão de confirmação do Enem, com local de prova para 8 e 15 de novembro",
      "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais disponibilizou na Página do Participante o documento com o local de prova dos dois domingos de exame. No primeiro dia, 8 de novembro, os portões fecham às 13h, e os candidatos devem conferir os dados com antecedência.",
      "fontes": [
@@ -886,44 +924,8 @@
      }
     },
     {
-     "kicker": "Enem",
-     "quando": "Hoje",
-     "titulo": "A uma semana do Enem, especialistas recomendam revisão leve e conferência do local de prova",
-     "resumo": "O exame será aplicado nos domingos 8 e 15 de novembro, com portões abertos ao meio-dia e fechados às 13h (Brasília). A orientação é revisar conteúdos sem sobrecarga, manter o sono regular e checar com antecedência o cartão de confirmação e o trajeto até o local.",
-     "fontes": [
-      {
-       "n": "A Tarde",
-       "u": "https://atarde.com.br/educacao/enem/enem-2026-veja-como-se-preparar-nos-ultimos-dias-antes-da-prova-1407558"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-10/especial-enem-2026-exame-sera-aplicado-nos-dias-8-e-15-de-novembro"
-      },
-      {
-       "n": "Bem Paraná",
-       "u": "https://www.bemparana.com.br/noticias/parana/reta-final-para-o-enem-nao-e-so-de-estudo-veja-dicas-do-que-fazer-na-ultima-semana-antes-das-provas/"
-      }
-     ]
-    },
-    {
-     "kicker": "Escolas públicas",
-     "quando": "29/10",
-     "titulo": "Termina neste sábado o prazo para escolas regularizarem pendências com o FNDE e receberem verba do PDDE Equidade",
-     "resumo": "O programa repassa recursos extras a escolas que atendem populações historicamente excluídas, mas só as unidades em situação regular podem receber. O MEC publicou um guia e pede que secretarias estaduais e municipais orientem os diretores.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/JLf0vW-5qqFpKd-bJTlZPjCbXAE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/escola_publica_ciep_rio_tania_regoabr.jpg?itok=pT-SOIY1",
-      "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolas-publicas-tem-ate-sabado-para-regularizar-pendencias-com-fnde"
-      }
-     ]
-    },
-    {
      "kicker": "Enade",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Calouros de cursos avaliados no Enade 2026 devem responder questionário até 18 de dezembro",
      "resumo": "O questionário do ingressante abriu na sexta (30) no Sistema Enade, com login gov.br, e é obrigatório para quem começou a graduação neste ano em cursos avaliados. Esses estudantes estão dispensados da prova, marcada para 29 de novembro.",
      "fontes": [
@@ -942,8 +944,36 @@
    "nota": "Meio ambiente, pesquisa e inovação",
    "itens": [
     {
-     "kicker": "Criptomoedas",
+     "kicker": "Pantanal",
      "quando": "Ontem",
+     "titulo": "Morre Ibaca, onça-pintada conhecida por enfrentar uma sucuri no Pantanal",
+     "resumo": "A fêmea de 8 anos foi encontrada debilitada à beira de um rio perto de Porto Jofre, em Mato Grosso, e chegou a ser resgatada e tratada, mas não resistiu. A causa da morte será investigada por necropsia.",
+     "fontes": [
+      {
+       "n": "PowerMix",
+       "u": "https://www.powermix.com.br/geral/onca-pintada-famosa-por-enfrentar-sucuri-morre-aos-8-anos-no-pantanal-de-mt/58832"
+      },
+      {
+       "n": "MidiaJur",
+       "u": "https://www.midiajur.com.br/questao-de-ordem/onca-pintada-famosa-por-enfrentar-sucuri-morre-aos-8-anos-no-pantanal-de-mt/88741"
+      }
+     ]
+    },
+    {
+     "kicker": "Inteligência artificial",
+     "quando": "30/10",
+     "titulo": "OpenAI, Google, Microsoft e Anthropic aceitam sinal único para sites bloquearem o uso de conteúdo no treino de IA",
+     "resumo": "A marcação comum no arquivo robots.txt permite que um site recuse de uma só vez o treinamento por várias empresas, sem configurar regras para cada uma; a proposta está em discussão na IETF. A Anthropic já adotou o sinal, Google e Microsoft prometem suporte em 2027, e a OpenAI diz que dará detalhes nos próximos meses.",
+     "fontes": [
+      {
+       "n": "Infobae",
+       "u": "https://www.infobae.com/tecno/2026/10/31/los-sitios-web-podran-prohibir-en-un-solo-paso-que-openai-google-y-anthropic-entrenen-ia-con-su-contenido/"
+      }
+     ]
+    },
+    {
+     "kicker": "Criptomoedas",
+     "quando": "30/10",
      "titulo": "Binance diz que ataque de US$ 6,3 bilhões começou pelo notebook de um engenheiro; US$ 3 bilhões já foram congelados",
      "resumo": "Segundo a corretora, o invasor chegou a um contêiner de serviço a partir do computador de um funcionário de DevOps e fez saques não autorizados, sem evidência de vazamento de chaves privadas; Tether e Circle bloquearam parte dos recursos. TRM Labs e Chainalysis ligam o ataque a um grupo norte-coreano, o que a Binance não confirma, e a empresa prevê retomar os saques em até 44 horas.",
      "fontes": [
@@ -967,7 +997,7 @@
     },
     {
      "kicker": "Espaço",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Telescópio Swift, da Nasa, deve cair nas próximas semanas, e parte do Brasil está na faixa de reentrada",
      "resumo": "Depois de 22 anos de observações, o observatório perdeu altitude até cerca de 275 km por causa do arrasto atmosférico, ampliado pela atividade solar, e encerrou as operações. A Nasa ainda não sabe quando nem onde ele vai reentrar; fragmentos tendem a cair no oceano ou em áreas pouco povoadas.",
      "fontes": [
@@ -982,46 +1012,6 @@
       {
        "n": "Correio Braziliense",
        "u": "https://www.correiobraziliense.com.br/mundo/2026/10/7529451-telescopio-da-nasa-vai-cair-na-terra-apos-22-anos-de-descobertas-incriveis.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Inteligência artificial",
-     "quando": "Ontem",
-     "titulo": "Google liga chips de IA em satélite e testa ideia de data centers no espaço",
-     "resumo": "No Project Suncatcher, os processadores TPU foram acionados em órbita e rodaram o modelo Gemma 4, que respondeu a comandos e escreveu um haicai sobre a Terra vista do espaço. A próxima fase testa os chips sob radiação e variação de temperatura; a meta para 2027 é ter dois satélites interligados.",
-     "fontes": [
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/10/30/pro/google-testa-ia-em-satelite-e-avanca-em-projeto-de-data-centers-espaciais"
-      },
-      {
-       "n": "Gizmodo Brasil",
-       "u": "https://gizmodo.com.br/google-coloca-inteligencia-artificial-no-espaco-e-satelite-envia-primeira-mensagem-a-terra-73505"
-      }
-     ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "Ontem",
-     "titulo": "Intel despenca 28% e Nasdaq fecha em queda de 2,86% com temor sobre gastos em IA",
-     "resumo": "A fabricante de chips projetou receitas abaixo do esperado, citando uma explosão em sua fábrica em Israel e a desaceleração dos PCs; Nvidia, AMD e Qualcomm também caíram. Com o balanço da Amazon, que mostrou fluxo de caixa negativo pelos gastos com infraestrutura de IA, a Nasdaq foi ao menor nível em três meses.",
-     "fontes": [
-      {
-       "n": "Dinheiro Vivo",
-       "u": "https://dinheirovivo.dn.pt/mercados/dia-negro-na-ia-intel-tomba-28-e-arrasta-nasdaq-100-para-queda-de-quase-3"
-      },
-      {
-       "n": "Infobae",
-       "u": "https://infobae.com/america/mundo/2026/10/30/fuertes-bajas-en-wall-street-por-las-dudas-sobre-la-inversion-en-inteligencia-artificial-intel-se-desploma-mas-del-25"
-      },
-      {
-       "n": "Gazeta Brasil",
-       "u": "https://gazetabrasil.com.br/economia/2026/10/30/wall-street-despenca-puxada-por-queda-do-nasdaq-e-duvidas-sobre-o-retorno-de-investimentos-em-ia/"
-      },
-      {
-       "n": "Bora Investir (B3)",
-       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544/"
       }
      ]
     },
@@ -1054,8 +1044,28 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
+     "kicker": "Música",
+     "quando": "Ontem",
+     "titulo": "BTS encerra a passagem pelo Brasil com terceiro show no MorumBIS e conversa com fãs em português",
+     "resumo": "No último show da turnê “Arirang” em São Paulo, os sete integrantes falaram com o público em português; Jungkook lembrou que era a despedida da cidade, e V prometeu uma noite inesquecível. O grupo voltou ao país depois de sete anos e fez três apresentações com ingressos esgotados.",
+     "fontes": [
+      {
+       "n": "Alô Alô Bahia",
+       "u": "https://aloalobahia.com/noticias/2026/10/31/bts-faz-ultimo-show-em-sao-paulo-e-conversa-em-portugues-com-os-fas-noite-inesquecivel/"
+      },
+      {
+       "n": "Band",
+       "u": "https://www.band.com.br/entretenimento/musica/bts-realiza-terceiro-e-ultimo-show-da-turne-mundial-arirang-em-sp"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/pop/bts-no-brasil-veja-horario-como-chegar-e-possivel-setlist-deste-sabado/"
+      }
+     ]
+    },
+    {
      "kicker": "Luto",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Morre Mulher Banana, cantora do funk carioca dos anos 2000 e ex-Furacão 2000",
      "resumo": "Julyana Barbosa, também conhecida como Garota X, ganhou projeção nacional com o sucesso que lhe deu o nome artístico e é lembrada como uma das primeiras artistas trans com visibilidade no funk. A causa da morte não foi divulgada; Tati Quebra Barraco e outros artistas prestaram homenagens.",
      "fontes": [
@@ -1074,30 +1084,10 @@
      ]
     },
     {
-     "kicker": "Música",
-     "quando": "Hoje",
-     "titulo": "BTS encerra neste sábado a passagem pelo Brasil com o terceiro show no MorumBIS",
-     "resumo": "O grupo sul-coreano voltou ao país depois de sete anos com a turnê “Arirang” e fez apresentações também na quarta e na sexta, com ingressos esgotados. Os portões abrem às 16h, e o show está marcado para as 20h.",
-     "fontes": [
-      {
-       "n": "Exame",
-       "u": "https://exame.com/pop/bts-no-brasil-veja-horario-como-chegar-e-possivel-setlist-deste-sabado/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/diversao/musica/que-horas-comeca-o-show-do-bts-em-sao-paulo-no-sabado-31,d44e5560ba771725615ce3459b88bc95guajtpyd.html"
-      },
-      {
-       "n": "Billboard Brasil",
-       "u": "https://billboard.com.br/bts-shows-sp-morumbis-horarios-acessos-itens/"
-      }
-     ]
-    },
-    {
      "kicker": "Morte",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Morre aos 87 anos Solano Ribeiro, criador dos festivais de música popular na TV",
-     "resumo": "O produtor e crítico morreu na madrugada deste sábado em São Paulo, onde tratava um câncer, segundo a família. Organizou festivais na Excelsior, Record, Globo e Tupi, que revelaram nomes como Elis Regina e Chico Buarque, e comandava desde 2006 um programa na Rádio Cultura Brasil.",
+     "resumo": "O produtor e crítico morreu na madrugada de sábado em São Paulo, onde tratava um câncer, segundo a família. Organizou festivais na Excelsior, Record, Globo e Tupi, que revelaram nomes como Elis Regina e Chico Buarque, e comandava desde 2006 um programa na Rádio Cultura Brasil.",
      "fontes": [
       {
        "n": "Diário do Centro do Mundo / g1",
@@ -1114,8 +1104,24 @@
      ]
     },
     {
+     "kicker": "TV",
+     "quando": "Hoje",
+     "titulo": "“Lá na Minha Terra”, nova novela das seis da Globo, estreia em 9 de novembro com Dira Paes",
+     "resumo": "Escrita por Mário Teixeira, a trama acompanha uma fazendeira do sertão que descobre que o marido, desaparecido havia mais de 15 anos, vive em São Paulo com outro nome, casado e rico. O elenco tem Daniel de Oliveira, Camila Morgado, Mateus Solano e Lília Cabral.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/opiniao/andre-romano/2026/11/1/conheca-a-historia-o-elenco-e-os-personagens-de-la-na-minha-terra-nova-novela-das-seis-da-globo"
+      },
+      {
+       "n": "AdoroCinema",
+       "u": "https://www.adorocinema.com/noticias/series/noticia-1000169871/"
+      }
+     ]
+    },
+    {
      "kicker": "Morte",
-     "quando": "Ontem",
+     "quando": "30/10",
      "titulo": "Elenco de X-Men resgata fotos para homenagear Patrick Stewart; família detalha doenças do ator",
      "resumo": "Hugh Jackman, Ian McKellen, James McAvoy, James Marsden e Rebecca Romijn publicaram imagens de bastidores com o ator, que morreu na quarta, aos 86 anos, em Los Angeles. Segundo a família, ele tinha Alzheimer e demência com corpos de Lewy; fãs também deixaram flores em sua estrela na Calçada da Fama.",
      "fontes": [
@@ -1134,22 +1140,6 @@
       {
        "n": "Euronews",
        "u": "https://pt.euronews.com/2026/10/30/boa-viagem-capitao-homenagens-sentidas-a-sir-patrick-stewart"
-      }
-     ]
-    },
-    {
-     "kicker": "TV",
-     "quando": "Ontem",
-     "titulo": "Após dois adiamentos, beijo de Mau Mau e Felipe vai ao ar em “Quem Ama Cuida”",
-     "resumo": "A cena da novela das nove da Globo, com João Victor Gonçalves e Pietro Antonelli, estava prevista para 20 de outubro e foi remarcada duas vezes. Segundo o Portal Leo Dias, a emissora orientou que o beijo fosse gravado de forma mais delicada.",
-     "fontes": [
-      {
-       "n": "Portal Leo Dias",
-       "u": "https://portalleodias.com/colunas/carla-bittencourt/e-hoje-apos-adiamentos-beijo-de-mau-mau-e-felipe-vai-ao-ar-em-quem-ama-cuida"
-      },
-      {
-       "n": "O Planeta TV",
-       "u": "https://oplanetatv.clickgratis.com.br/noticias/novelas/globo-finalmente-exibe-beijo-de-felipe-e-mau-mau-em-quem-ama-cuida.html"
       }
      ]
     }
