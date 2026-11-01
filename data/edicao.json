@@ -1,10 +1,10 @@
 {
  "data": "Domingo, 1º de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "01/11/2026 · 12h45 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 08h30 (bitcoin); B3 fechada no fim de semana e no feriado de Finados",
- "fontes": 75,
+ "edicao": "Edição da noite",
+ "atualizado": "01/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 08h30 (bitcoin); B3 fechada no fim de semana e no feriado de Finados, reabre na terça",
+ "fontes": 80,
  "mercado": [
   {
    "nome": "Bitcoin · 08h30",
@@ -39,34 +39,34 @@
  ],
  "agenda": [
   {
-   "hora": "Dom 1º/11 · 16h, 17h e 18h30",
-   "txt": "Palmeiras x Vasco abre as semifinais da Copa do Brasil; às 17h, GP do México, em que Antonelli pode ser campeão; às 18h30, Grêmio x Atlético-MG",
-   "cat": "esporte"
-  },
-  {
    "hora": "Seg 2/11",
-   "txt": "Feriado de Finados, com B3 fechada e risco de temporais no Sul, Sudeste e Centro-Oeste",
+   "txt": "Feriado de Finados, com B3 fechada e alerta de tempestade no Paraná e em áreas de SP e MS",
    "cat": "brasil"
   },
   {
    "hora": "Ter 3/11",
-   "txt": "Senado vota a PEC da Segurança Pública; nos EUA, eleições de meio de mandato decidem o controle do Congresso",
+   "txt": "Senado tenta votar a PEC da Segurança Pública em dois turnos; nos EUA, eleições de meio de mandato decidem o controle do Congresso",
    "cat": "politica"
   },
   {
-   "hora": "Ter 3/11 · 8h25",
-   "txt": "Banco Central divulga o boletim Focus, primeiro dado do mercado depois do feriado",
-   "cat": "economia"
+   "hora": "Ter 3/11 · 10h",
+   "txt": "STF faz audiência pública sobre a proibição das bets, com 34 participantes",
+   "cat": "politica"
   },
   {
-   "hora": "Qua 4/11 · 18h30",
-   "txt": "Copom anuncia a Selic; no mesmo dia saem os dados do Caged sobre emprego formal",
+   "hora": "Qua 4/11 · 15h e 18h30",
+   "txt": "Brasil joga a semifinal da Copa do Mundo Feminina Sub-17; às 18h30, Copom anuncia a Selic, no dia do Caged",
    "cat": "economia"
   },
   {
    "hora": "Dom 8/11",
-   "txt": "Primeiro dia do Enem, com linguagens, ciências humanas e redação; portões fecham às 13h",
+   "txt": "Primeiro dia do Enem, com portões fechando às 13h; à tarde, Vasco x Palmeiras pela volta da semifinal da Copa do Brasil",
    "cat": "educacao"
+  },
+  {
+   "hora": "Sáb 28/11",
+   "txt": "Palmeiras e Estudiantes decidem a Libertadores no Estádio Centenário, em Montevidéu",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -163,28 +163,28 @@
  ],
  "manchete": {
   "kicker": "Congresso",
-  "titulo": "Senado vota PEC da Segurança na terça, e redução da maioridade penal divide até a bancada do PT",
-  "resumo": "Davi Alcolumbre marcou para 3 de novembro a votação da proposta do governo que constitucionaliza o Sistema Único de Segurança Pública e endurece penas para chefes de facções. Emendas que reduzem a maioridade penal travam um acordo, e senadores do PT ainda não definiram posição.",
+  "titulo": "Governo quer aprovar PEC da Segurança em dois turnos na terça; oposição insiste na redução da maioridade penal",
+  "resumo": "A base aliada pretende votar os dois turnos no mesmo dia, com um calendário especial que dispensa o intervalo regimental, e diz ter votos para derrubar a emenda que reduz a maioridade penal. A oposição apresentou destaque para votar o tema em separado, e a bancada do PT ainda discute posição.",
   "foto": {
    "src": "https://imagens.ebc.com.br/sWetGrwLQ39hQGcg_lnLUiuXlis=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/0d9a6922.jpg?itok=J_yIvdds",
    "credito": "Lula Marques/Agência Brasil (arquivo)"
   },
   "entenda": "A PEC 18/2025 foi enviada pelo Executivo, aprovada pela Câmara em março e concluída na CCJ do Senado em 14 de outubro. O texto prevê regime mais duro e presídios de segurança máxima para líderes de facções e milícias, permite polícias municipais de natureza civil, amplia atribuições da PRF e destina a estados e municípios metade dos fundos nacionais de segurança e penitenciário. Lula condiciona a criação de um Ministério da Segurança Pública, prevista para 2027, à promulgação. O líder do PT, Camilo Santana (CE), propôs reduzir a maioridade para 16 anos em crimes hediondos; a oposição apresentou emenda de Rogério Marinho (PL-RN) que fixa 16 anos como regra e 14 em crimes graves. A estratégia governista tem sido rejeitar emendas para que o texto não volte à Câmara.",
   "fatos": [
-   "A votação no plenário está marcada para terça (3); por ser emenda constitucional, precisa de 49 votos em dois turnos.",
-   "O senador eleito Rui Costa (PT-BA) defende votar a PEC sem o tema e discutir a maioridade penal em comissão própria.",
-   "A bancada do PT fará reunião para decidir se apoia a emenda de Camilo Santana ou retira o trecho."
+   "A votação no plenário está marcada para terça (3); por ser emenda constitucional, precisa de 49 votos em cada um dos dois turnos.",
+   "Se o texto for alterado, volta à Câmara; aprovado sem mudanças, segue para promulgação.",
+   "A emenda de Rogério Marinho (PL-RN), assinada também por Flávio Bolsonaro, fixa 16 anos como regra e 14 em crimes hediondos; Carlos Portinho (PL-RJ) pediu votação em separado."
   ],
   "fontes": [
+   {
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/politica/governo-tenta-acelerar-pec-da-seguranca-oposicao-insiste-em-maioridade/",
+    "d": "Estratégia dos dois lados"
+   },
    {
     "n": "Agência Brasil",
     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira",
     "d": "O que prevê a PEC"
-   },
-   {
-    "n": "Diário do Estado de SP",
-    "u": "https://diarioesp.com.br/noticias/2026/11/01/senadores-do-pt-buscam-consenso-sobre-maioridade-penal-antes-de-votacao-de-pec-da-seguranca.html",
-    "d": "Divisão no PT"
    },
    {
     "n": "Metrópoles",
@@ -192,14 +192,14 @@
     "d": "Reunião da bancada"
    },
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/bancada-do-pt-resiste-a-emenda-para-reduzir-maioridade-penal/",
-    "d": "Emendas em disputa"
+    "n": "A Tarde",
+    "u": "https://atarde.com.br/politica/pec-da-seguranca-e-reducao-da-maioridade-penal-serao-votadas-na-terca-3-1407757",
+    "d": "Pauta de terça"
    },
    {
-    "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/brasil/senado-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira-3/",
-    "d": "Data da votação"
+    "n": "Diário do Estado de SP",
+    "u": "https://diarioesp.com.br/noticias/2026/11/01/senadores-do-pt-buscam-consenso-sobre-maioridade-penal-antes-de-votacao-de-pec-da-seguranca.html",
+    "d": "Divisão no PT"
    }
   ]
  },
@@ -245,106 +245,96 @@
      ]
     },
     {
-     "kicker": "Novo governo",
-     "quando": "Hoje",
-     "titulo": "PP e União Brasil enviam ao Planalto nomes para ministérios do quarto governo Lula",
-     "resumo": "A federação União Progressista sugeriu os deputados Moses Rodrigues (CE) e Pedro Lucas (MA), do União, e a senadora Daniella Ribeiro (PB), do PP, que quer uma pasta de peso. As indicações ainda dependem de avaliação do Planalto, que não se manifestou.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/igor-gadelha/pp-e-uniao-brasil-sugerem-ao-planalto-nomes-para-novo-governo-lula"
-      },
-      {
-       "n": "Diário do Estado de SP",
-       "u": "https://diarioesp.com.br/noticias/2026/11/01/uniao-brasil-e-pp-enviam-ao-planalto-sugestoes-de-nomes-para-compor-governo-lula.html"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/brasil/pp-e-uniao-brasil-indicam-nomes-para-ministerios-do-novo-governo-lula/"
-      }
-     ]
-    },
-    {
-     "kicker": "PRF",
-     "quando": "Hoje",
-     "titulo": "Governo recorre de decisão que obriga curso de direitos humanos na formação da PRF",
-     "resumo": "A Justiça Federal mandou a PRF revogar uma portaria de 2022, restabelecer as comissões regionais de direitos humanos e incluir disciplina de 30 horas sobre abordagem a grupos vulneráveis. A AGU recorreu, e entidades de direitos humanos criticaram o recurso.",
-     "lados": [
-      {
-       "quem": "AGU",
-       "txt": "Sustenta que definir o conteúdo dos cursos é atribuição do Executivo, que não há omissão grave e que a relevância do tema não está em discussão, mas quem decide sobre ele."
-      },
-      {
-       "quem": "Entidades de direitos humanos",
-       "txt": "Repudiam o recurso e lembram a morte de Genivaldo de Jesus Santos em abordagem da PRF em 2022 como motivo para manter a exigência."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/brasil/2026/11/01/governo-recorre-de-decisao-que-obriga-formacao-em-direitos-humanos-na-prf.html"
-      },
-      {
-       "n": "Bahia Notícias",
-       "u": "https://www.bahianoticias.com.br/noticia/323224-governo-lula-recorre-de-decisao-que-determinou-curso-de-direitos-humanos-na-prf"
-      },
-      {
-       "n": "PE Notícias",
-       "u": "https://penoticias.com.br/blog/governo-tenta-derrubar-obrigacao-de-oferecer-curso-de-direitos-humanos-na-policia-rodoviaria-federal/"
-      }
-     ]
-    },
-    {
      "kicker": "Flávio Bolsonaro",
      "quando": "Ontem",
-     "titulo": "Rubio diz que EUA não se envolveram diretamente na saída de Flávio; ministro de Lula fala em “fardo político” para Trump",
-     "resumo": "O secretário de Estado americano afirmou que Trump autorizou a entrada do senador caso ele chegasse a um posto oficial de imigração, o que ocorreu. O Wall Street Journal relatou que um assessor da Casa Branca e um auxiliar de Milei ajudaram a obter o jato, informação sem confirmação oficial.",
+     "titulo": "Saída de Flávio aprofunda crise com a Argentina; Rubio nega participação direta dos EUA",
+     "resumo": "O Itamaraty convocou a encarregada de negócios argentina, María Emilia Cortés, para explicar a suposta ajuda de integrantes do governo Milei à viagem do senador, que deixou o país por Puerto Iguazú apesar de ordem judicial que o proibia de sair. Reportagens atribuem a articulação a um assessor de Milei, sem confirmação oficial; os dois países estão sem embaixadores desde julho.",
      "lados": [
       {
-       "quem": "Governo dos EUA",
-       "txt": "Rubio nega participação direta na viagem e diz que o país apenas permitiu a entrada legal de Flávio, que recebeu autorização humanitária de permanência."
+       "quem": "Governos da Argentina e dos EUA",
+       "txt": "O chanceler Pablo Quirno diz que o Brasil não pediu explicações formais; Rubio afirma que os EUA só autorizaram a entrada legal do senador."
       },
       {
        "quem": "Governo Lula",
-       "txt": "O ministro José Guimarães, das Relações Institucionais, disse no X que a família Bolsonaro virou um peso para Trump às vésperas das eleições americanas."
+       "txt": "Fontes do Itamaraty confirmaram a convocação e veem a ajuda como interferência na política interna; o ministro José Guimarães disse que a família Bolsonaro virou um peso para Trump."
       }
      ],
      "fontes": [
       {
-       "n": "Jornal Passaporte",
-       "u": "https://www.jornalpassaporte.com.br/2026/11/01/governo-dos-eua-nao-se-envolveu-diretamente-na-saida-de-flavio-bolsonaro-do-brasil-diz-marco-rubio/"
+       "n": "Jornal de Brasília / Reuters",
+       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/itamaraty-convoca-diplomata-argentina-para-explicar-ajuda-a-flavio/"
       },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/marco-rubio-nega-que-eua-ajudaram-flavio-bolsonaro-a-sair-do-brasil"
+       "u": "https://www.metropoles.com/brasil/crise-entre-brasil-e-argentina-atinge-ponto-maximo-com-fuga-de-flavio"
       },
       {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://www.diariodocentrodomundo.com.br/guimaraes-bolsonaro-fardo-politico-trump-rubio"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/brasil/politica/diplomata-da-argentina-e-chamada-pelo-itamaraty-para-esclarecer-fuga-de-flavio-bolsonaro,6226d5aa89e985bbf20f7c2c60e6051cbzlh6y45.html"
       },
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/"
+       "n": "Terra Brasil Notícias",
+       "u": "https://terrabrasilnoticias.com/2026/11/suspeita-de-apoio-argentino-a-saida-de-flavio-bolsonaro-do-brasil-amplia-crise-diplomatica/"
       }
      ]
     },
     {
-     "kicker": "Senado",
-     "quando": "Ontem",
-     "titulo": "Rogério Marinho e Alcolumbre medem forças pela presidência do Senado em 2027",
-     "resumo": "O PL rejeitou acordo com Davi Alcolumbre (União-AP) e lançou o líder da oposição, que conta com os 28 senadores eleitos pelo partido; Flávio Bolsonaro e Carlos Bolsonaro reforçaram o apoio. Alcolumbre busca o terceiro mandato com apoio do PT e acenos ao centro; a eleição será em fevereiro.",
+     "kicker": "Governo",
+     "quando": "Hoje",
+     "titulo": "Lula diz que nenhum programa social será extinto e promete cumprir as propostas de campanha",
+     "resumo": "Em publicação nas redes sociais, o presidente reeleito rebateu boatos sobre cortes e disse que pode criar novos programas ou ampliar os atuais. Entre as promessas estão um pacote para MEIs, o Pé-de-Meia Universitário e o Desenrola 3.0, que, segundo o Diário do Grande ABC, exigiriam ajustes no Orçamento de 2027.",
      "fontes": [
       {
-       "n": "A Tarde",
-       "u": "https://atarde.com.br/politica/rogerio-marinho-e-alcolumbre-testam-forcas-em-disputa-pelo-senado-1407827"
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4366312/tudo-o-que-foi-prometido-na-campanha-vai-acontecer-podem-ter-certeza-diz-presidente-lula"
       },
       {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/poder-e-governo/2026/10/30/1010220-pl-rejeita-acordo-com-alcolumbre-e-lanca-marinho-como-candidato"
+       "n": "WSCOM",
+       "u": "https://wscom.com.br/noticias/2026/11/01/lula-nega-fim-de-programas-sociais/"
       },
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/perseguicao-a-flavio-fortalece-esforco-da-direita-para-presidir-senado/"
+       "n": "A Rede",
+       "u": "https://arede.info/cotidiano/680541/lula-afirma-que-nenhum-programa-social-sera-extinto-e-rebate-fake-news"
+      }
+     ]
+    },
+    {
+     "kicker": "Big techs",
+     "quando": "Hoje",
+     "titulo": "Governo tenta aprovar ainda em 2026 o marco da IA e a regulação concorrencial das big techs",
+     "resumo": "O marco da inteligência artificial, já aprovado pelo Senado, está com o relator Aguinaldo Ribeiro (PP-PB) na Câmara e prevê multas de até R$ 50 milhões. O projeto de concorrência digital, relatado por Aliel Machado (PV-PR), amplia os poderes do Cade sobre plataformas com receita acima de R$ 5 bilhões no país e está pronto para o plenário; as empresas resistem às duas propostas.",
+     "fontes": [
+      {
+       "n": "Tribuna do Agreste",
+       "u": "https://www.tribunadoagreste.com.br/politica/2026/11/01/1011173-lula-quer-acelerar-aprovacao-de-regras-para-inteligencia-artificial-e-atuacao-das-big-techs"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/governo-quer-aprovar-regras-para-ia-e-big-techs-ainda-em-2026/"
+      },
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/10/7531376-governo-lula-e-relator-querem-aprovar-regulacao-concorrencial-das-big-techs-ate-o-fim-do-ano.html"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "Fux atende AGU e inclui ministérios e supermercados na audiência sobre a proibição das bets",
+     "resumo": "O ministro chamou os ministérios da Saúde e da Justiça, a Abras, o Comitê Paralímpico, a Fenapaf e o Grêmio, e a lista chega a 34 participantes; a AGU dizia que clubes e operadoras dominavam a pauta. A audiência, na terça às 10h, faz parte da ação que questiona a medida provisória que proibiu as apostas on-line.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fux-atende-agu-e-inclui-ministerios-e-abras-em-debate-sobre-bets"
+      },
+      {
+       "n": "Migalhas",
+       "u": "https://www.migalhas.com.br/quentes/467659/fux-inclui-ministerios-da-saude-e-da-justica-em-audiencia-sobre-bets"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/manoela-alcantara/fux-inclui-ministerio-da-saude-e-da-justica-em-audiencia-do-stf-sobre-bets"
       }
      ]
     }
@@ -359,72 +349,88 @@
     {
      "kicker": "Juros",
      "quando": "Hoje",
-     "titulo": "Pausa nos cortes da Selic lidera apostas para o Copom de quarta, com mercado fechado até terça",
-     "resumo": "As opções de Copom na B3 indicavam cerca de 61% de chance de manutenção dos juros em 13,75%, ante 36% para corte de 0,25 ponto; antes da eleição, o corte era o cenário majoritário. Com a B3 fechada no feriado de segunda, o primeiro termômetro será o boletim Focus de terça; a decisão sai na quarta às 18h30.",
+     "titulo": "Copom de quarta deve interromper cortes da Selic, com dólar alto e projeções de inflação em alta",
+     "resumo": "As opções de Copom na B3 apontam 63,1% de chance de manutenção dos juros em 13,75%, e bancos como Itaú e Bradesco citam a alta do dólar e a desancoragem das expectativas de inflação. A Folha destaca que o câmbio pós-eleição e o El Niño ameaçam os preços; a decisão sai na quarta, no mesmo dia do Caged, com estimativa de cerca de 150 mil vagas.",
      "fontes": [
-      {
-       "n": "Seu Dinheiro",
-       "u": "https://www.seudinheiro.com/2026/renda-fixa/o-mercado-mudou-de-ideia-sobre-a-selic-pausa-nos-cortes-ja-lidera-apostas-para-o-proximo-copom-mlim/"
-      },
       {
        "n": "BPMoney",
        "u": "https://bpmoney.com.br/mercado/copom-mercado-ve-631-de-chance-de-manter-selic-em-1375/"
       },
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/queda-da-selic-copom-e-payroll-dividem-atencoes-em-semana-mais-curta-no-brasil-veja-a-agenda/"
+       "n": "B3 Bora Investir",
+       "u": "https://borainvestir.b3.com.br/noticias/a-uma-semana-do-copom-opcoes-da-b3-indicam-631-de-chance-de-manutencao-da-selic/"
+      },
+      {
+       "n": "Plantão Brasil",
+       "u": "https://www.plantaobrasil.net/noticias/161272-semana-decisiva-copom-eleicoes-nos-eua-e-indicadores-de-emprego-agitam-o-mercado"
+      },
+      {
+       "n": "Paraíba Online (capas)",
+       "u": "https://paraibaonline.com.br/brasil/2026/11/01/o-que-tem-nas-capas-dos-jornais-do-brasil-neste-domingo-01-11/"
       }
      ]
     },
     {
      "kicker": "Petróleo",
      "quando": "Hoje",
-     "titulo": "Opep+ avalia hoje se ajusta a produção com o barril acima de US$ 110",
-     "resumo": "Ministros de sete países-chave do grupo, liderados por Arábia Saudita e Rússia, discutem por teleconferência se a alta justifica mudar a oferta. O Brent fechou a semana acima de US$ 110, pressionado pelas minas no Estreito de Ormuz, o que mantém no radar o preço do diesel no Brasil.",
+     "titulo": "Opep+ mantém metas de produção para dezembro e adia decisão sobre 2027",
+     "resumo": "Em reunião on-line, sete grandes produtores, entre eles Arábia Saudita e Rússia, decidiram não mudar a oferta até o fim do ano; o grupo completo se reúne em 29 de novembro para definir as cotas de 2027. O Brent fechou a semana acima de US$ 110, pressionado pela guerra com o Irã, e a AIE prevê excesso de oferta no ano que vem se o fluxo do Golfo se normalizar.",
      "fontes": [
       {
-       "n": "EFE / Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/01/temas-del-dia-de-efe-internacional-del-domingo-1-de-noviembre-1200-gmt/"
+       "n": "InfoMoney / Reuters",
+       "u": "https://www.infomoney.com.br/mercados/opep-mantem-metas-de-producao-de-petroleo-para-dezembro-antes-de-decisao-sobre-2027/"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/empresas-e-negocios/combustiveis/petrobras-diesel-defasagem-58-reajuste-83-dias/"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-energia/opep-mantem-metas-de-producao-de-petroleo-em-dezembro/"
       },
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/10/30/petroleo-dispara-brasil-estende-subsidio-ao-diesel"
+       "n": "Brasil em Folhas",
+       "u": "https://brasilemfolhas.com.br/2026/11/opep-mantem-cotas-de-producao-de-petroleo-para-dezembro/"
       }
      ]
     },
     {
-     "kicker": "Agenda",
+     "kicker": "Combustíveis",
      "quando": "Hoje",
-     "titulo": "Semana encurtada tem Copom, Caged e produção industrial no Brasil e payroll nos EUA",
-     "resumo": "Depois do Focus na terça, saem o Caged e o fluxo cambial na quarta, a produção industrial de setembro na quinta e a balança comercial na sexta. Lá fora, o destaque é o relatório de emprego americano de sexta, além da decisão de juros do Banco da Inglaterra na quinta.",
+     "titulo": "Petrobras sobe o querosene de aviação em 7,2%, segundo aumento seguido",
+     "resumo": "A alta, de R$ 0,45 por litro para as distribuidoras, vale desde este domingo e vem depois de reajuste de 11,76% em outubro. A estatal atribui o aumento à cotação internacional, e a Abear diz que o combustível passou de 30% para mais de 45% dos custos das companhias aéreas desde o início dos conflitos.",
+     "foto": {
+      "src": "fotos/aviao.jpg",
+      "credito": "Rovena Rosa/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/queda-da-selic-copom-e-payroll-dividem-atencoes-em-semana-mais-curta-no-brasil-veja-a-agenda/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-reajusta-combustivel-de-aviacao-em-r-045-por-litro"
       },
       {
-       "n": "The Rio Times",
-       "u": "https://www.riotimesonline.com/key-market-events-for-the-week-of-november-2-6-2026/"
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/commodities/petrobras-reajusta-querosene-aviacao-7-2"
+      },
+      {
+       "n": "TNH1",
+       "u": "https://www.tnh1.com.br/noticia/nid/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-em-novembro/"
       }
      ]
     },
     {
-     "kicker": "Criptomoedas",
+     "kicker": "Comércio exterior",
      "quando": "Hoje",
-     "titulo": "Bitcoin sobe 0,7% e é negociado perto de US$ 78 mil no domingo",
-     "resumo": "Na manhã deste domingo, a moeda digital oscilava entre US$ 77,3 mil e US$ 78,1 mil. Analistas ouvidos pelo setor não descartam queda para US$ 60 mil, e fundos de ether registraram saídas de US$ 1,6 bilhão.",
+     "titulo": "Acordo de livre comércio entre Mercosul e EFTA começa a valer para Brasil e Noruega",
+     "resumo": "O tratado zera tarifas para a maior parte dos produtos brasileiros vendidos aos noruegueses, mercado em que café e soja lideram as exportações. A EFTA reúne ainda Suíça, Islândia e Liechtenstein, onde a vigência depende de cada país.",
      "fontes": [
       {
-       "n": "BitNotícias",
-       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-01-de-novembro-de-2026"
+       "n": "Agência Brasil / Radioagência",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/entra-em-vigor-o-acordo-de-livre-comercio-entre-o-mercosul-e-efta"
       },
       {
-       "n": "TokenPost",
-       "u": "https://www.tokenpost.com/news/investing/45725"
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/acordo-mercosul-efta-zera-tarifas-e-amplia-acesso-de-produtos-brasileiros-a-noruega/"
+      },
+      {
+       "n": "Sim Notícias / CNN Brasil",
+       "u": "https://simnoticias.com.br/cnn-brasil/acordo-com-noruega-passa-a-valer-hoje-cafe-e-soja-lideram-exportacoes/"
       }
      ]
     },
@@ -485,6 +491,26 @@
      ]
     },
     {
+     "kicker": "Temporal",
+     "quando": "Hoje",
+     "titulo": "Supercélula derruba árvores e destelha barracões no centro-sul do Paraná",
+     "resumo": "Na tarde deste domingo, ventos fortes e granizo atingiram Marquinho, Laranjal, Laranjeiras do Sul e Nova Laranjeiras, com postes e fios caídos sobre as ruas; não há registro de feridos. O Inmet mantém alerta de tempestade para o Paraná e áreas de São Paulo e Mato Grosso do Sul durante o feriado, e o aviso segue na terça.",
+     "fontes": [
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/tempo/estragos-do-temporal-no-parana"
+      },
+      {
+       "n": "Terra Brasil Notícias",
+       "u": "https://terrabrasilnoticias.com/2026/11/inmet-emite-alerta-de-tempestade-para-o-parana-e-areas-de-sp-e-ms-no-feriado-de-finados/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/tempo/2026/10/31/tempestade-nao-da-tregua-depois-do-feriado-sao-paulo-e-parana-inteiros-entram-em-alerta-na-terca"
+      }
+     ]
+    },
+    {
      "kicker": "Segurança",
      "quando": "Hoje",
      "titulo": "Um ano depois, relatórios apontam câmeras obstruídas na operação mais letal do Rio",
@@ -521,26 +547,6 @@
       {
        "n": "ND+",
        "u": "https://ndmais.com.br/seguranca/prf-reforca-fiscalizacao-operacao-finados-2026-em-sc/"
-      }
-     ]
-    },
-    {
-     "kicker": "Clima",
-     "quando": "Hoje",
-     "titulo": "BH tem chuva em várias regiões, e alerta de tempestades em Minas vai até a manhã de Finados",
-     "resumo": "A capital mineira registrou chuva em diversos bairros na manhã deste domingo. A Defesa Civil estadual prevê até 40 mm, ventos de até 80 km/h e possível granizo até as 9h de segunda, e orienta evitar áreas alagadas, encostas e abrigo sob árvores.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/cidades/2026/11/1/belo-horizonte-registra-chuvas-em-diversas-regioes-na-manha-deste-domingo-1"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/cidades/2026/10/31/defesa-civil-alerta-para-tempestades-com-ventos-de-ate-80-km-h-em-minas-neste-domingo"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/minas-gerais/defesa-civil-alerta-para-mais-chuva-forte-em-bh-apos-temporal-alagar-ruas"
       }
      ]
     },
@@ -586,7 +592,7 @@
      "kicker": "Estados Unidos",
      "quando": "Hoje",
      "titulo": "A dois dias das eleições de meio de mandato, Trump retoma comícios com aprovação de 32%",
-     "resumo": "O presidente voltou a agendar atos em Iowa e Kansas, depois de cancelá-los, em meio a pesquisas desfavoráveis aos republicanos; a aprovação dele está em 32%, segundo Reuters/Ipsos. Na terça, os americanos renovam a Câmara e parte do Senado, com disputas acirradas no Texas e em Michigan.",
+     "resumo": "O presidente voltou a agendar atos em Iowa e Kansas em meio a pesquisas desfavoráveis aos republicanos; na Reuters/Ipsos, a aprovação dele está em 32%, e os democratas lideram a intenção de voto para o Congresso por 47% a 36%. Na terça, os americanos renovam a Câmara e parte do Senado; o instituto ressalva que a pesquisa nacional não capta as disputas distrito a distrito.",
      "fontes": [
       {
        "n": "EFE / Infobae",
@@ -603,18 +609,62 @@
      ]
     },
     {
-     "kicker": "Ucrânia",
+     "kicker": "Irã",
      "quando": "Hoje",
-     "titulo": "Trégua em Kherson termina hoje, e ataques russos deixam 650 localidades sem luz em Zhitomir",
-     "resumo": "O cessar-fogo local de seis dias permitiu a retirada de moradores e a entrega de ajuda em Oleshki, área ocupada; o papa Leão XIV disse esperar que abra caminho para o diálogo. A Rússia voltou a atingir a rede elétrica ucraniana, e Zelensky pediu aos aliados que acelerem novos pacotes de ajuda.",
+     "titulo": "Irã negocia com mediadores do Catar o fim da guerra, e Trump promete não atacar antes da eleição",
+     "resumo": "Negociadores iranianos tiveram em Doha o terceiro dia de conversas, e o chanceler Abbas Araghchi diz que há uma proposta para reabrir o Estreito de Ormuz em até dois dias após um acordo. Trump chamou as conversas de produtivas, mas não descartou ação militar depois da votação de terça; Teerã ameaça retaliar alvos americanos e israelenses na região.",
      "fontes": [
       {
-       "n": "EFE / Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/01/temas-del-dia-de-efe-internacional-del-domingo-1-de-noviembre-1200-gmt/"
+       "n": "Agência Brasil / Reuters",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/ira-e-mediadores-do-catar-travam-negociacoes-para-fim-de-guerra"
       },
       {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/russia-ataca-rede-eletrica-da-ucrania-e-deixa-milhares-de-casas-sem-energia/"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/11/01/noticias-do-dia-1-de-novembro-2026-noite"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/mundo/marinha-da-guarda-revolucionaria-iraniana-diz-que-tres-petroleiros-pegaram-fogo-no-estreito-de-ormuz,da8762f7605779b059086d483a0b7e18prg4ng5q.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Ucrânia ataca refinaria da Lukoil e fábrica de mísseis na Rússia no fim da trégua de Oleshky",
+     "resumo": "Drones atingiram durante a madrugada a refinaria de Kstovo, uma das maiores do país, e Zelensky disse que forças ucranianas acertaram uma fábrica de componentes de mísseis em Rostov; a extensão dos danos não foi confirmada. O cessar-fogo local que permitiu retirar civis de Oleshky terminou hoje, e o papa Leão XIV pediu que a operação leve a novas iniciativas de paz.",
+     "fontes": [
+      {
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/ucrnia-ataca-uma-das-maiores-refinarias-russas-e-uma-fbrica-de-msseis"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-pede-esforcos-de-paz-entre-russia-e-ucrania/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/ucrania-desloca-civis-proximo-ao-fim-do-cessar-fogo-temporario-em-oleshky/"
+      }
+     ]
+    },
+    {
+     "kicker": "Bulgária",
+     "quando": "Hoje",
+     "titulo": "Iliana Yotova lidera apuração e caminha para vencer o segundo turno na Bulgária",
+     "resumo": "Pesquisas de boca de urna dão à presidente, de perfil próximo a Moscou e contrária à ajuda militar à Ucrânia, entre 51% e 53% dos votos, contra 43% a 45% do economista pró-europeu Andrey Gyurov. A apuração parcial oficial, com cerca de 20% das urnas, mostra vantagem maior; a participação foi baixa.",
+     "fontes": [
+      {
+       "n": "Demócrata / EFE",
+       "u": "https://www.democrata.es/internacional/yotova-lidera-el-recuento-parcial-en-la-segunda-vuelta-presidencial-en-bulgaria/"
+      },
+      {
+       "n": "Notícias ao Minuto",
+       "u": "https://www.noticiasaominuto.com/mundo/3076710/pro-russa-iliana-yotova-vence-as-presidenciais-na-bulgaria-sondagens"
+      },
+      {
+       "n": "Vedomosti",
+       "u": "https://www.vedomosti.ru/politics/news/2026/11/01/1241860-iotova-pobezhdaet"
       }
      ]
     },
@@ -637,42 +687,6 @@
        "u": "https://www.rtp.pt/noticias/mundo/colisao-de-comboios-de-alta-velocidade-em-espanha-faz-mais-de-60-mortos_n1774930"
       }
      ]
-    },
-    {
-     "kicker": "Oriente Médio",
-     "quando": "Ontem",
-     "titulo": "Irã declara área proibida a leste de Ormuz depois que petroleiro pega fogo ao bater em minas",
-     "resumo": "A Marinha iraniana disse que o navio ignorou avisos e anunciou a restrição à navegação na área. Rubio afirma que os contatos com Teerã continuam, enquanto o chanceler iraniano nega conversas com autoridades americanas.",
-     "fontes": [
-      {
-       "n": "Investing.com / Reuters",
-       "u": "https://br.investing.com/news/commodities-news/marinha-do-ira-diz-que-petroleiro-se-incendeia-apos-bater-em-minas-perto-do-estreito-de-ormuz-2110632"
-      },
-      {
-       "n": "Antena 1",
-       "u": "https://www.antena1.com.br/noticias/marinha-do-ira-diz-que-petroleiro-se-incendeia-apos-bater-em-minas-perto-do-estreito-de-ormuz"
-      },
-      {
-       "n": "Notícias ao Minuto",
-       "u": "https://www.noticiasaominuto.com/mundo/3076510/petroleiro-incendeia-se-no-estreito-de-ormuz-apos-colidir-com-mina-naval"
-      }
-     ]
-    },
-    {
-     "kicker": "Bulgária",
-     "quando": "Hoje",
-     "titulo": "Búlgaros decidem no segundo turno entre presidente interina e economista pró-europeu",
-     "resumo": "A disputa opõe Iliana Yotova, socialista que ocupa a Presidência interinamente e é vista como próxima de Moscou, ao economista Andrey Gyurov. A expectativa é de resultado apertado.",
-     "fontes": [
-      {
-       "n": "EFE / Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/01/temas-del-dia-de-efe-internacional-del-domingo-1-de-noviembre-1200-gmt/"
-      },
-      {
-       "n": "Unitel / EFE",
-       "u": "https://unitel.bo/noticias/agencias/temas-del-dia-de-efe-internacional-del-domingo-1-de-noviembre-1200-gmt-IC24515915"
-      }
-     ]
     }
    ]
   },
@@ -683,46 +697,74 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
-     "kicker": "Fórmula 1",
+     "kicker": "Copa do Brasil",
      "quando": "Hoje",
-     "titulo": "Antonelli larga em 4º no México e pode ser o campeão mais jovem da história às 17h",
-     "resumo": "Com 365 pontos, 123 a mais que George Russell, o piloto da Mercedes garante o título se terminar entre os nove primeiros. Hamilton larga na pole, e Verstappen perdeu uma posição no grid por punição; Gabriel Bortoleto, da Audi, sai em 14º.",
+     "titulo": "Palmeiras bate o Vasco por 1 a 0 e leva vantagem para São Januário na semifinal",
+     "resumo": "Maurício marcou aos 23 minutos do primeiro tempo, depois de jogada de Arias e passe de Marlon Freitas, e o Vasco perdeu o zagueiro Saldivia, expulso com o segundo amarelo. A volta é no próximo domingo, no Rio; na outra semifinal, Grêmio e Atlético-MG se enfrentam desde as 18h30 na Arena, em Porto Alegre.",
      "fontes": [
       {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-antonelli-larga-em-quinto-no-mexico-e-pode-conquistar-titulo-mundial-neste-domingo/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-0"
       },
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/automobilismo/noticia/2026/11/01/antonelli-pode-ser-campeao-f1-hoje-mexico"
+       "n": "Campo Grande News",
+       "u": "https://www.campograndenews.com.br/esportes/com-um-a-mais-palmeiras-vence-vasco-e-sai-na-frente-em-duelo-da-semifinal"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/hamilton-garante-pole-no-gp-do-mexico-bortoleto-e-14o"
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/palmeiras/palmeiras-vence-o-vasco-mas-perde-ritmo-e-desperdica-chance-de-ampliar-vantagem-na-copa-do-brasil"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/gremio-x-atletico-mg-escalacoes-e-onde-assistir-a-semi-da-copa-do-brasil/"
       }
      ]
     },
     {
-     "kicker": "Copa do Brasil",
+     "kicker": "Fórmula 1",
      "quando": "Hoje",
-     "titulo": "Palmeiras x Vasco, às 16h, e Grêmio x Atlético-MG, às 18h30, abrem as semifinais",
-     "resumo": "O Palmeiras recebe o Vasco no Nubank Parque, com transmissão da Globo, e à noite o Grêmio enfrenta o Atlético-MG em Porto Alegre. Os jogos de volta definem os finalistas.",
+     "titulo": "Antonelli corre em 3º na reta final do GP do México, posição que lhe dá o título da Fórmula 1",
+     "resumo": "O piloto da Mercedes, de 20 anos, liderava até a volta 44, quando uma parada lenta nos boxes o tirou da ponta; depois de safety car e bandeira vermelha, seguia em 3º, atrás de Max Verstappen e Lewis Hamilton. Basta terminar entre os nove primeiros para ser campeão com antecedência; Gabriel Bortoleto, da Audi, corria em 12º, e a classificação oficial sai ao fim da prova.",
      "fontes": [
       {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/01/internet-e-redes-sociais/palmeiras-x-vasco-onde-assistir-a-semifinal-da-copa-do-brasil-2026"
+       "n": "ESPN",
+       "u": "https://www.espn.com/f1/results/_/id/600057447"
       },
       {
-       "n": "Goal",
-       "u": "https://www.goal.com/br/listas/futebol-programacao-jogos-tv-aberta-fechada-onde-assistir-online-app/bltc0a7361374657315"
+       "n": "Lance!",
+       "u": "https://lance.com.br/formula-1/ao-vivo-siga-a-corrida-do-gp-do-mexico-etapa-da-f1-2026.html"
       },
       {
-       "n": "Terra",
-       "u": "https://terra.com.br/esportes/atletico-mg/atletico-mg-visita-o-gremio-pela-ida-da-semifinal-da-copa-do-brasil-e-dominguez-avisa-melhorar-e-corrigir,817fd0d8c0304fa67142ac2a8d921924alrwptpt.html"
+       "n": "VAVEL Brasil",
+       "u": "https://www.vavel.com/br/motor/2026/11/01/formula1/1277629-gp-do-mexico-de-f1-2026-ao-vivo-corrida-volta-a-volta-classificacao-resultado.html"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-e-vasco-abrem-semifinais-da-copa-do-brasil-em-momentos-distintos/"
+       "u": "https://www.cnnbrasil.com.br/esportes/automobilismo/chance-de-titulo-de-kimi-antonelli-no-gp-do-mexico-de-f1-e-de-988/"
+      },
+      {
+       "n": "A Bola",
+       "u": "https://www.abola.pt/liveblog/formula-1-siga-aqui-em-direto-o-gp-do-mexico"
+      }
+     ]
+    },
+    {
+     "kicker": "Seleção feminina",
+     "quando": "Hoje",
+     "titulo": "Brasil vira sobre a China e vai à semifinal da Copa do Mundo Feminina Sub-17",
+     "resumo": "No Marrocos, a China abriu o placar no fim do primeiro tempo, e Helena marcou os dois gols brasileiros na etapa final, o da vitória aos 43 minutos. A semifinal é na quarta (4), às 15h (Brasília).",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/copa-do-mundo-sub-17-de-virada-brasil-vence-a-china-e-avanca-a-semifinal"
+      },
+      {
+       "n": "CBF",
+       "u": "https://www.cbf.com.br/selecao-brasileira/noticias/jogos-selecao-feminina-sub-17/a/em-virada-sobre-a-china-brasil-se-classifica-para-a-semifinal-da-copa-do-mundo-feminina-sub-17"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/brasil/brasil-busca-virada-contra-a-china-e-avanca-para-a-semifinal-do-mundial-feminino-sub-17/"
       }
      ]
     },
@@ -747,26 +789,6 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/final-brasileira-garante-15o-titulo-do-pais-na-libertadores-feminina"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Coritiba vence o Vitória por 2 a 0 e se afasta da zona de rebaixamento",
-     "resumo": "Pedro Rocha e Tinga marcaram no início do segundo tempo no Couto Pereira, e o Coritiba voltou a vencer depois de dois meses, chegando a 42 pontos, em 11º. O Vitória, 14º com 38, segue dois pontos à frente do Corinthians, primeiro time da zona de rebaixamento, com 36.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/coritiba-vence-o-vitoria-e-se-afasta-da-zona-de-rebaixamento-do-brasileirao"
-      },
-      {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/esportes/apos-dois-meses-sem-vencer-coritiba-bate-vitoria-por-2-a-0-no-brasileirao"
-      },
-      {
-       "n": "365Scores",
-       "u": "https://www.365scores.com/pt-br/news/magazine/coritiba-vence-vitoria-afasta-z4-brasileirao/"
       }
      ]
     },
@@ -815,6 +837,18 @@
       {
        "n": "IstoÉ Dinheiro",
        "u": "https://istoedinheiro.com.br/duas-novas-pilulas-contra-o-cancer-mostram-resultados-sem-precedentes"
+      }
+     ]
+    },
+    {
+     "kicker": "Vacinação",
+     "quando": "Hoje",
+     "titulo": "Cobertura da vacina meningocócica ACWY fica em 67,1% entre adolescentes, longe da meta de 95%",
+     "resumo": "Dados de painel lançado pelo Ministério da Saúde mostram que aos 11 anos só 46,8% estão vacinados, índice que sobe para 77,4% aos 14. A meta do Programa Nacional de Imunizações é de 95% em todas as idades.",
+     "fontes": [
+      {
+       "n": "Diário do Estado de SP",
+       "u": "https://diarioesp.com.br/saude/2026/11/01/cobertura-da-vacina-meningococica-acwy-fica-em-67-1-entre-adolescentes-de-11-a-14-anos.html"
       }
      ]
     },
@@ -873,22 +907,6 @@
        "u": "https://ncnews.com.br/2026/10/31/queimadas-caem-amazonas-fumaca-preocupa/"
       }
      ]
-    },
-    {
-     "kicker": "Vírus respiratórios",
-     "quando": "30/10",
-     "titulo": "Síndrome respiratória grave cresce em cinco estados, com alta de covid em MT e MS",
-     "resumo": "Amapá, Mato Grosso, Mato Grosso do Sul, Sergipe e Maranhão estão em alerta com tendência de alta, segundo o boletim InfoGripe, da Fiocruz. Os casos graves de covid aumentaram, mas seguem baixos em relação à pandemia; nas últimas quatro semanas, o rinovírus respondeu por mais da metade dos testes positivos.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/saude/cinco-estados-do-brasil-estao-em-nivel-de-risco-para-sindrome-respiratoria/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-10/sindrome-respiratoria-aguda-esta-em-nivel-de-alerta-em-cinco-estados"
-      }
-     ]
     }
    ]
   },
@@ -898,6 +916,30 @@
    "cor": "--edu",
    "nota": "",
    "itens": [
+    {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Falta uma semana para o Enem: portões fecham às 13h e documento digital só vale no aplicativo",
+     "resumo": "Mais de 5 milhões de inscritos fazem no domingo (8) as provas de linguagens, ciências humanas e redação, das 13h30 às 19h; no dia 15 vêm ciências da natureza e matemática, até 18h30. É obrigatório levar caneta preta de corpo transparente e documento com foto, e capturas de tela de documentos digitais não são aceitas.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/-wzDRqKS5ARLF558l4gUMxah_q4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7267.jpg_0.jpg?itok=DKDGRpwi",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-uma-semana-para-o-enem-2026-veja-horarios-e-o-que-levar"
+      },
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/11/01/falta-uma-semana-para-o-enem-2026-veja-horarios-e-o-que-levar/"
+      },
+      {
+       "n": "A Tarde",
+       "u": "https://atarde.com.br/educacao/enem/provas-do-enem-2026-comecam-em-uma-semana-veja-horarios-e-o-que-levar-1407932"
+      }
+     ]
+    },
     {
      "kicker": "Vestibular",
      "quando": "Hoje",
@@ -919,26 +961,6 @@
       {
        "n": "Diário do Estado de SP",
        "u": "https://diarioesp.com.br/noticias/2026/11/01/fuvest-2027-aplica-primeira-fase-neste-domingo-com-80-questoes-e-novo-polo-em-fortaleza.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "Ontem",
-     "titulo": "A uma semana do Enem, especialistas recomendam revisão leve e conferência do local de prova",
-     "resumo": "O exame será aplicado nos domingos 8 e 15 de novembro, com portões abertos ao meio-dia e fechados às 13h (Brasília). A orientação é revisar conteúdos sem sobrecarga, manter o sono regular e checar com antecedência o cartão de confirmação e o trajeto até o local.",
-     "fontes": [
-      {
-       "n": "A Tarde",
-       "u": "https://atarde.com.br/educacao/enem/enem-2026-veja-como-se-preparar-nos-ultimos-dias-antes-da-prova-1407558"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/educacao/audio/2026-10/especial-enem-2026-exame-sera-aplicado-nos-dias-8-e-15-de-novembro"
-      },
-      {
-       "n": "Bem Paraná",
-       "u": "https://www.bemparana.com.br/noticias/parana/reta-final-para-o-enem-nao-e-so-de-estudo-veja-dicas-do-que-fazer-na-ultima-semana-antes-das-provas/"
       }
      ]
     },
