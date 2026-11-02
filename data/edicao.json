@@ -1,17 +1,11 @@
 {
- "data": "Domingo, 1º de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "01/11/2026 · 19h20 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 08h30 (bitcoin); B3 fechada no fim de semana e no feriado de Finados, reabre na terça",
- "fontes": 80,
+ "data": "Segunda-feira, 2 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "02/11/2026 · 07h06 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de 18h00 de sexta (30/10); B3 fechada no feriado de Finados, reabre na terça (3)",
+ "fontes": 72,
  "mercado": [
-  {
-   "nome": "Bitcoin · 08h30",
-   "valor": "US$ 77.920",
-   "var": "+0,7% em 24h",
-   "dir": "up"
-  },
   {
    "nome": "Ibovespa · fechamento 30/10",
    "valor": "167.922 pts",
@@ -31,27 +25,33 @@
    "dir": "up"
   },
   {
+   "nome": "Bitcoin · 01/11 08h30",
+   "valor": "US$ 77.920",
+   "var": "+0,7% em 24h",
+   "dir": "up"
+  },
+  {
    "nome": "Selic · taxa atual",
    "valor": "13,75%",
-   "var": "opções da B3 dão 61% de chance de manutenção",
+   "var": "opções da B3 dão 68,8% de chance de manutenção na quarta",
    "dir": ""
   }
  ],
  "agenda": [
   {
    "hora": "Seg 2/11",
-   "txt": "Feriado de Finados, com B3 fechada e alerta de tempestade no Paraná e em áreas de SP e MS",
+   "txt": "Feriado de Finados, com B3 fechada e alerta laranja do Inmet para tempestades no Paraná e em áreas de SP e MS",
    "cat": "brasil"
   },
   {
    "hora": "Ter 3/11",
-   "txt": "Senado tenta votar a PEC da Segurança Pública em dois turnos; nos EUA, eleições de meio de mandato decidem o controle do Congresso",
+   "txt": "Senado tenta votar a PEC da Segurança Pública em dois turnos; às 10h, STF faz audiência pública sobre a proibição das bets",
    "cat": "politica"
   },
   {
-   "hora": "Ter 3/11 · 10h",
-   "txt": "STF faz audiência pública sobre a proibição das bets, com 34 participantes",
-   "cat": "politica"
+   "hora": "Ter 3/11",
+   "txt": "Eleições de meio de mandato nos EUA renovam a Câmara e 35 cadeiras do Senado",
+   "cat": "mundo"
   },
   {
    "hora": "Qua 4/11 · 15h e 18h30",
@@ -59,14 +59,14 @@
    "cat": "economia"
   },
   {
-   "hora": "Dom 8/11",
-   "txt": "Primeiro dia do Enem, com portões fechando às 13h; à tarde, Vasco x Palmeiras pela volta da semifinal da Copa do Brasil",
-   "cat": "educacao"
+   "hora": "Sáb 7 e dom 8/11",
+   "txt": "Volta das semifinais da Copa do Brasil (Atlético-MG x Grêmio no sábado; Vasco x Palmeiras no domingo) e GP de São Paulo de F1 em Interlagos",
+   "cat": "esporte"
   },
   {
-   "hora": "Sáb 28/11",
-   "txt": "Palmeiras e Estudiantes decidem a Libertadores no Estádio Centenário, em Montevidéu",
-   "cat": "esporte"
+   "hora": "Dom 8/11",
+   "txt": "Primeiro dia do Enem, com portões fechando às 13h (Brasília)",
+   "cat": "educacao"
   }
  ],
  "acervo": [
@@ -162,44 +162,40 @@
   }
  ],
  "manchete": {
-  "kicker": "Congresso",
-  "titulo": "Governo quer aprovar PEC da Segurança em dois turnos na terça; oposição insiste na redução da maioridade penal",
-  "resumo": "A base aliada pretende votar os dois turnos no mesmo dia, com um calendário especial que dispensa o intervalo regimental, e diz ter votos para derrubar a emenda que reduz a maioridade penal. A oposição apresentou destaque para votar o tema em separado, e a bancada do PT ainda discute posição.",
-  "foto": {
-   "src": "https://imagens.ebc.com.br/sWetGrwLQ39hQGcg_lnLUiuXlis=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/0d9a6922.jpg?itok=J_yIvdds",
-   "credito": "Lula Marques/Agência Brasil (arquivo)"
-  },
-  "entenda": "A PEC 18/2025 foi enviada pelo Executivo, aprovada pela Câmara em março e concluída na CCJ do Senado em 14 de outubro. O texto prevê regime mais duro e presídios de segurança máxima para líderes de facções e milícias, permite polícias municipais de natureza civil, amplia atribuições da PRF e destina a estados e municípios metade dos fundos nacionais de segurança e penitenciário. Lula condiciona a criação de um Ministério da Segurança Pública, prevista para 2027, à promulgação. O líder do PT, Camilo Santana (CE), propôs reduzir a maioridade para 16 anos em crimes hediondos; a oposição apresentou emenda de Rogério Marinho (PL-RN) que fixa 16 anos como regra e 14 em crimes graves. A estratégia governista tem sido rejeitar emendas para que o texto não volte à Câmara.",
+  "kicker": "Fórmula 1",
+  "titulo": "Antonelli é campeão da Fórmula 1 aos 20 anos e se torna o mais jovem da história",
+  "resumo": "O italiano da Mercedes terminou em terceiro no GP do México, vencido por Max Verstappen, e garantiu o título com quatro etapas de antecedência. Ele supera a marca de Sebastian Vettel, campeão em 2010 aos 23 anos.",
+  "entenda": "Andrea Kimi Antonelli, em sua segunda temporada na categoria, chegou à Cidade do México precisando de um resultado modesto para confirmar o título. Liderou boa parte da corrida, perdeu a ponta na segunda metade depois de um erro da Mercedes na troca de pneus e ainda recebeu punição de 10 segundos por um toque no carro de Isack Hadjar. Depois de safety car e bandeira vermelha causados pela batida de Valtteri Bottas, recuperou o terceiro lugar, atrás de Verstappen e de Lewis Hamilton, que largou na pole. É o primeiro italiano campeão mundial desde Alberto Ascari, em 1953.",
   "fatos": [
-   "A votação no plenário está marcada para terça (3); por ser emenda constitucional, precisa de 49 votos em cada um dos dois turnos.",
-   "Se o texto for alterado, volta à Câmara; aprovado sem mudanças, segue para promulgação.",
-   "A emenda de Rogério Marinho (PL-RN), assinada também por Flávio Bolsonaro, fixa 16 anos como regra e 14 em crimes hediondos; Carlos Portinho (PL-RJ) pediu votação em separado."
+   "Antonelli chegou a 380 pontos; atrás dele estão Verstappen (261), Hamilton (259) e George Russell (250), segundo a CartaCapital.",
+   "Verstappen conquistou a terceira vitória da temporada e a sexta no México; Hamilton foi o segundo colocado.",
+   "A próxima etapa é o GP de São Paulo, em Interlagos, de 6 a 8 de novembro; Gabriel Bortoleto, da Audi, cruzou a linha em 11º no México."
   ],
   "fontes": [
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/governo-tenta-acelerar-pec-da-seguranca-oposicao-insiste-em-maioridade/",
-    "d": "Estratégia dos dois lados"
+    "n": "CartaCapital",
+    "u": "https://www.cartacapital.com.br/esporte/antonelli-se-torna-o-campeao-mais-jovem-da-formula-1-em-gp-do-mexico-com-vitoria-de-verstappen/",
+    "d": "Recorde e classificação"
    },
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira",
-    "d": "O que prevê a PEC"
+    "n": "Terra",
+    "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-max-verstappen-vence-o-gp-do-mexico-e-kimi-antonelli-conquista-o-titulo-da-f1-2026,b6fe8225ec058ec9399cbf22b1ed69e9slj62x16.html",
+    "d": "Resultado da corrida"
    },
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/colunas/milena-teixeira/sem-acordo-bancada-do-pt-fara-reuniao-para-discutir-maioridade-penal",
-    "d": "Reunião da bancada"
+    "n": "Itatiaia",
+    "u": "https://www.itatiaia.com.br/esportes/motor/formula-1/max-verstappen-vence-gp-do-mexico-antonelli-termina-em-3o-e-e-campeao-da-formula-1/",
+    "d": "Lances da prova"
    },
    {
-    "n": "A Tarde",
-    "u": "https://atarde.com.br/politica/pec-da-seguranca-e-reducao-da-maioridade-penal-serao-votadas-na-terca-3-1407757",
-    "d": "Pauta de terça"
+    "n": "Anadolu",
+    "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322",
+    "d": "Primeiro italiano desde Ascari"
    },
    {
-    "n": "Diário do Estado de SP",
-    "u": "https://diarioesp.com.br/noticias/2026/11/01/senadores-do-pt-buscam-consenso-sobre-maioridade-penal-antes-de-votacao-de-pec-da-seguranca.html",
-    "d": "Divisão no PT"
+    "n": "Lance!",
+    "u": "https://www.lance.com.br/formula-1/verstappen-vence-gp-do-mexico-mas-e-ofuscado-por-titulo-de-antonelli-na-f1.html",
+    "d": "Vitória de Verstappen"
    }
   ]
  },
@@ -211,8 +207,96 @@
    "nota": "Brasil",
    "itens": [
     {
-     "kicker": "Eleição",
+     "kicker": "Congresso",
      "quando": "Hoje",
+     "titulo": "Senado vota amanhã a PEC da Segurança, e redução da maioridade penal divide até a base do governo",
+     "resumo": "A base aliada quer aprovar os dois turnos na terça (3), com calendário especial, e evitar mudanças que devolvam o texto à Câmara. O líder do PT, Camilo Santana, propôs 16 anos para crimes hediondos, enquanto a oposição defende 16 como regra e 14 para crimes graves; parte do PT prefere manter o texto aprovado pelos deputados.",
+     "lados": [
+      {
+       "quem": "Governo e base",
+       "txt": "Defendem aprovar a PEC sem alterações para promulgá-la logo; Lula vincula a criação do Ministério da Segurança Pública à aprovação."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "A emenda de Rogério Marinho (PL-RN), assinada também por Flávio Bolsonaro e outros 36 parlamentares, reduz a idade penal e terá pedido de votação em separado."
+      }
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/sWetGrwLQ39hQGcg_lnLUiuXlis=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/0d9a6922.jpg?itok=J_yIvdds",
+      "credito": "Lula Marques/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/governo-tenta-acelerar-pec-da-seguranca-oposicao-insiste-em-maioridade/"
+      },
+      {
+       "n": "Brasil em Folhas",
+       "u": "https://brasilemfolhas.com.br/2026/11/senado-vota-pec-da-seguranca-publica-nesta-terca-feira/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/milena-teixeira/sem-acordo-bancada-do-pt-fara-reuniao-para-discutir-maioridade-penal"
+      }
+     ]
+    },
+    {
+     "kicker": "Oposição",
+     "quando": "Ontem",
+     "titulo": "Tarcísio recebe apoio de aliados depois de ser chamado de traidor por bolsonaristas",
+     "resumo": "O governador de São Paulo reconheceu a vitória de Lula, criticou a carta em que Flávio Bolsonaro se dizia o verdadeiro presidente eleito e admitiu que pode disputar a Presidência em 2030. Aliados como André do Prado (PL), presidente da Alesp, e Michelle Bolsonaro saíram em sua defesa; o prefeito Ricardo Nunes e o senador eleito Guilherme Derrite não se manifestaram.",
+     "lados": [
+      {
+       "quem": "Críticos bolsonaristas",
+       "txt": "Nas redes, apoiadores da ala mais radical acusam Tarcísio de trair Flávio e a família Bolsonaro ao aceitar o resultado."
+      },
+      {
+       "quem": "Aliados de Tarcísio",
+       "txt": "Lembram que ele fez mais de 100 atos de campanha por Flávio e dizem que os ataques servem para dividir a direita."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/apos-criticas-da-direita-tarcisio-recebe-apoio-de-aliados-nas-redes/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/colunas/vinicius-passarelli/aliados-de-tarcisio-se-unem-para-rebater-onda-de-ataques-de-bolsonaristas"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/eleicoes/tarcisio-reconhece-vitoria-de-lula-em-publicacao-nas-redes-eleicao-passou-brasil-continua,71345447fb61effc6f5e26e9cd6018f9dqkvw9jd.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Governo",
+     "quando": "Hoje",
+     "titulo": "Lula descansa no feriado, retoma a agenda na quarta e deve definir ministérios só depois da COP31",
+     "resumo": "O presidente reeleito está na Granja do Torto para recuperar a voz e volta aos compromissos oficiais na quarta (4); de 9 a 20 de novembro, a agenda inclui a COP31, na Turquia, e a cúpula da Asean, nas Filipinas. Nos bastidores, circulam nomes para a nova Esplanada, mas não houve convites oficiais, e as primeiras definições são esperadas a partir de dezembro.",
+     "fontes": [
+      {
+       "n": "Prensa Mercosur",
+       "u": "https://prensamercosur.org/2026/11/01/reeleito-lula-reduz-agenda-e-prolonga-feriado-para-descansar/"
+      },
+      {
+       "n": "Plantão Brasil",
+       "u": "https://www.plantaobrasil.net/noticias/161225-bastidores-do-quarto-mandato-lula-articula-nova-esplanada-apos-agenda-internacional"
+      },
+      {
+       "n": "Agora RN",
+       "u": "https://agorarn.com.br/politica/lula-reforma-ministerial-apoio-congresso/"
+      }
+     ]
+    },
+    {
+     "kicker": "Eleição",
+     "quando": "Ontem",
      "titulo": "27 partidos reconhecem a reeleição de Lula; Novo contesta e pede a cassação da chapa",
      "resumo": "Levantamento com 29 das 30 legendas registradas, excluído o PT, mostra que só o Novo não aceitou o resultado do segundo turno, e o Mobiliza não se manifestou. O PL, por meio de Valdemar Costa Neto, reconheceu a vitória, embora Flávio Bolsonaro tenha questionado a eleição em carta, sem apresentar provas.",
      "lados": [
@@ -246,7 +330,7 @@
     },
     {
      "kicker": "Flávio Bolsonaro",
-     "quando": "Ontem",
+     "quando": "31/10",
      "titulo": "Saída de Flávio aprofunda crise com a Argentina; Rubio nega participação direta dos EUA",
      "resumo": "O Itamaraty convocou a encarregada de negócios argentina, María Emilia Cortés, para explicar a suposta ajuda de integrantes do governo Milei à viagem do senador, que deixou o país por Puerto Iguazú apesar de ordem judicial que o proibia de sair. Reportagens atribuem a articulação a um assessor de Milei, sem confirmação oficial; os dois países estão sem embaixadores desde julho.",
      "lados": [
@@ -277,66 +361,6 @@
        "u": "https://terrabrasilnoticias.com/2026/11/suspeita-de-apoio-argentino-a-saida-de-flavio-bolsonaro-do-brasil-amplia-crise-diplomatica/"
       }
      ]
-    },
-    {
-     "kicker": "Governo",
-     "quando": "Hoje",
-     "titulo": "Lula diz que nenhum programa social será extinto e promete cumprir as propostas de campanha",
-     "resumo": "Em publicação nas redes sociais, o presidente reeleito rebateu boatos sobre cortes e disse que pode criar novos programas ou ampliar os atuais. Entre as promessas estão um pacote para MEIs, o Pé-de-Meia Universitário e o Desenrola 3.0, que, segundo o Diário do Grande ABC, exigiriam ajustes no Orçamento de 2027.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4366312/tudo-o-que-foi-prometido-na-campanha-vai-acontecer-podem-ter-certeza-diz-presidente-lula"
-      },
-      {
-       "n": "WSCOM",
-       "u": "https://wscom.com.br/noticias/2026/11/01/lula-nega-fim-de-programas-sociais/"
-      },
-      {
-       "n": "A Rede",
-       "u": "https://arede.info/cotidiano/680541/lula-afirma-que-nenhum-programa-social-sera-extinto-e-rebate-fake-news"
-      }
-     ]
-    },
-    {
-     "kicker": "Big techs",
-     "quando": "Hoje",
-     "titulo": "Governo tenta aprovar ainda em 2026 o marco da IA e a regulação concorrencial das big techs",
-     "resumo": "O marco da inteligência artificial, já aprovado pelo Senado, está com o relator Aguinaldo Ribeiro (PP-PB) na Câmara e prevê multas de até R$ 50 milhões. O projeto de concorrência digital, relatado por Aliel Machado (PV-PR), amplia os poderes do Cade sobre plataformas com receita acima de R$ 5 bilhões no país e está pronto para o plenário; as empresas resistem às duas propostas.",
-     "fontes": [
-      {
-       "n": "Tribuna do Agreste",
-       "u": "https://www.tribunadoagreste.com.br/politica/2026/11/01/1011173-lula-quer-acelerar-aprovacao-de-regras-para-inteligencia-artificial-e-atuacao-das-big-techs"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/governo-quer-aprovar-regras-para-ia-e-big-techs-ainda-em-2026/"
-      },
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/politica/2026/10/7531376-governo-lula-e-relator-querem-aprovar-regulacao-concorrencial-das-big-techs-ate-o-fim-do-ano.html"
-      }
-     ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Hoje",
-     "titulo": "Fux atende AGU e inclui ministérios e supermercados na audiência sobre a proibição das bets",
-     "resumo": "O ministro chamou os ministérios da Saúde e da Justiça, a Abras, o Comitê Paralímpico, a Fenapaf e o Grêmio, e a lista chega a 34 participantes; a AGU dizia que clubes e operadoras dominavam a pauta. A audiência, na terça às 10h, faz parte da ação que questiona a medida provisória que proibiu as apostas on-line.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fux-atende-agu-e-inclui-ministerios-e-abras-em-debate-sobre-bets"
-      },
-      {
-       "n": "Migalhas",
-       "u": "https://www.migalhas.com.br/quentes/467659/fux-inclui-ministerios-da-saude-e-da-justica-em-audiencia-sobre-bets"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/manoela-alcantara/fux-inclui-ministerio-da-saude-e-da-justica-em-audiencia-do-stf-sobre-bets"
-      }
-     ]
     }
    ]
   },
@@ -344,14 +368,18 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado e indicadores · B3 fechada até terça; Copom na quarta",
+   "nota": "Mercado e indicadores · B3 fechada no feriado; Copom na quarta",
    "itens": [
     {
      "kicker": "Juros",
      "quando": "Hoje",
-     "titulo": "Copom de quarta deve interromper cortes da Selic, com dólar alto e projeções de inflação em alta",
-     "resumo": "As opções de Copom na B3 apontam 63,1% de chance de manutenção dos juros em 13,75%, e bancos como Itaú e Bradesco citam a alta do dólar e a desancoragem das expectativas de inflação. A Folha destaca que o câmbio pós-eleição e o El Niño ameaçam os preços; a decisão sai na quarta, no mesmo dia do Caged, com estimativa de cerca de 150 mil vagas.",
+     "titulo": "Mercado chega à semana do Copom apostando na manutenção da Selic em 13,75%",
+     "resumo": "As opções de Copom na B3 indicam 68,8% de chance de os juros ficarem parados na quarta (4); antes do segundo turno, a aposta majoritária era de corte. Itaú, BTG e C6 preveem manutenção, enquanto Inter, ASA e Daycoval ainda esperam redução de 0,25 ponto, citando a desaceleração da atividade.",
      "fontes": [
+      {
+       "n": "Sim Notícias / CNN Brasil",
+       "u": "https://simnoticias.com.br/cnn-brasil/mercado-chega-a-semana-do-copom-com-expectativa-por-fim-do-corte-de-juros/"
+      },
       {
        "n": "BPMoney",
        "u": "https://bpmoney.com.br/mercado/copom-mercado-ve-631-de-chance-de-manter-selic-em-1375/"
@@ -359,40 +387,32 @@
       {
        "n": "B3 Bora Investir",
        "u": "https://borainvestir.b3.com.br/noticias/a-uma-semana-do-copom-opcoes-da-b3-indicam-631-de-chance-de-manutencao-da-selic/"
-      },
-      {
-       "n": "Plantão Brasil",
-       "u": "https://www.plantaobrasil.net/noticias/161272-semana-decisiva-copom-eleicoes-nos-eua-e-indicadores-de-emprego-agitam-o-mercado"
-      },
-      {
-       "n": "Paraíba Online (capas)",
-       "u": "https://paraibaonline.com.br/brasil/2026/11/01/o-que-tem-nas-capas-dos-jornais-do-brasil-neste-domingo-01-11/"
       }
      ]
     },
     {
-     "kicker": "Petróleo",
-     "quando": "Hoje",
-     "titulo": "Opep+ mantém metas de produção para dezembro e adia decisão sobre 2027",
-     "resumo": "Em reunião on-line, sete grandes produtores, entre eles Arábia Saudita e Rússia, decidiram não mudar a oferta até o fim do ano; o grupo completo se reúne em 29 de novembro para definir as cotas de 2027. O Brent fechou a semana acima de US$ 110, pressionado pela guerra com o Irã, e a AIE prevê excesso de oferta no ano que vem se o fluxo do Golfo se normalizar.",
+     "kicker": "Criptomoedas",
+     "quando": "Ontem",
+     "titulo": "FBI atribui à Coreia do Norte o roubo de US$ 6,3 bilhões da Binance, o maior da história das criptomoedas",
+     "resumo": "A maior parte dos ativos foi desviada em cerca de 20 minutos, na noite de 29 de outubro, e empresas de análise como Elliptic e Chainalysis já apontavam Pyongyang pelas características do ataque. A corretora retomou os saques e reservou mais de US$ 6,3 bilhões de recursos próprios para cobrir as perdas dos clientes; a Coreia do Norte não se pronunciou.",
      "fontes": [
       {
-       "n": "InfoMoney / Reuters",
-       "u": "https://www.infomoney.com.br/mercados/opep-mantem-metas-de-producao-de-petroleo-para-dezembro-antes-de-decisao-sobre-2027/"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/coreia-norte-realiza-maior-roubo-criptomoedas-historia/"
       },
       {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-energia/opep-mantem-metas-de-producao-de-petroleo-em-dezembro/"
+       "n": "The Standard",
+       "u": "https://www.thestandard.com.hk/news/article/347185/Morning-Recap-November-2-2026"
       },
       {
-       "n": "Brasil em Folhas",
-       "u": "https://brasilemfolhas.com.br/2026/11/opep-mantem-cotas-de-producao-de-petroleo-para-dezembro/"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
       }
      ]
     },
     {
      "kicker": "Combustíveis",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Petrobras sobe o querosene de aviação em 7,2%, segundo aumento seguido",
      "resumo": "A alta, de R$ 0,45 por litro para as distribuidoras, vale desde este domingo e vem depois de reajuste de 11,76% em outubro. A estatal atribui o aumento à cotação internacional, e a Abear diz que o combustível passou de 30% para mais de 45% dos custos das companhias aéreas desde o início dos conflitos.",
      "foto": {
@@ -416,7 +436,7 @@
     },
     {
      "kicker": "Comércio exterior",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Acordo de livre comércio entre Mercosul e EFTA começa a valer para Brasil e Noruega",
      "resumo": "O tratado zera tarifas para a maior parte dos produtos brasileiros vendidos aos noruegueses, mercado em que café e soja lideram as exportações. A EFTA reúne ainda Suíça, Islândia e Liechtenstein, onde a vigência depende de cada país.",
      "fontes": [
@@ -435,26 +455,22 @@
      ]
     },
     {
-     "kicker": "Câmbio",
-     "quando": "30/10",
-     "titulo": "Dólar fecha a R$ 5,45 e tem a maior alta semanal desde 2008; Ibovespa tem o pior mês desde 2022",
-     "resumo": "A moeda subiu 1,09% na sexta, ao maior fechamento do ano, e acumulou 9,15% na semana seguinte à eleição; a bolsa caiu 18,12% no período e fechou outubro com perda de 9,88%. Segundo a Agência Brasil, pesaram a incerteza fiscal e a indefinição da equipe econômica, a saída de R$ 7,6 bilhões de estrangeiros e a procura por proteção antes do feriado.",
-     "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     },
+     "kicker": "Petróleo",
+     "quando": "Ontem",
+     "titulo": "Opep+ mantém metas de produção para dezembro e adia decisão sobre 2027",
+     "resumo": "Em reunião on-line, sete grandes produtores, entre eles Arábia Saudita e Rússia, decidiram não mudar a oferta até o fim do ano; o grupo completo se reúne em 29 de novembro para definir as cotas de 2027. O Brent fechou a semana acima de US$ 110, pressionado pela guerra com o Irã, e a AIE prevê excesso de oferta no ano que vem se o fluxo do Golfo se normalizar.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008"
+       "n": "InfoMoney / Reuters",
+       "u": "https://www.infomoney.com.br/mercados/opep-mantem-metas-de-producao-de-petroleo-para-dezembro-antes-de-decisao-sobre-2027/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-energia/opep-mantem-metas-de-producao-de-petroleo-em-dezembro/"
       },
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/tempo-real-30-10-26-lils/"
+       "n": "Brasil em Folhas",
+       "u": "https://brasilemfolhas.com.br/2026/11/opep-mantem-cotas-de-producao-de-petroleo-para-dezembro/"
       }
      ]
     }
@@ -467,66 +483,26 @@
    "nota": "Segurança, clima e cidades",
    "itens": [
     {
-     "kicker": "Feriadão",
+     "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Finados terá calor e risco de temporais com granizo no Sul, Sudeste e Centro-Oeste",
-     "resumo": "Segundo o Inmet, áreas de baixa pressão e umidade favorecem pancadas neste domingo, com possibilidade de granizo em Minas, São Paulo, Goiás e Mato Grosso do Sul; na segunda, as trovoadas chegam aos três estados do Sul. No Norte e no Nordeste, o tempo segue seco, com máximas perto de 40 °C.",
+     "titulo": "Inmet emite alerta laranja para tempestades no Paraná e em áreas de SP e MS no feriado",
+     "resumo": "O aviso de perigo vale até as 23h59 desta segunda e prevê chuva de até 100 mm, ventos de até 100 km/h e granizo em quase todo o Paraná, nas regiões de Assis, Presidente Prudente e Itapetininga (SP) e no leste e sudoeste de Mato Grosso do Sul. Na capital paulista, a previsão é de chuva forte com risco de alagamentos; em emergências, a orientação é ligar para a Defesa Civil (199).",
      "foto": {
       "src": "https://imagens.ebc.com.br/znTa6KJm1vEw9On3LoJ6HClroDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int9067.jpg?itok=SgyT8Pu6",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Diário do Estado de SP",
-       "u": "https://diarioesp.com.br/brasil/2026/11/01/finados-tem-previsao-de-calor-intenso-e-temporais-isolados-em-quase-todo-o-pais.html"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/finados-tera-calor-e-possibilidade-de-temporal-em-varias-regioes-do-brasil"
-      },
-      {
-       "n": "Meteored",
-       "u": "https://www.meteored.com.br/noticias/previsao/feriado-de-finados-sera-com-risco-de-temporais-e-chuvas-intensas-em-sp.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Temporal",
-     "quando": "Hoje",
-     "titulo": "Supercélula derruba árvores e destelha barracões no centro-sul do Paraná",
-     "resumo": "Na tarde deste domingo, ventos fortes e granizo atingiram Marquinho, Laranjal, Laranjeiras do Sul e Nova Laranjeiras, com postes e fios caídos sobre as ruas; não há registro de feridos. O Inmet mantém alerta de tempestade para o Paraná e áreas de São Paulo e Mato Grosso do Sul durante o feriado, e o aviso segue na terça.",
-     "fontes": [
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/estragos-do-temporal-no-parana"
-      },
-      {
        "n": "Terra Brasil Notícias",
        "u": "https://terrabrasilnoticias.com/2026/11/inmet-emite-alerta-de-tempestade-para-o-parana-e-areas-de-sp-e-ms-no-feriado-de-finados/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/10/31/tempestade-nao-da-tregua-depois-do-feriado-sao-paulo-e-parana-inteiros-entram-em-alerta-na-terca"
-      }
-     ]
-    },
-    {
-     "kicker": "Segurança",
-     "quando": "Hoje",
-     "titulo": "Um ano depois, relatórios apontam câmeras obstruídas na operação mais letal do Rio",
-     "resumo": "A Human Rights Watch analisou mais de 4 mil horas de gravações e diz que as lentes estavam cobertas em 36% dos momentos com tiros na ação de outubro de 2025 nos complexos do Alemão e da Penha, que deixou 122 mortos. Relatório da Defensoria descreve agressões a moradores e lacunas nas imagens; a PM e o governo do estado não responderam, e as investigações seguem sem conclusão.",
-     "fontes": [
-      {
-       "n": "O Povo / AFP",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/01/um-ano-apos-massacre-no-rio-investigacao-de-ong-revela-ma-conduta-da-policia.html"
+       "n": "Gazeta de Toledo",
+       "u": "https://gazetadetoledo.com.br/feriado-de-finados-tera-previsao-de-temporais-e-alerta-laranja-para-toledo-nesta-segunda-feira-2/"
       },
       {
-       "n": "Agência Satélite",
-       "u": "https://www.satelitenoticias.com.br/2026/11/mototaxi-sufocado-mulheres-atingidas.html"
-      },
-      {
-       "n": "Human Rights Watch",
-       "u": "https://www.hrw.org/pt/feature/2026/10/28/394351"
+       "n": "SP Agora",
+       "u": "https://www.spagora.com.br/cotidiano/clima/previsao-tempo-sao-paulo-segunda-2-novembro/"
       }
      ]
     },
@@ -551,8 +527,48 @@
      ]
     },
     {
-     "kicker": "Mato Grosso do Sul",
+     "kicker": "Temporal",
      "quando": "Ontem",
+     "titulo": "Supercélula derruba árvores e destelha barracões no centro-sul do Paraná",
+     "resumo": "Na tarde deste domingo, ventos fortes e granizo atingiram Marquinho, Laranjal, Laranjeiras do Sul e Nova Laranjeiras, com postes e fios caídos sobre as ruas; não há registro de feridos. O Inmet mantém alerta de tempestade para o Paraná e áreas de São Paulo e Mato Grosso do Sul durante o feriado, e o aviso segue na terça.",
+     "fontes": [
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/tempo/estragos-do-temporal-no-parana"
+      },
+      {
+       "n": "Terra Brasil Notícias",
+       "u": "https://terrabrasilnoticias.com/2026/11/inmet-emite-alerta-de-tempestade-para-o-parana-e-areas-de-sp-e-ms-no-feriado-de-finados/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/tempo/2026/10/31/tempestade-nao-da-tregua-depois-do-feriado-sao-paulo-e-parana-inteiros-entram-em-alerta-na-terca"
+      }
+     ]
+    },
+    {
+     "kicker": "Segurança",
+     "quando": "Ontem",
+     "titulo": "Um ano depois, relatórios apontam câmeras obstruídas na operação mais letal do Rio",
+     "resumo": "A Human Rights Watch analisou mais de 4 mil horas de gravações e diz que as lentes estavam cobertas em 36% dos momentos com tiros na ação de outubro de 2025 nos complexos do Alemão e da Penha, que deixou 122 mortos. Relatório da Defensoria descreve agressões a moradores e lacunas nas imagens; a PM e o governo do estado não responderam, e as investigações seguem sem conclusão.",
+     "fontes": [
+      {
+       "n": "O Povo / AFP",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/01/um-ano-apos-massacre-no-rio-investigacao-de-ong-revela-ma-conduta-da-policia.html"
+      },
+      {
+       "n": "Agência Satélite",
+       "u": "https://www.satelitenoticias.com.br/2026/11/mototaxi-sufocado-mulheres-atingidas.html"
+      },
+      {
+       "n": "Human Rights Watch",
+       "u": "https://www.hrw.org/pt/feature/2026/10/28/394351"
+      }
+     ]
+    },
+    {
+     "kicker": "Mato Grosso do Sul",
+     "quando": "31/10",
      "titulo": "Governo amplia Força Nacional em aldeias Guarani Kaiowá após denúncias de ameaças depois da eleição",
      "resumo": "Os ministros da Justiça, dos Povos Indígenas e dos Direitos Humanos visitaram as aldeias Sassoró, em Tacuru, e Taquapery, em Coronel Sapucaia, e anunciaram um sistema de resposta rápida acionado pela PF, pela PRF ou pelas polícias estaduais. A Apib registrou mais de 30 denúncias; depois de triagem, o governo recebeu dez, quatro no estado, e a PF já ouviu suspeitos de um áudio que ameaçava envenenar a água de Sassoró.",
      "lados": [
@@ -591,100 +607,106 @@
     {
      "kicker": "Estados Unidos",
      "quando": "Hoje",
-     "titulo": "A dois dias das eleições de meio de mandato, Trump retoma comícios com aprovação de 32%",
-     "resumo": "O presidente voltou a agendar atos em Iowa e Kansas em meio a pesquisas desfavoráveis aos republicanos; na Reuters/Ipsos, a aprovação dele está em 32%, e os democratas lideram a intenção de voto para o Congresso por 47% a 36%. Na terça, os americanos renovam a Câmara e parte do Senado; o instituto ressalva que a pesquisa nacional não capta as disputas distrito a distrito.",
-     "fontes": [
+     "titulo": "Na véspera das eleições de meio de mandato, democratas lideram as pesquisas para o Congresso",
+     "resumo": "A média do RealClearPolling dá 51,5% aos democratas e 43,1% aos republicanos, e mais de 51 milhões de americanos já votaram antecipadamente. Os democratas precisam ganhar três cadeiras na Câmara e quatro no Senado para controlar as duas Casas; analistas veem a Câmara mais favorável à oposição e o Senado indefinido, com disputas apertadas em Michigan, Iowa e Kansas.",
+     "lados": [
       {
-       "n": "EFE / Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/01/temas-del-dia-de-efe-internacional-del-domingo-1-de-noviembre-1200-gmt/"
+       "quem": "Republicanos",
+       "txt": "Trump fez comícios em Iowa e Kansas no domingo e aposta na mobilização em disputas estaduais, onde o partido tem vantagens estruturais."
       },
       {
-       "n": "InfoMoney / Reuters",
-       "u": "https://www.infomoney.com.br/mundo/reuters-ipsos-aprovacao-de-trump-sobe-para-32-antes-das-eleicoes-de-meio-de-mandato/"
+       "quem": "Democratas",
+       "txt": "Concentram a campanha no custo de vida e dizem que a votação antecipada mostra eleitorado mobilizado."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail"
       },
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/internacional/trump-atinge-32-de-aprovacao-antes-das-eleicoes-de-meio-de-mandato-nos-eua/"
-      }
-     ]
-    },
-    {
-     "kicker": "Irã",
-     "quando": "Hoje",
-     "titulo": "Irã negocia com mediadores do Catar o fim da guerra, e Trump promete não atacar antes da eleição",
-     "resumo": "Negociadores iranianos tiveram em Doha o terceiro dia de conversas, e o chanceler Abbas Araghchi diz que há uma proposta para reabrir o Estreito de Ormuz em até dois dias após um acordo. Trump chamou as conversas de produtivas, mas não descartou ação militar depois da votação de terça; Teerã ameaça retaliar alvos americanos e israelenses na região.",
-     "fontes": [
-      {
-       "n": "Agência Brasil / Reuters",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/ira-e-mediadores-do-catar-travam-negociacoes-para-fim-de-guerra"
       },
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/video/2026/11/01/noticias-do-dia-1-de-novembro-2026-noite"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/mundo/marinha-da-guarda-revolucionaria-iraniana-diz-que-tres-petroleiros-pegaram-fogo-no-estreito-de-ormuz,da8762f7605779b059086d483a0b7e18prg4ng5q.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Ucrânia ataca refinaria da Lukoil e fábrica de mísseis na Rússia no fim da trégua de Oleshky",
-     "resumo": "Drones atingiram durante a madrugada a refinaria de Kstovo, uma das maiores do país, e Zelensky disse que forças ucranianas acertaram uma fábrica de componentes de mísseis em Rostov; a extensão dos danos não foi confirmada. O cessar-fogo local que permitiu retirar civis de Oleshky terminou hoje, e o papa Leão XIV pediu que a operação leve a novas iniciativas de paz.",
-     "fontes": [
-      {
-       "n": "Diário de Notícias",
-       "u": "https://www.dn.pt/internacional/ucrnia-ataca-uma-das-maiores-refinarias-russas-e-uma-fbrica-de-msseis"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-pede-esforcos-de-paz-entre-russia-e-ucrania/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/ucrania-desloca-civis-proximo-ao-fim-do-cessar-fogo-temporario-em-oleshky/"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-internacional/eleicao-nos-eua-trump-vota-antecipadamente-e-cita-fraudes-sem-provas/"
       }
      ]
     },
     {
      "kicker": "Bulgária",
      "quando": "Hoje",
-     "titulo": "Iliana Yotova lidera apuração e caminha para vencer o segundo turno na Bulgária",
-     "resumo": "Pesquisas de boca de urna dão à presidente, de perfil próximo a Moscou e contrária à ajuda militar à Ucrânia, entre 51% e 53% dos votos, contra 43% a 45% do economista pró-europeu Andrey Gyurov. A apuração parcial oficial, com cerca de 20% das urnas, mostra vantagem maior; a participação foi baixa.",
+     "titulo": "Iliana Yotova vence o segundo turno e será a primeira mulher eleita presidente da Bulgária",
+     "resumo": "Com 57,4% dos votos, segundo a Comissão Eleitoral Central, a presidente interina derrotou o ex-premiê interino Andrey Gyurov, que teve 39,4% e reconheceu a derrota. Yotova é contrária à ajuda militar à Ucrânia e defende negociar com Moscou; o cargo não tem poderes executivos, mas pode vetar leis.",
      "fontes": [
       {
-       "n": "Demócrata / EFE",
-       "u": "https://www.democrata.es/internacional/yotova-lidera-el-recuento-parcial-en-la-segunda-vuelta-presidencial-en-bulgaria/"
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/02/presidente-interina-pro-russia-iliana-yotova-vence-eleicoes-na-bulgaria/"
       },
       {
-       "n": "Notícias ao Minuto",
-       "u": "https://www.noticiasaominuto.com/mundo/3076710/pro-russa-iliana-yotova-vence-as-presidenciais-na-bulgaria-sondagens"
+       "n": "El Español",
+       "u": "https://www.elespanol.com/mundo/20261102/iliana-yotova-gana-segunda-vuelta-presidencial-bulgaria-consolida-linea-prorrusa-frente-europeista-gyurov/1003744442987_0.html"
       },
       {
-       "n": "Vedomosti",
-       "u": "https://www.vedomosti.ru/politics/news/2026/11/01/1241860-iotova-pobezhdaet"
+       "n": "Bloomberg",
+       "u": "https://www.bloomberg.com/news/articles/2026-11-01/incumbent-yotova-wins-bulgarian-president-vote-exit-poll-shows"
       }
      ]
     },
     {
-     "kicker": "Espanha",
+     "kicker": "Irã",
      "quando": "Hoje",
-     "titulo": "Espanha identifica 56 dos 69 mortos na colisão de trens de alta velocidade em Toledo",
-     "resumo": "Treze vítimas estrangeiras aguardam confirmação por cooperação internacional, e cerca de 30 feridos seguem internados, 15 em UTI. O acidente de 28 de outubro, em que um trem da Renfe atingiu por trás um da Iryo parado perto de Urda, segue sob investigação e domina a pré-campanha das eleições gerais.",
+     "titulo": "Trump prioriza a diplomacia com o Irã apesar da pressão de Netanyahu por ataques após a eleição",
+     "resumo": "Segundo o site Axios, citado pela Anadolu, o presidente americano prefere seguir negociando, depois de dizer ter tido uma boa conversa com o premiê israelense. Em Doha, negociadores iranianos e mediadores do Catar discutem há três dias uma proposta que prevê reabrir o Estreito de Ormuz; Teerã diz estar pronta tanto para um acordo quanto para responder a novos ataques.",
      "fontes": [
       {
-       "n": "El Español",
-       "u": "https://elespanol.com/invertia/observatorios/movilidad/20261101/accidente-tren-toledo-ultima-hora-siniestro-numero-muertos-desaparecidos-heridos-directo-urda-oscar-puente-causas-choque-ave-victimas-fallecidos-iryo/1003744442495_10.html"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-da-colisao-entre-trens-na-espanha-com-dezenas-de-mortos/"
+       "n": "Imirante",
+       "u": "https://imirante.com/noticias/mundo/2026/11/01/ira-negocia-mediadores-catar-acordo-fim-guerra-eua-israel"
       },
       {
-       "n": "RTP",
-       "u": "https://www.rtp.pt/noticias/mundo/colisao-de-comboios-de-alta-velocidade-em-espanha-faz-mais-de-60-mortos_n1774930"
+       "n": "Agência Brasil / Reuters",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/ira-e-mediadores-do-catar-travam-negociacoes-para-fim-de-guerra"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Trégua em Oleshky termina sem violações, e Zelensky diz que outubro foi o mês de maiores baixas russas",
+     "resumo": "O cessar-fogo local, que permitiu retirar civis e levar ajuda humanitária à região de Kherson, acabou na noite de domingo. Zelensky afirmou que a Rússia teve 54,4 mil soldados mortos ou feridos graves em outubro, número que Moscou não confirma; os dois países relataram ataques cibernéticos a aplicativos de alerta à população.",
+     "fontes": [
+      {
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+      },
+      {
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/moscovo-e-kiev-alvos-de-ciberataques-mtuos-contra-sistemas-de-alerta-populao"
+      },
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/liveblogs/ciberataques-aplicacoes-de-alerta-da-ucrania-e-russia-trump-em-algum-momento-teremos-de-dar-uma-licao-ao-irao/"
+      }
+     ]
+    },
+    {
+     "kicker": "Alemanha",
+     "quando": "Ontem",
+     "titulo": "Protestos de jovens da Geração Z terminam com mais de 200 presos em cidades alemãs",
+     "resumo": "Os atos, convocados pelo grupo Gen Z Regelt em mais de 30 cidades, reuniram dezenas de milhares de pessoas durante o dia e tiveram confrontos à noite em Hamburgo, Frankfurt e Berlim. Em Frankfurt, houve saques e mais de 100 policiais feridos, e ministros prometeram resposta dura.",
+     "fontes": [
+      {
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+      },
+      {
+       "n": "The Standard",
+       "u": "https://www.thestandard.com.hk/news/article/347185/Morning-Recap-November-2-2026"
       }
      ]
     }
@@ -698,59 +720,47 @@
    "itens": [
     {
      "kicker": "Copa do Brasil",
-     "quando": "Hoje",
-     "titulo": "Palmeiras bate o Vasco por 1 a 0 e leva vantagem para São Januário na semifinal",
-     "resumo": "Maurício marcou aos 23 minutos do primeiro tempo, depois de jogada de Arias e passe de Marlon Freitas, e o Vasco perdeu o zagueiro Saldivia, expulso com o segundo amarelo. A volta é no próximo domingo, no Rio; na outra semifinal, Grêmio e Atlético-MG se enfrentam desde as 18h30 na Arena, em Porto Alegre.",
+     "quando": "Ontem",
+     "titulo": "Grêmio bate o Atlético-MG por 2 a 0, e Palmeiras vence o Vasco na ida das semifinais",
+     "resumo": "Em Porto Alegre, Carlos Vinícius e Noriega marcaram no início de cada tempo, e o zagueiro Gustavo Martins, expulso por dois amarelos em três minutos, desfalca o Grêmio na volta, sábado (7), em Belo Horizonte. Mais cedo, o Palmeiras fez 1 a 0 no Vasco com gol de Maurício; a arbitragem de Anderson Daronco foi criticada por um pênalti não marcado, e a volta é no domingo (8), em São Januário.",
      "fontes": [
+      {
+       "n": "Correio da Manhã",
+       "u": "https://www.correiodamanha.com.br/esporte/esportes/2026/11/331624-semifinais-da-copa-do-brasil-comecam-com-polemicas.html"
+      },
+      {
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/atletico-abusa-de-falhas-e-ve-gremio-abrir-vantagem-na-semifinal-da-copa-do-brasil/"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/palmeiras-vasco-semifinal-copa-do-brasil-2026/"
+      },
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-0"
-      },
-      {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/esportes/com-um-a-mais-palmeiras-vence-vasco-e-sai-na-frente-em-duelo-da-semifinal"
-      },
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/palmeiras/palmeiras-vence-o-vasco-mas-perde-ritmo-e-desperdica-chance-de-ampliar-vantagem-na-copa-do-brasil"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/gremio-x-atletico-mg-escalacoes-e-onde-assistir-a-semi-da-copa-do-brasil/"
       }
      ]
     },
     {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "Antonelli corre em 3º na reta final do GP do México, posição que lhe dá o título da Fórmula 1",
-     "resumo": "O piloto da Mercedes, de 20 anos, liderava até a volta 44, quando uma parada lenta nos boxes o tirou da ponta; depois de safety car e bandeira vermelha, seguia em 3º, atrás de Max Verstappen e Lewis Hamilton. Basta terminar entre os nove primeiros para ser campeão com antecedência; Gabriel Bortoleto, da Audi, corria em 12º, e a classificação oficial sai ao fim da prova.",
+     "kicker": "Futebol inglês",
+     "quando": "Ontem",
+     "titulo": "Arsenal vence o Liverpool em Anfield e assume a liderança da Premier League",
+     "resumo": "Kai Havertz marcou o único gol aos 16 minutos, e o time de Londres abriu três pontos de vantagem na ponta da tabela.",
      "fontes": [
       {
-       "n": "ESPN",
-       "u": "https://www.espn.com/f1/results/_/id/600057447"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
       },
       {
-       "n": "Lance!",
-       "u": "https://lance.com.br/formula-1/ao-vivo-siga-a-corrida-do-gp-do-mexico-etapa-da-f1-2026.html"
-      },
-      {
-       "n": "VAVEL Brasil",
-       "u": "https://www.vavel.com/br/motor/2026/11/01/formula1/1277629-gp-do-mexico-de-f1-2026-ao-vivo-corrida-volta-a-volta-classificacao-resultado.html"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/automobilismo/chance-de-titulo-de-kimi-antonelli-no-gp-do-mexico-de-f1-e-de-988/"
-      },
-      {
-       "n": "A Bola",
-       "u": "https://www.abola.pt/liveblog/formula-1-siga-aqui-em-direto-o-gp-do-mexico"
+       "n": "The Standard",
+       "u": "https://www.thestandard.com.hk/news/article/347185/Morning-Recap-November-2-2026"
       }
      ]
     },
     {
      "kicker": "Seleção feminina",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Brasil vira sobre a China e vai à semifinal da Copa do Mundo Feminina Sub-17",
      "resumo": "No Marrocos, a China abriu o placar no fim do primeiro tempo, e Helena marcou os dois gols brasileiros na etapa final, o da vitória aos 43 minutos. A semifinal é na quarta (4), às 15h (Brasília).",
      "fontes": [
@@ -769,46 +779,34 @@
      ]
     },
     {
-     "kicker": "Futebol feminino",
+     "kicker": "Luto",
      "quando": "Ontem",
-     "titulo": "Cruzeiro empata em 4 a 4 com o Corinthians, vence nos pênaltis e conquista a Libertadores Feminina pela primeira vez",
-     "resumo": "Na primeira final entre dois brasileiros, no Equador, o Corinthians chegou a abrir 3 a 1, com dois gols de Gabi Zanotti e dois de Vic Albuquerque, mas Letícia Ferreira empatou aos 45 do segundo tempo. Nos pênaltis, o Cruzeiro venceu por 5 a 4, com defesa da goleira Camila; clubes do Brasil ganharam 15 das 18 edições do torneio.",
+     "titulo": "Morre aos 34 anos a irlandesa Ciara Mageean, campeã europeia dos 1.500 metros",
+     "resumo": "A atleta, que conquistou o título europeu em Roma, em 2024, tratava um câncer de intestino diagnosticado em julho de 2025. Disputou as Olimpíadas do Rio e de Tóquio e tinha ainda prata e bronze em Europeus.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-campeao-da-libertadores-feminina-veja-o-ranking-de-titulos/"
+       "n": "Observador / Lusa",
+       "u": "https://observador.pt/2026/11/01/antiga-campea-europeia-dos-1-500-metros-morre-aos-34-anos-vitima-de-cancro/"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/libertadores/corinthians-perde-para-cruzeiro-e-fica-com-vice-da-libertadores-feminina,f6ed3fc3153079f5ff36b018f31a4f77dqfh1nsc.html"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/campea-europeia-de-atletismo-nos-1500m-ciara-mageean-morre-aos-34-anos"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/corinthians-x-cruzeiro-final-libertadores-feminina-2026/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/final-brasileira-garante-15o-titulo-do-pais-na-libertadores-feminina"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/01/ciara-mageean-ex-campea-europeia-de-atletismo-morre-aos-34-anos.html"
       }
      ]
     },
     {
-     "kicker": "Seleção",
-     "quando": "29/10",
-     "titulo": "Ancelotti convoca 26 para amistosos contra Japão e Singapura, com quatro estreantes e a volta de Estêvão",
-     "resumo": "Arthur Dias, do Athletico, Jonathan Jesus, do Cruzeiro, e Alisson Santana e Marlon Gomes, do Shakhtar, recebem a primeira chamada; não há jogadores de Flamengo e Palmeiras na lista. A Seleção enfrenta o Japão em 14 de novembro, às 7h15, e Singapura no dia 17, às 7h (Brasília), no Estádio Nacional de Singapura.",
+     "kicker": "MotoGP",
+     "quando": "Ontem",
+     "titulo": "Marc Márquez vence o GP da Malásia e amplia para 44 pontos a vantagem no campeonato",
+     "resumo": "Foi a sétima vitória dele na temporada e a 80ª na categoria principal. O vice-líder, Jorge Martín, não correu em Sepang por causa de uma lesão no punho.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/ancelotti-convoca-selecao-para-amistosos-contra-japao-e-singapura"
-      },
-      {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-30-de-outubro-de-2026/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/10/30/ancelotti-convocou-e-agora-veja-o-roteiro-da-selecao-ate-o-fim-de-2026"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
       }
      ]
     }
@@ -821,8 +819,44 @@
    "nota": "",
    "itens": [
     {
+     "kicker": "Medicamentos",
+     "quando": "Ontem",
+     "titulo": "Anvisa registra mais cinco canetas de liraglutida e semaglutida para diabetes e obesidade",
+     "resumo": "Os registros, publicados no Diário Oficial, incluem três produtos de liraglutida fabricados pela Biocon e dois de semaglutida da OneSource, comercializados no país por Farma Vision, Dr. Reddy's e Aché. A venda depende do cumprimento das demais exigências regulatórias, e não há preços nem datas de lançamento.",
+     "fontes": [
+      {
+       "n": "Itabira Online",
+       "u": "https://itabiraonline.com.br/2026/11/01/anvisa-aprova-cinco-novas-canetas-injetaveis-para-tratamento-de-diabetes-tipo-2-e-obesidade/"
+      },
+      {
+       "n": "Bahia.ba",
+       "u": "https://bahia.ba/brasil/anvisa-aprova-novas-canetas-diabetes-obesidade/"
+      },
+      {
+       "n": "Portal Itapipoca",
+       "u": "https://www.portalitapipoca.com.br/saude/2026/11/01/anvisa-aprova-registro-de-cinco-novas-canetas-injetaveis-para-diabetes-e-obesidade.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Novembro Azul",
+     "quando": "Ontem",
+     "titulo": "Câncer de próstata matou cerca de 50 homens por dia no Brasil em 2025",
+     "resumo": "Dados do Ministério da Saúde divulgados pela Sociedade Brasileira de Urologia apontam 18,5 mil mortes no ano passado, cerca de 20% a mais que dez anos antes, e o Inca estima 77,9 mil casos novos por ano até 2028. A SBU recomenda consulta a partir dos 50 anos, ou 45 em grupos de risco; Ministério e Inca não indicam rastreamento em homens sem sintomas e orientam decidir o exame com o médico.",
+     "fontes": [
+      {
+       "n": "SP Rio+",
+       "u": "https://spriomais.com.br/2026/11/01/novembro-azul-cancer-de-prostata-mata-50-homens-por-dia-no-brasil-aponta-ministerio-da-saude/"
+      },
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4365819/novembro-azul-brasil-deve-ter-77-9-mil-casos-de-cancer-de-prostata"
+      }
+     ]
+    },
+    {
      "kicker": "Câncer",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Comprimido diário mantém câncer de pulmão avançado sob controle por sete anos em mais da metade dos pacientes",
      "resumo": "Na atualização do estudo CROWN, publicada na Annals of Oncology, 55% dos pacientes com tumor ALK-positivo tratados com lorlatinibe seguiam vivos e sem progressão após sete anos, ante 3% com o remédio anterior. O medicamento não está no SUS, que rejeitou a incorporação em 2025 por custo-efetividade, e a caixa custa cerca de R$ 37 mil.",
      "fontes": [
@@ -841,20 +875,8 @@
      ]
     },
     {
-     "kicker": "Vacinação",
-     "quando": "Hoje",
-     "titulo": "Cobertura da vacina meningocócica ACWY fica em 67,1% entre adolescentes, longe da meta de 95%",
-     "resumo": "Dados de painel lançado pelo Ministério da Saúde mostram que aos 11 anos só 46,8% estão vacinados, índice que sobe para 77,4% aos 14. A meta do Programa Nacional de Imunizações é de 95% em todas as idades.",
-     "fontes": [
-      {
-       "n": "Diário do Estado de SP",
-       "u": "https://diarioesp.com.br/saude/2026/11/01/cobertura-da-vacina-meningococica-acwy-fica-em-67-1-entre-adolescentes-de-11-a-14-anos.html"
-      }
-     ]
-    },
-    {
      "kicker": "Mpox",
-     "quando": "Ontem",
+     "quando": "31/10",
      "titulo": "Ministério da Saúde envia doses extras de vacina contra mpox ao Rio após alta de casos",
      "resumo": "A capital fluminense registrou 74 casos em setembro e outubro, ante 10 no mesmo período de 2025, segundo o observatório epidemiológico da prefeitura. O ministro Alexandre Padilha disse que não há surto nacional, com 665 casos no país neste ano; a vacina segue restrita a grupos de risco, como pessoas com HIV imunossuprimidas e contatos de casos.",
      "foto": {
@@ -877,34 +899,14 @@
      ]
     },
     {
-     "kicker": "Ebola",
+     "kicker": "Vacinação",
      "quando": "Ontem",
-     "titulo": "Surto de ebola passa de 5 mil mortes no Congo, com letalidade perto de 50%",
-     "resumo": "Segundo o Ministério da Saúde congolês, são 10.351 infecções e 5.026 mortes desde maio, em oito das 26 províncias, sobretudo Ituri e Kivu do Norte; é o segundo surto mais letal já registrado. Causado pela espécie Bundibugyo, não tem vacina nem tratamento aprovados, e Quênia e Nigéria confirmaram casos em outubro.",
-     "fontes": [
-      {
-       "n": "O Liberal / Estadão Conteúdo",
-       "u": "https://www.oliberal.com/variedades/ebola-ultrapassa-5-mil-mortes-no-congo-e-atinge-letalidade-proxima-de-50-1.1189177"
-      },
-      {
-       "n": "Portal de Prefeitura",
-       "u": "https://portaldeprefeitura.com.br/mundo/ebola-ultrapassa-mortes-no-congo-atinge-letalidade-proxima/635297/"
-      }
-     ]
-    },
-    {
-     "kicker": "Qualidade do ar",
-     "quando": "Ontem",
-     "titulo": "Fumaça deixa o ar ruim em nove cidades do Amazonas, com Parintins em nível muito ruim",
-     "resumo": "Manaus, Iranduba e outros municípios tiveram índices de moderados a ruins no sábado, mesmo com a queda dos focos de queimada em outubro. Ao longo do mês, a prefeitura da capital chegou a suspender aulas presenciais por causa da fumaça.",
+     "titulo": "Cobertura da vacina meningocócica ACWY fica em 67,1% entre adolescentes, longe da meta de 95%",
+     "resumo": "Dados de painel lançado pelo Ministério da Saúde mostram que aos 11 anos só 46,8% estão vacinados, índice que sobe para 77,4% aos 14. A meta do Programa Nacional de Imunizações é de 95% em todas as idades.",
      "fontes": [
       {
        "n": "Diário do Estado de SP",
-       "u": "https://diarioesp.com.br/brasil/2026/11/01/amazonas-reduz-focos-de-queimadas-em-outubro-mas-qualidade-do-ar-segue-comprometida.html"
-      },
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/10/31/queimadas-caem-amazonas-fumaca-preocupa/"
+       "u": "https://diarioesp.com.br/saude/2026/11/01/cobertura-da-vacina-meningococica-acwy-fica-em-67-1-entre-adolescentes-de-11-a-14-anos.html"
       }
      ]
     }
@@ -919,8 +921,8 @@
     {
      "kicker": "Enem",
      "quando": "Hoje",
-     "titulo": "Falta uma semana para o Enem: portões fecham às 13h e documento digital só vale no aplicativo",
-     "resumo": "Mais de 5 milhões de inscritos fazem no domingo (8) as provas de linguagens, ciências humanas e redação, das 13h30 às 19h; no dia 15 vêm ciências da natureza e matemática, até 18h30. É obrigatório levar caneta preta de corpo transparente e documento com foto, e capturas de tela de documentos digitais não são aceitas.",
+     "titulo": "Enem começa no domingo: portões fecham às 13h, e documento digital só vale no aplicativo",
+     "resumo": "Mais de 5 milhões de inscritos fazem no dia 8 as provas de linguagens, ciências humanas e redação, das 13h30 às 19h; no dia 15 vêm ciências da natureza e matemática, até 18h30. É obrigatório levar caneta preta de corpo transparente e documento oficial com foto; capturas de tela de documentos digitais não são aceitas.",
      "foto": {
       "src": "https://imagens.ebc.com.br/-wzDRqKS5ARLF558l4gUMxah_q4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7267.jpg_0.jpg?itok=DKDGRpwi",
       "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
@@ -942,7 +944,7 @@
     },
     {
      "kicker": "Vestibular",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Fuvest aplica primeira fase com 80 questões e prova em Fortaleza pela primeira vez",
      "resumo": "São 106.165 inscritos para 8.147 vagas da USP; a prova encolheu de 90 para 80 questões, mas segue com cinco horas, para dar mais tempo às questões interdisciplinares. Os portões fecham às 13h, e a segunda fase será em 6 e 7 de dezembro.",
      "foto": {
@@ -997,8 +999,40 @@
    "nota": "Meio ambiente, pesquisa e inovação",
    "itens": [
     {
+     "kicker": "Astrofísica",
+     "quando": "Hoje",
+     "titulo": "Estudo avalia se um buraco negro poderia se dividir em dois, o inverso de uma fusão",
+     "resumo": "Pesquisadores da Universidade do Sul da Dinamarca, em artigo na Physical Review D, apontam que a divisão seria possível em teoria apenas em casos extremos, como buracos negros girando perto do limite máximo. O fenômeno nunca foi observado, e os autores dizem que ainda não é possível calcular a probabilidade de ele ocorrer.",
+     "fontes": [
+      {
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/2026/11/02/ciencia-e-espaco/alem-de-se-fundir-um-buraco-negro-poderia-se-dividir-entenda-a-hipotese"
+      }
+     ]
+    },
+    {
+     "kicker": "Inteligência artificial",
+     "quando": "31/10",
+     "titulo": "Alibaba anuncia que modelo Qwen vai alimentar o Apple Intelligence na China",
+     "resumo": "O Qwen passará a responder por recursos da Siri, das ferramentas de escrita e da inteligência visual para usuários chineses, com testes em versão para desenvolvedores a partir de 4 de novembro e lançamento previsto para dezembro. A Alibaba diz que não usará os pedidos dos usuários para treinar o modelo.",
+     "fontes": [
+      {
+       "n": "Xinhua",
+       "u": "https://english.news.cn/20261101/773fa2ac33a34a5ca3484d7e5920d094/c.html"
+      },
+      {
+       "n": "CGTN",
+       "u": "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html"
+      },
+      {
+       "n": "Yahoo Finance",
+       "u": "https://finance.yahoo.com/technology/ai/articles/apple-intelligence-approved-china-alibaba-131501096.html"
+      }
+     ]
+    },
+    {
      "kicker": "Queimadas",
-     "quando": "Ontem",
+     "quando": "31/10",
      "titulo": "Focos de queimada caem 39% no Amazonas em outubro, mas ano ainda tem o dobro de 2025",
      "resumo": "Segundo o Inpe, o estado teve 2.258 focos em outubro, ante 3.726 em setembro, e soma 8.515 no ano, sexto maior total do país. Até meados de outubro, o número era mais que o dobro do mesmo período do ano passado; um decreto estadual proíbe o uso do fogo até dezembro.",
      "foto": {
@@ -1021,58 +1055,22 @@
      ]
     },
     {
-     "kicker": "Inteligência artificial",
-     "quando": "Ontem",
-     "titulo": "Alibaba anuncia que modelo Qwen vai alimentar o Apple Intelligence na China",
-     "resumo": "O Qwen passará a responder por recursos da Siri, das ferramentas de escrita e da inteligência visual para usuários chineses, com testes em versão para desenvolvedores a partir de 4 de novembro e lançamento previsto para dezembro. A Alibaba diz que não usará os pedidos dos usuários para treinar o modelo.",
-     "fontes": [
-      {
-       "n": "Xinhua",
-       "u": "https://english.news.cn/20261101/773fa2ac33a34a5ca3484d7e5920d094/c.html"
-      },
-      {
-       "n": "CGTN",
-       "u": "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html"
-      },
-      {
-       "n": "Yahoo Finance",
-       "u": "https://finance.yahoo.com/technology/ai/articles/apple-intelligence-approved-china-alibaba-131501096.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Pantanal",
-     "quando": "Ontem",
-     "titulo": "Morre Ibaca, onça-pintada conhecida por enfrentar uma sucuri no Pantanal",
-     "resumo": "A fêmea de 8 anos foi encontrada debilitada à beira de um rio perto de Porto Jofre, em Mato Grosso, e chegou a ser resgatada e tratada, mas não resistiu. A causa da morte será investigada por necropsia.",
-     "fontes": [
-      {
-       "n": "PowerMix",
-       "u": "https://www.powermix.com.br/geral/onca-pintada-famosa-por-enfrentar-sucuri-morre-aos-8-anos-no-pantanal-de-mt/58832"
-      },
-      {
-       "n": "MidiaJur",
-       "u": "https://www.midiajur.com.br/questao-de-ordem/onca-pintada-famosa-por-enfrentar-sucuri-morre-aos-8-anos-no-pantanal-de-mt/88741"
-      }
-     ]
-    },
-    {
      "kicker": "Espaço",
-     "quando": "30/10",
-     "titulo": "Telescópio Swift, da Nasa, deve cair nas próximas semanas, e parte do Brasil está na faixa de reentrada",
-     "resumo": "Depois de 22 anos de observações, o observatório perdeu altitude até cerca de 275 km por causa do arrasto atmosférico, ampliado pela atividade solar, e encerrou as operações. A Nasa ainda não sabe quando nem onde ele vai reentrar; fragmentos tendem a cair no oceano ou em áreas pouco povoadas.",
+     "quando": "29/10",
+     "titulo": "Meteorito marciano achado no Mali tem mais de 4,1 bilhões de anos, aponta estudo na Science",
+     "resumo": "A rocha Teghaza 001, de cerca de 800 gramas, é uma das três amostras antigas de Marte conhecidas na Terra e registra a ação de água subterrânea no planeta há cerca de 4,1 bilhões de anos. O trabalho foi liderado por Yang Liu, do Laboratório de Propulsão a Jato da Nasa.",
      "fontes": [
       {
-       "n": "Gizmodo Brasil",
-       "u": "https://www.gizmodo.com.br/telescopio-da-nasa-vai-reentrar-na-atmosfera-e-parte-do-brasil-esta-na-faixa-de-possivel-queda-73199"
+       "n": "Yeni Şafak",
+       "u": "https://en.yenisafak.com/technology/martian-meteorite-found-in-mali-dates-back-41-billion-years-3724990"
       },
       {
-       "n": "DOL",
-       "u": "https://dol.com.br/noticias/brasil/966934/telescopio-espacial-da-nasa-pode-cair-no-brasil-veja-o-que-ja-se-sabe"
+       "n": "CBS News",
+       "u": "https://www.cbsnews.com/news/mars-meteorite-found-sahara-desert/"
       },
       {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/mundo/2026/10/7529451-telescopio-da-nasa-vai-cair-na-terra-apos-22-anos-de-descobertas-incriveis.html"
+       "n": "Brasil 247",
+       "u": "https://brasil247.com/tendencias/2026/11/02/meteorito-encontrado-no-mali-revela-fragmento-de-marte-com-mais-de-4-bilhoes-de-anos"
       }
      ]
     }
@@ -1085,8 +1083,24 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
-     "kicker": "Música",
+     "kicker": "TV",
      "quando": "Ontem",
+     "titulo": "“Lá na Minha Terra”, nova novela das seis da Globo, estreia em 9 de novembro com Dira Paes",
+     "resumo": "Escrita por Mário Teixeira, a trama acompanha uma fazendeira do sertão que descobre que o marido, desaparecido havia mais de 15 anos, vive em São Paulo com outro nome, casado e rico. O elenco tem Daniel de Oliveira, Camila Morgado, Mateus Solano e Lília Cabral.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/opiniao/andre-romano/2026/11/1/conheca-a-historia-o-elenco-e-os-personagens-de-la-na-minha-terra-nova-novela-das-seis-da-globo"
+      },
+      {
+       "n": "AdoroCinema",
+       "u": "https://www.adorocinema.com/noticias/series/noticia-1000169871/"
+      }
+     ]
+    },
+    {
+     "kicker": "Música",
+     "quando": "31/10",
      "titulo": "BTS encerra a passagem pelo Brasil com terceiro show no MorumBIS e conversa com fãs em português",
      "resumo": "No último show da turnê “Arirang” em São Paulo, os sete integrantes falaram com o público em português; Jungkook lembrou que era a despedida da cidade, e V prometeu uma noite inesquecível. O grupo voltou ao país depois de sete anos e fez três apresentações com ingressos esgotados.",
      "fontes": [
@@ -1106,7 +1120,7 @@
     },
     {
      "kicker": "Luto",
-     "quando": "Ontem",
+     "quando": "31/10",
      "titulo": "Morre Mulher Banana, cantora do funk carioca dos anos 2000 e ex-Furacão 2000",
      "resumo": "Julyana Barbosa, também conhecida como Garota X, ganhou projeção nacional com o sucesso que lhe deu o nome artístico e é lembrada como uma das primeiras artistas trans com visibilidade no funk. A causa da morte não foi divulgada; Tati Quebra Barraco e outros artistas prestaram homenagens.",
      "fontes": [
@@ -1126,7 +1140,7 @@
     },
     {
      "kicker": "Morte",
-     "quando": "Ontem",
+     "quando": "31/10",
      "titulo": "Morre aos 87 anos Solano Ribeiro, criador dos festivais de música popular na TV",
      "resumo": "O produtor e crítico morreu na madrugada de sábado em São Paulo, onde tratava um câncer, segundo a família. Organizou festivais na Excelsior, Record, Globo e Tupi, que revelaram nomes como Elis Regina e Chico Buarque, e comandava desde 2006 um programa na Rádio Cultura Brasil.",
      "fontes": [
@@ -1141,46 +1155,6 @@
       {
        "n": "Folha de Curitiba",
        "u": "https://folhadecuritiba.com.br/solano-ribeiro-criador-dos-festivais-de-mpb-na-tv-morre-aos-87-anos/"
-      }
-     ]
-    },
-    {
-     "kicker": "TV",
-     "quando": "Hoje",
-     "titulo": "“Lá na Minha Terra”, nova novela das seis da Globo, estreia em 9 de novembro com Dira Paes",
-     "resumo": "Escrita por Mário Teixeira, a trama acompanha uma fazendeira do sertão que descobre que o marido, desaparecido havia mais de 15 anos, vive em São Paulo com outro nome, casado e rico. O elenco tem Daniel de Oliveira, Camila Morgado, Mateus Solano e Lília Cabral.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/opiniao/andre-romano/2026/11/1/conheca-a-historia-o-elenco-e-os-personagens-de-la-na-minha-terra-nova-novela-das-seis-da-globo"
-      },
-      {
-       "n": "AdoroCinema",
-       "u": "https://www.adorocinema.com/noticias/series/noticia-1000169871/"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "30/10",
-     "titulo": "Elenco de X-Men resgata fotos para homenagear Patrick Stewart; família detalha doenças do ator",
-     "resumo": "Hugh Jackman, Ian McKellen, James McAvoy, James Marsden e Rebecca Romijn publicaram imagens de bastidores com o ator, que morreu na quarta, aos 86 anos, em Los Angeles. Segundo a família, ele tinha Alzheimer e demência com corpos de Lewy; fãs também deixaram flores em sua estrela na Calçada da Fama.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/celebridades/atores-de-x-men-resgatam-fotos-antigas-para-homenagear-patrick-stewart/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/celebridades/causa-da-morte-de-patrick-stewart-professor-xavier-de-x-men-e-revelada/"
-      },
-      {
-       "n": "Omelete",
-       "u": "https://www.omelete.com.br/filmes/patrick-stewart-morre"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/10/30/boa-viagem-capitao-homenagens-sentidas-a-sir-patrick-stewart"
       }
      ]
     }
