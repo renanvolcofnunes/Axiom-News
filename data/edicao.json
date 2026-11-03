@@ -1,71 +1,71 @@
 {
- "data": "Segunda-feira, 2 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "02/11/2026 · 19h04 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 18h (Brasília) · fechamento em Nova York; B3 fechada no feriado, reabre na terça (3)",
- "fontes": 66,
+ "data": "Terça-feira, 3 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "03/11/2026 · 07h07 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de 6h (Brasília) · B3 reabre nesta terça após o feriado de Finados",
+ "fontes": 67,
  "mercado": [
   {
-   "nome": "Petróleo Brent · fechamento",
+   "nome": "Ibovespa · fechamento 30/10",
+   "valor": "167.922 pts",
+   "var": "−18,1% na semana",
+   "dir": "down"
+  },
+  {
+   "nome": "Dólar à vista · fechamento 30/10",
+   "valor": "R$ 5,44",
+   "var": "+9% na semana",
+   "dir": "up"
+  },
+  {
+   "nome": "EWZ (Brasil em NY) · pré-mercado 6h",
+   "valor": "US$ 32,20",
+   "var": "+0,12%",
+   "dir": "up"
+  },
+  {
+   "nome": "Petróleo Brent · fechamento 2/11",
    "valor": "US$ 104,77",
    "var": "−7,63%",
    "dir": "down"
   },
   {
-   "nome": "Dow Jones · fechamento",
-   "valor": "51.984 pts",
-   "var": "+0,41%",
-   "dir": "up"
-  },
-  {
-   "nome": "Nasdaq · fechamento",
-   "valor": "25.164 pts",
-   "var": "−1,07%",
-   "dir": "down"
-  },
-  {
-   "nome": "Ibovespa · fechamento 30/10",
-   "valor": "167.922 pts",
-   "var": "−0,75% (−18,1% na semana)",
-   "dir": "down"
-  },
-  {
    "nome": "Selic · decisão na quarta (4)",
    "valor": "13,75%",
-   "var": "Opções da B3 indicam 68,8% de chance de manutenção",
+   "var": "Copom começa a reunião hoje",
    "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Seg 2/11 · 20h",
-   "txt": "Bragantino x Santos, sem Neymar, abre a 34ª rodada do Brasileirão em Bragança Paulista",
-   "cat": "esporte"
-  },
-  {
-   "hora": "Ter 3/11",
-   "txt": "Senado tenta votar a PEC da Segurança em dois turnos; STF faz audiência sobre a MP das bets às 10h; Copom começa a reunião; último dia para o Fies",
+   "hora": "Ter 3/11 · 16h",
+   "txt": "Senado tenta votar a PEC da Segurança em dois turnos; mais cedo, STF ouve 34 entidades sobre a MP das bets; Copom inicia a reunião; Itaú divulga balanço; último dia de inscrição no Fies",
    "cat": "politica"
   },
   {
    "hora": "Ter 3/11",
-   "txt": "Eleições de meio de mandato nos EUA renovam a Câmara e 35 das 100 cadeiras do Senado",
+   "txt": "Americanos votam para a Câmara, 35 cadeiras do Senado e 36 governos estaduais; apuração começa à noite (Brasília)",
    "cat": "mundo"
   },
   {
+   "hora": "Ter 3/11 · 17h",
+   "txt": "Champions League tem Atlético de Madrid x Bayern, Barcelona x Aston Villa e Villarreal x PSG; pelo Brasileirão, Chapecoense x Mirassol (19h30) e Internacional x Coritiba (21h30)",
+   "cat": "esporte"
+  },
+  {
    "hora": "Qua 4/11",
-   "txt": "Copom anuncia a Selic à noite; Brasil x Nigéria na semifinal do Mundial Feminino Sub-17, às 12h; Herzog recebe o resultado oficial da eleição em Israel",
+   "txt": "Copom anuncia a Selic à noite; Brasil x Nigéria na semifinal do Mundial Feminino Sub-17 (12h); Flamengo x Grêmio (19h30) e São Paulo x Corinthians (21h30); Herzog recebe o resultado oficial da eleição em Israel",
    "cat": "economia"
   },
   {
    "hora": "Sex 6 a dom 8/11",
-   "txt": "GP de São Paulo de F1 em Interlagos; no sábado e no domingo, jogos de volta das semifinais da Copa do Brasil",
+   "txt": "GP de São Paulo de F1 em Interlagos, com corrida no domingo às 14h; no fim de semana, jogos de volta das semifinais da Copa do Brasil",
    "cat": "esporte"
   },
   {
    "hora": "Dom 8/11",
-   "txt": "Primeiro dia do Enem, com portões fechando às 13h (Brasília)",
+   "txt": "Primeiro dia do Enem: portões abrem às 12h e fecham às 13h (Brasília)",
    "cat": "educacao"
   }
  ],
@@ -162,40 +162,45 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercado",
-  "titulo": "Petróleo fecha em queda de 7,6% com sinal de negociação entre EUA e Irã, e Nasdaq recua 1% com o custo da corrida da IA",
-  "resumo": "O Brent terminou o dia a US$ 104,77 e o WTI a US$ 96,46, depois de Teerã falar em reabrir o Estreito de Ormuz em dois dias e de Donald Trump dizer que o Irã quer um acordo. Em Nova York, o Dow Jones subiu 0,41%, mas o S&P 500 caiu 0,51% e o Nasdaq 1,07%, puxados por Oracle e Marvell.",
-  "entenda": "O Estreito de Ormuz está fechado desde o início da guerra entre EUA, Israel e Irã, em fevereiro, o que manteve o barril acima de US$ 110 nas últimas semanas. Nesta segunda, a chancelaria iraniana disse que pode liberar a passagem em dois dias se Washington aceitar condições como cessar-fogo regional e fim de sanções; Trump afirmou em entrevista que os EUA não terminaram as operações militares, que o Irã não pode ter armas nucleares e, sobre um acordo, respondeu \"vamos ver\". A queda do petróleo derrubou petroleiras, e o setor de tecnologia pesou nos índices: a Oracle anunciou que vai captar US$ 20 bilhões em ações e dívida para ampliar data centers de IA. O dia antecede as eleições de meio de mandato nos EUA, na terça, e a decisão do Copom no Brasil, na quarta, com a B3 fechada pelo feriado de Finados.",
+  "kicker": "Eleições nos EUA",
+  "titulo": "Americanos vão às urnas com Trump em baixa nas pesquisas, e democratas chegam como favoritos para retomar a Câmara",
+  "resumo": "As eleições de meio de mandato desta terça renovam as 435 cadeiras da Câmara, 35 das 100 do Senado e 36 governos estaduais. Pesquisa Reuters/Ipsos divulgada na segunda mostra aprovação de 32% para o presidente e vantagem de 46% a 38% dos democratas na preferência para o Congresso.",
+  "entenda": "Os republicanos controlam hoje as duas casas do Congresso, o que permitiu a Donald Trump aprovar sua agenda desde a volta à Casa Branca, em janeiro de 2025. A votação ocorre no meio do mandato, com o custo de vida em alta e a guerra com o Irã, iniciada em fevereiro sem autorização do Congresso, no centro do debate. Se os democratas ganharem ao menos uma das casas, passam a poder barrar projetos, o orçamento e nomeações e a abrir investigações sobre o governo. Trump fez campanha intensa e prometeu US$ 5 mil a cada americano se o partido mantiver a maioria; os modelos de projeção dão mais de 90% de chance de os democratas retomarem a Câmara, e a disputa pelo Senado é considerada mais apertada. Mais de 54 milhões de pessoas votaram antecipadamente.",
   "fatos": [
-   "O Brent caiu US$ 8,66 (−7,63%) e o WTI, US$ 7,66 (−7,36%); sete países da Opep+ mantiveram as metas de produção de dezembro, e o Goldman Sachs projeta Brent médio de US$ 105 em dezembro.",
-   "Oracle caiu 8,85%, Marvell 12,72% e Lumentum 18,59% depois do anúncio da compra de US$ 115 bilhões; Chevron e Exxon recuaram 3,26% e 4,01%.",
-   "A Apple divulgou após o fechamento receita recorde de US$ 114,5 bilhões no trimestre encerrado em setembro; o índice ISM da indústria americana subiu de 54,5 para 55,5 em outubro."
+   "Na pesquisa Reuters/Ipsos, com 1.765 entrevistados e margem de erro de dois pontos, metade dos eleitores independentes disse que vai votar contra o partido do governo.",
+   "A Suprema Corte rejeitou o pedido para descartar cerca de 20 mil cédulas na Califórnia antes da votação.",
+   "Na madrugada da eleição, a Rússia lançou 17 mísseis balísticos, 59 de cruzeiro e 289 drones contra a Ucrânia; Zelensky disse que o ataque foi marcado para o dia da votação americana e pediu mais defesa aérea aos EUA."
   ],
   "fontes": [
    {
-    "n": "Agência Estado / A Crítica",
-    "u": "https://acritica.net/economia/petroleo-fecha-queda-mais-7-dialogo-eua-ira/",
-    "d": "Fechamento do petróleo"
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/mundo/eua-vao-as-urnas-para-renovar-congresso-entenda-disputa",
+    "d": "O que está em jogo"
    },
    {
-    "n": "Tribuna do Sertão / Estadão Conteúdo",
-    "u": "https://www.tribunadosertao.com.br/geral/2026/11/02/1011798-bolsas-de-ny-fecham-sem-direcao-unica-com-queda-do-petroleo-em-semana-de-payroll-e-midterms",
-    "d": "Bolsas de Nova York"
+    "n": "Blog do BG / Metrópoles",
+    "u": "https://www.blogdobg.com.br/eua-vao-as-urnas-em-eleicao-de-meio-de-mandato-que-pode-impactar-governo-trump/",
+    "d": "Pesquisa Reuters/Ipsos"
    },
    {
-    "n": "Times Brasil / CNBC",
-    "u": "https://timesbrasil.com.br/mundo/trump-diz-que-ira-deseja-acordo-com-os-estados-unidos-mas-nao-descarta-seguir-com-operacoes-militares/",
-    "d": "Declarações de Trump"
+    "n": "Poder360",
+    "u": "https://www.poder360.com.br/poder-internacional/eua-vao-as-urnas-para-midterms-as-eleicoes-de-meio-mandato/",
+    "d": "Dia de votação"
    },
    {
-    "n": "O Tempo",
-    "u": "https://www.otempo.com.br/mundo/2026/11/2/ira-oferece-reabrir-estreito-de-ormuz-em-dois-dias-mas-impoe-condicoes-aos-eua",
-    "d": "Condições do Irã"
+    "n": "Infobae / EFE",
+    "u": "https://infobae.com/america/agencias/2026/11/03/martes-3-de-noviembre-de-2026-0800-gmt",
+    "d": "Agenda do dia"
    },
    {
-    "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/empresas-e-negocios/oracle-planeja-vender-us-20-bilhoes-em-novas-acoes-e-titulos-para-financiar-a-expansao-de-sua-area-de-ia/",
-    "d": "Captação da Oracle"
+    "n": "Blog do Lago (resumo de El País)",
+    "u": "https://blogdolago.com.br/manchetes-do-dia-3-de-novembro-de-2026/",
+    "d": "Cédulas na Califórnia"
+   },
+   {
+    "n": "UA News",
+    "u": "https://ua.news/en/war-vs-rf/u-den-viboriv-u-ssha-rosiia-vipustila-po-ukrayini-17-balistichnikh-raket-i-289-droniv-zelenskii",
+    "d": "Ataque à Ucrânia"
    }
   ]
  },
@@ -209,16 +214,16 @@
     {
      "kicker": "Congresso",
      "quando": "Hoje",
-     "titulo": "Senado vota amanhã a PEC da Segurança, e redução da maioridade penal divide até a base do governo",
-     "resumo": "O texto é o primeiro item da sessão de terça (3), e a base quer votar os dois turnos no mesmo dia, com calendário especial, para evitar que mudanças devolvam a proposta à Câmara. A PEC integra as forças de segurança, amplia atribuições da PRF e endurece regras contra facções; o impasse é a emenda que reduz a maioridade penal, apoiada por 79% dos brasileiros segundo o Datafolha de junho.",
+     "titulo": "Senado vota a PEC da Segurança a partir das 16h, e oposição insiste em incluir a redução da maioridade penal",
+     "resumo": "A proposta precisa de 49 dos 81 votos em dois turnos, que só podem ocorrer no mesmo dia se houver acordo entre os líderes. O texto, relatado por Rogério Carvalho (PT-SE), integra as forças de segurança e é condição para criar o Ministério da Segurança Pública; se for alterado, volta à Câmara.",
      "lados": [
       {
-       "quem": "Governo e base",
-       "txt": "Dizem apoiar a redução da maioridade em proposta separada, afirmam ter votos para rejeitar a emenda e ligam à PEC a criação do Ministério da Segurança Pública; o líder do PT, Camilo Santana, sugeriu 16 anos só para crimes hediondos."
+       "quem": "Governo",
+       "txt": "A líder Teresa Leitão (PT-PE) quer aprovar a versão da Câmara, rejeitar emendas e discutir a maioridade em proposta separada; o PT está dividido entre a ideia de Camilo Santana de reduzir para 16 anos só nos crimes hediondos e a ala contrária a qualquer mudança."
       },
       {
        "quem": "Oposição",
-       "txt": "A emenda de Rogério Marinho (PL-RN) reduz a idade penal para 16 anos em todos os crimes e 14 nos hediondos; Carlos Portinho (PL-RJ) pediu votação em separado, e senadores do PL dizem que a violência exige a mudança."
+       "txt": "A emenda de Rogério Marinho (PL-RN), com apoio de 37 senadores, reduz a idade penal para 16 anos e para 14 nos crimes graves; Carlos Portinho (PL-RJ) manteve o pedido de votação em separado, e senadores do PL cobram de Lula a posição pró-redução que ele defendeu na campanha."
       }
      ],
      "foto": {
@@ -227,26 +232,109 @@
      },
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/governo-tenta-acelerar-pec-da-seguranca-oposicao-insiste-em-maioridade/"
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7532012-pec-da-seguranca-e-o-1-cabo-de-guerra-pos-eleicao.html"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/senado-poe-pec-da-seguranca-na-pauta-em-meio-a-debate-sobre-maioridade"
+      },
+      {
+       "n": "Diário do Povo",
+       "u": "https://diario.dopovo.com.br/2026/11/03/senado-vota-pec-da-seguranca-sem-incluir-reducao-da-maioridade-penal/"
+      },
+      {
+       "n": "TV Brasil",
+       "u": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/11/senado-pode-aprovar-pec-da-seguranca-publica-nesta-terca-feira"
+      }
+     ]
+    },
+    {
+     "kicker": "Flávio Bolsonaro",
+     "quando": "Hoje",
+     "titulo": "PF apura se mulher e filhas de Flávio voaram a Cascavel para encontrá-lo na Argentina; defesa pede a Fachin os passaportes de volta",
+     "resumo": "Segundo a coluna de Igor Gadelha, uma linha da investigação é que a família saiu de Brasília em 27 de outubro num avião particular que ficou 25 minutos em Cascavel (PR), a 150 km de Puerto Iguazú, e de lá seguiu com o senador para Miami. Mulher e filhas não tinham restrição para viajar; Flávio estava proibido por Alexandre de Moraes de deixar o país.",
+     "lados": [
+      {
+       "quem": "Investigação",
+       "txt": "A PF apura quem ajudou na saída, se o senador usou jato ligado a uma empresa do advogado Willer Tomaz e o descumprimento das cautelares; Tomaz e Flávio são investigados por suspeita de lavagem de dinheiro e negam irregularidades."
+      },
+      {
+       "quem": "Defesa e aliados",
+       "txt": "Em recurso apresentado a Edson Fachin, a defesa pede a revogação das cautelares, o afastamento de Moraes do caso e a transferência para André Mendonça; Flávio afirma que não fugiu, que sofre perseguição e que vai liderar a oposição a partir dos EUA."
+      }
+     ],
+     "foto": {
+      "src": "fotos/flavio.jpg",
+      "credito": "Joédson Alves/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/igor-gadelha/pf-apura-voo-que-pode-ter-levado-esposa-e-filhas-de-flavio-ate-a-fronteira"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/congresso/2026/11/2/flavio-bolsonaro-recorre-ao-stf-contra-apreensao-de-passaportes"
+      },
+      {
+       "n": "CNN Brasil / Agência Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/pf-investiga-circunstancias-da-fuga-de-flavio-bolsonaro-do-brasil/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-declara-lideranca-da-oposicao-a-partir-dos-eua/"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "STF faz audiência pública sobre a MP que proibiu as bets, com governo, clubes e empresas do setor",
+     "resumo": "O ministro Luiz Fux, relator de uma das quatro ações contra a medida provisória, convocou a sessão a pedido da AGU, que quer ampliar o debate técnico. As ações pedem a volta das regras da lei de 2023; clubes de futebol estão entre os afetados pelo fim de contratos de patrocínio, e cada entidade inscrita terá 10 minutos.",
+     "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://mais.opovo.com.br/jornal/farol/2026/11/03/bets-stf-realiza-audiencia-publica-nesta-terca-3-para-debater-proibicao-no-pais.html"
+      },
+      {
+       "n": "STF",
+       "u": "https://noticias.stf.jus.br/postsnoticias/stf-realizara-audiencia-publica-sobre-mp-que-trata-de-apostas-esportivas/"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/fux-marca-para-novembro-audiencia-publica-sobre-impactos-da-mp-das-bets/"
+      }
+     ]
+    },
+    {
+     "kicker": "Governo",
+     "quando": "01/11",
+     "titulo": "Lula diz que não vai extinguir programas sociais e prepara pronunciamento e novo ministério para o quarto mandato",
+     "resumo": "Em vídeo nas redes, o presidente afirmou que pode criar ou melhorar programas, mas não acabar com nenhum, e acusou adversários de espalhar mentiras; ele limitou aparições por uma semana por causa de rouquidão. Para esta semana, estão previstos um pronunciamento à nação e conversas com partidos de centro sobre a composição do governo a partir de 2027.",
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "destaque": false,
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-garante-que-programas-sociais-serao-mantidos"
       },
       {
        "n": "Bahia Notícias",
        "u": "https://www.bahianoticias.com.br/noticia/323261-semana-tem-pronunciamento-de-lula-pec-da-seguranca-publica-bets-no-stf-e-decisao-sobre-juros"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/alcolumbre-pauta-pec-da-seguranca-e-reabre-discussao-sobre-maioridade"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira"
+       "n": "Gizmodo Brasil",
+       "u": "https://www.gizmodo.com.br/lula-garante-que-nenhum-programa-social-sera-extinto-e-promete-cumprir-compromissos-de-campanha-73794"
       }
      ]
     },
     {
      "kicker": "Caso Master",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Defesa de Vorcaro denuncia o Brasil à Comissão Interamericana de Direitos Humanos para tentar soltar o banqueiro",
      "resumo": "Preso preventivamente desde março, o ex-controlador do Banco Master está na Papudinha, em Brasília, e o pedido à CIDH, apresentado em 27 de outubro, ainda não foi analisado. O caso, antes relatado por André Mendonça, está provisoriamente com o presidente do STF, Edson Fachin, desde decisão de 29 de outubro.",
      "lados": [
@@ -273,95 +361,6 @@
        "u": "https://diariodopara.com.br/noticias/brasil/vorcaro-denuncia-brasil-a-orgao-internacional-de-direitos-humanos-para-tentar-deixar-prisao/"
       }
      ]
-    },
-    {
-     "kicker": "Governo",
-     "quando": "Ontem",
-     "titulo": "Lula diz que não vai extinguir programas sociais e prepara pronunciamento e novo ministério para o quarto mandato",
-     "resumo": "Em vídeo nas redes, o presidente afirmou que pode criar ou melhorar programas, mas não acabar com nenhum, e acusou adversários de espalhar mentiras; ele limitou aparições por uma semana por causa de rouquidão. Para esta semana, estão previstos um pronunciamento à nação e conversas com partidos de centro sobre a composição do governo a partir de 2027.",
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "destaque": false,
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-garante-que-programas-sociais-serao-mantidos"
-      },
-      {
-       "n": "Bahia Notícias",
-       "u": "https://www.bahianoticias.com.br/noticia/323261-semana-tem-pronunciamento-de-lula-pec-da-seguranca-publica-bets-no-stf-e-decisao-sobre-juros"
-      },
-      {
-       "n": "Gizmodo Brasil",
-       "u": "https://www.gizmodo.com.br/lula-garante-que-nenhum-programa-social-sera-extinto-e-promete-cumprir-compromissos-de-campanha-73794"
-      }
-     ]
-    },
-    {
-     "kicker": "Oposição",
-     "quando": "Ontem",
-     "titulo": "Ações pedem suspensão do salário de Flávio Bolsonaro nos EUA, e direita discute quem lidera a oposição",
-     "resumo": "Uma ação popular na Justiça Federal do Rio pede liminar para cortar subsídio e verbas do senador enquanto ele estiver fora do país, e deputados de esquerda pediram a Alcolumbre que avalie a perda do mandato. Com a saída de Flávio, aliados citam Tarcísio de Freitas, Michelle Bolsonaro e Bia Kicis como possíveis referências da oposição.",
-     "lados": [
-      {
-       "quem": "Autores das ações",
-       "txt": "Afirmam que a ausência prejudica o exercício do mandato e que manter os pagamentos pode configurar desvio de finalidade de recursos públicos."
-      },
-      {
-       "quem": "Flávio Bolsonaro",
-       "txt": "Diz que a saída foi uma decisão pessoal e política, não uma fuga, alega perseguição judicial e afirma que seguirá atuando como voz da oposição a partir dos EUA."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/acoes-pedem-suspensao-de-salario-de-flavio-bolsonaro-apos-sua-saida-do-brasil/"
-      },
-      {
-       "n": "Estado de Minas / Correio Braziliense",
-       "u": "https://www.em.com.br/politica/2026/11/7531634-fuga-de-flavio-bolsonaro-do-pais-deixa-vacuo-na-lideranca-da-oposicao.html"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/congresso/2026/10/31/nos-eua-flavio-segue-senador-e-tem-salario-de-r-46-mil-veja-regras-para-faltas"
-      }
-     ]
-    },
-    {
-     "kicker": "Eleição",
-     "quando": "Ontem",
-     "titulo": "27 partidos reconhecem a reeleição de Lula; Novo contesta e pede a cassação da chapa",
-     "resumo": "Levantamento com 29 das 30 legendas registradas, excluído o PT, mostra que só o Novo não aceitou o resultado do segundo turno, e o Mobiliza não se manifestou. O PL, por meio de Valdemar Costa Neto, reconheceu a vitória, embora Flávio Bolsonaro tenha questionado a eleição em carta, sem apresentar provas.",
-     "lados": [
-      {
-       "quem": "Novo",
-       "txt": "Diz que o PT usou a máquina pública e teve apoio do STF para se manter no poder e afirma ter três ações pedindo a cassação da chapa de Lula."
-      },
-      {
-       "quem": "Demais partidos e TSE",
-       "txt": "As outras 27 legendas aceitaram o resultado, proclamado pelo TSE, que confirmou a vitória de Lula no segundo turno."
-      }
-     ],
-     "foto": {
-      "src": "fotos/onibus.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/eleicoes-27-partidos-reconhecem-vitoria-de-lula-novo-contesta-resultado"
-      },
-      {
-       "n": "Diário do Estado de SP",
-       "u": "https://diarioesp.com.br/noticias/2026/11/01/maioria-dos-partidos-reconhece-reeleicao-de-lula-novo-contesta-e-mobiliza-silencia.html"
-      },
-      {
-       "n": "Folha de Curitiba",
-       "u": "https://folhadecuritiba.com.br/27-partidos-reconhecem-vitoria-de-lula-novo-contesta-e-pede-cassacao-da-chapa/"
-      }
-     ]
     }
    ]
   },
@@ -369,33 +368,29 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado e indicadores · B3 reabre na terça; Copom na quarta",
+   "nota": "Mercado e indicadores · B3 reabre hoje; Copom decide na quarta",
    "itens": [
     {
-     "kicker": "Wall Street",
+     "kicker": "Mercado",
      "quando": "Hoje",
-     "titulo": "Nasdaq cai 1% com custo da expansão da IA; Oracle anuncia captação de US$ 20 bilhões e Marvell recua 12,7%",
-     "resumo": "A Oracle informou que venderá novas ações e títulos para financiar data centers e caiu 8,85%, enquanto Marvell e Lumentum despencaram depois do anúncio da fusão. O Dow Jones subiu 0,41%, ajudado por Amazon e Sherwin-Williams, e a semana tem eleições nos EUA e o relatório de empregos de outubro.",
+     "titulo": "B3 reabre depois de semana de queda de 18%, com Focus, balanço do Itaú e início da reunião do Copom",
+     "resumo": "O Ibovespa fechou a sexta-feira (30) aos 167.922 pontos, cerca de 42 mil abaixo do recorde, e as empresas da bolsa perderam R$ 963 bilhões em valor desde a eleição; o dólar à vista subiu mais de 9% na semana, a R$ 5,44. Antes da abertura, o ETF brasileiro em Nova York subia 0,12%, e o Boletim Focus sai às 8h25.",
      "fontes": [
       {
-       "n": "Tribuna do Sertão / Estadão Conteúdo",
-       "u": "https://www.tribunadosertao.com.br/geral/2026/11/02/1011798-bolsas-de-ny-fecham-sem-direcao-unica-com-queda-do-petroleo-em-semana-de-payroll-e-midterms"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-e-dolar-voltam-a-prova-quais-niveis-podem-definir-a-reabertura-do-mercado/"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/investimentos/bolsa/nasdaq-inicia-novembro-com-queda-de-1-em-meio-a-novo-colapso-do-setor-de-tecnologia"
-      },
-      {
-       "n": "Dataconomy",
-       "u": "https://pt.dataconomy.com/2026/11/02/oracle-registra-pedido-para-captar-us-20-bilhoes-para-expansao-de-ia/"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/disputa-pelo-futuro-da-selic-da-pontape-na-semana-do-copom-ibovespa-em-dolar-sobe-nesta-terca-feira-3-rens/"
       }
      ]
     },
     {
      "kicker": "Juros",
      "quando": "Hoje",
-     "titulo": "Bancos passam a prever pausa nos juros, e opções da B3 indicam 68,8% de chance de a Selic ficar em 13,75% na quarta",
-     "resumo": "Itaú, BTG Pactual, HSBC e C6 projetam manutenção, enquanto Inter, ASA e Daycoval ainda esperam corte de 0,25 ponto; antes do segundo turno, a aposta majoritária era de redução. Os analistas citam a alta do dólar, a política fiscal do próximo governo e os preços de energia como riscos para a inflação; a B3 reabre na terça, depois de o Ibovespa cair 18% na semana passada.",
+     "titulo": "Copom começa a reunião com mercado dividido entre pausa e corte; opções indicavam 68,8% de chance de a Selic ficar em 13,75%",
+     "resumo": "Itaú, BTG Pactual, HSBC e C6 projetam manutenção, enquanto Inter, ASA e Daycoval ainda esperam corte de 0,25 ponto; antes do segundo turno, a aposta majoritária era de redução. Os analistas citam a alta do dólar, a política fiscal do próximo governo e os preços de energia como riscos para a inflação; a decisão sai na quarta, e a B3 reabre nesta terça, depois de o Ibovespa cair 18% na semana passada.",
      "fontes": [
       {
        "n": "CNN Brasil",
@@ -412,38 +407,46 @@
      ]
     },
     {
-     "kicker": "Consumidor",
+     "kicker": "Bancos",
      "quando": "Hoje",
-     "titulo": "Novas regras do SAC entram em vigor: atendimento humano das 8h às 20h, todos os dias",
-     "resumo": "O decreto vale para setores regulados pela União, como telefonia, planos de saúde, aéreas, energia, bancos e aplicativos de transporte e entrega. Em 80% das ligações, o cliente deve falar com uma pessoa em até 20 segundos, o cancelamento tem de estar no primeiro menu e a IA não pode impedir o contato com um atendente.",
+     "titulo": "Itaú divulga o resultado do terceiro trimestre, e analistas esperam lucro de R$ 12,6 bilhões",
+     "resumo": "O número é o consenso compilado pela LSEG, com receita estimada em R$ 48,3 bilhões. O Goldman Sachs projeta rentabilidade (ROE) de 23,3%, abaixo dos 24,3% do trimestre anterior.",
      "fontes": [
       {
-       "n": "Grupo A Hora / Agência Brasil",
-       "u": "https://grupoahora.net.br/conteudos/2026/11/02/novas-regras-de-atendimento-ao-consumidor-comecam-a-valer-hoje/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/itau-itub4-divulga-balanco-do-3o-trimestre-nesta-terca-o-que-esperar/"
       }
      ]
     },
     {
-     "kicker": "Combustíveis",
-     "quando": "Ontem",
-     "titulo": "Petrobras sobe o querosene de aviação em 7,2%, segundo aumento seguido",
-     "resumo": "A alta, de R$ 0,45 por litro para as distribuidoras, vale desde este domingo e vem depois de reajuste de 11,76% em outubro. A estatal atribui o aumento à cotação internacional, e a Abear diz que o combustível passou de 30% para mais de 45% dos custos das companhias aéreas desde o início dos conflitos.",
-     "foto": {
-      "src": "fotos/aviao.jpg",
-      "credito": "Rovena Rosa/Agência Brasil (arquivo)"
-     },
+     "kicker": "Banco Central",
+     "quando": "Hoje",
+     "titulo": "Lula poderá indicar seis diretores do Banco Central até o fim de 2027",
+     "resumo": "Duas cadeiras da diretoria estão vagas desde janeiro, outras indicações podem sair nos próximos meses, e duas vagas se abrem em 31 de dezembro de 2027, segundo levantamento publicado pela Folha. Os mandatos do presidente Gabriel Galípolo e de dois diretores vão até o fim de 2028.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-reajusta-combustivel-de-aviacao-em-r-045-por-litro"
+       "n": "Brasil 247 / Folha",
+       "u": "https://brasil247.com/economia/lula-indicara-6-diretores-do-banco-central-ate-o-fim-de-2027-e-tera-chance-de-alterar-rumo-dos-juros"
+      }
+     ]
+    },
+    {
+     "kicker": "Wall Street",
+     "quando": "Ontem",
+     "titulo": "Nasdaq cai 1% com custo da expansão da IA; Oracle anuncia captação de US$ 20 bilhões e Marvell recua 12,7%",
+     "resumo": "A Oracle informou que venderá novas ações e títulos para financiar data centers e caiu 8,85%, enquanto Marvell e Lumentum despencaram depois do anúncio da fusão. O Dow Jones subiu 0,41%, ajudado por Amazon e Sherwin-Williams, e a semana tem eleições nos EUA e o relatório de empregos de outubro.",
+     "fontes": [
+      {
+       "n": "Tribuna do Sertão / Estadão Conteúdo",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/02/1011798-bolsas-de-ny-fecham-sem-direcao-unica-com-queda-do-petroleo-em-semana-de-payroll-e-midterms"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/commodities/petrobras-reajusta-querosene-aviacao-7-2"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/investimentos/bolsa/nasdaq-inicia-novembro-com-queda-de-1-em-meio-a-novo-colapso-do-setor-de-tecnologia"
       },
       {
-       "n": "TNH1",
-       "u": "https://www.tnh1.com.br/noticia/nid/petrobras-aumenta-preco-do-querosene-de-aviacao-em-72-em-novembro/"
+       "n": "Dataconomy",
+       "u": "https://pt.dataconomy.com/2026/11/02/oracle-registra-pedido-para-captar-us-20-bilhoes-para-expansao-de-ia/"
       }
      ]
     }
@@ -456,8 +459,64 @@
    "nota": "Segurança, clima e cidades",
    "itens": [
     {
-     "kicker": "Finados",
+     "kicker": "Clima",
      "quando": "Hoje",
+     "titulo": "Ciclone começa a se formar na costa do Sul, e oito estados ficam em alerta para temporais",
+     "resumo": "A previsão da Meteored aponta chuva forte, ventania e risco de granizo no Rio Grande do Sul, em Santa Catarina, no Paraná, em Mato Grosso do Sul, São Paulo, Rio, Goiás e Minas, com piora na quarta entre o centro gaúcho e o sul paranaense. Antes da frente fria, São Paulo pode chegar a 31°C e o Rio a 34°C nesta terça.",
+     "fontes": [
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/tempo/novo-ciclone-ja-tem-data-para-se-formar-no-brasil/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/sp-pode-chegar-a-31-c-e-rio-a-34-c-nesta-terca"
+      },
+      {
+       "n": "Bem Paraná",
+       "u": "https://www.bemparana.com.br/noticias/parana/ciclone-extratropical-coloca-parana-em-alerta-para-temporais-apos-supercelula-arrasar-cidade/"
+      }
+     ]
+    },
+    {
+     "kicker": "São Paulo",
+     "quando": "Hoje",
+     "titulo": "Smart Sampa tem nova falha relatada, e prefeitura nega fragilidade no sistema de câmeras",
+     "resumo": "O UOL informa nesta terça uma nova brecha que daria acesso a cerca de 17 mil câmeras conveniadas, depois de a Folha mostrar que falhas na plataforma permitiam ver câmeras de outras cidades e dados sigilosos. A gestão Ricardo Nunes afirma que não há falha de segurança e atribui o caso a um vazamento ilegal feito por um servidor da Guarda Civil.",
+     "fontes": [
+      {
+       "n": "Folha de S.Paulo",
+       "u": "https://www1.folha.uol.com.br/cotidiano/2026/10/falhas-no-smart-sampa-permitiam-acesso-a-cameras-de-outras-cidades-apontam-documentos.shtml"
+      },
+      {
+       "n": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/falhas-no-smart-sampa-expoem-cameras-de-outras-cidades-indicam-documentos"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/dados-vazados-do-smartsampa-permitiram-acesso-indevido-a-mais-de-58-mil-cameras-em-sp/"
+      }
+     ]
+    },
+    {
+     "kicker": "Estradas",
+     "quando": "Ontem",
+     "titulo": "Batida frontal mata quatro pessoas, entre elas uma criança de 7 anos, na BR-277 no Paraná",
+     "resumo": "O acidente entre um Peugeot 206 e um Jeep Renegade ocorreu por volta das 8h do feriado, em Palmeira, nos Campos Gerais; os mortos estavam no Peugeot, e três ocupantes do outro carro tiveram ferimentos leves. A PRF ainda apura qual veículo invadiu a pista contrária.",
+     "fontes": [
+      {
+       "n": "O Paraná",
+       "u": "https://oparana.com.br/transito/quatro-pessoas-morrem-incluindo-crianca-de-7-anos-em-acidente-na-br-277-em-palmeira/"
+      },
+      {
+       "n": "Bem Paraná",
+       "u": "https://www.bemparana.com.br/noticias/parana/acidente-com-dois-veiculos-da-grande-curitiba-termina-com-quatro-mortos-na-br-277/"
+      }
+     ]
+    },
+    {
+     "kicker": "Finados",
+     "quando": "Ontem",
      "titulo": "Famílias lotam cemitérios no feriado de Finados; em Brasília, Campo da Esperança tem fila de visitantes",
      "resumo": "No Campo da Esperança, maior cemitério do DF, parentes levaram flores e fizeram orações desde cedo, com esquema especial de trânsito. No Rio, famílias soltaram balões brancos no Cemitério da Penitência, ritual que se repete há cerca de dez anos, e deixaram mensagens numa instalação artística.",
      "foto": {
@@ -480,74 +539,14 @@
      ]
     },
     {
-     "kicker": "Tempo",
-     "quando": "Hoje",
-     "titulo": "Ciclone deve se formar no Sul a partir de terça, e oito estados entram em alerta para temporais",
-     "resumo": "Segundo a Meteored, o oeste gaúcho tem risco de tempestades severas com chuva volumosa e granizo, e a instabilidade se espalha por Santa Catarina e Paraná até quarta. A Defesa Civil catarinense alertou para chuva intensa e ventos fortes em todo o estado, e o aviso também alcança áreas de MS, SP, RJ, GO e MG.",
-     "fontes": [
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/novo-ciclone-ja-tem-data-para-se-formar-no-brasil"
-      },
-      {
-       "n": "Oeste Mais",
-       "u": "https://www.oestemais.com/clima/2026/11/02/defesa-civil-alerta-para-temporais-com-chuva-intensa-ventos-fortes-e-granizo-em-toda-sc/"
-      },
-      {
-       "n": "Agora RS",
-       "u": "https://agorars.com/agora-no-tempo/defesa-civil-inmet-avisos-tempestades-rs-novembro-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Rio de Janeiro",
-     "quando": "Hoje",
-     "titulo": "Instrutor e passageiro morrem em queda de asa-delta na Praia de São Conrado",
-     "resumo": "O acidente ocorreu na manhã desta segunda, na área de pouso de voo livre no fim da praia, na Zona Sul do Rio; segundo os Bombeiros, os dois foram levados em parada cardiorrespiratória ao Hospital Miguel Couto e não resistiram. Emissoras locais informam que o passageiro era um turista argentino; a causa da queda não foi divulgada.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/duas-pessoas-morrem-apos-queda-de-asa-delta-em-praia-do-rio-de-janeiro/"
-      },
-      {
-       "n": "Super Rádio Tupi",
-       "u": "https://www.tupi.fm/rio/instrutor-e-turista-argentino-morrem-apos-asa-delta-atingir-muro-em-praia-do-rio/"
-      },
-      {
-       "n": "Midiamax",
-       "u": "https://midiamax.com.br/brasil/2026/instrutor-passageiro-morrem-apos-cairem-asa-delta-rj/"
-      }
-     ]
-    },
-    {
      "kicker": "Justiça",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Moraes autoriza transferência de Bacellar de presídio federal para o Rio, e operação é classificada de alto risco",
      "resumo": "O ex-presidente da Alerj, preso desde março na Operação Unha e Carne, sairá da Penitenciária Federal de Mossoró para uma unidade estadual, depois de o ministro do STF aceitar pedido da defesa por entender que não há mais os motivos iniciais. A Polícia Penal Federal conduz a transferência, ainda sem data.",
      "fontes": [
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/transferencia-de-bacellar-para-o-rio-e-considerada-de-alto-risco/"
-      }
-     ]
-    },
-    {
-     "kicker": "Temporal",
-     "quando": "Ontem",
-     "titulo": "Supercélula derruba árvores e destelha barracões no centro-sul do Paraná",
-     "resumo": "Na tarde deste domingo, ventos fortes e granizo atingiram Marquinho, Laranjal, Laranjeiras do Sul e Nova Laranjeiras, com postes e fios caídos sobre as ruas; não há registro de feridos. O Inmet mantém alerta de tempestade para o Paraná e áreas de São Paulo e Mato Grosso do Sul durante o feriado, e o aviso segue na terça.",
-     "fontes": [
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/estragos-do-temporal-no-parana"
-      },
-      {
-       "n": "Terra Brasil Notícias",
-       "u": "https://terrabrasilnoticias.com/2026/11/inmet-emite-alerta-de-tempestade-para-o-parana-e-areas-de-sp-e-ms-no-feriado-de-finados/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/10/31/tempestade-nao-da-tregua-depois-do-feriado-sao-paulo-e-parana-inteiros-entram-em-alerta-na-terca"
       }
      ]
     }
@@ -560,134 +559,78 @@
    "nota": "Internacional",
    "itens": [
     {
-     "kicker": "Estados Unidos",
+     "kicker": "Guerra na Ucrânia",
      "quando": "Hoje",
-     "titulo": "Na véspera das eleições nos EUA, Trump faz apelo final em Washington, e pesquisas mostram democratas à frente",
-     "resumo": "No Memorial Lincoln, o presidente pediu que eleitores votem como se ele estivesse na cédula; levantamento da NBC aponta 40% de aprovação e 52% de preferência pelos democratas no Congresso, contra 45% dos republicanos. Na terça, estão em jogo as 435 cadeiras da Câmara e 35 do Senado, hoje controlados por margem estreita pelos republicanos.",
-     "lados": [
-      {
-       "quem": "Trump e republicanos",
-       "txt": "Trump chamou a votação de a mais importante da vida dos americanos e disse que os democratas têm candidatos perigosos, com agenda de impostos altos e fronteiras abertas."
-      },
-      {
-       "quem": "Democratas",
-       "txt": "Apostam no custo de vida, nas tarifas e nos efeitos da guerra com o Irã e prometem, com maioria, ampliar a fiscalização sobre o governo."
-      }
-     ],
+     "titulo": "Rússia lança centenas de drones e mísseis contra a rede elétrica da Ucrânia; ataque em Zaporizhzhia deixa 29 mortos",
+     "resumo": "Zelensky contou 17 mísseis balísticos, 59 de cruzeiro e 289 drones na madrugada, com apagões em várias regiões e 73 feridos em Kharkiv, onde uma clínica foi atingida. Do lado russo, o prefeito de Moscou disse que 493 drones foram derrubados a caminho da capital; o enviado americano Steve Witkoff afirma que as negociações entre os dois países devem começar na próxima semana.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/trump-discursa-antes-eleicoes-meio-de-mandato-eua"
+       "n": "UA News",
+       "u": "https://ua.news/en/war-vs-rf/u-den-viboriv-u-ssha-rosiia-vipustila-po-ukrayini-17-balistichnikh-raket-i-289-droniv-zelenskii"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/onda-democrata-ameaca-trump-e-maioria-republicana-no-senado-diz-pesquisa"
+       "n": "O Povo / AFP",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/03/russia-derruba-centenas-de-drones-apos-fim-da-tregua-na-ucrania.html"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/2/partidos-fazem-ultimos-atos-antes-de-eleicoes-de-meio-de-mandato-que-podem-enfraquecer-trump"
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/03/1011958-russia-lanca-ataques-de-precisao-contra-infraestruturas-portuarias-e-embarcacoes-maritimas-ucranianas"
       }
      ]
     },
     {
      "kicker": "Oriente Médio",
      "quando": "Hoje",
-     "titulo": "Trump diz que o Irã quer acordo, mas que os EUA não terminaram as operações militares",
-     "resumo": "Em entrevista a um podcast, o presidente respondeu \"vamos ver\" ao ser perguntado sobre um entendimento e repetiu que Teerã não pode ter armas nucleares. Horas antes, a chancelaria iraniana disse que o Estreito de Ormuz pode ser reaberto em dois dias se Washington aceitar suas exigências.",
-     "lados": [
-      {
-       "quem": "Estados Unidos",
-       "txt": "Trump diz que o Irã busca negociar e que os estoques de petróleo superam os níveis de antes da guerra, mas não descarta novos ataques."
-      },
-      {
-       "quem": "Irã",
-       "txt": "O porta-voz Esmaeil Baqaei condiciona a reabertura a cessar-fogo regional, fim das sanções ao petróleo e do bloqueio aos portos, liberação de ativos e menor presença militar americana."
-      }
-     ],
+     "titulo": "Guarda Revolucionária diz que 11 petroleiros foram incendiados ou afundados em Ormuz em nove dias",
+     "resumo": "Teerã afirma que os navios não pediram autorização para passar e diz ter derrubado dois drones americanos; os números não foram verificados de forma independente. O Comando Central dos EUA informou ter forçado 144 navios a mudar de rota, e Trump disse na segunda que o Irã quer um acordo, mas que as operações militares não terminaram.",
      "fontes": [
+      {
+       "n": "La Nación (Paraguai)",
+       "u": "https://www.lanacion.com.py/mundo/2026/11/02/iran-revela-que-11-petroleros-terminaron-incendiados-o-hundidos-en-el-estrecho-de-ormuz/"
+      },
       {
        "n": "Times Brasil / CNBC",
        "u": "https://timesbrasil.com.br/mundo/trump-diz-que-ira-deseja-acordo-com-os-estados-unidos-mas-nao-descarta-seguir-com-operacoes-militares/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/2/ira-oferece-reabrir-estreito-de-ormuz-em-dois-dias-mas-impoe-condicoes-aos-eua"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/02/ira-propoe-reabrir-ormuz-em-dois-dias-se-eua-aceitar-demandas.html"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/10/30/guarda-revolucionaria-do-irao-diz-que-dois-petroleiros-se-incendiaram-no-estreito-de-ormuz"
       }
      ]
     },
     {
      "kicker": "Israel",
      "quando": "Hoje",
-     "titulo": "Sem maioria para Netanyahu, resultado oficial da eleição em Israel vai ao presidente Herzog na quarta",
-     "resumo": "O bloco do premiê ficou com 53 das 120 cadeiras, a oposição liderada por Gadi Eisenkot com 48, e os partidos árabes com 19; são necessárias 61 para governar. Herzog terá uma semana para indicar quem tentará formar governo, e um impasse pode levar a nova eleição.",
-     "lados": [
-      {
-       "quem": "Netanyahu",
-       "txt": "Promete formar governo e alega, sem apresentar provas, fraude a favor dos partidos árabes com possível ajuda estrangeira; o Shin Bet investiga suspeitas de interferência, e o Catar nega."
-      },
-      {
-       "quem": "Eisenkot",
-       "txt": "Também diz que tentará formar governo e rejeita gabinete com Netanyahu; parte da oposição, como Yair Golan, já defende aliança com os partidos árabes, o que outros aliados recusam."
-      }
-     ],
+     "titulo": "Oposição a Netanyahu se reúne em Tel Aviv na véspera de o resultado oficial ir ao presidente",
+     "resumo": "O bloco do premiê ficou com 53 das 120 cadeiras, a oposição liderada por Gadi Eisenkot com 48 e os partidos árabes com 19, e ninguém chega aos 61 necessários. Isaac Herzog recebe o resultado na quarta e terá uma semana para indicar quem tenta formar o governo, com prazo de 28 dias, prorrogáveis por 14.",
      "fontes": [
       {
        "n": "O Povo",
        "u": "https://www.opovo.com.br/noticias/mundo/2026/11/02/quem-venceu-a-eleicao-em-israel-e-o-que-acontece-agora.html"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/eleicao-em-israel-o-que-acontece-apos-netanyahu-nao-conseguir-maioria/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/israel-encerra-eleicao-sem-maioria-e-abre-disputa-por-novo-governo"
+      },
+      {
+       "n": "Infobae / EFE",
+       "u": "https://infobae.com/america/agencias/2026/11/03/martes-3-de-noviembre-de-2026-0800-gmt"
       }
      ]
     },
     {
-     "kicker": "Ucrânia",
+     "kicker": "Igreja",
      "quando": "Hoje",
-     "titulo": "Ataques hackers disparam alertas falsos em aplicativos de emergência da Ucrânia e da Rússia após fim de trégua local",
-     "resumo": "O app ucraniano de alerta aéreo chegou a emitir um falso aviso de ameaça radiológica, e o Ministério de Emergências russo relatou ataque em larga escala ao seu aplicativo. A trégua humanitária em Oleshky, mediada por Melania Trump, terminou no domingo, com acusações mútuas de uso da pausa para reposicionar tropas.",
-     "lados": [
-      {
-       "quem": "Ucrânia",
-       "txt": "A Força Aérea diz que o aplicativo foi provavelmente invadido, e o Centro de Comunicações Estratégicas atribui o ataque à Rússia."
-      },
-      {
-       "quem": "Rússia",
-       "txt": "O Ministério de Emergências afirma que invasores usaram seu sistema para enviar informações falsas à população, sem apontar autoria."
-      }
-     ],
+     "titulo": "Leão XIV celebra missa no norte do Peru, onde foi missionário e bispo, com público estimado em 1 milhão",
+     "resumo": "A celebração em Pimentel, perto de Chiclayo, faz parte da viagem do papa ao Uruguai, à Argentina e ao Peru, a primeira à América do Sul desde a eleição. Na Argentina, a passagem do pontífice gerou dúvidas sobre a decretação de feriado nacional.",
      "fontes": [
       {
-       "n": "O Povo / AFP",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/02/ucrania-e-russia-enfrentam-ciberataques-apos-fim-da-tregua-localizada.html"
+       "n": "Infobae / EFE",
+       "u": "https://infobae.com/america/agencias/2026/11/03/martes-3-de-noviembre-de-2026-0800-gmt"
       },
       {
-       "n": "Diário de Notícias",
-       "u": "https://www.dn.pt/internacional/moscovo-e-kiev-alvos-de-ciberataques-mtuos-contra-sistemas-de-alerta-populao"
-      }
-     ]
-    },
-    {
-     "kicker": "Bulgária",
-     "quando": "Hoje",
-     "titulo": "Iliana Yotova vence o segundo turno e será a primeira mulher eleita presidente da Bulgária",
-     "resumo": "Com 57,4% dos votos, segundo a Comissão Eleitoral Central, a presidente interina derrotou o ex-premiê interino Andrey Gyurov, que teve 39,4% e reconheceu a derrota. Yotova é contrária à ajuda militar à Ucrânia e defende negociar com Moscou; o cargo não tem poderes executivos, mas pode vetar leis.",
-     "fontes": [
-      {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/02/presidente-interina-pro-russia-iliana-yotova-vence-eleicoes-na-bulgaria/"
-      },
-      {
-       "n": "El Español",
-       "u": "https://www.elespanol.com/mundo/20261102/iliana-yotova-gana-segunda-vuelta-presidencial-bulgaria-consolida-linea-prorrusa-frente-europeista-gyurov/1003744442987_0.html"
-      },
-      {
-       "n": "Bloomberg",
-       "u": "https://www.bloomberg.com/news/articles/2026-11-01/incumbent-yotova-wins-bulgarian-president-vote-exit-poll-shows"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-visita-chiclayo-e-percorre-locais-de-sua-trajetoria-no-peru/"
       }
      ]
     }
@@ -701,30 +644,74 @@
    "itens": [
     {
      "kicker": "Brasileirão",
-     "quando": "Hoje",
-     "titulo": "Sem Neymar, suspenso, Santos visita o Bragantino às 20h na abertura da 34ª rodada",
-     "resumo": "O Santos é o 8º, com 47 pontos, e briga por vaga na Libertadores; o Bragantino, 9º, tem 44. A rodada segue até sexta, com Flamengo (73) recebendo o Grêmio na quarta e o Palmeiras (70) enfrentando o Remo na quinta; Corinthians, Internacional, Remo e Chapecoense estão na zona de rebaixamento.",
+     "quando": "Ontem",
+     "titulo": "Bragantino vence o Santos por 2 a 1 com gol contra de Rodinei e passa o rival na tabela",
+     "resumo": "Rodinei desviou contra a própria meta aos 4 minutos, Philippe Coutinho empatou aos 36 e Wallace Yan decidiu de cabeça aos 40, em Bragança Paulista. Os dois times têm 47 pontos, mas o Bragantino fica em 8º pelo número de vitórias, a sete pontos do G5 a quatro rodadas do fim.",
      "fontes": [
       {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-faz-gol-contra-perde-para-bragantino-e-se-distancia-da-libertadores/"
+      },
+      {
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/com-gol-contra-bizarro-bragantino-vence-santos-em-confronto-direto-pelo-brasileiro/"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-perde-bragantino-cai-nono-brasileirao-2026/"
+      },
+      {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/com-neymar-suspenso-santos-visita-bragantino-pelo-campeonato-brasileiro"
+       "u": "https://www.metropoles.com/esportes/em-abertura-da-rodada-bragantino-vence-santos-pelo-brasileirao"
+      }
+     ]
+    },
+    {
+     "kicker": "Futebol espanhol",
+     "quando": "Hoje",
+     "titulo": "Atacante Jesús de Miguel, do Tenerife, morre aos 30 anos depois de choque com goleiro",
+     "resumo": "Ele foi atingido pela perna do goleiro Jesús Owono, do Andorra, nos acréscimos do jogo de segunda pela segunda divisão espanhola, teve parada cardiorrespiratória e foi reanimado em campo. Morreu na manhã desta terça num hospital das Ilhas Canárias; a partida, empatada em 2 a 2, foi suspensa.",
+     "fontes": [
+      {
+       "n": "Portal Gilberto Silva",
+       "u": "https://portalgilbertosilva.com.br/03/11/2026/jogador-morre-aos-30-anos-apos-choque-com-goleiro-durante-jogo-na-espanhautm_sourcerss-ultima-horautm_mediumrssutm_campaignrssfeed/"
+      },
+      {
+       "n": "Infobae / EFE",
+       "u": "https://infobae.com/america/agencias/2026/11/03/martes-3-de-noviembre-de-2026-0800-gmt"
+      }
+     ]
+    },
+    {
+     "kicker": "Hoje na TV",
+     "quando": "Hoje",
+     "titulo": "Champions tem Atlético x Bayern e Barcelona x Aston Villa; no Brasileirão, Internacional tenta sair do Z4 contra o Coritiba",
+     "resumo": "Na quarta rodada da Liga dos Campeões, oito jogos começam às 17h, entre eles Manchester United x Roma e Villarreal x PSG. No Brasileirão, a Chapecoense, lanterna, recebe o Mirassol às 19h30, e o Internacional, 18º com 35 pontos, joga às 21h30; o líder Flamengo, com 73, enfrenta o Grêmio na quarta, e o Palmeiras, com 70, pega o Remo na quinta.",
+     "fontes": [
+      {
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/futebol/futebol-na-tv-hoje-agenda-terca-3-champions-brasileirao-mais"
       },
       {
        "n": "Brasil 247",
        "u": "https://www.brasil247.com/tendencias/2026/11/02/brasileirao-2026-34-rodada/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/onde-assistir/red-bull-bragantino-x-santos-onde-assistir-horario-e-escalacoes.html"
       }
      ]
     },
     {
      "kicker": "Fórmula 1",
-     "quando": "Ontem",
-     "titulo": "Antonelli é campeão da Fórmula 1 aos 20 anos e chega a Interlagos como o mais jovem da história",
-     "resumo": "O italiano da Mercedes terminou em terceiro no GP do México, vencido por Max Verstappen, e garantiu o título com quatro etapas de antecedência, superando a marca de Sebastian Vettel. É o primeiro italiano campeão desde Alberto Ascari, em 1953; a próxima etapa é o GP de São Paulo, de 6 a 8 de novembro.",
+     "quando": "Hoje",
+     "titulo": "Semana de Interlagos: Antonelli chega como campeão mais jovem da história, e Bortoleto faz a segunda corrida em casa",
+     "resumo": "O GP de São Paulo, 20ª etapa, tem treinos na sexta, classificação no sábado às 15h e corrida no domingo às 14h, sem sprint. Kimi Antonelli, da Mercedes, garantiu o título aos 20 anos no México; Max Verstappen é o vice, e Lewis Hamilton completa 400 GPs.",
      "fontes": [
+      {
+       "n": "Tribuna do Sertão / Terra",
+       "u": "https://www.tribunadosertao.com.br/esportes/2026/11/02/1011734-gp-de-sao-paulo-f1-chega-ao-brasil-com-bortoleto-em-pista-veja-a-programacao-e-saiba-onde-assistir"
+      },
+      {
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-e-race-week-gp-de-sao-paulo-marca-20a-etapa-da-temporada-2026/"
+      },
       {
        "n": "CartaCapital",
        "u": "https://www.cartacapital.com.br/esporte/antonelli-se-torna-o-campeao-mais-jovem-da-formula-1-em-gp-do-mexico-com-vitoria-de-verstappen/"
@@ -732,44 +719,12 @@
       {
        "n": "Terra",
        "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-max-verstappen-vence-o-gp-do-mexico-e-kimi-antonelli-conquista-o-titulo-da-f1-2026,b6fe8225ec058ec9399cbf22b1ed69e9slj62x16.html"
-      },
-      {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/esportes/motor/formula-1/max-verstappen-vence-gp-do-mexico-antonelli-termina-em-3o-e-e-campeao-da-formula-1/"
-      },
-      {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-life/forbes-motors/2026/11/kimi-antonelli-garante-titulo-antecipado-e-vira-o-mais-jovem-campeao-da-f1/"
-      }
-     ]
-    },
-    {
-     "kicker": "Copa do Brasil",
-     "quando": "Ontem",
-     "titulo": "Grêmio bate o Atlético-MG por 2 a 0, e Palmeiras vence o Vasco na ida das semifinais",
-     "resumo": "Em Porto Alegre, Carlos Vinícius e Noriega marcaram no início de cada tempo, e o zagueiro Gustavo Martins, expulso por dois amarelos em três minutos, desfalca o Grêmio na volta, sábado (7), em Belo Horizonte. Mais cedo, o Palmeiras fez 1 a 0 no Vasco com gol de Maurício; a arbitragem de Anderson Daronco foi criticada por um pênalti não marcado, e a volta é no domingo (8), em São Januário.",
-     "fontes": [
-      {
-       "n": "Correio da Manhã",
-       "u": "https://www.correiodamanha.com.br/esporte/esportes/2026/11/331624-semifinais-da-copa-do-brasil-comecam-com-polemicas.html"
-      },
-      {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/atletico-abusa-de-falhas-e-ve-gremio-abrir-vantagem-na-semifinal-da-copa-do-brasil/"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/palmeiras-vasco-semifinal-copa-do-brasil-2026/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-0"
       }
      ]
     },
     {
      "kicker": "Seleção feminina",
-     "quando": "Ontem",
+     "quando": "01/11",
      "titulo": "Brasil vira sobre a China e vai à semifinal da Copa do Mundo Feminina Sub-17",
      "resumo": "No Marrocos, a China abriu o placar no fim do primeiro tempo, e Helena marcou os dois gols brasileiros na etapa final, o da vitória aos 43 minutos. A semifinal é contra a Nigéria na quarta (4), ao meio-dia (Brasília).",
      "fontes": [
@@ -786,26 +741,6 @@
        "u": "https://www.cbf.com.br/selecao-brasileira/noticias/jogos-selecao-feminina-sub-17/a/em-virada-sobre-a-china-brasil-se-classifica-para-a-semifinal-da-copa-do-mundo-feminina-sub-17"
       }
      ]
-    },
-    {
-     "kicker": "Luto",
-     "quando": "Ontem",
-     "titulo": "Morre aos 34 anos a irlandesa Ciara Mageean, campeã europeia dos 1.500 metros",
-     "resumo": "A atleta, que conquistou o título europeu em Roma, em 2024, tratava um câncer de intestino diagnosticado em julho de 2025. Disputou as Olimpíadas do Rio e de Tóquio e tinha ainda prata e bronze em Europeus.",
-     "fontes": [
-      {
-       "n": "Observador / Lusa",
-       "u": "https://observador.pt/2026/11/01/antiga-campea-europeia-dos-1-500-metros-morre-aos-34-anos-vitima-de-cancro/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/campea-europeia-de-atletismo-nos-1500m-ciara-mageean-morre-aos-34-anos"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/01/ciara-mageean-ex-campea-europeia-de-atletismo-morre-aos-34-anos.html"
-      }
-     ]
     }
    ]
   },
@@ -816,8 +751,20 @@
    "nota": "",
    "itens": [
     {
+     "kicker": "Medicamentos",
+     "quando": "Ontem",
+     "titulo": "Anvisa aprova nova versão do risdiplam, da Roche, para atrofia muscular espinhal",
+     "resumo": "O Evrysdi Go foi liberado para adultos e crianças acima de 2 anos e com pelo menos 20 kg que tenham AME 5q dos tipos 1, 2 ou 3, ou de uma a quatro cópias do gene SMN2. A AME é uma doença genética que afeta os neurônios responsáveis pelos movimentos.",
+     "fontes": [
+      {
+       "n": "AJN1",
+       "u": "https://ajn1.com.br/anvisa-aprova-medicamento-para-tratamento-contra-atrofia-muscular-espinhal/"
+      }
+     ]
+    },
+    {
      "kicker": "Dengue",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Com a volta das chuvas, DF reforça alerta contra a dengue depois de ano com casos abaixo da média",
      "resumo": "Boletim da Secretaria de Saúde até 24 de outubro registra 3.652 casos prováveis e nenhuma morte em 2026, com predomínio do sorotipo 3. Especialistas recomendam eliminar água parada e vacinar crianças e adolescentes de 10 a 14 anos, em duas doses com 90 dias de intervalo.",
      "fontes": [
@@ -829,7 +776,7 @@
     },
     {
      "kicker": "Medicamentos",
-     "quando": "Ontem",
+     "quando": "01/11",
      "titulo": "Anvisa registra mais cinco canetas de liraglutida e semaglutida para diabetes e obesidade",
      "resumo": "Os registros, publicados no Diário Oficial, incluem três produtos de liraglutida fabricados pela Biocon e dois de semaglutida da OneSource, comercializados no país por Farma Vision, Dr. Reddy's e Aché. A venda depende do cumprimento das demais exigências regulatórias, e não há preços nem datas de lançamento.",
      "fontes": [
@@ -846,54 +793,6 @@
        "u": "https://www.portalitapipoca.com.br/saude/2026/11/01/anvisa-aprova-registro-de-cinco-novas-canetas-injetaveis-para-diabetes-e-obesidade.html"
       }
      ]
-    },
-    {
-     "kicker": "Novembro Azul",
-     "quando": "Ontem",
-     "titulo": "Câncer de próstata matou cerca de 50 homens por dia no Brasil em 2025",
-     "resumo": "Dados do Ministério da Saúde divulgados pela Sociedade Brasileira de Urologia apontam 18,5 mil mortes no ano passado, cerca de 20% a mais que dez anos antes, e o Inca estima 77,9 mil casos novos por ano até 2028. A SBU recomenda consulta a partir dos 50 anos, ou 45 em grupos de risco; Ministério e Inca não indicam rastreamento em homens sem sintomas e orientam decidir o exame com o médico.",
-     "fontes": [
-      {
-       "n": "SP Rio+",
-       "u": "https://spriomais.com.br/2026/11/01/novembro-azul-cancer-de-prostata-mata-50-homens-por-dia-no-brasil-aponta-ministerio-da-saude/"
-      },
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4365819/novembro-azul-brasil-deve-ter-77-9-mil-casos-de-cancer-de-prostata"
-      }
-     ]
-    },
-    {
-     "kicker": "Câncer",
-     "quando": "Ontem",
-     "titulo": "Comprimido diário mantém câncer de pulmão avançado sob controle por sete anos em mais da metade dos pacientes",
-     "resumo": "Na atualização do estudo CROWN, publicada na Annals of Oncology, 55% dos pacientes com tumor ALK-positivo tratados com lorlatinibe seguiam vivos e sem progressão após sete anos, ante 3% com o remédio anterior. O medicamento não está no SUS, que rejeitou a incorporação em 2025 por custo-efetividade, e a caixa custa cerca de R$ 37 mil.",
-     "fontes": [
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/01/medicina-e-saude/cancer-de-pulmao-comprimido-diario-mantem-doenca-avancada-controlada-por-7-anos"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/saude/remedio-prolonga-por-sete-anos-controle-do-cancer-de-pulmao/"
-      },
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/duas-novas-pilulas-contra-o-cancer-mostram-resultados-sem-precedentes"
-      }
-     ]
-    },
-    {
-     "kicker": "Vacinação",
-     "quando": "Ontem",
-     "titulo": "Cobertura da vacina meningocócica ACWY fica em 67,1% entre adolescentes, longe da meta de 95%",
-     "resumo": "Dados de painel lançado pelo Ministério da Saúde mostram que aos 11 anos só 46,8% estão vacinados, índice que sobe para 77,4% aos 14. A meta do Programa Nacional de Imunizações é de 95% em todas as idades.",
-     "fontes": [
-      {
-       "n": "Diário do Estado de SP",
-       "u": "https://diarioesp.com.br/saude/2026/11/01/cobertura-da-vacina-meningococica-acwy-fica-em-67-1-entre-adolescentes-de-11-a-14-anos.html"
-      }
-     ]
     }
    ]
   },
@@ -906,8 +805,8 @@
     {
      "kicker": "Enem",
      "quando": "Hoje",
-     "titulo": "A menos de uma semana do Enem, MEC orienta candidatos: portões fecham às 13h, e documento digital só vale no aplicativo",
-     "resumo": "Mais de 5 milhões de inscritos fazem no domingo (8) linguagens, ciências humanas e redação, das 13h30 às 19h; no dia 15 vêm ciências da natureza e matemática. O MEC recomenda baixar o cartão de confirmação, testar antes o documento digital e o trajeto, e lembra que só vale caneta preta de corpo transparente.",
+     "titulo": "Enem é no domingo: mais de 5 milhões de inscritos, portões abrem às 12h e fecham às 13h",
+     "resumo": "A prova começa às 13h30, e o MEC recomenda não planejar a chegada para perto do fechamento. Quem usar documento digital deve testar o aplicativo antes e levar também o documento físico; prints, fotos e carteira de estudante não são aceitos, e a caneta deve ser preta, de corpo transparente.",
      "foto": {
       "src": "https://imagens.ebc.com.br/-wzDRqKS5ARLF558l4gUMxah_q4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7267.jpg_0.jpg?itok=DKDGRpwi",
       "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
@@ -930,7 +829,7 @@
     {
      "kicker": "Fies",
      "quando": "Hoje",
-     "titulo": "Inscrições para 50 mil vagas remanescentes do Fies terminam nesta terça",
+     "titulo": "Inscrições para 50 mil vagas remanescentes do Fies terminam hoje",
      "resumo": "O cadastro é feito só no Portal Único de Acesso ao Ensino Superior, com login no Gov.br, e o prazo não será prorrogado. Metade das vagas é reservada a candidatos com renda familiar de até meio salário mínimo por pessoa e inscrição no CadÚnico.",
      "fontes": [
       {
@@ -941,7 +840,7 @@
     },
     {
      "kicker": "Universidades",
-     "quando": "Ontem",
+     "quando": "01/11",
      "titulo": "MEC reúne denúncias de violência política em universidades e institutos federais e envia casos à PF",
      "resumo": "As queixas chegam pela ouvidoria ou pelas próprias instituições e serão repassadas à Polícia Federal e à AGU. A medida responde a ameaças contra campi, estudantes e professores que circularam nas redes antes do primeiro turno, algumas com símbolos nazistas; o ministério não informou quantos casos recebeu.",
      "foto": {
@@ -955,30 +854,6 @@
        "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-reune-denuncias-de-violencia-politica-e-encaminha-a-pf"
       }
      ]
-    },
-    {
-     "kicker": "Vestibular",
-     "quando": "Ontem",
-     "titulo": "Fuvest aplica primeira fase com 80 questões e prova em Fortaleza pela primeira vez",
-     "resumo": "São 106.165 inscritos para 8.147 vagas da USP; a prova encolheu de 90 para 80 questões, mas segue com cinco horas, para dar mais tempo às questões interdisciplinares. Os portões fecham às 13h, e a segunda fase será em 6 e 7 de dezembro.",
-     "foto": {
-      "src": "fotos/enamed.jpg",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/sao-paulo/fuvest-2027-primeira-fase-e-aplicada-neste-domingo-1o-11-em-novo-formato"
-      },
-      {
-       "n": "GC Mais",
-       "u": "https://gcmais.com.br/noticias/2026/11/01/fuvest-aplica-prova-em-fortaleza-pela-primeira-vez-neste-domingo-1-640-candidatos-se-inscreveram"
-      },
-      {
-       "n": "Diário do Estado de SP",
-       "u": "https://diarioesp.com.br/noticias/2026/11/01/fuvest-2027-aplica-primeira-fase-neste-domingo-com-80-questoes-e-novo-polo-em-fortaleza.html"
-      }
-     ]
     }
    ]
   },
@@ -989,10 +864,70 @@
    "nota": "Meio ambiente, pesquisa e inovação",
    "itens": [
     {
-     "kicker": "Tecnologia",
+     "kicker": "Clima",
      "quando": "Hoje",
+     "titulo": "Presidência da COP30 apresenta em Brasília roteiro para abandonar combustíveis fósseis",
+     "resumo": "André Corrêa do Lago mostra o documento que será levado à COP31, prometido depois que o texto final da conferência de Belém não citou o fim dos fósseis. Relatório recente da ONU aponta que as emissões precisam cair 18% até 2030.",
+     "foto": {
+      "src": "fotos/floresta.jpg",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Infobae / EFE",
+       "u": "https://infobae.com/america/agencias/2026/11/03/martes-3-de-noviembre-de-2026-0800-gmt"
+      },
+      {
+       "n": "Jornal Opção",
+       "u": "https://www.jornalopcao.com.br/meio-ambiente/brasil-lanca-roteiros-voluntarios-apos-impasse-e-cop30-evita-citar-fim-dos-combustiveis-fosseis-768386/"
+      },
+      {
+       "n": "ONU Brasil",
+       "u": "https://brasil.un.org/pt-br/324769-onu-alerta-emiss%C3%B5es-precisam-cair-18-at%C3%A9-2030-para-evitar-o-agravamento-da-crise-clim%C3%A1tica"
+      }
+     ]
+    },
+    {
+     "kicker": "Inteligência artificial",
+     "quando": "Ontem",
+     "titulo": "Satélite de teste do Google roda modelo de IA em chip no espaço",
+     "resumo": "O protótipo do Projeto Suncatcher executou uma tarefa com o modelo Gemma 4 numa TPU em órbita baixa; pela limitação de energia solar, cada chip só opera cerca de 20 minutos seguidos. A ideia é testar centros de processamento de IA fora da Terra.",
+     "fontes": [
+      {
+       "n": "Tech Startups",
+       "u": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech"
+      }
+     ]
+    },
+    {
+     "kicker": "Segurança digital",
+     "quando": "Ontem",
+     "titulo": "Ataques hackers a sistemas de refrigeração atingem mais de 100 supermercados na Europa",
+     "resumo": "Em algumas lojas os controles foram ajustados para até 50°C, e alimentos estragados foram descartados. A nova onda veio depois de um ataque em outubro que afetou cerca de 700 lojas na França.",
+     "fontes": [
+      {
+       "n": "Tech Startups",
+       "u": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech"
+      }
+     ]
+    },
+    {
+     "kicker": "Paleontologia",
+     "quando": "Ontem",
+     "titulo": "Cientistas descrevem dinossauro sem dentes que comia frutas e plantas macias há 66 milhões de anos",
+     "resumo": "O Infernogallus jamesi, um oviraptorossauro achado na Formação Hell Creek, entre Montana e Dakota do Norte, foi descrito na revista Nature Communications por equipe liderada por Gregory Funston. Frutas estariam entre os alimentos vegetais da espécie.",
+     "fontes": [
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/tendencias/2026/11/02/cientistas-descobrem-o-primeiro-dinossauro-conhecido-que-tinha-frutas-como-principal-alimento/"
+      }
+     ]
+    },
+    {
+     "kicker": "Tecnologia",
+     "quando": "Ontem",
      "titulo": "Apple tem receita recorde de US$ 114,5 bilhões no trimestre, com alta de 17% nas vendas de iPhone",
-     "resumo": "No trimestre encerrado em setembro, o lucro foi de US$ 30,7 bilhões, 12% acima de um ano antes, e o Mac cresceu 24%, enquanto iPad e acessórios caíram. No ano fiscal, a receita chegou a US$ 478,8 bilhões; os números saíram após o fechamento de Nova York.",
+     "resumo": "No trimestre encerrado em setembro, o lucro foi de US$ 30,7 bilhões, 12% acima de um ano antes, e o Mac cresceu 24%, enquanto iPad e acessórios caíram. No ano fiscal, a receita chegou a US$ 478,8 bilhões; os números saíram após o fechamento de Nova York. A empresa também prevê levar o Apple Intelligence à China em dezembro, com modelos Qwen, da Alibaba.",
      "fontes": [
       {
        "n": "MacMagazine",
@@ -1001,78 +936,10 @@
       {
        "n": "Times Brasil / CNBC",
        "u": "https://timesbrasil.com.br/empresas-e-negocios/apple-supera-us-114-bilhoes-em-receita-e-encerra-2026-com-resultado-historico/"
-      }
-     ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "Hoje",
-     "titulo": "Marvell anuncia compra da Lumentum por US$ 115 bilhões em ações para disputar o mercado de data centers de IA",
-     "resumo": "A fabricante de chips pagará US$ 1.132 por ação da produtora de componentes ópticos, prêmio de 23,9%, e diz mirar um mercado de US$ 550 bilhões. O negócio depende de acionistas e reguladores; no fechamento, as ações da Marvell caíram 12,72% e as da Lumentum, 18,59%.",
-     "fontes": [
-      {
-       "n": "InfoMoney / Reuters",
-       "u": "https://www.infomoney.com.br/business/marvell-compra-lumentum-por-us-115-bi-em-acoes-e-mira-mercado-de-us-550-bi/"
       },
       {
-       "n": "Investing.com",
-       "u": "https://www.investing.com/news/stock-market-news/marvell-agrees-115-billion-allstock-deal-to-buy-lumentum-4991232"
-      },
-      {
-       "n": "Tribuna do Sertão / Estadão Conteúdo",
-       "u": "https://www.tribunadosertao.com.br/geral/2026/11/02/1011798-bolsas-de-ny-fecham-sem-direcao-unica-com-queda-do-petroleo-em-semana-de-payroll-e-midterms"
-      }
-     ]
-    },
-    {
-     "kicker": "Espaço",
-     "quando": "Hoje",
-     "titulo": "Voyager 1 deve se tornar em 18 de novembro o primeiro objeto humano a um dia-luz da Terra",
-     "resumo": "Lançada em 1977, a sonda estará a cerca de 25,9 bilhões de quilômetros, distância em que um sinal de rádio leva um dia para ir e outro para voltar. Para poupar energia, a Nasa vem desligando instrumentos; o último foi o detector de partículas carregadas de baixa energia, em abril.",
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/voyager-1-chegara-um-dia-luz-terra-em-novembro/"
-      },
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/01/ciencia-e-espaco/calendario-astronomico-novembro-traz-distancia-historica-da-terra-fim-do-mercurio-retrogrado-e-chuva-de-meteoros/"
-      }
-     ]
-    },
-    {
-     "kicker": "Astrofísica",
-     "quando": "Hoje",
-     "titulo": "Estudo avalia se um buraco negro poderia se dividir em dois, o inverso de uma fusão",
-     "resumo": "Pesquisadores da Universidade do Sul da Dinamarca, em artigo na Physical Review D, apontam que a divisão seria possível em teoria apenas em casos extremos, como buracos negros girando perto do limite máximo. O fenômeno nunca foi observado, e os autores dizem que ainda não é possível calcular a probabilidade de ele ocorrer.",
-     "fontes": [
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/02/ciencia-e-espaco/alem-de-se-fundir-um-buraco-negro-poderia-se-dividir-entenda-a-hipotese"
-      }
-     ]
-    },
-    {
-     "kicker": "Queimadas",
-     "quando": "31/10",
-     "titulo": "Focos de queimada caem 39% no Amazonas em outubro, mas ano ainda tem o dobro de 2025",
-     "resumo": "Segundo o Inpe, o estado teve 2.258 focos em outubro, ante 3.726 em setembro, e soma 8.515 no ano, sexto maior total do país. Até meados de outubro, o número era mais que o dobro do mesmo período do ano passado; um decreto estadual proíbe o uso do fogo até dezembro.",
-     "foto": {
-      "src": "fotos/amazonia.jpg",
-      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/10/31/queimadas-caem-amazonas-fumaca-preocupa/"
-      },
-      {
-       "n": "Diário do Estado de SP",
-       "u": "https://diarioesp.com.br/brasil/2026/11/01/amazonas-reduz-focos-de-queimadas-em-outubro-mas-qualidade-do-ar-segue-comprometida.html"
-      },
-      {
-       "n": "Bahia Livre",
-       "u": "https://www.bahialivrenoticias.com/2026/11/focos-de-queimadas-caem-394-no-amazonas.html"
+       "n": "Tech Startups",
+       "u": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech"
       }
      ]
     }
@@ -1085,8 +952,40 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
-     "kicker": "Música",
+     "kicker": "Literatura",
      "quando": "Hoje",
+     "titulo": "Goncourt e Cervantes anunciam hoje os vencedores de 2026",
+     "resumo": "Na França, a Academia Goncourt escolhe às 13h de Paris entre Yannick Haenel, Philippe Jaenada, Clémentine Mélois e Sylvain Prudhomme. Na Espanha, o Prêmio Cervantes, de 125 mil euros, tem Rosa Montero, Leonardo Padura e Gioconda Belli entre os nomes mais citados.",
+     "fontes": [
+      {
+       "n": "Franceinfo",
+       "u": "https://www.franceinfo.fr/culture/livres/prix-litteraires/direct-prix-goncourt-2026-qui-succedera-a-la-maison-vide-de-laurent-mauvignier_8264468.html"
+      },
+      {
+       "n": "Diario Libre",
+       "u": "https://www.diariolibre.com/revista/cultura/2026/11/03/ganador-del-premio-cervantes-2026-se-anunciara-hoy/3708940"
+      },
+      {
+       "n": "Infobae / EFE",
+       "u": "https://infobae.com/america/agencias/2026/11/03/martes-3-de-noviembre-de-2026-0800-gmt"
+      }
+     ]
+    },
+    {
+     "kicker": "Cinema",
+     "quando": "Ontem",
+     "titulo": "\"Os Farofeiros 3\" estreia na quinta e abre mês com prelúdio de \"Jogos Vorazes\" previsto para o dia 18",
+     "resumo": "Na comédia nacional, o grupo de amigos viaja ao Caribe para o casamento da filha de Rocha. Entre as estreias de novembro estão ainda \"Jogos Vorazes: Amanhecer na Colheita\", sobre a juventude de Haymitch, e a animação \"Enfeitiçadas: Bem-vindos a Hexe\", no dia 26.",
+     "fontes": [
+      {
+       "n": "Tudo EP / ACidadeON",
+       "u": "https://www.acidadeon.com/tudoep/tudo-cult/cinema-em-novembro-de-2026-conheca-as-estreias-mais-aguardadas-do-mes/"
+      }
+     ]
+    },
+    {
+     "kicker": "Música",
+     "quando": "Ontem",
      "titulo": "Grammy Latino tem Anitta na disputa de álbum do ano e homenagem a Daniela Mercury em 12 de novembro",
      "resumo": "A 27ª edição será em Las Vegas, e Anitta concorre com o álbum \"Equilibrivm\" na principal categoria e em pop contemporâneo em português. Entre outros brasileiros, Ney Matogrosso e Johnny Hooker disputam melhor canção em língua portuguesa, e Zeca Veloso está entre os indicados a artista revelação.",
      "fontes": [
@@ -1106,7 +1005,7 @@
     },
     {
      "kicker": "TV",
-     "quando": "Ontem",
+     "quando": "01/11",
      "titulo": "“Lá na Minha Terra”, nova novela das seis da Globo, estreia em 9 de novembro com Dira Paes",
      "resumo": "Escrita por Mário Teixeira, a trama acompanha uma fazendeira do sertão que descobre que o marido, desaparecido havia mais de 15 anos, vive em São Paulo com outro nome, casado e rico. O elenco tem Daniel de Oliveira, Camila Morgado, Mateus Solano e Lília Cabral.",
      "fontes": [
@@ -1121,30 +1020,6 @@
       {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/entretenimento/2026/11/2/onde-foi-gravada-la-na-minha-terra-saiba-se-lavra-seca-existe-e-onde-ficam-as-paisagens-da-novela-da-globo"
-      }
-     ]
-    },
-    {
-     "kicker": "Cinema",
-     "quando": "Hoje",
-     "titulo": "\"Os Farofeiros 3\" estreia na quinta e abre mês com prelúdio de \"Jogos Vorazes\" previsto para o dia 18",
-     "resumo": "Na comédia nacional, o grupo de amigos viaja ao Caribe para o casamento da filha de Rocha. Entre as estreias de novembro estão ainda \"Jogos Vorazes: Amanhecer na Colheita\", sobre a juventude de Haymitch, e a animação \"Enfeitiçadas: Bem-vindos a Hexe\", no dia 26.",
-     "fontes": [
-      {
-       "n": "Tudo EP / ACidadeON",
-       "u": "https://www.acidadeon.com/tudoep/tudo-cult/cinema-em-novembro-de-2026-conheca-as-estreias-mais-aguardadas-do-mes/"
-      }
-     ]
-    },
-    {
-     "kicker": "Reality",
-     "quando": "31/10",
-     "titulo": "Record expulsa Mônica Fonseca de A Fazenda após queda que feriu Mayk Leão em festa",
-     "resumo": "Mayk caiu sobre uma mesa com garrafas de vidro e machucou as mãos; ele acusou a colega de empurrá-lo, e ela negou. Segundo a CNN, a produção concluiu que a atitude pôs em risco a integridade física de outro participante.",
-     "fontes": [
-      {
-       "n": "Piranot",
-       "u": "https://www.piranot.com.br/2026/11/01/noticias/entretenimento/monica-fonseca-expulsa-fazenda/"
       }
      ]
     }
