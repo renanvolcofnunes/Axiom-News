@@ -1,71 +1,71 @@
 {
  "data": "Terça-feira, 3 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "03/11/2026 · 12h45 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 12h (Brasília) · primeiro pregão depois do feriado de Finados",
- "fontes": 66,
+ "edicao": "Edição da noite",
+ "atualizado": "03/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de fechamento (18h)",
+ "fontes": 80,
  "mercado": [
   {
-   "nome": "Ibovespa · 12h",
-   "valor": "164.823 pts",
-   "var": "−1,85%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "165.529 pts",
+   "var": "−1,42%",
    "dir": "down"
   },
   {
-   "nome": "Dólar à vista · 12h",
-   "valor": "R$ 5,50",
-   "var": "+0,99%",
+   "nome": "Dólar comercial · fechamento",
+   "valor": "R$ 5,48",
+   "var": "+0,79% · maior do ano",
    "dir": "up"
   },
   {
-   "nome": "Juros futuros longos (DI 2032-2036) · 12h",
-   "valor": "+0,45 ponto",
-   "var": "alta em toda a curva",
-   "dir": "up"
+   "nome": "Petróleo Brent · 18h",
+   "valor": "US$ 103,60",
+   "var": "−1,12%",
+   "dir": "down"
   },
   {
-   "nome": "IPCA 2026 · Focus de hoje",
+   "nome": "Selic · Copom decide na quarta (4)",
+   "valor": "13,75%",
+   "var": "opções na B3: 63% veem manutenção",
+   "dir": ""
+  },
+  {
+   "nome": "IPCA 2026 · Focus",
    "valor": "5,22%",
    "var": "era 5,19%",
    "dir": "up"
-  },
-  {
-   "nome": "Selic · decisão na quarta (4)",
-   "valor": "13,75%",
-   "var": "Focus vê 13,50% no fim do ano",
-   "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Ter 3/11 · tarde",
-   "txt": "Senado discute a PEC da Segurança; STF segue a audiência pública sobre a MP das bets; Copom faz o primeiro dia de reunião; Itaú divulga balanço após o fechamento; último dia de inscrição no Fies",
+   "hora": "Ter 3/11 · noite",
+   "txt": "Senado vota em dois turnos o texto-base da PEC da Segurança; nos EUA, urnas começam a fechar às 20h (Brasília) e a apuração das eleições para o Congresso entra pela madrugada",
    "cat": "politica"
   },
   {
-   "hora": "Ter 3/11 · 20h",
-   "txt": "Fecham as primeiras urnas nos EUA e começa a apuração das eleições para o Congresso e 36 governos estaduais",
-   "cat": "mundo"
-  },
-  {
-   "hora": "Ter 3/11 · 17h",
-   "txt": "Champions League tem Atlético de Madrid x Bayern, Barcelona x Aston Villa e Villarreal x PSG; pelo Brasileirão, Chapecoense x Mirassol (19h30) e Internacional x Coritiba (21h30)",
+   "hora": "Ter 3/11 · 19h30 e 21h30",
+   "txt": "Brasileirão: Chapecoense x Mirassol, na Arena Condá, e Internacional x Coritiba, no Beira-Rio",
    "cat": "esporte"
   },
   {
    "hora": "Qua 4/11",
-   "txt": "Copom anuncia a Selic à noite; Herzog inicia consultas para formar governo em Israel; Brasil x Nigéria na semifinal do Mundial Feminino Sub-17 (12h); Flamengo x Grêmio (19h30) e São Paulo x Corinthians (21h30)",
+   "txt": "Copom anuncia a Selic depois das 18h30; Herzog inicia consultas para formar governo em Israel; Inmet prevê alerta vermelho para o sul do Paraná; Champions tem Real Madrid, Liverpool, Manchester City e Arsenal",
    "cat": "economia"
   },
   {
+   "hora": "Qua 4/11 · 19h30 e 21h30",
+   "txt": "Brasileirão: Flamengo x Grêmio e São Paulo x Corinthians; ao meio-dia, Brasil x Nigéria na semifinal do Mundial Feminino Sub-17",
+   "cat": "esporte"
+  },
+  {
    "hora": "Sex 6 a dom 8/11",
-   "txt": "GP de São Paulo de F1 em Interlagos, com corrida no domingo às 14h; no domingo, Vasco x Palmeiras pela volta da semifinal da Copa do Brasil",
+   "txt": "GP de São Paulo de F1 em Interlagos, com estreia de Rafael Câmara pela Haas e corrida no domingo às 14h; no domingo, Vasco x Palmeiras na volta da semifinal da Copa do Brasil",
    "cat": "esporte"
   },
   {
    "hora": "Dom 8/11",
-   "txt": "Primeiro dia do Enem: portões abrem às 12h e fecham às 13h (Brasília); a Seleção enfrenta o Japão no dia 14, em Singapura",
+   "txt": "Primeiro dia do Enem: portões abrem às 12h e fecham às 13h (Brasília); o segundo dia é em 15/11",
    "cat": "educacao"
   }
  ],
@@ -163,48 +163,48 @@
  ],
  "manchete": {
   "kicker": "Mercado",
-  "titulo": "Ibovespa cai quase 2% na volta do feriado, dólar encosta em R$ 5,50 e juros longos disparam",
-  "resumo": "No primeiro pregão depois de Finados, a Bolsa recuava 1,85% ao meio-dia, aos 164,8 mil pontos, puxada por Petrobras e bancos, e os juros futuros de longo prazo subiam cerca de 0,45 ponto. O movimento veio depois de o Boletim Focus elevar as projeções de inflação, Selic e dólar na véspera da decisão do Copom.",
+  "titulo": "Dólar fecha a R$ 5,48, maior valor do ano, e Ibovespa cai 1,4% na véspera da decisão do Copom",
+  "resumo": "No primeiro pregão depois de Finados, a moeda americana subiu 0,79% e a Bolsa terminou aos 165,5 mil pontos, com Petrobras recuando cerca de 6%. Investidores citaram a falta de definição sobre a equipe econômica do novo mandato de Lula, a piora das projeções do Focus e a queda do petróleo.",
   "foto": {
    "src": "https://imagens.ebc.com.br/rh3FdXkONRDZSPInMfK1xTUB-50=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/economia_1609210411_0.jpg?itok=LzZxjE74",
    "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
   },
-  "entenda": "A B3 ficou fechada na segunda por causa do feriado e reabriu depois de uma semana em que o Ibovespa perdeu 18% e o dólar subiu 9%, na esteira do segundo turno. Analistas atribuem a nova rodada de queda à piora das expectativas: o primeiro Focus depois da eleição passou a prever IPCA de 5,22% e dólar a R$ 5,34 no fim de 2026, contra R$ 5,05 uma semana antes, e Selic de 12,5% em 2027. Pesam ainda as incertezas sobre a política fiscal do quarto mandato de Lula, cujo nome para a Fazenda ainda não foi anunciado, e a repercussão de uma proposta do economista André Lara Resende para baixar a Selic, que o ministro Dario Durigan diz não estar em discussão. A alta dos juros brasileiros foi bem maior que a dos títulos americanos, o que os operadores leem como pressão de origem doméstica.",
+  "entenda": "A B3 reabriu depois de uma semana em que o Ibovespa perdeu 18% e o dólar subiu 9% após o segundo turno. Nesta terça, pesaram o Boletim Focus, que elevou as projeções de inflação (5,22%) e de Selic no fim do ano (13,50%), e a repercussão de uma proposta do economista André Lara Resende para baixar os juros, que o ministro Dario Durigan diz não estar em análise. O governo mantém para o fim de novembro o anúncio do comando da Fazenda. No exterior, o Brent caiu 1,1%, depois de recuar 7,6% na segunda, com expectativa de avanço nas conversas entre EUA e Irã, o que derrubou petroleiras. O Copom anuncia a Selic na quarta; a maior parte dos analistas espera manutenção em 13,75%.",
   "fatos": [
-   "Ao meio-dia, Petrobras ON e PN caíam cerca de 4%, Bradesco PN recuava 2,24% e Itaú PN 0,83%; o Itaú divulga o balanço do terceiro trimestre depois do fechamento.",
-   "O dólar à vista subia 0,99%, a R$ 5,498, enquanto o índice que mede a moeda americana no exterior quase não se mexia (+0,09%).",
-   "Em Nova York, o Dow Jones caía 0,60%, e S&P 500 e Nasdaq subiam com fabricantes de chips; o Brent recuava 1,18%, a US$ 103,53, com sinais de avanço diplomático entre EUA e Irã."
+   "Petrobras PN caiu 6,15% e ON 5,95%; Cogna (−12,7%) teve a maior queda, depois de rebaixamento pelo Citi, e Embraer subiu cerca de 4% com a venda de três KC-390 à Grécia.",
+   "Depois do fechamento, o Itaú informou lucro recorrente de R$ 12,6 bilhões no terceiro trimestre, alta de 6,7% em um ano e levemente abaixo do consenso de mercado.",
+   "Em Nova York, o Nasdaq subiu 0,83% e o S&P 500 0,36%, enquanto o Dow Jones caiu 0,38%, no dia das eleições para o Congresso americano."
   ],
   "fontes": [
    {
-    "n": "Bom Dia Mercado",
-    "u": "https://www.bomdiamercado.com.br/mercado-financeiro/giro-dos-mercados/giro-das-12h-ibovespa-despenca-com-petrobras-bancos-e-disparada-dos-juros/",
-    "d": "Giro das 12h"
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/dolar-atinge-maior-patamar-do-ano-e-fecha-cotado-a-r-548-bolsa-cai-142",
+    "d": "Fechamento do dia"
    },
    {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-03112026/",
-    "d": "Abertura e juros futuros"
+    "n": "Gazeta Brasil",
+    "u": "https://gazetabrasil.com.br/ultimas-noticias/2026/11/03/fechamento-mercado-ibovespa-dolar-petroleo-3-novembro-2026/",
+    "d": "Altas e baixas"
    },
    {
     "n": "Money Times",
-    "u": "https://moneytimes.com.br/ibovespa-5-coisas-3-11-26-davs",
-    "d": "Cinco temas do dia"
+    "u": "https://www.moneytimes.com.br/itau-itub4-lucro-roe-rentabilidade-banco-balanco-do-3t26-miql/",
+    "d": "Balanço do Itaú"
+   },
+   {
+    "n": "TheStreet",
+    "u": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026",
+    "d": "Bolsas de Nova York"
+   },
+   {
+    "n": "O Tempo",
+    "u": "https://www.otempo.com.br/economia/2026/11/3/mercado-financeiro-preve-corte-na-taxa-selic-na-reuniao-do-copom",
+    "d": "Expectativa para o Copom"
    },
    {
     "n": "Agência Brasil",
     "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-para-inflacao-juros-e-dolar-em-2026",
     "d": "Boletim Focus"
-   },
-   {
-    "n": "Gazeta do Povo",
-    "u": "https://gazetadopovo.com.br/economia/mercado-eleva-projecao-de-juros-e-inflacao-no-primeiro-focus-apos-reeleicao-de-lula",
-    "d": "Focus pós-eleição"
-   },
-   {
-    "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/brasil/ibovespa-abre-em-queda-e-recua-aos-165-mil-pontos-com-dolar-a-r-550-e-juros-em-alta/",
-    "d": "Abertura da B3"
    }
   ]
  },
@@ -218,16 +218,16 @@
     {
      "kicker": "Congresso",
      "quando": "Hoje",
-     "titulo": "Senado começa a discutir a PEC da Segurança, e governistas tentam separar a maioridade penal para destravar a votação",
-     "resumo": "A proposta, pautada por Davi Alcolumbre, precisa de 49 dos 81 votos em dois turnos e constitucionaliza o Sistema Único de Segurança Pública, amplia funções da PRF e das guardas municipais e endurece a prisão de chefes de facções. A ideia dos líderes governistas é aprovar o texto principal e levar a redução da maioridade a uma proposta à parte; se houver mudança, a PEC volta à Câmara.",
+     "titulo": "Senado tira a redução da maioridade penal da PEC da Segurança e encaminha a votação do texto-base",
+     "resumo": "Em votação simbólica, os senadores aprovaram requerimentos do relator, Rogério Carvalho (PT-SE), para que as emendas sobre maioridade penal tramitem como propostas separadas. A PEC, que constitucionaliza o Sistema Único de Segurança Pública e amplia a atuação da PF, precisa de 49 votos em dois turnos; se não mudar, não volta à Câmara.",
      "lados": [
       {
-       "quem": "Governo",
-       "txt": "A líder Teresa Leitão (PT-PE) quer aprovar a versão da Câmara, rejeitar emendas e discutir a maioridade em proposta separada; o PT está dividido entre a ideia de Camilo Santana de reduzir para 16 anos só nos crimes hediondos e a ala contrária a qualquer mudança."
+       "quem": "Governo e relator",
+       "txt": "Defendem aprovar o texto como veio da Câmara para não atrasar a PEC e discutir a idade penal à parte; Camilo Santana (PT-CE) propõe 16 anos só para crimes hediondos, e Lula disse aceitar essa discussão."
       },
       {
        "quem": "Oposição",
-       "txt": "A emenda de Rogério Marinho (PL-RN), com apoio de 37 senadores, reduz a idade penal para 16 anos e para 14 nos crimes graves; Carlos Portinho (PL-RJ) manteve o pedido de votação em separado, e senadores do PL cobram de Lula a posição pró-redução que ele defendeu na campanha."
+       "txt": "O PL diz que vota a favor da PEC, mas queria incluir a redução: a emenda de Rogério Marinho (PL-RN) fixa 16 anos como regra e 14 para crimes hediondos, tráfico e terrorismo, citando apoio de cerca de 80% da população."
       }
      ],
      "foto": {
@@ -236,24 +236,83 @@
      },
      "fontes": [
       {
-       "n": "Poder News",
-       "u": "https://podernews.com.br/2026/11/03/senado-vota-pec-da-seguranca-sob-impasse-da-maioridade-penal/"
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/brasil/senado-aprova-separar-reducao-da-maioridade-penal-da-pec-da-seguranca"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/congresso/2026/11/3/com-impasse-sobre-maioridade-penal-pec-da-seguranca-publica-comeca-a-ser-votada-no-senado-confira"
+      },
+      {
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/politica/2026/11/03/maioridade-penal-fica-fora-do-relatorio-final-da-pec-da-seguranca-no-senado/"
+      },
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/politica/senado-vota-pec-da-seguranca-publica-sob-pressao-bolsonarista-para-reduzir-maioridade-penal/"
+      }
+     ]
+    },
+    {
+     "kicker": "Flávio Bolsonaro",
+     "quando": "Hoje",
+     "titulo": "Dos EUA, Flávio registra presença na sessão do Senado; PF apura como a família chegou à fronteira",
+     "resumo": "O senador, que está nos Estados Unidos desde a semana passada sem ter pedido licença, marcou presença na sessão semipresencial que discute a PEC da Segurança, o que permite votar e falar por vídeo; a Mesa do Senado não se manifestou. Na Câmara, um parecer impede deputados no exterior sem missão oficial de votar pelo aplicativo.",
+     "lados": [
+      {
+       "quem": "Investigação",
+       "txt": "A PF apura quem ajudou na saída do país, o uso de um passaporte diplomático já cancelado na entrada em Miami e um voo que pode ter levado mulher e filhas até Cascavel (PR); Flávio era proibido por Alexandre de Moraes de deixar o Brasil."
+      },
+      {
+       "quem": "Flávio e aliados",
+       "txt": "Afirmam que ele sofre perseguição política, que não há mandado de prisão e que entrou legalmente nos EUA; a defesa pede ao STF a devolução dos passaportes e o afastamento de Moraes do caso."
+      }
+     ],
+     "foto": {
+      "src": "fotos/flavio.jpg",
+      "credito": "Joédson Alves/Agência Brasil (arquivo)"
+     },
+     "destaque": false,
+     "fontes": [
+      {
+       "n": "Brasil 247 / G1",
+       "u": "https://www.brasil247.com/brasil/apos-fugir-para-os-eua-flavio-bolsonaro-registra-presenca-em-sessao-do-senado-sobre-pec-da-seguranca-publica/"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/governo-tenta-acelerar-pec-da-seguranca-oposicao-insiste-em-maioridade/"
+       "u": "https://www.cnnbrasil.com.br/internacional/flavio-bolsonaro-entrou-nos-eua-com-passaporte-diplomatico-que-pf-cancelou/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/flavio-reune-argumentos-para-pedir-asilo-nos-eua-e-mostrar-que-sofre-perseguicao/"
       },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/alcolumbre-pauta-pec-da-seguranca-e-reabre-discussao-sobre-maioridade"
+       "u": "https://www.metropoles.com/colunas/igor-gadelha/pf-apura-voo-que-pode-ter-levado-esposa-e-filhas-de-flavio-ate-a-fronteira"
+      }
+     ]
+    },
+    {
+     "kicker": "Governo",
+     "quando": "Hoje",
+     "titulo": "Lula mantém para o fim de novembro o anúncio da equipe econômica, e Durigan descarta proposta de Lara Resende",
+     "resumo": "Apesar da pressão do mercado, o Planalto segue o cronograma e só deve definir o comando da Fazenda no fim do mês. O ministro Dario Durigan disse que a ideia do economista André Lara Resende de baixar a Selic de forma acelerada tem deficiências e não está em análise, e que o foco é melhorar o resultado primário.",
+     "fontes": [
+      {
+       "n": "Plantão Brasil",
+       "u": "https://www.plantaobrasil.net/noticias/161432-lula-ignora-pressoes-financeiras-e-mantem-cronograma-para-definir-equipe-economica"
       },
       {
-       "n": "InfoMoney",
-       "u": "https://infomoney.com.br/politica/maioridade-penal-ameaca-pec-da-seguranca-entenda-o-impasse-no-senado"
+       "n": "O Cafezinho",
+       "u": "https://www.ocafezinho.com/2026-11-03/lula-recusa-gesto-ao-mercado-e-adia-nome-da-fazenda-para-fim-de-novembro"
       },
       {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/senado-vota-pec-da-seguranca-e-analise-de-maioridade-penal-nesta-terca/"
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/economia/durigan-proposta-de-lara-resende-tem-deficiencias-e-nao-esta-em-analise-pelo-governo/"
+      },
+      {
+       "n": "NeoFeed",
+       "u": "https://neofeed.com.br/poder/lula-4-acena-ao-mercado-mas-so-discursos-bastam-para-ancorar-as-expectativas/"
       }
      ]
     },
@@ -296,78 +355,6 @@
      ]
     },
     {
-     "kicker": "Governo Lula 4",
-     "quando": "Ontem",
-     "titulo": "Proposta de Lara Resende de baixar a Selic a 7,5% em um ano divide economistas; Durigan diz que tema não está em discussão",
-     "resumo": "Um dos formuladores do Plano Real, André Lara Resende sugere reduzir os juros gradualmente, criar um conselho fiscal e monetário e usar reservas internacionais para conter o dólar na transição. A ideia chegou ao entorno de Lula num momento em que aliados querem antecipar a escolha da equipe econômica do quarto mandato.",
-     "lados": [
-      {
-       "quem": "Defensores",
-       "txt": "Lara Resende sustenta há anos que o problema fiscal brasileiro está no custo dos juros e admite desvalorização do real no curto prazo, que seria amortecida com as reservas."
-      },
-      {
-       "quem": "Críticos",
-       "txt": "Economistas como Ana Paula Vescovi, José Luis Oreiro e Alexandre Schwartsman veem risco de inflação, fuga de capitais e crise cambial sem compromisso fiscal prévio; o ministro Dario Durigan negou reunião marcada e disse que a equipe não leva a proposta ao presidente."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/muito-ruim-ridicula-e-voluntarismo-ingenuo-economistas-criticam-proposta-de-lara-resende-para-selic-a-75/"
-      },
-      {
-       "n": "Jornal do Comércio",
-       "u": "https://www.jornaldocomercio.com/economia/2026/11/1268980-proposta-de-lara-resende-para-limitar-selic-entra-no-radar-de-lula-e-assusta-mercado.html"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/economia/proposta-de-lara-resende-para-reduzir-selic-a-75-chega-ao-radar-de-lula-e-provoca-apreensao-no-mercado-financeiro/"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://moneytimes.com.br/ibovespa-5-coisas-3-11-26-davs"
-      }
-     ]
-    },
-    {
-     "kicker": "Flávio Bolsonaro",
-     "quando": "Hoje",
-     "titulo": "PF apura se mulher e filhas de Flávio voaram a Cascavel para encontrá-lo na Argentina; defesa pede a Fachin os passaportes de volta",
-     "resumo": "Segundo a coluna de Igor Gadelha, uma linha da investigação é que a família saiu de Brasília em 27 de outubro num avião particular que ficou 25 minutos em Cascavel (PR), a 150 km de Puerto Iguazú, e de lá seguiu com o senador para Miami. Mulher e filhas não tinham restrição para viajar; Flávio estava proibido por Alexandre de Moraes de deixar o país.",
-     "lados": [
-      {
-       "quem": "Investigação",
-       "txt": "A PF apura quem ajudou na saída, se o senador usou jato ligado a uma empresa do advogado Willer Tomaz e o descumprimento das cautelares; Tomaz e Flávio são investigados por suspeita de lavagem de dinheiro e negam irregularidades."
-      },
-      {
-       "quem": "Defesa e aliados",
-       "txt": "Em recurso apresentado a Edson Fachin, a defesa pede a revogação das cautelares, o afastamento de Moraes do caso e a transferência para André Mendonça; Flávio afirma que não fugiu, que sofre perseguição e que vai liderar a oposição a partir dos EUA."
-      }
-     ],
-     "foto": {
-      "src": "fotos/flavio.jpg",
-      "credito": "Joédson Alves/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/igor-gadelha/pf-apura-voo-que-pode-ter-levado-esposa-e-filhas-de-flavio-ate-a-fronteira"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/congresso/2026/11/2/flavio-bolsonaro-recorre-ao-stf-contra-apreensao-de-passaportes"
-      },
-      {
-       "n": "CNN Brasil / Agência Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/pf-investiga-circunstancias-da-fuga-de-flavio-bolsonaro-do-brasil/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-declara-lideranca-da-oposicao-a-partir-dos-eua/"
-      }
-     ]
-    },
-    {
      "kicker": "Caso Master",
      "quando": "Ontem",
      "titulo": "Defesa de Vorcaro denuncia o Brasil à Comissão Interamericana de Direitos Humanos para tentar soltar o banqueiro",
@@ -406,6 +393,82 @@
    "nota": "Mercado e indicadores · Copom decide na quarta",
    "itens": [
     {
+     "kicker": "Balanço",
+     "quando": "Hoje",
+     "titulo": "Itaú lucra R$ 12,6 bilhões no terceiro trimestre, alta de 6,7% em um ano e pouco abaixo do esperado",
+     "resumo": "O lucro recorrente ficou cerca de 0,9% aquém do consenso compilado pela Bloomberg, e a rentabilidade (ROE) foi de 23,6%, ante 23,8% projetados. O resultado veio depois de Santander e Bradesco apresentarem números mais fracos, com ROE de 11,9% e 16,1%.",
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/itau-itub4-lucro-roe-rentabilidade-banco-balanco-do-3t26-miql/"
+      },
+      {
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/empresas/itau-itub4-com-lucro-roe-rentabilidade-banco-balanco-do-3t26-miql/"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/itau-itub4-lucra-r-126-bilhoes-no-3o-trimestre-de-2026/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/itau-itub4-resultados-terceiro-trimestre-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Juros",
+     "quando": "Hoje",
+     "titulo": "Copom termina na quarta a primeira reunião depois da eleição; maioria do mercado espera Selic mantida em 13,75%",
+     "resumo": "Contratos de opções na B3 indicavam 63,1% de chance de manutenção, o que interromperia a série de cortes iniciada em março. Analistas citam desemprego de 5,2%, dólar pressionado e incerteza fiscal como motivos para cautela; a decisão sai depois das 18h30.",
+     "foto": {
+      "src": "fotos/openfinance.jpg",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/11/3/mercado-financeiro-preve-corte-na-taxa-selic-na-reuniao-do-copom"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/dolar-atinge-maior-patamar-do-ano-e-fecha-cotado-a-r-548-bolsa-cai-142"
+      },
+      {
+       "n": "B3 Bora Investir",
+       "u": "https://borainvestir.b3.com.br/noticias/mercado-ja-precifica-manutencao-dos-juros-em-1375-saiba-o-que-esperar-do-copom/"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/politica/banco-central/selic-copom-63-chance-pausa-juros-137/"
+      }
+     ]
+    },
+    {
+     "kicker": "Indústria",
+     "quando": "Hoje",
+     "titulo": "Embraer vende três cargueiros KC-390 à Grécia, com opção para mais três, e ação sobe cerca de 5%",
+     "resumo": "Com o contrato, a Grécia passa a integrar a lista de nove países europeus que já compraram o avião militar. O Bradesco BBI estimou impacto de cerca de US$ 120 milhões no valor da empresa, e a ação subiu na contramão do Ibovespa.",
+     "fontes": [
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/acoes/embraer-embj3-sobe-5-acordo-grecia-kc-390-dolar/"
+      },
+      {
+       "n": "ADVFN",
+       "u": "https://br.advfn.com/jornal/2026/11/embraer-fecha-contrato-para-vender-tres-aeronaves-kc-390-a-grecia-e-pode-ampliar-encomenda"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/11/2/nove-paises-europeus-ja-compraram-aviao-de-transporte-da-embraer-veja-quais"
+      },
+      {
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/ultimas-noticias/2026/11/03/fechamento-mercado-ibovespa-dolar-petroleo-3-novembro-2026/"
+      }
+     ]
+    },
+    {
      "kicker": "Boletim Focus",
      "quando": "Hoje",
      "titulo": "Primeiro Focus depois da eleição eleva projeções de inflação, Selic e dólar e reduz o PIB",
@@ -430,30 +493,6 @@
      ]
     },
     {
-     "kicker": "Juros",
-     "quando": "Hoje",
-     "titulo": "Copom começa a reunião com mercado dividido entre pausa e corte; decisão sobre a Selic sai na quarta",
-     "resumo": "Itaú, BTG Pactual, HSBC e C6 projetam manutenção dos 13,75%, enquanto Inter, ASA e Daycoval ainda esperam corte de 0,25 ponto; o Focus de hoje aponta uma redução até dezembro. Os analistas citam o dólar, a política fiscal do próximo governo e a energia como riscos para a inflação.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-chega-a-semana-do-copom-com-expectativa-por-fim-do-corte-de-juros/"
-      },
-      {
-       "n": "Bloomberg Línea",
-       "u": "https://www.bloomberglinea.com.br/brasil/reeleicao-de-lula-sacode-apostas-sobre-juros-e-bc-decide-a-selic-com-mercado-dividido/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/politica/banco-central/selic-copom-63-chance-pausa-juros-137/"
-      }
-     ],
-     "foto": {
-      "src": "fotos/openfinance.jpg",
-      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
-     }
-    },
-    {
      "kicker": "Tributos",
      "quando": "Hoje",
      "titulo": "Governo envia ao Congresso a MP que fixa a alíquota do Imposto Seletivo sobre bebidas, cigarros e mineração",
@@ -468,18 +507,6 @@
        "u": "https://moneytimes.com.br/ibovespa-5-coisas-3-11-26-davs"
       }
      ]
-    },
-    {
-     "kicker": "Bancos",
-     "quando": "Hoje",
-     "titulo": "Itaú divulga o balanço do terceiro trimestre depois do fechamento; analistas esperam lucro de R$ 12,6 bilhões",
-     "resumo": "O número é o consenso compilado pela LSEG, com receita estimada em R$ 48,3 bilhões. O Goldman Sachs projeta rentabilidade (ROE) de 23,3%, abaixo dos 24,3% do trimestre anterior.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/itau-itub4-divulga-balanco-do-3o-trimestre-nesta-terca-o-que-esperar/"
-      }
-     ]
     }
    ]
   },
@@ -492,40 +519,44 @@
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Inmet põe 17 cidades de Santa Catarina em alerta laranja, e ciclone deve se formar na quarta no Sul",
-     "resumo": "O alerta vale até a meia-noite desta terça para a Serra e o Sul catarinense, com previsão de 50 a 100 mm de chuva em um dia e risco de alagamentos e deslizamentos. O ciclone extratropical deve se formar na quarta e se juntar a uma frente fria na quinta, trazendo ar polar e queda de temperatura para os três estados do Sul.",
+     "titulo": "Ciclone no Sul: Inmet prevê alerta vermelho para o sul do Paraná na quarta, com ventos acima de 100 km/h",
+     "resumo": "Cidades paranaenses ficaram em alerta laranja nesta terça, e a previsão é de chuva acima de 100 mm por dia com a formação de um ciclone extratropical na costa. Em Maringá, um temporal recente derrubou 363 árvores; Santa Catarina e Rio Grande do Sul também estão sob aviso.",
      "fontes": [
       {
-       "n": "São Joaquim Online",
-       "u": "https://saojoaquimonline.com.br/noticias/2026/11/03/alerta-laranja-coloca-17-cidades-de-sc-em-perigo-por-chuvas-severas-antes-de-chegada-de-ciclone-extratropical/"
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/brasil/ciclone-coloca-cidades-do-parana-sob-alerta-para-tempestades"
       },
       {
        "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/frente-fria-avanca-pelo-brasil-e-ciclone-extratropical-aumenta-risco-de-temporais-na-primeira-semana-de-novembro-veja-onde-a-chuva-pode-chegar-a-200-mm/"
+       "u": "https://ndmais.com.br/tempo/novo-ciclone-ja-tem-data-para-se-formar-no-brasil/"
       },
       {
-       "n": "Arede",
-       "u": "https://arede.info/cotidiano/680634/ciclone-extratropical-coloca-parana-em-alerta-para-temporais"
+       "n": "Banda B",
+       "u": "https://www.bandab.com.br/noticias-parana/ciclone-extratropical-alerta-parana-temporais-semana/"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/noticias/ciclone-extratropical-rs-alerta-temporais"
       }
      ]
     },
     {
-     "kicker": "Serviços",
+     "kicker": "Rio de Janeiro",
      "quando": "Hoje",
-     "titulo": "Aplicativo do Banco do Brasil apresenta instabilidade, e reclamações passam de 6 mil",
-     "resumo": "Clientes relataram dificuldade para entrar no app e fazer transações na manhã desta terça, primeiro dia útil depois do feriado, com pico de cerca de 6,3 mil queixas em site de monitoramento. Os veículos orientam o uso de canais alternativos, como internet banking, caixas eletrônicos e a central de atendimento.",
+     "titulo": "Polícia investiga queda de asa-delta que matou turista argentino e instrutor em São Conrado",
+     "resumo": "Luis Eduardo Rodrigues dos Santos e Adrian Guillermo Arismendi chegaram em parada cardiorrespiratória ao Hospital Miguel Couto na segunda e não resistiram. A 15ª DP vai ouvir testemunhas, e o equipamento passará por perícia.",
      "fontes": [
       {
-       "n": "Folha de Pernambuco",
-       "u": "https://www.folhape.com.br/colunistas/tecnologia-e-games/app-banco-do-brasil-fora-do-ar-usuarios-relatam-instabilidade-nesta/60795/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-investiga-acidente-com-asa-delta-que-deixou-dois-mortos-no-rio"
       },
       {
-       "n": "Tribuna do Norte",
-       "u": "https://tribunadonorte.com.br/brasil/banco-do-brasil-esta-fora-do-ar-aplicativo-registra-instabilidade-e-pico-de-63-mil-reclamacoes/"
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/brasil/turista-argentino-e-instrutor-morrem-em-acidente-de-asa-delta-no-rio/"
       },
       {
-       "n": "TechTudo",
-       "u": "https://www.techtudo.com.br/google/amp/noticias/2026/11/app-banco-do-brasil-fora-do-ar-usuarios-relatam-instabilidade-hoje-03-edapps.ghtml"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/brasil/duas-pessoas-morrem-apos-queda-de-asa-delta-em-praia-do-rio-de-janeiro,d8b04d947fd0c38582ff52864cb5e43d69c4gplu.html"
       }
      ]
     },
@@ -550,14 +581,22 @@
      ]
     },
     {
-     "kicker": "Justiça",
-     "quando": "Ontem",
-     "titulo": "Moraes autoriza transferência de Bacellar de presídio federal para o Rio, e operação é classificada de alto risco",
-     "resumo": "O ex-presidente da Alerj, preso desde março na Operação Unha e Carne, sairá da Penitenciária Federal de Mossoró para uma unidade estadual, depois de o ministro do STF aceitar pedido da defesa por entender que não há mais os motivos iniciais. A Polícia Penal Federal conduz a transferência, ainda sem data.",
+     "kicker": "Serviços",
+     "quando": "Hoje",
+     "titulo": "Aplicativo do Banco do Brasil apresenta instabilidade, e reclamações passam de 6 mil",
+     "resumo": "Clientes relataram dificuldade para entrar no app e fazer transações na manhã desta terça, primeiro dia útil depois do feriado, com pico de cerca de 6,3 mil queixas em site de monitoramento. Os veículos orientam o uso de canais alternativos, como internet banking, caixas eletrônicos e a central de atendimento.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/transferencia-de-bacellar-para-o-rio-e-considerada-de-alto-risco/"
+       "n": "Folha de Pernambuco",
+       "u": "https://www.folhape.com.br/colunistas/tecnologia-e-games/app-banco-do-brasil-fora-do-ar-usuarios-relatam-instabilidade-nesta/60795/"
+      },
+      {
+       "n": "Tribuna do Norte",
+       "u": "https://tribunadonorte.com.br/brasil/banco-do-brasil-esta-fora-do-ar-aplicativo-registra-instabilidade-e-pico-de-63-mil-reclamacoes/"
+      },
+      {
+       "n": "TechTudo",
+       "u": "https://www.techtudo.com.br/google/amp/noticias/2026/11/app-banco-do-brasil-fora-do-ar-usuarios-relatam-instabilidade-hoje-03-edapps.ghtml"
       }
      ]
     },
@@ -596,80 +635,86 @@
     {
      "kicker": "Eleições nos EUA",
      "quando": "Hoje",
-     "titulo": "Americanos votam para renovar o Congresso; apuração começa às 20h de Brasília e pode levar dias",
-     "resumo": "Estão em jogo as 435 cadeiras da Câmara, 35 do Senado e 36 governos estaduais, e mais de 50 milhões de pessoas votaram antecipadamente. Os republicanos têm hoje 218 deputados e 53 senadores; a média de pesquisas da RealClearPolling deu 51,5% a 43,1% aos democratas na preferência para o Congresso.",
+     "titulo": "Urnas começam a fechar às 20h nos EUA depois de voto antecipado recorde; controle do Congresso pode levar dias",
+     "resumo": "Mais de 58 milhões de eleitores votaram antes do dia da eleição, que renova as 435 cadeiras da Câmara, 35 do Senado e 36 governos estaduais. Pesquisas apontam vantagem democrata na Câmara; Trump disse que aceitará o resultado se a eleição for honesta.",
      "fontes": [
       {
-       "n": "Agência Brasil / Lusa",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/norte-americanos-decidem-hoje-controle-do-congresso-e-rumos-do-governo"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eleicao-nos-estados-unidos-define-futuro-de-trump-nesta-terca-feira"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/urnas-abrem-em-mais-estados-dos-eua/"
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/11/03/quando-saem-os-resultados-das-eleicoes-nos-eua-apuracao-em-estados-decisivos-pode-levar-semanas/"
+      },
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/mundo/eua-vao-as-urnas-em-eleicao-que-testa-a-forca-de-trump-e-pode-mudar-o-controle-do-congresso/"
       },
       {
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/mundo/midterms-nos-eua-apuracao-comeca-as-20h-mas-resultado-pode-levar-dias/"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/mundo/eleicoes-nos-eua-que-horas-termina-a-votacao-e-comecam-os-resultados/"
       }
      ]
     },
     {
-     "kicker": "Guerra com o Irã",
+     "kicker": "Irã",
      "quando": "Hoje",
-     "titulo": "Trump confirma ataque a instalação antiaérea na ilha de Qeshm, em Ormuz, horas depois de elogiar negociação com Teerã",
-     "resumo": "A imprensa estatal iraniana relatou cinco explosões na ilha na noite de segunda; Trump chamou a ação de ataque menor e disse que um acordo com o Irã pode sair. Do lado iraniano, o negociador Mohammad Ghalibaf afirmou que o país deu uma resposta racional aos EUA e está pronto para a guerra, e o governo diz que reabre o estreito em dois dias se suas exigências forem aceitas.",
+     "titulo": "Irã diz que três petroleiros bateram em minas em Ormuz; comando militar dos EUA nega que haja minas na rota",
+     "resumo": "Segundo a Guarda Revolucionária, os navios desligaram os sistemas de identificação, usaram rotas não autorizadas e explodiram no corredor sul do estreito. O Centcom afirma que a passagem está livre; mais cedo, Trump confirmou ataque a uma instalação antiaérea na ilha iraniana de Qeshm.",
+     "lados": [
+      {
+       "quem": "Irã",
+       "txt": "Teerã afirma que os petroleiros cooperavam com as forças americanas e que havia avisado sobre as consequências."
+      },
+      {
+       "quem": "Estados Unidos",
+       "txt": "O Centcom nega minas no corredor sul e diz garantir a passagem segura de centenas de embarcações; os ataques são descritos por Washington como defensivos."
+      }
+     ],
      "fontes": [
+      {
+       "n": "Demócrata / Europa Press",
+       "u": "https://www.democrata.es/pt/internacional/ira-assegura-que-tres-petroleiros-colidiram-com-minas-navais-no-estreito-de-ormuz/"
+      },
+      {
+       "n": "KCH FM",
+       "u": "https://kchcomunicacion.com/2026/11/03/tres-petroleros-impactan-con-minas-en-el-estrecho-de-ormuz/"
+      },
       {
        "n": "O Tempo / AFP",
        "u": "https://www.otempo.com.br/mundo/2026/11/3/guerra-no-ira-trump-confirma-ataque-contra-instalacao-antiaerea-na-republica-islamica"
       },
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/03/amp/eua-atacam-ilha-iraniana-apos-trump-elogiar-avancos-diplomaticos.html"
-      },
-      {
        "n": "O Liberal",
        "u": "https://www.oliberal.com/mundo/eua-realizaram-ataques-defensivos-contra-o-ira-no-estreito-de-ormuz-diz-oficial-1.1189824"
-      },
-      {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/11/03/eua-voltam-a-atacar-ilha-no-ira-em-meio-a-negociacoes-diplomaticas-e-alerta-de-teera-para-resposta-imprevisivel/"
       }
      ]
     },
     {
-     "kicker": "Guerra na Ucrânia",
+     "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Zelensky fala em massacre após bombardeio a centro de ajuda em Zaporizhzhia; Rússia lança centenas de drones e mísseis",
-     "resumo": "O ataque com bombas guiadas ao centro de distribuição de Komyshuvakha, na segunda, deixou ao menos 29 mortos, segundo a administração local, e atingiu também o abrigo onde as pessoas se esconderam. Na madrugada desta terça, Zelensky contou 17 mísseis balísticos, 59 de cruzeiro e 289 drones contra a rede elétrica; Moscou diz ter derrubado 493 drones a caminho da capital.",
+     "titulo": "Mortos em ataque russo a escola usada para ajuda humanitária em Zaporizhzhia passam de 30",
+     "resumo": "Ao menos 33 pessoas morreram no vilarejo de Komishuvakha, e Zelensky disse que mais de 50 podem estar sob os escombros. A missão da ONU de direitos humanos falou em negligência grave dos militares russos; Moscou não comentou o caso.",
      "fontes": [
+      {
+       "n": "O Povo / AFP",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/03/ucrania-teme-dezenas-de-mortos-sob-escombros-apos-um-dos-piores-bombardeios-da-guerra.html"
+      },
+      {
+       "n": "ECO",
+       "u": "https://eco.sapo.pt/2026/11/03/zelensky-acusa-russia-de-destruir-perspetiva-de-paz-apos-ataque-com-29-mortos/"
+      },
       {
        "n": "Jornal de Notícias",
        "u": "https://www.jn.pt/mundo/artigo/zelensky-denuncia-massacre-ataque-russo-a-centro-de-ajuda-humanitaria-causou-29-mortos/18143923"
-      },
-      {
-       "n": "DNotícias",
-       "u": "https://www.dnoticias.pt/2026/11/3/511445-seguro-condena-ataque-russo-contra-instalacao-humanitaria/"
-      },
-      {
-       "n": "UA News",
-       "u": "https://ua.news/en/war-vs-rf/u-den-viboriv-u-ssha-rosiia-vipustila-po-ukrayini-17-balistichnikh-raket-i-289-droniv-zelenskii"
-      },
-      {
-       "n": "O Povo / AFP",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/03/russia-derruba-centenas-de-drones-apos-fim-da-tregua-na-ucrania.html"
       }
      ]
     },
     {
      "kicker": "Israel",
      "quando": "Hoje",
-     "titulo": "Oposição israelense aceita as condições de Eisenkot e vai indicá-lo para formar governo; Netanyahu reivindica a liderança",
-     "resumo": "Eisenkot, Bennett, Lapid, Lieberman e Golan se reuniram em Herzliya; o bloco tem 48 das 120 cadeiras e, sem os 19 deputados árabes, precisaria atrair partidos que apoiaram o premiê para chegar a 61. O Likud questionou a legitimidade da votação, que a Comissão Eleitoral considerou válida, e o presidente Isaac Herzog começa as consultas na quarta.",
+     "titulo": "Oposição israelense fecha apoio a Eisenkot para formar governo; Herzog começa consultas na quarta",
+     "resumo": "Eisenkot, Bennett, Lapid, Lieberman e Golan aceitaram quatro princípios, entre eles serviço militar ou civil para todos e a destruição do Hamas, mas o bloco soma 48 das 61 cadeiras necessárias. Netanyahu reivindica a liderança do próximo governo, e a maior parte da oposição resiste a contar com os 19 deputados de partidos árabes.",
      "fontes": [
       {
        "n": "Observador",
@@ -714,38 +759,70 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
-     "kicker": "Brasileirão",
+     "kicker": "Champions League",
      "quando": "Hoje",
-     "titulo": "Chapecoense pode ser o primeiro rebaixado se perder para o Mirassol; Internacional recebe o Coritiba para sair do Z4",
-     "resumo": "Lanterna com 21 pontos, pior ataque e defesa mais vazada, a Chape joga às 19h30 na Arena Condá e cai matematicamente com uma derrota, já que o Mirassol, primeiro fora da zona, tem 37. Às 21h30, o Inter tenta deixar a zona de rebaixamento em casa, pela 34ª rodada.",
+     "titulo": "PSG faz 6 a 0 no Villarreal, Barcelona bate o Aston Villa e Manchester United vira sobre a Roma",
+     "resumo": "Lamine Yamal e Raphinha, duas vezes, marcaram nos 3 a 0 do Barcelona, e o Bayern venceu o Atlético de Madrid por 2 a 0 em Madri. O United perdia por 2 a 0 e ganhou por 3 a 2, com dois gols de Matheus Cunha e um de pênalti de Bruno Fernandes.",
      "fontes": [
       {
-       "n": "Correio",
-       "u": "https://www.correio24horas.com.br/esportes/brasileirao-pode-ter-primeiro-rebaixado-nesta-terca-feira-3-entenda-1126"
+       "n": "Juan Fútbol",
+       "u": "https://juanfutbol.com/futbol-internacional/todos-los-resultados-de-la-champions-league-hoy-asi-les-fue-a-barcelona-psg-y-bayern-munich"
       },
       {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/esportes/briga-contra-o-rebaixamento-movimenta-rodada-desta-noite"
+       "n": "La Nación",
+       "u": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid03112026/"
       },
       {
-       "n": "Hoje Cidades",
-       "u": "https://hojecidades.com.br/futebol-hoje-3-novembro-2026-brasileirao-jogos-destaques/"
+       "n": "Cooperativa",
+       "u": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/champions-barcelona-vence-a-aston-villa-y-bayern-supera-a-atletico/2026-11-03/141735.html"
+      },
+      {
+       "n": "OKDiario",
+       "u": "https://okdiario.com/deportes/asi-queda-clasificacion-champions-league-victoria-del-barcelona-derrotas-atletico-villarreal-20693759"
       }
      ]
     },
     {
-     "kicker": "Hoje na TV",
+     "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Champions tem Atlético de Madrid x Bayern, Barcelona x Aston Villa e Villarreal x PSG a partir das 17h",
-     "resumo": "Na quarta rodada da Liga dos Campeões, oito jogos começam às 17h, entre eles Manchester United x Roma e Villarreal x PSG. No Brasileirão, a Chapecoense, lanterna, recebe o Mirassol às 19h30, e o Internacional, 18º com 35 pontos, joga às 21h30; o líder Flamengo, com 73, enfrenta o Grêmio na quarta, e o Palmeiras, com 70, pega o Remo na quinta.",
+     "titulo": "Chapecoense enfrenta o Mirassol podendo ser rebaixada; Internacional recebe o Coritiba às 21h30 para sair do Z4",
+     "resumo": "Lanterna, a Chape cai matematicamente se perder em casa, às 19h30. O Mirassol, 16º com 37 pontos, tenta se afastar da zona; o Inter, 18º com 35, encara o Coritiba, 11º, que voltou a vencer na rodada passada.",
      "fontes": [
       {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/futebol/futebol-na-tv-hoje-agenda-terca-3-champions-brasileirao-mais"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/brasileirao-dois-jogos-movimentam-briga-contra-o-rebaixamento-nesta-terca"
       },
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/tendencias/2026/11/02/brasileirao-2026-34-rodada/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-mirassol-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
+      },
+      {
+       "n": "TNH1",
+       "u": "https://tnh1.com.br/noticia/nid/brasileirao-pode-ter-o-primeiro-rebaixado-nesta-terca-03-veja-cenarios"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "Rafael Câmara estreia pela Haas em Interlagos, e Antonelli chega ao GP de São Paulo já campeão",
+     "resumo": "A Haas confirmou a saída antecipada de Esteban Ocon, e o líder da F2 vai correr ao lado de Ollie Bearman de 6 a 8 de novembro. Kimi Antonelli, da Mercedes, garantiu o título no domingo, no México, e aos 20 anos virou o campeão mais jovem da história.",
+     "fontes": [
+      {
+       "n": "Grande Prêmio",
+       "u": "https://grandepremio.com/br/f1/haas-oficializa-saida-antecipada-de-ocon-e-promove-estreia-de-camara-em-interlagos/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-rafael-camara-fara-sua-estreia-pela-haas-no-gp-de-sao-paulo,9164dfcbf14a8592baf5e42acbd8fb59tuytw6ki.html"
+      },
+      {
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/desporto/kimi-antonelli-sagrou-se-campeo-do-mundo-de-frmula-1-com-3-no-grande-prmio-do-mxico"
+      },
+      {
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-e-race-week-gp-de-sao-paulo-marca-20a-etapa-da-temporada-2026/"
       }
      ]
     },
@@ -788,26 +865,6 @@
        "u": "https://www.metropoles.com/esportes/em-abertura-da-rodada-bragantino-vence-santos-pelo-brasileirao"
       }
      ]
-    },
-    {
-     "kicker": "Copa do Brasil",
-     "quando": "01/11",
-     "titulo": "Palmeiras vence o Vasco por 1 a 0 na ida da semifinal e decide a vaga em São Januário",
-     "resumo": "Maurício marcou aos 23 minutos no Nubank Parque, e o Vasco terminou com um a menos após a expulsão do zagueiro Saldivia. O jogo de volta é no próximo domingo, no Rio.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-0"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/palmeiras-vasco-semifinal-copa-do-brasil-2026/"
-      },
-      {
-       "n": "VAVEL",
-       "u": "https://www.vavel.com/br/futebol/2026/11/02/1277697-palmeiras-vence-o-vasco-e-sai-em-vantagem-na-semifinal-da-copa-do-brasil.html"
-      }
-     ]
     }
    ]
   },
@@ -834,6 +891,26 @@
       {
        "n": "Diário do Comércio",
        "u": "https://diariodocomercio.com.br/economia/anvisa-interdita-porto-santos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Gripe aviária",
+     "quando": "Ontem",
+     "titulo": "Estado de Washington registra a primeira morte por gripe aviária nos EUA em 2026",
+     "resumo": "O paciente teve contato com gado infectado numa fazenda leiteira; é a terceira morte no país desde que o vírus passou a circular entre rebanhos. As autoridades de saúde dizem que o risco para a população segue baixo.",
+     "fontes": [
+      {
+       "n": "CNN",
+       "u": "https://www.cnn.com/2026/11/02/health/bird-flu-death-2026"
+      },
+      {
+       "n": "KESQ / CNN en Español",
+       "u": "https://kesq.com/kunamundo/noticias-cnn/cnn-spanish/2026/11/02/washington-reporta-la-primera-muerte-del-ano-por-gripe-aviar-en-ee-uu-autoridades-dicen-que-el-riesgo-es-bajo/"
+      },
+      {
+       "n": "DiarioBitcoin",
+       "u": "https://www.diariobitcoin.com/noticias/gripe-aviar-deja-una-tercera-victima-en-ee-uu-tras-exposicion-en-una-granja-lechera/"
       }
      ]
     },
@@ -908,8 +985,8 @@
     {
      "kicker": "Fies",
      "quando": "Hoje",
-     "titulo": "Inscrições para 50 mil vagas remanescentes do Fies terminam hoje",
-     "resumo": "O cadastro é feito só no Portal Único de Acesso ao Ensino Superior, com login no Gov.br, e o prazo não será prorrogado. Metade das vagas é reservada a candidatos com renda familiar de até meio salário mínimo por pessoa e inscrição no CadÚnico.",
+     "titulo": "Prazo para as 50 mil vagas remanescentes do Fies terminou nesta terça",
+     "resumo": "O cadastro era feito só no Portal Único de Acesso ao Ensino Superior, com login no Gov.br, e o MEC informou que o prazo não seria prorrogado. Metade das vagas é reservada a candidatos com renda familiar de até meio salário mínimo por pessoa e inscrição no CadÚnico.",
      "fontes": [
       {
        "n": "A Crítica / Agência Brasil",
@@ -1037,8 +1114,40 @@
     {
      "kicker": "Literatura",
      "quando": "Hoje",
-     "titulo": "Philippe Jaenada ganha o Goncourt com romance sobre um crime não resolvido de 1949; Cervantes sai hoje",
-     "resumo": "O livro \"L'Inconnue du quai de Javel\" reconstitui, a partir de inquéritos policiais, o assassinato de Louise Cansot em Paris; no mesmo dia, o Renaudot foi para François-Henri Désérable, por \"Le Palais\". Na Espanha, o Prêmio Cervantes, de 125 mil euros, tem Rosa Montero, Leonardo Padura e Gioconda Belli entre os mais citados.",
+     "titulo": "Espanhola Cristina Fernández Cubas ganha o Prêmio Cervantes, o principal da língua espanhola",
+     "resumo": "Referência do conto, autora de \"Mi hermana Elba\" e \"El ángulo del horror\", ela é a sétima mulher a receber o prêmio, de 125 mil euros. O júri destacou a originalidade e a coerência da obra.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/03/cristina-fernandez-cubas-galardoada-com-o-premio-cervantes-2026"
+      },
+      {
+       "n": "Milenio",
+       "u": "https://www.milenio.com/espectaculos/famosos/cristina-fernandez-cubas-gana-premio-cervantes-2026"
+      },
+      {
+       "n": "Prensa Libre",
+       "u": "https://www.prensalibre.com/vida/escenario/cristina-fernandez-cubas-gana-el-premio-cervantes-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre aos 72 anos a atriz Silvia Poggetti, a Maria Maravilha de \"Malhação\"",
+     "resumo": "Ela morreu na Santa Casa de Ourinhos (SP). Na TV, também atuou em \"Metamorphoses\" e \"Água na Boca\", e em 2024 esteve no filme \"Silvio\"; no teatro, dividiu o palco com Lilia Cabral em \"Maria do Caritó\".",
+     "fontes": [
+      {
+       "n": "Correio Braziliense / TV Prime",
+       "u": "https://tvprime.correiobraziliense.com.br/noticia/412135/celebridades/triste-noticia-confirmada-morre-aos-72-anos-querida-atriz-de-novela-da-globo-03112026"
+      }
+     ]
+    },
+    {
+     "kicker": "Literatura",
+     "quando": "Hoje",
+     "titulo": "Philippe Jaenada ganha o Goncourt com romance sobre um crime não resolvido de 1949",
+     "resumo": "O livro \"L'Inconnue du quai de Javel\" reconstitui, a partir de inquéritos policiais, o assassinato de Louise Cansot em Paris. No mesmo dia, o Renaudot foi para François-Henri Désérable, por \"Le Palais\".",
      "fontes": [
       {
        "n": "Euronews",
@@ -1087,22 +1196,6 @@
       {
        "n": "Rolling Stone Brasil",
        "u": "https://rollingstone.com.br/musica/grammy-latino-2026-indicados/"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "31/10",
-     "titulo": "Morre aos 64 anos Juan Atkins, um dos criadores do techno de Detroit",
-     "resumo": "O DJ e produtor foi encontrado desacordado num hotel na Cidade do México antes de uma apresentação e morreu no hospital; a causa não foi divulgada. Fundador do Cybotron e do selo Metroplex, gravou como Model 500 e formou com Kevin Saunderson e Derrick May o trio conhecido como Belleville Three.",
-     "fontes": [
-      {
-       "n": "Rolling Stone Brasil",
-       "u": "https://rollingstone.com.br/musica/juan-atkins-pioneiro-da-musica-techno-morre-aos-64-anos/"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/entretenimento/celebridades/morre-dj-juan-atkins-icone-da-techno-music-aos-64-anos"
       }
      ]
     }
