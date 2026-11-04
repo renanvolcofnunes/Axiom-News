@@ -1,67 +1,67 @@
 {
  "data": "Quarta-feira, 4 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "04/11/2026 · 12h40 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 12h00",
- "fontes": 67,
+ "edicao": "Edição da noite",
+ "atualizado": "04/11/2026 · 19h05 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 17h10",
+ "fontes": 77,
  "mercado": [
   {
-   "nome": "Ibovespa · 12h",
-   "valor": "167.511 pts",
-   "var": "+1,20%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "167.435 pts",
+   "var": "+1,15%",
    "dir": "up"
   },
   {
-   "nome": "Dólar comercial · 12h",
-   "valor": "R$ 5,48",
-   "var": "−0,16%",
+   "nome": "Dólar à vista · fechamento",
+   "valor": "R$ 5,45",
+   "var": "−0,64%",
    "dir": "down"
   },
   {
-   "nome": "Dow Jones · 12h",
-   "valor": "+2,37%",
-   "var": "após vitória democrata",
-   "dir": "up"
-  },
-  {
-   "nome": "Petróleo Brent · 12h",
-   "valor": "US$ 100,22",
-   "var": "−3,26%",
-   "dir": "down"
-  },
-  {
-   "nome": "Selic · Copom decide hoje (após 18h30)",
+   "nome": "Selic · Copom de 4/11",
    "valor": "13,75%",
-   "var": "mercado dividido entre manter e cortar",
+   "var": "mantida, por unanimidade",
    "dir": ""
+  },
+  {
+   "nome": "Caged · setembro",
+   "valor": "121,3 mil vagas",
+   "var": "−43,5% em um ano",
+   "dir": "down"
+  },
+  {
+   "nome": "IPCA 2026 · Focus de 3/11",
+   "valor": "5,22%",
+   "var": "acima do teto da meta",
+   "dir": "up"
   }
  ],
  "agenda": [
   {
-   "hora": "Qua 4/11 · o dia todo",
-   "txt": "Inmet mantém alerta vermelho de tempestade para toda Santa Catarina e partes do Paraná e do Rio Grande do Sul, com risco de ventos acima de 100 km/h e granizo",
+   "hora": "Qua 4/11 · 19h30 e 21h30",
+   "txt": "Brasileirão: Flamengo x Grêmio no Maracanã e São Paulo x Corinthians; na quinta, o Palmeiras enfrenta o Remo",
+   "cat": "esporte"
+  },
+  {
+   "hora": "Qui 5/11 · o dia todo",
+   "txt": "Aulas presenciais da rede estadual de Santa Catarina seguem suspensas por causa dos temporais; Defesa Civil monitora rios no Vale do Itajaí",
    "cat": "brasil"
   },
   {
-   "hora": "Qua 4/11 · 13h55 e 14h30",
-   "txt": "Câmara pode votar monitoramento eletrônico de agressores de mulheres; comissão especial da maioridade penal se reúne à tarde",
-   "cat": "politica"
-  },
-  {
-   "hora": "Qua 4/11 · tarde e noite",
-   "txt": "Ministério do Trabalho divulga o Caged de setembro; depois das 18h30, o Copom anuncia a Selic, hoje em 13,75%",
-   "cat": "economia"
-  },
-  {
-   "hora": "Qua 4/11 · tarde e noite",
-   "txt": "Brasil x Nigéria na semifinal do Mundial Feminino Sub-17; Champions com Real Madrid, Liverpool, City e Arsenal; às 19h30, Flamengo x Grêmio e, às 21h30, São Paulo x Corinthians",
-   "cat": "esporte"
-  },
-  {
    "hora": "Sex 6 a dom 8/11",
-   "txt": "GP de São Paulo de F1 em Interlagos, com estreia de Rafael Câmara pela Haas; corrida no domingo às 14h",
+   "txt": "GP de São Paulo de F1 em Interlagos, com Bortoleto e a estreia de Rafael Câmara pela Haas; corrida no domingo às 14h",
    "cat": "esporte"
+  },
+  {
+   "hora": "Sáb 7/11 · 11h",
+   "txt": "Seleção feminina sub-17 disputa o bronze do Mundial contra a Coreia do Norte, em Rabat; a final, Japão x Nigéria, é às 14h30",
+   "cat": "esporte"
+  },
+  {
+   "hora": "Fim de semana",
+   "txt": "Lula deve divulgar pronunciamento em vídeo sobre as prioridades do novo mandato e as contas públicas; a data não foi confirmada",
+   "cat": "politica"
   },
   {
    "hora": "Dom 8/11",
@@ -162,44 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercado",
-  "titulo": "Ibovespa sobe 1,2% e tenta encerrar série de seis quedas, puxado por Wall Street após vitória democrata; Copom decide a Selic à noite",
-  "resumo": "Ao meio-dia, a bolsa estava em 167,5 mil pontos, com bancos e Vale em alta e Petrobras em queda de mais de 3% por causa do recuo do petróleo. O dólar operava perto da estabilidade, a R$ 5,48, à espera da decisão do Banco Central.",
+  "kicker": "Juros",
+  "titulo": "Copom mantém a Selic em 13,75% por unanimidade e interrompe série de cinco cortes; Ibovespa sobe 1,15% e encerra sequência de quedas",
+  "resumo": "No primeiro encontro depois da eleição, o Banco Central deixou os juros inalterados e citou piora do cenário interno e externo desde setembro. Mais cedo, a bolsa fechou em 167,4 mil pontos e o dólar caiu 0,64%, para R$ 5,45, com o alívio vindo de Wall Street.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/rasBiqiDGctpl5-xBWwAW622HfA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221212.jpg?itok=KoFmjD94",
-   "credito": "Valter Campanato/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/15adY8ZKr12NpZ2PrRKtRipWPqI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_mcajr_abr_0104222280_0.jpg?itok=cZ5GbjQe",
+   "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
   },
-  "entenda": "Desde a reeleição de Lula, em 25 de outubro, o Ibovespa acumulou seis pregões seguidos de baixa e fechou terça (3) em 165.529 pontos, o menor nível desde janeiro; antes do segundo turno, estava acima de 205 mil. No mesmo período, o dólar passou de cerca de R$ 5 para perto de R$ 5,50, e analistas apontam a falta de sinalização sobre as contas públicas como principal motivo. Nesta quarta, o alívio veio de fora: com os democratas no controle da Câmara e do Senado dos EUA, as bolsas de Nova York subiam mais de 1,5%. À noite, o Copom decide se interrompe a sequência de cinco cortes e mantém a Selic em 13,75%, como prevê a maior parte das casas ouvidas pela imprensa, ou se reduz a taxa para 13,5%, como apontava o Boletim Focus.",
+  "entenda": "O ciclo de cortes começou em março e levou a Selic a 13,75%. No início de outubro, a maior parte do mercado esperava uma sexta redução, mas, depois da reeleição de Lula, em 25 de outubro, a bolsa caiu seis pregões seguidos, o dólar se aproximou de R$ 5,50 e as projeções de inflação subiram, o que levou a maioria dos analistas a prever pausa. No comunicado, o Copom mencionou o prolongamento da guerra no Oriente Médio, que encarece o petróleo, juros mais altos nas economias avançadas e expectativas de inflação mais distantes da meta; disse ainda acompanhar os efeitos da política fiscal sobre os juros e os ativos. O comitê não indicou o próximo passo e volta a se reunir em 8 e 9 de dezembro.",
   "fatos": [
-   "Bradesco subia 2,65%, Itaú 1,77% e Vale 2,27% por volta do meio-dia; as ações da Petrobras caíam cerca de 3%, com o Brent recuando para US$ 100.",
-   "Em Nova York, o Dow Jones avançava 2,37%, o S&P 500 1,72% e o Nasdaq 1,86%; na Europa, o índice STOXX 600 subia 1,3% pela manhã.",
-   "No Boletim Focus, a projeção de inflação para 2027 subiu de 4,34% para 4,76% em uma semana, acima do teto da meta, de 4,5%."
+   "A decisão foi unânime e confirmou a aposta da maior parte das casas consultadas pela imprensa; o Focus da segunda ainda indicava corte para 13,5%.",
+   "O Ibovespa fechou em 167.434 pontos (+1,15%), depois de seis quedas seguidas, e o dólar à vista terminou a R$ 5,4511, após a vitória democrata no Congresso dos EUA enfraquecer a moeda americana no exterior.",
+   "O Caged divulgado nesta quarta mostrou 121,3 mil vagas formais em setembro, 43,5% menos que um ano antes; o Copom apontou desaceleração mais forte da atividade."
   ],
   "fontes": [
    {
-    "n": "Bom Dia Mercado",
-    "u": "https://www.bomdiamercado.com.br/mercado-financeiro/giro-dos-mercados/giro-das-12h-ibovespa-sobe-com-bancos-e-vale-apesar-de-tombo-da-petrobras/",
-    "d": "Bolsa ao meio-dia"
-   },
-   {
     "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026/",
-    "d": "Abertura e exterior"
+    "u": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-04112026/",
+    "d": "Decisão do BC"
    },
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-074-e-aproxima-se-de-r-550-em-dia-de-cautela-fiscal",
-    "d": "Seis quedas seguidas"
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/copom-mantem-taxa-selic-e-juros-ficam-em-1375-ao-ano",
+    "d": "Voto unânime"
+   },
+   {
+    "n": "Safra – O Especialista",
+    "u": "https://oespecialista.safra.com.br/copom-juros-pos-eleicao/",
+    "d": "Comunicado e fiscal"
    },
    {
     "n": "O Tempo",
-    "u": "https://otempo.com.br/economia/2026/11/4/mercado-aposta-que-copom-vai-interromper-hoje-sequencia-de-cortes-na-taxa-selic",
-    "d": "Aposta no Copom"
+    "u": "https://www.otempo.com.br/economia/2026/11/4/copom-mantem-taxa-selic-em-13-75-e-interrompe-sequencia-de-cortes",
+    "d": "Fim dos cortes"
    },
    {
-    "n": "Mercado Hoje",
-    "u": "https://mercadohoje.uai.com.br/2026/11/04/noticias-hoje-04-11-2026",
-    "d": "Resumo do dia"
+    "n": "Agrolink",
+    "u": "https://www.agrolink.com.br/noticias/ibovespa-sobe-1-15--e-dolar-fecha-a-r--5-45-nesta-quarta-feira_520587.html",
+    "d": "Fechamento do mercado"
+   },
+   {
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-cria-1213-mil-postos-de-trabalho-em-setembro-aponta-caged",
+    "d": "Emprego em setembro"
    }
   ]
  },
@@ -213,8 +218,8 @@
     {
      "kicker": "Congresso",
      "quando": "Hoje",
-     "titulo": "Depois da PEC da Segurança, governo e oposição negociam votar a redução da maioridade penal ainda em novembro",
-     "resumo": "Aprovada no Senado na terça por 73 a 0 e 75 a 0, a PEC da Segurança Pública segue para promulgação sem mudar a idade penal, tema que foi separado do texto. Alcolumbre prometeu votar a proposta da Câmara um dia depois de os deputados a aprovarem; na Câmara, a comissão especial, relatada por Mendonça Filho (PL-PE), reúne-se nesta tarde e quer votar o parecer ainda neste mês.",
+     "titulo": "Alcolumbre recua de acordo e decide que a redução da maioridade penal começará pela Câmara",
+     "resumo": "Na terça, dois senadores do MDB mudaram o voto na PEC da Segurança com a promessa de que a maioridade penal seria votada em seguida no Senado; nesta quarta, Davi Alcolumbre desfez o acerto, pediu desculpas ao líder Eduardo Braga e disse querer relação harmoniosa com Hugo Motta. A PEC da Segurança segue para promulgação, e a comissão especial da Câmara, relatada por Mendonça Filho (PL-PE), quer votar o parecer ainda neste mês.",
      "lados": [
       {
        "quem": "Governo e PT",
@@ -231,20 +236,54 @@
      },
      "fontes": [
       {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/politica/alcolumbre-maioridade-penal-senado-acordo-votacao/"
+      },
+      {
+       "n": "Portal de Prefeitura",
+       "u": "https://portaldeprefeitura.com.br/bastidores-da-politica/reducao-da-maioridade-penal-pode-voltar-a-pauta-no-senado-entenda/635430/"
+      },
+      {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/politica/governo-e-oposicao-articulam-para-votar-reducao-da-maioridade-nesta-semana/"
       },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/brasil/senado-votara-maioridade-penal-um-dia-apos-camara-diz-alcolumbre"
+      }
+     ]
+    },
+    {
+     "kicker": "Planalto",
+     "quando": "Hoje",
+     "titulo": "Lula prepara pronunciamento para o fim de semana, e aliados divergem sobre o peso do ajuste fiscal",
+     "resumo": "Segundo a imprensa, o vídeo deve reafirmar as promessas de campanha e o cumprimento das metas fiscais já fixadas, numa tentativa de acalmar o mercado depois da queda da bolsa e da alta do dólar. A data não foi confirmada pelo Planalto.",
+     "lados": [
+      {
+       "quem": "Aliados que pedem sinal fiscal",
+       "txt": "Integrantes do governo e parlamentares da base defendem que Lula reforce o compromisso com o equilíbrio das contas; o ministro da Fazenda, Dario Durigan, já havia sinalizado medidas para responder ao mercado."
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal"
+       "quem": "Aliados contrários a ajuste",
+       "txt": "Ministros como José Guimarães e Guilherme Boulos, além de nomes do PT e do PSOL, dizem que não há pacote de cortes em discussão e que a agenda social aprovada nas urnas deve prevalecer."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "PlatôBR",
+       "u": "https://platobr.com.br/em-pronunciamento-lula-vai-priorizar-promessas-de-campanha-mas-com-responsabilidade-fiscal"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/economia/macroeconomia/aliados-lula-pronunciamento-equilibrio-fiscal"
       },
       {
        "n": "Gazeta do Povo",
-       "u": "https://gazetadopovo.com.br/republica/senado-aprova-plano-federal-para-reforcar-combate-ao-crime-organizado-no-brasil"
+       "u": "https://www.gazetadopovo.com.br/economia/aliados-lula-rejeitam-ajuste-fiscal-contas-publicas/"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/brasil/aliados-pedem-que-lula-defenda-equilibrio-fiscal-em-pronunciamento/"
       }
      ]
     },
@@ -293,26 +332,6 @@
      ]
     },
     {
-     "kicker": "Relações exteriores",
-     "quando": "Hoje",
-     "titulo": "Planalto vê na derrota republicana uma chance de retomar a negociação das tarifas com os EUA",
-     "resumo": "As conversas sobre o tarifaço estão paradas desde 30 de setembro, e o governo espera uma lista de pedidos de Washington para avançar. Integrantes do governo avaliam que um Congresso democrata reduz a margem de Trump e pode favorecer temas como a regulação das big techs, mas dizem acompanhar o resultado com cautela.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/brasil-espera-mudar-relacao-com-eua-apos-eleicoes-americanas/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/cafe-com-a-gazeta/governo-lula-teme-reacao-de-trump-apos-possivel-vitoria-democrata-nos-eua/"
-      },
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/03/eleicoes-nos-eua-trump-brasil/"
-      }
-     ]
-    },
-    {
      "kicker": "Flávio Bolsonaro",
      "quando": "Ontem",
      "titulo": "Defesa de Flávio pede ao STF os passaportes de volta e o afastamento de Moraes; PF investiga a saída do país",
@@ -357,49 +376,57 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado e indicadores · Copom decide hoje",
+   "nota": "Mercado e indicadores · Selic mantida",
    "itens": [
     {
-     "kicker": "Copom",
+     "kicker": "Emprego",
      "quando": "Hoje",
-     "titulo": "Copom anuncia a Selic depois das 18h30 com mercado dividido entre pausa em 13,75% e corte para 13,5%",
-     "resumo": "O Focus apontava corte de 0,25 ponto, mas a alta do dólar desde a eleição e a piora das projeções de inflação levaram boa parte das casas a prever manutenção, o que interromperia uma série de cinco reduções. O IPCA em 12 meses está em 4,62%, acima do teto da meta, e duas cadeiras da diretoria do BC seguem vagas desde o fim de 2025.",
+     "titulo": "Brasil cria 121,3 mil vagas formais em setembro, 43,5% menos que um ano antes",
+     "resumo": "Serviços lideraram as contratações, seguidos por indústria, comércio e construção, enquanto a agropecuária fechou cerca de 4,4 mil postos; o Rio Grande do Sul foi o único estado com saldo negativo. De janeiro a setembro, o saldo é de 1,25 milhão de vagas, queda de 27,9% em relação ao mesmo período de 2025, e o salário médio de admissão ficou em R$ 2.429.",
      "foto": {
-      "src": "https://imagens.ebc.com.br/15adY8ZKr12NpZ2PrRKtRipWPqI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_mcajr_abr_0104222280_0.jpg?itok=cZ5GbjQe",
-      "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/za_Jb2cGMUue4iPl9AlTZfSPpyc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/carteira-de-trabalho-digital_mcamgo_abr_240620211818-6.jpg?itok=EWG1Ra5a",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/copom-decide-nesta-quarta-feira-se-corta-ou-mantem-taxa-selic"
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-cria-1213-mil-postos-de-trabalho-em-setembro-aponta-caged"
       },
       {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/economia/2026/11/4/mercado-aposta-que-copom-vai-interromper-hoje-sequencia-de-cortes-na-taxa-selic"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/11/04/brasil-cria-1213-mil-postos-de-trabalho-em-setembro-aponta-caged.html"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/copom-decide-selic-nesta-quarta-feira-com-mercado-dividido-entre-manutencao-e-corte-dos-juros/"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/caged-brasil-cria-1213-mil-vagas-em-setembro-mas-perde-ritmo/"
       },
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/economia/decisao-copom-manutencao-taxa-selic-pressao-fiscal/"
+       "n": "Eu Quero Investir",
+       "u": "https://euqueroinvestir.com/economia/caged-pais-cria-1213-mil-empregos-abaixo-das-expectativas-do-mercado"
       }
      ]
     },
     {
      "kicker": "Bolsa",
      "quando": "Hoje",
-     "titulo": "Petrobras cai mais de 3% com o recuo do petróleo, enquanto bancos e Vale sustentam a alta do Ibovespa",
-     "resumo": "O Brent recuava mais de 3%, para cerca de US$ 100, e as ações ordinárias e preferenciais da estatal perdiam pouco mais de 3% ao meio-dia. Do outro lado, Bradesco, Itaú e Vale subiam mais de 1,5%, e os juros futuros, que oscilaram na abertura, passaram a cair ao longo da curva.",
+     "titulo": "Ibovespa fecha em alta de 1,15% e interrompe seis quedas; dólar recua para R$ 5,45",
+     "resumo": "A bolsa terminou o dia em 167.434 pontos, puxada por bancos e Vale, enquanto a Petrobras caiu com o recuo do petróleo. O dólar à vista perdeu 0,64%, acompanhando a queda da moeda americana no exterior depois da vitória democrata nas eleições dos EUA.",
      "fontes": [
       {
-       "n": "Bom Dia Mercado",
-       "u": "https://www.bomdiamercado.com.br/mercado-financeiro/giro-dos-mercados/giro-das-12h-ibovespa-sobe-com-bancos-e-vale-apesar-de-tombo-da-petrobras/"
+       "n": "Agrolink",
+       "u": "https://www.agrolink.com.br/noticias/ibovespa-sobe-1-15--e-dolar-fecha-a-r--5-45-nesta-quarta-feira_520587.html"
       },
       {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026/"
+       "u": "https://infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04112026"
+      },
+      {
+       "n": "TV Sim",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/04/ibovespa-sobe-dolar-cai-apos-vitoria-democrata-eua"
+      },
+      {
+       "n": "Bom Dia Mercado",
+       "u": "https://www.bomdiamercado.com.br/mercado-financeiro/giro-dos-mercados/giro-das-12h-ibovespa-sobe-com-bancos-e-vale-apesar-de-tombo-da-petrobras/"
       }
      ]
     },
@@ -474,29 +501,37 @@
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Vendaval e granizo atingem 661 casas em 19 cidades de Santa Catarina, e duas decretam emergência",
-     "resumo": "Fraiburgo, com cerca de 400 imóveis danificados, e Paraíso decretaram situação de emergência; o aeroporto de Chapecó teve partes da estrutura destruídas pelo vento. O Inmet mantém alerta vermelho para todo o estado e partes do Paraná e do Rio Grande do Sul até a meia-noite, com risco de chuva acima de 100 mm e ventos de mais de 100 km/h.",
+     "titulo": "Tornados atingem Chapecó e Xanxerê, destroem parte do aeroporto e temporais já afetam 58 cidades de SC",
+     "resumo": "A Defesa Civil confirmou os dois tornados no fim da manhã, com rajadas de até 126 km/h medidas pelo Inmet em Chapecó; o aeroporto suspendeu pousos e decolagens por tempo indeterminado. Desde domingo, chuva, vento e granizo danificaram 1.438 casas no estado, e quatro municípios decretaram emergência; os bombeiros não registram mortes.",
      "fontes": [
       {
-       "n": "TN Sul",
-       "u": "https://tnsul.com/2026/11/04/vendaval-e-granizo-atingem-19-municipios-e-afetam-661-residencias-em-sc/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sul/sc/tornados-destroem-cidades-aeroporto-e-cancelam-voos-em-sc-veja-imagens/"
       },
       {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/tempo/ciclone-coloca-tres-estados-em-alerta-vermelho-para-tempestades-com-chuva-acima-de-100-mm-e-ventos-superiores-a-100-km-h/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/tornados-atingem-chapeco-e-xanxere-e-deixam-estragos-em-sc"
       },
       {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/tempo/inmet-emite-alerta-vermelho-para-tempestades-em-santa-catarina-nesta-quarta-feira/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/brasil/cidades/aeroporto-de-chapeco-tem-estruturas-destruidas-por-passagem-de-tornado-em-sc,dce1302d5a31d975d644fe948280bbcasck30f2m.html"
+      },
+      {
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/brasil/2026/11/04/tornado-destroi-parte-do-aeroporto-de-chapeco-e-voos-sao-suspensos-em-santa-catarina/"
       }
      ]
     },
     {
      "kicker": "Santa Catarina",
      "quando": "Hoje",
-     "titulo": "Granizo destrói lavouras no Planalto Norte, e Canoinhas troca aulas presenciais por atividades remotas",
-     "resumo": "Itaiópolis, Papanduva e Monte Castelo tiveram plantações atingidas entre a noite de terça e a madrugada. A Defesa Civil pôs Joinville, Jaraguá do Sul, São Francisco do Sul e outras sete cidades em alerta laranja para raios, rajadas e alagamentos.",
+     "titulo": "Rio Itajaí-Mirim pode chegar a 7,15 metros esta noite e ameaça alagar bairros de Brusque",
+     "resumo": "A Defesa Civil da cidade projetou o pico para perto das 23h, com base na cheia registrada em Botuverá, e alguns pontos já tinham água nas ruas no fim da tarde. Moradores de bairros como Centro, Santa Terezinha e Jardim Maluche devem acompanhar os boletins; no Planalto Norte, o granizo da madrugada destruiu lavouras.",
      "fontes": [
+      {
+       "n": "Rádio Cidade Brusque",
+       "u": "https://rc.fm.br/noticia/urgente-rio-itajai-mirim-pode-chegar-a-715-metros-nesta-noite-e-ameaca-alagar-ruas-de-brusque"
+      },
       {
        "n": "ND Mais",
        "u": "https://ndmais.com.br/tempo/granizo-devasta-plantacoes-temporais-ameacam-cidades-alagamentos/"
@@ -558,6 +593,10 @@
      "resumo": "Projeções da imprensa americana deram à oposição a maioria nas duas casas, com viradas no Senado em estados como Texas, Carolina do Norte, Ohio e Kansas; alguns resultados, como o do Maine, podem levar dias para ser oficializados. Com o Congresso sob controle democrata nos dois últimos anos de mandato, Trump passa a depender de acordos para aprovar orçamentos e nomeações.",
      "fontes": [
       {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/democratas-conquistam-congresso-em-esmagadora-rejeicao-trump"
+      },
+      {
        "n": "Gazeta do Povo",
        "u": "https://www.gazetadopovo.com.br/mundo/derrota-trump-republicanos-perdem-controle-camara-senado-eua/"
       },
@@ -568,29 +607,33 @@
       {
        "n": "RTP",
        "u": "https://www.rtp.pt/noticias/mundo/estados-unidos-mudaram-de-cor-democratas-vencem-as-eleicoes-intercalares_e1776677"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/trump-reconhece-derrota-republicana-e-admite-negociar-com-democratas-no-congresso/"
       }
      ]
     },
     {
      "kicker": "Estados Unidos",
      "quando": "Hoje",
-     "titulo": "Trump diz aceitar o resultado e prevê acordo com democratas, mas publica imagem de boné com a palavra \"veto\"",
-     "resumo": "Em entrevistas ao New York Times e à Fox News, o presidente disse que os democratas fizeram uma campanha forte e que pretende trabalhar com eles; nas redes, afirmou que não estava na cédula. Ele admitiu que a guerra com o Irã, cuja condução é desaprovada por 65% dos americanos segundo o Pew Research Center, pode ter pesado contra os republicanos.",
+     "titulo": "Trump admite que a guerra com o Irã pesou na derrota e mantém Hegseth; democratas pedem o fim do conflito",
+     "resumo": "Questionado sobre a avaliação do vice JD Vance, o presidente disse que, em grande parte, a alta da gasolina causada pela guerra explica o resultado, mas descartou demitir o secretário de Guerra, Pete Hegseth. Ele também afirmou que pretende trabalhar com o novo Congresso, apesar de publicar nas redes a imagem de um boné com a palavra \"veto\".",
      "lados": [
       {
        "quem": "Trump e republicanos",
-       "txt": "O presidente diz que o resultado não é um julgamento do governo, que os republicanos teriam vencido se ele fosse candidato e que defende a ação militar no Irã."
+       "txt": "O presidente diz que o resultado não é um julgamento do governo, que ele não estava na cédula e que defende a ação militar no Irã."
       },
       {
        "quem": "Democratas",
-       "txt": "Hakeem Jeffries, cotado para presidir a Câmara, promete uma agenda focada no custo de vida e investigações sobre o governo; disse que o partido não decidiu sobre novo impeachment, mas não o descartou."
+       "txt": "Hakeem Jeffries e Chuck Schumer pedem o fim da guerra; Schumer diz que os americanos não sabem por que o país luta no Irã, e a nova maioria promete foco no custo de vida."
       }
      ],
      "fontes": [
+      {
+       "n": "O Tempo / AFP",
+       "u": "https://otempo.com.br/mundo/2026/11/4/sob-pressao-trump-admite-que-a-guerra-com-ira-provocou-derrota-nas-eleicoes"
+      },
+      {
+       "n": "ICL Notícias",
+       "u": "https://iclnoticias.com.br/trump-admite-que-guerra-contra-o-ira-contribuiu"
+      },
       {
        "n": "Jovem Pan",
        "u": "https://jovempan.com.br/mundo/trump-reconhece-derrota-republicana-e-admite-negociar-com-democratas-no-congresso/"
@@ -598,18 +641,6 @@
       {
        "n": "O Povo",
        "u": "https://www.opovo.com.br/noticias/mundo/2026/11/04/democratas-retomam-o-controle-do-congresso-e-impoem-derrota-historica-a-trump.html"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/apos-citar-veto-trump-diz-que-aceitara-derrota-nas-eleicoes"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/4/midterms-nos-eua-em-derrota-historica-de-trump-democratas-retomam-controle-do-congresso"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/4/trump-diz-que-respeitara-resultado-das-eleicoes-e-abre-espaco-para-dialogo-com-democratas"
       }
      ]
     },
@@ -630,6 +661,26 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/mundo/eleicoes-nos-eua-apuracao-de-votos-midterms"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Novo ataque russo deixa Kiev sem água e luz por horas, enquanto buscas continuam em Zaporizhzhia",
+     "resumo": "A Rússia lançou 310 drones na madrugada desta quarta, e a Força Aérea ucraniana diz ter derrubado 272; o abastecimento na capital foi restabelecido ao longo do dia. No vilarejo de Komyshuvakha, onde uma escola usada para ajuda humanitária foi bombardeada na segunda, Zelensky fala em 40 mortos; em Bruxelas, EUA, europeus e Otan discutem garantias para um eventual acordo de paz.",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC / AP",
+       "u": "https://www.dgabc.com.br/Noticia/4366758/ataques-da-russia-deixam-capital-da-ucrania-sem-agua-e-energia-buscas-continuam-no-sul"
+      },
+      {
+       "n": "Vatican News",
+       "u": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-russia-ataques-hospitais-escolas-infraestrutura.html"
+      },
+      {
+       "n": "Notibrasil / EFE",
+       "u": "https://www.notibrasil.com.br/politica/noticia-amp-zelenski-eleva-40-numero-mortos-em-um-ataque-russo-zaporijia-lamenta-escassa-reaco-internacional-20261104151159.html"
       }
      ]
     },
@@ -656,30 +707,6 @@
        "u": "https://observador.pt/2026/11/03/oposicao-israelita-concorda-em-formar-governo-nas-condicoes-de-eisenkot/"
       }
      ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Zelensky eleva para 40 os mortos em ataque russo a escola usada para ajuda humanitária em Zaporizhzhia",
-     "resumo": "Cerca de 30 pessoas seguem desaparecidas no vilarejo atingido na segunda (2), segundo o presidente ucraniano, que pediu mais defesa aérea e criticou a reação internacional. A região está em luto oficial até quinta; Moscou não comentou o ataque.",
-     "fontes": [
-      {
-       "n": "Notibrasil / EFE",
-       "u": "https://www.notibrasil.com.br/politica/noticia-amp-zelenski-eleva-40-numero-mortos-em-um-ataque-russo-zaporijia-lamenta-escassa-reaco-internacional-20261104151159.html"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia"
-      },
-      {
-       "n": "O Povo / AFP",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/03/ucrania-teme-dezenas-de-mortos-sob-escombros-apos-um-dos-piores-bombardeios-da-guerra.html"
-      },
-      {
-       "n": "ECO",
-       "u": "https://eco.sapo.pt/2026/11/03/zelensky-acusa-russia-de-destruir-perspetiva-de-paz-apos-ataque-com-29-mortos/"
-      }
-     ]
     }
    ]
   },
@@ -692,7 +719,7 @@
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Flamengo recebe o Grêmio e pode abrir seis pontos na liderança; à noite, São Paulo e Corinthians fazem clássico",
+     "titulo": "Flamengo recebe o Grêmio às 19h30 e pode abrir seis pontos na liderança; São Paulo e Corinthians fazem clássico às 21h30",
      "resumo": "O líder tem 73 pontos, três a mais que o Palmeiras, que só joga na quinta contra o Remo; a partida no Maracanã começa às 19h30. O Grêmio, 15º com 37 pontos, está um à frente do Corinthians, primeiro time da zona de rebaixamento, que enfrenta o São Paulo às 21h30.",
      "fontes": [
       {
@@ -712,32 +739,40 @@
     {
      "kicker": "Seleção sub-17",
      "quando": "Hoje",
-     "titulo": "Seleção feminina sub-17 enfrenta a Nigéria em busca de vaga inédita na final do Mundial",
-     "resumo": "Invicto, o time da técnica Rilany Silva empatou com Gana, eliminou a Polônia nos pênaltis e virou sobre a China nas quartas, com dois gols de Helena. A semifinal é em Salé, no Marrocos.",
+     "titulo": "Seleção feminina sub-17 perde para a Nigéria por 3 a 1 e vai disputar o bronze no Mundial",
+     "resumo": "Em Rabat, as nigerianas marcaram com Queen Joseph e duas vezes com Bashiru no segundo tempo, e Greise Kelly descontou no fim. O Brasil enfrenta a Coreia do Norte no sábado, às 11h; a final será entre Japão, que eliminou as norte-coreanas nos pênaltis, e Nigéria.",
      "fontes": [
       {
-       "n": "TV Sim",
-       "u": "https://tvsimbrasil.com.br/brasil/esportes/noticia/2026/11/04/brasil-nigeria-sub17-vaga-inedita-final-mundial"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/brasil-perde-para-a-nigeria-na-semifinal-da-copa-do-mundo-feminina-sub-17"
       },
       {
-       "n": "Super Rádio Tupi",
-       "u": "https://www.tupi.fm/esportes/brasil-semifinal-mundial-sub-17-feminino/"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/brasil/brasil-perde-nigeria-semifinal-copa-mundo-feminina-sub-17/"
+      },
+      {
+       "n": "Olimpíada Todo Dia",
+       "u": "https://www.olimpiadatododia.com.br/futebol/771730-brasil-nigeria-semifinal-copa-do-mundo-sub-17"
       }
      ]
     },
     {
      "kicker": "Champions League",
      "quando": "Hoje",
-     "titulo": "Bayern vence o Atlético em Madri e PSG goleia o Villarreal; nesta quarta, Real, Liverpool, City e Arsenal jogam fora",
-     "resumo": "Na terça, o Barcelona também venceu o Aston Villa, a Inter bateu o Feyenoord fora de casa e Manchester United e Roma empataram. A quarta rodada da fase de liga termina nesta quarta, com jogos às 14h45 e às 17h.",
+     "titulo": "Liverpool perde de virada para o Fenerbahçe, e Real Madrid vence o AEK com gol de Valverde no fim",
+     "resumo": "Em Istambul, o Liverpool chegou a liderar duas vezes, com Nyoni e Isak, mas sofreu a primeira derrota na competição: 3 a 2, com gol decisivo de Muriqi. Em Atenas, o Real esteve atrás duas vezes e virou para 3 a 2, com gols de Bellingham, Mbappé e Valverde; a rodada também teve RB Leipzig x Manchester City e Slavia Praga x Arsenal.",
      "fontes": [
       {
-       "n": "Grupo Animal",
-       "u": "https://grupoanimal.mx/deportes/champions-league-resultados-hoy-3-noviembre-2026-jornada-4"
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/esportes/real-vira-no-final-e-arranca-vitoria-sobre-aek-athenas-no-fim-pela-champions-liverpool-perde-1.1190499"
       },
       {
-       "n": "La Nación",
-       "u": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid03112026/"
+       "n": "Yahoo Sports",
+       "u": "https://sports.yahoo.com/articles/liverpool-beaten-fenerbah-e-madrid-194829867.html"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/com-city-x-leipzig-nove-jogos-encerram-a-quarta-rodada-da-champions-league"
       }
      ]
     },
@@ -798,6 +833,42 @@
    "nota": "",
    "itens": [
     {
+     "kicker": "Dengue",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde prevê alta de 20% a 40% nos casos de dengue em 2027, com influência do El Niño",
+     "resumo": "O ministro Alexandre Padilha disse que a queda de casos nos últimos dois anos pode ter deixado mais pessoas vulneráveis a outros sorotipos. A vacina do Butantan, suspensa em junho após relatos de reações graves, segue em análise e só poderia voltar ao SUS a partir do ano que vem; hoje o país registra cerca de 489 mil casos prováveis em 2026.",
+     "fontes": [
+      {
+       "n": "O Tempo / Folhapress",
+       "u": "https://www.otempo.com.br/saude-e-bem-estar/2026/11/4/el-nino-pode-elevar-casos-de-dengue-em-ate-40-em-2027-preve-ministerio-da-saude"
+      },
+      {
+       "n": "A Gazeta",
+       "u": "https://www.agazeta.com.br/brasil/ministerio-da-saude-preve-alta-da-dengue-em-2027-e-quer-voltar-a-usar-vacina-do-butantan-1126"
+      },
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/bem-viver/2026/11/7533219-ministerio-da-saude-projeta-alta-da-dengue-em-2027.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Mpox",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde envia mais 2 mil doses de vacina contra mpox ao Rio, que já supera o dobro dos casos de 2025",
+     "resumo": "Com o reforço, o estado soma 3,5 mil doses neste ano; a vacinação prioriza pessoas vivendo com HIV com imunidade mais baixa, em duas doses com intervalo de 28 dias. A secretaria estadual contabiliza 269 casos confirmados até 3 de novembro, ante 119 em todo o ano passado, sem mortes.",
+     "fontes": [
+      {
+       "n": "Ministério da Saúde",
+       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-reforca-vacinacao-e-vigilancia-da-mpox-no-rio-de-janeiro"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/saude/mpox-rio-de-janeiro-ja-tem-mais-que-o-dobro-dos-casos-registrados-em-2025-1.1190077"
+      }
+     ]
+    },
+    {
      "kicker": "Novembro Azul",
      "quando": "Hoje",
      "titulo": "Câncer de próstata matou cerca de 50 homens por dia no Brasil em 2025, e urologistas reforçam o rastreio",
@@ -810,18 +881,6 @@
       {
        "n": "Jornal Contexto",
        "u": "https://portalcontexto.com/novembro-azul-cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025/"
-      }
-     ]
-    },
-    {
-     "kicker": "Mpox",
-     "quando": "Ontem",
-     "titulo": "Estado do Rio já tem mais que o dobro dos casos de mpox registrados em todo o ano passado",
-     "resumo": "Foram 269 casos confirmados de janeiro até 3 de novembro, ante 119 em 2025, sem mortes; só na capital são 196. A Secretaria de Saúde orienta evitar contato com lesões de pessoas com suspeita da doença e procurar atendimento ao notar feridas, e lembra que a vacina no SUS é restrita a grupos específicos.",
-     "fontes": [
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/saude/mpox-rio-de-janeiro-ja-tem-mais-que-o-dobro-dos-casos-registrados-em-2025-1.1190077"
       }
      ]
     },
@@ -842,18 +901,6 @@
       {
        "n": "Diário do Comércio",
        "u": "https://diariodocomercio.com.br/economia/anvisa-interdita-porto-santos/"
-      }
-     ]
-    },
-    {
-     "kicker": "OMS",
-     "quando": "02/11",
-     "titulo": "OMS abre nova rodada para concluir o acordo de pandemias, travado no anexo sobre vírus e vacinas",
-     "resumo": "Tedros Adhanom pediu aos países que fechem o sistema de acesso a patógenos e partilha de benefícios, sem o qual o tratado aprovado em 2025 não entra em vigor. Países ricos e em desenvolvimento divergem sobre a divisão de vacinas, testes e remédios; a reunião em Genebra vai até 13 de novembro.",
-     "fontes": [
-      {
-       "n": "Agência Brasil / Lusa",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/oms-alerta-para-urgencia-de-um-tratado-internacional-sobre-pandemias"
       }
      ]
     }
@@ -886,6 +933,42 @@
      ]
     },
     {
+     "kicker": "Pé-de-Meia",
+     "quando": "Hoje",
+     "titulo": "MEC anuncia Pé-de-Meia Universitário a partir de 2027 e ampliação do benefício a todo o ensino médio público",
+     "resumo": "Segundo o ministro Leonardo Barchini, universitários da rede pública inscritos no CadÚnico receberão R$ 700 por mês durante o ano letivo, mais um depósito de R$ 250 em poupança, que pode render cerca de R$ 10 mil ao fim de quatro anos. No ensino médio, a partir de março de 2027, o programa deixa de exigir o CadÚnico.",
+     "fontes": [
+      {
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202611/leonardo-barchini-201cestamos-comprometidos-a-expandir-o-pe-de-meia-para-todos-os-estudantes-da-rede-publica201d"
+      },
+      {
+       "n": "News Rondônia",
+       "u": "https://newsrondonia.com.br/educacao/2026/11/04/mec-anuncia-lancamento-do-pe-de-meia-universitario-para-2027-e-universalizacao-do-beneficio-no-ensino-medio"
+      },
+      {
+       "n": "A Gazeta de Dourados",
+       "u": "https://www.agazetadedourados.com.br/noticias/educacao/pe-de-meia-universitario-deve-comecar-em-2027-para-aluno-do-cadunico/04/11/2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Santa Catarina",
+     "quando": "Hoje",
+     "titulo": "Santa Catarina suspende aulas presenciais da rede estadual nesta quarta e quinta por causa dos temporais",
+     "resumo": "O governo estadual tomou a decisão diante do alerta de chuva forte, vendaval e granizo para todas as regiões. Redes municipais, como a de Canoinhas, também adotaram atividades remotas.",
+     "fontes": [
+      {
+       "n": "De Olho na Ilha",
+       "u": "https://www.deolhonailha.com.br/florianopolis/noticias/governo-sc-suspende-aulas-rede-estadual-4-e-5-novembro-2026-eventos-climaticos/"
+      },
+      {
+       "n": "Engeplus",
+       "u": "https://engeplus.com.br/noticia/aulas-da-rede-estadual-sao-suspensas-em-toda-santa-catarina"
+      }
+     ]
+    },
+    {
      "kicker": "Fies",
      "quando": "Ontem",
      "titulo": "Prazo para as 50 mil vagas remanescentes do Fies terminou nesta terça",
@@ -894,23 +977,6 @@
       {
        "n": "A Crítica / Agência Brasil",
        "u": "https://www.acritica.com/educacao/inscricoes-para-vagas-remanescentes-do-fies-terminam-na-terca-feira/"
-      }
-     ]
-    },
-    {
-     "kicker": "Universidades",
-     "quando": "01/11",
-     "titulo": "MEC reúne denúncias de violência política em universidades e institutos federais e envia casos à PF",
-     "resumo": "As queixas chegam pela ouvidoria ou pelas próprias instituições e serão repassadas à Polícia Federal e à AGU. A medida responde a ameaças contra campi, estudantes e professores que circularam nas redes antes do primeiro turno, algumas com símbolos nazistas; o ministério não informou quantos casos recebeu.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/kp3OysGDiU273HnkRKLR8WkCikg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf03707.jpg?itok=f_mDXYWw",
-      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
-     },
-     "destaque": false,
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-reune-denuncias-de-violencia-politica-e-encaminha-a-pf"
       }
      ]
     }
@@ -1015,18 +1081,26 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
-     "kicker": "Luto",
-     "quando": "Ontem",
-     "titulo": "Morre aos 48 anos Janaína Barbosa, ex-apresentadora do \"TV Fama\"",
-     "resumo": "A morte foi confirmada pelo apresentador Otávio Mesquita, com quem ela foi casada; a causa não foi divulgada. Janaína ficou conhecida no início dos anos 2000 ao apresentar o programa da RedeTV! ao lado de Nelson Rubens e atuou na série \"Casos e Acasos\", da Globo.",
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre aos 93 anos o cineasta italiano Tinto Brass, diretor de \"Calígula\"",
+     "resumo": "A morte foi comunicada pela família à agência Ansa, sem causa divulgada. Nascido em Milão, Brass ficou conhecido por filmes eróticos com tom de comédia e renegou a versão de \"Calígula\" (1979) lançada com cenas explícitas filmadas sem sua aprovação; o filme foi proibido no Brasil durante a ditadura.",
      "fontes": [
       {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4366762/morre-aos-48-anos-janaina-barbosa-ex-apresentadora-do-tv-fama"
+       "n": "O Tempo / Folhapress",
+       "u": "https://www.otempo.com.br/entretenimento/2026/11/4/morre-cineasta-tinto-brass-diretor-do-polemico-caligula-aos-93-anos"
       },
       {
-       "n": "Correio",
-       "u": "https://correio24horas.com.br/em-alta/ex-apresentadora-do-tv-fama-janaina-barbosa-morre-aos-48-anos-1126"
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4366860/morre-tinto-brass-diretor-de-caligula-aos-93-anos"
+      },
+      {
+       "n": "Rolling Stone Brasil",
+       "u": "https://rollingstone.com.br/cinema/tinto-brass-diretor-de-caligula-grande-nome-do-cinema-erotico-morre-aos-93-anos/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/entretenimento/morre-tinto-brass-diretor-de-caligula-e-icone-do-cinema-erotico"
       }
      ]
     },
@@ -1061,6 +1135,22 @@
      ]
     },
     {
+     "kicker": "Luto",
+     "quando": "Ontem",
+     "titulo": "Morre aos 48 anos Janaína Barbosa, ex-apresentadora do \"TV Fama\"",
+     "resumo": "A morte foi confirmada pelo apresentador Otávio Mesquita, com quem ela foi casada; a causa não foi divulgada. Janaína ficou conhecida no início dos anos 2000 ao apresentar o programa da RedeTV! ao lado de Nelson Rubens e atuou na série \"Casos e Acasos\", da Globo.",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4366762/morre-aos-48-anos-janaina-barbosa-ex-apresentadora-do-tv-fama"
+      },
+      {
+       "n": "Correio",
+       "u": "https://correio24horas.com.br/em-alta/ex-apresentadora-do-tv-fama-janaina-barbosa-morre-aos-48-anos-1126"
+      }
+     ]
+    },
+    {
      "kicker": "Morte",
      "quando": "Ontem",
      "titulo": "Morre aos 82 anos a atriz Eliana Rocha, a Luz Divina de \"Pé na Cova\"",
@@ -1085,30 +1175,6 @@
       {
        "n": "Correio Braziliense / TV Prime",
        "u": "https://tvprime.correiobraziliense.com.br/noticia/412135/celebridades/triste-noticia-confirmada-morre-aos-72-anos-querida-atriz-de-novela-da-globo-03112026"
-      }
-     ]
-    },
-    {
-     "kicker": "Literatura",
-     "quando": "Ontem",
-     "titulo": "Cristina Fernández Cubas ganha o Prêmio Cervantes, e Philippe Jaenada leva o Goncourt na França",
-     "resumo": "A contista espanhola, autora de \"Mi hermana Elba\", é a sétima mulher a receber o principal prêmio da língua espanhola, de 125 mil euros. Em Paris, Jaenada venceu com um romance que reconstitui um crime não resolvido de 1949, e o Renaudot foi para François-Henri Désérable.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/03/cristina-fernandez-cubas-galardoada-com-o-premio-cervantes-2026"
-      },
-      {
-       "n": "Milenio",
-       "u": "https://www.milenio.com/espectaculos/famosos/cristina-fernandez-cubas-gana-premio-cervantes-2026"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/03/philippe-jaenada-wins-2026-prix-goncourt-for-novel-linconnue-du-quai-de-javel"
-      },
-      {
-       "n": "Connexion",
-       "u": "https://www.connexionfrance.com/news/prix-goncourt-2026-frances-top-literary-prize-awarded-to-philippe-jaenada/826090"
       }
      ]
     }
