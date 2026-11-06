@@ -1,33 +1,33 @@
 {
- "data": "Quinta-feira, 5 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "05/11/2026 · 19h15 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 18h00",
- "fontes": 73,
+ "data": "Sexta-feira, 6 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "06/11/2026 · 07h04 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de 18h00 (quinta)",
+ "fontes": 77,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento",
+   "nome": "Ibovespa · fechamento 5/11",
    "valor": "166.191 pts",
    "var": "−0,82%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · fechamento",
+   "nome": "Dólar comercial · fechamento 5/11",
    "valor": "R$ 5,489",
    "var": "+0,67%",
    "dir": "up"
   },
   {
-   "nome": "Nasdaq · fechamento",
-   "valor": "24.315 pts",
-   "var": "−5,52%",
+   "nome": "S&P 500 · fechamento 5/11",
+   "valor": "7.354 pts",
+   "var": "−4,36%",
    "dir": "down"
   },
   {
-   "nome": "S&P 500 · fechamento",
-   "valor": "7.354 pts",
-   "var": "−4,36%",
+   "nome": "Dow Jones · fechamento 5/11",
+   "valor": "51.523 pts",
+   "var": "−3,44%",
    "dir": "down"
   },
   {
@@ -39,23 +39,23 @@
  ],
  "agenda": [
   {
-   "hora": "Qui 5/11 · 19h30 e 21h30",
-   "txt": "Brasileirão: Palmeiras x Remo, no Nubank Parque, e Cruzeiro x Bahia fecham a 34ª rodada",
-   "cat": "esporte"
+   "hora": "Sex 6/11 · 10h",
+   "txt": "Senado do Paraguai retoma o julgamento político de Santiago Peña, que deve apresentar sua defesa",
+   "cat": "mundo"
   },
   {
-   "hora": "Qui 5/11 · noite",
-   "txt": "Flávio Bolsonaro discursa em jantar da CPAC em Mar-a-Lago (EUA)",
-   "cat": "politica"
+   "hora": "Sex 6/11 · 10h30",
+   "txt": "Relatório de emprego dos EUA (payroll), após o tombo das bolsas de Nova York",
+   "cat": "economia"
   },
   {
    "hora": "Sex 6/11",
-   "txt": "Relatório de emprego dos EUA (payroll) e chegada do papa Leão XIV a Montevidéu",
+   "txt": "Papa Leão XIV chega a Montevidéu e se reúne à noite com o presidente Yamandú Orsi",
    "cat": "mundo"
   },
   {
    "hora": "Sex 6 a dom 8/11",
-   "txt": "GP de São Paulo de F1 em Interlagos, com Bortoleto e Rafael Câmara; corrida no domingo às 14h",
+   "txt": "GP de São Paulo de F1 em Interlagos, com Bortoleto e a estreia de Rafael Câmara; corrida no domingo às 14h",
    "cat": "esporte"
   },
   {
@@ -64,9 +64,9 @@
    "cat": "educacao"
   },
   {
-   "hora": "Seg 9/11",
-   "txt": "Começa a COP31, na Turquia; Lula deve chegar no dia 10",
-   "cat": "ciencia"
+   "hora": "Dom 8 e seg 9/11",
+   "txt": "Herzog indica quem formará o governo de Israel; começa a COP31, na Turquia",
+   "cat": "mundo"
   }
  ],
  "acervo": [
@@ -163,44 +163,44 @@
  ],
  "manchete": {
   "kicker": "Paraguai",
-  "titulo": "Santiago Peña renuncia à Presidência do Paraguai em meio à crise do banco Ueno, e Câmara aprova o impeachment mesmo assim",
-  "resumo": "Em vídeo nas redes sociais, Peña disse que deixa o cargo pensando na estabilidade do país e pediu desculpas caso tenha falhado. Horas depois, os deputados aprovaram por 78 votos a acusação contra ele e rejeitaram a do vice, Pedro Alliana, que deve assumir.",
-  "entenda": "O Ueno, maior banco digital do Paraguai, com cerca de 3 milhões de clientes, entrou em liquidação na terça (3); o grupo que o controla teve Peña como sócio até março de 2025, segundo a Gazeta do Povo. A oposição acusa o presidente de conflito de interesses e de ter favorecido o banco, e o próprio Partido Colorado, liderado pelo ex-presidente Horacio Cartes, anunciou apoio ao processo. Peña nega irregularidades e, na quarta, promulgou lei para liberar em até 24 horas recursos retidos de clientes. A carta de renúncia ainda precisa ser analisada pelo Congresso, e o Senado decide se continua o julgamento político; uma condenação exige 30 dos 45 senadores.",
+  "titulo": "Senado do Paraguai rejeita a renúncia de Santiago Peña e retoma hoje o julgamento que pode cassá-lo",
+  "resumo": "Em vez de aceitar a carta de renúncia, os senadores mantiveram o processo de impeachment aprovado por 78 deputados, e a sessão foi marcada para as 10h desta sexta, quando Peña deve se defender. A condenação exige 30 dos 45 votos e tiraria dele o posto de senador vitalício.",
+  "entenda": "A crise começou na terça (3), quando o Banco Central do Paraguai declarou insolvente o Ueno Bank, do Grupo Vázquez, que tinha cerca de 3 milhões de clientes e perto de US$ 850 milhões em depósitos públicos, inclusive de fundos de previdência. Peña foi sócio da holding que controla o banco até março de 2025. A oposição o acusa de conflito de interesses, de mudar regras em benefício do banco e de direcionar recursos de aposentadorias para ele; Peña nega responsabilidade, diz que vai ficar no país e colaborar com as investigações. Pela Constituição, ex-presidentes viram senadores vitalícios com foro especial, e por isso parlamentares preferiram votar o impeachment a apenas aceitar a renúncia. Se Peña for afastado, o vice Pedro Alliana, do Partido Colorado, governa até agosto de 2028.",
   "fatos": [
-   "Peña afirmou que sua prioridade é a devolução do dinheiro dos depositantes; a Câmara fez duas sessões extraordinárias na quinta para analisar os pedidos contra ele e contra o vice.",
-   "Sem condenação no Senado e com a renúncia aceita, Peña pode ocupar uma cadeira de senador vitalício, como ex-presidente, segundo o Times Brasil.",
-   "O vice, Pedro Alliana, é ex-jogador de basquete e dirigente do Partido Colorado."
+   "O Ministério Público aponta empréstimos de mais de US$ 167 milhões a empresas ligadas ao grupo controlador sem garantias suficientes; oito executivos têm ordem de prisão e 27 pessoas foram acusadas formalmente.",
+   "A Câmara rejeitou o impeachment do vice Pedro Alliana por 48 votos a 30.",
+   "A Conmebol afirmou que a crise não afeta as finais da Libertadores e da Sul-Americana, marcadas para o Paraguai."
   ],
   "fontes": [
    {
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/internacional/congresso-paraguai-renuncia-santiago-pena/",
+    "d": "Sessão sobre a renúncia"
+   },
+   {
+    "n": "Agora no Vale",
+    "u": "https://agoranovale.com.br/noticias/mundo/senado-rejeita-renuncia-e-mantem-impeachment-de-presidente-do-paraguai/",
+    "d": "Senado mantém impeachment"
+   },
+   {
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/mundo/senadora-pede-condenacao-de-pena-para-evitar-que-ele-fuja-como-bolsonaro",
+    "d": "Debate no Senado"
+   },
+   {
     "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/mundo/santiago-pena-renuncia-a-presidencia-do-paraguai/",
-    "d": "Renúncia de Peña"
+    "u": "https://www.gazetadopovo.com.br/mundo/escandalo-no-ueno-bank-provoca-processo-de-impeachment-contra-santiago-pena/",
+    "d": "Crise do Ueno Bank"
    },
    {
-    "n": "Poder360",
-    "u": "https://www.poder360.com.br/poder-internacional/camara-do-paraguai-aprova-impeachment-de-santiago-pena/",
-    "d": "Votação na Câmara"
+    "n": "Diário do Centro do Mundo",
+    "u": "https://www.diariodocentrodomundo.com.br/renuncia-de-pena-fica-sem-decisao-e-senado-paraguaio-inicia-impeachment",
+    "d": "Renúncia sem decisão"
    },
    {
-    "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/mundo/santiago-pena-renunciou-por-que-o-congresso-ainda-vota-o-impeachment",
-    "d": "Próximos passos no Senado"
-   },
-   {
-    "n": "Terra",
-    "u": "https://www.terra.com.br/noticias/mundo/quem-assume-a-presidencia-do-paraguai-apos-renuncia-de-santiago-pena,cde76693750b10168e37d38bcbba30d0gltl1l6j.html",
-    "d": "Quem é o vice"
-   },
-   {
-    "n": "BP Money",
-    "u": "https://bpmoney.com.br/mundo/paraguai-pedro-alliana-presidente-apos-renuncia-pena/",
-    "d": "Crise do Ueno"
-   },
-   {
-    "n": "Revista Oeste",
-    "u": "https://revistaoeste.com/mundo/camara-do-paraguai-aprova-impeachment-de-pena-e-rejeita-acusacao-contra-vice/",
-    "d": "Acusação contra o vice"
+    "n": "Imirante",
+    "u": "https://m.imirante.com/esporte/brasil/2026/11/05/crise-bancaria-paraguai-nao-ameaca-final-libertadores",
+    "d": "Finais da Conmebol"
    }
   ]
  },
@@ -212,42 +212,60 @@
    "nota": "Brasil",
    "itens": [
     {
-     "kicker": "Oposição",
-     "quando": "Hoje",
-     "titulo": "Flávio Bolsonaro discursa esta noite na CPAC em Mar-a-Lago e tenta articular a oposição a Lula a partir dos EUA",
-     "resumo": "O senador fala no jantar do evento conservador na Flórida ao lado do ator Jim Caviezel, que interpreta Jair Bolsonaro no filme \"Dark Horse\". Aliados discutem criar um \"gabinete sombra\" de parlamentares para acompanhar cada ministério, e Trump disse que Flávio é bem-vindo nos EUA pelo tempo que quiser.",
-     "lados": [
+     "kicker": "Governo",
+     "quando": "Ontem",
+     "titulo": "Lula anuncia que criará o Ministério da Segurança Pública por medida provisória",
+     "resumo": "O anúncio foi feito em transmissão ao vivo com o deputado André Janones, dois dias depois de o Senado aprovar a PEC da Segurança Pública por 73 votos. A pasta deve coordenar com estados e municípios o combate ao crime organizado; a MP vale de imediato, mas precisa ser aprovada pela Câmara e pelo Senado em até 120 dias.",
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
       {
-       "quem": "Flávio e aliados",
-       "txt": "Dizem sofrer perseguição no Brasil; o senador admite ter buscado recursos para o filme, nega irregularidades e acusa o ministro Flávio Dino de usar o caso contra ele."
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/politica/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria/"
       },
       {
-       "quem": "Investigação",
-       "txt": "A Polícia Federal apura suspeitas de lavagem de dinheiro e evasão de divisas no financiamento do filme pelo ex-banqueiro Daniel Vorcaro e pediu mais 90 dias de prazo."
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria-fet/"
+      },
+      {
+       "n": "A Crítica",
+       "u": "https://acritica.net/noticias/lula-anuncia-medida-provisoria-para-criar-ministerio-da-seguranca-publica/"
       }
-     ],
+     ]
+    },
+    {
+     "kicker": "Oposição",
+     "quando": "Ontem",
+     "titulo": "Flávio Bolsonaro participa de jantar da CPAC em Mar-a-Lago ao lado do ator que interpreta seu pai em \"Dark Horse\"",
+     "resumo": "O senador dividiu o painel com Jim Caviezel no evento conservador realizado na propriedade de Donald Trump, na Flórida, com ingressos de até R$ 519 mil; a presença de Trump não estava confirmada. Flávio está nos EUA desde 27 de outubro, sem ter entregado os passaportes como determinou o ministro Alexandre de Moraes, e a PF investiga o financiamento do filme no caso Master; ele nega irregularidades.",
+     "foto": {
+      "src": "fotos/flavio.jpg",
+      "credito": "Joédson Alves/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/politica/flavio-bolsonaro-discursa-em-mar-a-lago-ao-lado-de-ator-de-dark-horse/"
       },
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-oposicao-internacional-contra-o-governo-lula-nos-eua/"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/politica/flavio-jantar-cpac-estados-unidos/"
       },
       {
        "n": "Poder360",
        "u": "https://www.poder360.com.br/poder-congresso/flavio-discursara-em-evento-conservador-com-ator-de-dark-horse/"
       },
       {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/politica/dino-sequestrou-dark-horse-para-usa-lo-contra-mim-diz-flavio-bolsonaro/"
+       "n": "Diário de Pernambuco",
+       "u": "https://www.diariodepernambuco.com.br/politica/2026/11/11728439-jantar-de-luxo-e-investigacao-flavio-bolsonaro-discursa-hoje-nos-eua.html"
       }
      ]
     },
     {
      "kicker": "Governo Lula 4",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "PT pede aos partidos aliados planos e estimativas de votos antes de distribuir ministérios do quarto mandato",
      "resumo": "Segundo a Folha, a direção petista quer saber o que cada sigla pretende fazer nas pastas e quantos votos pode garantir no Congresso; União Brasil e PP pedem três ministérios. As primeiras definições devem sair na segunda quinzena de novembro, depois da viagem de Lula à COP31; entre os cotados estão Camilo Santana para a Casa Civil e Guilherme Boulos, que disputa espaço com um deputado próximo de Hugo Motta.",
      "fontes": [
@@ -270,28 +288,8 @@
      ]
     },
     {
-     "kicker": "Caso Master",
-     "quando": "Ontem",
-     "titulo": "Fachin dá 15 dias para a PGR se manifestar sobre o relatório da PF que indiciou Vorcaro e mais 14 por fraudes no Master",
-     "resumo": "O presidente do STF enviou à Procuradoria-Geral da República o relatório que aponta suspeitas de fraudes envolvendo o Banco Master e o BRB; entre os indiciados está o ex-presidente do banco de Brasília. Cabe à PGR decidir se apresenta denúncia, pede novas diligências ou arquiva.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/politica/fachin-da-prazo-de-15-dias-para-pgr-se-manifestar-sobre-indiciamento-de-vorcaro/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/manoela-alcantara/fachin-relatorio-vorcaro-brb"
-      },
-      {
-       "n": "TV Brasil",
-       "u": "https://tvbrasil.ebc.com.br/reporter-brasil-tarde/2026/11/reporter-brasil-tarde-de-5-de-novembro-de-2026-assista-na-integra"
-      }
-     ]
-    },
-    {
      "kicker": "Congresso",
-     "quando": "Ontem",
+     "quando": "04/11",
      "titulo": "Alcolumbre recua de acordo e decide que a redução da maioridade penal começará pela Câmara",
      "resumo": "Na terça, dois senadores do MDB mudaram o voto na PEC da Segurança com a promessa de que a maioridade penal seria votada em seguida no Senado; na quarta, Davi Alcolumbre desfez o acerto, pediu desculpas ao líder Eduardo Braga e disse querer relação harmoniosa com Hugo Motta. A PEC da Segurança segue para promulgação, e a comissão especial da Câmara, relatada por Mendonça Filho (PL-PE), quer votar o parecer ainda neste mês.",
      "lados": [
@@ -326,26 +324,6 @@
        "u": "https://www.metropoles.com/brasil/senado-votara-maioridade-penal-um-dia-apos-camara-diz-alcolumbre"
       }
      ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Ontem",
-     "titulo": "STF deve julgar em conjunto as ações sobre bets, loterias municipais e jogos de azar",
-     "resumo": "Edson Fachin sinalizou a mudança depois de ouvir os ministros e a audiência pública de terça sobre a medida provisória que proibiu as apostas esportivas on-line; ainda não há data. Luiz Fux, relator das ações sobre apostas, disse que os novos processos contra a proibição exigirão mais tempo para os votos.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/stf-quer-julgamento-conjunto-de-acoes-sobre-bets-loterias-e-jogos-de-azar/"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-justica/stf-deve-unificar-julgamento-de-acoes-sobre-jogos-de-azar-e-bets-on-line/"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/brasil/fachin-sinaliza-julgamento-conjunto-de-bets-e-jogos-de-azar"
-      }
-     ]
     }
    ]
   },
@@ -353,11 +331,11 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado e indicadores · fechamento de quinta",
+   "nota": "Mercado e indicadores · fechamento de quinta; payroll dos EUA sai hoje",
    "itens": [
     {
      "kicker": "Bolsa e câmbio",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ibovespa perde 0,82% e dólar sobe a R$ 5,49 com tombo das bolsas de Nova York",
      "resumo": "O índice fechou aos 166.191 pontos, depois de subir pela manhã com balanços, e o dólar comercial terminou em alta de 0,67%, a R$ 5,489. Analistas citam a aversão a risco vinda dos EUA, a alta do petróleo, a pausa nos cortes da Selic e a espera pelo plano fiscal do governo; estrangeiros retiraram cerca de R$ 12 bilhões da B3 em oito pregões.",
      "foto": {
@@ -385,7 +363,7 @@
     },
     {
      "kicker": "Wall Street",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Nasdaq cai 5,52%, maior queda diária desde abril de 2025, com venda de ações de tecnologia após vitória democrata",
      "resumo": "O S&P 500 recuou 4,36% e o Dow Jones, 3,44%; AMD e Micron perderam mais de 17%, e Nvidia, Intel e Tesla, cerca de 10%. Investidores reagiram à expectativa de mais fiscalização e regulação da inteligência artificial com a maioria democrata no Congresso e a balanços fracos, como o da Qualcomm; o bitcoin chegou a ficar abaixo de US$ 76 mil.",
      "fontes": [
@@ -408,8 +386,28 @@
      ]
     },
     {
+     "kicker": "Tributos",
+     "quando": "04/11",
+     "titulo": "MP fixa as alíquotas do Imposto Seletivo, que começa a ser cobrado em fevereiro de 2027",
+     "resumo": "A medida provisória 1.399 define a cobrança sobre veículos, aeronaves, embarcações, cigarros, bebidas alcoólicas e bebidas açucaradas; no primeiro ano, as alíquotas partem das atuais do IPI, com fatores de correção. Carros de pessoas com deficiência, autistas e taxistas ficam com alíquota zero, e a previsão de arrecadação para 2027 é de R$ 41,9 bilhões.",
+     "fontes": [
+      {
+       "n": "Agência Senado",
+       "u": "https://www12.senado.leg.br/noticias/materias/2026/11/05/mp-define-as-aliquotas-do-imposto-seletivo-para-2027"
+      },
+      {
+       "n": "Agência Câmara",
+       "u": "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027"
+      },
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/politica/governo-lula-publica-medida-provisoria-do-imposto-seletivo/"
+      }
+     ]
+    },
+    {
      "kicker": "Ajuste fiscal",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Lula reúne equipe econômica e economistas no Alvorada sem anunciar medidas; Durigan diz que ajuste sai ainda neste ano",
      "resumo": "Participaram o ministro Dario Durigan, o ex-ministro Fernando Haddad, o presidente do BC, Gabriel Galípolo, e economistas como Guido Mantega. Durigan disse que levará cenários e propostas ao presidente e que as definições devem vir depois da viagem de Lula à COP31; no pronunciamento de domingo, segundo a InfoMoney, Lula deve reafirmar a meta de superávit de 0,5% do PIB em 2027.",
      "lados": [
@@ -447,7 +445,7 @@
     },
     {
      "kicker": "Indústria",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Produção industrial cai 0,8% em setembro, quarta queda em cinco meses",
      "resumo": "O resultado do IBGE veio pior que a mediana das projeções (−0,4%) e deixou a indústria 2,5% abaixo de setembro de 2025, a maior queda anual desde março de 2024. Recuaram 17 das 25 atividades, com destaque para derivados de petróleo e alimentos; a indústria extrativa subiu 1,7%.",
      "fontes": [
@@ -464,36 +462,6 @@
        "u": "https://www.metropoles.com/brasil/producao-industrial-recua-08-em-setembro-diz-ibge"
       }
      ]
-    },
-    {
-     "kicker": "Jornada de trabalho",
-     "quando": "Ontem",
-     "titulo": "CNI e CNC vão ao STF para suspender ou adiar o fim da escala 6x1",
-     "resumo": "As confederações questionam a emenda que garante dois dias de descanso semanais e reduz a jornada de 44 para 40 horas, com o primeiro corte, para 42 horas, previsto para meados de dezembro. A ação da CNC foi sorteada para o ministro Flávio Dino.",
-     "lados": [
-      {
-       "quem": "Indústria e comércio",
-       "txt": "A CNI diz que a regra fere a segurança jurídica e acordos coletivos vigentes e estima alta de 11,1% (cerca de R$ 88 bilhões) no custo do trabalho formal; a CNC pede adiar a primeira etapa para outubro de 2027."
-      },
-      {
-       "quem": "Governo",
-       "txt": "O ministro do Trabalho, Luiz Marinho, diz que o decreto de regulamentação deve sair na segunda (9), com ao menos oito folgas por mês e regras de escala que preservem direitos e o funcionamento das empresas."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/entidades-da-industria-e-do-comercio-recorrem-ao-stf-contra-fim-da-6x1"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/cni-pede-ao-stf-que-fim-da-escala-6x1-nao-atinja-contratos-antigos/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/economia/2026/11/4/entidades-que-representam-industria-e-comercio-acionam-stf-contra-fim-da-escala-6x1"
-      }
-     ]
     }
    ]
   },
@@ -506,30 +474,46 @@
     {
      "kicker": "Santa Catarina",
      "quando": "Hoje",
-     "titulo": "Tornados e temporais deixam dois mortos em Santa Catarina e afetam 106 cidades",
-     "resumo": "Segundo a Defesa Civil, ao menos 23 municípios decretaram emergência, mais de 5,3 mil casas foram danificadas e cerca de 300 pessoas estão fora de casa; os ventos chegaram a 126 km/h. Uma das vítimas morreu em Rio Negrinho, atingida pela queda da cobertura de um posto de combustível; o Rio Grande do Sul também contabiliza milhares de casas danificadas.",
+     "titulo": "Temporais já atingiram 109 cidades de SC e 32 decretaram emergência; nova rodada de tempestades é prevista a partir desta tarde",
+     "resumo": "Segundo a Defesa Civil, 5.531 casas foram danificadas desde domingo, com 56 pessoas desabrigadas e 252 desalojadas; Chapecó, atingida por um tornado na quarta, concentra cerca de 2,4 mil imóveis afetados. A previsão indica temporais isolados com granizo nesta sexta e na madrugada de sábado, sobretudo no oeste e no Planalto Norte, e a prefeitura de Chapecó abriu um canal oficial de doações.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/tornados-e-ventos-de-126-km-h-afetam-106-municipios-e-deixam-2-mortos-em-sc"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/temporais-deixam-rastro-de-destruicao-em-109-cidades-e-32-municipios-decretam-emergencia-em-sc/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/brasil/2026/11/5/tornados-em-santa-catarina-deixam-dois-mortos-e-colocam-20-cidades-em-emergencia"
+       "n": "Band",
+       "u": "https://www.band.com.br/nacional/sc/temporais-em-santa-catarina-deixam-dois-mortos-e-atingem-106-municipios"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sul/sc/sobe-para-dois-o-numero-de-mortos-apos-vendaval-com-tornados-em-sc/"
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-06-de-novembro-de-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "Ciclone e frente fria trazem temporais a São Paulo no sábado e derrubam a máxima da capital para cerca de 16°C no domingo",
+     "resumo": "A Meteored prevê pancadas fortes no sábado à tarde, com raios, rajadas de até 60 km/h e risco de granizo, e chuva moderada a forte no domingo, quando a massa de ar frio chega. O tempo firma na segunda, mas o frio continua; há risco de chuva também em Interlagos durante o GP de F1.",
+     "fontes": [
+      {
+       "n": "Meteored",
+       "u": "https://www.meteored.com.br/noticias/previsao/intensa-mudanca-do-tempo-atinge-sp-com-alerta-de-temporais-e-frio-de-inverno-confira.html"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tornados-e-temporais-atingem-santa-catarina-e-rio-grande-do-sul"
+       "n": "SP Agora",
+       "u": "https://www.spagora.com.br/cotidiano/clima/gp-sao-paulo-2026-chuva-forte-ventos-interlagos/"
+      },
+      {
+       "n": "Costa Norte",
+       "u": "https://costanorte.com.br/clima/litoral-de-sp-tem-alerta-de-vento-chuva-e-frio-no-fim-de-semana-veja-previsao-do-tempo.html"
       }
      ]
     },
     {
      "kicker": "São Paulo",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Operação prende três suspeitos de vender a hospitais remédios falsificados contra o câncer",
      "resumo": "Gaeco e Polícia Civil cumpriram 18 mandados em seis cidades paulistas; segundo a investigação, os medicamentos de imunoterapia eram vendidos sem o princípio ativo e um paciente chegou a recebê-los. A Justiça bloqueou R$ 15 milhões e suspendeu sete empresas.",
      "fontes": [
@@ -552,32 +536,8 @@
      ]
     },
     {
-     "kicker": "Tempo",
-     "quando": "Hoje",
-     "titulo": "Ciclone e frente fria levam risco de temporais ao Paraná e a São Paulo até sábado",
-     "resumo": "A Defesa Civil mantém 251 cidades do Paraná em alerta para chuva forte, granizo e ventos de até 100 km/h, e São Paulo está em alerta de quinta a sábado. Na capital paulista, a previsão é de pancadas com trovoadas à tarde e à noite; no Rio, calor de até 37°C antes da chuva.",
-     "fontes": [
-      {
-       "n": "Climatempo",
-       "u": "https://www.climatempo.com.br/noticia/primavera/previsao-brasil-05-11-frente-fria-provoca-temporais-no-sul-e-sudeste-nesta-quinta-feira"
-      },
-      {
-       "n": "NSC Total",
-       "u": "https://www.nsctotal.com.br/tempo/ciclone-extratropical-traz-chuvarada-e-ventos-de-ate-100-km-h-em-tres-estados-nesta-quinta-veja-quais"
-      },
-      {
-       "n": "Blog do Lago",
-       "u": "https://blogdolago.com.br/manchetes-do-dia-5-de-novembro-de-2026/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://metropoles.com/brasil/inmet-alerta-para-ciclone-extratropical-em-tres-regioes-do-brasil"
-      }
-     ]
-    },
-    {
      "kicker": "Rio de Janeiro",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Temporal de madrugada no Rio tem 3,4 mil raios, alaga a Barra e arrasta carro na Rocinha",
      "resumo": "Os maiores acumulados passaram de 70 mm, e houve alagamentos na Avenida das Américas, em Rio das Pedras e no Jardim Maravilha; Petrópolis segue em alerta para deslizamentos. A previsão indica nova chuva forte à tarde e alívio no calor na sexta.",
      "fontes": [
@@ -597,7 +557,7 @@
     },
     {
      "kicker": "Rio de Janeiro",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ônibus são usados como barricadas em Costa Barros durante operação da PM no Complexo do Chapadão",
      "resumo": "Segundo a polícia, criminosos tomaram três ônibus e os atravessaram na Estrada de Botafogo no início da tarde; linhas que ligam a Pavuna a Bonsucesso, Cascadura e Tijuca foram afetadas. A PM informou a prisão de um suspeito apontado como chefe do tráfico no Morro da Quitanda e a apreensão de seis fuzis; dois suspeitos ficaram feridos.",
      "fontes": [
@@ -616,8 +576,80 @@
    "nota": "Internacional",
    "itens": [
     {
-     "kicker": "Estados Unidos",
+     "kicker": "Vaticano",
      "quando": "Hoje",
+     "titulo": "Papa Leão XIV chega hoje a Montevidéu para viagem de 12 dias por Uruguai, Argentina e Peru",
+     "resumo": "A agenda no Uruguai prevê cerimônia na Praça da Independência, discurso a autoridades e encontro à noite com o presidente Yamandú Orsi. A viagem ocorre pouco mais de três semanas após a cirurgia para retirar um câncer de pulmão, que o Vaticano diz ter sido bem-sucedida; o papa segue no domingo para a Argentina e encerra o roteiro no Peru, em 17 de novembro.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/papa-leao-chega-ao-uruguai-nesta-sexta-feira-para-agenda-na-america-do-sul/"
+      },
+      {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/religiao/papa-leao-xiv-faz-viagem-a-america-latina-apos-diagnostico-de-cancer-e-desembarca-no-uruguai-nesta-sexta-6-veja-por-quais-paises-o-pontifice-vai-passar/"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/turismo/2026/10/7531456-visita-do-papa-leao-xiv-ao-uruguai-movimenta-turismo-religioso-e-atrai-brasileiros.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Europa",
+     "quando": "Ontem",
+     "titulo": "Falsas ameaças de bomba afetam ao menos 27 voos na Europa em um só dia",
+     "resumo": "Aviões fizeram pousos não previstos e desvios, e três aeronaves na Bulgária foram escoltadas por caças; nenhum explosivo foi encontrado. Foi a segunda onda na semana, depois de alertas na terça; as mensagens chegaram sobretudo por e-mail, e autoridades investigam possível sabotagem, enquanto Rússia e Irã negam envolvimento.",
+     "fontes": [
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-06-de-novembro-de-2026/"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/11/06/noticias-do-dia-6-de-novembro-2026-manha"
+      }
+     ]
+    },
+    {
+     "kicker": "Israel",
+     "quando": "Ontem",
+     "titulo": "Eisenkot recebe 67 indicações contra 46 de Netanyahu, e Herzog define no domingo quem formará o governo",
+     "resumo": "O presidente Isaac Herzog encerrou as consultas aos partidos e disse que fará mais conversas antes de entregar o mandato. O bloco que apoia Gadi Eisenkot reúne partidos judaicos e árabes; ele exige que os parceiros reconheçam o Hamas como organização terrorista, e o Likud, de Netanyahu, defende um governo de união nacional.",
+     "fontes": [
+      {
+       "n": "Times of Israel",
+       "u": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+      },
+      {
+       "n": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+      },
+      {
+       "n": "TRT Português",
+       "u": "https://www.trtportugues.com/article/e16256601110"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Rússia lança 227 drones contra a Ucrânia durante a noite, e refinaria russa de Afipsky pega fogo após ataque",
+     "resumo": "Um homem morreu na região de Rivne e três pessoas ficaram feridas perto de Kiev, onde a infraestrutura de energia voltou a ser danificada, segundo autoridades ucranianas. Do outro lado, um incêndio atingiu a refinaria de Afipsky, no sul da Rússia, alvo frequente de drones ucranianos.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/06/blaze-reported-at-russias-afipsky-oil-refinery-as-one-killed-and-three-injured-in-strikes-"
+      },
+      {
+       "n": "Vatican News",
+       "u": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-russia-ataques-hospitais-escolas-infraestrutura.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Ontem",
      "titulo": "Trump diz que a guerra com o Irã valeu a pena, e democratas prometem usar o orçamento para encerrá-la",
      "resumo": "Depois da derrota republicana no Congresso, o líder democrata no Senado, Chuck Schumer, afirmou que o conflito precisa terminar; o Irã mantém condições como fim das sanções e reparações. Os republicanos escolhem na terça (10) o substituto de Mike Johnson na presidência da Câmara, e o Brent oscilava perto de US$ 95.",
      "fontes": [
@@ -634,86 +666,6 @@
        "u": "https://www.outlookindia.com/international/us-midterm-elections-2026-world-newspapers-react-donald-trump-defeat-democrats-blue-tsunami-new-york-post-iran-war-texas"
       }
      ]
-    },
-    {
-     "kicker": "Europa",
-     "quando": "Hoje",
-     "titulo": "Nova onda de ameaças de bomba desvia ao menos seis voos na Europa; nenhum explosivo foi encontrado",
-     "resumo": "Voos da Aer Lingus, LOT, Finnair e outras companhias fizeram pousos de emergência ou mudaram de rota nesta quinta, com destinos como Roma e Sófia; desde meados de outubro, dezenas de aviões foram afetados. Autoridades europeias atribuem a campanha a ataques híbridos de Rússia e Irã, que negam envolvimento.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/alerta-bomba-voos-europa-aeroportos/"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/05/em-4-dias-europa-tem-mais-de-10-voos-desviados-por-ameacas-de-bomba-com-alerta-antiterrorismo.html"
-      },
-      {
-       "n": "CNN Portugal",
-       "u": "https://cnnportugal.iol.pt/avioes-desviados/companhias-aereas/europa-em-alerta-cinco-avioes-desviados-em-menos-de-24-horas-devido-a-ameacas-a-bordo/20261103/6ae9d09cd34e9ce6f1b42c6f"
-      }
-     ]
-    },
-    {
-     "kicker": "Israel",
-     "quando": "Hoje",
-     "titulo": "Com apoio de partidos árabes, Eisenkot deve chegar a 67 indicações para formar o governo de Israel",
-     "resumo": "A Lista Conjunta e o Ra'am, que somam um recorde de 19 das 120 cadeiras, vão recomendar o líder da oposição ao presidente Isaac Herzog; o bloco de Netanyahu tem 53 cadeiras, mas parte do partido ultraortodoxo não indicará ninguém. Escolhido o nome, o indicado terá 28 dias, prorrogáveis por 14, para montar a coalizão.",
-     "fontes": [
-      {
-       "n": "Al Jazeera",
-       "u": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
-      },
-      {
-       "n": "France 24",
-       "u": "https://www.france24.com/en/middle-east/20261104-israel-s-herzog-urges-compromise-to-form-government-after-divisive-election"
-      },
-      {
-       "n": "DN",
-       "u": "https://dn.pt/internacional/israel-oposio-concorda-em-formar-governo-nas-condies-de-eisenkot"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Ataques russos destroem a maior parte de três usinas térmicas de Kiev, e mortos em escola de Zaporizhzhia chegam a 42",
-     "resumo": "Segundo a imprensa ucraniana, a Rússia usou 128 drones e dois mísseis contra 13 regiões entre quarta e quinta; as térmicas atingidas forneciam cerca de 1,3 GW à capital. Na Espanha, Milei e Pedro Sánchez trocaram críticas na Cúpula Ibero-Americana, que não teve Lula.",
-     "fontes": [
-      {
-       "n": "Marco Coutinho / Geopolítica",
-       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-05-nov-2026"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/milei-compara-socialismo-ao-fascismo-diante-de-sanchez-na-cupula-ibero-americana/"
-      },
-      {
-       "n": "CNN Portugal",
-       "u": "https://cnnportugal.iol.pt/aominuto/6207bf6c0cf2cc58e7e276ff"
-      }
-     ]
-    },
-    {
-     "kicker": "Hong Kong",
-     "quando": "Hoje",
-     "titulo": "Ativista Joshua Wong é condenado a mais 10 anos de prisão por conluio com forças estrangeiras",
-     "resumo": "A Alta Corte aplicou a pena com base na lei de segurança nacional; Wong, preso desde 2020, admitiu a culpa em setembro e deixaria a prisão em janeiro de 2027. O consulado dos EUA, Taiwan e entidades como a Anistia Internacional e a Human Rights Watch criticaram a sentença.",
-     "fontes": [
-      {
-       "n": "Al Jazeera",
-       "u": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/05/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years-for-collusion"
-      },
-      {
-       "n": "Hong Kong Free Press",
-       "u": "https://hongkongfp.com/2026/11/05/breaking-jailed-hong-kong-activist-joshua-wong-sentenced-to-10-years-over-foreign-collusion/"
-      }
-     ]
     }
    ]
   },
@@ -724,8 +676,68 @@
    "nota": "Futebol e outros esportes",
    "itens": [
     {
-     "kicker": "Portugal",
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Palmeiras goleia o Remo por 6 a 1 e fica a 3 pontos do Flamengo a quatro rodadas do fim",
+     "resumo": "Com destaque para Jhon Arias, o time paulista fez a maior goleada desta edição do campeonato e chegou a 73 pontos, contra 76 do líder. Foi a primeira vez desde 2019 que o Palmeiras marcou seis gols em um jogo do Brasileirão.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-6-x-1-remo-veja-os-melhores-momentos-pelo-brasileirao/"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-goleia-remo-34-rodada-brasileirao-05-11-2026/"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/futebol-nacional/ao-vivo-acompanhe-palmeiras-x-remo-pelo-brasileirao.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
      "quando": "Hoje",
+     "titulo": "Rafael Câmara estreia pela Haas no lugar de Ocon, e Interlagos tem os primeiros treinos do GP de São Paulo",
+     "resumo": "O piloto de 21 anos soube que correria já no Brasil, preparou-se em simulador e nunca havia guiado em Interlagos; Gabriel Bortoleto disse ter conversado com ele antes da estreia. Com dois brasileiros no grid pela primeira vez em uma década, o fim de semana tem previsão de chuva, e a corrida é no domingo às 14h.",
+     "fontes": [
+      {
+       "n": "Diário de Pernambuco",
+       "u": "https://www.diariodepernambuco.com.br/esportes-dp/automobilismo/2026/11/11728452-farei-tudo-que-puder-para-ter-um-bom-fim-de-semana-diz-rafael-camara-em-primeira-coletiva-na-f1.html"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/sao-paulo/bortoleto-diz-que-aprendeu-a-licao-apos-acidente-no-ultimo-gp-sao-paulo"
+      },
+      {
+       "n": "DGABC",
+       "u": "https://www.dgabc.com.br/Noticia/4367004/gp-de-sao-paulo-de-f1-veja-horarios-transmissao-e-operacao"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Cruzeiro vira sobre o Bahia por 3 a 2 no Mineirão e se firma em terceiro",
+     "resumo": "Kaio Jorge, que havia perdido um pênalti, marcou o gol da virada em noite de golaços. O Bahia perdeu a chance de entrar no G-4.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/brasileirao-cruzeiro-ganha-do-bahia-de-virada-e-mantem-sequencia-positiva"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/em-noite-de-golacos-cruzeiro-vence-o-bahia-com-brilho-de-kaio-jorge/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/cruzeiro-vence-o-bahia-e-se-consolida-na-terceira-colocacao-do-campeonato-brasileiro,ab03efe3786b9eb5a3a748fecc652625fbm585je.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Portugal",
+     "quando": "Ontem",
      "titulo": "Cristiano Ronaldo anuncia que deixa a seleção portuguesa após os jogos de novembro",
      "resumo": "Aos 41 anos, o atacante comunicou a decisão em vídeo nas redes sociais e encerra 23 anos na seleção, com recordes mundiais de 234 jogos e 146 gols. O anúncio vem um mês depois de uma suspensão pela federação após desentendimento com o técnico Jorge Jesus.",
      "fontes": [
@@ -748,90 +760,22 @@
      ]
     },
     {
-     "kicker": "Brasileirão",
-     "quando": "Hoje",
-     "titulo": "Palmeiras recebe o Remo às 19h30 para encostar no Flamengo; Cruzeiro e Bahia jogam às 21h30",
-     "resumo": "O Palmeiras, que pode ter time misto e não conta com Sosa e Paulinho, joga no Nubank Parque para reduzir a três pontos a diferença para o líder. O Remo, penúltimo, está nove pontos atrás do Internacional, primeiro time fora da zona de rebaixamento, e recupera o zagueiro Zé Ivaldo.",
-     "fontes": [
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-remo-pelo-brasileirao-veja-tudo-sobre-o-jogo-05-11-2026/"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/palmeiras-x-remo-onde-assistir-e-provaveis-escalacoes"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://lance.com.br/onde-assistir/cruzeiro-x-bahia-onde-assistir-horario-e-escalacoes.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "Mercedes pode garantir o título de construtores em Interlagos, onde o Brasil terá dois pilotos pela primeira vez em uma década",
-     "resumo": "A equipe lidera com 126 pontos de vantagem sobre a Ferrari e fecha a conta se marcar ao menos três pontos a mais que a rival no GP de São Paulo, de sexta a domingo. Gabriel Bortoleto faz sua primeira corrida em casa pela Audi, e Rafael Câmara estreia pela Haas no lugar de Esteban Ocon. Bortoleto pediu paciência com o projeto da Audi e disse mirar a consolidação da equipe em 2027.",
-     "fontes": [
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/f1-em-interlagos-cinco-destaques-do-gp-de-sao-paulo"
-      },
-      {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-life/forbes-motors/2026/11/gp-de-sao-paulo-tera-dois-pilotos-brasileiros-na-formula-1-apos-uma-decada/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/formula-1/rafa-camara-vai-estrear-na-f1-em-interlagos-apos-haas-antecipar-promocao.html"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/motor/formula-1/bortoleto-mira-nova-historia-em-interlagos-apos-acidente-e-pede-paciencia-com-projeto-da-audi/"
-      }
-     ]
-    },
-    {
-     "kicker": "Seleção",
+     "kicker": "Conmebol",
      "quando": "Ontem",
-     "titulo": "Lesionado, Danilo, do Botafogo, é cortado dos amistosos contra Japão e Singapura, e Ancelotti não chamará substituto",
-     "resumo": "A CBF informou na noite de quarta que o meio-campista tem lesão no adutor da coxa. A Seleção, com cinco estreantes na lista, enfrenta o Japão em 14 de novembro, às 7h15, e Singapura no dia 17, às 7h (Brasília), ambos em Singapura.",
+     "titulo": "Conmebol garante as finais da Libertadores e da Sul-Americana no Paraguai apesar da crise política e bancária",
+     "resumo": "A entidade afirmou que a renúncia de Santiago Peña e a quebra do Ueno Bank não mudam a organização das decisões continentais previstas para o país.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/botafogo/danilo-e-cortado-dos-amistosos-da-selecao-contra-japao-e-singapura,7e85ece08554712a5164faa7261899a0cw9stzis.html"
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/05/conmebol-garante-finais-da-libertadores-e-sul-americana-apos-crise-em-banco-paraguaio/"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/brasil/danilo-cortado-selecao-brasileira-lesao-botafogo/"
+       "n": "Imirante",
+       "u": "https://m.imirante.com/esporte/brasil/2026/11/05/crise-bancaria-paraguai-nao-ameaca-final-libertadores"
       },
       {
-       "n": "Jornal Grande Bahia",
-       "u": "https://jornalgrandebahia.com.br/2026/11/ancelotti-convoca-cinco-estreantes-e-amplia-renovacao-da-selecao-brasileira-para-amistosos-contra-japao-e-cingapura/"
-      }
-     ]
-    },
-    {
-     "kicker": "Futebol feminino",
-     "quando": "Ontem",
-     "titulo": "Inter vence o Bragantino por 3 a 1 na ida da semifinal da Copa do Brasil Feminina; Bahia e Flamengo empataram",
-     "resumo": "No Beira-Rio, o Internacional abriu vantagem para a volta, no domingo (8), em Bragança Paulista. Na outra semifinal, Bahia e Flamengo ficaram no 0 a 0 em Salvador e decidem a vaga no sábado (7), no Estádio Luso-Brasileiro.",
-     "foto": {
-      "src": "fotos/jogadoras.jpg",
-      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Placar",
-       "u": "https://placar.com.br/placar/internacional-vence-o-bragantino-na-ida-da-semifinal-da-copa-do-brasil/"
-      },
-      {
-       "n": "CBF",
-       "u": "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-brasil-feminino/a/bahia-e-flamengo-empatam-no-jogo-de-ida-da-semifinal-da-copa-do-brasil-feminina"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/bragantino/bragantinas-perdem-jogo-de-ida-da-semi-da-copa-do-brasil-feminina,2e8c420df119066bb4091e321c802cb1fw514aln.html"
+       "n": "365Scores",
+       "u": "https://www.365scores.com/pt-br/news/magazine/renuncia-presidente-paraguai-libertadores-sul-americana/"
       }
      ]
     }
@@ -845,7 +789,7 @@
    "itens": [
     {
      "kicker": "Mpox",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ministério da Saúde autoriza compra de até 20 mil doses de vacina contra mpox pela Opas",
      "resumo": "As doses repõem o estoque estratégico e se destinam a grupos prioritários, como pessoas vivendo com HIV com imunidade baixa e usuários de PrEP. O país tem 665 casos em 2026, 94% menos que em 2022, mas o estado do Rio registra 269 casos até 3 de novembro, alta de 192% sobre 2025, e recebeu mais 2 mil doses.",
      "foto": {
@@ -869,7 +813,7 @@
     },
     {
      "kicker": "Inovação no SUS",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ministério da Saúde e Einstein testam aplicativo com IA que ajuda a identificar doenças de pele negligenciadas",
      "resumo": "O CUTIS-AI analisa fotos das lesões e dados clínicos para apontar doenças como hanseníase, esporotricose e leishmaniose cutânea, funciona sem internet e acerta cerca de 80% dos casos no estudo, que já reuniu 1,4 mil pacientes. A ferramenta ainda está em pesquisa e serve só como apoio ao diagnóstico, sem substituir o exame clínico.",
      "fontes": [
@@ -888,8 +832,28 @@
      ]
     },
     {
-     "kicker": "Dengue",
+     "kicker": "Gestão",
      "quando": "Ontem",
+     "titulo": "Ministério da Saúde publica novo regimento interno com estrutura voltada à saúde digital e à inovação",
+     "resumo": "A portaria reorganiza secretarias e departamentos da pasta. O ministério também aderiu à campanha do Mês da Consciência Negra com ações de saúde voltadas à população negra.",
+     "fontes": [
+      {
+       "n": "Atual MT",
+       "u": "https://atualmt.com.br/2026/11/05/ministerio-da-saude-lanca-novo-regimento-interno-com-foco-em-inovacao-e-saude-digital/"
+      },
+      {
+       "n": "Atlas Público",
+       "u": "https://atlaspublico.com.br/noticias/ministerio-da-saude-aprova-regimento-interno-com-estrutura-99271"
+      },
+      {
+       "n": "Sou News",
+       "u": "https://sounews.com.br/saude-antirracista-ministerio-da-saude-participa-da-campanha-do-mes-da-consciencia-negra-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Dengue",
+     "quando": "04/11",
      "titulo": "Ministério da Saúde prevê alta de 20% a 40% nos casos de dengue em 2027, com influência do El Niño",
      "resumo": "O ministro Alexandre Padilha disse que a queda de casos nos últimos dois anos pode ter deixado mais pessoas vulneráveis a outros sorotipos. A vacina do Butantan, suspensa em junho após relatos de reações graves, segue em análise e só poderia voltar ao SUS a partir do ano que vem; hoje o país registra cerca de 489 mil casos prováveis em 2026.",
      "fontes": [
@@ -906,22 +870,6 @@
        "u": "https://www.em.com.br/bem-viver/2026/11/7533219-ministerio-da-saude-projeta-alta-da-dengue-em-2027.html"
       }
      ]
-    },
-    {
-     "kicker": "Clima e saúde",
-     "quando": "Ontem",
-     "titulo": "SUS vai apresentar na COP31 modelo de resposta aos efeitos das mudanças climáticas na saúde",
-     "resumo": "O Ministério da Saúde informou que levará à conferência do clima as ações do SUS para lidar com os impactos das mudanças climáticas na saúde da população. A COP31 começa na próxima semana, na Turquia, e Lula deve chegar no dia 10.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/brasil/2026/11/4/sus-vai-apresentar-na-cop31-modelo-de-resposta-aos-impactos-das-mudancas-climaticas-na-saude"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://correiobraziliense.com.br/ciencia-e-saude/2026/11/7533321-sus-apresentara-modelo-de-resposta-a-crise-climatica-na-cop31.html"
-      }
-     ]
     }
    ]
   },
@@ -933,9 +881,9 @@
    "itens": [
     {
      "kicker": "Enem",
-     "quando": "Hoje",
-     "titulo": "Enem começa no domingo; Inep já liberou os locais de prova no Cartão de Confirmação",
-     "resumo": "Os mais de 5,05 milhões de inscritos devem consultar o endereço na Página do Participante e levar documento oficial com foto e caneta de tinta preta em tubo transparente; nos dias 8 e 15, os portões abrem às 12h, fecham às 13h e a prova começa às 13h30 (Brasília). Na quarta, o MEC afirmou que a prova é segura após mudanças no pré-teste das questões e que as regras da redação não mudam neste ano.",
+     "quando": "Ontem",
+     "titulo": "Enem é neste domingo para mais de 5 milhões de inscritos; MEC diz ter reforçado a segurança da prova",
+     "resumo": "Os portões abrem às 12h e fecham às 13h, e o primeiro dia tem linguagens, ciências humanas e redação, em 5 horas e 30 minutos. O ministro Leonardo Barchini disse que o Inep mudou o protocolo de pré-teste das questões após o vazamento de itens parecidos em 2025 e que as regras da redação seguem as mesmas.",
      "foto": {
       "src": "https://imagens.ebc.com.br/obt_6uvZaMAENncplfQHh8PJNQI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/04/pzzb9731.jpg?itok=ClYEPOzn",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil"
@@ -946,42 +894,18 @@
        "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-mec-garante-seguranca-da-prova-e-mantem-regras-da-redacao"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/brasil/onde-fazer-o-enem-2026-locais-de-prova-ja-podem-ser-consultados/"
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/brasil/enem-comeca-neste-domingo-professor-da-dicas-para-a-reta-final-de-preparacao/"
       },
       {
        "n": "Tribuna do Planalto",
        "u": "https://tribunadoplanalto.com.br/enem-2026-comeca-domingo-veja-horarios-documentos-e-o-que-nao-levar/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/enem/2026/2026/11/4/enem-2026-mec-garante-seguranca-da-prova-e-mantem-regras-da-redacao"
-      }
-     ]
-    },
-    {
-     "kicker": "Fies",
-     "quando": "Ontem",
-     "titulo": "Câmara aprova urgência para Fies que quita a dívida de quem trabalhar em saúde mental no SUS",
-     "resumo": "O projeto, de Rodrigo Gambale (Pode-SP), cria uma modalidade para cursos como psicologia, enfermagem e terapia ocupacional, voltada a alunos com renda familiar de até três salários mínimos por pessoa. O formado teria de atuar ao menos 20 horas semanais na rede de atenção psicossocial pelo dobro do tempo financiado; o texto ainda será votado no plenário.",
-     "fontes": [
-      {
-       "n": "Sou Brasília",
-       "u": "https://soubrasilia.com/pl-2167-2026-fies-saude-mental-sus-urgencia-camara-4-novembro/"
-      },
-      {
-       "n": "Brasil em Folhas",
-       "u": "https://brasilemfolhas.com.br/2026/11/camara-aprova-urgencia-para-nova-modalidade-de-financiamento-do-fies/"
-      },
-      {
-       "n": "Atlas Público",
-       "u": "https://atlaspublico.com.br/camara/noticias/deputados-pedem-urgencia-para-projeto-que-cria-modalidade-97399"
       }
      ]
     },
     {
      "kicker": "Santa Catarina",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Aulas presenciais da rede estadual de Santa Catarina seguem suspensas nesta quinta por causa dos temporais",
      "resumo": "O governo estadual manteve a decisão tomada para quarta e quinta diante do alerta de chuva forte, vendaval e granizo em todas as regiões. Redes municipais, como a de Canoinhas, também adotaram atividades remotas.",
      "fontes": [
@@ -997,7 +921,7 @@
     },
     {
      "kicker": "Pé-de-Meia",
-     "quando": "Ontem",
+     "quando": "04/11",
      "titulo": "MEC anuncia Pé-de-Meia Universitário a partir de 2027 e ampliação do benefício a todo o ensino médio público",
      "resumo": "Segundo o ministro Leonardo Barchini, universitários da rede pública inscritos no CadÚnico receberão R$ 700 por mês durante o ano letivo, mais um depósito de R$ 250 em poupança, que pode render cerca de R$ 10 mil ao fim de quatro anos. No ensino médio, a partir de março de 2027, o programa deixa de exigir o CadÚnico.",
      "fontes": [
@@ -1024,8 +948,28 @@
    "nota": "Meio ambiente, pesquisa e inovação",
    "itens": [
     {
+     "kicker": "Tecnologia",
+     "quando": "Ontem",
+     "titulo": "Ações de chips têm uma das maiores quedas da história com temor de freio aos data centers de IA nos EUA",
+     "resumo": "O índice de semicondutores da Filadélfia caiu cerca de 12%, com perdas fortes de Nvidia, Micron e AMD. Investidores passaram a avaliar que o Congresso de maioria democrata pode desacelerar a expansão de data centers para inteligência artificial, segundo a Reuters.",
+     "fontes": [
+      {
+       "n": "Reuters/Investing.com",
+       "u": "https://www.investing.com/news/economy-news/trading-day-a-november-5-market-bonfire-5005919"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/05/estados-unidos-receios-sobre-ia-derrubam-tecnologicas-apesar-de-ganhos-nos-mercados"
+      },
+      {
+       "n": "Kitco/Reuters",
+       "u": "https://www.kitco.com/news/off-the-wire/2026-11-05/wall-st-slumps-sharp-tech-losses-put-nasdaq-course-correction"
+      }
+     ]
+    },
+    {
      "kicker": "Terras raras",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Viridis fecha contrato de longo prazo com a Solvay para fornecer terras raras de Poços de Caldas",
      "resumo": "O acordo vinculante prevê volumes mínimos equivalentes a cerca de 70% da produção projetada do projeto Colossus, em Minas Gerais. A produção deve começar em 2028.",
      "fontes": [
@@ -1036,8 +980,24 @@
      ]
     },
     {
+     "kicker": "Ciência",
+     "quando": "Hoje",
+     "titulo": "Inscrições para o programa Futuras Cientistas, com 470 vagas para alunas e professoras da rede pública, terminam hoje",
+     "resumo": "O programa do Cetene, ligado ao Ministério da Ciência e Tecnologia, leva estudantes do 2º ano do ensino médio e professoras a laboratórios e universidades entre 4 e 29 de janeiro. As inscrições são gratuitas no site futurascientistas.com.br, e as alunas recebem bolsa de R$ 300 do CNPq.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/inscricoes-para-o-programa-futuras-cientistas-vao-ate-6-novembro"
+      },
+      {
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202610/programa-futuras-cientistas-tem-inscricoes-prorrogadas-ate-6-de-novembro"
+      }
+     ]
+    },
+    {
      "kicker": "Espaço",
-     "quando": "Ontem",
+     "quando": "04/11",
      "titulo": "Telescópio Swift, da Nasa, cai na atmosfera sobre Sumatra após 22 anos e uma missão de resgate fracassada",
      "resumo": "A reentrada ocorreu na manhã de quarta, segundo o astrônomo Jonathan McDowell; a Nasa esperava que a maior parte queimasse e que eventuais fragmentos caíssem no oceano. Lançado em 2004 para uma missão de dois anos, o Swift observou mais de 2 mil explosões de raios gama; a nave contratada para elevar sua órbita falhou em julho.",
      "fontes": [
@@ -1054,38 +1014,6 @@
        "u": "https://www.band.com.br/ciencia-e-tecnologia/telescopio-da-nasa-deve-cair-na-terra-nas-proximas-semanas"
       }
      ]
-    },
-    {
-     "kicker": "Segurança digital",
-     "quando": "Ontem",
-     "titulo": "Banco francês Crédit Mutuel Arkéa perde cerca de 100 milhões de euros em ataque hacker",
-     "resumo": "Segundo o banco, criminosos de fora da França invadiram um sistema automatizado, transferiram o dinheiro para contas em outras instituições e o converteram em criptomoedas; contas de clientes não foram afetadas. O valor, equivalente a cerca de R$ 615 milhões, ainda está sendo apurado, e a promotoria de Paris investiga o caso.",
-     "fontes": [
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/banco-frances-sofre-ataque-hacker-e-tem-prejuizo-estimado-em-r-615-mi/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/banco-frances-sofre-ataque-hacker-e-perde-cerca-de-r-615-milhoes"
-      },
-      {
-       "n": "Folha de Curitiba",
-       "u": "https://folhadecuritiba.com.br/credit-mutuel-arkea-sofre-ataque-hacker-e-criminosos-desviam-r-615-milhoes/"
-      }
-     ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "Ontem",
-     "titulo": "Samsung lista 20 falhas críticas no Android em boletim de novembro, uma delas no Android 17",
-     "resumo": "A mais grave pode permitir execução remota de código sem interação do usuário. A publicação do boletim não significa que a correção já esteja disponível em todos os aparelhos vendidos no Brasil.",
-     "fontes": [
-      {
-       "n": "Oficina da Net",
-       "u": "https://oficinadanet.com.br/noticias/73874-noticias-do-dia-quarta-feira-4-novembro-2026"
-      }
-     ]
     }
    ]
   },
@@ -1096,8 +1024,28 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
+     "kicker": "Justiça",
+     "quando": "Ontem",
+     "titulo": "Russell Brand é condenado em Londres por um estupro e três agressões sexuais",
+     "resumo": "O júri do Tribunal da Coroa de Southwark absolveu o ator e comediante britânico de outras três acusações, em decisões unânimes sobre fatos ocorridos entre 1999 e 2009. O juiz negou fiança e disse que a pena será de prisão significativa; Brand nega os crimes e afirma que as relações foram consentidas.",
+     "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/diversao/gente/russell-brand-e-condenado-por-estupro-e-agressoes-sexuais-no-reino-unido,d1b2c216815eb6dd3a9429c81c08d7c46vm3oo86.html"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/2026/11/5/russell-brand-e-condenado-por-estupro-e-agressao-sexual"
+      },
+      {
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-gente/russell-brand-e-condenado-por-estupro-e-agressao-sexual-na-inglaterra/"
+      }
+     ]
+    },
+    {
      "kicker": "Música",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Cinco anos após a morte de Marília Mendonça, Maiara grava carta à amiga e fãs fazem homenagens",
      "resumo": "A cantora morreu em 5 de novembro de 2021, aos 26 anos, na queda de um avião em Piedade de Caratinga (MG), e segue entre as artistas mais ouvidas do país. Nesta semana, a mãe dela, Ruth Moreira, pediu aos fãs que não publiquem imagens do acidente.",
      "fontes": [
@@ -1120,20 +1068,8 @@
      ]
     },
     {
-     "kicker": "Morte",
-     "quando": "03/11",
-     "titulo": "Morre aos 48 anos Janaína Barbosa, ex-apresentadora do \"TV Fama\"",
-     "resumo": "Segundo a família, ela teve um choque anafilático provocado por uma medicação, em São Paulo; a despedida foi restrita a parentes e amigos. Conhecida pelo programa da RedeTV! no início dos anos 2000, ela foi finalista do concurso de Paquitas em 1990 e, nos últimos anos, atuava como psicóloga e psicanalista.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4367022/janaina-barbosa-morre-aos-48-atriz-quase-integrou-grupo-das-paquitas"
-      }
-     ]
-    },
-    {
      "kicker": "Cinema",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "\"Os Farofeiros 3\", \"Feito Pipa\" e o novo filme de Martin McDonagh estão entre as estreias de quinta",
      "resumo": "A comédia leva a turma a uma ilha caribenha fictícia para um casamento, e \"Feito Pipa\", com Lázaro Ramos, acompanha um menino que tenta esconder a doença da avó. Também estreiam \"Cavalo Selvagem Nove\", de McDonagh, com Sam Rockwell e John Malkovich, e o drama mineiro \"Vicentina Pede Desculpas\".",
      "fontes": [
@@ -1153,7 +1089,7 @@
     },
     {
      "kicker": "Literatura",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Conceição Evaristo recebe título de doutora honoris causa da UFRJ",
      "resumo": "A homenagem à escritora mineira, autora de \"Ponciá Vicêncio\" e \"Becos da Memória\", veio após mobilização acadêmica de três anos. Ela já recebeu o título de outras universidades, como UFMG e UFPR.",
      "fontes": [
@@ -1164,30 +1100,6 @@
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/educacao/ufmg-concede-titulo-de-doutora-honoris-causa-a-escritora-conceicao-evaristo/"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Morre aos 93 anos o cineasta italiano Tinto Brass, diretor de \"Calígula\"",
-     "resumo": "A morte foi comunicada pela família à agência Ansa, sem causa divulgada. Nascido em Milão, Brass ficou conhecido por filmes eróticos com tom de comédia e renegou a versão de \"Calígula\" (1979) lançada com cenas explícitas filmadas sem sua aprovação; o filme foi proibido no Brasil durante a ditadura.",
-     "fontes": [
-      {
-       "n": "O Tempo / Folhapress",
-       "u": "https://www.otempo.com.br/entretenimento/2026/11/4/morre-cineasta-tinto-brass-diretor-do-polemico-caligula-aos-93-anos"
-      },
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4366860/morre-tinto-brass-diretor-de-caligula-aos-93-anos"
-      },
-      {
-       "n": "Rolling Stone Brasil",
-       "u": "https://rollingstone.com.br/cinema/tinto-brass-diretor-de-caligula-grande-nome-do-cinema-erotico-morre-aos-93-anos/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/entretenimento/morre-tinto-brass-diretor-de-caligula-e-icone-do-cinema-erotico"
       }
      ]
     }
