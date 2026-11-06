@@ -1,33 +1,33 @@
 {
  "data": "Sexta-feira, 6 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "06/11/2026 · 12h39 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 11h00",
- "fontes": 72,
+ "edicao": "Edição da noite",
+ "atualizado": "06/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h36",
+ "fontes": 64,
  "mercado": [
   {
-   "nome": "Ibovespa · 11h00",
-   "valor": "166.404 pts",
-   "var": "+0,21%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "168.498 pts",
+   "var": "+1,39%",
    "dir": "up"
   },
   {
-   "nome": "Dólar comercial · 11h00",
-   "valor": "R$ 5,504",
-   "var": "+0,27%",
+   "nome": "Dólar comercial · fechamento",
+   "valor": "R$ 5,508",
+   "var": "+0,36%",
    "dir": "up"
   },
   {
-   "nome": "DI jan/2029 · 9h10",
-   "valor": "14,715%",
-   "var": "+0,035 p.p.",
-   "dir": "up"
+   "nome": "DI jan/2029 · fechamento",
+   "valor": "14,650%",
+   "var": "em queda",
+   "dir": "down"
   },
   {
-   "nome": "Payroll EUA · outubro",
-   "valor": "165 mil vagas",
-   "var": "previsão: 65 mil",
+   "nome": "Balança comercial · outubro",
+   "valor": "US$ 9,3 bi",
+   "var": "recorde para o mês",
    "dir": "up"
   },
   {
@@ -39,34 +39,34 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 6/11 · 15h",
-   "txt": "Lula sanciona a lei que torna o Enamed obrigatório para o registro de novos médicos; às 15h sai também a balança comercial de outubro",
-   "cat": "educacao"
-  },
-  {
-   "hora": "Sex 6/11",
-   "txt": "Papa Leão XIV é recebido em Montevidéu e se reúne à noite com o presidente Yamandú Orsi",
+   "hora": "Sáb 7/11 · 10h",
+   "txt": "Papa Leão XIV celebra missa em Paysandú, no Uruguai, com delegações do Brasil e da Argentina",
    "cat": "mundo"
   },
   {
-   "hora": "Sex 6/11 · noite",
-   "txt": "Vitória x Fluminense, no Barradão, fecha a 34ª rodada do Brasileirão",
+   "hora": "Sáb 7/11 · 15h",
+   "txt": "Classificação do GP de São Paulo de F1, em Interlagos, com alerta de temporal na capital paulista",
    "cat": "esporte"
   },
   {
-   "hora": "Sáb 7 e dom 8/11",
-   "txt": "GP de São Paulo de F1: classificação no sábado às 15h e corrida no domingo às 14h, com Bortoleto e Rafael Câmara",
-   "cat": "esporte"
-  },
-  {
-   "hora": "Dom 8/11",
-   "txt": "Primeiro dia do Enem (portões das 12h às 13h), pronunciamento de Lula em rede nacional e indicação de Herzog para o governo de Israel",
+   "hora": "Dom 8/11 · 13h30",
+   "txt": "Primeiro dia do Enem (portões das 12h às 13h); às 14h, largada do GP de São Paulo",
    "cat": "educacao"
   },
   {
+   "hora": "Dom 8/11 · noite",
+   "txt": "Lula faz pronunciamento em rede nacional sobre metas fiscais e medidas de ajuste",
+   "cat": "economia"
+  },
+  {
    "hora": "Seg 9/11",
-   "txt": "Começa a COP31, em Antália (Turquia); Lula embarca para a Turquia e as Filipinas, com volta prevista para o dia 16",
+   "txt": "Lula embarca para a COP31, em Antália (Turquia), onde discursa nos dias 11 e 12; professores do Paraguai fazem greve nacional",
    "cat": "ciencia"
+  },
+  {
+   "hora": "Sáb 14/11",
+   "txt": "Seleção de Ancelotti enfrenta o Japão em amistoso; Singapura é o adversário no dia 17",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -163,19 +163,34 @@
  ],
  "manchete": {
   "kicker": "Paraguai",
-  "titulo": "Senado do Paraguai nega mais prazo a Santiago Peña e leva adiante o julgamento que pode destituí-lo",
-  "resumo": "Por 39 votos a 3, com 2 abstenções, os senadores recusaram o pedido de 72 horas da defesa e deram 30 minutos para a sustentação oral, que Peña acompanha no Congresso com seus advogados. A destituição exige 30 dos 45 votos e tiraria dele a vaga de senador vitalício.",
-  "entenda": "A crise começou com a intervenção do Banco Central do Paraguai no Ueno Bank, em 2 de novembro, por falta de solvência; cerca de 3 milhões de clientes ficaram sem acesso ao dinheiro. A oposição acusa Peña de conflito de interesses por ter sido acionista do grupo controlador até março de 2025, de alterar a lei de conflito de interesses e de permitir que recursos da previdência (IPS) se concentrassem no banco, além de ter nomeado para o Banco Central um ex-dirigente da financeira do grupo. Peña nega irregularidades e apresentou na quinta uma carta de renúncia, que não chegou a ser votada por falta de quórum. Pela Constituição, ex-presidentes se tornam senadores vitalícios com imunidade; se for destituído, ele perde esse direito, e o vice Pedro Alliana governa até agosto de 2028.",
+  "titulo": "Senado do Paraguai destitui Santiago Peña, e o vice Pedro Alliana deve assumir a Presidência até 2028",
+  "resumo": "Os senadores aprovaram por ampla maioria, na noite desta sexta, a destituição de Peña no julgamento político aberto após a quebra do Ueno Bank. Peña, que havia apresentado renúncia na quinta, não compareceu à sessão e foi representado por advogados.",
+  "entenda": "A crise começou com a intervenção do Banco Central do Paraguai no Ueno Bank, por falta de solvência; cerca de 3 milhões de clientes ficaram com os depósitos congelados. A oposição acusa Peña de conflito de interesses por ter sido acionista do grupo controlador e de ter favorecido a concentração de recursos públicos no banco; ele nega irregularidades. A carta de renúncia entregue na quinta não chegou a ser votada porque a sessão conjunta do Congresso ficou sem quórum, e o Senado seguiu com o julgamento. Com a destituição, Peña perde a vaga de senador vitalício que a Constituição reserva a ex-presidentes, e Pedro Alliana, do Partido Colorado, completa o mandato até agosto de 2028.",
   "fatos": [
-   "Na quinta, a Câmara aprovou a abertura do processo por 78 votos e rejeitou, por 48 a 30, o afastamento do vice Pedro Alliana.",
-   "Se a defesa não se apresentar, o Senado nomeia um defensor de ofício para que o julgamento não pare; depois vêm a análise das provas, as alegações finais e a votação nominal.",
-   "O Ministério Público abriu investigação formal sobre Peña por suspeita de enriquecimento ilícito, lavagem de dinheiro e tráfico de influência, e há ordens de prisão contra oito dirigentes do banco."
+   "Antes do veredito, o Senado negou por 39 votos a 3, com 2 abstenções, o pedido de 72 horas da defesa e aprovou por 41 a 0 a inclusão das provas da acusação.",
+   "Os advogados Adolfo Ferreiro e Ricardo Preda alegaram cerceamento de defesa e sustentaram que a renúncia deveria encerrar o processo.",
+   "Deixaram o governo nos últimos dois dias o ministro do Interior, Enrique Riera, o chefe do Gabinete Civil e assessores da Presidência; a federação de professores convocou greve nacional para segunda (9)."
   ],
   "fontes": [
    {
-    "n": "Gazeta Brasil",
-    "u": "https://gazetabrasil.com.br/mundo/2026/11/06/senado-do-paraguai-nega-prazo-de-72h-e-da-30-minutos-para-defesa-santiago-pena-em-impeachment/",
-    "d": "Prazo negado à defesa"
+    "n": "ABC Color",
+    "u": "https://www.abc.com.py/politica/2026/11/06/en-vivo-juicio-politico-a-pena-senado-retoma-proceso-en-medio-de-renuncia-trabada-y-pedido-de-prorroga/",
+    "d": "Votação da destituição"
+   },
+   {
+    "n": "El Nacional (Paraguai)",
+    "u": "https://elnacional.com.py/politica/senado-expulsa-poder-santiago-pena-n114841",
+    "d": "Alliana na sucessão"
+   },
+   {
+    "n": "Primera Edición",
+    "u": "https://www.primeraedicion.com.ar/nota/101158376/el-senado-de-paraguay-rechazo-los-planteos-de-santiago-pena-y-avanza-hacia-la-definicion-del-juicio-politico/",
+    "d": "Provas e renúncias"
+   },
+   {
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/internacional/senado-do-paraguai-rejeita-pedido-de-prorrogacao-de-pena/",
+    "d": "Prazo negado"
    },
    {
     "n": "Metrópoles",
@@ -183,19 +198,9 @@
     "d": "Acusações da oposição"
    },
    {
-    "n": "VTV News",
-    "u": "https://vtvnews.com.br/noticias/politica/senado-paraguai-retoma-julgamento-impeachment-santiago-pena-bb/",
-    "d": "Regras da votação"
-   },
-   {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/internacional/senado-do-paraguai-rejeita-pedido-de-prorrogacao-de-pena/",
-    "d": "Pedido de prorrogação"
-   },
-   {
-    "n": "Gazeta do Povo",
-    "u": "https://gazetadopovo.com.br/mundo/apos-impasse-sobre-renuncia-pena-diz-que-vai-se-defender-em-processo-de-impeachment-no-senado-do-paraguai",
-    "d": "Defesa de Peña"
+    "n": "O Povo",
+    "u": "https://www.opovo.com.br/noticias/politica/2026/11/06/por-que-senado-do-paraguai-recusou-renuncia-de-santiago-pena.html",
+    "d": "Renúncia recusada"
    }
   ]
  },
@@ -204,17 +209,71 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Brasil",
+   "nota": "Brasil · governo, oposição e Justiça",
    "itens": [
     {
      "kicker": "Governo",
      "quando": "Hoje",
-     "titulo": "Lula reúne Casa Civil e Justiça para desenhar o Ministério da Segurança Pública, que será criado por medida provisória",
-     "resumo": "As conversas sobre competências, orçamento e cooperação com estados e municípios começam nesta sexta, um dia depois do anúncio feito em transmissão ao vivo; o texto da MP ainda não foi publicado. A nova pasta sairá do atual Ministério da Justiça e não passa à União o comando das polícias estaduais.",
+     "titulo": "Lula rebate críticas sobre as contas públicas e diz que \"o pobre não pagará a conta\" do ajuste fiscal",
+     "resumo": "Em reunião do Conselho Nacional de Política Energética, o presidente disse que o resultado fiscal deste ano é o que foi possível entregar, não o que o mercado deseja, e pediu ao ministro Dario Durigan uma apresentação sobre a dívida pública. Ele também afirmou que quer levar o Brasil à condição de país desenvolvido em quatro anos.",
      "foto": {
       "src": "fotos/lula.jpg",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-quer-levar-brasil-condicao-de-pais-desenvolvido-em-quatro-anos"
+      },
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4367300/lula-rebate-criticas-sobre-falta-de-responsabilidade-fiscal-e-diz-pobres-nao-pagarao-a-conta-"
+      }
+     ]
+    },
+    {
+     "kicker": "TSE",
+     "quando": "Hoje",
+     "titulo": "Novo pede ao TSE a cassação da chapa Lula-Alckmin por abuso de poder político na eleição",
+     "resumo": "A ação de investigação judicial eleitoral lista 35 medidas provisórias e decretos de 2026, como subsídios a combustíveis, renegociação de dívidas e reajuste do Bolsa Família, 12 deles editados durante a campanha. O partido pede também a inelegibilidade dos dois.",
+     "lados": [
+      {
+       "quem": "Partido Novo",
+       "txt": "Diz que a concentração de benefícios perto dos dois turnos desequilibrou a disputa."
+      },
+      {
+       "quem": "Governo federal",
+       "txt": "Ministérios afirmam que o reajuste repôs a inflação e que as medidas sobre combustíveis responderam à alta do petróleo."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/bolsa-familia-combustiveis-dividas-35-medidas-acao-novo-contra-lula/"
+      }
+     ]
+    },
+    {
+     "kicker": "Caso Master",
+     "quando": "Hoje",
+     "titulo": "Fachin homologa a primeira delação do caso Master, de João Carlos Mansur, ex-dono da Reag",
+     "resumo": "O presidente do STF validou o acordo fechado com a Procuradoria-Geral da República, que segue sob sigilo. Mansur foi alvo de buscas em janeiro na Operação Compliance Zero, que apura fraudes no Banco Master e a tentativa de venda do banco ao BRB.",
+     "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/politica/2026/11/06/fachin-homologa-delacao-de-investigado-no-caso-master.html"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/caso-master-fachin-homologa-delacao-de-ex-dono-da-reag"
+      }
+     ]
+    },
+    {
+     "kicker": "Governo",
+     "quando": "Hoje",
+     "titulo": "Lula reúne ministros para desenhar o Ministério da Segurança Pública, que será criado por medida provisória",
+     "resumo": "Casa Civil, Justiça, Fazenda e Planejamento discutiram nesta sexta competências e orçamento da nova pasta, prometida após o Senado aprovar a PEC da Segurança na terça. O texto da MP ainda não foi publicado, e Lula disse que a implantação não será imediata.",
      "fontes": [
       {
        "n": "Agência Brasil",
@@ -225,38 +284,8 @@
        "u": "https://www.brasil247.com/brasil/lula-promete-criar-ministerio-da-seguranca-publica-nesta-sexta-feira/"
       },
       {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/politica/2026/11/06/1015103-novo-ministerio-da-seguranca-publica-pode-mudar-combate-as-faccoes-estados-cobram-integracao-e-recursos"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/payroll-eua-balanca-comercial-brasil-agenda-6-novembro"
-      }
-     ]
-    },
-    {
-     "kicker": "Itália",
-     "quando": "Hoje",
-     "titulo": "Governo italiano diz que Flávio, Carlos e Eduardo Bolsonaro tiveram a cidadania reconhecida 58 dias após o pedido",
-     "resumo": "A informação foi dada no plenário da Câmara italiana: o reconhecimento saiu em 5 de janeiro de 2023, depois de os documentos serem entregues na embaixada em Brasília, quando a fila nos consulados chegava a cerca de dez anos.",
-     "lados": [
-      {
-       "quem": "Governo da Itália",
-       "txt": "Afirma que a concessão seguiu as normas legais em vigor."
-      },
-      {
-       "quem": "Deputado Angelo Bonelli (oposição italiana)",
-       "txt": "Vê sinal de tratamento privilegiado e pediu explicações formais ao governo."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Jornal do Comércio",
-       "u": "https://www.jornaldocomercio.com/politica/2026/11/1269540-italia-diz-que-flavio-bolsonaro-obteve-cidadania-em-janeiro-de-2023-58-dias-apos-enviar-documentos.html"
-      },
-      {
-       "n": "A Gazeta",
-       "u": "https://www.agazeta.com.br/brasil/italia-concedeu-cidadania-a-flavio-bolsonaro-em-58-dias-prazo-costuma-ser-de-10-anos-1126"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/lula-vai-discutir-com-ministros-mp-do-ministerio-da-seguranca-nesta-sexta"
       }
      ]
     },
@@ -279,26 +308,6 @@
        "u": "https://www.cnnbrasil.com.br/blogs/jussara-soares/politica/brasil-ve-caminho-para-investigar-bolsonaros-nos-eua-apos-eleicao/"
       }
      ]
-    },
-    {
-     "kicker": "Planalto",
-     "quando": "Hoje",
-     "titulo": "Lula deixa para depois da viagem à Turquia e às Filipinas a escolha de ministros e a nova indicação ao STF",
-     "resumo": "O presidente embarca na segunda (9), com Hugo Motta e Davi Alcolumbre na comitiva, e volta no dia 16. Aliados avaliam que ele aproveitará a viagem para negociar com Alcolumbre um nome para o Supremo, depois de o Senado ter rejeitado Jorge Messias em maio.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/milena-teixeira/lula-deve-fazer-indicacao-de-vaga-no-stf-apos-volta-da-turquia-e-filipinas"
-      },
-      {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/lula-deixa-definicao-de-ministerios-para-depois-de-viagem-a-turquia-e-filipinas/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/cupula-do-congresso-deve-indicar-nomes-para-ministerios-de-lula/"
-      }
-     ]
     }
    ]
   },
@@ -306,29 +315,66 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado e indicadores · manhã de sexta, após o payroll",
+   "nota": "Mercado e indicadores · fechamento de sexta",
    "itens": [
     {
-     "kicker": "Bolsa e câmbio",
+     "kicker": "Mercado",
      "quando": "Hoje",
-     "titulo": "Ibovespa sobe 0,21% e dólar vai a R$ 5,50 após emprego forte nos EUA e alívio nas ações de tecnologia",
-     "resumo": "Por volta das 11h, o índice marcava 166.404 pontos, depois de abrir perto da estabilidade com bancos e B3 em queda; o dólar subia 0,27%, a R$ 5,504, e os juros futuros avançavam em toda a curva. Pesam a falta de medidas fiscais concretas e balanços como o da Renner, que ficou abaixo do esperado pela XP.",
+     "titulo": "Ibovespa sobe 1,39% e fecha a 168.498 pontos; dólar termina a R$ 5,51",
+     "resumo": "A bolsa recuperou parte das perdas da véspera, puxada por Vale, bancos e construtoras, com a alta das ações de tecnologia em Nova York; Cosan, C&A e MRV lideraram os ganhos. O dólar subiu 0,36% e acumulou alta de 1,18% na semana, enquanto os juros futuros recuaram.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/payroll-e-reacao-de-wall-street-dao-folego-ao-ibovespa-dolar-sobe/"
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/economia/2026/11/06/dolar-mais-caro-e-bolsa-em-alta-quem-subiu-e-quem-caiu-hoje/"
+      },
+      {
+       "n": "Investing.com",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-payroll-queda-das-techs-e-fiscal-no-radar-2118849"
+      }
+     ]
+    },
+    {
+     "kicker": "Comércio exterior",
+     "quando": "Hoje",
+     "titulo": "Balança comercial tem superávit de US$ 9,3 bilhões em outubro, o maior para o mês desde 1989",
+     "resumo": "As exportações cresceram 20%, puxadas por petróleo, combustíveis e soja, e as vendas para a Europa subiram 35,8%. O governo, porém, reduziu a previsão de saldo de 2026 de US$ 90 bilhões para US$ 84,4 bilhões.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/mq1REZ49WbOJ1AlfuQplXD4MwiM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tnrgo_abr_1907181936.jpg?itok=14zfvuA_",
+      "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
+     },
+     "destaque": false,
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/balanca-comercial-tem-maior-superavit-para-outubro-desde-1989"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/balanca-comercial-tem-superavit-de-us-93-bilhoes-em-outubro"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Hoje",
+     "titulo": "Lula prepara pronunciamento em rede nacional no domingo para defender metas fiscais e anunciar medidas de ajuste",
+     "resumo": "A mensagem deve reafirmar o compromisso com as contas públicas e com as promessas de campanha; medidas de contenção de gastos e de aumento de receita são esperadas nas próximas semanas. Na quinta, o ministro Dario Durigan disse que \"não há fórmula mágica\" e adiou o anúncio de medidas.",
+     "fontes": [
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/o-que-se-sabe-sobre-o-pronunciamento-de-lula-no-domingo/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/11/5/durigan-diz-que-nao-ha-formula-magica-para-a-economia-e-adia-anuncio-de-medidas-de-ajustes-fiscais"
       },
       {
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-oscila-aos-166-mil-pontos-com-bancos-em-queda-dolar-sobe-a-r-550/"
       }
      ]
     },
@@ -371,42 +417,6 @@
        "u": "https://revistaoeste.com/economia/cbs-entidades-pedem-adiamento-da-cobranca-para-2028/"
       }
      ]
-    },
-    {
-     "kicker": "Ajuste fiscal",
-     "quando": "Hoje",
-     "titulo": "Lula prepara pronunciamento em rede nacional no domingo para defender metas fiscais e anunciar medidas de ajuste",
-     "resumo": "A mensagem deve reafirmar o compromisso com as contas públicas e com as promessas de campanha; medidas de contenção de gastos e de aumento de receita são esperadas nas próximas semanas. Na quinta, o ministro Dario Durigan disse que \"não há fórmula mágica\" e adiou o anúncio de medidas.",
-     "fontes": [
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/politica/o-que-se-sabe-sobre-o-pronunciamento-de-lula-no-domingo/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/governo/2026/11/5/durigan-diz-que-nao-ha-formula-magica-para-a-economia-e-adia-anuncio-de-medidas-de-ajustes-fiscais"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Balanços",
-     "quando": "Hoje",
-     "titulo": "Lucro da Sabesp cai 35,7% no terceiro trimestre; Suzano, Localiza e Fleury têm alta",
-     "resumo": "A Sabesp lucrou R$ 1,39 bilhão, afetada por juros da dívida e por uma base de comparação inflada por precatórios, e aprovou R$ 2,6 bilhões em juros sobre capital próprio. A Renner teve lucro de R$ 246 milhões, 11,8% menor, enquanto Suzano (R$ 2,1 bilhões, +6%) e Localiza (R$ 1,13 bilhão) cresceram.",
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/sabesp-sbsp3-lojas-renner-lren3-suzano-suzb3-e-outros-destaques-desta-sexta-feira-mlem/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06112026/"
-      }
-     ]
     }
    ]
   },
@@ -419,24 +429,24 @@
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Sudeste tem alerta de temporais nesta sexta, e nova frente fria traz risco de granizo a São Paulo no sábado",
-     "resumo": "O maior risco de tempestades hoje está no oeste e noroeste paulista, no Triângulo Mineiro e em Belo Horizonte, com rajadas de até 70 km/h. No sábado, a frente fria chega a São Paulo com chance de granizo no interior, e uma massa de ar frio derruba as temperaturas no domingo, dia do Enem.",
+     "titulo": "Sábado tem alerta de temporais do Sul a São Paulo, com risco de granizo e vendavais; domingo esfria",
+     "resumo": "A Defesa Civil paulista mantém gabinete de crise até sábado, com previsão de rajadas de até 80 km/h e granizo isolado; na capital, as pancadas fortes vêm à tarde, no dia da classificação da F1. No Paraná e no norte gaúcho, a chuva pode passar de 100 mm, e o domingo do Enem terá máxima de 20°C em São Paulo.",
      "foto": {
       "src": "https://imagens.ebc.com.br/u-fS6X3vfGwd8c5R9XmQKsGg-_Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int8926.jpg?itok=pJw84Em0",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/brasil/2026/11/6/frente-fria-promete-queda-de-temperatura-no-sudeste-regiao-tem-alerta-para-temporais-nesta-sexta"
+       "n": "MetSul",
+       "u": "https://metsul.com/sabado-de-alerta-vermelho-com-alto-risco-de-tempo-severo/"
+      },
+      {
+       "n": "SP Agora",
+       "u": "https://www.spagora.com.br/cotidiano/clima/defesa-civil-sp-gabinete-crise-temporais-novembro-2026/"
       },
       {
        "n": "Meteored",
-       "u": "https://www.meteored.com.br/noticias/previsao/ciclone-traz-intensa-mudanca-e-alerta-para-sao-paulo-saiba-o-que-esperar.html"
-      },
-      {
-       "n": "Costa Norte",
-       "u": "https://costanorte.com.br/clima/litoral-de-sp-tem-alerta-de-vento-chuva-e-frio-no-fim-de-semana-veja-previsao-do-tempo.html"
+       "u": "https://www.meteored.com.br/noticias/previsao/sp-em-alerta-para-intensa-mudanca-chuva-forte-temporais-e-frio-de-ate-13-c-na-capital.html"
       }
      ]
     },
@@ -500,26 +510,6 @@
        "u": "https://istoe.com.br/remedios-falsos-cancer-operacao-prende-tres-sp"
       }
      ]
-    },
-    {
-     "kicker": "Rio de Janeiro",
-     "quando": "Ontem",
-     "titulo": "Temporal de madrugada no Rio tem 3,4 mil raios, alaga a Barra e arrasta carro na Rocinha",
-     "resumo": "Os maiores acumulados passaram de 70 mm, e houve alagamentos na Avenida das Américas, em Rio das Pedras e no Jardim Maravilha; Petrópolis segue em alerta para deslizamentos. A previsão indica nova chuva forte à tarde e alívio no calor na sexta.",
-     "fontes": [
-      {
-       "n": "Super Rádio Tupi",
-       "u": "https://www.tupi.fm/rio/rio-registra-34-mil-raios-durante-a-madrugada-e-tem-ruas-alagadas-previsao-e-de-mais-chuva-nesta-quinta/"
-      },
-      {
-       "n": "Brasil em Folhas",
-       "u": "https://brasilemfolhas.com.br/2026/11/temporal-provoca-alagamentos-e-arrasta-carro-na-rocinha/"
-      },
-      {
-       "n": "TV Brasil",
-       "u": "https://tvbrasil.ebc.com.br/reporter-brasil-tarde/2026/11/reporter-brasil-tarde-de-5-de-novembro-de-2026-assista-na-integra"
-      }
-     ]
     }
    ]
   },
@@ -530,22 +520,38 @@
    "nota": "Internacional",
    "itens": [
     {
-     "kicker": "Vaticano",
+     "kicker": "Estados Unidos",
      "quando": "Hoje",
-     "titulo": "Papa Leão XIV chega a Montevidéu e abre viagem de 12 dias por Uruguai, Argentina e Peru",
-     "resumo": "A agenda desta sexta inclui cerimônia na Praça da Independência, discurso a autoridades e ao corpo diplomático, encontro com o presidente Yamandú Orsi e celebração na Catedral Metropolitana. A partir de domingo ele vai à Argentina e, de 11 a 17 de novembro, ao Peru; fiéis brasileiros viajaram até 900 km para vê-lo.",
+     "titulo": "Após derrota nas eleições legislativas, Trump troca Susie Wiles por Stephen Miller na chefia de gabinete",
+     "resumo": "Miller, até agora vice-chefe de gabinete, assume na segunda; Wiles vai para a área política. Na contagem parcial, os democratas têm 54 cadeiras no Senado e mais de 218 na Câmara, e o vice JD Vance atribuiu o resultado à guerra com o Irã.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/papa-leao-chega-ao-uruguai-nesta-sexta-feira-para-agenda-na-america-do-sul/"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/mundo/trump-substitui-susie-wiles-por-stephen-miller-para-chefe-de-gabinete-da-casa-branca/"
       },
       {
-       "n": "Vatican News",
-       "u": "https://www.vaticannews.va/pt/igreja/news/2026-11/brasileiros-atravessam-fronteira-para-ver-papa-leao-xiv-uruguai.html"
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/mundo/2026/11/06/trump-nomeia-stephen-miller-como-novo-chefe-de-gabinete-da-casa-branca/"
       },
       {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/brasileiros-viajam-900-km-papa-leao-xiv-uruguai"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/eleicoes-nos-eua-apuracao-de-votos-midterms"
+      }
+     ]
+    },
+    {
+     "kicker": "Vaticano",
+     "quando": "Hoje",
+     "titulo": "Papa Leão XIV é recebido por Orsi em Montevidéu e celebra missa em Paysandú no sábado",
+     "resumo": "Na chegada, o presidente uruguaio disse ser uma honra receber o pontífice e destacou a convivência pacífica entre os partidos do país. A viagem, a primeira longa após a cirurgia de outubro, dura 12 dias e segue para a Argentina e o Peru.",
+     "fontes": [
+      {
+       "n": "Infobae",
+       "u": "https://www.infobae.com/america/america-latina/2026/11/06/yamandu-orsi-dio-la-bienvenida-al-papa-leon-xiv-a-uruguay-es-un-honor-y-privilegio-poder-recibirlo/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-desembarca-na-america-do-sul-um-mes-apos-cirurgia-de-cancer/"
       }
      ]
     },
@@ -580,6 +586,22 @@
      ]
     },
     {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Rússia lança 227 drones contra a Ucrânia durante a noite, e refinaria russa de Afipsky pega fogo após ataque",
+     "resumo": "Um homem morreu na região de Rivne e três pessoas ficaram feridas perto de Kiev, onde a infraestrutura de energia voltou a ser danificada, segundo autoridades ucranianas. Do outro lado, um incêndio atingiu a refinaria de Afipsky, no sul da Rússia, alvo frequente de drones ucranianos.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/06/blaze-reported-at-russias-afipsky-oil-refinery-as-one-killed-and-three-injured-in-strikes-"
+      },
+      {
+       "n": "Vatican News",
+       "u": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-russia-ataques-hospitais-escolas-infraestrutura.html"
+      }
+     ]
+    },
+    {
      "kicker": "México",
      "quando": "Ontem",
      "titulo": "Forças federais matam \"El General\", apontado como fundador do Cártel Nuevo Imperio, perto da Cidade do México",
@@ -598,42 +620,6 @@
        "u": "https://aristeguinoticias.com/0511/mexico/federales-matan-a-el-general-presunto-lider-del-cartel-nuevo-imperio/"
       }
      ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Rússia lança 227 drones contra a Ucrânia durante a noite, e refinaria russa de Afipsky pega fogo após ataque",
-     "resumo": "Um homem morreu na região de Rivne e três pessoas ficaram feridas perto de Kiev, onde a infraestrutura de energia voltou a ser danificada, segundo autoridades ucranianas. Do outro lado, um incêndio atingiu a refinaria de Afipsky, no sul da Rússia, alvo frequente de drones ucranianos.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/06/blaze-reported-at-russias-afipsky-oil-refinery-as-one-killed-and-three-injured-in-strikes-"
-      },
-      {
-       "n": "Vatican News",
-       "u": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-guerra-russia-ataques-hospitais-escolas-infraestrutura.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Ontem",
-     "titulo": "Trump diz que a guerra com o Irã valeu a pena, e democratas prometem usar o orçamento para encerrá-la",
-     "resumo": "Depois da derrota republicana no Congresso, o líder democrata no Senado, Chuck Schumer, afirmou que o conflito precisa terminar; o Irã mantém condições como fim das sanções e reparações. Os republicanos escolhem na terça (10) o substituto de Mike Johnson na presidência da Câmara, e o Brent oscilava perto de US$ 95.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/trump-culpa-guerra-pelo-tsunami-democrata-mas-diz-que-faria-novamente"
-      },
-      {
-       "n": "Marco Coutinho / Geopolítica",
-       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-05-nov-2026"
-      },
-      {
-       "n": "Outlook India",
-       "u": "https://www.outlookindia.com/international/us-midterm-elections-2026-world-newspapers-react-donald-trump-defeat-democrats-blue-tsunami-new-york-post-iran-war-texas"
-      }
-     ]
     }
    ]
   },
@@ -646,27 +632,27 @@
     {
      "kicker": "Fórmula 1",
      "quando": "Hoje",
-     "titulo": "Interlagos abre o GP de São Paulo com dois brasileiros no grid pela primeira vez em dez anos",
-     "resumo": "Rafael Câmara, de 21 anos, estreia pela Haas no lugar de Esteban Ocon e disse ter sido surpreendido pelo convite; Gabriel Bortoleto, da Audi, chega após uma temporada que definiu como de resiliência. As equipes se preparam para chuva; a classificação é no sábado às 15h e a corrida, no domingo às 14h, com o título já garantido por Kimi Antonelli.",
+     "titulo": "Antonelli, já campeão, lidera o segundo treino em Interlagos; Bortoleto é 8º e Câmara, 16º",
+     "resumo": "O italiano da Mercedes marcou 1min10s763, à frente de Norris e Verstappen; no primeiro treino, Norris tinha sido o mais rápido. A classificação do GP de São Paulo é no sábado, às 15h, com previsão de chuva forte, e a corrida, no domingo, às 14h.",
      "fontes": [
       {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-hoje-camara-surpreendido-bortoleto-alerta-e-chuva-em-interlagos/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/formula-1/formula-1-hoje-horarios-e-onde-assistir-ao-gp-de-sao-paulo-nesta-sexta-feira-6.html"
-      },
-      {
        "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/formula-1-encara-sexta-feira-de-treinos-livres-com-chances-de-chuva-em-interlagos"
+       "u": "https://grandepremio.com/br/f1/antonelli-inverte-ordem-com-norris-e-lidera-tl2-do-gp-de-sao-paulo-bortoleto-e-8o"
+      },
+      {
+       "n": "Band",
+       "u": "https://www.band.com.br/esportes/velocidade/formula-1/antonelli-lidera-tl2-no-gp-de-sao-paulo-bortoleto-e-8o-e-camara-16o"
+      },
+      {
+       "n": "Sportbuzz",
+       "u": "https://sportbuzz.com.br/formula-1/2026/11/06/antonelli-lidera-tl2-do-gp-de-sao-paulo-bortoleto-fica-no-top-10-e-camara-e-15o/"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Vitória recebe o Fluminense no primeiro jogo após demitir Jair Ventura e fecha a 34ª rodada",
+     "titulo": "Vitória recebe o Fluminense às 20h, no Barradão, no primeiro jogo após a demissão de Jair Ventura",
      "resumo": "O Vitória, com 38 pontos e quatro jogos sem vencer, está logo acima da zona de rebaixamento; o Fluminense, no G-4, busca a segunda vitória seguida. O resultado interessa ao Corinthians, 17º com 37 pontos; depois da partida, o campeonato para pela Data Fifa.",
      "fontes": [
       {
@@ -680,6 +666,18 @@
       {
        "n": "NC News",
        "u": "https://ncnews.com.br/2026/11/06/brasileirao-entra-na-reta-final-com-flamengo-e-palmeiras-pelo-titulo-e-corinthians-ameacado-de-queda/"
+      }
+     ]
+    },
+    {
+     "kicker": "Luto",
+     "quando": "Hoje",
+     "titulo": "Ex-meia do Fortaleza, Bismarck morre aos 36 anos após ser baleado em bar de Natal",
+     "resumo": "Segundo a polícia do Rio Grande do Norte, houve uma discussão com um homem que atirou contra ele e outras pessoas; o jogador morreu no hospital na madrugada. Pelo Fortaleza, ele fez 122 jogos e conquistou o tricampeonato cearense.",
+     "fontes": [
+      {
+       "n": "Área VIP",
+       "u": "https://www.areavip.com.br/famosos/fortaleza-confirma-morte-do-jogador-bismarck-aos-36-anos-profunda-tristeza/"
       }
      ]
     },
@@ -726,22 +724,6 @@
        "u": "https://revistaoeste.com/mundo/cristiano-ronaldo-anuncia-que-nao-joga-mais-pela-selecao-de-portugal/"
       }
      ]
-    },
-    {
-     "kicker": "Seleção",
-     "quando": "29/10",
-     "titulo": "Seleção de Ancelotti fecha 2026 com amistosos contra Japão e Singapura, em Singapura",
-     "resumo": "O Brasil enfrenta o Japão em 14 de novembro e Singapura no dia 17, ambos às 7h (de Brasília), no Estádio Nacional de Singapura. São os últimos jogos do ano, já de olho no ciclo para a Copa de 2030.",
-     "fontes": [
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/esportes/futebol/convocacao-selecao-brasileira-japao-singapura/"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/futebol/selecao-brasileira/ancelotti-faz-ultima-convocacao-da-selecao-em-2026-veja-quem-ele-ja-chamou"
-      }
-     ]
     }
    ]
   },
@@ -751,6 +733,22 @@
    "cor": "--sau",
    "nota": "SUS, vigilância e pesquisa",
    "itens": [
+    {
+     "kicker": "Dengue",
+     "quando": "Hoje",
+     "titulo": "Especialistas projetam cerca de 860 mil casos prováveis de dengue em 2027, com pico em abril",
+     "resumo": "A estimativa, feita por 130 pesquisadores para o Ministério da Saúde com 22 modelos, tem margem entre 560 mil e 1,6 milhão de casos. Paraná, Rio de Janeiro, Mato Grosso do Sul, Sergipe, Acre e Minas Gerais aparecem com tendência de alta.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/pais-pode-chegar-860-mil-casos-provaveis-de-dengue-em-2027"
+      },
+      {
+       "n": "Última Hora News",
+       "u": "https://ultimahoranews.com.br/pais-pode-chegar-a-860-mil-casos-provaveis-de-dengue-em-2027"
+      }
+     ]
+    },
     {
      "kicker": "Mpox",
      "quando": "Ontem",
@@ -806,26 +804,6 @@
        "u": "https://dgabc.com.br/Noticia/4367146/ans-numero-de-beneficiarios-de-planos-de-saude-sobe-0-02-em-setembro-para-53-1-milhoes"
       }
      ]
-    },
-    {
-     "kicker": "Inovação no SUS",
-     "quando": "Ontem",
-     "titulo": "Ministério da Saúde e Einstein testam aplicativo com IA que ajuda a identificar doenças de pele negligenciadas",
-     "resumo": "O CUTIS-AI analisa fotos das lesões e dados clínicos para apontar doenças como hanseníase, esporotricose e leishmaniose cutânea, funciona sem internet e acerta cerca de 80% dos casos no estudo, que já reuniu 1,4 mil pacientes. A ferramenta ainda está em pesquisa e serve só como apoio ao diagnóstico, sem substituir o exame clínico.",
-     "fontes": [
-      {
-       "n": "BS9 / Agência Brasil",
-       "u": "https://www.bs9.com.br/mundo/2026/11/05/sus-e-einstein-desenvolvem-ia-para-identificacao-de-doencas-de-pele.html"
-      },
-      {
-       "n": "Piranot",
-       "u": "https://www.piranot.com.br/2026/11/05/noticias/saude-qualidade-vida/cutis-ai-triagem-doencas-pele/"
-      },
-      {
-       "n": "Agora com Você",
-       "u": "https://agoracomvoce.com.br/noticia/sus-e-einstein-desenvolvem-ia-para-identificacao-de-doencas-de-pele"
-      }
-     ]
     }
    ]
   },
@@ -862,22 +840,27 @@
     {
      "kicker": "Medicina",
      "quando": "Hoje",
-     "titulo": "Lula sanciona hoje a lei que exige aprovação no Enamed para o registro de novos médicos",
-     "resumo": "Apelidada de \"OAB da Medicina\", a regra prevê provas ao fim do 2º, 4º e 6º anos do curso, com nota mínima calculada pela média e peso maior na última etapa; já valia por medida provisória desde junho. Não se aplica a quem se formou antes disso nem a formados no exterior, que seguem no Revalida.",
+     "titulo": "Lula sanciona lei que exige aprovação no Enamed para o registro de novos médicos",
+     "resumo": "A regra vale para quem entrou na faculdade a partir de 19 de junho de 2026: os alunos fazem provas no 2º, 4º e 6º anos, e quem não atingir o mínimo não pode atender pacientes até ser aprovado. O CFM apoiou a medida, e formados no exterior continuam sujeitos ao Revalida.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/lula-sanciona-esta-semana-lei-que-institui-a-oab-da-medicina/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/2026/11/6/lula-sanciona-lei-que-condiciona-registro-de-medicos-a-aprovacao-no-enamed"
       },
       {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/payroll-eua-balanca-comercial-brasil-agenda-6-novembro"
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/politica/lula-sanciona-lei-que-cria-exame-obrigatorio-para-atuacao-de-medicos-no-brasil/"
       },
       {
-       "n": "Diário do Litoral",
-       "u": "https://www.diariodolitoral.com.br/nacional/brasil/lula-sanciona-lei-da-oab-da-medicina-saiba-como-vai-funcionar-a-prova-em-3-etapas-que-passa-a-barrar-formandos-sem-nota-minima/"
+       "n": "ND+",
+       "u": "https://ndmais.com.br/politica/lula-sanciona-o-enamed-critica-medicina-mercantilizada-e-acena-para-pacificacao-quando-se-trata-de-saude-nao-tem-direita-e-nao-tem-esquerda"
       }
-     ]
+     ],
+     "foto": {
+      "src": "fotos/enamed.jpg",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
+     "destaque": false
     },
     {
      "kicker": "Enem",
@@ -914,56 +897,60 @@
     {
      "kicker": "Energia",
      "quando": "Hoje",
-     "titulo": "Governo aprova plano de transição energética que prevê matriz até 81% renovável em 2055",
-     "resumo": "O Conselho Nacional de Política Energética aprovou o plano em reunião com Lula; hoje a matriz é 52% renovável, e a eletricidade, 90%. Também foram aprovados o \"Mapa do Caminho\" para zerar o desmatamento até 2030 e um grupo para a estratégia de eletromobilidade, às vésperas da COP31, que começa na segunda em Antália, na Turquia.",
+     "titulo": "Governo aprova plano de transição energética e Lula diz que levará à COP31 proposta para reduzir uso de fósseis",
+     "resumo": "O plano aprovado pelo CNPE prevê matriz até 81% renovável em 2055, e o governo também aprovou diretrizes para zerar o desmatamento até 2030. A COP31, em Antália, na Turquia, reúne líderes nos dias 11 e 12, e o fundo de florestas TFFF soma US$ 7,8 bilhões.",
      "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/lula-ve-brasil-com-forca-na-cop31-e-diz-que-cobrara-acao-de-outros-paises/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/plano-de-transicao-energetica-do-governo-e-aprovado-pelo-cnpe"
+      },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/brasil/governo-aprova-medidas-para-transicao-energetica-e-combate-ao-desmatamento"
+      }
+     ],
+     "foto": {
+      "src": "fotos/floresta.jpg",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+     }
+    },
+    {
+     "kicker": "Espaço",
+     "quando": "Hoje",
+     "titulo": "NOAA prevê tempestade geomagnética fraca até domingo, sem risco de dano a celulares",
+     "resumo": "O vento solar de um buraco coronal deve levar a atividade ao nível G1, com pico na noite desta sexta e pequena chance de chegar a G2. Os efeitos esperados são falhas leves de rádio e de satélites em altas latitudes, e não há previsão de auroras visíveis no Brasil.",
+     "fontes": [
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/06/noaa-preve-tempestade-g1-de-6-a-8-de-novembro-com-chance-de-g2/"
       },
       {
-       "n": "Agência iNFRA",
-       "u": "https://agenciainfra.com/blog/cnpe-aprova-plano-de-transicao-energetica-que-preve-matriz-81-renovavel/"
-      },
-      {
-       "n": "Eixos",
-       "u": "https://eixos.com.br/transicao-energetica/cnpe-aprova-plano-nacional-de-transicao-energetica-acoes-serao-revistas-a-cada-quatro-anos/"
+       "n": "Tech Times",
+       "u": "https://www.techtimes.com/articles/330176/20261106/aurora-forecast-nov-6-8-had-days-warning-coronal-hole-not-cme-drove-storm.htm"
       }
      ]
     },
     {
      "kicker": "Tecnologia",
      "quando": "Hoje",
-     "titulo": "Ações de chips ensaiam recuperação nos EUA após tombo, mas bolsa do Japão entra em mercado de baixa",
-     "resumo": "Antes da abertura, Micron subia perto de 9% e Nvidia, cerca de 3%, depois de quedas de 17% e 9% na quinta, quando a Nasdaq perdeu 5,5% com o temor de novas regras para data centers de IA após a vitória democrata. O Nikkei caiu quase 6% e acumula mais de 20% de queda desde o pico.",
+     "titulo": "Ações de chips se recuperam em Nova York, e Nasdaq sobe 1,09% após tombo provocado por temor com a IA",
+     "resumo": "Nvidia, AMD e Intel subiram depois das quedas fortes da semana, o que ajudou bolsas emergentes, inclusive a brasileira. Analistas atribuem a volatilidade às dúvidas sobre o retorno dos gastos em inteligência artificial e sobre data centers após as eleições americanas.",
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/payroll-e-reacao-de-wall-street-dao-folego-ao-ibovespa-dolar-sobe/"
+       "n": "Invezz",
+       "u": "https://invezz.com/pt/noticias/2026/11/06/nvidia-amd-e-intel-se-recuperam-panico-com-ia-em-wall-street-cede"
       },
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/nasdaq-cai-com-queda-de-acoes-de-chips-e-data-centers/"
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/06/data-centre-backlash-which-ai-companies-have-been-affected-by-us-midterm-results"
       },
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/tempo-real-5-11-26-davs/"
-      }
-     ]
-    },
-    {
-     "kicker": "Ciência",
-     "quando": "Hoje",
-     "titulo": "Inscrições para o programa Futuras Cientistas, com 470 vagas para alunas e professoras da rede pública, terminam hoje",
-     "resumo": "O programa do Cetene, ligado ao Ministério da Ciência e Tecnologia, leva estudantes do 2º ano do ensino médio e professoras a laboratórios e universidades entre 4 e 29 de janeiro. As inscrições são gratuitas no site futurascientistas.com.br, e as alunas recebem bolsa de R$ 300 do CNPq.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/inscricoes-para-o-programa-futuras-cientistas-vao-ate-6-novembro"
-      },
-      {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202610/programa-futuras-cientistas-tem-inscricoes-prorrogadas-ate-6-de-novembro"
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/economia/2026/11/06/dolar-mais-caro-e-bolsa-em-alta-quem-subiu-e-quem-caiu-hoje/"
       }
      ]
     },
@@ -988,6 +975,26 @@
    "nota": "Música, cinema, TV e famosos",
    "itens": [
     {
+     "kicker": "Cinema",
+     "quando": "Hoje",
+     "titulo": "Morre aos 52 anos Sebastián Lelio, diretor chileno de \"Uma Mulher Fantástica\", vencedor do Oscar",
+     "resumo": "A morte, em Santiago, foi anunciada pela companheira, a atriz Amalia Kassai, que citou problemas de saúde. Lelio também dirigiu \"Gloria\", \"Desobediência\" e \"O Milagre\", e o filme de 2017 foi o primeiro chileno a ganhar o Oscar de filme estrangeiro.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/celebridades/sebastian-lelio-diretor-chileno-vencedor-do-oscar-morre-aos-52-anos"
+      },
+      {
+       "n": "La Tercera",
+       "u": "https://www.latercera.com/culto/noticia/a-los-52-anos-muere-sebastian-lelio-director-de-una-mujer-fantastica-y-gloria/"
+      },
+      {
+       "n": "BioBioChile",
+       "u": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/11/06/muere-sebastian-lelio-director-de-cine-ganador-del-oscar-por-una-mujer-fantastica.shtml"
+      }
+     ]
+    },
+    {
      "kicker": "Música",
      "quando": "Hoje",
      "titulo": "Sexta de lançamentos tem novo disco do Kings of Leon, álbum de Lauana Prado e parceria de Baco Exu do Blues com Marina Sena",
@@ -1000,6 +1007,18 @@
       {
        "n": "Exame",
        "u": "https://exame.com/pop/de-gta-6-a-jogos-vorazes-os-lancamentos-de-filmes-series-games-e-albuns-de-novembro/"
+      }
+     ]
+    },
+    {
+     "kicker": "Famosos",
+     "quando": "Hoje",
+     "titulo": "Karoline Lima anuncia o fim do noivado com o zagueiro Léo Pereira, do Flamengo",
+     "resumo": "Em vídeos nas redes sociais, a influenciadora disse que a decisão foi dela e que o motivo não foi traição. O noivado tinha sido anunciado em julho, e não é a primeira separação do casal.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/celebridades/karoline-lima-anuncia-fim-do-noivado-com-leo-pereira"
       }
      ]
     },
@@ -1044,26 +1063,6 @@
       {
        "n": "Ponta Negra News",
        "u": "https://pontanegranews.com.br/2026/11/05/cinco-anos-morte-marilia-mendonca-legado-musical/"
-      }
-     ]
-    },
-    {
-     "kicker": "Cinema",
-     "quando": "Ontem",
-     "titulo": "\"Os Farofeiros 3\", \"Feito Pipa\" e o novo filme de Martin McDonagh estão entre as estreias de quinta",
-     "resumo": "A comédia leva a turma a uma ilha caribenha fictícia para um casamento, e \"Feito Pipa\", com Lázaro Ramos, acompanha um menino que tenta esconder a doença da avó. Também estreiam \"Cavalo Selvagem Nove\", de McDonagh, com Sam Rockwell e John Malkovich, e o drama mineiro \"Vicentina Pede Desculpas\".",
-     "fontes": [
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/diversao/entre-telas/o-que-assistir-no-cinema-conheca-5-estreias-desta-quinta-feira-0511,ff7aff933df1feb16aafac33e555ceddzytlbnau.html"
-      },
-      {
-       "n": "TMC",
-       "u": "https://tmc.com.br/entretenimento/lancamentos-cinema-05-novembro-2026/"
-      },
-      {
-       "n": "AdoroCinema",
-       "u": "https://www.adorocinema.com/filmes/agenda/"
       }
      ]
     }
