@@ -1,10 +1,10 @@
 {
  "data": "Sábado, 7 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "07/11/2026 · 12h34 (Brasília)",
- "proxima": "Próxima atualização: 19h",
+ "edicao": "Edição da noite",
+ "atualizado": "07/11/2026 · 19h54 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
  "mercado_hora": "Cotações de 10h48",
- "fontes": 61,
+ "fontes": 59,
  "mercado": [
   {
    "nome": "Ibovespa · fechamento de sexta",
@@ -39,34 +39,34 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 7/11 · 15h",
-   "txt": "Classificação do GP de São Paulo de F1, em Interlagos, com previsão de chuva; às 16h10, show dos Paralamas do Sucesso no autódromo",
-   "cat": "esporte"
-  },
-  {
-   "hora": "Sáb 7/11 · 15h",
-   "txt": "Ex-presidente do BC paraguaio Carlos Carvallo depõe ao Ministério Público; juiz de garantias deve decidir as medidas cautelares contra ele e Peña",
-   "cat": "mundo"
-  },
-  {
-   "hora": "Sáb 7/11 · 18h",
-   "txt": "Atlético-MG x Grêmio, na Arena MRV, pela volta da semifinal da Copa do Brasil; à noite, vigília do papa no Estádio Centenario",
-   "cat": "esporte"
-  },
-  {
    "hora": "Dom 8/11 · 13h30",
-   "txt": "Primeiro dia do Enem (portões das 12h às 13h); às 14h, largada do GP de São Paulo; às 17h, Vasco x Palmeiras",
+   "txt": "Primeiro dia do Enem, com linguagens, ciências humanas e redação (portões das 12h às 13h); MEC e Inep dão entrevista às 19h",
    "cat": "educacao"
   },
   {
+   "hora": "Dom 8/11 · 14h",
+   "txt": "Largada do GP de São Paulo de F1, com Norris na pole; às 17h, Vasco x Palmeiras decidem a segunda vaga na final da Copa do Brasil",
+   "cat": "esporte"
+  },
+  {
    "hora": "Dom 8/11",
-   "txt": "Lula fala em rede nacional sobre metas fiscais; em Israel, Herzog indica quem tentará formar o governo",
+   "txt": "Lula fala em rede nacional sobre metas fiscais; em Jerusalém, Herzog encarrega formalmente Gadi Eisenkot de formar o governo",
    "cat": "economia"
   },
   {
-   "hora": "Ter 10/11 a Qui 12/11",
-   "txt": "Rodada de negociações entre Ucrânia, Rússia e EUA em Abu Dhabi; Lula discursa na COP31, em Antália, no dia 11",
+   "hora": "Seg 9/11",
+   "txt": "Começa a COP31, em Antália (Turquia), e Lula embarca para a cúpula de líderes; em Londres, Russell Brand recebe a sentença",
+   "cat": "ciencia"
+  },
+  {
+   "hora": "Ter 10/11",
+   "txt": "Delegações de Ucrânia, Rússia e EUA iniciam nova rodada de negociações em Abu Dhabi",
    "cat": "mundo"
+  },
+  {
+   "hora": "Sáb 28/11 · 17h",
+   "txt": "Final da Libertadores entre Palmeiras e Estudiantes, em Montevidéu",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -163,39 +163,39 @@
  ],
  "manchete": {
   "kicker": "Paraguai",
-  "titulo": "Após noite em quartel, Santiago Peña depõe ao Ministério Público; juiz deve decidir como fica a prisão do ex-presidente",
-  "resumo": "O presidente destituído prestou declaração aos promotores às 11h deste sábado, em Assunção, acompanhado do advogado Ricardo Preda; o ex-chefe do Banco Central Carlos Carvallo será ouvido às 15h. O Ministério Público tem 24 horas, contadas da detenção, para apresentar os dois a um juiz de garantias, que vai definir local e condições da custódia.",
-  "entenda": "A crise começou com a intervenção do Banco Central do Paraguai no Ueno Bank, dissolvido em 3 de novembro depois que seus indicadores de solvência caíram abaixo do mínimo; o banco tinha cerca de 3 milhões de clientes. A oposição acusa Peña de conflito de interesses, por ter sido acionista de empresa ligada ao grupo controlador até março de 2025 e por ter indicado o presidente do BC, num período em que o banco recebeu cerca de US$ 850 milhões em depósitos de órgãos públicos. O Senado aprovou a destituição por unanimidade na sexta, sem aceitar a renúncia que ele havia apresentado, e o vice Pedro Alliana assumiu a Presidência. Peña nega ter interferido na fiscalização bancária.",
+  "titulo": "Juiz manda Santiago Peña para a prisão preventiva por risco de fuga; ex-presidente fica detido em quartel de Assunção",
+  "resumo": "O juiz Humberto Otazú, especializado em crimes econômicos, negou o pedido da defesa por uma medida mais branda e decretou a prisão preventiva do presidente destituído no fim da tarde deste sábado. Peña ficará no Regimento Escolta Presidencial, onde passou a noite de sexta, e é investigado por lesão de confiança e administração em benefício próprio no caso Ueno Bank.",
+  "entenda": "A crise começou com a intervenção do Banco Central do Paraguai no Ueno Bank, dissolvido em 3 de novembro depois que seus indicadores de solvência caíram abaixo do mínimo; o banco tinha cerca de 3 milhões de clientes. A oposição acusa Peña de conflito de interesses, por ter sido acionista de empresa ligada ao grupo controlador até março de 2025 e por ter indicado o presidente do BC, num período em que o banco recebeu cerca de US$ 850 milhões em depósitos de órgãos públicos. A Câmara aprovou o juízo político na quinta e o Senado destituiu Peña na sexta; o vice Pedro Alliana assumiu a Presidência para completar o mandato. Peña nega irregularidades e atribui os problemas do banco à supervisão financeira.",
   "fatos": [
-   "O promotor Christian Benítez diz que a investigação está no início, com foco em administração em benefício próprio e lesão de confiança, e que as acusações podem ser ampliadas; segundo ele, não há sinal de que os dois tentem fugir, porque se apresentaram.",
-   "Peña chegou a ter prisão domiciliar decidida, mas foi levado de madrugada ao Regimento Escolta Presidencial após confrontos na porta de sua casa, em que um policial ficou ferido; Carvallo se entregou à polícia na sexta.",
-   "O governo Alliana anunciou que 32 mil aposentados que recebiam pelo Ueno terão os pagamentos transferidos a outros bancos em 17 de novembro; o fundo de garantia já devolveu cerca de R$ 800 milhões a 1,2 milhão de correntistas."
+   "Pela manhã, Peña compareceu ao Ministério Público, mas usou o direito de não prestar declaração; à tarde, participou da audiência no Palácio de Justiça, e a decisão saiu por volta das 18h30.",
+   "O ex-presidente do Banco Central Carlos Carvallo, que se entregou na sexta, responde também por produção de documento público com conteúdo falso; o MP pediu medidas cautelares contra ele.",
+   "O advogado Ricardo Preda disse que Peña está sereno e pediu garantias para sua integridade física; houve protestos na porta da casa do ex-presidente, e correntistas do Ueno seguem cobrando o dinheiro."
   ],
   "fontes": [
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/mundo/ex-presidente-do-paraguai-santiago-pena-presta-depoimento-apos-prisao",
-    "d": "Depoimento ao MP"
+    "n": "El Tribuno (Argentina)",
+    "u": "https://eltribuno.com/internacionales/2026-11-7-18-35-0-santiago-pena-quedo-preso-la-justicia-ordeno-su-prision-preventiva-por-la-crisis-politica-en-paraguay",
+    "d": "Prisão preventiva decretada"
    },
    {
     "n": "ABC Color (Paraguai)",
     "u": "https://www.abc.com.py/politica/2026/11/07/pena-y-carvallo-declaran-hoy-ante-el-ministerio-publico-esto-dice-el-fiscal-de-la-causa/",
-    "d": "Horários e acusações"
+    "d": "Depoimentos e acusações"
+   },
+   {
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/mundo/ex-presidente-do-paraguai-santiago-pena-presta-depoimento-apos-prisao",
+    "d": "Ida ao Ministério Público"
+   },
+   {
+    "n": "Portal 6",
+    "u": "https://portal6.com.br/2026/11/07/santiago-pena-depoimento-prisao-domiciliar-paraguai/",
+    "d": "Noite no quartel"
    },
    {
     "n": "Gazeta do Povo",
     "u": "https://www.gazetadopovo.com.br/mundo/paraguai-garante-pagamento-integral-de-aposentadorias-apos-crise-do-ueno-bank/",
     "d": "Aposentados e ressarcimento"
-   },
-   {
-    "n": "Revista Sociedade Militar",
-    "u": "https://www.sociedademilitar.com.br/2026/11/ex-presidente-santiago-pena-e-retirado-de-casa-apos-confrontos-com-a-policia-no-paraguai-e-levado-a-regimento-militar-antes-de-depor-sobre-o-escandalo-do-ueno-bank-nbd.html",
-    "d": "Confrontos e transferência"
-   },
-   {
-    "n": "O Antagonista",
-    "u": "https://oantagonista.com.br/mundo/bc-do-paraguai-devolve-dinheiro-a-12-milhao-de-clientes-do-ueno-bank/",
-    "d": "Devolução a correntistas"
    }
   ]
  },
@@ -206,6 +206,26 @@
    "cor": "--pol",
    "nota": "Brasil · governo, oposição e Justiça",
    "itens": [
+    {
+     "kicker": "Planalto",
+     "quando": "Hoje",
+     "titulo": "Alckmin, que faz 74 anos neste sábado, aparece entre os cotados para a Fazenda; Lula deve anunciar a equipe só depois da COP31",
+     "resumo": "Segundo a coluna de Neila Guimarães, no Metrópoles, aliados do presidente querem que o pronunciamento de domingo venha acompanhado de um sinal concreto ao mercado, e o vice é citado como opção para o Ministério da Fazenda. Também são mencionados o governador reeleito do Piauí, Rafael Fonteles, e a permanência de Dario Durigan. Lula embarca na segunda para a Turquia e convidou Hugo Motta e Davi Alcolumbre para a viagem.",
+     "foto": {
+      "src": "fotos/lideres.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/colunas/neila-guimaraes/ala-do-planalto-espera-aceno-de-lula-ao-mercado-antes-da-cop31"
+      },
+      {
+       "n": "Ric",
+       "u": "https://ric.com.br/politica/lula-deve-iniciar-anuncio-de-nova-ministros-apos-feriado-da-proclamacao-da-republica/"
+      }
+     ]
+    },
     {
      "kicker": "STF",
      "quando": "Ontem",
@@ -233,26 +253,6 @@
      ]
     },
     {
-     "kicker": "Governo",
-     "quando": "Ontem",
-     "titulo": "Lula rebate críticas sobre as contas públicas e diz que \"o pobre não pagará a conta\" do ajuste fiscal",
-     "resumo": "Em reunião do Conselho Nacional de Política Energética, o presidente disse que o resultado fiscal deste ano é o que foi possível entregar, não o que o mercado deseja, e pediu ao ministro Dario Durigan uma apresentação sobre a dívida pública. Ele também afirmou que quer levar o Brasil à condição de país desenvolvido em quatro anos.",
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-quer-levar-brasil-condicao-de-pais-desenvolvido-em-quatro-anos"
-      },
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4367300/lula-rebate-criticas-sobre-falta-de-responsabilidade-fiscal-e-diz-pobres-nao-pagarao-a-conta-"
-      }
-     ]
-    },
-    {
      "kicker": "TSE",
      "quando": "Ontem",
      "titulo": "Novo pede ao TSE a cassação da chapa Lula-Alckmin por abuso de poder político na eleição",
@@ -275,18 +275,6 @@
      ]
     },
     {
-     "kicker": "Justiça",
-     "quando": "Ontem",
-     "titulo": "Justiça Federal rejeita ação de improbidade contra Bolsonaro no caso da ex-secretária \"Wal do Açaí\"",
-     "resumo": "O juiz Rodrigo de Godoy Mendes, da 6ª Vara Federal do DF, concluiu que não há prova de desvio da verba de gabinete usada para pagar a ex-secretária parlamentar no período em que Bolsonaro era deputado. O Ministério Público Federal, que pedia ressarcimento de R$ 280 mil, ainda pode recorrer.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-federal-rejeita-acao-de-improbidade-contra-bolsonaro"
-      }
-     ]
-    },
-    {
      "kicker": "Caso Master",
      "quando": "Ontem",
      "titulo": "Fachin homologa a primeira delação do caso Master, de João Carlos Mansur, ex-dono da Reag",
@@ -301,6 +289,18 @@
        "u": "https://sbtnews.sbt.com.br/noticia/brasil/caso-master-fachin-homologa-delacao-de-ex-dono-da-reag"
       }
      ]
+    },
+    {
+     "kicker": "Justiça",
+     "quando": "Ontem",
+     "titulo": "Justiça Federal rejeita ação de improbidade contra Bolsonaro no caso da ex-secretária \"Wal do Açaí\"",
+     "resumo": "O juiz Rodrigo de Godoy Mendes, da 6ª Vara Federal do DF, concluiu que não há prova de desvio da verba de gabinete usada para pagar a ex-secretária parlamentar no período em que Bolsonaro era deputado. O Ministério Público Federal, que pedia ressarcimento de R$ 280 mil, ainda pode recorrer.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-federal-rejeita-acao-de-improbidade-contra-bolsonaro"
+      }
+     ]
     }
    ]
   },
@@ -308,7 +308,7 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Sábado sem pregão · fechamento e semana",
+   "nota": "Sem pregão · pronunciamento e semana",
    "itens": [
     {
      "kicker": "Mercado",
@@ -336,7 +336,7 @@
     },
     {
      "kicker": "Ajuste fiscal",
-     "quando": "Ontem",
+     "quando": "Hoje",
      "titulo": "Lula fala em rede nacional neste domingo para defender metas fiscais; mercado reage com ceticismo e aliados divergem",
      "resumo": "Segundo relatos da imprensa, o presidente deve reafirmar o compromisso com as contas públicas sem abandonar programas sociais e defender a pacificação do país após a eleição. Parte de PT e PSOL rejeita um pacote de ajuste, enquanto analistas do mercado esperam medidas concretas de contenção de gastos.",
      "fontes": [
@@ -359,6 +359,10 @@
       {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/economia/2026/11/6/mercado-reage-com-ceticismo-a-aceno-de-lula-sobre-ajuste-fiscal"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/congresso/2026/11/4/lula-fara-pronunciamento-no-domingo-8-11-para-tentar-acalmar-mercado-e-defender-ajuste-fiscal"
       }
      ]
     },
@@ -432,6 +436,48 @@
    "nota": "Segurança, clima e cidades",
    "itens": [
     {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "Temporais trazem dois novos tornados ao RS, derrubam 300 árvores em Curitiba e alagam ruas no Rio e em São Paulo",
+     "resumo": "A Defesa Civil gaúcha registrou tornados em Santo Augusto e Palmeira das Missões durante a madrugada; desde quinta, 23,6 mil pessoas foram afetadas no estado, com 868 casas destelhadas, cinco feridos e nenhuma morte. O Rio entrou no estágio 2 de alerta à tarde, e a capital paulista ficou em estado de atenção para alagamentos. A previsão é de melhora no Sul a partir de domingo, mas a instabilidade segue em Minas, no Espírito Santo e no Centro-Oeste.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/u-fS6X3vfGwd8c5R9XmQKsGg-_Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int8926.jpg?itok=pJw84Em0",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/11/07/com-tornados-no-rs-e-alagamentos-no-sudeste-temporais-mantem-centro-sul-em-alerta-ate-domingo/"
+      },
+      {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/segundo-tornado-rs-quatro-dias-50-casas-destelhadas/"
+      }
+     ]
+    },
+    {
+     "kicker": "São Paulo",
+     "quando": "Hoje",
+     "titulo": "Família contesta versão da PM sobre metalúrgico morto a tiros em abordagem na zona leste; DHPP investiga",
+     "resumo": "Luiz Rodrigues de Santana Júnior, de 39 anos, foi baleado na quinta (5) dentro do carro estacionado em Vila Curuçá e enterrado neste sábado. Câmeras de imóveis vizinhos registraram a ação; os policiais não usavam câmeras corporais, segundo eles por problema técnico. A Secretaria da Segurança diz que apura o caso.",
+     "lados": [
+      {
+       "quem": "Polícia Militar",
+       "txt": "Diz que recebeu denúncia ligando o homem a um homicídio de 2 de novembro e que ele estava com um revólver na mão ao abrir a porta do carro, o que provocou a reação."
+      },
+      {
+       "quem": "Família e testemunhas",
+       "txt": "Afirmam que ele foi executado, que a arma foi colocada no carro depois dos tiros e que imagens mostram que ele estava em outro lugar no dia do outro crime."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/sao-paulo/metalurgico-de-39-anos-e-morto-durante-abordagem-da-pm-na-zona-leste-de-sp"
+      }
+     ]
+    },
+    {
      "kicker": "São Paulo",
      "quando": "Ontem",
      "titulo": "Prédio de quatro andares desaba no Brás e deixa 27 feridos leves; imóvel não tinha alvará nem AVCB",
@@ -448,30 +494,6 @@
       {
        "n": "BPMoney",
        "u": "https://bpmoney.com.br/brasil/predio-desaba-feridos-bras-centro-sao-paulo/"
-      }
-     ]
-    },
-    {
-     "kicker": "Clima",
-     "quando": "Hoje",
-     "titulo": "Inmet mantém alerta vermelho de tempestade em áreas do PR, SC e RS e estende avisos a SP, Minas e Centro-Oeste",
-     "resumo": "O aviso de maior gravidade prevê até 100 mm de chuva, ventos acima de 100 km/h e granizo em regiões como Londrina, no norte do Paraná. Em São Paulo, a região de Sorocaba está em alerta laranja, e o aviso de tempestade alcança 851 cidades mineiras, além de Brasília e Cuiabá. A Defesa Civil recomenda evitar áreas abertas e não se abrigar sob árvores.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/u-fS6X3vfGwd8c5R9XmQKsGg-_Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int8926.jpg?itok=pJw84Em0",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/11/7/inmet-poe-londrina-e-regiao-em-alerta-vermelho-de-tempestade-100-mm-de-chuva-vento-de-100-km-h-e-granizo"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/brasil/inmet-emite-novo-alerta-vermelho-para-tempestades-no-sul-do-brasil/"
-      },
-      {
-       "n": "Regionalzão",
-       "u": "https://regionalzao.com.br/tempo/inmet-estende-alerta-de-tempestade-para-851-cidades-de-minas-gerais-neste-sabado-d3baaf5f"
       }
      ]
     },
@@ -508,26 +530,90 @@
    "nota": "Internacional",
    "itens": [
     {
-     "kicker": "Ucrânia",
+     "kicker": "Polônia",
      "quando": "Hoje",
-     "titulo": "Rússia lança 36 mísseis e 172 drones contra a Ucrânia e deixa cinco regiões sem energia",
-     "resumo": "O ataque da madrugada atingiu cerca de dez regiões, feriu ao menos nove pessoas, entre elas uma criança, e danificou a Ponte Norte sobre o rio Dnipro, em Kiev, além do abastecimento de água e aquecimento. Zelensky disse que a ofensiva mostra como Moscou se prepara para a rodada de negociações com EUA e Ucrânia marcada para 10 e 11 de novembro em Abu Dhabi.",
+     "titulo": "Atirador mata seis pessoas e fere cerca de 15 na praça principal de Cracóvia",
+     "resumo": "O ataque ocorreu por volta do meio-dia (horário de Brasília) perto da Praça do Mercado, no centro histórico, a poucos passos da Basílica de Santa Maria; dois policiais estão entre os feridos. O autor, um polonês que segundo a polícia agiu sozinho, foi baleado na troca de tiros, preso e operado. O primeiro-ministro Donald Tusk disse que a polícia investiga a motivação, ainda desconhecida.",
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/mundo/russia-lanca-36-misseis-e-172-drones-contra-ucrania-e-deixa-cinco-regioes-sem-energia/"
+       "n": "Vatican News",
+       "u": "https://vaticannews.va/pt/igreja/news/2026-11/polonia-cracovia-disparos-mortos-feridos-igreja-tragedia.html"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/mundo/tiroteio-em-praca-na-cracovia-polonia-deixa-ao-menos-5-mortos/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/ataque-a-tiros-deixa-5-mortos-em-praca-principal-de-cracovia"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Rússia lança 36 mísseis e 172 drones às vésperas de nova rodada de negociação e deixa ao menos nove feridos",
+     "resumo": "Os ataques da madrugada atingiram Kiev e outras 12 regiões, cortaram luz, água e aquecimento na capital e fecharam a Ponte Norte; Moscou diz ter mirado alvos militares e de energia. A Rússia afirma ter derrubado 411 drones ucranianos, e um morador morreu em Belgorod. Delegações dos três países se reúnem na terça (10), em Abu Dhabi, na quarta rodada mediada pelos EUA.",
+     "lados": [
+      {
+       "quem": "Volodymyr Zelensky",
+       "txt": "Acusa Moscou de intensificar os ataques justamente quando a diplomacia é retomada e pede mais apoio americano e sanções."
+      },
+      {
+       "quem": "Ministério da Defesa russo",
+       "txt": "Diz que atingiu a ponte por ela transportar equipamento militar, além de fábricas de armamento e instalações de energia."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/mundo/2026/11/7534897-ataques-russos-deixam-9-feridos-as-vesperas-de-nova-rodada-de-negociacoes.html"
       },
       {
        "n": "CartaCapital",
        "u": "https://www.cartacapital.com.br/mundo/ucrania-denuncia-cortes-de-energia-em-cinco-regioes-por-ataque-massivo-da-russia/"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/mundo/ataques-russos-deixam-nove-feridos-na-ucrania-as-vesperas-de-nova-rodada-de-negociacoes-de-paz/"
+      }
+     ]
+    },
+    {
+     "kicker": "Israel",
+     "quando": "Hoje",
+     "titulo": "Herzog anuncia que dará a Gadi Eisenkot, líder da oposição, a missão de formar o novo governo de Israel",
+     "resumo": "A designação formal será neste domingo, na residência presidencial em Jerusalém; o ex-chefe militar terá 28 dias, prorrogáveis por mais 14, para reunir 61 votos no Parlamento. Partidos com 67 deputados recomendaram Eisenkot, contra 46 para o bloco de Benjamin Netanyahu.",
+     "lados": [
+      {
+       "quem": "Benjamin Netanyahu",
+       "txt": "Diz que uma coalizão apoiada por partidos árabes, que chama de islamistas, enfraqueceria o Estado por dentro, e defende um governo de união."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "Afirma que qualquer acordo de união depende de Netanyahu deixar o cargo primeiro."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "O Povo / AFP",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/07/presidente-de-israel-encarregara-lider-da-oposicao-de-formar-um-governo.html"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/mundo/presidente-de-israel-dara-ao-lider-da-oposicao-a-missao-de-formar-governo/"
+      },
+      {
+       "n": "The Times of Israel",
+       "u": "https://www.timesofisrael.com/liveblog-november-07-2026/"
       }
      ]
     },
     {
      "kicker": "Vaticano",
      "quando": "Hoje",
-     "titulo": "Sob chuva, papa Leão XIV reúne dezenas de milhares em Paysandú e pede que fiéis sejam \"pontes\"",
-     "resumo": "Na primeira missa da viagem, perto da fronteira com a Argentina, o papa usou a ponte internacional, as palmeiras e o mate como imagens de diálogo, fé e amizade. À noite ele comanda vigília no Estádio Centenario, em Montevidéu, e no domingo segue para Buenos Aires; a viagem inclui ainda o Peru, até 17 de novembro.",
+     "titulo": "Depois de missa em Paysandú, papa Leão XIV faz vigília para dezenas de milhares no Estádio Centenario, em Montevidéu",
+     "resumo": "A vigília começou às 19h, com público estimado em 60 mil pessoas, depois de encontros com moradores de Casavalle e com educadores na Universidade Católica. A viagem ocorre menos de um mês depois de uma cirurgia no pulmão; o papa disse na sexta que se sente bem. No domingo, ele celebra missa em Florida e segue para Buenos Aires.",
      "fontes": [
       {
        "n": "Gazeta do Povo",
@@ -538,88 +624,28 @@
        "u": "https://www.metropoles.com/brasil/em-missao-no-uruguai-leao-xiv-realizara-vigilia-no-estadio-centenario"
       },
       {
-       "n": "Vatican News",
-       "u": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-chega-ao-uruguai-e-inicia-6-viagem-apostolica.html"
+       "n": "Piranot",
+       "u": "https://www.piranot.com.br/2026/11/07/noticias/mundo/papa-leao-xiv-vigilia-uruguai/"
       }
      ]
     },
     {
-     "kicker": "Gaza",
+     "kicker": "Estados Unidos",
      "quando": "Hoje",
-     "titulo": "Primeira tempestade de inverno alaga milhares de barracas de deslocados em Gaza",
-     "resumo": "A Defesa Civil local recebeu cerca de 1.500 pedidos de socorro em dez horas, e a água subiu de 30 a 40 centímetros em abrigos; duas pessoas ficaram feridas na queda de um muro no norte. O comitê de emergência diz que faltam 200 mil barracas, das quais 50 mil aguardam do lado egípcio da fronteira.",
+     "titulo": "Trump oferece a Dana White, presidente do UFC, o cargo de porta-voz da Casa Branca",
+     "resumo": "O convite foi feito em publicação na Truth Social, em que Trump pede que o empresário aceite a vaga. O posto está vago desde 16 de outubro, quando a porta-voz anterior deixou a função após uma semana. White não havia respondido até a publicação.",
      "fontes": [
       {
-       "n": "Al Jazeera",
-       "u": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza"
-      },
-      {
-       "n": "Executive Digest",
-       "u": "https://executivedigest.sapo.pt/medio-oriente-mais-de-1-500-habitantes-de-gaza-pediram-socorro-apos-forte-tempestade/"
-      }
-     ]
-    },
-    {
-     "kicker": "EUA",
-     "quando": "Ontem",
-     "titulo": "Democratas prometem enfrentar Stephen Miller, que assume a chefia de gabinete de Trump na segunda",
-     "resumo": "Miller, de 41 anos, substitui Susie Wiles depois da derrota republicana nas eleições legislativas. Trump o chamou de estrategista que está com ele desde o início; o líder democrata no Senado, Chuck Schumer, disse que vai combater o novo chefe de gabinete passo a passo.",
-     "lados": [
-      {
-       "quem": "Donald Trump",
-       "txt": "Diz que Miller é leal e um estrategista político hábil."
-      },
-      {
-       "quem": "Democratas",
-       "txt": "Schumer e Hakeem Jeffries afirmam que a escolha ignora o recado das urnas contra a política de deportações."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/07/chuck-schumer-promete-combater-passo-a-passo-o-novo-chefe-de-gabinete-de-trump/"
+       "n": "CartaCapital / AFP",
+       "u": "https://www.cartacapital.com.br/mundo/trump-oferece-cargo-de-secretario-de-imprensa-da-casa-branca-a-dana-white-do-ufc/"
       },
       {
        "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/6/trump-escolhe-aliado-linha-dura-para-chefiar-casa-branca-em-meio-a-avanco-democrata"
+       "u": "https://www.otempo.com.br/mundo/2026/11/7/trump-chama-diretor-do-ufc-para-chefiar-comunicacao-na-casa-branca"
       },
       {
-       "n": "CNN Portugal",
-       "u": "https://cnnportugal.iol.pt/donald-trump/stephen-miller/de-auor-dos-discursos-do-candidato-a-arquiteto-do-plano-de-deportacoes-em-massa-quem-e-stephen-miller-o-novo-chefe-de-gabinete-de-trump/20261107/6aef165dd34e9ce6f1b43803"
-      }
-     ]
-    },
-    {
-     "kicker": "Israel",
-     "quando": "05/11",
-     "titulo": "Herzog indica no domingo quem tentará formar o governo de Israel; Eisenkot tem 67 recomendações e Netanyahu, 46",
-     "resumo": "O opositor Gadi Eisenkot recebeu 67 indicações, inclusive dos partidos árabes, contra 46 de Benjamin Netanyahu; o partido ultraortodoxo Judaísmo Unido da Torá não apoiou ninguém. Herzog citou vetos mútuos entre os blocos, e o escolhido terá 28 dias, prorrogáveis por 14, para montar a coalizão.",
-     "lados": [
-      {
-       "quem": "Benjamin Netanyahu",
-       "txt": "Cita investigação sobre possível adulteração de votos e acusa partidos árabes de fraudar a eleição."
-      },
-      {
-       "quem": "Comitê Central Eleitoral",
-       "txt": "Afirma que a integridade da votação de 27 de outubro não foi comprometida."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Al Jazeera",
-       "u": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
-      },
-      {
-       "n": "Haaretz",
-       "u": "https://www.haaretz.com/israel-news/elections/2026-11-05/ty-article-live/netanyahu-warns-against-arab-jewish-coalition-in-first-appearance-since-election/000001a1-a9ee-defa-a7f7-adfff1720000"
-      },
-      {
-       "n": "Diario de Pernambuco",
-       "u": "https://www.diariodepernambuco.com.br/mundo/2026/11/11728507-partidos-arabes-anunciam-apoio-a-eisenkot-para-formar-novo-governo-de-israel.html"
-      },
-      {
-       "n": "JNS",
-       "u": "https://www.jns.org/news/israel-news/herzog-67-mks-recommend-eisenkot-46-netanyahu-mandate-to-be-assigned-sunday"
+       "n": "ECO (Portugal)",
+       "u": "https://eco.sapo.pt/2026/11/07/trump-convida-promotor-de-artes-marciais-dana-white-para-ser-porta-voz-da-casa-branca/"
       }
      ]
     }
@@ -629,45 +655,65 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "F1 em Interlagos e semifinais da Copa do Brasil",
+   "nota": "F1 em Interlagos, Copa do Brasil e Série B",
    "itens": [
     {
      "kicker": "Fórmula 1",
      "quando": "Hoje",
-     "titulo": "Interlagos define o grid às 15h sob ameaça de chuva; Bortoleto foi o 8º no segundo treino",
-     "resumo": "A última sessão livre começou às 11h30, e a classificação, transmitida pela Globo, pode ter pista molhada, segundo a previsão. Na sexta, Kimi Antonelli, já campeão, fez o melhor tempo, com Gabriel Bortoleto em 8º e Rafael Câmara em 16º; a corrida é no domingo, às 14h.",
+     "titulo": "Norris faz a pole em Interlagos numa classificação parada pela chuva; Câmara larga em 11º e Bortoleto, em 19º",
+     "resumo": "O inglês da McLaren conquistou a terceira pole seguida em São Paulo, à frente de Kimi Antonelli, da Mercedes, e de Liam Lawson, da Racing Bulls. A sessão ficou cerca de 1h30 interrompida por um temporal no Q1 e teve bandeira vermelha após batida forte de Rafael Câmara no Q2; Bortoleto bateu no início do Q1. Hamilton, Verstappen, Leclerc, Russell e Pérez perdem posições por troca de componentes; a corrida é domingo, às 14h.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-gp-de-sao-paulo-2026-veja-programacao-do-sabado-e-onde-assistir,92d9c84ad38bd3fc80ed6b4cf0034cda9rzvjpds.html"
+       "n": "Diário do Pará",
+       "u": "https://diariodopara.com.br/bola/gp-sao-paulo-norris-pole-chuva-camara-bortoleto/"
       },
       {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/chuva-ameaca-gp-de-sao-paulo-e-reacende-historico-de-caos-na-f1-em-interlagos/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/automobilismo/ao-vivo-acompanhe-a-classificacao-do-gp-de-sao-paulo-de-formula-1/"
       },
       {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/velocidade/formula-1/gp-de-sao-paulo-2026-tera-chuva-e-frio-em-interlagos-veja-a-previsao"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/formula-1/gp-do-sao-paulo-saiba-como-ficou-o-grid-de-largada-da-corrida-na-f1.html"
       }
      ]
     },
     {
      "kicker": "Copa do Brasil",
      "quando": "Hoje",
-     "titulo": "Atlético-MG recebe o Grêmio às 18h precisando reverter os 2 a 0 da ida para chegar à final",
-     "resumo": "Na Arena MRV, o Galo precisa vencer por três gols para avançar direto; vitória por dois leva a decisão aos pênaltis. O Grêmio, que briga contra o rebaixamento no Brasileirão, se classifica com empate ou até com derrota por um gol.",
+     "titulo": "Atlético-MG e Grêmio empatavam por 1 a 1 na Arena MRV no início do segundo tempo; gaúchos levavam vantagem de 3 a 1 no agregado",
+     "resumo": "Renan Lodi abriu o placar para o Atlético aos 25 minutos, com chute de fora da área, e Carlos Vinícius empatou de cabeça antes do intervalo. Como venceu a ida por 2 a 0, o Grêmio vai à final se não perder por dois gols de diferença; o resultado final não estava disponível no fechamento desta edição. O adversário na decisão sai de Vasco x Palmeiras, neste domingo.",
      "fontes": [
       {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/07/internet-e-redes-sociais/atletico-mg-x-gremio-onde-assistir-horario-e-escalacoes-da-semifinal-da-copa-do-brasil"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/futebol-nacional/ao-vivo-siga-atletico-mg-x-gremio-pela-semifinal-da-copa-do-brasil.html"
       },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/ao-vivo/atletico-mg-x-gremio/97907/"
+      },
+      {
+       "n": "VAVEL Brasil",
+       "u": "https://www.vavel.com/br/futebol/2026/11/07/1278398-atletico-mg-x-gremio-ao-vivo-copa-do-brasil.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Série B",
+     "quando": "Hoje",
+     "titulo": "Novorizontino vira sobre o Fortaleza e garante o primeiro acesso de sua história à Série A",
+     "resumo": "O time de Novo Horizonte (SP) venceu por 2 a 1, com gols de Matheus Bianqui e Luís Oyama, depois de sair atrás com gol de Paulo Baya. Com 70 pontos, o líder não pode mais ser alcançado na briga pelas vagas diretas; o Fortaleza, quinto, perdeu a chance de subir sem passar pelos playoffs.",
+     "fontes": [
       {
        "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/atletico-mg-x-gremio-pela-copa-do-brasil-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/"
+       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-vira-sobre-fortaleza-e-conquista-acesso-inedito-a-serie-a/"
       },
       {
-       "n": "Hoje Cidades",
-       "u": "https://hojecidades.com.br/futebol-7-8-novembro-2026-horarios-ms-onde-assistir/"
+       "n": "Diário do Nordeste",
+       "u": "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-perde-para-o-novorizontino-e-fica-sem-chances-de-acesso-direto-a-serie-a-1.3804149"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/esportes/novorizontino-bate-fortaleza-de-virada-e-garante-acesso-inedito-a-serie-a-do-brasileiro-1.1191780"
       }
      ]
     },
@@ -684,26 +730,6 @@
       {
        "n": "Hoje Cidades",
        "u": "https://hojecidades.com.br/futebol-7-8-novembro-2026-horarios-ms-onde-assistir/"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Fluminense vence o Vitória por 3 a 0 no Barradão e se firma no G-4",
-     "resumo": "Savarino e Canobbio marcaram no primeiro tempo, e Rodrigo Castillo fechou o placar aos 44 do segundo, pela 34ª rodada. O Vitória, que fazia o primeiro jogo depois da demissão de Jair Ventura, segue perto da zona de rebaixamento.",
-     "fontes": [
-      {
-       "n": "VAVEL",
-       "u": "https://www.vavel.com/br/futebol/2026/11/06/1278246-vitoria-x-fluminense-ao-vivo-brasileirao.html"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-confira-os-melhores-momentos-de-vitoria-x-fluminense"
-      },
-      {
-       "n": "Fluminense",
-       "u": "https://www.fluminense.com.br/noticia/fluminense-vence-o-vitoria-por-3-a-0-no-barradao"
       }
      ]
     },
@@ -877,28 +903,28 @@
    "nota": "Meio ambiente, pesquisa e inovação",
    "itens": [
     {
-     "kicker": "Energia",
-     "quando": "Ontem",
-     "titulo": "Itamaraty detalha viagem de Lula: ele será o terceiro a discursar na abertura da COP31 e depois vai às Filipinas",
-     "resumo": "A cúpula de líderes em Antália, na Turquia, ocorre nos dias 11 e 12, e Lula deve levar a queda do desmatamento, o plano de transição energética aprovado nesta semana e a cobrança por financiamento climático. Em seguida, ele participa da cúpula da Asean, em Manila, de 13 a 15 de novembro, na primeira visita de um presidente brasileiro às Filipinas.",
-     "fontes": [
-      {
-       "n": "O Mundo Diplomático",
-       "u": "https://omundodiplomatico.com.br/2026/11/07/lula-viaja-a-turquia-e-as-filipinas-para-a-cupula-da-cop31-e-a-49a-cupula-da-asean/"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-governo/lula-cobrara-financiamento-climatico-e-transicao-energetica-na-cop31/"
-      },
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-leva-a-cop31-queda-do-desmatamento-e-avanco-das-renovaveis-como-vitrine-do-brasil/"
-      }
-     ],
+     "kicker": "COP31",
+     "quando": "Hoje",
+     "titulo": "COP31 começa segunda em Antália sem expectativa de acordo vinculante sobre combustíveis fósseis",
+     "resumo": "Delegações de quase 200 países se reúnem na Turquia de 9 a 20 de novembro, com presidência turca e negociações conduzidas pela Austrália; financiamento climático e eletrificação estão no centro da pauta. Os EUA estão fora do Acordo de Paris, e a União Europeia diz não ter margem para ampliar recursos. Lula será o terceiro a discursar na abertura da cúpula de líderes e deve defender um roteiro para a saída gradual do petróleo, do gás e do carvão.",
      "foto": {
       "src": "fotos/floresta.jpg",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     }
+     },
+     "fontes": [
+      {
+       "n": "Swissinfo / EFE",
+       "u": "https://www.swissinfo.ch/por/turquia-recebe-cop31-em-um-mundo-turbulento-e-sem-grandes-decis%C3%B5es-%C3%A0-vista/92339546"
+      },
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/06/cop31-cimeira-coloca-cortes-nas-emissoes-e-financiamento-climatico-no-centro-do-debate/"
+      },
+      {
+       "n": "Rádio Senado",
+       "u": "https://www12.senado.leg.br/radio/1/noticia/2026/11/06/senado-participara-da-cop-31-que-comeca-segunda-feira-na-turquia"
+      }
+     ]
     },
     {
      "kicker": "Espaço",
@@ -939,16 +965,12 @@
     {
      "kicker": "Espaço",
      "quando": "05/11",
-     "titulo": "Pedra rosada achada no Saara é um meteorito de Marte com cerca de 4,1 bilhões de anos",
-     "resumo": "A rocha de quase 1 kg, encontrada em 2022, passou por análises que indicaram origem marciana e sinais de contato antigo com água. Segundo os pesquisadores, ela ajuda a reconstituir o período em que Marte tinha condições mais úmidas.",
+     "titulo": "Sonda europeia Hera envia as primeiras imagens de perto do asteroide atingido de propósito pela Nasa em 2022",
+     "resumo": "As fotos, feitas a cerca de 60 km do sistema Didymos-Dimorphos, foram divulgadas pela Agência Espacial Europeia. A missão vai mapear a superfície e medir a cratera deixada pela nave DART, para entender como pequenos corpos reagem a impactos, informação útil para a defesa planetária.",
      "fontes": [
       {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/oestegeral/2026/11/05/cientistas-descobriram-que-uma-rocha-encontrada-no-deserto-africano-veio-de-marte-ha-bilhoes-de-anos-e-preserva-sinais-de-agua-que-circulava-pelo-planeta/"
-      },
-      {
-       "n": "Catraca Livre",
-       "u": "https://catracalivre.com.br/noticias/pedra-rosada-encontrada-no-deserto-do-saara-em-2022-e-analisada-por-cientistas-e-revela-fragmento-de-marte-com-41-bilhoes-de-anos-e-sinais-de-contato-antigo-com-agua/"
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/2026/11/06/ciencia-e-espaco/nasa-lancou-espaconave-contra-um-asteroide-de-proposito-e-estamos-prestes-a-descobrir-o-que-aconteceu-depois"
       }
      ]
     }
@@ -960,26 +982,6 @@
    "cor": "--cul",
    "nota": "Música, cinema, TV e famosos",
    "itens": [
-    {
-     "kicker": "Luto",
-     "quando": "Ontem",
-     "titulo": "Morre aos 92 anos Nilton Travesso, diretor pioneiro da TV brasileira",
-     "resumo": "Ele estava internado no Hospital Sírio-Libanês, em São Paulo, e morreu em decorrência de infecção generalizada, segundo o SBT. Na Record, dirigiu \"Jovem Guarda\" e \"Hebe\"; na Globo, criou o núcleo paulista e programas como \"TV Mulher\" e \"Balão Mágico\"; no SBT, estruturou o \"Bom Dia & Cia\" e dirigiu a novela \"Éramos Seis\".",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-diretor-de-televisao-nilton-travesso-aos-92-anos/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/diversao/tv/morre-nilton-travesso-diretor-pioneiro-da-televisao-brasileira,e45e4116f7f66c2506283338d0060af01prdvfan.html"
-      },
-      {
-       "n": "DOL",
-       "u": "https://dol.com.br/entretenimento/fama/967657/morre-nilton-travesso-diretor-pioneiro-da-tv-brasileira-aos-92-anos"
-      }
-     ]
-    },
     {
      "kicker": "Cinema",
      "quando": "Ontem",
@@ -1003,12 +1005,48 @@
     {
      "kicker": "Luto",
      "quando": "Ontem",
+     "titulo": "Morre aos 92 anos Nilton Travesso, diretor pioneiro da TV brasileira",
+     "resumo": "Ele estava internado no Hospital Sírio-Libanês, em São Paulo, e morreu em decorrência de infecção generalizada, segundo o SBT. Na Record, dirigiu \"Jovem Guarda\" e \"Hebe\"; na Globo, criou o núcleo paulista e programas como \"TV Mulher\" e \"Balão Mágico\"; no SBT, estruturou o \"Bom Dia & Cia\" e dirigiu a novela \"Éramos Seis\".",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-diretor-de-televisao-nilton-travesso-aos-92-anos/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/diversao/tv/morre-nilton-travesso-diretor-pioneiro-da-televisao-brasileira,e45e4116f7f66c2506283338d0060af01prdvfan.html"
+      },
+      {
+       "n": "DOL",
+       "u": "https://dol.com.br/entretenimento/fama/967657/morre-nilton-travesso-diretor-pioneiro-da-tv-brasileira-aos-92-anos"
+      }
+     ]
+    },
+    {
+     "kicker": "Luto",
+     "quando": "Ontem",
      "titulo": "Morre aos 71 anos Roger Henri, autor de trilhas da TV Globo como a abertura do \"Supercine\"",
      "resumo": "O músico e compositor de Niterói, com mais de 2 mil músicas feitas para produções da emissora, sofreu um infarto enquanto dormia em casa, em Miguel Pereira (RJ), segundo a família. O sepultamento estava previsto para as 15h deste sábado.",
      "fontes": [
       {
        "n": "Correio Braziliense",
        "u": "https://tvprime.correiobraziliense.com.br/noticia/412788/celebridades/globo-confirma-triste-noticia-sobre-artista-que-marcou-sua-historia-ele-morreu-em-casa-aos-71-anos-07112026"
+      }
+     ]
+    },
+    {
+     "kicker": "Justiça",
+     "quando": "05/11",
+     "titulo": "Russell Brand é considerado culpado de estupro e agressão sexual em Londres e recebe a sentença na segunda",
+     "resumo": "O júri do Tribunal de Southwark condenou o humorista britânico pelo estupro de uma fã em 2009 e por agressões a outras mulheres entre 2004 e 2009, e o absolveu de outras acusações. O juiz Joel Bennathan disse que uma pena de prisão significativa é inevitável e manteve Brand detido até a sentença, marcada para 9 de novembro.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/celebridades/russell-brand-e-considerado-culpado-por-estupro-e-agressao-sexual/"
+      },
+      {
+       "n": "O Povo / AFP",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/05/ator-britanico-russell-brand-e-considerado-culpado-de-estupro-e-agressoes-sexuais.html"
       }
      ]
     },
@@ -1025,18 +1063,6 @@
       {
        "n": "Exame",
        "u": "https://exame.com/pop/de-gta-6-a-jogos-vorazes-os-lancamentos-de-filmes-series-games-e-albuns-de-novembro/"
-      }
-     ]
-    },
-    {
-     "kicker": "Famosos",
-     "quando": "Ontem",
-     "titulo": "Karoline Lima anuncia o fim do noivado com o zagueiro Léo Pereira, do Flamengo",
-     "resumo": "Em vídeos nas redes sociais, a influenciadora disse que a decisão foi dela e que o motivo não foi traição. O noivado tinha sido anunciado em julho, e não é a primeira separação do casal.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/celebridades/karoline-lima-anuncia-fim-do-noivado-com-leo-pereira"
       }
      ]
     }
