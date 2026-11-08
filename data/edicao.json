@@ -1,10 +1,10 @@
 {
  "data": "Domingo, 8 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "08/11/2026 · 07h07 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
+ "edicao": "Edição do meio-dia",
+ "atualizado": "08/11/2026 · 12h33 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
  "mercado_hora": "Cotações de 17h (fechamento de sexta)",
- "fontes": 46,
+ "fontes": 57,
  "mercado": [
   {
    "nome": "Ibovespa · fechamento de sexta",
@@ -29,17 +29,23 @@
    "valor": "13,75%",
    "var": "mantida",
    "dir": ""
+  },
+  {
+   "nome": "Bitcoin · 8h de domingo",
+   "valor": "US$ 75.809",
+   "var": "-0,1% em 24h",
+   "dir": "down"
   }
  ],
  "agenda": [
   {
-   "hora": "Dom 8/11 · 13h30",
-   "txt": "Primeiro dia do Enem (portões das 12h às 13h); Lula visita a sala de monitoramento do Inep às 11h, e MEC e Inep fazem balanço após as 19h",
+   "hora": "Dom 8/11 · até 19h",
+   "txt": "Primeiro dia do Enem (linguagens, ciências humanas e redação); saída liberada a partir das 15h30 e balanço do MEC e do Inep depois das 19h",
    "cat": "educacao"
   },
   {
    "hora": "Dom 8/11 · 14h",
-   "txt": "Largada do GP de São Paulo de F1, com Norris na pole; às 17h, Vasco x Palmeiras definem quem enfrenta o Grêmio na final da Copa do Brasil",
+   "txt": "Largada do GP de São Paulo de F1, com Norris na pole; às 17h, Vasco x Palmeiras em São Januário pela vaga na final contra o Grêmio",
    "cat": "esporte"
   },
   {
@@ -49,7 +55,7 @@
   },
   {
    "hora": "Seg 9/11",
-   "txt": "Começa a COP31, em Antália (Turquia), e Lula embarca de manhã; Globo estreia a novela das seis \"Lá na Minha Terra\"",
+   "txt": "Começa a COP31, em Antália (Turquia), e Lula embarca para a viagem que inclui as Filipinas; Globo estreia a novela das seis \"Lá na Minha Terra\"",
    "cat": "ciencia"
   },
   {
@@ -59,7 +65,7 @@
   },
   {
    "hora": "Dom 15/11",
-   "txt": "Segundo dia do Enem, com matemática e ciências da natureza; provas terminam às 18h30",
+   "txt": "Segundo dia do Enem, com matemática e ciências da natureza",
    "cat": "educacao"
   }
  ],
@@ -157,43 +163,43 @@
  ],
  "manchete": {
   "kicker": "Enem 2026",
-  "titulo": "Enem começa hoje para mais de 5 milhões de inscritos, com portões fechando às 13h e prova até as 19h",
-  "resumo": "O primeiro dia tem 90 questões de linguagens e ciências humanas, além da redação, em cerca de 1.900 municípios. É o maior número de inscritos desde 2021, e pela primeira vez alunos concluintes da rede pública foram inscritos automaticamente e fazem a prova na própria escola.",
+  "titulo": "Mais de 5 milhões fazem hoje o primeiro dia do Enem; prova vai até as 19h e quem perder o dia por causa do clima terá nova data em dezembro",
+  "resumo": "O primeiro dia tem 90 questões de linguagens e ciências humanas e a redação, em cerca de 1.900 municípios, e os portões fecham às 13h. Lula acompanhou pela manhã a sala de monitoramento do Inep, e o ministro da Educação disse que estudantes impedidos de chegar por temporais poderão fazer a prova em dezembro.",
   "foto": {
    "src": "fotos/enamed.jpg",
    "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
   },
   "entenda": "O Enem é a principal porta de entrada para o ensino superior: a nota é usada no Sisu, para vagas em universidades públicas, no ProUni e no Fies. A partir deste ano, o exame passa a fazer parte do Saeb, o sistema que avalia a educação básica, e o MEC elevou de 55% para 70% a meta de participação dos concluintes da rede pública. Depois de itens parecidos com questões da edição de 2025 circularem nas redes, o Inep diz ter reformulado o protocolo de pré-teste, e a Polícia Federal apura o caso. A estrutura e os critérios da redação não mudaram; alterações em estudo só devem valer a partir de 2028.",
   "fatos": [
-   "Os portões abrem às 12h e fecham às 13h (horário de Brasília); quem chegar depois não entra. É preciso levar documento oficial com foto, físico ou digital, e caneta preta de tubo transparente.",
-   "O candidato só pode sair depois de duas horas de prova e só leva o caderno de questões nos últimos 30 minutos; celulares ficam desligados em envelope lacrado. Em Seara e Canoinhas (SC), escolas danificadas por temporais foram trocadas, e o Inep orienta conferir o local no Cartão de Confirmação.",
-   "O segundo dia, em 15 de novembro, terá matemática e ciências da natureza. Lula visita a sala de monitoramento do Inep às 11h, e o MEC faz entrevista de balanço depois das 19h."
+   "A prova começou às 13h30 e dura 5h30. O candidato pode sair a partir das 15h30 e só leva o caderno de questões a partir das 18h30; celulares ficam desligados em envelope lacrado.",
+   "Com a frente fria, o Inmet prevê tempestades neste domingo no Rio, em Minas, no Espírito Santo e no norte e leste de São Paulo. Segundo Leonardo Barchini, quem não conseguir chegar por motivo climático terá uma segunda aplicação em dezembro; a data ainda não foi divulgada.",
+   "O segundo dia, em 15 de novembro, terá matemática e ciências da natureza. O MEC e o Inep fazem entrevista de balanço depois das 19h."
   ],
   "fontes": [
    {
-    "n": "Agência Gov",
-    "u": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-primeiro-dia-de-provas-ocorre-neste-domingo-8",
-    "d": "Horários e regras"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-primeiro-dia-de-prova/",
+    "d": "Horários da prova"
    },
    {
     "n": "CNN Brasil",
-    "u": "https://cnnbrasil.com.br/politica/lula-acompanha-primeiro-dia-do-enem-em-sala-de-monitoramento-do-inep",
+    "u": "https://www.cnnbrasil.com.br/educacao/enem-estudantes-afetados-por-questoes-climaticas-terao-nova-data-de-prova/",
+    "d": "Nova data por clima"
+   },
+   {
+    "n": "Correio Braziliense",
+    "u": "https://www.correiobraziliense.com.br/politica/2026/11/7535074-lula-visita-sala-de-monitoramento-do-enem-em-brasilia.html",
     "d": "Inscritos e visita de Lula"
    },
    {
+    "n": "Agência Gov",
+    "u": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-primeiro-dia-de-provas-ocorre-neste-domingo-8",
+    "d": "Regras do dia"
+   },
+   {
     "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-mec-garante-seguranca-da-prova-e-mantem-regras-da-redacao",
-    "d": "Segurança e redação"
-   },
-   {
-    "n": "ND+",
-    "u": "https://ndmais.com.br/educacao/locais-de-prova-do-enem-2026-sao-alterados-apos-fortes-temporais-quebrarem-telhados-de-escolas-em-sc/",
-    "d": "Locais trocados em SC"
-   },
-   {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/enem-2026-veja-dicas-para-preparar-para-primeiro-dia-provas",
-    "d": "Dicas para o dia"
+    "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades",
+    "d": "Alerta de tempestades"
    },
    {
     "n": "Gazeta do Povo",
@@ -331,7 +337,7 @@
      "kicker": "Mercado",
      "quando": "Hoje",
      "titulo": "Mercado espera sinais do pronunciamento de Lula antes de uma semana com IPCA de outubro e inflação americana",
-     "resumo": "O Ibovespa fechou a sexta em alta de 1,39%, a 168.498 pontos, e teve a primeira alta semanal em quatro semanas, com o dólar a R$ 5,51. Investidores acompanham se a fala desta noite trará compromisso fiscal mais claro; a agenda da semana inclui a inflação dos EUA na terça e o IPCA de outubro na quinta. A Selic segue em 13,75% depois de o Copom interromper os cortes.",
+     "resumo": "Com a bolsa fechada no fim de semana, a referência segue sendo a sexta: o Ibovespa subiu 1,39%, a 168.498 pontos, na primeira alta semanal em quatro semanas, e o dólar fechou a R$ 5,51. Investidores acompanham se a fala desta noite trará compromisso fiscal mais claro, numa semana com o Boletim Focus na segunda, a inflação dos EUA na terça e o IPCA de outubro na quinta. No mercado de criptomoedas, que funciona sem pausa, o bitcoin estava perto de US$ 75,8 mil pela manhã, estável em 24 horas.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
@@ -348,6 +354,10 @@
       {
        "n": "Investing.com / Reuters",
        "u": "https://br.investing.com/news/stock-market-news/ibovespa-avanca-com-alta-em-mercados-externos-investidor-aguarda-lula-2119637"
+      },
+      {
+       "n": "BitNotícias",
+       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-08-de-novembro-de-2026/"
       }
      ]
     },
@@ -394,33 +404,49 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Frente fria, temporais e segurança",
+   "nota": "Temporais, frente fria e segurança",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Frente fria forte avança pelo Sudeste e Centro-Oeste depois de novos tornados no RS; ES tem alerta de tempestade em 78 cidades",
-     "resumo": "Segundo a Climatempo, a massa de ar polar traz sensação de frio a São Paulo, ao Sul de Minas e à serra fluminense neste domingo e na segunda, com risco de temporais, granizo e rajadas em todas as regiões. No RS, a Defesa Civil confirmou tornados na madrugada de sábado em Santo Augusto e Palmeira das Missões; os temporais afetaram mais de 23 mil pessoas e deixaram cinco feridos. Em Belo Horizonte, a chuva de sábado alagou ruas e derrubou árvores, e o Inmet mantém alerta para o Espírito Santo durante todo o dia.",
+     "titulo": "Depois de microexplosão no Vale do Paraíba e estragos no Rio, frente fria mantém alerta de tempestades no Sudeste e no Centro-Oeste",
+     "resumo": "No sábado, rajadas de 126,7 km/h destelharam cerca de 20 casas em Cachoeira Paulista (SP), sem feridos, e no Rio ventos acima de 80 km/h alagaram bairros da zona oeste e derrubaram torres de alta tensão da Enel em São Gonçalo, em linha que abastece a captação de água da região metropolitana. Para este domingo, o Inmet prevê tempestades no Rio, em Minas, no Espírito Santo e no norte e leste de São Paulo, com granizo possível em Mato Grosso do Sul e Goiás. Segundo a Climatempo, a massa de ar polar segue até segunda e derruba as temperaturas no Sul, onde Curitiba deve ter mínima de 10°C.",
      "foto": {
-      "src": "https://imagens.ebc.com.br/u-fS6X3vfGwd8c5R9XmQKsGg-_Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/_int8926.jpg?itok=pJw84Em0",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/raMSi5w4z7YWSda5hUy4zrDZhUk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/frio_sao_paulo_1.jpg?itok=ZGuElqTt",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/brasil/grande-e-forte-frente-fria-avanca-sobre-o-pais-ate-segunda-diz-climatempo/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-confirma-novos-tornados-em-cidades-no-interior-do-rs/"
+       "u": "https://www.cnnbrasil.com.br/nacional/brasil/sao-paulo-e-rio-de-janeiro-sofrem-estragos-por-tempestades-veja-imagens/"
       },
       {
-       "n": "ES Hoje",
-       "u": "https://eshoje.com.br/meio-ambiente/2026/11/domingo-chuva-forte-alerta/"
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/sudeste/tempestades-severas-deixam-rastro-de-destruicao-em-sao-paulo-e-no-rio/"
       },
       {
        "n": "O Tempo",
-       "u": "https://otempo.com.br/cidades/2026/11/7/tempestade-em-belo-horizonte-alaga-ruas-e-derruba-arvores-neste-sabado-7-11"
+       "u": "https://www.otempo.com.br/cidades/2026/11/8/defesa-civil-alerta-para-possibilidade-de-tempestades-antes-e-durante-o-enem-em-mg"
+      }
+     ]
+    },
+    {
+     "kicker": "Crime organizado",
+     "quando": "Hoje",
+     "titulo": "\"Rei da Sucata\", suspeito de lavar dinheiro do Comando Vermelho em São Gonçalo, é preso numa joalheria em São Paulo",
+     "resumo": "O empresário Rodrigo Leonardo de Lima Alcântara estava foragido desde maio, quando uma fase da Operação Contenção foi deflagrada, e foi localizado pela Polícia Civil do Rio com apoio do Ministério Público de Minas e do serviço de segurança diplomática dos EUA. Segundo a investigação, uma empresa administrada por ele repassou R$ 4,6 milhões a um suposto operador financeiro do tráfico no Complexo do Salgueiro; a operação mapeou movimentações acima de R$ 453 milhões.",
+     "fontes": [
+      {
+       "n": "Tempo Real RJ",
+       "u": "https://temporealrj.com/rei-sucata-comando-vermelho-sao-goncalo-preso/"
+      },
+      {
+       "n": "Blog do Ricardo Antunes",
+       "u": "https://ricardoantunes.net/rei-da-sucata-investigado-por-lavagem-de-dinheiro-para-o-comando-vermelho-e-preso-em-shopping-de-luxo/"
       }
      ]
     },
@@ -479,38 +505,18 @@
    "nota": "Internacional",
    "itens": [
     {
-     "kicker": "Polônia",
-     "quando": "Ontem",
-     "titulo": "Polícia acha três corpos na casa do atirador de Cracóvia; governo vê influência de extrema direita",
-     "resumo": "O suspeito, Michal Oksinski, de 24 anos, matou seis pessoas e feriu 15 na praça central da cidade antes de ser baleado e preso; a principal hipótese é que os mortos encontrados em sua casa, em Ostrowiec Swietokrzyski, sejam os pais e a irmã. O ministro do Interior disse que tudo indica influência de ideologia de extrema direita, ponto que será investigado, e o ministro da Defesa chamou o ataque de ato de terror. Cracóvia está de luto oficial até quarta.",
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/08/ataque-a-tiros-deixa-mortos-em-cracovia-na-polonia-agressor-seria-quotfascinado-por-ideologias-de-extrema-direita-quot.html"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/global/atirador-matou-6-polonia-extrema-direita/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/mundo/atirador-deixa-6-mortos-e-varios-feridos-em-praca-no-centro-de-cracovia-na-polonia-o-que-se-sabe,050a4b8b260108a9dd5bf57198b6c26egcojko18.html"
-      }
-     ]
-    },
-    {
      "kicker": "Israel",
      "quando": "Hoje",
-     "titulo": "Eisenkot recebe hoje de Herzog o mandato para formar governo e tem até 6 de dezembro para chegar a 61 cadeiras",
-     "resumo": "O líder da oposição foi recomendado por 67 deputados, contra 46 de Benjamin Netanyahu, mas seu bloco soma 48 cadeiras e depende de partidos ultraortodoxos para alcançar a maioria. O prazo de 28 dias pode ser prorrogado por mais 14.",
+     "titulo": "Eisenkot recebe de Herzog o mandato para formar governo em Israel e tem 28 dias, prorrogáveis, para chegar a 61 cadeiras",
+     "resumo": "O líder do partido centrista Yashar foi recomendado por 67 deputados, 19 deles dos dois partidos árabes, contra 46 de Benjamin Netanyahu; os quatro partidos judeus da oposição somam 48 cadeiras. Avigdor Liberman rejeita uma coalizão que dependa de partidos árabes. Se Eisenkot não formar maioria, o mandato passa a Netanyahu por mais quatro semanas.",
      "lados": [
       {
        "quem": "Benjamin Netanyahu",
-       "txt": "Propõe um governo de unidade nacional com os partidos sionistas e diz que uma coalizão apoiada por partidos árabes não combateria o Hamas."
+       "txt": "Contesta o resultado, diz que um governo de minoria apoiado por partidos árabes colocaria Israel em risco e propõe um governo de unidade nacional com seu bloco."
       },
       {
        "quem": "Gadi Eisenkot",
-       "txt": "Promete fazer todo o possível para cumprir a tarefa e formar um novo governo."
+       "txt": "Chama a proposta de manobra, promete fazer o possível para formar o novo governo e impõe condições como o reconhecimento do Hamas como organização terrorista."
       }
      ],
      "fontes": [
@@ -529,10 +535,34 @@
      ]
     },
     {
+     "kicker": "Polônia",
+     "quando": "Hoje",
+     "titulo": "Polônia investiga como terrorismo o ataque em Cracóvia; corpos achados na casa do atirador são dos pais e da irmã",
+     "resumo": "O suspeito, de 24 anos, matou seis pessoas e feriu 15 na Praça do Mercado no sábado antes de ser baleado e preso. A Promotoria Nacional abriu investigação por crime de terrorismo e confirmou a identidade dos três mortos encontrados em sua casa, em Ostrowiec Swietokrzyski. O ministro do Interior disse que há sinais de influência de ideologia de extrema direita, ponto que será apurado; Cracóvia está de luto oficial até quarta.",
+     "fontes": [
+      {
+       "n": "EFE",
+       "u": "https://www.infobae.com/america/agencias/2026/11/08/temas-del-dia-de-efe-internacional-del-domingo-8-de-noviembre-1200-gmt/"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/08/ataque-a-tiros-deixa-mortos-em-cracovia-na-polonia-agressor-seria-quotfascinado-por-ideologias-de-extrema-direita-quot.html"
+      },
+      {
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/global/atirador-matou-6-polonia-extrema-direita/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/mundo/atirador-deixa-6-mortos-e-varios-feridos-em-praca-no-centro-de-cracovia-na-polonia-o-que-se-sabe,050a4b8b260108a9dd5bf57198b6c26egcojko18.html"
+      }
+     ]
+    },
+    {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Novo ataque russo de madrugada usa 164 drones e três mísseis e deixa mais de 600 mil sem luz na região de Dnipro",
-     "resumo": "Segundo autoridades ucranianas, a defesa aérea derrubou 137 drones, mas houve impactos em 23 pontos; uma pessoa morreu em Odessa e houve feridos em Kharkiv, Zaporizhzhia e Khmelnytskyi. Em Zhytomyr, uma caldeira atingida suspendeu o aquecimento de parte das casas. O ataque ocorre a dois dias da nova rodada de negociações com Rússia e EUA, marcada para terça em Abu Dhabi.",
+     "titulo": "Rússia diz ter atingido instalações de energia e logística na Ucrânia; ataque deixou mais de 600 mil sem luz na região de Dnipro",
+     "resumo": "Segundo autoridades ucranianas, a ofensiva da madrugada usou 164 drones e três mísseis, com impactos em 23 pontos, uma morte em Odessa e feridos em quatro regiões; em Zhytomyr, uma caldeira atingida cortou o aquecimento de parte das casas. O Ministério da Defesa russo afirma ter mirado depósitos de munição e infraestrutura usada pelas forças ucranianas. A ofensiva ocorre a dois dias da rodada de negociações com mediação dos EUA em Abu Dhabi, a primeira em oito meses, da qual os ucranianos ouvidos pela EFE esperam pouco avanço.",
      "fontes": [
       {
        "n": "TSN / my.ua",
@@ -541,6 +571,38 @@
       {
        "n": "Euronews",
        "u": "https://pt.euronews.com/video/2026/11/08/noticias-do-dia-8-de-novembro-2026-manha"
+      },
+      {
+       "n": "Sputnik Brasil / Tribuna do Agreste",
+       "u": "https://www.tribunadoagreste.com.br/geral/2026/11/08/1016242-forcas-russas-atacam-infraestruturas-ucranianas-diz-ministerio-da-defesa"
+      }
+     ]
+    },
+    {
+     "kicker": "Vaticano",
+     "quando": "Hoje",
+     "titulo": "Papa Leão XIV deixa o Uruguai e segue para a Argentina, segunda etapa da viagem pela América do Sul",
+     "resumo": "Leão XIV encerrou a passagem pelo Uruguai com missa em Florida, na festa da padroeira do país, depois de uma vigília com jovens no Estádio Centenario, em Montevidéu. Na Argentina, terra de seu antecessor, Francisco, terá atividades em Buenos Aires, Córdoba e Luján e encontro com o presidente Javier Milei; depois vai ao Peru e volta a Roma em 17 de novembro.",
+     "fontes": [
+      {
+       "n": "EFE",
+       "u": "https://www.infobae.com/america/agencias/2026/11/08/temas-del-dia-de-efe-internacional-del-domingo-8-de-noviembre-1200-gmt/"
+      },
+      {
+       "n": "La Nación",
+       "u": "https://www.lanacion.com.ar/sociedad/viaje-del-papa-leon-xiv-a-la-argentina-cuando-llega-las-misas-confirmadas-y-las-ultimas-noticias-nid04112026/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-celebra-missa-historica-no-uruguai-em-viagem-pela-america-do-sul/"
+      },
+      {
+       "n": "Vaticano",
+       "u": "https://www.vatican.va/content/leo-xiv/pt/travels/2026/documents/uruguay-argentina-peru-6-17novembre2026.html"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/em-missao-no-uruguai-leao-xiv-realizara-vigilia-no-estadio-centenario"
       }
      ]
     },
@@ -563,26 +625,6 @@
        "u": "https://www.infomoney.com.br/mundo/paraguai-alliana-presidente-pena-preso-impeachment-ueno-bank/"
       }
      ]
-    },
-    {
-     "kicker": "Vaticano",
-     "quando": "Hoje",
-     "titulo": "Papa Leão XIV deixa o Uruguai e segue para a Argentina, segunda etapa da viagem pela América do Sul",
-     "resumo": "No sábado, o papa celebrou missa em Paysandú e fez uma vigília com jovens no Estádio Centenario, em Montevidéu. Ele passa três dias na Argentina e cinco no Peru antes de voltar a Roma, em 17 de novembro.",
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-celebra-missa-historica-no-uruguai-em-viagem-pela-america-do-sul/"
-      },
-      {
-       "n": "Vaticano",
-       "u": "https://www.vatican.va/content/leo-xiv/pt/travels/2026/documents/uruguay-argentina-peru-6-17novembre2026.html"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/em-missao-no-uruguai-leao-xiv-realizara-vigilia-no-estadio-centenario"
-      }
-     ]
     }
    ]
   },
@@ -596,8 +638,12 @@
      "kicker": "Fórmula 1",
      "quando": "Hoje",
      "titulo": "GP de São Paulo larga às 14h com Norris na pole e chance de chuva durante a corrida",
-     "resumo": "Kimi Antonelli, da Mercedes, que já garantiu o título no México, sai em segundo, e Liam Lawson em terceiro; George Russell larga em sétimo após punição. O estreante Rafael Câmara sai em 11º e Gabriel Bortoleto, no fundo do grid, depois de batidas na classificação. A previsão indica tempo frio, entre 13°C e 15°C, e probabilidade de chuva entre 40% e 80% durante a prova.",
+     "resumo": "Kimi Antonelli, da Mercedes, já campeão, sai em segundo, à frente de Liam Lawson e Nico Hülkenberg; George Russell larga em sétimo após punição e Oscar Piastri, em décimo. Os brasileiros Rafael Câmara e Gabriel Bortoleto saem do meio e do fim do grid depois de batidas na classificação. A previsão indica tempo frio e chance de chuva durante a prova, em fim de semana de alerta de temporais em São Paulo; a Globo transmite.",
      "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-confira-o-horario-e-grid-de-largada-do-gp-de-sao-paulo-2026,80c194e5ba6376326a309bb78fb00c24k3pcblx2.html"
+      },
       {
        "n": "Terra",
        "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-horarios-grid-de-largada-previsao-do-tempo-e-onde-assistir-ao-gp-de-sao-paulo,ac703c3df719d5c2e864ac085559e558k99gxizx.html"
@@ -674,7 +720,7 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Vacinação e vigilância",
+   "nota": "Vigilância e vacinação",
    "itens": [
     {
      "kicker": "Sarampo",
@@ -697,6 +743,26 @@
       {
        "n": "O Rebate",
        "u": "https://orebate.com.br/saude/brasil-reforca-vacinacao-contra-sarampo-na-fronteira-com-peru-e-colombia"
+      }
+     ]
+    },
+    {
+     "kicker": "Mpox",
+     "quando": "Ontem",
+     "titulo": "São Paulo confirma 67 novos casos de mpox desde outubro e retoma vacinação para público prioritário",
+     "resumo": "Os casos novos representam cerca de 22% dos 300 diagnósticos do estado em 2026, sem mortes, e a maioria está na capital. O Ministério da Saúde autorizou a compra preventiva de 20 mil doses e enviou vacinas ao Distrito Federal, que registrou 23 casos; a imunização é restrita a pessoas com HIV e imunidade baixa, a partir de 18 anos. Infectologistas ouvidos dizem que não há indicação de vacinação em massa.",
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/sp/sao-paulo/saude/noticia/2026/11/07/sp-confirma-mais-67-casos-mpox-desde-outubro"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/saude/ministerio-da-saude-autoriza-compra-de-20-mil-doses-de-vacina-contra-mpox"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://correiobraziliense.com.br/cidades-df/2026/11/7534439-mpox-ministerio-de-saude-envia-100-doses-de-vacina-apos-df-registrar-23-casos.html"
       }
      ]
     },
@@ -743,22 +809,47 @@
     {
      "kicker": "Enem",
      "quando": "Hoje",
-     "titulo": "Lula acompanha o primeiro dia do Enem na sala de monitoramento do Inep, que rastreia os malotes em tempo real",
-     "resumo": "A visita está marcada para as 11h, com o ministro da Educação, Leonardo Barchini, e o presidente do Inep, Manuel Palácios. As provas chegam a cerca de 1.900 municípios; mulheres são 64% dos inscritos e jovens de 17 e 18 anos somam 2,56 milhões. O MEC dá entrevista com o balanço depois das 19h.",
+     "titulo": "Candidato impedido de chegar à prova por causa de temporais poderá fazer o Enem em dezembro, diz ministro",
+     "resumo": "Segundo Leonardo Barchini, haverá uma segunda aplicação para quem não conseguir chegar por motivos climáticos; o MEC ainda não informou a data nem como pedir. O Inmet prevê tempestades hoje em parte do Sudeste e do Centro-Oeste, e a Defesa Civil de Minas alertou para chuva forte antes e durante a prova.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/educacao/enem-estudantes-afetados-por-questoes-climaticas-terao-nova-data-de-prova/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/cidades/2026/11/8/defesa-civil-alerta-para-possibilidade-de-tempestades-antes-e-durante-o-enem-em-mg"
+      },
+      {
+       "n": "Poa 24 Horas",
+       "u": "https://poa24horas.com.br/educacao/2026/11/estudantes-afetados-por-tornados-e-temporais-poderao-refazer-o-enem-em-dezembro/"
+      }
+     ]
+    },
+    {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Lula acompanha na sala de monitoramento do Inep a distribuição das provas e a abertura dos portões do Enem",
+     "resumo": "O presidente visitou a sede do Inep, em Brasília, pela manhã, com o ministro Leonardo Barchini e o presidente do instituto, Manuel Palacios, e viu o sistema que rastreia os malotes e registra ocorrências em tempo real. O exame tem mais de 5 milhões de inscritos, alta de 5% sobre 2025 e o maior número desde 2021, em cerca de 1.900 municípios.",
      "foto": {
       "src": "https://imagens.ebc.com.br/obt_6uvZaMAENncplfQHh8PJNQI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/04/pzzb9731.jpg?itok=ClYEPOzn",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://cnnbrasil.com.br/politica/lula-acompanha-primeiro-dia-do-enem-em-sala-de-monitoramento-do-inep"
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7535074-lula-visita-sala-de-monitoramento-do-enem-em-brasilia.html"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-mec-garante-seguranca-da-prova-e-mantem-regras-da-redacao"
+       "n": "Imirante",
+       "u": "https://imirante.com/noticias/brasil/2026/11/08/ipolitica-lula-acompanha-primeiro-dia-enem-sede-inep"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/lula-acompanha-monitoramento-de-1o-dia-do-enem-neste-domingo-8-11"
       }
-     ]
+     ],
+     "destaque": false
     },
     {
      "kicker": "Enem",
@@ -808,8 +899,8 @@
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "COP31 começa amanhã em Antália; Lula embarca de manhã e discursa duas vezes na quarta",
-     "resumo": "A conferência do clima vai de 9 a 20 de novembro, e a cúpula de líderes ocorre nos dias 11 e 12. Segundo a Agência Brasil, Lula deve destacar a queda do desmatamento na Amazônia e no Cerrado e participar de reunião sobre o fundo de florestas tropicais (TFFF), para o qual a Holanda deve formalizar US$ 500 milhões. Mais de 15 líderes pediram encontros bilaterais com o presidente, que depois segue para a cúpula da Asean, nas Filipinas.",
+     "titulo": "COP31 começa amanhã em Antália, sem o governo dos EUA; Lula embarca na segunda e discursa na cúpula de líderes",
+     "resumo": "A conferência do clima vai de 9 a 20 de novembro, com foco em financiamento para os países mais afetados pelo aquecimento, e a cúpula de líderes ocorre nos dias 11 e 12. Segundo a Agência Brasil, Lula deve destacar a queda do desmatamento na Amazônia e no Cerrado e participar de reunião sobre o fundo de florestas tropicais (TFFF). Depois, o presidente faz visita de Estado às Filipinas e participa da cúpula da Asean, em Manila, com volta prevista para o dia 16.",
      "foto": {
       "src": "fotos/floresta.jpg",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
@@ -820,8 +911,12 @@
        "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/lula-prepara-ida-a-cop31-com-relevancia-de-1a-agenda-externa-apos-reeleicao/"
+       "n": "EFE",
+       "u": "https://www.infobae.com/america/agencias/2026/11/08/temas-del-dia-de-efe-internacional-del-domingo-8-de-noviembre-1200-gmt/"
+      },
+      {
+       "n": "Boca",
+       "u": "https://boca.com.br/politica/lula-viaja-para-turquia-para-cop31"
       },
       {
        "n": "Rádio Senado",
@@ -859,7 +954,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Música, TV e cinema",
+   "nota": "Música, TV, cinema e famosos",
    "itens": [
     {
      "kicker": "Música",
@@ -878,6 +973,26 @@
       {
        "n": "Tribuna do Sertão",
        "u": "https://www.tribunadosertao.com.br/variedades/2026/11/07/1016149-morre-richard-lloyd-guitarrista-do-television-aos-75-anos"
+      }
+     ]
+    },
+    {
+     "kicker": "Famosos",
+     "quando": "Hoje",
+     "titulo": "Giovanna Antonelli relata pânico em voo com forte turbulência durante tempestade",
+     "resumo": "A atriz, de 50 anos, contou que mandou mensagens de despedida aos filhos, ao marido e ao irmão quando o avião enfrentou a turbulência e teve de arremeter, na sexta-feira; um passageiro sentado ao lado gravou vídeos do momento. Ela disse ter sido o maior medo da vida, e o avião pousou em segurança.",
+     "fontes": [
+      {
+       "n": "DOL / UOL",
+       "u": "https://dol.com.br/entretenimento/fama/967718/giovanna-antonelli-revela-panico-em-voo-me-despedi-de-todo-mundo"
+      },
+      {
+       "n": "Super Rádio Tupi",
+       "u": "https://www.tupi.fm/entretenimento/giovanna-antonelli-passa-por-momentos-de-tensao-em-voo-durante-tempestade-maior-medo-da-minha-vida/"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/geral/giovanna-antonelli-relata-panico-e-despedidas-em-voo-com-turbulencia-video/"
       }
      ]
     },
