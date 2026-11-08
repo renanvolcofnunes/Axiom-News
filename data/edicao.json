@@ -1,10 +1,10 @@
 {
  "data": "Domingo, 8 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "08/11/2026 · 12h33 (Brasília)",
- "proxima": "Próxima atualização: 19h",
+ "edicao": "Edição da noite",
+ "atualizado": "08/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
  "mercado_hora": "Cotações de 17h (fechamento de sexta)",
- "fontes": 57,
+ "fontes": 65,
  "mercado": [
   {
    "nome": "Ibovespa · fechamento de sexta",
@@ -31,23 +31,13 @@
    "dir": ""
   },
   {
-   "nome": "Bitcoin · 8h de domingo",
-   "valor": "US$ 75.809",
-   "var": "-0,1% em 24h",
-   "dir": "down"
+   "nome": "Bitcoin · 19h de domingo",
+   "valor": "US$ 75.938",
+   "var": "perto da estabilidade",
+   "dir": ""
   }
  ],
  "agenda": [
-  {
-   "hora": "Dom 8/11 · até 19h",
-   "txt": "Primeiro dia do Enem (linguagens, ciências humanas e redação); saída liberada a partir das 15h30 e balanço do MEC e do Inep depois das 19h",
-   "cat": "educacao"
-  },
-  {
-   "hora": "Dom 8/11 · 14h",
-   "txt": "Largada do GP de São Paulo de F1, com Norris na pole; às 17h, Vasco x Palmeiras em São Januário pela vaga na final contra o Grêmio",
-   "cat": "esporte"
-  },
   {
    "hora": "Dom 8/11 · 20h30",
    "txt": "Pronunciamento de Lula em rede nacional de rádio e TV sobre união nacional e contas públicas",
@@ -55,18 +45,28 @@
   },
   {
    "hora": "Seg 9/11",
-   "txt": "Começa a COP31, em Antália (Turquia), e Lula embarca para a viagem que inclui as Filipinas; Globo estreia a novela das seis \"Lá na Minha Terra\"",
+   "txt": "Começa a COP31, em Antália (Turquia), e Lula embarca de manhã; Boletim Focus às 8h25; Globo estreia a novela das seis \"Lá na Minha Terra\"",
    "cat": "ciencia"
   },
   {
    "hora": "Ter 10/11",
-   "txt": "Delegações de Ucrânia, Rússia e EUA iniciam nova rodada de negociações em Abu Dhabi",
-   "cat": "mundo"
+   "txt": "Ata do Copom (8h) e inflação ao consumidor dos EUA (10h30); Ucrânia, Rússia e EUA retomam negociações em Abu Dhabi",
+   "cat": "economia"
   },
   {
-   "hora": "Dom 15/11",
-   "txt": "Segundo dia do Enem, com matemática e ciências da natureza",
-   "cat": "educacao"
+   "hora": "Qua 11/11 · 12h",
+   "txt": "Lula discursa na abertura da cúpula de líderes da COP31",
+   "cat": "ciencia"
+  },
+  {
+   "hora": "Qui 12/11 · 9h",
+   "txt": "IBGE divulga o IPCA de outubro",
+   "cat": "economia"
+  },
+  {
+   "hora": "Sáb 14/11 · 7h15",
+   "txt": "Seleção enfrenta o Japão em Singapura, no penúltimo amistoso do ano; no domingo (15), segundo dia do Enem",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -163,48 +163,48 @@
  ],
  "manchete": {
   "kicker": "Enem 2026",
-  "titulo": "Mais de 5 milhões fazem hoje o primeiro dia do Enem; prova vai até as 19h e quem perder o dia por causa do clima terá nova data em dezembro",
-  "resumo": "O primeiro dia tem 90 questões de linguagens e ciências humanas e a redação, em cerca de 1.900 municípios, e os portões fecham às 13h. Lula acompanhou pela manhã a sala de monitoramento do Inep, e o ministro da Educação disse que estudantes impedidos de chegar por temporais poderão fazer a prova em dezembro.",
+  "titulo": "Primeiro dia do Enem termina com redação sobre o SUS como direito universal; quem perdeu a prova pelo clima terá nova chance em dezembro",
+  "resumo": "Mais de 5 milhões de inscritos fizeram neste domingo as provas de linguagens e ciências humanas e a redação, cujo tema foi anunciado à tarde pelo ministro Leonardo Barchini. O MEC diz que candidatos impedidos de chegar por temporais poderão fazer a reaplicação, prevista para 15 e 16 de dezembro.",
   "foto": {
    "src": "fotos/enamed.jpg",
    "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
   },
-  "entenda": "O Enem é a principal porta de entrada para o ensino superior: a nota é usada no Sisu, para vagas em universidades públicas, no ProUni e no Fies. A partir deste ano, o exame passa a fazer parte do Saeb, o sistema que avalia a educação básica, e o MEC elevou de 55% para 70% a meta de participação dos concluintes da rede pública. Depois de itens parecidos com questões da edição de 2025 circularem nas redes, o Inep diz ter reformulado o protocolo de pré-teste, e a Polícia Federal apura o caso. A estrutura e os critérios da redação não mudaram; alterações em estudo só devem valer a partir de 2028.",
+  "entenda": "O Enem é a principal porta de entrada no ensino superior: a nota vale para o Sisu, que distribui vagas em universidades públicas, para o ProUni e para o Fies. Neste ano o exame também passa a integrar o Saeb, sistema que avalia a educação básica. A prova foi aplicada sob alerta de tempestades no Sudeste e no Centro-Oeste, e a Polícia Federal montou operação em todo o país para a segurança do transporte e da aplicação. O segundo dia, com matemática e ciências da natureza, é no domingo, 15 de novembro.",
   "fatos": [
-   "A prova começou às 13h30 e dura 5h30. O candidato pode sair a partir das 15h30 e só leva o caderno de questões a partir das 18h30; celulares ficam desligados em envelope lacrado.",
-   "Com a frente fria, o Inmet prevê tempestades neste domingo no Rio, em Minas, no Espírito Santo e no norte e leste de São Paulo. Segundo Leonardo Barchini, quem não conseguir chegar por motivo climático terá uma segunda aplicação em dezembro; a data ainda não foi divulgada.",
-   "O segundo dia, em 15 de novembro, terá matemática e ciências da natureza. O MEC e o Inep fazem entrevista de balanço depois das 19h."
+   "Tema da redação: \"A valorização do Sistema Único de Saúde (SUS) como direito universal\". Professores ouvidos por O Tempo observam que a proposta não apontava um problema de forma explícita, o que exigiu do candidato delimitar a questão.",
+   "Na saída, candidatos relataram questões sobre relações raciais, inteligência artificial, conflitos internacionais e terras raras; as avaliações sobre a dificuldade variaram.",
+   "Quem faltou por causa do clima precisa pedir a reaplicação na Página do Participante, com documentos que comprovem o impedimento; o segundo dia de provas é em 15 de novembro."
   ],
   "fontes": [
    {
     "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-primeiro-dia-de-prova/",
-    "d": "Horários da prova"
+    "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-tema-da-redacao-e-divulgado-veja/",
+    "d": "Tema da redação"
    },
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/educacao/enem-estudantes-afetados-por-questoes-climaticas-terao-nova-data-de-prova/",
-    "d": "Nova data por clima"
+    "n": "O Tempo",
+    "u": "https://otempo.com.br/enem/2026/2026/11/8/de-tranquilo-a-dificil-inscritos-no-enem-2026-comentam-prova-e-tema-da-redacao",
+    "d": "Avaliação dos candidatos"
    },
    {
-    "n": "Correio Braziliense",
-    "u": "https://www.correiobraziliense.com.br/politica/2026/11/7535074-lula-visita-sala-de-monitoramento-do-enem-em-brasilia.html",
-    "d": "Inscritos e visita de Lula"
+    "n": "A Crítica",
+    "u": "https://acritica.net/educacao/enem-2026-aborda-guerra-no-ira-terras-raras-e-inteligencia-artificial-no-primeiro-dia-de-provas/",
+    "d": "Conteúdo da prova"
    },
    {
-    "n": "Agência Gov",
-    "u": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-primeiro-dia-de-provas-ocorre-neste-domingo-8",
-    "d": "Regras do dia"
+    "n": "SP Diário",
+    "u": "https://spdiario.com.br/noticias/educacao/enem-2026-tera-reaplicacao-em-15-e-16-de-dezembro-para-estudantes-prejudicados-por-chuvas.html",
+    "d": "Datas da reaplicação"
+   },
+   {
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/colunas/manoela-alcantara/enem-2026-pf-monta-operacao-nacional-para-garantir-seguranca-do-exame",
+    "d": "Operação da PF"
    },
    {
     "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades",
-    "d": "Alerta de tempestades"
-   },
-   {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/educacao/enem-2026-confira-guia-completo-para-prova/",
-    "d": "Guia do candidato"
+    "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-ebc-tera-cobertura-especial-com-live-pos-prova-na-agencia-brasil",
+    "d": "Cobertura pós-prova"
    }
   ]
  },
@@ -213,13 +213,13 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Pronunciamento, oposição e governo",
+   "nota": "Pronunciamento, Fazenda e oposição",
    "itens": [
     {
      "kicker": "Planalto",
      "quando": "Hoje",
-     "titulo": "Lula faz pronunciamento em rede nacional às 20h30 para pedir união e reafirmar compromisso com as contas públicas",
-     "resumo": "Na fala gravada, de pouco menos de oito minutos, o presidente deve agradecer aos eleitores do segundo turno, citar a proposta de Orçamento de 2027 com superávit primário e criticar os juros altos, segundo o Brasil 247. Não estão previstas medidas novas: propostas para estabilizar a dívida devem ficar para a segunda quinzena de novembro, depois das viagens internacionais. A versão de rádio vai ao ar na segunda, às 7h30.",
+     "titulo": "Lula vai à TV às 20h30 para pedir união após a eleição e defender social e contas públicas, sem anunciar medidas",
+     "resumo": "Na gravação, de cerca de oito minutos, o presidente agradece aos eleitores do segundo turno, diz que manterá os programas sociais com equilíbrio das contas e critica a decisão do Banco Central de manter a Selic em 13,75%. Segundo o governo, propostas para estabilizar a dívida pública ficam para a segunda quinzena de novembro, depois das viagens à Turquia e às Filipinas.",
      "lados": [
       {
        "quem": "Governo e aliados",
@@ -240,16 +240,40 @@
        "u": "https://www.brasil247.com/poder/lula-defendera-uniao-nacional-e-responsabilidade-fiscal-em-pronunciamento-neste-domingo/"
       },
       {
-       "n": "Banda B",
-       "u": "https://www.bandab.com.br/politica/lula-vai-a-tv-no-final-de-semana-para-prometer-ajuste-fiscal-e-tentar-acalmar-o-mercado/"
+       "n": "Plantão Brasil",
+       "u": "https://www.plantaobrasil.net/noticias/162399-lula-fala-a-nacao-uniao-criticas-aos-juros-e-foco-no-desenvolvimento"
       },
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/economia/2026/11/06/lula-rebate-criticas-sobre-falta-de-responsabilidade-fiscal-e-diz-pobres-nao-pagarao-a-conta.html"
+       "n": "Blog do BG",
+       "u": "https://www.blogdobg.com.br/em-pronunciamento-na-tv-neste-domingo-8-lula-vai-pregar-uniao-e-responsabilidade-fiscal-mas-sem-anunciar-medidas-praticas/"
       },
       {
        "n": "Gazeta do Povo",
        "u": "https://www.gazetadopovo.com.br/economia/aliados-lula-rejeitam-ajuste-fiscal-contas-publicas/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fazenda",
+     "quando": "Hoje",
+     "titulo": "Parte do Planalto quer nome da Fazenda antes da viagem de Lula; presidente prefere anunciar a equipe na volta",
+     "resumo": "Auxiliares defendem um sinal concreto ao mercado antes do embarque para a COP31, na segunda, por considerarem o pronunciamento insuficiente. Alckmin, o atual ministro Dario Durigan e o governador do Piauí, Rafael Fonteles, aparecem entre os cotados; a escolha é esperada até meados de dezembro.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/neila-guimaraes/ala-do-planalto-espera-aceno-de-lula-ao-mercado-antes-da-cop31"
+      },
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/politica/geraldo-alckmin-ganha-forca-para-assumir-a-fazenda-em-2027/"
+      },
+      {
+       "n": "Bloomberg Línea",
+       "u": "https://www.bloomberglinea.com.br/brasil/lula-prioriza-aliados-ao-mercado-na-escolha-para-a-fazenda-em-novo-mandato-dizem-fontes/"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/poder/ala-do-planalto-defende-que-lula-indique-proximo-ministro-da-fazenda-antes-de-viagem-internacional/"
       }
      ]
     },
@@ -288,22 +312,6 @@
      ]
     },
     {
-     "kicker": "Planalto",
-     "quando": "Ontem",
-     "titulo": "Alckmin aparece entre os cotados para a Fazenda; Lula deve anunciar a nova equipe só depois da COP31",
-     "resumo": "Segundo a coluna de Neila Guimarães, no Metrópoles, aliados do presidente querem que o pronunciamento de domingo venha acompanhado de um sinal concreto ao mercado, e o vice é citado como opção para o Ministério da Fazenda. Também são mencionados o governador reeleito do Piauí, Rafael Fonteles, e a permanência de Dario Durigan. Lula embarca na segunda para a Turquia e convidou Hugo Motta e Davi Alcolumbre para a viagem.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://metropoles.com/colunas/neila-guimaraes/ala-do-planalto-espera-aceno-de-lula-ao-mercado-antes-da-cop31"
-      },
-      {
-       "n": "Ric",
-       "u": "https://ric.com.br/politica/lula-deve-iniciar-anuncio-de-nova-ministros-apos-feriado-da-proclamacao-da-republica/"
-      }
-     ]
-    },
-    {
      "kicker": "TSE",
      "quando": "06/11",
      "titulo": "Novo pede ao TSE a cassação da chapa Lula-Alckmin por abuso de poder político na eleição",
@@ -331,33 +339,49 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Fim de semana · pronunciamento e semana do IPCA",
+   "nota": "Semana do IPCA e do Copom",
    "itens": [
     {
-     "kicker": "Mercado",
+     "kicker": "Agenda",
      "quando": "Hoje",
-     "titulo": "Mercado espera sinais do pronunciamento de Lula antes de uma semana com IPCA de outubro e inflação americana",
-     "resumo": "Com a bolsa fechada no fim de semana, a referência segue sendo a sexta: o Ibovespa subiu 1,39%, a 168.498 pontos, na primeira alta semanal em quatro semanas, e o dólar fechou a R$ 5,51. Investidores acompanham se a fala desta noite trará compromisso fiscal mais claro, numa semana com o Boletim Focus na segunda, a inflação dos EUA na terça e o IPCA de outubro na quinta. No mercado de criptomoedas, que funciona sem pausa, o bitcoin estava perto de US$ 75,8 mil pela manhã, estável em 24 horas.",
+     "titulo": "Semana tem ata do Copom, IPCA de outubro e inflação americana, depois do pronunciamento de Lula",
+     "resumo": "Na terça saem a ata da reunião que manteve a Selic em 13,75% e o índice de preços ao consumidor dos EUA; na quinta, o IBGE divulga o IPCA de outubro. Na sexta, o Ibovespa subiu 1,39% e o dólar fechou a R$ 5,508; o mercado acompanha também os sinais sobre a nova equipe econômica.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/inflacao-ata-do-copom-os-indicadores-que-movimentam-os-mercados-na-proxima-semana/"
+      },
+      {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-mais-de-1-mesmo-com-dados-fortes-do-payroll-nos-eua/"
+       "u": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-inflacao-e-destaque-no-brasil-e-nos-estados-unidos/"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-sobe-payroll-cautela-fiscal"
-      },
-      {
-       "n": "Investing.com / Reuters",
-       "u": "https://br.investing.com/news/stock-market-news/ibovespa-avanca-com-alta-em-mercados-externos-investidor-aguarda-lula-2119637"
-      },
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/agenda-economica-semana-ata-copom-ipca-inflacao-eua/"
+      }
+     ]
+    },
+    {
+     "kicker": "Criptomoedas",
+     "quando": "Hoje",
+     "titulo": "Bitcoin fica perto de US$ 76 mil no domingo, após saída de US$ 1,2 bilhão de fundos de índice na semana",
+     "resumo": "A moeda digital passou o fim de semana com pouca variação e volume baixo, depois de uma semana de resgates nos ETFs americanos ligados ao bitcoin. O mercado de criptomoedas acompanha os efeitos do resultado das eleições legislativas nos EUA.",
+     "fontes": [
       {
        "n": "BitNotícias",
        "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-08-de-novembro-de-2026/"
+      },
+      {
+       "n": "Euribor.com.es",
+       "u": "https://www.euribor.com.es/2026/11/08/bitcoin-75-938-dolares-y-sin-impulso-para-sostener-el-rebote/"
+      },
+      {
+       "n": "DiarioBitcoin",
+       "u": "https://www.diariobitcoin.com/analisis/bitcoin-btc-bajo-presion-el-8-de-noviembre-de-2026-volumen-debil-y-senales-bajistas/"
       }
      ]
     },
@@ -404,33 +428,73 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporais, frente fria e segurança",
+   "nota": "Frio, chuvas e segurança",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Depois de microexplosão no Vale do Paraíba e estragos no Rio, frente fria mantém alerta de tempestades no Sudeste e no Centro-Oeste",
-     "resumo": "No sábado, rajadas de 126,7 km/h destelharam cerca de 20 casas em Cachoeira Paulista (SP), sem feridos, e no Rio ventos acima de 80 km/h alagaram bairros da zona oeste e derrubaram torres de alta tensão da Enel em São Gonçalo, em linha que abastece a captação de água da região metropolitana. Para este domingo, o Inmet prevê tempestades no Rio, em Minas, no Espírito Santo e no norte e leste de São Paulo, com granizo possível em Mato Grosso do Sul e Goiás. Segundo a Climatempo, a massa de ar polar segue até segunda e derruba as temperaturas no Sul, onde Curitiba deve ter mínima de 10°C.",
+     "titulo": "Massa de ar frio derruba temperaturas e segunda pode ter -1°C na serra catarinense; Goiás e Minas seguem em alerta de temporais",
+     "resumo": "Segundo a Meteored, o pico do frio será na madrugada de segunda, com mínimas de 10°C em Curitiba, 14°C em São Paulo e Belo Horizonte e de 3°C a 8°C no planalto de Santa Catarina. Neste domingo, a Defesa Civil manteve alertas de tempestade em Goiás e Minas, e Maricá (RJ) entrou em estágio de atenção.",
      "foto": {
       "src": "https://imagens.ebc.com.br/raMSi5w4z7YWSda5hUy4zrDZhUk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/frio_sao_paulo_1.jpg?itok=ZGuElqTt",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/tempo/massa-de-ar-frio-atipico-derruba-temperaturas-a-1c/"
+      },
+      {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/brasil/sao-paulo-e-rio-de-janeiro-sofrem-estragos-por-tempestades-veja-imagens/"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/sudeste/tempestades-severas-deixam-rastro-de-destruicao-em-sao-paulo-e-no-rio/"
+       "n": "Tribuna do Planalto",
+       "u": "https://tribunadoplanalto.com.br/alerta-laranja-frente-fria-avanca-e-goias-entra-em-estado-de-atencao-para-temporais-neste-domingo-8/"
       },
       {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/cidades/2026/11/8/defesa-civil-alerta-para-possibilidade-de-tempestades-antes-e-durante-o-enem-em-mg"
+      }
+     ]
+    },
+    {
+     "kicker": "Chuvas",
+     "quando": "Hoje",
+     "titulo": "Pescador morre após barcos virarem no Rio Dourado, em Lins, e São Paulo chega a 29 mortes ligadas à chuva em 2026",
+     "resumo": "O homem, de 50 anos, desapareceu no temporal de sábado à noite e o corpo foi achado neste domingo; outras cinco pessoas chegaram à margem e foram resgatadas pelos bombeiros. A contagem é da Defesa Civil estadual.",
+     "fontes": [
+      {
+       "n": "CNN Brasil (via Sim Notícias)",
+       "u": "https://simnoticias.com.br/cnn-brasil/sao-paulo-registra-29-mortes-em-decorrencia-das-chuvas-em-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Distrito Federal",
+     "quando": "Hoje",
+     "titulo": "Soldado da PM do DF é preso suspeito de atirar dentro de van na Asa Sul; uma mulher morreu e quatro ficaram feridos",
+     "resumo": "Os disparos ocorreram por volta das 3h40, depois de uma discussão entre amigos que voltavam de um aniversário, segundo o Metrópoles. O policial, que entrou na corporação em janeiro, foi encontrado horas depois no Parque da Cidade; a motivação é investigada.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/distrito-federal/na-mira/policial-militar-e-preso-apos-atirar-em-amigos-e-matar-mulher-na-asa-sul"
+      }
+     ]
+    },
+    {
+     "kicker": "Belém",
+     "quando": "Hoje",
+     "titulo": "Polícia prende suspeito de participar da morte de policial federal aposentado em tentativa de roubo de cordão em Belém",
+     "resumo": "Leonildo Dias foi baleado no sábado em um restaurante no bairro do Marco ao reagir a dois homens de moto; o suspeito foi preso neste domingo no Tapanã. A Polícia Civil, com apoio da PF, ainda não informou qual foi o papel dele no crime.",
+     "fontes": [
+      {
+       "n": "DOL",
+       "u": "https://dol.com.br/noticias/policia/967739/suspeito-de-envolvimento-na-morte-de-policial-federal-e-preso-em-belem"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://oliberal.com/policia/policial-federal-morto-em-tentativa-de-assalto-e-velado-neste-domingo-08-1.1191869"
       }
      ]
     },
@@ -449,52 +513,6 @@
        "u": "https://ricardoantunes.net/rei-da-sucata-investigado-por-lavagem-de-dinheiro-para-o-comando-vermelho-e-preso-em-shopping-de-luxo/"
       }
      ]
-    },
-    {
-     "kicker": "Crime organizado",
-     "quando": "Hoje",
-     "titulo": "PF prepara inclusão na lista vermelha da Interpol de casal suspeito de lavar dinheiro do PCC",
-     "resumo": "Ciro César Lemos e Elidiane Saldanha Lopes Lemos, apontados como donos de uma transportadora usada para movimentar recursos da facção, estão foragidos e podem ter deixado o país, segundo a coluna de Manoela Alcântara. Mais de R$ 20 milhões passaram por contas ligadas à empresa entre 2015 e 2019. O esquema foi identificado na Operação Vérnix, que levou à prisão de Deolane Bezerra em maio; a defesa do casal não foi localizada.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/manoela-alcantara/pf-prepara-alerta-da-interpol-para-casal-ligado-ao-pcc-e-a-deolane"
-      }
-     ]
-    },
-    {
-     "kicker": "Pará",
-     "quando": "Ontem",
-     "titulo": "Policial federal aposentado é morto a tiros em tentativa de roubo de cordão de ouro em Belém",
-     "resumo": "Leonildo Dias estava sentado com duas pessoas na área externa de um comércio, por volta das 14h de sábado, quando um homem de capacete tentou arrancar o cordão; ele sacou a arma, e o suspeito se protegeu atrás de uma das pessoas e atirou. Câmeras registraram a ação, e a PF diz apoiar as investigações.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/mirelle-pinheiro/camera-flagra-ladrao-matando-policial-federal-para-roubar-cordao-de-ouro"
-      }
-     ]
-    },
-    {
-     "kicker": "São Paulo",
-     "quando": "Ontem",
-     "titulo": "Família contesta versão da PM sobre metalúrgico morto a tiros em abordagem na zona leste; DHPP investiga",
-     "resumo": "Luiz Rodrigues de Santana Júnior, de 39 anos, foi baleado na quinta (5) dentro do carro estacionado em Vila Curuçá e enterrado no sábado. Câmeras de imóveis vizinhos registraram a ação; os policiais não usavam câmeras corporais, segundo eles por problema técnico. A Secretaria da Segurança diz que apura o caso.",
-     "lados": [
-      {
-       "quem": "Polícia Militar",
-       "txt": "Diz que recebeu denúncia ligando o homem a um homicídio de 2 de novembro e que ele estava com um revólver na mão ao abrir a porta do carro, o que provocou a reação."
-      },
-      {
-       "quem": "Família e testemunhas",
-       "txt": "Afirmam que ele foi executado, que a arma foi colocada no carro depois dos tiros e que imagens mostram que ele estava em outro lugar no dia do outro crime."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/sao-paulo/metalurgico-de-39-anos-e-morto-durante-abordagem-da-pm-na-zona-leste-de-sp"
-      }
-     ]
     }
    ]
   },
@@ -505,10 +523,46 @@
    "nota": "Internacional",
    "itens": [
     {
+     "kicker": "EUA",
+     "quando": "Hoje",
+     "titulo": "Após democratas conquistarem Câmara e Senado, Trump fala em \"retrocesso\" e diz à CBS que deportações foram duras demais",
+     "resumo": "Em rede social, o presidente atribuiu ao resultado das eleições legislativas uma queda de US$ 3 trilhões nas bolsas e prometeu que os republicanos voltarão mais fortes. Em entrevista exibida neste domingo, admitiu que a política de deportações em massa foi longe demais.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/retrocesso-gigantesco-diz-trump-sobre-resultado-das-midterms-nos-eua"
+      },
+      {
+       "n": "O Povo/AFP",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/08/trump-admite-que-sua-politica-de-deportacoes-foi-dura-demais.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Vaticano",
+     "quando": "Hoje",
+     "titulo": "Papa Leão XIV chega a Buenos Aires e é recebido por Milei no início de visita de quatro dias à Argentina",
+     "resumo": "É a primeira visita de um papa ao país em quase 40 anos. Entre as primeiras paradas está uma instituição para pessoas com deficiência em Claypole que relata falta de repasses do governo, ponto de atrito com a Casa Rosada; a viagem pela América do Sul segue depois para o Peru.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/papa-leao-xiv-chega-a-argentina-e-e-recebido-por-javier-milei"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/papa-leao-xiv-chega-a-argentina-para-visita-de-quatro-dias"
+      },
+      {
+       "n": "ACI Digital",
+       "u": "https://www.acidigital.com/noticia/70817/javier-milei-recebe-o-papa-em-buenos-aires-e-uma-honra-para-todos-nos"
+      }
+     ]
+    },
+    {
      "kicker": "Israel",
      "quando": "Hoje",
-     "titulo": "Eisenkot recebe de Herzog o mandato para formar governo em Israel e tem 28 dias, prorrogáveis, para chegar a 61 cadeiras",
-     "resumo": "O líder do partido centrista Yashar foi recomendado por 67 deputados, 19 deles dos dois partidos árabes, contra 46 de Benjamin Netanyahu; os quatro partidos judeus da oposição somam 48 cadeiras. Avigdor Liberman rejeita uma coalizão que dependa de partidos árabes. Se Eisenkot não formar maioria, o mandato passa a Netanyahu por mais quatro semanas.",
+     "titulo": "Eisenkot recebe mandato para formar governo em Israel e convida o Likud e a Sionismo Religioso a apoiá-lo",
+     "resumo": "O centrista foi recomendado por 67 dos 120 deputados, contra 46 de Benjamin Netanyahu, e tem 28 dias, prorrogáveis por 14, para formar maioria. Sem os 19 votos dos partidos árabes, que dividem seus aliados, ele pode ter de montar um governo de minoria.",
      "lados": [
       {
        "quem": "Benjamin Netanyahu",
@@ -521,8 +575,8 @@
      ],
      "fontes": [
       {
-       "n": "Estrella Digital",
-       "u": "https://www.estrelladigital.es/mundo/israel-herzog-encarga-eisenkot-formar-gobierno-netanyahu-unidad/20261108100000453053.html"
+       "n": "O Povo/AFP",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/08/opositor-eisenkot-alerta-para-crise-em-israel-ao-ser-encarregado-de-formar-governo.html"
       },
       {
        "n": "Diário de Notícias",
@@ -531,6 +585,26 @@
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/internacional/presidente-de-israel-escolhe-maior-rival-de-netanyahu-para-formar-governo/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Rússia diz ter atingido instalações de energia e logística na Ucrânia; ataque deixou mais de 600 mil sem luz na região de Dnipro",
+     "resumo": "Segundo autoridades ucranianas, a ofensiva da madrugada usou 164 drones e três mísseis, com impactos em 23 pontos, uma morte em Odessa e feridos em quatro regiões; em Zhytomyr, uma caldeira atingida cortou o aquecimento de parte das casas. O Ministério da Defesa russo afirma ter mirado depósitos de munição e infraestrutura usada pelas forças ucranianas. A ofensiva ocorre a dois dias da rodada de negociações com mediação dos EUA em Abu Dhabi, a primeira em oito meses, da qual os ucranianos ouvidos pela EFE esperam pouco avanço.",
+     "fontes": [
+      {
+       "n": "TSN / my.ua",
+       "u": "https://my.ua/news/cluster/2026-11-08-bez-sveta-i-tepla-posle-ataki-rf-kakie-goroda-postradali-i-gde-samaia-slozhnaia-situatsiia-8-noiabria"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/11/08/noticias-do-dia-8-de-novembro-2026-manha"
+      },
+      {
+       "n": "Sputnik Brasil / Tribuna do Agreste",
+       "u": "https://www.tribunadoagreste.com.br/geral/2026/11/08/1016242-forcas-russas-atacam-infraestruturas-ucranianas-diz-ministerio-da-defesa"
       }
      ]
     },
@@ -557,74 +631,6 @@
        "u": "https://www.terra.com.br/noticias/mundo/atirador-deixa-6-mortos-e-varios-feridos-em-praca-no-centro-de-cracovia-na-polonia-o-que-se-sabe,050a4b8b260108a9dd5bf57198b6c26egcojko18.html"
       }
      ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Rússia diz ter atingido instalações de energia e logística na Ucrânia; ataque deixou mais de 600 mil sem luz na região de Dnipro",
-     "resumo": "Segundo autoridades ucranianas, a ofensiva da madrugada usou 164 drones e três mísseis, com impactos em 23 pontos, uma morte em Odessa e feridos em quatro regiões; em Zhytomyr, uma caldeira atingida cortou o aquecimento de parte das casas. O Ministério da Defesa russo afirma ter mirado depósitos de munição e infraestrutura usada pelas forças ucranianas. A ofensiva ocorre a dois dias da rodada de negociações com mediação dos EUA em Abu Dhabi, a primeira em oito meses, da qual os ucranianos ouvidos pela EFE esperam pouco avanço.",
-     "fontes": [
-      {
-       "n": "TSN / my.ua",
-       "u": "https://my.ua/news/cluster/2026-11-08-bez-sveta-i-tepla-posle-ataki-rf-kakie-goroda-postradali-i-gde-samaia-slozhnaia-situatsiia-8-noiabria"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/video/2026/11/08/noticias-do-dia-8-de-novembro-2026-manha"
-      },
-      {
-       "n": "Sputnik Brasil / Tribuna do Agreste",
-       "u": "https://www.tribunadoagreste.com.br/geral/2026/11/08/1016242-forcas-russas-atacam-infraestruturas-ucranianas-diz-ministerio-da-defesa"
-      }
-     ]
-    },
-    {
-     "kicker": "Vaticano",
-     "quando": "Hoje",
-     "titulo": "Papa Leão XIV deixa o Uruguai e segue para a Argentina, segunda etapa da viagem pela América do Sul",
-     "resumo": "Leão XIV encerrou a passagem pelo Uruguai com missa em Florida, na festa da padroeira do país, depois de uma vigília com jovens no Estádio Centenario, em Montevidéu. Na Argentina, terra de seu antecessor, Francisco, terá atividades em Buenos Aires, Córdoba e Luján e encontro com o presidente Javier Milei; depois vai ao Peru e volta a Roma em 17 de novembro.",
-     "fontes": [
-      {
-       "n": "EFE",
-       "u": "https://www.infobae.com/america/agencias/2026/11/08/temas-del-dia-de-efe-internacional-del-domingo-8-de-noviembre-1200-gmt/"
-      },
-      {
-       "n": "La Nación",
-       "u": "https://www.lanacion.com.ar/sociedad/viaje-del-papa-leon-xiv-a-la-argentina-cuando-llega-las-misas-confirmadas-y-las-ultimas-noticias-nid04112026/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-celebra-missa-historica-no-uruguai-em-viagem-pela-america-do-sul/"
-      },
-      {
-       "n": "Vaticano",
-       "u": "https://www.vatican.va/content/leo-xiv/pt/travels/2026/documents/uruguay-argentina-peru-6-17novembre2026.html"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/em-missao-no-uruguai-leao-xiv-realizara-vigilia-no-estadio-centenario"
-      }
-     ]
-    },
-    {
-     "kicker": "Paraguai",
-     "quando": "Ontem",
-     "titulo": "Com Peña em prisão preventiva, Alliana promete ressarcir os quase 3 milhões de clientes do Ueno Bank",
-     "resumo": "O ex-presidente passou a noite no quartel do Regimento Escolta Presidencial, em Assunção, depois de o juiz Humberto Otazú negar medida mais branda por risco de fuga. O novo presidente, Pedro Alliana, prometeu devolver integralmente o dinheiro dos correntistas, com prioridade aos de menor renda, mas não detalhou prazo nem origem dos recursos. Peña nega irregularidades.",
-     "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/mundo/2026/11/7535012-denunciado-ex-presidente-do-paraguai-vai-para-a-prisao-preventiva.html"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/mundo/novo-presidente-do-paraguai-promete-ressarcir-29-milhoes-de-clientes-apos-prisao-de-pena/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mundo/paraguai-alliana-presidente-pena-preso-impeachment-ueno-bank/"
-      }
-     ]
     }
    ]
   },
@@ -632,29 +638,53 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "F1 em Interlagos e Copa do Brasil",
+   "nota": "Interlagos, Copa do Brasil e Seleção",
    "itens": [
     {
      "kicker": "Fórmula 1",
      "quando": "Hoje",
-     "titulo": "GP de São Paulo larga às 14h com Norris na pole e chance de chuva durante a corrida",
-     "resumo": "Kimi Antonelli, da Mercedes, já campeão, sai em segundo, à frente de Liam Lawson e Nico Hülkenberg; George Russell larga em sétimo após punição e Oscar Piastri, em décimo. Os brasileiros Rafael Câmara e Gabriel Bortoleto saem do meio e do fim do grid depois de batidas na classificação. A previsão indica tempo frio e chance de chuva durante a prova, em fim de semana de alerta de temporais em São Paulo; a Globo transmite.",
+     "titulo": "Norris vence o GP de São Paulo na chuva, Verstappen sai de 21º para 2º e Mercedes garante o título de construtores",
+     "resumo": "Isack Hadjar completou o pódio da Red Bull, e Russell e Antonelli, já campeão entre os pilotos, chegaram em quarto e quinto. Entre os brasileiros, Gabriel Bortoleto (Audi) terminou em 16º e Rafael Câmara, na estreia pela Haas, foi o 20º após três rodadas na pista molhada.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-confira-o-horario-e-grid-de-largada-do-gp-de-sao-paulo-2026,80c194e5ba6376326a309bb78fb00c24k3pcblx2.html"
+       "n": "Formula 1",
+       "u": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-horarios-grid-de-largada-previsao-do-tempo-e-onde-assistir-ao-gp-de-sao-paulo,ac703c3df719d5c2e864ac085559e558k99gxizx.html"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/automobilismo/bortoleto-e-camara-sofrem-com-chuva-e-ficam-no-fim-do-pelotao-em-sao-paulo/"
+      },
+      {
+       "n": "Band",
+       "u": "https://www.band.com.br/esportes/velocidade/formula-1/norris-vence-o-gp-de-sao-paulo-bortoleto-e-16o-e-camara-20o"
       },
       {
        "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/f1-hoje-norris-conquista-pole-na-chuva-em-interlagos-enquanto-bortoleto-e-camara-batem/"
+       "u": "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/"
+      }
+     ]
+    },
+    {
+     "kicker": "Copa do Brasil",
+     "quando": "Hoje",
+     "titulo": "Vasco vence o Palmeiras por 2 a 1 em São Januário e leva a vaga na final da Copa do Brasil para os pênaltis",
+     "resumo": "Colidio abriu o placar no primeiro tempo, Piquerez empatou no início do segundo e José Rodríguez fez o gol da vitória em cobrança de falta aos 31 minutos, igualando o agregado em 2 a 2. Quem passar enfrenta o Grêmio na final; a disputa de pênaltis ocorria no fechamento desta edição.",
+     "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/ao-vivo/vasco-da-gama-x-palmeiras/97935/"
       },
       {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-norris-comemora-pole-position-e-torce-por-corrida-na-chuva-em-interlagos/"
+       "n": "NetVasco",
+       "u": "https://www.netvasco.com.br/n/395999/vasco-vence-o-palmeiras-por-2-a-1-e-decisao-da-vaga-na-final-da-copa-do-brasil-sera-nos-penaltis"
+      },
+      {
+       "n": "SuperVasco",
+       "u": "https://www.supervasco.com/noticias/vasco-faz-2-a-1-no-tempo-normal-e-resultado-leva-aos-penaltis-459416.html"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/futebol-nacional/veja-gols-em-vasco-e-palmeiras-pela-semifinal-da-copa-do-brasil.html"
       }
      ]
     },
@@ -679,38 +709,18 @@
      ]
     },
     {
-     "kicker": "Copa do Brasil",
-     "quando": "Hoje",
-     "titulo": "Vasco recebe o Palmeiras às 17h em São Januário pela outra vaga na final",
-     "resumo": "O Palmeiras venceu a ida por 1 a 0 e avança com qualquer empate; o Vasco precisa ganhar por um gol para levar a disputa aos pênaltis ou por dois para se classificar direto. O Vasco não terá Saldivia, suspenso, e o Palmeiras não conta com Paulinho e Jefté. Braulio da Silva Machado apita.",
+     "kicker": "Seleção",
+     "quando": "29/10",
+     "titulo": "Seleção se apresenta nesta semana em Singapura para os últimos amistosos de 2026, contra Japão e Singapura",
+     "resumo": "Os jogos são no sábado (14), às 7h15, e na terça (17), às 7h, no Estádio Nacional de Singapura. Os convocados por Carlo Ancelotti devem estar completos entre os dias 10 e 11.",
      "fontes": [
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/palmeiras/vasco-x-palmeiras-volta-semifinal-copa-do-brasil-tudo-sobre-08-11-2026/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/10/30/ancelotti-convocou-e-agora-veja-o-roteiro-da-selecao-ate-o-fim-de-2026"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-x-vasco-escalacoes-e-onde-assistir-a-semifinal-da-copa-do-brasil/"
-      },
-      {
-       "n": "Diário do Rio",
-       "u": "https://diariodorio.com/esporte/2026/11/07/vasco-x-palmeiras-veja-a-provavel-escalacao-cruzmaltina-para-o-jogo-de-volta-da-semifinal-da-copa-do-brasil.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Série B",
-     "quando": "Ontem",
-     "titulo": "Juventude e Vila Nova vencem e levam a disputa pelo segundo acesso direto para a última rodada",
-     "resumo": "O Juventude bateu o Cuiabá por 2 a 1, e o Vila Nova venceu o Criciúma por 1 a 0. O Novorizontino, que já tinha garantido o primeiro acesso de sua história, lidera com 70 pontos; os times do 3º ao 6º lugar disputam playoffs pelas demais vagas.",
-     "fontes": [
-      {
-       "n": "365Scores",
-       "u": "https://www.365scores.com/pt-br/news/magazine/vitorias-juventude-vila-nova-titulo-acesso-direto-ultima-rodada-serie-b/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/futebol-nacional/titulo-acesso-e-rebaixamento-veja-os-jogos-decisivos-deste-sabado-7-na-serie-b.html"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/brasil/ancelotti-divulga-ultima-convocacao-da-selecao-brasileira-em-2026,ef7c7b5765af997e98ddef6702ece6930kogghho.html"
       }
      ]
     }
@@ -722,6 +732,30 @@
    "cor": "--sau",
    "nota": "Vigilância e vacinação",
    "itens": [
+    {
+     "kicker": "Mpox",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde amplia para 25 mil as doses de vacina contra mpox; país tem 832 casos e uma morte",
+     "resumo": "O pedido ao fabricante dinamarquês, único certificado pela OMS, passou de 5 mil para 20 mil doses, com entrega em cerca de três semanas, além das 3.650 já enviadas a nove estados. A vacina é para grupos de maior risco, como pessoas vivendo com HIV e usuários de PrEP, e é aplicada nos centros de referência de imunização.",
+     "foto": {
+      "src": "fotos/vacina.jpg",
+      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox"
+      },
+      {
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-saude/apos-alta-de-casos-de-mpox-padilha-anuncia-25-000-doses-para-vacinacao/"
+      },
+      {
+       "n": "Tribuna do Norte",
+       "u": "https://tribunadonorte.com.br/saude/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox/"
+      }
+     ]
+    },
     {
      "kicker": "Sarampo",
      "quando": "Hoje",
@@ -767,18 +801,6 @@
      ]
     },
     {
-     "kicker": "Gripe",
-     "quando": "Ontem",
-     "titulo": "DF abre mais de 30 pontos de vacinação contra a gripe no sábado e retoma a rotina na segunda",
-     "resumo": "A Secretaria de Saúde aplicou a vacina contra influenza para pessoas a partir de 6 meses, enquanto durassem os estoques, além de doses de rotina como sarampo e febre amarela. Não há vacinação neste domingo.",
-     "fontes": [
-      {
-       "n": "Délio Andrade",
-       "u": "https://delioandrade.com.br/df-contara-com-30-pontos-de-vacinacao-contra-a-gripe-neste-sabado-7-11/"
-      }
-     ]
-    },
-    {
      "kicker": "Dengue",
      "quando": "06/11",
      "titulo": "Especialistas projetam cerca de 860 mil casos prováveis de dengue em 2027, com pico em abril",
@@ -804,25 +826,45 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Enem hoje",
+   "nota": "Primeiro dia do Enem",
    "itens": [
     {
      "kicker": "Enem",
      "quando": "Hoje",
-     "titulo": "Candidato impedido de chegar à prova por causa de temporais poderá fazer o Enem em dezembro, diz ministro",
-     "resumo": "Segundo Leonardo Barchini, haverá uma segunda aplicação para quem não conseguir chegar por motivos climáticos; o MEC ainda não informou a data nem como pedir. O Inmet prevê tempestades hoje em parte do Sudeste e do Centro-Oeste, e a Defesa Civil de Minas alertou para chuva forte antes e durante a prova.",
+     "titulo": "Redação do Enem pede reflexão sobre a valorização do SUS como direito universal",
+     "resumo": "O tema foi divulgado pelo ministro Leonardo Barchini depois do início da prova. Candidatos ouvidos em Belo Horizonte deram avaliações que foram de tranquila a muito difícil; uma professora de redação destacou que o enunciado não apresentava um problema pronto.",
      "fontes": [
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/educacao/enem-estudantes-afetados-por-questoes-climaticas-terao-nova-data-de-prova/"
+       "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-tema-da-redacao-e-divulgado-veja/"
       },
       {
        "n": "O Tempo",
-       "u": "https://www.otempo.com.br/cidades/2026/11/8/defesa-civil-alerta-para-possibilidade-de-tempestades-antes-e-durante-o-enem-em-mg"
+       "u": "https://otempo.com.br/enem/2026/2026/11/8/de-tranquilo-a-dificil-inscritos-no-enem-2026-comentam-prova-e-tema-da-redacao"
       },
       {
-       "n": "Poa 24 Horas",
-       "u": "https://poa24horas.com.br/educacao/2026/11/estudantes-afetados-por-tornados-e-temporais-poderao-refazer-o-enem-em-dezembro/"
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/brasil/enem-2026-tema-da-redacao/"
+      }
+     ]
+    },
+    {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Reaplicação para quem perdeu a prova por causa do clima está prevista para 15 e 16 de dezembro",
+     "resumo": "Segundo o ministro, o Inep acompanha os registros de problemas causados por temporais e ninguém será prejudicado. O pedido deve ser feito na Página do Participante, com documentos que comprovem o impedimento; prazo e regiões ainda não foram detalhados.",
+     "fontes": [
+      {
+       "n": "SP Diário",
+       "u": "https://spdiario.com.br/noticias/educacao/enem-2026-tera-reaplicacao-em-15-e-16-de-dezembro-para-estudantes-prejudicados-por-chuvas.html"
+      },
+      {
+       "n": "BNews",
+       "u": "https://bnews.com.br/noticias/politica/ministro-da-educacao-anuncia-nova-data-do-enem-2026-para-quem-perdeu-provas-por-questoes-climaticas.html"
+      },
+      {
+       "n": "TMC",
+       "u": "https://tmc.com.br/brasil/barchini-enem-2026-reaplica-clima-dezembro/"
       }
      ]
     },
@@ -852,41 +894,20 @@
      "destaque": false
     },
     {
-     "kicker": "Enem",
-     "quando": "Ontem",
-     "titulo": "Temporais danificam escolas em Seara e Canoinhas (SC), e Inep muda locais de prova",
-     "resumo": "Os candidatos da EEB Raimundo Corrêa, em Seara, farão a prova na EEB Seara, e os da EEB Santa Cruz, em Canoinhas, na EEF Sagrado Coração de Jesus, a pouco mais de 2 km das escolas originais. O Inep orienta todos a conferir o local atualizado no Cartão de Confirmação de Inscrição.",
+     "kicker": "Segurança",
+     "quando": "Hoje",
+     "titulo": "PF mobiliza equipes em 118 unidades para escoltar provas e acompanhar a aplicação do Enem",
+     "resumo": "A operação nacional acompanha o transporte e a guarda dos malotes e o atendimento a ocorrências nos dois domingos de prova. No Distrito Federal, bombeiros, polícia e órgãos de trânsito também reforçaram o esquema.",
      "fontes": [
       {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/educacao/locais-de-prova-do-enem-2026-sao-alterados-apos-fortes-temporais-quebrarem-telhados-de-escolas-em-sc/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/manoela-alcantara/enem-2026-pf-monta-operacao-nacional-para-garantir-seguranca-do-exame"
+      },
+      {
+       "n": "A Tarde",
+       "u": "https://atarde.com.br/brasil/enem-2026-pf-mobiliza-equipes-em-118-unidades-para-reforcar-seguranca-1408749"
       }
      ]
-    },
-    {
-     "kicker": "Medicina",
-     "quando": "06/11",
-     "titulo": "Lula sanciona lei que exige aprovação no Enamed para o registro de novos médicos",
-     "resumo": "A regra vale para quem entrou na faculdade a partir de 19 de junho de 2026: os alunos fazem provas no 2º, 4º e 6º anos, e quem não atingir o mínimo não pode atender pacientes até ser aprovado. O CFM apoiou a medida, e formados no exterior continuam sujeitos ao Revalida.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/2026/11/6/lula-sanciona-lei-que-condiciona-registro-de-medicos-a-aprovacao-no-enamed"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/politica/lula-sanciona-lei-que-cria-exame-obrigatorio-para-atuacao-de-medicos-no-brasil/"
-      },
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/politica/lula-sanciona-o-enamed-critica-medicina-mercantilizada-e-acena-para-pacificacao-quando-se-trata-de-saude-nao-tem-direita-e-nao-tem-esquerda"
-      }
-     ],
-     "foto": {
-      "src": "fotos/enamed.jpg",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
-     },
-     "destaque": false
     }
    ]
   },
@@ -899,8 +920,8 @@
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "COP31 começa amanhã em Antália, sem o governo dos EUA; Lula embarca na segunda e discursa na cúpula de líderes",
-     "resumo": "A conferência do clima vai de 9 a 20 de novembro, com foco em financiamento para os países mais afetados pelo aquecimento, e a cúpula de líderes ocorre nos dias 11 e 12. Segundo a Agência Brasil, Lula deve destacar a queda do desmatamento na Amazônia e no Cerrado e participar de reunião sobre o fundo de florestas tropicais (TFFF). Depois, o presidente faz visita de Estado às Filipinas e participa da cúpula da Asean, em Manila, com volta prevista para o dia 16.",
+     "titulo": "COP31 começa amanhã em Antália; Lula embarca de manhã e fala na abertura da cúpula de líderes na quarta, ao meio-dia",
+     "resumo": "A conferência vai até 20 de novembro, com financiamento climático e combate ao desmatamento entre os principais temas. Segundo a Agência Brasil, Lula deve citar a queda do desmatamento na Amazônia e no Cerrado e participar de reunião do fundo de florestas tropicais (TFFF), para o qual a Holanda deve formalizar US$ 500 milhões; depois ele segue para a cúpula da Asean, nas Filipinas.",
      "foto": {
       "src": "fotos/floresta.jpg",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
@@ -911,12 +932,8 @@
        "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
       },
       {
-       "n": "EFE",
-       "u": "https://www.infobae.com/america/agencias/2026/11/08/temas-del-dia-de-efe-internacional-del-domingo-8-de-noviembre-1200-gmt/"
-      },
-      {
-       "n": "Boca",
-       "u": "https://boca.com.br/politica/lula-viaja-para-turquia-para-cop31"
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/ciencia-e-saude/2026/11/7534637-sob-pressao-global-extrema.html"
       },
       {
        "n": "Rádio Senado",
@@ -957,22 +974,14 @@
    "nota": "Música, TV, cinema e famosos",
    "itens": [
     {
-     "kicker": "Música",
-     "quando": "Ontem",
-     "titulo": "Morre aos 75 anos Richard Lloyd, guitarrista da banda Television",
-     "resumo": "A família informou ao New York Times que ele morreu no sábado em decorrência de um câncer nas vias biliares. Lloyd dividia as guitarras com Tom Verlaine no Television, grupo da cena punk de Nova York cujo disco de estreia, \"Marquee Moon\", de 1977, é apontado entre os mais influentes do rock.",
+     "kicker": "TV",
+     "quando": "Hoje",
+     "titulo": "\"Lá na Minha Terra\", nova novela das seis da Globo, estreia amanhã com Dira Paes como protagonista",
+     "resumo": "Escrita por Mario Teixeira, com direção artística de Allan Fiterman, a trama acompanha Rosenda, mãe de cinco filhos no interior do Nordeste que vai a São Paulo procurar o marido desaparecido há 15 anos e descobre que ele virou empresário com outra família. Daniel de Oliveira, Mateus Solano, Camila Morgado e Lilia Cabral estão no elenco.",
      "fontes": [
       {
-       "n": "O Liberal / Estadão Conteúdo",
-       "u": "https://www.oliberal.com/cultura/morre-richard-lloyd-guitarrista-do-television-aos-75-anos-1.1191798"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/entretenimento/morre-richard-lloyd-guitarrista-television-75-anos/"
-      },
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/variedades/2026/11/07/1016149-morre-richard-lloyd-guitarrista-do-television-aos-75-anos"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/novelas/la-na-minha-terra/2026/11/8/la-na-minha-terra-entenda-a-historia-da-nova-novela-das-seis-da-globo-que-estreia-segunda-9-11"
       }
      ]
     },
@@ -997,14 +1006,22 @@
      ]
     },
     {
-     "kicker": "TV",
-     "quando": "Hoje",
-     "titulo": "\"Lá na Minha Terra\", nova novela das seis da Globo, estreia amanhã com Dira Paes como protagonista",
-     "resumo": "Escrita por Mario Teixeira, com direção artística de Allan Fiterman, a trama acompanha Rosenda, mãe de cinco filhos no interior do Nordeste que vai a São Paulo procurar o marido desaparecido há 15 anos e descobre que ele virou empresário com outra família. Daniel de Oliveira, Mateus Solano, Camila Morgado e Lilia Cabral estão no elenco.",
+     "kicker": "Música",
+     "quando": "Ontem",
+     "titulo": "Morre aos 75 anos Richard Lloyd, guitarrista da banda Television",
+     "resumo": "A família informou ao New York Times que ele morreu no sábado em decorrência de um câncer nas vias biliares. Lloyd dividia as guitarras com Tom Verlaine no Television, grupo da cena punk de Nova York cujo disco de estreia, \"Marquee Moon\", de 1977, é apontado entre os mais influentes do rock.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/novelas/la-na-minha-terra/2026/11/8/la-na-minha-terra-entenda-a-historia-da-nova-novela-das-seis-da-globo-que-estreia-segunda-9-11"
+       "n": "O Liberal / Estadão Conteúdo",
+       "u": "https://www.oliberal.com/cultura/morre-richard-lloyd-guitarrista-do-television-aos-75-anos-1.1191798"
+      },
+      {
+       "n": "A Crítica",
+       "u": "https://acritica.net/entretenimento/morre-richard-lloyd-guitarrista-television-75-anos/"
+      },
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/variedades/2026/11/07/1016149-morre-richard-lloyd-guitarrista-do-television-aos-75-anos"
       }
      ]
     },
