@@ -1,47 +1,52 @@
 {
  "data": "Segunda-feira, 9 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "09/11/2026 · 12h40 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 12h00",
- "fontes": 55,
+ "edicao": "Edição da noite",
+ "atualizado": "09/11/2026 · 19h05 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h00",
+ "fontes": 67,
  "mercado": [
   {
-   "nome": "Ibovespa · 12h",
-   "valor": "170.189 pts",
-   "var": "+1,00%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "172.236 pts",
+   "var": "+2,22%",
    "dir": "up"
   },
   {
-   "nome": "Dólar comercial · 10h42",
-   "valor": "R$ 5,520",
-   "var": "+0,21%",
-   "dir": "up"
-  },
-  {
-   "nome": "Petróleo Brent · 11h18",
-   "valor": "US$ 93,47",
-   "var": "-4,94%",
+   "nome": "Dólar comercial · fechamento",
+   "valor": "R$ 5,506",
+   "var": "-0,06%",
    "dir": "down"
+  },
+  {
+   "nome": "Petróleo Brent · fechamento",
+   "valor": "US$ 92,57",
+   "var": "-5,85%",
+   "dir": "down"
+  },
+  {
+   "nome": "Nasdaq · fechamento",
+   "valor": "25.253 pts",
+   "var": "+2,74%",
+   "dir": "up"
   },
   {
    "nome": "Selic fim de 2026 · Focus de hoje",
    "valor": "13,75%",
    "var": "era 13,50%",
    "dir": "up"
-  },
-  {
-   "nome": "IPCA 2026 · Focus de hoje",
-   "valor": "5,22%",
-   "var": "estável",
-   "dir": ""
   }
  ],
  "agenda": [
   {
    "hora": "Ter 10/11 · 8h",
-   "txt": "Ata do Copom; inflação ao consumidor dos EUA às 10h30; Lula chega a Antália para a COP31",
+   "txt": "Ata do Copom; inflação ao consumidor dos EUA às 10h30; começam em Abu Dhabi as conversas entre EUA, Rússia e Ucrânia",
    "cat": "economia"
+  },
+  {
+   "hora": "Ter 10/11 · 14h",
+   "txt": "Flávio Dino conduz no STF audiência de conciliação sobre as ações contra o fim da escala 6x1",
+   "cat": "politica"
   },
   {
    "hora": "Qua 11/11",
@@ -52,11 +57,6 @@
    "hora": "Qui 12/11",
    "txt": "IBGE divulga o IPCA de outubro às 9h; à noite, Grammy Latino em Las Vegas",
    "cat": "economia"
-  },
-  {
-   "hora": "Sex 13/11",
-   "txt": "Prazo pedido por deputados democratas para Rubio responder sobre Flávio Bolsonaro; Lula faz visita de Estado às Filipinas",
-   "cat": "politica"
   },
   {
    "hora": "Sáb 14/11 · 7h15",
@@ -163,38 +163,38 @@
  ],
  "manchete": {
   "kicker": "Mercado",
-  "titulo": "Bolsa sobe 1% e volta aos 170 mil pontos na manhã seguinte ao pronunciamento de Lula; Focus eleva a projeção da Selic",
-  "resumo": "Puxado por bancos, Vale e CSN, o Ibovespa avançava 1% perto do meio-dia, enquanto o dólar alternava alta e queda em torno de R$ 5,50 e a Petrobras recuava com o tombo do petróleo. Analistas atribuem a alta ao exterior positivo e dizem que o discurso presidencial não trouxe as medidas fiscais esperadas.",
+  "titulo": "Ibovespa sobe 2,2% e fecha na máxima do dia, aos 172 mil pontos, com tombo do petróleo e alta em Nova York",
+  "resumo": "A bolsa ganhou mais de 3,7 mil pontos, puxada por Vale, bancos e frigoríficos, enquanto o dólar fechou praticamente estável, a R$ 5,506. A queda de quase 6% do Brent, depois de Trump dizer que um novo ataque ao Irã é improvável, animou os mercados globais.",
   "foto": {
-   "src": "fotos/openfinance.jpg",
-   "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
+   "src": "fotos/real.jpg",
+   "credito": "José Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "Foi o primeiro pregão depois do pronunciamento de domingo, em que Lula reafirmou o compromisso com a responsabilidade fiscal, disse se preocupar com a dívida e os juros e prometeu criar condições para baixar a Selic, sem anunciar cortes de gastos. O Boletim Focus, divulgado às 8h25, passou a projetar a Selic em 13,75% no fim de 2026, o mesmo nível fixado pelo Copom na semana passada, quando o BC interrompeu a sequência de cortes. O ministro da Fazenda, Dario Durigan, disse que discutirá medidas fiscais com o presidente depois da viagem à COP31 e às Filipinas, que termina em 15 de novembro. No exterior, a queda de quase 5% do Brent, com a avaliação de Trump de que um novo ataque ao Irã é improvável, aliviou as bolsas e pesou sobre as petroleiras.",
+  "entenda": "Foi o primeiro pregão depois do pronunciamento de domingo, em que Lula reafirmou o compromisso com as regras fiscais sem anunciar cortes de gastos; o ministro da Fazenda, Dario Durigan, disse que o pacote será discutido com o presidente na volta da viagem à COP31 e à Ásia, em 15 de novembro. Analistas atribuíram a alta principalmente ao exterior: com a perspectiva de menos risco de guerra no Golfo, o petróleo despencou, o índice do dólar no mundo recuou e as bolsas americanas subiram mais de 2%. No mercado interno, a cautela fiscal segurou o câmbio, e a remessa sazonal de dividendos ao exterior no fim do ano também pesa sobre o real. Na terça, sai a ata do Copom, que manteve a Selic em 13,75% na semana passada.",
   "fatos": [
-   "Por volta das 12h, o Ibovespa marcava 170.189 pontos (+1%); na sexta, havia fechado em 168.498 pontos.",
-   "O dólar começou o dia em queda, a R$ 5,49, e chegou a R$ 5,52 às 10h42, oscilando ao redor de R$ 5,50.",
-   "Santander (+4,3%), CSN (+4,1%, após vender a CSN Cimentos à chinesa Huaxin) e Vale (+2,2%) subiam; PRIO (-3,2%) e Petrobras PN (-1,4%) caíam."
+   "O Ibovespa fechou em 172.236 pontos (+2,22%), na máxima da sessão; na sexta, havia terminado em 168.498 pontos.",
+   "Minerva (+8,4%), MBRF (+11,4%) e Natura (+8,6%) lideraram as altas; Brava (-4%) e PRIO (-2,2%) caíram com o petróleo.",
+   "O Brent recuou 5,85%, a US$ 92,57; em Nova York, o Nasdaq subiu 2,74% e o S&P 500, 2,34%."
   ],
   "fontes": [
    {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/",
-    "d": "Por que a bolsa sobe"
+    "n": "Times Brasil",
+    "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-dispara-22-e-fecha-na-maxima-apos-alivio-no-exterior-dolar-fica-estavel-a-r-550-com-fiscal-no-radar/",
+    "d": "Fechamento do pregão"
    },
    {
     "n": "BPMoney",
-    "u": "https://bpmoney.com.br/economia/ibovespa-sobe-aos-1698-mil-pontos-com-bancos-e-vale-petrobras-cai/",
-    "d": "Bancos e Petrobras"
+    "u": "https://bpmoney.com.br/mercado/ibovespa-sobe-222-fecha-maxima-172-mil-pontos/",
+    "d": "Altas e quedas"
    },
    {
-    "n": "NC News",
-    "u": "https://ncnews.com.br/2026/11/09/ibovespa-abre-em-alta-e-chega-aos-1695-mil-pontos-dolar-oscila-perto-de-r-550/",
-    "d": "Abertura do pregão"
+    "n": "Poder360",
+    "u": "https://www.poder360.com.br/poder-economia/dolar-cai-a-r-5505-ibovespa-sobe-222/",
+    "d": "Dólar e bolsa"
    },
    {
-    "n": "Portal do Agronegócio",
-    "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-hoje-reverte-queda-e-chega-a-r-5-52-mercado-avalia-fala-de-lula-e-juros",
-    "d": "Dólar na manhã"
+    "n": "Euronews",
+    "u": "https://pt.euronews.com/2026/11/09/trump-diz-que-eua-venceram-guerra-contra-o-irao-mas-rubio-admite-que-nao-houve-progressos-",
+    "d": "Trump e o Irã"
    },
    {
     "n": "Agência Brasil",
@@ -208,115 +208,129 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Congresso, STF e oposição",
+   "nota": "STF, Congresso e oposição",
    "itens": [
     {
-     "kicker": "Congresso",
+     "kicker": "STF",
      "quando": "Hoje",
-     "titulo": "PL lança Rogério Marinho contra Alcolumbre no Senado e decide na quarta se apoia Hugo Motta na Câmara",
-     "resumo": "Com Flávio Bolsonaro nos Estados Unidos, Jair Bolsonaro, Valdemar Costa Neto e Marinho conduzem a articulação da oposição para a eleição das Mesas, em 1º de fevereiro de 2027. O PL terá a maior bancada do Senado e precisa de 41 votos; Tereza Cristina (PP-MS) também se apresentou e fala em decidir com Marinho quem tem mais chance. Na Câmara, a bancada está dividida entre apoiar a reeleição de Motta, que tem o PT no bloco, ou lançar nome próprio.",
+     "titulo": "PGR pede ao Supremo o arquivamento definitivo do inquérito das fake news, aberto em 2019",
+     "resumo": "O pedido, sigiloso, foi enviado ao presidente do STF, Edson Fachin, que assumiu a relatoria em setembro no lugar de Alexandre de Moraes e já havia dito que pretende encerrar o caso. A PGR afirma que a investigação cumpriu seu objetivo e quer manter sob sigilo o material reunido, com mais de 12 mil páginas; não há prazo para a decisão.",
      "foto": {
-      "src": "https://imagens.ebc.com.br/MY5gvb4wPvIjpuTRjTKaiPub3t4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/25/lula8286.jpg?itok=M1fr495d",
-      "credito": "Lula Marques/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/K-LHa2iu_ZeORwFUS4y-LeXcLKs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9256.jpg?itok=9EtzfhoB",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/com-flavio-nos-eua-bolsonaro-e-marinho-se-organizam-para-conquistar-o-comando-do-congresso/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-pede-ao-supremo-arquivamento-do-inquerito-das-fake-news"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/movimentacoes-no-senado-antecipam-disputa-pelo-comando-da-casa-em-2027"
+       "n": "Imirante",
+       "u": "https://imirante.com/noticias/brasil/2026/11/09/ipolitica-stf-avalia-encerrar-inquerito-fake-news-apos-7-anos"
       }
      ]
     },
     {
-     "kicker": "Repercussão",
+     "kicker": "Apostas",
      "quando": "Hoje",
-     "titulo": "Pronunciamento de Lula divide avaliações entre governo, oposição e economistas",
-     "resumo": "Na fala de domingo, o presidente prometeu cesta básica sem imposto em 2027, criação do Ministério da Segurança Pública e responsabilidade fiscal, e disse, sem citar Flávio Bolsonaro, que o Brasil não é lugar para quem foge. A frase e a falta de medidas concretas de ajuste concentraram as reações.",
+     "titulo": "Fux suspende ações de 29 marcas de bets que tentavam voltar a operar e leva a disputa ao plenário do STF",
+     "resumo": "O ministro congelou os processos na Justiça Federal contra a medida provisória que paralisou as apostas on-line em setembro, a pedido da PGR, e disse que decisões conflitantes criavam insegurança jurídica. A análise da constitucionalidade da MP deve ficar para 2027.",
      "lados": [
       {
-       "quem": "Governo",
-       "txt": "Aliados destacam o compromisso com a dívida e os juros e a meta de elevar o investimento a mais de 20% do PIB; a Fazenda diz que as medidas fiscais serão discutidas após a viagem do presidente."
+       "quem": "Empresas",
+       "txt": "Dizem que a MP é inconstitucional, que pagaram R$ 30 milhões de outorga para operar até 2029 e que o fechamento causa prejuízo diário."
       },
       {
-       "quem": "Oposição e críticos",
-       "txt": "Líderes do PL criticaram a ampliação para 40 ministérios, e economistas ouvidos pelo InfoMoney apontaram que o discurso listou novos gastos sem dizer como serão financiados."
+       "quem": "Governo",
+       "txt": "O advogado-geral da União, Jorge Messias, sustenta que o Estado pode suspender atividade que ameaça direitos fundamentais e que a fiscalização não conteve danos à saúde mental e às finanças das famílias."
       }
      ],
      "fontes": [
       {
-       "n": "Cruzeiro FM",
-       "u": "https://www.cruzeirofm.com.br/2026/11/09/destaque/lula-reafirma-compromisso-com-responsabilidade-fiscal-e-promete-criar-condicoes-para-reduzir-juros/"
+       "n": "Rede Hoje",
+       "u": "https://redehoje.com.br/2026/11/09/politica-decisao-de-luiz-fux-do-stf-bloqueia-acoes-de-29-bets-que-tentavam-liberar-apostas-online-no-pais/"
+      },
+      {
+       "n": "Sigma",
+       "u": "https://sigma.world/pt-br/news/fux-suspende-acoes-contra-bets/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/canal-o-tempo/programas/primeira-analise/2026/11/9/stf-suspende-acoes-contra-proibicao-das-bets-o-que-acontece-agora-primeira-analise"
+      }
+     ]
+    },
+    {
+     "kicker": "Congresso",
+     "quando": "Hoje",
+     "titulo": "Alcolumbre busca votos no PL para se reeleger no Senado; Marinho e Tereza Cristina dizem que a oposição terá um só nome",
+     "resumo": "O presidente do Senado diz contar com 48 votos, e Rogério Marinho (PL-RN), lançado pelo partido na semana passada, afirma ter pelo menos 40; são necessários 41 dos 81 em votação secreta, em 1º de fevereiro. Na Câmara, a bancada do PL chega dividida à reunião de quarta que decide se apoia a reeleição de Hugo Motta.",
+     "fontes": [
+      {
+       "n": "ISN Online",
+       "u": "https://isnonline.com.br/2026/11/09/alcolumbre-e-tereza-cristina-buscam-apoio-do-pl-na-disputa-pelo-senado/"
+      },
+      {
+       "n": "O Hoje",
+       "u": "https://ohoje.com/2026/11/09/pl-lanca-rogerio-marinho-para-disputar-presidencia-do-senado-contra-alcolumbre/"
       },
       {
        "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/"
+       "u": "https://www.gazetadopovo.com.br/republica/direita-articula-sucessao-no-congresso-e-define-pautas-de-oposicao-ao-governo/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/o-brasil-nao-e-lugar-para-quem-foge-diz-lula-em-pronunciamento-na-tv"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/como-o-mercado-viu-o-pronunciamento-de-lula-a-nacao/"
+       "n": "PB Agora",
+       "u": "https://www.pbagora.com.br/noticia/politica/pl-divide-se-na-camara-entre-candidatura-propria-e-apoio-a-reeleicao-de-hugo-motta/"
       }
      ]
     },
     {
-     "kicker": "Agenda",
-     "quando": "Hoje",
-     "titulo": "Lula embarca para a COP31 e deixa para depois da viagem a definição de medidas fiscais",
-     "resumo": "O presidente chega a Antália na madrugada de terça e discursa na abertura da cúpula de líderes na quarta; depois segue para visita de Estado às Filipinas e para a cúpula da Asean, em Manila, até 15 de novembro. O ministro Dario Durigan disse que só então discutirá com ele o pacote fiscal.",
-     "fontes": [
+     "kicker": "Pesquisa",
+     "quando": "Ontem",
+     "titulo": "Quaest: 56% acham que Flávio Bolsonaro deixou o país para fugir da Justiça; 35% veem proteção contra perseguição",
+     "resumo": "O levantamento ouviu 2.004 pessoas entre 30 de outubro e 2 de novembro; 89% sabiam do episódio, e entre eleitores do senador no segundo turno 32% acham que ele errou. Flávio segue nos EUA, e deputados democratas cobram do secretário de Estado, Marco Rubio, respostas sobre a entrada dele até sexta.",
+     "lados": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
+       "quem": "Flávio Bolsonaro",
+       "txt": "Em nota, o senador disse não se arrepender da viagem e acusou o ministro Alexandre de Moraes de perseguição política."
       },
       {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/global/lula-retoma-agenda-internacional-cop31-turquia/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31"
+       "quem": "Investigação",
+       "txt": "A saída ocorreu apesar da ordem do STF para entregar os passaportes; o senador é investigado por ligações com um advogado suspeito de lavagem e por repasses de Daniel Vorcaro ao filme \"Dark Horse\"."
       }
-     ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Hoje",
-     "titulo": "Julgamento sobre menções a ministros do STF no caso Banco Master deve ficar para fevereiro de 2027",
-     "resumo": "A análise está parada desde 15 de setembro por pedido de vista de Flávio Dino, que tem até 15 de dezembro para devolver o processo, perto do recesso. Mensagens no celular do banqueiro Daniel Vorcaro citam Alexandre de Moraes e André Mendonça, que trocaram pedidos de investigação entre si; Luiz Fux nega ter conversado com Vorcaro.",
+     ],
      "fontes": [
       {
-       "n": "WSCOM",
-       "u": "https://wscom.com.br/noticias/2026/11/09/stf-adiar-julgamento-ministros-banco-master-2027/"
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/56-acham-que-flavio-bolsonaro-deixou-brasil-para-fugir-da-justica/"
       },
       {
-       "n": "Portal SGC",
-       "u": "https://sgc.com.br/noticia/1/453916/stf-deve-deixar-para-2027-julgamento-de-moraes-e-mendonca"
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-justica/flavio-fala-em-perseguicao-de-moraes-e-anuncia-reacao-juridica/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-deve-enviar-relatorios-sobre-ministros-do-stf-ainda-em-novembro/"
-      }
-     ]
-    },
-    {
-     "kicker": "Oposição",
-     "quando": "Hoje",
-     "titulo": "Flávio Bolsonaro segue nos EUA; democratas cobram de Rubio até sexta respostas sobre a entrada dele no país",
-     "resumo": "Vinte e cinco deputados democratas enviaram ao secretário de Estado 15 perguntas sobre a saída do senador do Brasil, apesar de ordem do STF, e pediram resposta até 13 de novembro; o pedido não tem força de intimação. A CNN Brasil desmentiu um vídeo que circula com voz clonada de um de seus jornalistas atacando Flávio.",
-     "fontes": [
+       "n": "A Tarde",
+       "u": "https://atarde.com.br/politica/flavio-bolsonaro-alega-perseguicao-politica-e-diz-que-nao-se-arrepende-ida-aos-eua-1407969"
+      },
       {
        "n": "ND+",
        "u": "https://ndmais.com.br/mundo/cinco-datas-que-mexem-com-o-brasil-entre-9-e-20-de-novembro-juros-clima-flavio-apec-e-tarifas/"
+      }
+     ]
+    },
+    {
+     "kicker": "Judiciário",
+     "quando": "Hoje",
+     "titulo": "Fux suspende punição do CNJ à juíza Gabriela Hardt, da Lava Jato",
+     "resumo": "Em liminar, o ministro entendeu que o conselho perdeu o prazo de cinco anos para abrir o processo e que não ficou demonstrada intenção de favorecer alguém. A juíza, afastada por dois anos com salário proporcional desde agosto, volta a receber vencimentos integrais até o julgamento do mandado de segurança.",
+     "fontes": [
+      {
+       "n": "Sou Brasília",
+       "u": "https://soubrasilia.com/fux-suspende-afastamento-gabriela-hardt-cnj-lava-jato-prescricao-9-novembro-2026/"
       },
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/09/video-falso-flavio-bolsonaro-voz-clonada-cnn"
+       "n": "Game Over Drive",
+       "u": "https://gameoverdrive.com.br/quem-e-gabriela-hardt-juiza-lava-jato/"
       }
      ]
     }
@@ -326,29 +340,41 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Mercado na manhã de segunda",
+   "nota": "Fechamento do mercado",
    "itens": [
     {
      "kicker": "Bolsa",
      "quando": "Hoje",
-     "titulo": "Ibovespa sobe 1% com bancos e Vale; Petrobras e petroleiras caem com o petróleo",
-     "resumo": "O índice abriu em 168,5 mil pontos e passou de 170 mil por volta do meio-dia. A CSN disparou após anunciar a venda da CSN Cimentos à chinesa Huaxin por avaliação de R$ 12,7 bilhões, e a Alpargatas, fora do índice, subia 6% depois do balanço. O Itaú BBA vê o índice ainda em tendência de baixa no curto prazo.",
+     "titulo": "Frigoríficos e Natura lideram a alta do Ibovespa; petroleiras caem com o Brent",
+     "resumo": "MBRF subiu 11,4%, Natura 8,6% e Minerva 8,4%, e Vale e bancos sustentaram o índice, que ganhou mais de 3,7 mil pontos desde a abertura. Brava e PRIO recuaram com o petróleo, e os juros futuros fecharam em queda em quase todos os vencimentos.",
+     "fontes": [
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/ibovespa-sobe-222-fecha-maxima-172-mil-pontos/"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-dispara-22-e-fecha-na-maxima-apos-alivio-no-exterior-dolar-fica-estavel-a-r-550-com-fiscal-no-radar/"
+      },
+      {
+       "n": "Visno Invest",
+       "u": "https://visnoinvest.com.br/news/16321/ibovespa-fecha-a-171-78656-pts-195-hbor3-cai-172-hoje"
+      }
+     ]
+    },
+    {
+     "kicker": "Pix",
+     "quando": "Hoje",
+     "titulo": "Pix bate recorde e passa de 319 milhões de transações em um dia",
+     "resumo": "Na sexta-feira, 6, o sistema registrou 319,7 milhões de transferências, superando a marca de 4 de setembro, segundo o Banco Central. O valor movimentado, R$ 180,5 bilhões, foi o segundo maior da história.",
      "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/hOVaqSEKf0kfzYI9qhLH8_qUF5k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8269.jpg?itok=NPtc1wBv",
+      "credito": "Bruno Peres/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/ibovespa-sobe-aos-1698-mil-pontos-com-bancos-e-vale-petrobras-cai/"
-      },
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/09/ibovespa-abre-em-alta-e-chega-aos-1695-mil-pontos-dolar-oscila-perto-de-r-550/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-bate-recorde-e-supera-319-milhoes-de-transacoes-em-um-dia"
       }
      ]
     },
@@ -369,6 +395,18 @@
       {
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Exportação",
+     "quando": "Hoje",
+     "titulo": "Filipinas suspendem por 60 dias importações de carne suína do Brasil e de outros fornecedores",
+     "resumo": "O país é o maior comprador da carne suína fresca brasileira, com US$ 530,9 milhões de janeiro a setembro, cerca de 21% do total. O Ministério da Agricultura acompanha o caso, e a associação do setor, ABPA, vai integrar a comitiva de Lula a Manila nesta semana para tentar reverter a medida.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/filipinas-suspendem-importacao-de-carne-suina-brasileira-por-60-dias"
       }
      ]
     },
@@ -401,42 +439,6 @@
        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31"
       }
      ]
-    },
-    {
-     "kicker": "Petróleo",
-     "quando": "Hoje",
-     "titulo": "Brent cai quase 5% depois de Trump dizer que novo ataque ao Irã é improvável",
-     "resumo": "Às 11h18, o barril do Brent recuava 4,9%, a US$ 93,47, e o WTI caía 4,4%. O Iraque informou ter chegado a um entendimento com os EUA para exportar petróleo por uma faixa do Estreito de Ormuz perto de Omã.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/"
-      },
-      {
-       "n": "Informa Noroeste",
-       "u": "https://informanoroeste.com.br/iraque-chega-a-entendimento-com-os-eua-para-permitir-exportacoes-de-petroleo-via-ormuz-diz-ministro/"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/09/trump-diz-que-eua-venceram-guerra-contra-o-irao-mas-rubio-admite-que-nao-houve-progressos-"
-      }
-     ]
-    },
-    {
-     "kicker": "Inflação",
-     "quando": "Hoje",
-     "titulo": "IGP-DI sobe 1,15% em outubro, menos que em setembro",
-     "resumo": "O índice da FGV havia avançado 1,50% no mês anterior e acumula 5,03% em 12 meses. O IPCA de outubro, do IBGE, sai na quinta-feira.",
-     "fontes": [
-      {
-       "n": "Mercado Hoje",
-       "u": "https://mercadohoje.uai.com.br/2026/11/09/noticias-hoje-09-11-2026"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/"
-      }
-     ]
     }
    ]
   },
@@ -444,25 +446,41 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Frio fora de época e segurança",
+   "nota": "Frio e segurança",
    "itens": [
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Massa de ar polar faz da segunda um dia de frio fora de época no Sul e no Sudeste",
-     "resumo": "A capital paulista tem máxima prevista entre 13°C e 17°C, Curitiba não deve passar de 16°C e Belo Horizonte, de 18°C, segundo a Climatempo. Há risco de geada fraca nas serras gaúcha e catarinense, e o frio chega ao interior do país e ao litoral da Bahia, o que é incomum em novembro.",
+     "titulo": "Frio fora de época põe 748 cidades de Minas sob alerta do Inmet; Grande ABC não passa de 16°C",
+     "resumo": "A massa de ar polar trazida por frentes frias derrubou as temperaturas em 3°C a 5°C em Minas, e Belo Horizonte teve máxima de cerca de 20°C, com chuva. No Sul, frio e chuva continuam, mas a previsão é de aquecimento gradual ao longo da semana.",
      "fontes": [
       {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/09/frio-fora-de-epoca-atinge-o-brasil-nesta-segunda-veja-as-temperaturas-nas-capitais/"
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/gerais/2026/11/7535558-queda-de-temperatura-coloca-748-cidades-de-minas-sob-alerta-do-inmet.html"
+      },
+      {
+       "n": "DGABC",
+       "u": "https://www.dgabc.com.br/Noticia/4367614/frio-persiste-e-termometros-nao-passam-de-16%C2%B0c-no-grande-abc"
+      },
+      {
+       "n": "Carta Capital",
+       "u": "https://www.cartacapital.com.br/cartalab/regiao-sul-tem-frio-e-chuva-mas-temperaturas-sobem-durante-a-semana/"
       },
       {
        "n": "Revista Oeste",
        "u": "https://revistaoeste.com/brasil/massa-de-ar-polar-derruba-temperaturas-nesta-segunda-feira/"
-      },
+      }
+     ]
+    },
+    {
+     "kicker": "Segurança",
+     "quando": "Hoje",
+     "titulo": "PM reforça policiamento no Subúrbio de Salvador após mensagens com ameaças de toque de recolher",
+     "resumo": "As mensagens, atribuídas a facções, circularam em bairros como Lobato, Plataforma e São Caetano, onde ao menos quatro homicídios foram registrados na semana passada. Duas companhias da PM intensificaram o patrulhamento, segundo o comando regional.",
+     "fontes": [
       {
-       "n": "Meteored",
-       "u": "https://www.meteored.com.br/noticias/previsao/forte-massa-de-ar-frio-traz-temperaturas-de-0-c-geadas-e-afeta-18-estados.html"
+       "n": "Chico Sabe Tudo",
+       "u": "https://www.chicosabetudo.com.br/policia/pm-reforca-policiamento-em-salvador-apos-ameacas-de-toque-de-recolher-550d834fb635"
       }
      ]
     },
@@ -493,22 +511,6 @@
        "u": "https://ndmais.com.br/video/celesc-trabalha-para-restabelecer-energia-apos-tornado-em-chapeco/"
       }
      ]
-    },
-    {
-     "kicker": "Polícia",
-     "quando": "Hoje",
-     "titulo": "Polícia do Rio cumpre mandados contra grupo suspeito de vender diplomas falsos de graduação pela internet",
-     "resumo": "Foram oito mandados de busca em Minas Gerais, Goiás e Rio contra quatro investigados, levados para depor. Segundo a polícia, o principal suspeito danificou cinco celulares antes da apreensão.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/operacao-mira-grupo-que-vendia-diplomas-falsos-pela-internet-no-rio/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/mirelle-pinheiro/quadrilha-e-alvo-da-pcerj-por-vender-diplomas-falsos-de-graduacao-na-web"
-      }
-     ]
     }
    ]
   },
@@ -519,22 +521,82 @@
    "nota": "Internacional",
    "itens": [
     {
+     "kicker": "EUA",
+     "quando": "Hoje",
+     "titulo": "Trump alega fraude, sem apresentar provas, nas eleições em que os democratas tomaram a Câmara e o Senado",
+     "resumo": "O presidente citou diferenças entre pesquisas e resultados e criticou as urnas eletrônicas, depois de ter reconhecido a vitória democrata na semana passada. Com a contagem quase concluída, os democratas têm 254 cadeiras na Câmara e 54 no Senado.",
+     "fontes": [
+      {
+       "n": "Diário RO",
+       "u": "https://www.diarioro.com.br/2026/11/09/trump-questiona-eleicoes-nos-eua-e-fala-em-fraude-sem-apresentar-provas/"
+      },
+      {
+       "n": "Rádio Pampa",
+       "u": "https://www.radiopampa.com.br/trump-alega-fraude-sem-provas-nas-eleicoes-de-meio-de-mandato-dos-estados-unidos/"
+      },
+      {
+       "n": "Notícia Max",
+       "u": "https://www.noticiamax.com.br/internacional/derrotado-trump-alega-fraude-sem-provas-nas-eleicoes-nos-eua/199077"
+      }
+     ]
+    },
+    {
      "kicker": "Irã",
      "quando": "Hoje",
-     "titulo": "Rubio diz que não há avanço nas negociações com o Irã; Trump vê novo ataque como improvável",
-     "resumo": "O secretário de Estado classificou as exigências iranianas como irrealistas, e Teerã respondeu que os EUA precisam encerrar sanções, bloqueio naval e guerra antes de negociar. Trump se reúne nesta segunda com o premiê do Catar e disse que pode encontrar Xi e Putin na cúpula da Apec, na China.",
+     "titulo": "Irã exige fim de sanções e do bloqueio antes de negociar; petroleiros atingem minas em Ormuz",
+     "resumo": "Teerã respondeu a Marco Rubio, que vê exigências irrealistas e nenhum avanço, dizendo que os EUA devem encerrar sanções, bloqueio naval e guerra primeiro. A Guarda Revolucionária relatou dois petroleiros em chamas após atingirem minas, e Trump, que vê novo ataque como improvável, conversou com o emir do Catar.",
      "fontes": [
       {
        "n": "Euronews",
        "u": "https://pt.euronews.com/2026/11/09/trump-diz-que-eua-venceram-guerra-contra-o-irao-mas-rubio-admite-que-nao-houve-progressos-"
       },
       {
-       "n": "Just Security",
-       "u": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
       },
       {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/trump-guerra-ira-mudancas-territorio-ucrania"
+       "n": "ADVFN",
+       "u": "https://br.advfn.com/jornal/2026/11/petroleo-recua-trump-diplomacia-ira-brent-97-dolares-9-novembro-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Delegação russa chega a Abu Dhabi para conversas com EUA e Ucrânia depois de noite com 317 drones",
+     "resumo": "As negociações, mediadas por Washington e previstas para dois dias a partir de terça, terão a Rússia representada por Vladimir Medinsky. Um ataque em Odessa matou três pessoas e atingiu um depósito de alimentos para escolas, e a Ucrânia bombardeou uma refinaria perto de São Petersburgo.",
+     "fontes": [
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/mundo/russia-e-ucrania-intensificam-ataques-antes-de-conversas-mediadas-pelos-eua-em-abu-dhabi-1.1192136"
+      },
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/09/1017285-delegacao-russa-chega-a-abu-dhabi-para-negociacoes-sobre-a-ucrania"
+      },
+      {
+       "n": "Jornal Económico",
+       "u": "https://jornaleconomico.sapo.pt/noticias/ucrania-guterres-espera-que-conversacoes-de-paz-levem-a-progressos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Vaticano",
+     "quando": "Hoje",
+     "titulo": "Papa Leão XIV celebra missa campal para multidão em Buenos Aires, com Milei presente",
+     "resumo": "Na homilia, em Palermo, o papa defendeu a família diante de problemas como trabalho precário e violência doméstica e lembrou Francisco; o Metrópoles fala em cerca de 2 milhões de pessoas. Na véspera, ao criticar políticas de austeridade, ele disse que a economia deve servir às pessoas; o governo diz que o ajuste é necessário para conter a inflação.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/papa-leao-xiv-faz-missa-para-2-milhoes-de-pessoas-na-argentina"
+      },
+      {
+       "n": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/papa-leao-visita-instituicao-cortes-milei-argentina"
+      },
+      {
+       "n": "Vatican News",
+       "u": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-chega-a-argentina-2-etapa-da-viagem-apostolica.html"
       }
      ]
     },
@@ -567,62 +629,6 @@
        "u": "https://www.gazetadopovo.com.br/mundo/justica-paraguaia-ordena-prisao-de-santiago-pena-por-rombo-milionario-em-banco/"
       }
      ]
-    },
-    {
-     "kicker": "Polônia",
-     "quando": "Hoje",
-     "titulo": "Morre no hospital o atirador que matou seis pessoas numa praça de Cracóvia",
-     "resumo": "O polonês de 24 anos foi baleado pela polícia durante o ataque de sábado, que deixou também 15 feridos, entre eles turistas estrangeiros. Os corpos dos pais e da irmã foram achados na casa dele, e o governo investiga possível influência de ideologias de extrema direita.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/atirador-que-matou-6-pessoas-em-praca-da-cracovia-morre-no-hospital"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/atirador-que-matou-ao-menos-seis-pessoas-na-polonia-morre-no-hospital/"
-      },
-      {
-       "n": "CNN Portugal",
-       "u": "https://cnnportugal.iol.pt/polonia/cracovia/antes-de-ir-para-a-praca-o-atirador-matou-os-pais-e-a-irma-mais-nova-tudo-o-que-se-sabe-sobre-o-ataque-em-cracovia/20261108/6af0331cd34e9ce6f1b4391d"
-      }
-     ]
-    },
-    {
-     "kicker": "Vaticano",
-     "quando": "Hoje",
-     "titulo": "Papa Leão XIV reúne dezenas de milhares em missa em Buenos Aires",
-     "resumo": "A celebração foi na Avenida del Libertador, um dia depois do encontro com Javier Milei, em que o papa falou dos limites do poder e criticou cortes em benefícios sociais. A viagem de 12 dias segue para o Peru, até 17 de novembro.",
-     "fontes": [
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/multidao-se-reune-em-buenos-aires-para-missa-do-papa"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/milei-e-papa-leao-trocam-presentes-em-visita-a-argentina/"
-      },
-      {
-       "n": "Vatican News",
-       "u": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-chega-a-argentina-2-etapa-da-viagem-apostolica.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Rússia volta a atacar a rede elétrica ucraniana antes de negociações nos Emirados",
-     "resumo": "Moscou diz ter atingido quatro subestações, e a União Europeia ativou um mecanismo de emergência para acelerar recursos de reparo. As conversas mediadas pelos EUA em Abu Dhabi estão previstas para esta semana.",
-     "fontes": [
-      {
-       "n": "Just Security",
-       "u": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
-      },
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/trump-guerra-ira-mudancas-territorio-ucrania"
-      }
-     ]
     }
    ]
   },
@@ -630,25 +636,45 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Seleção em Singapura e decisões",
+   "nota": "Seleção em Singapura e Brasileirão",
    "itens": [
     {
      "kicker": "Seleção",
      "quando": "Hoje",
-     "titulo": "Ancelotti comanda primeiro treino em Singapura com parte do grupo; Danilo é cortado",
-     "resumo": "O treino foi no estádio Jalan Besar, com cerca de metade dos convocados, já que outros ainda chegavam à Ásia. O volante do Botafogo sofreu lesão no adutor e não terá substituto, e o Brasil fica com 25 jogadores para enfrentar o Japão no sábado, às 7h15, e Singapura no dia 17.",
+     "titulo": "Com 12 jogadores, entre eles Vini Jr. e Endrick, Ancelotti faz o primeiro treino em Singapura; Danilo é cortado",
+     "resumo": "Quem atuou pelos clubes europeus no fim de semana descansou, e os convocados de times brasileiros chegam nos próximos dias. O volante do Botafogo sofreu lesão e não terá substituto; o Brasil enfrenta o Japão no sábado, às 7h15, e Singapura no dia 17, às 7h.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/11/9/selecao-brasileira-inicia-treinos-em-singapura-para-ultimos-amistosos-do-ano-veja-programacao"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/endrick-e-vini-jr-vao-a-campo-no-primeiro-treino-da-selecao-em-singapura/"
       },
       {
        "n": "Lance!",
        "u": "https://www.lance.com.br/selecao-brasileira/com-metade-do-grupo-ancelotti-comanda-primeiro-treino-da-selecao.html"
       },
       {
-       "n": "A Tarde",
-       "u": "https://atarde.com.br/esportes/selecao-treina-com-menos-da-metade-dos-jogadores-para-enfrentar-japao-1408834"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/11/9/selecao-brasileira-inicia-treinos-em-singapura-para-ultimos-amistosos-do-ano-veja-programacao"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Vitória acerta com Rafael Lacerda, que deixa a lanterna Chapecoense, para fugir do rebaixamento",
+     "resumo": "O time baiano é o 15º, com 38 pontos, um à frente do Corinthians, primeiro na zona de rebaixamento, e não vence há cinco rodadas. A estreia do técnico deve ser em 19 de novembro, quando o campeonato já terá voltado da Data Fifa.",
+     "fontes": [
+      {
+       "n": "bahia.ba",
+       "u": "https://bahia.ba/esporte/vitoria-acerta-com-novo-tecnico-para-reta-final-do-brasileirao/"
+      },
+      {
+       "n": "BNews",
+       "u": "https://www.bnews.com.br/noticias/esporte/vem-ai-vitoria-encaminha-contratacao-de-tecnico-que-deixou-lanterna-do-brasileirao.html"
+      },
+      {
+       "n": "Chapecoense",
+       "u": "https://chapecoense.com/2026/11/09/comunicado-oficial-09-de-novembro-de-2026"
       }
      ]
     },
@@ -701,18 +727,18 @@
      ]
     },
     {
-     "kicker": "Brasileirão",
-     "quando": "Hoje",
-     "titulo": "Brasileirão para na Data Fifa e volta no dia 14; Palmeiras x Flamengo, em 21 de novembro, pode definir o título",
-     "resumo": "A 35ª rodada começa com Mirassol x Atlético-MG no sábado e tem a maior parte dos jogos em 18 e 19 de novembro, incluindo Cruzeiro x Palmeiras e Flamengo x Athletico-PR. O confronto entre os dois primeiros colocados será no Nubank Parque, pela 36ª rodada.",
+     "kicker": "Série B",
+     "quando": "Ontem",
+     "titulo": "Fortaleza demite Paulo Autuori depois de derrota que tirou o acesso direto à Série A",
+     "resumo": "O time perdeu por 2 a 1 para o Novorizontino na 37ª rodada e encerrou uma série de 17 jogos invicto. Autuori deixa o cargo após 104 dias, e o clube ainda disputa a volta à elite no mata-mata.",
      "fontes": [
       {
-       "n": "98 FM Natal",
-       "u": "https://98fmnatal.com.br/ultimas/brasileirao-2026-tabela-rodadas-35-e-36-datas-horarios-palmeiras-flamengo/410279/"
+       "n": "Piranot",
+       "u": "https://www.piranot.com.br/2026/11/09/noticias/esporte/fortaleza-demite-paulo-autuori/"
       },
       {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-carioca/flamengo/flamengo-no-brasileirao-cbf-detalha-datas-e-horarios-dos-jogos-das-rodadas-35-e-36/"
+       "n": "Mais Goiás",
+       "u": "https://www.maisgoias.com.br/esportes/futebol/brasileirao-serie-b/proximo-adversario-do-vila-nova-demite-tecnico-que-teve-apenas-uma-derrota-na-serie-b/"
       }
      ]
     }
@@ -722,8 +748,44 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Vacinação e surtos",
+   "nota": "Sarampo, mpox e Novembro Azul",
    "itens": [
+    {
+     "kicker": "Sarampo",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde repassa R$ 524 mil para conter o sarampo no Alto Solimões",
+     "resumo": "A portaria, publicada hoje, destina o dinheiro a Tabatinga, Benjamin Constant e Atalaia do Norte, para vacinação, vigilância e bloqueio da transmissão. O Amazonas soma 21 dos 65 casos importados confirmados no país em 2026.",
+     "foto": {
+      "src": "fotos/sarampo.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Gazeta da Amazônia",
+       "u": "https://gazetadaamazonia.com.br/09/11/2026/vacinacao-sarampo-no-amazonas/"
+      },
+      {
+       "n": "Em Tempo",
+       "u": "https://emtempo.com.br/611871/amazonas/municipios-amazonas-recebem-recursos-combate-sarampo/"
+      },
+      {
+       "n": "Rios de Notícias",
+       "u": "https://www.riosdenoticias.com.br/saude-repassa-r-524-mil-para-conter-casos-de-sarampo-no-amazonas/"
+      }
+     ]
+    },
+    {
+     "kicker": "Novembro Azul",
+     "quando": "Hoje",
+     "titulo": "Mais da metade dos homens diz não saber como prevenir o câncer de próstata, aponta pesquisa",
+     "resumo": "No levantamento do A.C.Camargo Cancer Center, a fatia que não sabe passou de 44% em 2024 para 56% em 2026, e chega a 71% entre 16 e 24 anos. A intenção de fazer o exame de toque caiu de 61% para 48%; é o câncer mais comum entre os homens no país.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nivel-de-conhecimento-e-prevencao-ao-cancer-de-prostata-cai-no-brasil"
+      }
+     ]
+    },
     {
      "kicker": "Mpox",
      "quando": "Ontem",
@@ -745,26 +807,10 @@
       {
        "n": "NC News",
        "u": "https://ncnews.com.br/2026/11/08/mpox-governo-amplia-doses-de-vacina-alta/"
-      }
-     ]
-    },
-    {
-     "kicker": "Sarampo",
-     "quando": "Ontem",
-     "titulo": "Manaus faz vacinação extra contra sarampo após 23 casos confirmados no Alto Solimões",
-     "resumo": "Os casos, em Tabatinga, Benjamin Constant, Atalaia do Norte e São Paulo de Olivença, foram registrados nos últimos dois meses entre brasileiros e peruanos, e 83% dos doentes não eram vacinados. A capital não tem casos recentes, mas abriu duas unidades no domingo para pessoas de 1 a 59 anos; a cobertura da segunda dose entre crianças está em 83%, abaixo da meta de 95%.",
-     "fontes": [
-      {
-       "n": "Informe Manaus",
-       "u": "https://informemanaus.com.br/manaus-mantem-vacinacao-contra-sarampo-neste-domingo-em-duas-unidades-de-saude/11/"
       },
       {
-       "n": "Rios de Notícias",
-       "u": "https://www.riosdenoticias.com.br/dia-d-manaus-realiza-campanha-de-vacinacao-contra-o-sarampo-neste-sabado-e-domingo/"
-      },
-      {
-       "n": "O Rebate",
-       "u": "https://orebate.com.br/saude/brasil-reforca-vacinacao-contra-sarampo-na-fronteira-com-peru-e-colombia"
+       "n": "CNN Brasil",
+       "u": "https://cnnbrasil.com.br/saude/brasil-registra-832-casos-e-uma-morte-por-mpox-em-2026-diz-ministerio"
       }
      ]
     },
@@ -790,8 +836,20 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Balanço do Enem",
+   "nota": "Enem",
    "itens": [
+    {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Estudante de 16 anos morre após passar mal no primeiro dia do Enem na Bahia",
+     "resumo": "Izalara dos Santos Oliveira, de Cansanção, no norte do estado, foi atendida ainda na escola e morreu no hospital; a causa não foi divulgada. O Inep confirmou a morte e lamentou, e a prefeitura decretou luto.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/brasil/2026/11/9/estudante-de-16-anos-morre-apos-passar-mal-durante-o-primeiro-dia-do-enem-na-bahia"
+      }
+     ]
+    },
     {
      "kicker": "Enem",
      "quando": "Hoje",
@@ -874,49 +932,70 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "COP31 e tecnologia",
+   "nota": "COP31, clima e tecnologia",
    "itens": [
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "COP31 abre em Antália com atraso, alerta da ONU sobre extremos climáticos e impasse sobre financiamento",
-     "resumo": "A cerimônia começou quase 90 minutos depois do previsto, após negociações até a noite de domingo; segundo delegados, o financiamento climático não terá item próprio na pauta. António Guterres disse que o mundo entrou numa nova era de extremos, e a conferência, que vai até 20 de novembro, não tem representante do governo dos EUA.",
+     "titulo": "COP31 começa com 68 mil credenciados e impasse sobre dinheiro para países vulneráveis; Lula embarca para Antália",
+     "resumo": "Os países em desenvolvimento pedem US$ 305 bilhões por ano até 2035, quase dez vezes o que recebem, e a proposta de triplicar o financiamento para adaptação ficou fora da pauta. A Turquia quer que a eletricidade chegue a 35% do uso de energia em 2035; Lula partiu hoje com sete ministros e discursa na quarta, sem Hugo Motta e Davi Alcolumbre na comitiva.",
      "foto": {
       "src": "fotos/floresta.jpg",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/09/cop31-comeca-com-paises-sob-pressao-para-enfrentar-a-crise-climatica.html"
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/09/cop31-arranca-na-turquia-com-impasse-sobre-financiamento-climatico-e-68-mil-participantes-em-antalia/"
       },
       {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/internacional/2026/11/7535303-cop31-comeca-hoje-na-turquia-com-foco-em-energia-limpa-e-acordos-globais.html"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/09/turquia-cop31-arranca-em-antalya-com-ambicao-climatica-em-foco"
       },
       {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://www.diariodocentrodomundo.com.br/cop31-comeca-turquia-debates-clima-energia-financiamento"
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/poder-e-governo/2026/11/09/1016839-lula-embarca-para-a-cop31-com-janones-e-ministros"
+      },
+      {
+       "n": "Alma Preta",
+       "u": "https://almapreta.com.br/sessao/cotidiano/cop-31-impasse-financiamento-climatico"
+      }
+     ]
+    },
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "2026 deve ficar entre os quatro anos mais quentes já registrados, diz a OMM",
+     "resumo": "De janeiro a setembro, a temperatura média global ficou 1,47°C acima do nível pré-industrial, e o nível do mar bateu recorde. O serviço europeu Copernicus vê como muito provável que 2026 seja o segundo ano a passar do limite de 1,5°C do Acordo de Paris.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/DRCBinTonsXqRzXXd1IeKqZ80Zc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/30/pzzb5391.jpg?itok=yOyorZK1",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+     },
+     "destaque": false,
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-diz-que-2026-sera-um-dos-anos-mais-quentes-ja-registrados"
       }
      ]
     },
     {
      "kicker": "Tecnologia",
      "quando": "Hoje",
-     "titulo": "Nvidia investiga se Jensen Huang foi alvo de espionagem; ações caem antes da abertura em Nova York",
-     "resumo": "Um comitê de conselheiros independentes apura a relação do executivo com uma ex-diretora de empresa de Singapura que autoridades americanas suspeitam atuar para Pequim. Huang admitiu a funcionários um caso extraconjugal; a empresa diz não ter indício de vazamento de segredos, e a China rejeita as acusações.",
+     "titulo": "Ações da Nvidia fecham em queda de 4,3% com investigação sobre suposta espionagem envolvendo Jensen Huang",
+     "resumo": "O papel terminou a US$ 178,67, enquanto Broadcom, AMD e Intel subiram, sinal de que o mercado vê o problema como restrito à empresa. O conselho apura a relação do executivo com uma diretora de empresa de nuvem que, segundo a imprensa americana, foi ligada à espionagem chinesa; Huang diz que vai colaborar.",
      "fontes": [
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/mundo/o-que-se-sabe-sobre-a-investigacao-da-nvidia-sobre-suposta-espionagem-contra-o-ceo-jensen-huang/"
-      },
-      {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/"
+       "u": "https://www.infomoney.com.br/mercados/nvidia-cai-mais-de-4-apos-escandalo-mas-nao-afeta-setor-o-que-esperar-agora/"
       },
       {
-       "n": "Showmetech",
-       "u": "https://www.showmetech.com.br/nvidia-abre-investigacao-de-suspeita-de-espionagem-contra-jensen-huang/"
+       "n": "CNN Brasil",
+       "u": "https://cnnbrasil.com.br/economia/money/tecnologia/quem-e-jensen-huang-ceo-da-nvidia-investigado-por-affair-com-suposta-espia"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/suspeita-de-espionagem-chinesa-faz-acoes-da-nvidia-cairem"
       }
      ]
     },
@@ -942,13 +1021,29 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "TV, música e famosos",
+   "nota": "Cinema, TV e música",
    "itens": [
+    {
+     "kicker": "Cinema",
+     "quando": "Hoje",
+     "titulo": "\"Os Farofeiros 3\" lidera a bilheteria do fim de semana, com quatro filmes nacionais no top 10",
+     "resumo": "A comédia superou a exibição de show do Stray Kids e \"Godzilla Minus Zero\" entre 5 e 8 de novembro, segundo a Rentrak. \"Feito Pipa\", pré-candidato do Brasil ao Oscar, \"100 Dias\" e \"As Dez Vantagens de Morrer Depois de Você\" também estão entre os dez mais vistos.",
+     "fontes": [
+      {
+       "n": "Rolling Stone Brasil",
+       "u": "https://rollingstone.com.br/cinema/brasil-lidera-bilheterias-brasileiras-em-disputa-contra-stray-kids-novo-godzilla-e-cara-de-barro/"
+      },
+      {
+       "n": "Alô Alô Bahia",
+       "u": "https://aloalobahia.com/noticias/2026/11/09/os-farofeiros-3-lidera-bilheterias-no-brasil-e-supera-stray-kids-e-novo-godzilla/"
+      }
+     ]
+    },
     {
      "kicker": "TV",
      "quando": "Hoje",
      "titulo": "\"Lá na Minha Terra\" estreia hoje na faixa das seis da Globo, com Dira Paes como protagonista",
-     "resumo": "A atriz vive uma mãe de cinco filhos na novela que substitui \"A Nobreza do Amor\". O primeiro capítulo vai ao ar no fim da tarde desta segunda.",
+     "resumo": "A atriz vive uma mãe de cinco filhos na novela que substitui \"A Nobreza do Amor\". O primeiro capítulo foi ao ar no fim da tarde desta segunda.",
      "fontes": [
       {
        "n": "TV Sim Brasil",
