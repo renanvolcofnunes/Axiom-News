@@ -1,62 +1,62 @@
 {
  "data": "Segunda-feira, 9 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "09/11/2026 · 07h05 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 17h de sexta; petróleo às 7h de segunda",
- "fontes": 57,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "09/11/2026 · 12h40 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 12h00",
+ "fontes": 55,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento de sexta",
-   "valor": "168.498 pts",
-   "var": "+1,39%",
+   "nome": "Ibovespa · 12h",
+   "valor": "170.189 pts",
+   "var": "+1,00%",
    "dir": "up"
   },
   {
-   "nome": "Dólar comercial · fechamento de sexta",
-   "valor": "R$ 5,506",
-   "var": "+0,36%",
+   "nome": "Dólar comercial · 10h42",
+   "valor": "R$ 5,520",
+   "var": "+0,21%",
    "dir": "up"
   },
   {
-   "nome": "Petróleo Brent · 7h de segunda",
-   "valor": "US$ 98,15",
-   "var": "-0,17%",
+   "nome": "Petróleo Brent · 11h18",
+   "valor": "US$ 93,47",
+   "var": "-4,94%",
    "dir": "down"
   },
   {
-   "nome": "Selic · Copom de 4/11",
+   "nome": "Selic fim de 2026 · Focus de hoje",
    "valor": "13,75%",
-   "var": "mantida",
-   "dir": ""
+   "var": "era 13,50%",
+   "dir": "up"
   },
   {
-   "nome": "IPCA 2026 · Focus da semana passada",
+   "nome": "IPCA 2026 · Focus de hoje",
    "valor": "5,22%",
-   "var": "novo Focus às 8h25",
+   "var": "estável",
    "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Seg 9/11",
-   "txt": "Abre a COP31, em Antália (Turquia), e Lula embarca para Turquia e Filipinas; IGP-DI às 8h e Boletim Focus às 8h25; papa Leão XIV celebra missa em Buenos Aires às 11h30",
-   "cat": "ciencia"
-  },
-  {
-   "hora": "Ter 10/11",
-   "txt": "Ata do Copom (8h) e inflação ao consumidor dos EUA (10h30); Brasil apresenta na COP31 o roteiro para deixar os combustíveis fósseis",
+   "hora": "Ter 10/11 · 8h",
+   "txt": "Ata do Copom; inflação ao consumidor dos EUA às 10h30; Lula chega a Antália para a COP31",
    "cat": "economia"
   },
   {
-   "hora": "Qua 11/11 · 12h",
-   "txt": "Lula discursa na abertura da cúpula de líderes da COP31",
+   "hora": "Qua 11/11",
+   "txt": "Lula discursa na abertura da cúpula de líderes da COP31; bancada do PL na Câmara decide se apoia Hugo Motta",
    "cat": "ciencia"
   },
   {
-   "hora": "Qui 12/11 · 9h",
-   "txt": "IBGE divulga o IPCA de outubro",
+   "hora": "Qui 12/11",
+   "txt": "IBGE divulga o IPCA de outubro às 9h; à noite, Grammy Latino em Las Vegas",
    "cat": "economia"
+  },
+  {
+   "hora": "Sex 13/11",
+   "txt": "Prazo pedido por deputados democratas para Rubio responder sobre Flávio Bolsonaro; Lula faz visita de Estado às Filipinas",
+   "cat": "politica"
   },
   {
    "hora": "Sáb 14/11 · 7h15",
@@ -65,7 +65,7 @@
   },
   {
    "hora": "Dom 15/11",
-   "txt": "Segundo dia do Enem, com matemática e ciências da natureza",
+   "txt": "Segundo dia do Enem, com ciências da natureza e matemática",
    "cat": "educacao"
   }
  ],
@@ -162,44 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Pronunciamento",
-  "titulo": "Na TV, Lula promete responsabilidade fiscal, cesta básica sem imposto e Ministério da Segurança Pública, e manda recado indireto a Flávio",
-  "resumo": "No primeiro pronunciamento em rede nacional desde a reeleição, o presidente disse que vai governar com diálogo, manifestou preocupação com a dívida e os juros e listou promessas para o novo mandato. Sem citar o adversário, que está nos Estados Unidos, afirmou que o Brasil não é lugar para quem foge de suas responsabilidades.",
+  "kicker": "Mercado",
+  "titulo": "Bolsa sobe 1% e volta aos 170 mil pontos na manhã seguinte ao pronunciamento de Lula; Focus eleva a projeção da Selic",
+  "resumo": "Puxado por bancos, Vale e CSN, o Ibovespa avançava 1% perto do meio-dia, enquanto o dólar alternava alta e queda em torno de R$ 5,50 e a Petrobras recuava com o tombo do petróleo. Analistas atribuem a alta ao exterior positivo e dizem que o discurso presidencial não trouxe as medidas fiscais esperadas.",
   "foto": {
-   "src": "fotos/lula.jpg",
-   "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+   "src": "fotos/openfinance.jpg",
+   "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
   },
-  "entenda": "O discurso, exibido às 20h30 de domingo, abriu a semana em que Lula viaja à COP31, na Turquia, e às Filipinas, sem ter anunciado o novo ministro da Fazenda, nome aguardado pelo mercado. Entre as promessas estão zerar impostos da cesta básica a partir de 2027, tarifa zero no transporte público nos fins de semana, renegociação de dívidas das famílias, perdão de débitos federais de microempreendedores e a criação do Ministério da Segurança Pública por medida provisória, depois da aprovação da PEC da Segurança. Lula também defendeu reformas política e do Judiciário e acusou grandes empresas de tecnologia de terem amplificado desinformação na eleição. Parte das medidas depende do Congresso, e veículos como a Gazeta do Povo observam que o discurso não trouxe plano concreto de corte de gastos.",
+  "entenda": "Foi o primeiro pregão depois do pronunciamento de domingo, em que Lula reafirmou o compromisso com a responsabilidade fiscal, disse se preocupar com a dívida e os juros e prometeu criar condições para baixar a Selic, sem anunciar cortes de gastos. O Boletim Focus, divulgado às 8h25, passou a projetar a Selic em 13,75% no fim de 2026, o mesmo nível fixado pelo Copom na semana passada, quando o BC interrompeu a sequência de cortes. O ministro da Fazenda, Dario Durigan, disse que discutirá medidas fiscais com o presidente depois da viagem à COP31 e às Filipinas, que termina em 15 de novembro. No exterior, a queda de quase 5% do Brent, com a avaliação de Trump de que um novo ataque ao Irã é improvável, aliviou as bolsas e pesou sobre as petroleiras.",
   "fatos": [
-   "Lula fixou como meta elevar o investimento no país para mais de 20% do PIB, em parceria com o setor privado, e disse querer estruturar as mudanças administrativas até o fim de 2026.",
-   "O governo planeja chegar a 40 ministérios em 2027; líderes do PL no Senado e na Câmara criticaram a ampliação como loteamento de cargos.",
-   "O pronunciamento ocorreu duas semanas depois do segundo turno de 25 de outubro, em que Lula venceu Flávio Bolsonaro (PL)."
+   "Por volta das 12h, o Ibovespa marcava 170.189 pontos (+1%); na sexta, havia fechado em 168.498 pontos.",
+   "O dólar começou o dia em queda, a R$ 5,49, e chegou a R$ 5,52 às 10h42, oscilando ao redor de R$ 5,50.",
+   "Santander (+4,3%), CSN (+4,1%, após vender a CSN Cimentos à chinesa Huaxin) e Vale (+2,2%) subiam; PRIO (-3,2%) e Petrobras PN (-1,4%) caíam."
   ],
   "fontes": [
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/o-brasil-nao-e-lugar-para-quem-foge-diz-lula-em-pronunciamento-na-tv",
-    "d": "Recado a Flávio"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/",
+    "d": "Por que a bolsa sobe"
    },
    {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/",
-    "d": "Big techs e contas"
+    "n": "BPMoney",
+    "u": "https://bpmoney.com.br/economia/ibovespa-sobe-aos-1698-mil-pontos-com-bancos-e-vale-petrobras-cai/",
+    "d": "Bancos e Petrobras"
    },
    {
-    "n": "Hora Brasil",
-    "u": "https://www.horabrasil.com.br/2026/11/08/lula-faz-pronunciamento-em-rede-nacional-e-fala-sobre-economia-seguranca-e-novo-governo",
-    "d": "Promessas do mandato"
+    "n": "NC News",
+    "u": "https://ncnews.com.br/2026/11/09/ibovespa-abre-em-alta-e-chega-aos-1695-mil-pontos-dolar-oscila-perto-de-r-550/",
+    "d": "Abertura do pregão"
    },
    {
-    "n": "BNews",
-    "u": "https://www.bnews.com.br/noticias/politica/em-pronunciamento-lula-promete-zerar-imposto-da-cesta-basica-criar-ministerio-e-defende-reforma-do-judiciario.html",
-    "d": "Cesta básica e Judiciário"
+    "n": "Portal do Agronegócio",
+    "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-hoje-reverte-queda-e-chega-a-r-5-52-mercado-avalia-fala-de-lula-e-juros",
+    "d": "Dólar na manhã"
    },
    {
-    "n": "Poder360",
-    "u": "https://www.poder360.com.br/poder-governo/leia-e-assista-ao-pronunciamento-de-lula-pos-vitoria-eleitoral/",
-    "d": "Íntegra do discurso"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31",
+    "d": "Medidas fiscais adiadas"
    }
   ]
  },
@@ -208,104 +208,117 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Pronunciamento e reações",
+   "nota": "Congresso, STF e oposição",
    "itens": [
     {
-     "kicker": "Oposição",
+     "kicker": "Congresso",
      "quando": "Hoje",
-     "titulo": "Lula diz que \"o Brasil não é lugar para quem foge\"; Flávio Bolsonaro segue nos EUA sem data de volta",
-     "resumo": "A frase do pronunciamento foi lida por Metrópoles, Gazeta do Povo e outros veículos como referência ao senador do PL, que viajou aos Estados Unidos depois da derrota no segundo turno. Em entrevista ao Washington Post na semana passada, Flávio disse ainda não saber como será sua volta ao Brasil.",
+     "titulo": "PL lança Rogério Marinho contra Alcolumbre no Senado e decide na quarta se apoia Hugo Motta na Câmara",
+     "resumo": "Com Flávio Bolsonaro nos Estados Unidos, Jair Bolsonaro, Valdemar Costa Neto e Marinho conduzem a articulação da oposição para a eleição das Mesas, em 1º de fevereiro de 2027. O PL terá a maior bancada do Senado e precisa de 41 votos; Tereza Cristina (PP-MS) também se apresentou e fala em decidir com Marinho quem tem mais chance. Na Câmara, a bancada está dividida entre apoiar a reeleição de Motta, que tem o PT no bloco, ou lançar nome próprio.",
      "foto": {
-      "src": "fotos/flavio.jpg",
-      "credito": "Joédson Alves/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/MY5gvb4wPvIjpuTRjTKaiPub3t4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/25/lula8286.jpg?itok=M1fr495d",
+      "credito": "Lula Marques/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/o-brasil-nao-e-lugar-para-quem-foge-diz-lula-em-pronunciamento-na-tv"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/com-flavio-nos-eua-bolsonaro-e-marinho-se-organizam-para-conquistar-o-comando-do-congresso/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/movimentacoes-no-senado-antecipam-disputa-pelo-comando-da-casa-em-2027"
+      }
+     ]
+    },
+    {
+     "kicker": "Repercussão",
+     "quando": "Hoje",
+     "titulo": "Pronunciamento de Lula divide avaliações entre governo, oposição e economistas",
+     "resumo": "Na fala de domingo, o presidente prometeu cesta básica sem imposto em 2027, criação do Ministério da Segurança Pública e responsabilidade fiscal, e disse, sem citar Flávio Bolsonaro, que o Brasil não é lugar para quem foge. A frase e a falta de medidas concretas de ajuste concentraram as reações.",
+     "lados": [
+      {
+       "quem": "Governo",
+       "txt": "Aliados destacam o compromisso com a dívida e os juros e a meta de elevar o investimento a mais de 20% do PIB; a Fazenda diz que as medidas fiscais serão discutidas após a viagem do presidente."
+      },
+      {
+       "quem": "Oposição e críticos",
+       "txt": "Líderes do PL criticaram a ampliação para 40 ministérios, e economistas ouvidos pelo InfoMoney apontaram que o discurso listou novos gastos sem dizer como serão financiados."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Cruzeiro FM",
+       "u": "https://www.cruzeirofm.com.br/2026/11/09/destaque/lula-reafirma-compromisso-com-responsabilidade-fiscal-e-promete-criar-condicoes-para-reduzir-juros/"
       },
       {
        "n": "Gazeta do Povo",
        "u": "https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/"
       },
       {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://www.diariodocentrodomundo.com.br/flavio-bolsonaro-diz-nao-saber-o-que-fazer-em-entrevista-ao-washington-post"
-      }
-     ]
-    },
-    {
-     "kicker": "Esplanada",
-     "quando": "Hoje",
-     "titulo": "Plano de 40 ministérios, com a nova pasta da Segurança Pública, opõe governo e oposição",
-     "resumo": "Lula confirmou no pronunciamento que pretende criar o Ministério da Segurança Pública por medida provisória, o que levaria a Esplanada a um número recorde de pastas em 2027. Líderes do PL reagiram nas redes no fim de semana.",
-     "lados": [
-      {
-       "quem": "Governo",
-       "txt": "Diz que a nova pasta vai coordenar forças federais, estaduais e municipais contra facções e milícias e que as mudanças administrativas serão estruturadas até o fim do ano."
-      },
-      {
-       "quem": "Oposição (PL)",
-       "txt": "Rogério Marinho e Sóstenes Cavalcante afirmam que mais ministérios significam mais cargos e gastos para acomodar aliados, sem ganho de eficiência, e lembram que Bolsonaro governou com 23 pastas."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/lideres-da-oposicao-criticam-esplanada-com-40-ministerios-no-lula-4/"
-      },
-      {
-       "n": "Hora Brasil",
-       "u": "https://www.horabrasil.com.br/2026/11/08/lula-faz-pronunciamento-em-rede-nacional-e-fala-sobre-economia-seguranca-e-novo-governo"
-      },
-      {
-       "n": "Blog do BG",
-       "u": "https://www.blogdobg.com.br/lula-e-seus-40-ministros-rogerio-marinho-ironiza-previsao-de-recorde-de-ministerios-no-proximo-governo-do-petista/"
-      }
-     ]
-    },
-    {
-     "kicker": "Planalto",
-     "quando": "Hoje",
-     "titulo": "Lula embarca para a COP31 e as Filipinas sem anunciar o novo ministro da Fazenda",
-     "resumo": "É a primeira viagem internacional do presidente desde a reeleição; ele discursa na cúpula de líderes da COP31 na quarta-feira e depois segue para a Ásia em busca de investimentos e mercados. Parte do Planalto defendia anunciar o nome da Fazenda antes do embarque, mas o presidente preferiu deixar a escolha para a volta.",
-     "fontes": [
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-governo/lula-viaja-a-turquia-e-as-filipinas-em-1a-agenda-externa-pos-eleicao/"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/poder/ala-do-planalto-defende-que-lula-indique-proximo-ministro-da-fazenda-antes-de-viagem-internacional/"
-      },
-      {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/neila-guimaraes/ala-do-planalto-espera-aceno-de-lula-ao-mercado-antes-da-cop31"
+       "u": "https://www.metropoles.com/brasil/o-brasil-nao-e-lugar-para-quem-foge-diz-lula-em-pronunciamento-na-tv"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/como-o-mercado-viu-o-pronunciamento-de-lula-a-nacao/"
       }
      ]
     },
     {
-     "kicker": "TSE",
-     "quando": "06/11",
-     "titulo": "Novo pede ao TSE a cassação da chapa Lula-Alckmin por abuso de poder político na eleição",
-     "resumo": "A ação de investigação judicial eleitoral lista 35 medidas provisórias e decretos de 2026, como subsídios a combustíveis, renegociação de dívidas e reajuste do Bolsa Família, 12 deles editados durante a campanha. O partido pede também a inelegibilidade dos dois.",
-     "lados": [
-      {
-       "quem": "Partido Novo",
-       "txt": "Diz que a concentração de benefícios perto dos dois turnos desequilibrou a disputa."
-      },
-      {
-       "quem": "Governo federal",
-       "txt": "Ministérios afirmam que o reajuste repôs a inflação e que as medidas sobre combustíveis responderam à alta do petróleo."
-      }
-     ],
+     "kicker": "Agenda",
+     "quando": "Hoje",
+     "titulo": "Lula embarca para a COP31 e deixa para depois da viagem a definição de medidas fiscais",
+     "resumo": "O presidente chega a Antália na madrugada de terça e discursa na abertura da cúpula de líderes na quarta; depois segue para visita de Estado às Filipinas e para a cúpula da Asean, em Manila, até 15 de novembro. O ministro Dario Durigan disse que só então discutirá com ele o pacote fiscal.",
      "fontes": [
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/bolsa-familia-combustiveis-dividas-35-medidas-acao-novo-contra-lula/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
+      },
+      {
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/global/lula-retoma-agenda-internacional-cop31-turquia/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31"
       }
-     ],
-     "destaque": false
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "Julgamento sobre menções a ministros do STF no caso Banco Master deve ficar para fevereiro de 2027",
+     "resumo": "A análise está parada desde 15 de setembro por pedido de vista de Flávio Dino, que tem até 15 de dezembro para devolver o processo, perto do recesso. Mensagens no celular do banqueiro Daniel Vorcaro citam Alexandre de Moraes e André Mendonça, que trocaram pedidos de investigação entre si; Luiz Fux nega ter conversado com Vorcaro.",
+     "fontes": [
+      {
+       "n": "WSCOM",
+       "u": "https://wscom.com.br/noticias/2026/11/09/stf-adiar-julgamento-ministros-banco-master-2027/"
+      },
+      {
+       "n": "Portal SGC",
+       "u": "https://sgc.com.br/noticia/1/453916/stf-deve-deixar-para-2027-julgamento-de-moraes-e-mendonca"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/politica/pf-deve-enviar-relatorios-sobre-ministros-do-stf-ainda-em-novembro/"
+      }
+     ]
+    },
+    {
+     "kicker": "Oposição",
+     "quando": "Hoje",
+     "titulo": "Flávio Bolsonaro segue nos EUA; democratas cobram de Rubio até sexta respostas sobre a entrada dele no país",
+     "resumo": "Vinte e cinco deputados democratas enviaram ao secretário de Estado 15 perguntas sobre a saída do senador do Brasil, apesar de ordem do STF, e pediram resposta até 13 de novembro; o pedido não tem força de intimação. A CNN Brasil desmentiu um vídeo que circula com voz clonada de um de seus jornalistas atacando Flávio.",
+     "fontes": [
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/mundo/cinco-datas-que-mexem-com-o-brasil-entre-9-e-20-de-novembro-juros-clima-flavio-apec-e-tarifas/"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/09/video-falso-flavio-bolsonaro-voz-clonada-cnn"
+      }
+     ]
     }
    ]
   },
@@ -313,71 +326,115 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Focus, contas e semana do IPCA",
+   "nota": "Mercado na manhã de segunda",
    "itens": [
     {
-     "kicker": "Mercado",
+     "kicker": "Bolsa",
      "quando": "Hoje",
-     "titulo": "Mercado começa a semana com Boletim Focus e reação ao pronunciamento; petróleo recua após fala de Trump sobre o Irã",
-     "resumo": "O Focus sai às 8h25, depois do IGP-DI de outubro, às 8h; na semana passada, os economistas projetavam IPCA de 5,22% em 2026 e Selic de 13,50% no fim do ano. O Brent era negociado perto de US$ 98 cedo nesta segunda, em leve queda, e a semana ainda tem a ata do Copom, na terça, e o IPCA de outubro, na quinta.",
+     "titulo": "Ibovespa sobe 1% com bancos e Vale; Petrobras e petroleiras caem com o petróleo",
+     "resumo": "O índice abriu em 168,5 mil pontos e passou de 170 mil por volta do meio-dia. A CSN disparou após anunciar a venda da CSN Cimentos à chinesa Huaxin por avaliação de R$ 12,7 bilhões, e a Alpargatas, fora do índice, subia 6% depois do balanço. O Itaú BBA vê o índice ainda em tendência de baixa no curto prazo.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/agenda-segunda-feira-mercado-acompanha-focus-inflacao-discurso-presidente-boe-banco-da-inglaterra-mlem/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/"
       },
       {
-       "n": "The Rio Times",
-       "u": "https://www.riotimesonline.com/brazils-financial-morning-call-for-monday-november-9-2026/"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/ibovespa-sobe-aos-1698-mil-pontos-com-bancos-e-vale-petrobras-cai/"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/b3-em-tempo-real/focus-fala-lula-balancos-segunda-feira"
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/11/09/ibovespa-abre-em-alta-e-chega-aos-1695-mil-pontos-dolar-oscila-perto-de-r-550/"
       }
      ]
     },
     {
-     "kicker": "Contas públicas",
+     "kicker": "Focus",
      "quando": "Hoje",
-     "titulo": "Pronunciamento reafirma regras fiscais e lista promessas como cesta básica sem imposto em 2027 e tarifa zero nos fins de semana",
-     "resumo": "Lula disse estar preocupado com a dívida e os juros e prometeu respeitar as regras fiscais, sem anunciar medidas para os juros. Também citou a renegociação de dívidas das famílias e o perdão de débitos federais de microempreendedores, no programa Prospera MEI.",
-     "lados": [
+     "titulo": "Mercado passa a prever Selic de 13,75% no fim de 2026 e eleva a inflação esperada para 2027",
+     "resumo": "Na pesquisa semanal do Banco Central, a mediana para os juros no fim do ano subiu de 13,50% para 13,75%, nível em que o Copom manteve a taxa na quarta passada. O IPCA de 2026 ficou em 5,22%, o de 2027 subiu para 4,90%, e o PIB de 2026 segue em 1,75%.",
+     "fontes": [
       {
-       "quem": "Governo",
-       "txt": "Afirma que vai combinar responsabilidade fiscal com mais investimento, com meta de passar de 20% do PIB em parceria com o setor privado."
+       "n": "DGABC",
+       "u": "https://www.dgabc.com.br/Noticia/4367682/projecao-para-selic-no-fim-de-2026-passa-de-13-50-para-13-75-no-relatorio-focus-do-bc"
       },
       {
+       "n": "Monitor do Mercado",
+       "u": "https://monitordomercado.com.br/noticias/435134-boletim-focus-mercado-eleva-projecao-da-selic-para-1375-em-2026"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fiscal",
+     "quando": "Hoje",
+     "titulo": "Economistas cobram detalhes do ajuste após discurso que reafirmou as regras fiscais",
+     "resumo": "Analistas reconhecem o diagnóstico sobre dívida e juros, mas dizem que faltaram medidas para estabilizar as contas. A Fazenda afirma que o pacote será discutido com Lula na volta da viagem.",
+     "lados": [
+      {
        "quem": "Críticos",
-       "txt": "Análise da Gazeta do Povo aponta que o discurso não trouxe plano concreto de corte de gastos e que as promessas ampliam a pressão sobre o orçamento."
+       "txt": "Sérgio Vale (MB Associados) e Roberto Troster disseram que o discurso apontou para mais gastos; Hugh Harley (Aurum) vê risco de 2027 começar parecido com 2015."
+      },
+      {
+       "quem": "Avaliação mista e governo",
+       "txt": "Gesner Oliveira (GO Associados) considerou corretas as preocupações com dívida e juros, embora genéricas; o governo diz que vai detalhar as medidas após a viagem."
       }
      ],
      "fontes": [
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/como-o-mercado-viu-o-pronunciamento-de-lula-a-nacao/"
       },
       {
-       "n": "Hora Brasil",
-       "u": "https://www.horabrasil.com.br/2026/11/08/lula-faz-pronunciamento-em-rede-nacional-e-fala-sobre-economia-seguranca-e-novo-governo"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/"
       },
       {
-       "n": "Folha do Estado da Bahia",
-       "u": "https://www.jornalfolhadoestado.com/politica/em-pronunciamento-lula-promete-ajuste-fiscal-e-cobra-reforma-do-judiciario/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31"
       }
      ]
     },
     {
-     "kicker": "Benefícios",
-     "quando": "07/11",
-     "titulo": "Vale-refeição e vale-alimentação passam a funcionar em qualquer maquininha habilitada",
-     "resumo": "Desde sábado, cartões de operadoras como Alelo, Ticket, VR, Pluxee, Flash e Swile podem ser aceitos em qualquer terminal habilitado, se o estabelecimento aceitar a modalidade. As novas regras limitam a taxa das operadoras a 3,6% e o repasse ao comerciante a 15 dias; a Abrasel relata dificuldades técnicas de integração.",
+     "kicker": "Petróleo",
+     "quando": "Hoje",
+     "titulo": "Brent cai quase 5% depois de Trump dizer que novo ataque ao Irã é improvável",
+     "resumo": "Às 11h18, o barril do Brent recuava 4,9%, a US$ 93,47, e o WTI caía 4,4%. O Iraque informou ter chegado a um entendimento com os EUA para exportar petróleo por uma faixa do Estreito de Ormuz perto de Omã.",
      "fontes": [
       {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-segunda-feira-09-de-novembro-de-2026/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/"
+      },
+      {
+       "n": "Informa Noroeste",
+       "u": "https://informanoroeste.com.br/iraque-chega-a-entendimento-com-os-eua-para-permitir-exportacoes-de-petroleo-via-ormuz-diz-ministro/"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/09/trump-diz-que-eua-venceram-guerra-contra-o-irao-mas-rubio-admite-que-nao-houve-progressos-"
+      }
+     ]
+    },
+    {
+     "kicker": "Inflação",
+     "quando": "Hoje",
+     "titulo": "IGP-DI sobe 1,15% em outubro, menos que em setembro",
+     "resumo": "O índice da FGV havia avançado 1,50% no mês anterior e acumula 5,03% em 12 meses. O IPCA de outubro, do IBGE, sai na quinta-feira.",
+     "fontes": [
+      {
+       "n": "Mercado Hoje",
+       "u": "https://mercadohoje.uai.com.br/2026/11/09/noticias-hoje-09-11-2026"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/"
       }
      ]
     }
@@ -387,89 +444,69 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Frio e efeitos dos temporais",
+   "nota": "Frio fora de época e segurança",
    "itens": [
     {
-     "kicker": "Clima",
+     "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Segunda é o dia mais frio da massa de ar polar, com mínimas abaixo de zero possíveis nas serras do Sul",
-     "resumo": "A previsão indica até -1°C nas partes mais altas do Sul, 10°C em Curitiba e cerca de 14°C em São Paulo e Belo Horizonte, com máximas abaixo de 20°C em boa parte do Sudeste. As temperaturas sobem um pouco a partir de terça no Sul, enquanto a umidade avança para o Sudeste.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/raMSi5w4z7YWSda5hUy4zrDZhUk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/frio_sao_paulo_1.jpg?itok=ZGuElqTt",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
-     },
+     "titulo": "Massa de ar polar faz da segunda um dia de frio fora de época no Sul e no Sudeste",
+     "resumo": "A capital paulista tem máxima prevista entre 13°C e 17°C, Curitiba não deve passar de 16°C e Belo Horizonte, de 18°C, segundo a Climatempo. Há risco de geada fraca nas serras gaúcha e catarinense, e o frio chega ao interior do país e ao litoral da Bahia, o que é incomum em novembro.",
      "fontes": [
       {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/massa-de-ar-frio-atipico-derruba-temperaturas-a-1c/"
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/11/09/frio-fora-de-epoca-atinge-o-brasil-nesta-segunda-veja-as-temperaturas-nas-capitais/"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/frio-sao-paulo-frente-fria-temporais-granizo-inmet/"
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/brasil/massa-de-ar-polar-derruba-temperaturas-nesta-segunda-feira/"
       },
       {
-       "n": "SP Agora",
-       "u": "https://www.spagora.com.br/cotidiano/clima/previsao-tempo-sao-paulo-segunda-9-novembro-semana/"
+       "n": "Meteored",
+       "u": "https://www.meteored.com.br/noticias/previsao/forte-massa-de-ar-frio-traz-temperaturas-de-0-c-geadas-e-afeta-18-estados.html"
       }
      ]
     },
     {
-     "kicker": "Santa Catarina",
+     "kicker": "Golpes",
      "quando": "Hoje",
-     "titulo": "Chapecó mantém 18 escolas sem aula presencial após tornado; Celesc amplia força-tarefa para religar a energia",
-     "resumo": "Dez unidades da rede municipal terão atividades remotas só nesta segunda e oito, até quinta-feira, segundo a prefeitura. Após os temporais de quarta-feira, que deixaram mais de 247 mil imóveis sem luz no pico, cerca de 90% da energia foi restabelecida em 48 horas.",
+     "titulo": "Operação em sete estados mira esquema de bets ilegais que usou vídeo falso de Frei Gilson",
+     "resumo": "A Polícia Civil de Goiás bloqueou quase R$ 40 milhões em bens de um grupo que, segundo a investigação, simulava pedidos de doação com a imagem do padre e usava fintechs para movimentar o dinheiro. Um dos alvos mora nos Estados Unidos e tem mandado de prisão com difusão vermelha da Interpol.",
+     "fontes": [
+      {
+       "n": "Agenda do Poder",
+       "u": "https://agendadopoder.com.br/operacao-em-7-estados-e-nos-eua-mira-esquema-de-bets-ilegais-que-usou-video-falso-de-frei-gilson/"
+      }
+     ]
+    },
+    {
+     "kicker": "Temporais",
+     "quando": "Hoje",
+     "titulo": "Celesc faz mobilização máxima na região de Chapecó; 90% da energia já foi religada em Santa Catarina",
+     "resumo": "Os temporais desde quarta deixaram mais de 247 mil unidades sem luz no estado, e novas tempestades no sábado provocaram outro pico, de 82 mil. Mais de 500 profissionais atuam no Oeste, mas a companhia não deu prazo para a normalização total.",
      "fontes": [
       {
        "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-segunda-feira-09-de-novembro-de-2026/"
+       "u": "https://clicrdc.com.br/chapeco/celesc-recupera-90-da-energia-apos-temporais-e-reforca-forca-tarefa-em-chapeco/"
       },
       {
        "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/defesa-civil-distribui-mais-de-56-mil-itens-apos-temporais-atingirem-109-cidades-e-deixarem-duas-mortes-em-sc/"
+       "u": "https://ndmais.com.br/video/celesc-trabalha-para-restabelecer-energia-apos-tornado-em-chapeco/"
       }
      ]
     },
     {
-     "kicker": "Distrito Federal",
-     "quando": "Ontem",
-     "titulo": "Soldado da PM do DF é preso suspeito de atirar dentro de van na Asa Sul; uma mulher morreu e quatro ficaram feridos",
-     "resumo": "Os disparos ocorreram por volta das 3h40, depois de uma discussão entre amigos que voltavam de um aniversário, segundo o Metrópoles. O policial, que entrou na corporação em janeiro, foi encontrado horas depois no Parque da Cidade; a motivação é investigada.",
+     "kicker": "Polícia",
+     "quando": "Hoje",
+     "titulo": "Polícia do Rio cumpre mandados contra grupo suspeito de vender diplomas falsos de graduação pela internet",
+     "resumo": "Foram oito mandados de busca em Minas Gerais, Goiás e Rio contra quatro investigados, levados para depor. Segundo a polícia, o principal suspeito danificou cinco celulares antes da apreensão.",
      "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/operacao-mira-grupo-que-vendia-diplomas-falsos-pela-internet-no-rio/"
+      },
       {
        "n": "Metrópoles",
-       "u": "https://metropoles.com/distrito-federal/na-mira/policial-militar-e-preso-apos-atirar-em-amigos-e-matar-mulher-na-asa-sul"
-      }
-     ]
-    },
-    {
-     "kicker": "Crime organizado",
-     "quando": "Ontem",
-     "titulo": "\"Rei da Sucata\", suspeito de lavar dinheiro do Comando Vermelho em São Gonçalo, é preso numa joalheria em São Paulo",
-     "resumo": "O empresário Rodrigo Leonardo de Lima Alcântara estava foragido desde maio, quando uma fase da Operação Contenção foi deflagrada, e foi localizado pela Polícia Civil do Rio com apoio do Ministério Público de Minas e do serviço de segurança diplomática dos EUA. Segundo a investigação, uma empresa administrada por ele repassou R$ 4,6 milhões a um suposto operador financeiro do tráfico no Complexo do Salgueiro; a operação mapeou movimentações acima de R$ 453 milhões.",
-     "fontes": [
-      {
-       "n": "Tempo Real RJ",
-       "u": "https://temporealrj.com/rei-sucata-comando-vermelho-sao-goncalo-preso/"
-      },
-      {
-       "n": "Blog do Ricardo Antunes",
-       "u": "https://ricardoantunes.net/rei-da-sucata-investigado-por-lavagem-de-dinheiro-para-o-comando-vermelho-e-preso-em-shopping-de-luxo/"
-      }
-     ]
-    },
-    {
-     "kicker": "Belém",
-     "quando": "Ontem",
-     "titulo": "Polícia prende suspeito de participar da morte de policial federal aposentado em tentativa de roubo de cordão em Belém",
-     "resumo": "Leonildo Dias foi baleado no sábado em um restaurante no bairro do Marco ao reagir a dois homens de moto; o suspeito foi preso no domingo no Tapanã. A Polícia Civil, com apoio da PF, ainda não informou qual foi o papel dele no crime.",
-     "fontes": [
-      {
-       "n": "DOL",
-       "u": "https://dol.com.br/noticias/policia/967739/suspeito-de-envolvimento-na-morte-de-policial-federal-e-preso-em-belem"
-      },
-      {
-       "n": "O Liberal",
-       "u": "https://oliberal.com/policia/policial-federal-morto-em-tentativa-de-assalto-e-velado-neste-domingo-08-1.1191869"
+       "u": "https://www.metropoles.com/colunas/mirelle-pinheiro/quadrilha-e-alvo-da-pcerj-por-vender-diplomas-falsos-de-graduacao-na-web"
       }
      ]
     }
@@ -482,108 +519,108 @@
    "nota": "Internacional",
    "itens": [
     {
-     "kicker": "EUA",
-     "quando": "Ontem",
-     "titulo": "Trump diz que não quer ampliar a guerra com o Irã e fala em reunião com Putin e Xi na China",
-     "resumo": "Em entrevista à CBS, o presidente americano afirmou não ver razão para escalar o conflito e previu que a guerra na Ucrânia vai acabar em breve, com o país \"em outro formato\". A repórteres, disse que pode encontrar os líderes da Rússia e da China na cúpula da Apec, em Shenzhen, em 18 e 19 de novembro.",
+     "kicker": "Irã",
+     "quando": "Hoje",
+     "titulo": "Rubio diz que não há avanço nas negociações com o Irã; Trump vê novo ataque como improvável",
+     "resumo": "O secretário de Estado classificou as exigências iranianas como irrealistas, e Teerã respondeu que os EUA precisam encerrar sanções, bloqueio naval e guerra antes de negociar. Trump se reúne nesta segunda com o premiê do Catar e disse que pode encontrar Xi e Putin na cúpula da Apec, na China.",
      "fontes": [
       {
-       "n": "DGABC",
-       "u": "https://www.dgabc.com.br/Noticia/4367601/trump-diz-nao-buscar-escalar-guerra-com-o-ira-e-preve-ucrania-com-outro-formato-"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/09/trump-diz-que-eua-venceram-guerra-contra-o-irao-mas-rubio-admite-que-nao-houve-progressos-"
       },
       {
-       "n": "O Povo/AFP",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/09/trump-anuncia-possivel-reuniao-com-putin-e-xi-na-china.html"
+       "n": "Just Security",
+       "u": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
       },
       {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-economia/petroleo-cai-apos-trump-sinalizar-moderacao-em-relacao-ao-ira/"
+       "n": "IstoÉ Dinheiro",
+       "u": "https://istoedinheiro.com.br/trump-guerra-ira-mudancas-territorio-ucrania"
+      }
+     ]
+    },
+    {
+     "kicker": "Paraguai",
+     "quando": "Hoje",
+     "titulo": "Destituído, Santiago Peña é acusado formalmente e tem bens bloqueados no caso Ueno Bank",
+     "resumo": "O ex-presidente, afastado pelo Senado na sexta e preso preventivamente no sábado, responde por lesão de confiança e administração em proveito próprio. O Ministério Público estima prejuízo preliminar de US$ 809,5 milhões; o vice Pedro Alliana assumiu até 2028.",
+     "lados": [
+      {
+       "quem": "Acusação",
+       "txt": "Os promotores afirmam que Peña favoreceu o grupo controlador do banco e se omitiu na fiscalização; o juiz viu risco de fuga."
+      },
+      {
+       "quem": "Defesa",
+       "txt": "Os advogados contestam o risco de fuga, dizem não haver indício de obstrução e lembram que ele já não ocupa o cargo."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/mundo/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena-apos-impeachment/"
+      },
+      {
+       "n": "Piranot",
+       "u": "https://www.piranot.com.br/2026/11/09/noticias/economia/ueno-bank-prejuizo-santiago-pena/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/justica-paraguaia-ordena-prisao-de-santiago-pena-por-rombo-milionario-em-banco/"
+      }
+     ]
+    },
+    {
+     "kicker": "Polônia",
+     "quando": "Hoje",
+     "titulo": "Morre no hospital o atirador que matou seis pessoas numa praça de Cracóvia",
+     "resumo": "O polonês de 24 anos foi baleado pela polícia durante o ataque de sábado, que deixou também 15 feridos, entre eles turistas estrangeiros. Os corpos dos pais e da irmã foram achados na casa dele, e o governo investiga possível influência de ideologias de extrema direita.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/atirador-que-matou-6-pessoas-em-praca-da-cracovia-morre-no-hospital"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/atirador-que-matou-ao-menos-seis-pessoas-na-polonia-morre-no-hospital/"
+      },
+      {
+       "n": "CNN Portugal",
+       "u": "https://cnnportugal.iol.pt/polonia/cracovia/antes-de-ir-para-a-praca-o-atirador-matou-os-pais-e-a-irma-mais-nova-tudo-o-que-se-sabe-sobre-o-ataque-em-cracovia/20261108/6af0331cd34e9ce6f1b4391d"
       }
      ]
     },
     {
      "kicker": "Vaticano",
      "quando": "Hoje",
-     "titulo": "Papa Leão XIV celebra missa em Buenos Aires no segundo dia da visita à Argentina",
-     "resumo": "A celebração está marcada para as 11h30 no Monumento de los Españoles, em Palermo, e a agenda inclui encontros com trabalhadores e líderes religiosos. No domingo, depois de se reunir com Javier Milei na Casa Rosada, o papa defendeu que a economia esteja a serviço das pessoas.",
+     "titulo": "Papa Leão XIV reúne dezenas de milhares em missa em Buenos Aires",
+     "resumo": "A celebração foi na Avenida del Libertador, um dia depois do encontro com Javier Milei, em que o papa falou dos limites do poder e criticou cortes em benefícios sociais. A viagem de 12 dias segue para o Peru, até 17 de novembro.",
      "fontes": [
       {
-       "n": "Elonce",
-       "u": "https://elonce.com/sociedad/el-papa-leon-xiv-encabezara-una-misa-multitudinaria-la-agenda-completa-de-este-lunes.htm"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/multidao-se-reune-em-buenos-aires-para-missa-do-papa"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-chega-a-argentina-e-deve-reunir-7-milhoes-de-pessoas/"
+       "u": "https://www.cnnbrasil.com.br/internacional/milei-e-papa-leao-trocam-presentes-em-visita-a-argentina/"
       },
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/depois-de-40-anos-argentina-recebe-visita-de-um-papa/"
-      }
-     ]
-    },
-    {
-     "kicker": "Egito",
-     "quando": "Ontem",
-     "titulo": "Colisão entre dois trens de passageiros deixa ao menos 7 mortos e 112 feridos ao sul do Cairo",
-     "resumo": "Um trem que ia de Gizé para Fayoum atingiu a traseira de outro com destino a Assuã, e vários vagões descarrilaram. O presidente Abdel Fattah al-Sisi mandou investigar as causas e possíveis responsabilidades.",
-     "fontes": [
-      {
-       "n": "NBC News",
-       "u": "https://www.nbcnews.com/world/middle-east/train-collision-egypt-cairo-giza-rcna608111"
-      },
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/mundo/colisao-entre-trens-deixa-7-mortos-e-mais-de-100-feridos-no-egito/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/global/trens-sete-mortos-cem-feridos-egito/"
+       "n": "Vatican News",
+       "u": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-chega-a-argentina-2-etapa-da-viagem-apostolica.html"
       }
      ]
     },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Kremlin diz que a Europa não participará das negociações com a Ucrânia em Abu Dhabi, mediadas pelos EUA",
-     "resumo": "O porta-voz Dmitry Peskov detalhou o formato das reuniões trilaterais nos Emirados Árabes Unidos. No fim de semana, ataques russos a instalações de energia deixaram mais de 600 mil pessoas sem luz na região de Dnipro.",
+     "titulo": "Rússia volta a atacar a rede elétrica ucraniana antes de negociações nos Emirados",
+     "resumo": "Moscou diz ter atingido quatro subestações, e a União Europeia ativou um mecanismo de emergência para acelerar recursos de reparo. As conversas mediadas pelos EUA em Abu Dhabi estão previstas para esta semana.",
      "fontes": [
       {
-       "n": "Tribuna do Sertão/Sputnik",
-       "u": "https://www.tribunadosertao.com.br/geral/2026/11/09/1016684-europa-nao-participara-das-negociacoes-sobre-conflito-ucraniano-em-abu-dhabi-diz-kremlin"
+       "n": "Just Security",
+       "u": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
       },
       {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/russia-ucrania-negociacoes-abu-dhabi-eua-novembro-2026"
-      }
-     ]
-    },
-    {
-     "kicker": "Israel",
-     "quando": "Ontem",
-     "titulo": "Eisenkot recebe mandato para formar governo em Israel e convida o Likud e a Sionismo Religioso a apoiá-lo",
-     "resumo": "O centrista foi recomendado por 67 dos 120 deputados, contra 46 de Benjamin Netanyahu, e tem 28 dias, prorrogáveis por 14, para formar maioria. Sem os 19 votos dos partidos árabes, que dividem seus aliados, ele pode ter de montar um governo de minoria.",
-     "lados": [
-      {
-       "quem": "Benjamin Netanyahu",
-       "txt": "Contesta o resultado, diz que um governo de minoria apoiado por partidos árabes colocaria Israel em risco e propõe um governo de unidade nacional com seu bloco."
-      },
-      {
-       "quem": "Gadi Eisenkot",
-       "txt": "Chama a proposta de manobra, promete fazer o possível para formar o novo governo e impõe condições como o reconhecimento do Hamas como organização terrorista."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "O Povo/AFP",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/08/opositor-eisenkot-alerta-para-crise-em-israel-ao-ser-encarregado-de-formar-governo.html"
-      },
-      {
-       "n": "Diário de Notícias",
-       "u": "https://dn.pt/internacional/israel-lder-da-oposio-incumbido-de-formar-novo-governo-promete-fazer-tudo-para-cumprir-tarefa"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/presidente-de-israel-escolhe-maior-rival-de-netanyahu-para-formar-governo/"
+       "n": "IstoÉ Dinheiro",
+       "u": "https://istoedinheiro.com.br/trump-guerra-ira-mudancas-territorio-ucrania"
       }
      ]
     }
@@ -593,13 +630,33 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Final da Copa do Brasil e Seleção",
+   "nota": "Seleção em Singapura e decisões",
    "itens": [
+    {
+     "kicker": "Seleção",
+     "quando": "Hoje",
+     "titulo": "Ancelotti comanda primeiro treino em Singapura com parte do grupo; Danilo é cortado",
+     "resumo": "O treino foi no estádio Jalan Besar, com cerca de metade dos convocados, já que outros ainda chegavam à Ásia. O volante do Botafogo sofreu lesão no adutor e não terá substituto, e o Brasil fica com 25 jogadores para enfrentar o Japão no sábado, às 7h15, e Singapura no dia 17.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/11/9/selecao-brasileira-inicia-treinos-em-singapura-para-ultimos-amistosos-do-ano-veja-programacao"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/selecao-brasileira/com-metade-do-grupo-ancelotti-comanda-primeiro-treino-da-selecao.html"
+      },
+      {
+       "n": "A Tarde",
+       "u": "https://atarde.com.br/esportes/selecao-treina-com-menos-da-metade-dos-jogadores-para-enfrentar-japao-1408834"
+      }
+     ]
+    },
     {
      "kicker": "Copa do Brasil",
      "quando": "Ontem",
      "titulo": "Palmeiras elimina o Vasco nos pênaltis e decide a Copa do Brasil com o Grêmio em 6 de dezembro, em Brasília",
-     "resumo": "O Vasco venceu por 2 a 1 em São Januário, com gols de Colidio e Puma Rodríguez, e empatou o agregado; nos pênaltis, o Palmeiras ganhou por 5 a 4, com defesa decisiva de Carlos Miguel. A final em jogo único será no Mané Garrincha e vale R$ 78 milhões ao campeão; com a classificação, o Palmeiras já garantiu vaga na Libertadores de 2027.",
+     "resumo": "O Vasco venceu por 2 a 1 em São Januário, com gols de Colidio e Puma Rodríguez, e empatou o agregado; nos pênaltis, o Palmeiras ganhou por 5 a 4, com defesa decisiva de Carlos Miguel. A final em jogo único será no Mané Garrincha e vale R$ 78 milhões ao campeão; com a classificação, o Palmeiras já garantiu vaga na Libertadores de 2027. Antes, em 28 de novembro, o time enfrenta o Estudiantes na final da Libertadores, em Montevidéu.",
      "fontes": [
       {
        "n": "ND+",
@@ -612,22 +669,10 @@
       {
        "n": "ClicRDC",
        "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-segunda-feira-09-de-novembro-de-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Seleção",
-     "quando": "Ontem",
-     "titulo": "Seleção começa a se apresentar em Singapura para os amistosos contra Japão e Singapura",
-     "resumo": "Os primeiros convocados de Carlo Ancelotti chegaram no domingo. O Brasil enfrenta o Japão no sábado (14), às 7h15, e Singapura na terça (17), às 7h, nos últimos jogos de 2026.",
-     "fontes": [
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/selecao-brasileira/selecao-ja-esta-em-singapura-para-amistosos-veja-os-primeiros-a-chegar.html"
       },
       {
-       "n": "Imirante",
-       "u": "https://imirante.com/esporte/brasil/2026/11/08/brasil-inicia-apresentacao-ultimos-amistosos-2026"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
       }
      ]
     },
@@ -677,29 +722,49 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Vírus respiratórios e vacinação",
+   "nota": "Vacinação e surtos",
    "itens": [
     {
      "kicker": "Mpox",
      "quando": "Ontem",
-     "titulo": "Ministério da Saúde amplia para 25 mil as doses de vacina contra mpox; país tem 832 casos e uma morte",
-     "resumo": "O pedido ao fabricante dinamarquês, único certificado pela OMS, passou de 5 mil para 20 mil doses, com entrega em cerca de três semanas, além das 3.650 já enviadas a nove estados. A vacina é para grupos de maior risco, como pessoas vivendo com HIV e usuários de PrEP, e é aplicada nos centros de referência de imunização.",
+     "titulo": "Ministério da Saúde garante 25 mil doses de vacina contra mpox e orienta aplicação intradérmica",
+     "resumo": "A compra, pelo fundo da Opas, ampliou em 5 mil a oferta inicial, com entrega prevista em cerca de três semanas. A via intradérmica pode multiplicar por até cinco o número de vacinados por frasco; o país tem 832 casos e uma morte em 2026, com alta concentrada em Rio, São Paulo, Ceará e Distrito Federal.",
      "foto": {
       "src": "fotos/vacina.jpg",
       "credito": "Tomaz Silva/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox"
+       "n": "ND+",
+       "u": "https://ndmais.com.br/saude/brasil-garante-25-mil-doses-da-vacina-contra-a-mpox/"
       },
       {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-saude/apos-alta-de-casos-de-mpox-padilha-anuncia-25-000-doses-para-vacinacao/"
+       "n": "Poços Já",
+       "u": "https://pocosja.com.br/noticia/saude/2026/11/09/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox/"
       },
       {
-       "n": "Tribuna do Norte",
-       "u": "https://tribunadonorte.com.br/saude/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox/"
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/11/08/mpox-governo-amplia-doses-de-vacina-alta/"
+      }
+     ]
+    },
+    {
+     "kicker": "Sarampo",
+     "quando": "Ontem",
+     "titulo": "Manaus faz vacinação extra contra sarampo após 23 casos confirmados no Alto Solimões",
+     "resumo": "Os casos, em Tabatinga, Benjamin Constant, Atalaia do Norte e São Paulo de Olivença, foram registrados nos últimos dois meses entre brasileiros e peruanos, e 83% dos doentes não eram vacinados. A capital não tem casos recentes, mas abriu duas unidades no domingo para pessoas de 1 a 59 anos; a cobertura da segunda dose entre crianças está em 83%, abaixo da meta de 95%.",
+     "fontes": [
+      {
+       "n": "Informe Manaus",
+       "u": "https://informemanaus.com.br/manaus-mantem-vacinacao-contra-sarampo-neste-domingo-em-duas-unidades-de-saude/11/"
+      },
+      {
+       "n": "Rios de Notícias",
+       "u": "https://www.riosdenoticias.com.br/dia-d-manaus-realiza-campanha-de-vacinacao-contra-o-sarampo-neste-sabado-e-domingo/"
+      },
+      {
+       "n": "O Rebate",
+       "u": "https://orebate.com.br/saude/brasil-reforca-vacinacao-contra-sarampo-na-fronteira-com-peru-e-colombia"
       }
      ]
     },
@@ -718,42 +783,6 @@
        "u": "https://www.unicanews.com.br/saude-e-bem-estar/mais-de-5-mil-casos-surto-de-sarampo-nos-eua-em-2026-e-o-maior-em-35-anos/143437"
       }
      ]
-    },
-    {
-     "kicker": "Sarampo",
-     "quando": "Ontem",
-     "titulo": "Manaus faz vacinação extra contra sarampo após 23 casos confirmados no Alto Solimões",
-     "resumo": "Os casos, em Tabatinga, Benjamin Constant, Atalaia do Norte e São Paulo de Olivença, foram registrados nos últimos dois meses entre brasileiros e peruanos, e 83% dos doentes não eram vacinados. A capital não tem casos recentes, mas abriu duas unidades no domingo para pessoas de 1 a 59 anos; a cobertura da segunda dose entre crianças está em 83%, abaixo da meta de 95%.",
-     "foto": {
-      "src": "fotos/sarampo.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Informe Manaus",
-       "u": "https://informemanaus.com.br/manaus-mantem-vacinacao-contra-sarampo-neste-domingo-em-duas-unidades-de-saude/11/"
-      },
-      {
-       "n": "Rios de Notícias",
-       "u": "https://www.riosdenoticias.com.br/dia-d-manaus-realiza-campanha-de-vacinacao-contra-o-sarampo-neste-sabado-e-domingo/"
-      },
-      {
-       "n": "O Rebate",
-       "u": "https://orebate.com.br/saude/brasil-reforca-vacinacao-contra-sarampo-na-fronteira-com-peru-e-colombia"
-      }
-     ]
-    },
-    {
-     "kicker": "Vírus respiratórios",
-     "quando": "05/11",
-     "titulo": "Fiocruz aponta alta de casos graves de covid-19 em cinco estados, entre eles São Paulo e Rio",
-     "resumo": "O boletim InfoGripe registra crescimento em Mato Grosso, Distrito Federal, São Paulo, Rio de Janeiro e Santa Catarina. No país, o rinovírus ainda responde por metade dos casos positivos de síndrome respiratória grave; a Fiocruz reforça a vacinação dos grupos prioritários.",
-     "fontes": [
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/saude/casos-de-covid-19-voltam-a-crescer-em-cinco-estados/"
-      }
-     ]
     }
    ]
   },
@@ -761,45 +790,61 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Balanço do primeiro dia do Enem",
+   "nota": "Balanço do Enem",
    "itens": [
     {
      "kicker": "Enem",
-     "quando": "Ontem",
-     "titulo": "Primeiro dia do Enem tem 32% de abstenção, a maior desde 2020; MEC atribui alta à inscrição automática",
-     "resumo": "Cerca de um terço dos 5,05 milhões de inscritos faltou, segundo o Inep. O ministro Leonardo Barchini disse que a inscrição automática de concluintes da rede pública, adotada neste ano para ampliar o acesso, explica boa parte das ausências; o clima também afastou candidatos em algumas regiões.",
+     "quando": "Hoje",
+     "titulo": "Presença de egressos da rede pública no Enem sobe para 65%, mesmo com abstenção geral de 32%",
+     "resumo": "Segundo o MEC, mais de 1,9 milhão de concluintes de escolas públicas se inscreveram, cerca de 250 mil a mais que em 2025, e a presença deles subiu ante os 53,8% do ano passado. No total, 68% dos mais de 5 milhões de inscritos fizeram a prova, a menor taxa desde 2021; o ministro Leonardo Barchini atribui parte das faltas à inscrição automática.",
      "foto": {
-      "src": "fotos/enamed.jpg",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/o4UwM9a3S6SO9qPwAdQX6jkTB4c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3133.jpg.jpeg?itok=5YEW7evO",
+      "credito": "Valter Campanato/Agência Brasil"
      },
      "fontes": [
       {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica"
+      },
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/educacao/enem-2026-teve-32-de-abstencao-mas-aumento-de-alunos-da-rede-publica/"
+      },
+      {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/noticias/enem-2026-registra-32-de-abstencao-maior-indice-desde-a-pandemia-mec-explica-aumento/"
-      },
-      {
-       "n": "Diário do Nordeste",
-       "u": "https://diariodonordeste.verdesmares.com.br/ceara/primeiro-dia-do-enem-2026-tem-32-de-abstencao-maior-indice-em-cinco-anos-1.3804329"
       }
      ]
     },
     {
-     "kicker": "Enem",
-     "quando": "Ontem",
-     "titulo": "Falta de luz atinge 39 locais de prova, 36 deles no Rio; 4.359 candidatos foram eliminados",
-     "resumo": "Também houve casos em Minas Gerais e no Amapá, segundo o balanço do MEC. Quem foi prejudicado por problemas logísticos ou pelo clima pode pedir a reaplicação, prevista para 15 e 16 de dezembro.",
+     "kicker": "Reaplicação",
+     "quando": "Hoje",
+     "titulo": "Candidatos afetados por falta de luz farão o Enem em 15 e 16 de dezembro",
+     "resumo": "Quedas de energia atingiram 39 locais de prova, 36 deles no Rio, e o MEC diz que estudantes prejudicados por eventos climáticos também poderão refazer o exame. No primeiro dia, 4.359 participantes foram eliminados preliminarmente por descumprir regras.",
      "fontes": [
       {
-       "n": "A Crítica",
-       "u": "https://acritica.net/noticias/enem-2026-registra-32-de-abstencao-maior-indice-desde-a-pandemia-mec-explica-aumento/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica"
       },
       {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/educacao-e-tecnologia/abstencao-no-enem-sobe-para-32-e-atinge-cerca-de-1-6-milhao-de-inscritos"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
+      }
+     ]
+    },
+    {
+     "kicker": "Serviço",
+     "quando": "Hoje",
+     "titulo": "Segundo dia do Enem, no domingo, tem 90 questões de ciências da natureza e matemática",
+     "resumo": "A prova dura cinco horas e termina às 18h30 de Brasília. Quem faltou no primeiro domingo pode fazer o segundo, mas não tem direito à reaplicação.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica"
+      },
+      {
+       "n": "Sou Brasília",
+       "u": "https://soubrasilia.com/faltou-primeiro-dia-enem-2026-pode-fazer-segundo-dia-15-novembro-reaplicacao-edital/"
       }
      ]
     },
@@ -822,22 +867,6 @@
        "u": "https://revistaforum.com.br/brasil/enem-2026-tema-da-redacao/"
       }
      ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "Hoje",
-     "titulo": "Cursinhos divulgam gabarito extraoficial do primeiro dia; o oficial sai depois da segunda prova",
-     "resumo": "As correções independentes cobrem linguagens e ciências humanas. O segundo dia, com matemática e ciências da natureza, será no domingo, 15 de novembro.",
-     "fontes": [
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/educacao/enem/enem-2026-confira-o-gabarito-extraoficial-e-a-correcao-do-1-dia-de-prova,bc2e2c34cd41063d47db6964edb4a89d6a5g9iqw.html"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-saiba-quando-o-gabarito-oficial-sera-divulgado/"
-      }
-     ]
     }
    ]
   },
@@ -845,61 +874,65 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "COP31 e inovação",
+   "nota": "COP31 e tecnologia",
    "itens": [
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "COP31 começa em Antália com pauta de negociação ainda sem aprovação e 77 chefes de Estado confirmados",
-     "resumo": "A conferência vai até 20 de novembro, com delegações de mais de 190 países e presidência dividida: a Turquia sedia e preside, e a Austrália conduz as negociações. Os Estados Unidos não participam das tratativas; a cúpula de líderes será nos dias 11 e 12.",
+     "titulo": "COP31 abre em Antália com atraso, alerta da ONU sobre extremos climáticos e impasse sobre financiamento",
+     "resumo": "A cerimônia começou quase 90 minutos depois do previsto, após negociações até a noite de domingo; segundo delegados, o financiamento climático não terá item próprio na pauta. António Guterres disse que o mundo entrou numa nova era de extremos, e a conferência, que vai até 20 de novembro, não tem representante do governo dos EUA.",
      "foto": {
       "src": "fotos/floresta.jpg",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/esg/cop31-comeca-na-turquia-com-presidencia-a-dois-pauta-travada-e-77-lideres-a-caminho/"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/09/cop31-comeca-com-paises-sob-pressao-para-enfrentar-a-crise-climatica.html"
       },
       {
-       "n": "Vatican News",
-       "u": "https://www.vaticannews.va/pt/mundo/news/2026-11/cop31-turquia-desafio-transformar-compromissos-acoes-concretas.html"
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/internacional/2026/11/7535303-cop31-comeca-hoje-na-turquia-com-foco-em-energia-limpa-e-acordos-globais.html"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/cop31-comeca-na-turquia-com-alerta-da-onu-sobre-eventos-climaticos-extremos"
+       "n": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/cop31-comeca-turquia-debates-clima-energia-financiamento"
+      }
+     ]
+    },
+    {
+     "kicker": "Tecnologia",
+     "quando": "Hoje",
+     "titulo": "Nvidia investiga se Jensen Huang foi alvo de espionagem; ações caem antes da abertura em Nova York",
+     "resumo": "Um comitê de conselheiros independentes apura a relação do executivo com uma ex-diretora de empresa de Singapura que autoridades americanas suspeitam atuar para Pequim. Huang admitiu a funcionários um caso extraconjugal; a empresa diz não ter indício de vazamento de segredos, e a China rejeita as acusações.",
+     "fontes": [
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/mundo/o-que-se-sabe-sobre-a-investigacao-da-nvidia-sobre-suposta-espionagem-contra-o-ceo-jensen-huang/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/"
+      },
+      {
+       "n": "Showmetech",
+       "u": "https://www.showmetech.com.br/nvidia-abre-investigacao-de-suspeita-de-espionagem-contra-jensen-huang/"
       }
      ]
     },
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Brasil leva à COP31 roteiros voluntários para zerar o desmatamento e deixar os combustíveis fósseis",
-     "resumo": "O roteiro das florestas é debatido nesta segunda e o dos fósseis, na terça; nenhum faz parte de decisão negociada, mas têm apoio de mais de 80 países, segundo a Exame. Internamente, o plano nacional contra o desmatamento está aprovado, enquanto o roteiro dos fósseis ficou para 2027.",
+     "titulo": "Brasil leva à COP31 dados de matriz renovável e anúncio de US$ 500 milhões para o fundo de florestas",
+     "resumo": "Lula deve citar que 49,5% da energia do país veio de fontes renováveis em 2025 e apresentar os roteiros voluntários para zerar o desmatamento e deixar os combustíveis fósseis. Um encontro do Fundo Florestas Tropicais para Sempre, com Noruega, Reino Unido e Holanda, deve oficializar o aporte.",
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/esg/cop31-comeca-na-turquia-com-presidencia-a-dois-pauta-travada-e-77-lideres-a-caminho/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
       },
       {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-leva-a-cop31-queda-do-desmatamento-e-avanco-das-renovaveis-como-vitrine-do-brasil/"
-      }
-     ]
-    },
-    {
-     "kicker": "Computação quântica",
-     "quando": "06/11",
-     "titulo": "Primeiros computadores quânticos da América Latina chegam a Pernambuco e seguem para João Pessoa",
-     "resumo": "As máquinas, de 20 e 100 qubits e fabricadas pela chinesa CETC-IQC, serão instaladas no Ciquanta, centro do governo da Paraíba em parceria com o MCTI. A carga foi avaliada em R$ 80 milhões, e o funcionamento estável está previsto para janeiro de 2027.",
-     "fontes": [
-      {
-       "n": "Convergência Digital",
-       "u": "https://convergenciadigital.com.br/governo/primeiros-computadores-quanticos-da-america-latina-desembarcam-no-brasil-em-forca-tarefa-que-custou-r-80-milhoes/"
-      },
-      {
-       "n": "WSCOM",
-       "u": "https://wscom.com.br/noticias/noticias-locais/2026/11/07/computadores-quanticos-paraiba-joao-pessoa/"
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/global/lula-retoma-agenda-internacional-cop31-turquia/"
       }
      ]
     }
@@ -915,19 +948,35 @@
      "kicker": "TV",
      "quando": "Hoje",
      "titulo": "\"Lá na Minha Terra\" estreia hoje na faixa das seis da Globo, com Dira Paes como protagonista",
-     "resumo": "Escrita por Mario Teixeira, a novela acompanha Rosenda, que cria cinco filhos no sertão e vai a São Paulo atrás do marido desaparecido, que formou outra família. O elenco tem Daniel de Oliveira, Mateus Solano, Camila Morgado e Lília Cabral, e as cenas do sertão foram gravadas na Chapada Diamantina.",
+     "resumo": "A atriz vive uma mãe de cinco filhos na novela que substitui \"A Nobreza do Amor\". O primeiro capítulo vai ao ar no fim da tarde desta segunda.",
      "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/tendencias/2026/11/08/la-na-minha-terra-estreia-em-9-de-novembro-e-substitui-a-nobreza-do-amor-na-faixa-das-seis-da-globo/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/novelas/la-na-minha-terra"
-      },
       {
        "n": "TV Sim Brasil",
        "u": "https://tvsimbrasil.com.br/brasil/pop/noticia/2026/11/08/la-na-minha-terra-estreia-globo-dira-paes-faixa-seis"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/08/dira-paes-vive-mae-de-cinco-filhos-em-la-na-minha-terra-que-estreia-na-globo-nesta-segunda/"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/tendencias/2026/11/08/la-na-minha-terra-estreia-em-9-de-novembro-e-substitui-a-nobreza-do-amor-na-faixa-das-seis-da-globo/"
+      }
+     ]
+    },
+    {
+     "kicker": "Música",
+     "quando": "Hoje",
+     "titulo": "Grammy Latino é na quinta, em Las Vegas, com Anitta indicada a álbum do ano",
+     "resumo": "Loulu Gilberto concorre a gravação do ano e artista revelação, e Ana Castela e Luan Santana disputam o prêmio de álbum sertanejo. Daniela Mercury recebe o Prêmio à Excelência Musical.",
+     "fontes": [
+      {
+       "n": "A Crítica",
+       "u": "https://acritica.net/entretenimento/grammy-latino-2026-indicados-ms-ana-castela-luan-santana-ney-matogrosso/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/musica/grammy-latino-2026-veja-lista-completa-de-indicados/"
       }
      ]
     },
@@ -956,26 +1005,6 @@
       {
        "n": "NC News",
        "u": "https://ncnews.com.br/2026/11/08/morre-lucelia-albuquerque-44-anos/"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "07/11",
-     "titulo": "Morre aos 75 anos Richard Lloyd, guitarrista da banda Television",
-     "resumo": "A família informou ao New York Times que ele morreu no sábado em decorrência de um câncer nas vias biliares. Lloyd dividia as guitarras com Tom Verlaine no Television, grupo da cena punk de Nova York cujo disco de estreia, \"Marquee Moon\", de 1977, é apontado entre os mais influentes do rock.",
-     "fontes": [
-      {
-       "n": "O Liberal / Estadão Conteúdo",
-       "u": "https://www.oliberal.com/cultura/morre-richard-lloyd-guitarrista-do-television-aos-75-anos-1.1191798"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/entretenimento/morre-richard-lloyd-guitarrista-television-75-anos/"
-      },
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/variedades/2026/11/07/1016149-morre-richard-lloyd-guitarrista-do-television-aos-75-anos"
       }
      ]
     }
