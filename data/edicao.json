@@ -1,72 +1,72 @@
 {
  "data": "Terça-feira, 10 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "10/11/2026 · 07h20 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h00",
- "fontes": 64,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "10/11/2026 · 12h50 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 11h00",
+ "fontes": 70,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento de 09/11",
-   "valor": "172.236 pts",
-   "var": "+2,22%",
+   "nome": "Ibovespa · 11h",
+   "valor": "172.515 pts",
+   "var": "+0,16%",
    "dir": "up"
   },
   {
-   "nome": "Dólar comercial · fechamento de 09/11",
-   "valor": "R$ 5,506",
-   "var": "-0,06%",
-   "dir": "down"
-  },
-  {
-   "nome": "Petróleo Brent · fechamento de 09/11",
-   "valor": "US$ 92,57",
-   "var": "-5,85%",
-   "dir": "down"
-  },
-  {
-   "nome": "Nasdaq · fechamento de 09/11",
-   "valor": "25.253 pts",
-   "var": "+2,74%",
+   "nome": "Dólar comercial · 11h",
+   "valor": "R$ 5,574",
+   "var": "+1,24%",
    "dir": "up"
   },
   {
-   "nome": "Selic · decisão do Copom (ata hoje, 8h)",
+   "nome": "Petróleo Brent · 11h",
+   "valor": "US$ 90,13",
+   "var": "-2,16%",
+   "dir": "down"
+  },
+  {
+   "nome": "Inflação nos EUA (CPI) · outubro",
+   "valor": "+0,4% no mês",
+   "var": "esperado: +0,3%",
+   "dir": "up"
+  },
+  {
+   "nome": "Selic · ata do Copom de hoje",
    "valor": "13,75%",
-   "var": "Focus vê 13,75% no fim de 2026",
+   "var": "juros altos por mais tempo",
    "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Ter 10/11 · 8h",
-   "txt": "Banco Central divulga a ata do Copom; às 10h30 sai a inflação ao consumidor (CPI) de outubro nos EUA",
+   "hora": "Ter 10/11 · após o fechamento",
+   "txt": "Petrobras divulga o balanço do terceiro trimestre; Ucrânia, Rússia e EUA seguem negociando em Abu Dhabi até quarta",
    "cat": "economia"
   },
   {
-   "hora": "Ter 10/11 · 14h",
-   "txt": "Flávio Dino conduz no STF audiência de conciliação sobre as ações contra o fim da escala 6x1",
-   "cat": "politica"
-  },
-  {
-   "hora": "Ter 10/11 e Qua 11/11",
-   "txt": "Negociações entre Ucrânia e Rússia, com mediação dos EUA, em Abu Dhabi; Lula participa da cúpula de líderes da COP31 em Antália",
-   "cat": "mundo"
+   "hora": "Qua 11/11",
+   "txt": "Lula discursa na abertura da cúpula de líderes da COP31, em Antália, e participa de reunião sobre o fundo de florestas tropicais (TFFF)",
+   "cat": "ciencia"
   },
   {
    "hora": "Qui 12/11",
-   "txt": "IBGE divulga o IPCA de outubro às 9h; à noite, Grammy Latino em Las Vegas",
+   "txt": "IBGE divulga o IPCA de outubro às 9h; à noite, Grammy Latino em Las Vegas, com Anitta entre as atrações",
    "cat": "economia"
   },
   {
    "hora": "Sáb 14/11 · 7h15",
-   "txt": "Brasil x Japão em Singapura; à noite, Mirassol x Atlético-MG reabre o Brasileirão",
+   "txt": "Brasil x Japão no Estádio Nacional de Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
    "cat": "esporte"
   },
   {
    "hora": "Dom 15/11",
-   "txt": "Segundo dia do Enem, com ciências da natureza e matemática",
+   "txt": "Segundo dia do Enem; de 16 a 20/11, quem faltou no primeiro dia por motivo previsto no edital pode pedir a reaplicação",
    "cat": "educacao"
+  },
+  {
+   "hora": "Ter 17/11",
+   "txt": "Mostra com três esculturas de Aleijadinho abre nos Museus Vaticanos e fica até 13 de fevereiro",
+   "cat": "cultura"
   }
  ],
  "acervo": [
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "STF",
-  "titulo": "Fachin arquiva o inquérito das fake news depois de sete anos e meio; 104 apurações derivadas serão revistas uma a uma",
-  "resumo": "O presidente do STF atendeu ao pedido da PGR e encerrou, na noite de segunda, a investigação aberta em 2019 para apurar ataques e ameaças a ministros da Corte. Ações penais já abertas, condenações e acordos continuam valendo.",
+  "kicker": "Juros e mercado",
+  "titulo": "Ata do Copom indica Selic de 13,75% por mais tempo e cita fim da escala 6x1 entre as pressões sobre a inflação; dólar sobe 1,2%",
+  "resumo": "O Banco Central disse que expectativas de inflação acima da meta exigem juros elevados por um período maior e não deu prazo para voltar a cortar a taxa. Na manhã do mercado, a inflação acima do esperado nos EUA levou o dólar a R$ 5,57, enquanto a bolsa oscilou perto dos 172 mil pontos.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/K-LHa2iu_ZeORwFUS4y-LeXcLKs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9256.jpg?itok=9EtzfhoB",
-   "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+   "src": "fotos/openfinance.jpg",
+   "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
   },
-  "entenda": "O inquérito foi instaurado de ofício pelo então presidente do STF, Dias Toffoli, que designou Alexandre de Moraes como relator sem sorteio. Em 2020, o plenário validou a abertura por 10 votos a 1. Ao longo dos anos, a investigação levou a bloqueios de perfis em redes sociais, buscas contra empresários e mais de 1.600 ações penais, e foi alvo de críticas de entidades de imprensa e de juristas, sobretudo após a retirada de uma reportagem da revista Crusoé do ar em 2019. Fachin assumiu a relatoria em setembro, no lugar de Moraes, e disse que pretendia encerrar o caso. Na decisão, afirmou que a validação de 2020 não autorizava uma investigação sem prazo e que o objeto do inquérito se esgotou.",
+  "entenda": "Na semana passada, o Copom manteve a Selic em 13,75% ao ano e interrompeu o ciclo de cortes iniciado em março. A ata, publicada às 8h desta terça, detalha o motivo: as projeções do mercado para a inflação subiram e estão acima da meta de 3% em todos os prazos. O comitê listou como fatores de pressão a alta do petróleo com a guerra no Oriente Médio, os efeitos do El Niño, a desvalorização do real e o impacto do fim da escala 6x1 sobre o custo do trabalho. Ao mesmo tempo, o BC registrou que a atividade econômica perde força de forma mais acentuada. Às 10h30, os EUA informaram que os preços ao consumidor subiram 0,4% em outubro, acima do 0,3% previsto, o que reforçou apostas de juros mais altos por lá e pressionou o câmbio.",
   "fatos": [
-   "Dos 104 procedimentos vinculados, só seguirão os que tiverem objeto próprio, justa causa e autoridade competente; quatro já foram analisados.",
-   "Dados bancários, fiscais e telefônicos irão para um apenso sigiloso; o sigilo do restante dos autos será levantado depois.",
-   "A decisão não trata da validade das provas, que ficará a cargo de cada juízo."
+   "Projeções do BC para a inflação em quatro trimestres: 5,6% em 2026, 4,7% em 2027 e 3,5% no segundo trimestre de 2028; o teto da meta é 4,5%.",
+   "Por volta das 11h, o Ibovespa subia 0,16%, a 172.515 pontos, e o dólar avançava 1,24%, a R$ 5,574.",
+   "Nos EUA, o núcleo da inflação subiu 0,3% em outubro; o diretor do Fed Christopher Waller disse que uma alta de juros em dezembro segue possível."
   ],
   "fontes": [
    {
     "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/entenda-decisao-de-fachin-que-arquivou-o-inquerito-das-fake-news/",
-    "d": "Fundamentos da decisão"
+    "u": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/na-ata-do-copom-bc-diz-que-cenario-exige-selic-alta-por-mais-tempo/",
+    "d": "Conteúdo da ata"
    },
    {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-encerra-o-polemico-inquerito-das-fake-news/",
-    "d": "Histórico e críticas"
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/copom-destaca-fim-da-escala-6x1-como-ponto-de-pressao-sobre-a-inflacao",
+    "d": "Escala 6x1 na ata"
    },
    {
-    "n": "Gazeta Mercantil",
-    "u": "https://gazetamercantil.com/fachin-arquiva-inquerito-fake-news-104-procedimentos",
-    "d": "Procedimentos derivados"
+    "n": "Money Times",
+    "u": "https://www.moneytimes.com.br/ata-do-copom-bc-ve-economia-perder-forca-mas-diz-que-inflacao-exige-juros-altos-por-mais-tempo-jcav/",
+    "d": "Atividade em desaceleração"
    },
    {
-    "n": "Campo Grande News",
-    "u": "https://www.campograndenews.com.br/politica/fachin-arquiva-inquerito-das-fake-news-apos-mais-de-7-anos-de-investigacao",
-    "d": "Arquivamento"
+    "n": "Exame",
+    "u": "https://exame.com/invest/mercados/ibovespa-tenta-emplacar-nova-alta-mas-vale-e-petrobras-pesam-dolar-sobe-mais-de-1/",
+    "d": "Bolsa e dólar"
    },
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-pede-ao-supremo-arquivamento-do-inquerito-das-fake-news",
-    "d": "Pedido da PGR"
+    "n": "Investing.com/Reuters",
+    "u": "https://br.investing.com/news/forex-news/dolar-sobe-ante-real-com-ata-do-copom-e-inflacao-dos-eua-no-radar-2122125",
+    "d": "Câmbio"
    },
    {
-    "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/brasil/dino-questiona-promessa-de-fim-de-investigacoes-apos-fachin-pedir-encerramento-de-inquerito-das-fake-news/",
-    "d": "Críticas de Dino"
+    "n": "CoinDesk",
+    "u": "https://www.coindesk.com/pt-br/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+    "d": "Inflação nos EUA"
    }
   ]
  },
@@ -213,11 +213,65 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "STF, PF e Senado",
+   "nota": "STF, inquérito das fake news e escala 6x1",
    "itens": [
     {
      "kicker": "Inquérito das fake news",
      "quando": "Hoje",
+     "titulo": "Documentos do inquérito ficaram por sete anos no gabinete de Moraes, fora da secretaria judiciária do STF, diz reportagem",
+     "resumo": "Segundo o UOL, assessores do ministro recebiam, registravam e guardavam as peças do processo e chegaram a entregar intimações, tarefa normalmente feita por oficiais de justiça. A própria decisão de arquivamento de Fachin registra que os autos tramitaram só no gabinete até setembro; o gabinete de Moraes não comentou, e o STF afirma que os atos praticados até a troca de relator foram preservados.",
+     "fontes": [
+      {
+       "n": "Diario de Pernambuco",
+       "u": "https://www.diariodepernambuco.com.br/politica/2026/11/11728758-moraes-montou-estrutura-paralela-no-gabinete-para-inquerito-das-fake-news-afirma-site.html"
+      },
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/justica/moraes-estrutura-paralela-stf-inquerito-fake-news/"
+      },
+      {
+       "n": "Agenda do Poder",
+       "u": "https://agendadopoder.com.br/moraes-criou-estrutura-paralela-no-proprio-gabinete-para-conduzir-inquerito-das-fake-news/"
+      }
+     ]
+    },
+    {
+     "kicker": "Escala 6x1",
+     "quando": "Hoje",
+     "titulo": "Dino reúne no STF empresários, centrais sindicais, AGU e Congresso para discutir os prazos do fim da escala 6x1",
+     "resumo": "A audiência de conciliação trata de ações da CNI e da CNC contra a forma de implantação da emenda que reduz a jornada de 44 para 40 horas, com a primeira etapa, de 42 horas, prevista para 16 de dezembro. Dino disse que a redução da jornada não está em negociação, só os detalhes da transição.",
+     "lados": [
+      {
+       "quem": "Confederações patronais (CNI e CNC)",
+       "txt": "Pedem adiar a etapa de 42 horas para outubro de 2027 e a de 40 horas para 2028, poupar contratos e convenções anteriores à emenda e as pequenas empresas até haver regulamentação, e liberar a negociação coletiva de escalas."
+      },
+      {
+       "quem": "Defensores da emenda",
+       "txt": "Dino considera a mudança constitucional por ampliar o descanso semanal; o governo e as centrais defendem o calendário aprovado pelo Congresso, que já prevê transição em duas etapas."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/escala-6x1-audiencia-reune-no-stf-representantes-de-empregadores-e-trabalhadores/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/stf-promove-audiencia-nesta-terca-10-para-discutir-fim-da-escala-6x1/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/dino-inclui-acao-da-cni-em-audiencia-sobre-fim-da-6x1-no-stf"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-marca-audiencia-de-conciliacao-sobre-fim-da-escala-6x1"
+      }
+     ]
+    },
+    {
+     "kicker": "Inquérito das fake news",
+     "quando": "Ontem",
      "titulo": "Arquivamento divide opiniões: críticos viam investigação sem fim; defensores lembram que o plenário a validou",
      "resumo": "A decisão de Fachin encerra a coleta de provas, mas mantém ações penais e condenações já existentes. O debate sobre o inquérito acompanhou toda a sua duração e voltou à tona com o caso Banco Master.",
      "destaque": false,
@@ -287,52 +341,6 @@
        "u": "https://www.bahianoticias.com.br/noticia/323464-alcolumbre-e-tereza-acenam-ao-pl-em-busca-de-apoio-para-o-comando-do-senado"
       }
      ]
-    },
-    {
-     "kicker": "Apostas",
-     "quando": "Ontem",
-     "titulo": "Fux suspende ações de 29 marcas de bets que tentavam voltar a operar e leva a disputa ao plenário do STF",
-     "resumo": "O ministro congelou os processos na Justiça Federal contra a medida provisória que paralisou as apostas on-line em setembro, a pedido da PGR, e disse que decisões conflitantes criavam insegurança jurídica. A análise da constitucionalidade da MP deve ficar para 2027.",
-     "lados": [
-      {
-       "quem": "Empresas",
-       "txt": "Dizem que a MP é inconstitucional, que pagaram R$ 30 milhões de outorga para operar até 2029 e que o fechamento causa prejuízo diário."
-      },
-      {
-       "quem": "Governo",
-       "txt": "O advogado-geral da União, Jorge Messias, sustenta que o Estado pode suspender atividade que ameaça direitos fundamentais e que a fiscalização não conteve danos à saúde mental e às finanças das famílias."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Rede Hoje",
-       "u": "https://redehoje.com.br/2026/11/09/politica-decisao-de-luiz-fux-do-stf-bloqueia-acoes-de-29-bets-que-tentavam-liberar-apostas-online-no-pais/"
-      },
-      {
-       "n": "Sigma",
-       "u": "https://sigma.world/pt-br/news/fux-suspende-acoes-contra-bets/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/canal-o-tempo/programas/primeira-analise/2026/11/9/stf-suspende-acoes-contra-proibicao-das-bets-o-que-acontece-agora-primeira-analise"
-      }
-     ]
-    },
-    {
-     "kicker": "Judiciário",
-     "quando": "Ontem",
-     "titulo": "Fux suspende punição do CNJ à juíza Gabriela Hardt, da Lava Jato",
-     "resumo": "Em liminar, o ministro entendeu que o conselho perdeu o prazo de cinco anos para abrir o processo e que não ficou demonstrada intenção de favorecer alguém. A juíza, afastada por dois anos com salário proporcional desde agosto, volta a receber vencimentos integrais até o julgamento do mandado de segurança.",
-     "fontes": [
-      {
-       "n": "Sou Brasília",
-       "u": "https://soubrasilia.com/fux-suspende-afastamento-gabriela-hardt-cnj-lava-jato-prescricao-9-novembro-2026/"
-      },
-      {
-       "n": "Game Over Drive",
-       "u": "https://gameoverdrive.com.br/quem-e-gabriela-hardt-juiza-lava-jato/"
-      }
-     ]
     }
    ]
   },
@@ -340,25 +348,70 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Ata do Copom e inflação nos EUA",
+   "nota": "Ata do Copom, inflação nos EUA e balanços",
    "itens": [
     {
-     "kicker": "Agenda do dia",
+     "kicker": "Mercado",
      "quando": "Hoje",
-     "titulo": "Ata do Copom sai às 8h e inflação dos EUA às 10h30; bolsa vem de alta de 2,2%",
-     "resumo": "O documento detalha a decisão que manteve a Selic em 13,75%, e o CPI de outubro pode mudar as apostas sobre os juros nos EUA. Na segunda, o Ibovespa fechou em 172.236 pontos, na máxima do dia, e o dólar ficou estável, a R$ 5,506, com o tombo de quase 6% do petróleo.",
+     "titulo": "Dólar sobe mais de 1% com inflação acima do previsto nos EUA; Ibovespa perde fôlego depois de passar de 173 mil pontos",
+     "resumo": "Os preços ao consumidor nos EUA subiram 0,4% em outubro, ante 0,3% esperado, e Wall Street abriu em queda com a aposta de alta de juros pelo Fed. Na bolsa brasileira, bancos sustentaram o índice, enquanto Vale e Petrobras recuaram; o Brent caiu cerca de 2%, a US$ 90, depois de Trump dizer que novos ataques ao Irã não devem ser necessários.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/ibovespa-tenta-emplacar-nova-alta-mas-vale-e-petrobras-pesam-dolar-sobe-mais-de-1/"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/economia/cpi-inflacao-dos-eua-sobe-04-em-outubro-acima-do-esperado/"
+      },
+      {
+       "n": "Investing.com/Reuters",
+       "u": "https://br.investing.com/news/forex-news/dolar-sobe-ante-real-com-ata-do-copom-e-inflacao-dos-eua-no-radar-2122125"
+      },
+      {
+       "n": "Trademap",
+       "u": "https://trademap.com.br/noticias/news-8575027"
+      }
+     ]
+    },
+    {
+     "kicker": "Balanços",
+     "quando": "Hoje",
+     "titulo": "Magazine Luiza dispara quase 17% e Embraer sobe 5% após resultados; Petrobras divulga números depois do fechamento",
+     "resumo": "A varejista teve lucro ajustado de R$ 13,9 milhões e relatou vendas mais fortes em outubro. A Embraer registrou receita recorde de US$ 2,35 bilhões no trimestre e elevou a projeção para 2026, apesar de lucro abaixo do esperado; a Vale caiu após rebaixamento do Itaú BBA.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/ibovespa-tenta-emplacar-nova-alta-mas-vale-e-petrobras-pesam-dolar-sobe-mais-de-1/"
+      },
+      {
+       "n": "Empiricus",
+       "u": "https://www.empiricus.com.br/artigos/investimentos/ibovespa-hoje-ata-do-copom-traz-tom-dovish-enquanto-mercado-aguarda-resultados-da-petrobras-petr4-veja-destaques-desta-terca-10-jdnm/"
+      },
+      {
+       "n": "Trademap",
+       "u": "https://trademap.com.br/noticias/news-8575027"
+      }
+     ]
+    },
+    {
+     "kicker": "Banco Central",
+     "quando": "Hoje",
+     "titulo": "Na ata, Copom diz que economia desacelera, mas que inflação exige juros altos por mais tempo",
+     "resumo": "O comitê descreveu uma perda de ritmo mais forte da atividade e pediu \"serenidade e cautela\". Entre os riscos para os preços, citou petróleo, El Niño, câmbio e o fim da escala 6x1; a ata não indica quando os cortes da Selic podem voltar.",
+     "destaque": false,
      "fontes": [
       {
        "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/agenda-economica-ata-do-copom-e-inflacao-dos-eua-podem-mexer-com-bolsa-e-dolar-nesta-terca-feira-mlem/"
+       "u": "https://www.moneytimes.com.br/ata-do-copom-bc-ve-economia-perder-forca-mas-diz-que-inflacao-exige-juros-altos-por-mais-tempo-jcav/"
+      },
+      {
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/economia/2026/11/10/ata-do-copom-indica-juros-altos-por-mais-tempo-para-conter-inflacao/"
       },
       {
        "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-dispara-22-e-fecha-na-maxima-apos-alivio-no-exterior-dolar-fica-estavel-a-r-550-com-fiscal-no-radar/"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-economia/dolar-cai-a-r-5505-ibovespa-sobe-222/"
+       "u": "https://timesbrasil.com.br/brasil/economia-brasileira/copom-ve-necessidade-de-juros-altos-por-mais-tempo-diante-de-inflacao-pressionada/"
       }
      ]
     },
@@ -387,26 +440,6 @@
      ]
     },
     {
-     "kicker": "Bolsa",
-     "quando": "Ontem",
-     "titulo": "Frigoríficos e Natura lideram a alta do Ibovespa; petroleiras caem com o Brent",
-     "resumo": "MBRF subiu 11,4%, Natura 8,6% e Minerva 8,4%, e Vale e bancos sustentaram o índice, que ganhou mais de 3,7 mil pontos desde a abertura. Brava e PRIO recuaram com o petróleo, e os juros futuros fecharam em queda em quase todos os vencimentos.",
-     "fontes": [
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-sobe-222-fecha-maxima-172-mil-pontos/"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-dispara-22-e-fecha-na-maxima-apos-alivio-no-exterior-dolar-fica-estavel-a-r-550-com-fiscal-no-radar/"
-      },
-      {
-       "n": "Visno Invest",
-       "u": "https://visnoinvest.com.br/news/16321/ibovespa-fecha-a-171-78656-pts-195-hbor3-cai-172-hoje"
-      }
-     ]
-    },
-    {
      "kicker": "Pix",
      "quando": "Ontem",
      "titulo": "Pix bate recorde e passa de 319 milhões de transações em um dia",
@@ -421,26 +454,6 @@
        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pix-bate-recorde-e-supera-319-milhoes-de-transacoes-em-um-dia"
       }
      ]
-    },
-    {
-     "kicker": "Focus",
-     "quando": "Ontem",
-     "titulo": "Mercado passa a prever Selic de 13,75% no fim de 2026 e eleva a inflação esperada para 2027",
-     "resumo": "Na pesquisa semanal do Banco Central, a mediana para os juros no fim do ano subiu de 13,50% para 13,75%, nível em que o Copom manteve a taxa na quarta passada. O IPCA de 2026 ficou em 5,22%, o de 2027 subiu para 4,90%, e o PIB de 2026 segue em 1,75%.",
-     "fontes": [
-      {
-       "n": "DGABC",
-       "u": "https://www.dgabc.com.br/Noticia/4367682/projecao-para-selic-no-fim-de-2026-passa-de-13-50-para-13-75-no-relatorio-focus-do-bc"
-      },
-      {
-       "n": "Monitor do Mercado",
-       "u": "https://monitordomercado.com.br/noticias/435134-boletim-focus-mercado-eleva-projecao-da-selic-para-1375-em-2026"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/"
-      }
-     ]
     }
    ]
   },
@@ -448,29 +461,49 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Frio e segurança",
+   "nota": "Porto de Santos, tempo e segurança",
    "itens": [
     {
-     "kicker": "Clima",
+     "kicker": "Porto de Santos",
      "quando": "Hoje",
-     "titulo": "BH amanhece com 12,6°C e frio fora de época deve seguir no Sudeste até sexta",
-     "resumo": "A passagem de uma frente fria pelo litoral do Sudeste mantém as temperaturas baixas; em Belo Horizonte, a máxima não deve passar de 19°C, com chance de chuva. Curitiba teve 9°C ao amanhecer, e na segunda 748 cidades de Minas estavam sob alerta do Inmet.",
+     "titulo": "Porto de Santos eleva nível de segurança após pane nos sistemas e suspeita de ataque hacker",
+     "resumo": "Sistemas da Autoridade Portuária de Santos saíram do ar desde sexta e voltaram a ter instabilidade; segundo o jornal A Tribuna, criminosos pedem dinheiro para restabelecê-los. A comissão de segurança dos portos de São Paulo elevou a proteção do complexo para o nível 2 enquanto a autoridade portuária investiga o caso.",
+     "fontes": [
+      {
+       "n": "A Tribuna",
+       "u": "https://www.atribuna.com.br/noticias/portomar/porto-de-santos-sofre-colapso-digital-e-hackers-pedem-dinheiro-para-sistema-ser-restabelecido-seguranca-e-elevada-1.536296"
+      },
+      {
+       "n": "Santa Portal",
+       "u": "https://santaportal.com.br/porto-e-negocios/suspeita-de-ataque-cibernetico-tira-sistemas-do-porto-de-santos-do-ar-desde-sexta/"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/tecnologia/porto-santos-nivel-2-falha-sistemas"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/inovacao/tecnologia/porto-de-santos-nivel-protecao-ataque-cibernetico/"
+      }
+     ]
+    },
+    {
+     "kicker": "Tempo",
+     "quando": "Hoje",
+     "titulo": "Frio perde força no Sudeste, mas serras do Sul ainda podem ter geada; chuva se concentra no Norte",
+     "resumo": "O Inmet prevê pancadas com trovoadas no Amazonas, Pará e Tocantins e chuva em Minas, Rio e Espírito Santo nesta terça, com São Paulo nublado. Na quarta há aviso amarelo para tempestades em partes de Mato Grosso, Goiás e Mato Grosso do Sul e para grandes acumulados no sul da Bahia.",
      "fontes": [
       {
        "n": "O Tempo",
-       "u": "https://www.otempo.com.br/cidades/2026/11/10/bh-tem-manha-fria-e-maxima-nao-deve-passar-dos-19-c-nesta-terca-feira"
+       "u": "https://www.otempo.com.br/brasil/2026/11/10/chuva-se-concentra-no-norte-e-tempo-fica-mais-estavel-no-sul-e-sudeste-preve-inmet"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/brasil/2026/11/10/inmet-preve-chuva-no-norte-e-melhoria-do-tempo-no-sul-e-sudeste.html"
       },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/minas-gerais/bh-pode-ter-12c-nesta-terca-feira-veja-ate-quando-vai-o-frio-em-minas"
-      },
-      {
-       "n": "Brasil 61",
-       "u": "https://brasil61.com/n/o-tempo-e-a-temperatura-terca-feira-de-frio-ao-amanhecer-com-9-c-em-curitiba-e-tempo-seco-no-rs-ptrs264500"
-      },
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/gerais/2026/11/7535558-queda-de-temperatura-coloca-748-cidades-de-minas-sob-alerta-do-inmet.html"
       }
      ]
     },
@@ -497,22 +530,6 @@
        "u": "https://agendadopoder.com.br/operacao-em-7-estados-e-nos-eua-mira-esquema-de-bets-ilegais-que-usou-video-falso-de-frei-gilson/"
       }
      ]
-    },
-    {
-     "kicker": "Temporais",
-     "quando": "Ontem",
-     "titulo": "Celesc faz mobilização máxima na região de Chapecó; 90% da energia já foi religada em Santa Catarina",
-     "resumo": "Os temporais desde quarta deixaram mais de 247 mil unidades sem luz no estado, e novas tempestades no sábado provocaram outro pico, de 82 mil. Mais de 500 profissionais atuam no Oeste, mas a companhia não deu prazo para a normalização total.",
-     "fontes": [
-      {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/chapeco/celesc-recupera-90-da-energia-apos-temporais-e-reforca-forca-tarefa-em-chapeco/"
-      },
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/video/celesc-trabalha-para-restabelecer-energia-apos-tornado-em-chapeco/"
-      }
-     ]
     }
    ]
   },
@@ -520,71 +537,41 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Internacional",
+   "nota": "Negociação na Ucrânia e tensão com o Irã",
    "itens": [
     {
      "kicker": "Guerra na Ucrânia",
      "quando": "Hoje",
-     "titulo": "Ucrânia e Rússia voltam a negociar em Abu Dhabi, com mediação dos EUA, após nove meses sem diálogo direto",
-     "resumo": "As conversas devem durar dois dias e têm as garantias de segurança para Kiev como tema central; Marco Rubio disse que ainda não há plano final. Território segue como principal impasse, e a Rússia afirmou ter derrubado 155 drones ucranianos durante a noite.",
+     "titulo": "Ucrânia, Rússia e EUA começam em Abu Dhabi a primeira rodada trilateral desde fevereiro",
+     "resumo": "Kushner e Witkoff mediam a conversa entre as delegações chefiadas por Rustem Umerov e Vladimir Medinsky, prevista para dois dias. Moscou exige a saída ucraniana das áreas de Donetsk que Kiev ainda controla, o que a Ucrânia rejeita; Kiev quer discutir cessar-fogo e garantias de segurança, e europeus fazem reuniões à parte.",
      "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/negociacoes-entre-eua-ucrania-e-russia-comecam-em-abu-dhabi-diz-moscou/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/mundo/2026/11/10/ucrania-e-russia-iniciam-nova-rodada-de-negociacoes-em-abu-dhabi-para-tentar-encerrar-guerra"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/mundo/russia-e-ucrania-retomam-negociacoes-de-paz-com-mediacao-dos-eua-em-abu-dhabi/"
+      },
       {
        "n": "Observador",
        "u": "https://observador.pt/liveblogs/comecam-hoje-as-negociacoes-entre-kiev-e-moscovo-em-abu-dhabi-estados-unidos-confiantes-em-fim-definitivo-para-a-guerra/"
-      },
-      {
-       "n": "DN",
-       "u": "https://www.dn.pt/internacional/nove-meses-depois-ucrnia-rssia-e-eua-retomam-negociaes-para-tentar-pr-fim-guerra"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/mundo/com-mediacao-dos-eua-russia-e-ucrania-voltam-a-mesa-de-negociacoes-em-abu-dhabi/"
       }
      ]
     },
     {
-     "kicker": "EUA",
+     "kicker": "EUA e Irã",
      "quando": "Hoje",
-     "titulo": "Deputado republicano apresenta oito artigos de impeachment contra o secretário de Defesa, Pete Hegseth",
-     "resumo": "Thomas Massie acusa Hegseth de conduzir a guerra contra o Irã sem autorização do Congresso e cita ainda ataques a barcos no Caribe e a captura de Maduro; uma votação pode ocorrer nesta semana. Hegseth chamou a iniciativa de farsa de um congressista derrotado, e o líder democrata Hakeem Jeffries disse apoiar.",
-     "lados": [
-      {
-       "quem": "Autor do pedido",
-       "txt": "Massie, que deixa o mandato após perder a primária, afirma que Hegseth cometeu atos passíveis de impeachment em oito ocasiões."
-      },
-      {
-       "quem": "Hegseth",
-       "txt": "Classificou os artigos como teatro político de um parlamentar descontente e derrotado."
-      }
-     ],
+     "titulo": "EUA retiram aviões de segunda base no Reino Unido por ameaça atribuída ao Irã, diz jornal",
+     "resumo": "Segundo o Wall Street Journal, aviões de reabastecimento deixaram a base de Mildenhall, no leste da Inglaterra, rumo à Alemanha; a Força Aérea americana diz apenas que faz rodízios entre bases. Em outubro, bombardeiros já haviam saído de Fairford, e Trump afirma que uma nova ofensiva contra o Irã é improvável.",
      "fontes": [
       {
-       "n": "CBS News",
-       "u": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/10/congressista-republicano-apresenta-oito-artigos-para-destituir-secretario-da-defesa-dos-eu"
-      },
-      {
-       "n": "Axios",
-       "u": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war"
-      }
-     ]
-    },
-    {
-     "kicker": "Oriente Médio",
-     "quando": "Hoje",
-     "titulo": "Explosões são ouvidas em Riad após Arábia Saudita interceptar mísseis lançados pelos houthis",
-     "resumo": "A coalizão liderada pelos sauditas diz ter destruído um míssil balístico e um de cruzeiro; não há registro de vítimas. Separadamente, os EUA retiraram aviões da base britânica de Mildenhall por causa de uma ameaça atribuída ao Irã, segundo o Wall Street Journal; o Irã nega planos contra bases no Reino Unido.",
-     "fontes": [
-      {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/10/explosoes-ouvidas-na-capital-da-arabia-saudita-e-missil-balistico-intercetado/"
-      },
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/mundo/arabia-saudita-diz-ter-interceptado-missil-lancado-pelos-houthis-contra-riad-1.1170843"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/eua-retiram-avioes-segunda-base-militar-reino-unido-apos-ameacas-ira/"
       },
       {
        "n": "CNN Brasil",
@@ -593,26 +580,46 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/mundo/eua-retira-avioes-de-segunda-base-britanica-devido-a-ameaca-do-ira"
+      },
+      {
+       "n": "CNN Portugal",
+       "u": "https://cnnportugal.iol.pt/avioes-militares-eua/avioes-americanos/avioes-dos-eua-abandonam-base-britanica-devido-a-alegada-ameaca-iraniana/20261110/6af30633d34e9ce6f1b43cd4"
       }
      ]
     },
     {
      "kicker": "Paraguai",
-     "quando": "Ontem",
-     "titulo": "Itaipu tinha o equivalente a R$ 1 bilhão no Ueno Bank e tenta reaver o dinheiro na Justiça paraguaia",
-     "resumo": "O lado paraguaio da usina mantinha cerca de US$ 182 milhões no banco digital, dissolvido em 3 de novembro por insolvência; a empresa diz que as operações não serão afetadas. O caso levou ao impeachment e à prisão preventiva do ex-presidente Santiago Peña, que foi acionista do grupo controlador.",
+     "quando": "Hoje",
+     "titulo": "Promotoria acha cofre escondido atrás de parede na sede do Ueno Bank, onde Itaipu tinha o equivalente a R$ 1 bilhão",
+     "resumo": "Um dos cofres, aberto após horas de trabalho, tinha documentos da investigação; o segundo deve ser aberto nesta terça. O Banco Central paraguaio intervém no banco, e a Itaipu tenta na Justiça reaver cerca de US$ 182 milhões depositados ali.",
      "fontes": [
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/mundo/master-paraguaio-ministerio-publico-do-paraguai-encontra-cofres-escondidos-na-sede-do-ueno-bank/"
+      },
+      {
+       "n": "Bloomberg Línea",
+       "u": "https://www.bloomberglinea.com.br/internacional/itaipu-tenta-recuperar-us-182-milhoes-depositados-no-ueno-bank-do-paraguai/"
+      },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/mundo/itaipu-tinha-saldo-equivalente-a-r-1-bilhao-em-banco-falido-do-paraguai"
+      }
+     ]
+    },
+    {
+     "kicker": "Oriente Médio",
+     "quando": "Hoje",
+     "titulo": "Explosões são ouvidas em Riad após Arábia Saudita interceptar mísseis lançados pelos houthis",
+     "resumo": "A coalizão liderada pelos sauditas diz ter destruído um míssil balístico e um de cruzeiro sobre a capital; não há registro de vítimas. O ataque ocorre enquanto os EUA dizem ver perspectiva de fim do conflito com o Irã.",
+     "fontes": [
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/10/explosoes-ouvidas-na-capital-da-arabia-saudita-e-missil-balistico-intercetado/"
       },
       {
-       "n": "O Presente",
-       "u": "https://www.opresente.com.br/geral/crise-no-ueno-bank-itaipu-paraguaia-tinha-cerca-de-r-1-bilhao-no-banco-e-aciona-ministerio-publico/"
-      },
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/mundo/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena-apos-impeachment/"
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/mundo/arabia-saudita-diz-ter-interceptado-missil-lancado-pelos-houthis-contra-riad-1.1170843"
       }
      ]
     },
@@ -620,11 +627,15 @@
      "kicker": "Vaticano",
      "quando": "Ontem",
      "titulo": "Papa Leão XIV celebra missa campal para multidão em Buenos Aires, com Milei presente",
-     "resumo": "Na homilia, em Palermo, o papa defendeu a família diante de problemas como trabalho precário e violência doméstica e lembrou Francisco; o Metrópoles fala em cerca de 2 milhões de pessoas. Na véspera, ao criticar políticas de austeridade, ele disse que a economia deve servir às pessoas; o governo diz que o ajuste é necessário para conter a inflação.",
+     "resumo": "Na homilia, em Palermo, o papa defendeu a família diante de problemas como trabalho precário e violência doméstica; o Metrópoles fala em cerca de 2 milhões de pessoas. Na viagem, em Claypole, ele visitou um centro para 410 adultos com deficiência que bispos dizem sofrer com atrasos de verbas e disse que o progresso de um país se mede pelo acolhimento; o governo Milei defende os cortes como forma de conter a inflação.",
      "fontes": [
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/mundo/papa-leao-xiv-faz-missa-para-2-milhoes-de-pessoas-na-argentina"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-visita-instituicao-que-bispos-argentinos-dizem-estar-ameacada-por-cortes-do-governo/"
       },
       {
        "n": "Diário do Centro do Mundo",
@@ -642,25 +653,41 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Seleção em Singapura",
+   "nota": "Seleção em Singapura e reta final do Brasileirão",
    "itens": [
     {
      "kicker": "Seleção",
      "quando": "Hoje",
-     "titulo": "Seleção completa o grupo em Singapura nesta semana; Endrick e Allan dão a primeira entrevista",
-     "resumo": "Depois do primeiro treino com parte do elenco, o segundo estava marcado para as 5h de Brasília desta terça, com a maioria dos 25 convocados; Alisson Santana e Marlon Gomes chegam no fim do dia, e o grupo deve estar completo na quarta. O Brasil enfrenta o Japão no sábado, às 7h15, e Singapura na terça, 17.",
+     "titulo": "Ancelotti poupa Raphinha e outros três no treino sob chuva em Singapura; Brasil pega o Japão no sábado",
+     "resumo": "Bruno Guimarães, Gabriel Magalhães, Raphinha e Vanderson fizeram trabalho na academia por controle de carga, e 18 jogadores foram a campo para treinar finalizações. A Seleção enfrenta o Japão no sábado, às 7h15 de Brasília, e Singapura na terça seguinte, às 7h.",
      "fontes": [
       {
-       "n": "Bahia Notícias",
-       "u": "https://www.bahianoticias.com.br/esportes/noticia/80954-selecao-brasileira-tera-coletiva-e-treino-nesta-terca-em-singapura"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/sem-raphinha-selecao-brasileira-treina-para-jogo-contra-japao-em-singapura"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/brasil/selecao-brasileira-realiza-primeiro-treino-na-asia-de-olho-em-amistosos-contra-japao-e-singapura/"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/selecao-brasileira/selecao-treina-sob-chuva-raphinha-e-mais-tres-sao-poupados.html"
       },
       {
-       "n": "bahia.ba",
-       "u": "https://bahia.ba/esporte/ancelotti-inicia-treinos-do-brasil-com-vini-jr-e-endrick-em-singapura/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/brasil/ancelotti-preserva-quatro-jogadores-em-treino-da-selecao-em-singapura,bd33c3ef1a4b28a0d3b2e0cbcf805aa11daar9o0.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Flamengo lidera com três pontos sobre o Palmeiras, e confronto direto em 21 de novembro pode decidir o título",
+     "resumo": "Após 34 rodadas, o Flamengo tem 76 pontos e o Palmeiras, 73; o Palmeiras volta a campo em 18 de novembro, contra o Cruzeiro. O Palmeiras ainda disputa a final da Libertadores com o Estudiantes em 28 de novembro, em Montevidéu, e a da Copa do Brasil com o Grêmio em 6 de dezembro.",
+     "fontes": [
+      {
+       "n": "GC Mais",
+       "u": "https://gcmais.com.br/noticias/2026/11/10/palmeiras-joga-quando-veja-proximos-jogos-no-brasileirao-e-nas-finais"
+      },
+      {
+       "n": "Portal do Gremista",
+       "u": "https://portaldogremista.com.br/gremio-hoje-10-novembro-2026"
       }
      ]
     },
@@ -715,34 +742,6 @@
        "u": "https://www.maisgoias.com.br/esportes/futebol/brasileirao-serie-b/proximo-adversario-do-vila-nova-demite-tecnico-que-teve-apenas-uma-derrota-na-serie-b/"
       }
      ]
-    },
-    {
-     "kicker": "Copa do Brasil",
-     "quando": "08/11",
-     "titulo": "Palmeiras decide a Copa do Brasil com o Grêmio em 6 de dezembro e a Libertadores com o Estudiantes em 28 de novembro",
-     "resumo": "O time eliminou o Vasco nos pênaltis no domingo e chega às duas finais. A decisão da Libertadores será no sábado, 28, às 17h, no Centenário, em Montevidéu; a final da Copa do Brasil será em Brasília.",
-     "fontes": [
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/futebol/copa-do-brasil-palmeiras-elimina-vasco-nos-penaltis-e-vai-disputar-titulo-gremio-veja-data-premiacao-final/"
-      },
-      {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/esportes/palmeiras-elimina-vasco-nos-penaltis-e-avanca-a-final-da-copa-do-brasil"
-      },
-      {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-segunda-feira-09-de-novembro-de-2026/"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
-      }
-     ]
     }
    ]
   },
@@ -750,7 +749,7 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Sarampo, clima e dengue",
+   "nota": "Mpox, sarampo e clima",
    "itens": [
     {
      "kicker": "COP31",
@@ -765,6 +764,30 @@
       {
        "n": "Estado de Minas",
        "u": "https://www.em.com.br/bem-viver/2026/11/7533219-ministerio-da-saude-projeta-alta-da-dengue-em-2027.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Mpox",
+     "quando": "08/11",
+     "titulo": "Ministério da Saúde compra 25 mil doses de vacina contra mpox para grupos de maior risco",
+     "resumo": "O país registrou 665 casos até outubro, sem mortes, e as doses vão prioritariamente para pessoas vivendo com HIV com imunidade baixa. Especialistas ouvidos pela Agência Brasil dizem que não há indicação de vacinar a população em geral.",
+     "fontes": [
+      {
+       "n": "Ministério da Saúde",
+       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/mpox-ministerio-da-saude-garante-25-mil-doses-de-vacina-apos-negociacao-internacional"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nao-ha-necessidade-de-vacinacao-da-populacao-contra-mpox"
+      },
+      {
+       "n": "Imirante",
+       "u": "https://m.imirante.com/noticias/brasil/2026/11/08/ministerio-adquire-25-mil-doses-vacina-contra-mpox"
       }
      ]
     },
@@ -803,22 +826,6 @@
        "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nivel-de-conhecimento-e-prevencao-ao-cancer-de-prostata-cai-no-brasil"
       }
      ]
-    },
-    {
-     "kicker": "Dengue",
-     "quando": "06/11",
-     "titulo": "Fiocruz projeta 866 mil casos prováveis de dengue em 2027, com pico em abril",
-     "resumo": "A estimativa não inclui o efeito do El Niño, que pode elevar a transmissão sobretudo no Sul; Paraná, Rio, Mato Grosso do Sul e Minas estão entre os estados com alta prevista. Os pesquisadores dizem que não se espera uma epidemia como a de 2024, mas recomendam preparar a rede.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://metropoles.com/saude/fiocruz-projeta-866-mil-casos-de-dengue-em-2027-e-faz-alerta-sobre-el-nino"
-      },
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/bem-viver/2026/11/7533219-ministerio-da-saude-projeta-alta-da-dengue-em-2027.html"
-      }
-     ]
     }
    ]
   },
@@ -828,6 +835,26 @@
    "cor": "--edu",
    "nota": "Enem",
    "itens": [
+    {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Quem faltou ao primeiro dia do Enem por motivo previsto no edital pode pedir reaplicação de 16 a 20 de novembro",
+     "resumo": "Valem casos como doenças infectocontagiosas na semana da prova, falta de luz ou erro na aplicação, com comprovante enviado pela Página do Participante. Os afetados por apagões no Amapá, em Minas e no Rio têm a reaplicação garantida, em 15 e 16 de dezembro; o segundo dia de provas é neste domingo, com ciências da natureza e matemática.",
+     "fontes": [
+      {
+       "n": "RCN67/Agência Brasil",
+       "u": "https://www.rcn67.com.br/tres-lagoas/jpnews/reaplicacao-do-enem-2026-podera-ser-solicitada-de-16-a-20-de-novembro/"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/concursos-e-carreiras/faltou-ao-1o-dia-do-enem-2026-veja-se-pode-fazer-o-2o-dia-de-provas/"
+      },
+      {
+       "n": "Band",
+       "u": "https://www.band.com.br/educacao/faltou-ao-1o-dia-do-enem-2026-veja-se-pode-fazer-o-2o-dia-de-provas"
+      }
+     ]
+    },
     {
      "kicker": "Enem",
      "quando": "Ontem",
@@ -865,38 +892,6 @@
      ]
     },
     {
-     "kicker": "Reaplicação",
-     "quando": "Ontem",
-     "titulo": "Candidatos afetados por falta de luz farão o Enem em 15 e 16 de dezembro",
-     "resumo": "Quedas de energia atingiram 39 locais de prova, 36 deles no Rio, e o MEC diz que estudantes prejudicados por eventos climáticos também poderão refazer o exame. No primeiro dia, 4.359 participantes foram eliminados preliminarmente por descumprir regras.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
-      }
-     ]
-    },
-    {
-     "kicker": "Serviço",
-     "quando": "Ontem",
-     "titulo": "Segundo dia do Enem, no domingo, tem 90 questões de ciências da natureza e matemática",
-     "resumo": "A prova dura cinco horas e termina às 18h30 de Brasília. Quem faltou no primeiro domingo pode fazer o segundo, mas não tem direito à reaplicação.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica"
-      },
-      {
-       "n": "Sou Brasília",
-       "u": "https://soubrasilia.com/faltou-primeiro-dia-enem-2026-pode-fazer-segundo-dia-15-novembro-reaplicacao-edital/"
-      }
-     ]
-    },
-    {
      "kicker": "Pé-de-Meia",
      "quando": "Hoje",
      "titulo": "Pé-de-Meia paga nova parcela de R$ 200 entre 23 e 30 de novembro; MEC quer estender o programa a toda a rede pública",
@@ -923,11 +918,11 @@
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "Lula chega à COP31, em Antália, para a cúpula de líderes; financiamento a países vulneráveis trava a pauta",
+     "titulo": "Lula discursa na quarta na cúpula de líderes da COP31; financiamento a países vulneráveis trava a pauta",
      "resumo": "O presidente participa nesta terça e quarta da cúpula, de uma reunião sobre o fundo de florestas tropicais (TFFF) e de um encontro bilateral com Erdogan. Na negociação, proposta do grupo africano para pôr o financiamento de adaptação na agenda enfrenta resistência da União Europeia e do Canadá; a conferência vai até 20 de novembro.",
      "foto": {
-      "src": "fotos/floresta.jpg",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/f9Wv0_kbpgoYrLM1f030eQ2if-g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/06/0d7a2888.jpg.jpeg?itok=HgpOfqPl",
+      "credito": "Valter Campanato/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
@@ -945,30 +940,34 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
       }
      ]
     },
     {
      "kicker": "Tecnologia",
-     "quando": "Ontem",
-     "titulo": "Trump diz que o FBI investiga a relação do CEO da Nvidia com suposta espiã chinesa; ações caíram 4,3%",
-     "resumo": "Segundo o presidente americano, Jensen Huang negou saber que a mulher seria espiã. O caso derrubou os papéis da empresa na segunda, mas não contaminou o restante do setor de chips, segundo analistas.",
+     "quando": "Hoje",
+     "titulo": "Acionistas processam a Nvidia e Jensen Huang por omitir relação do CEO com suposta espiã chinesa",
+     "resumo": "A ação coletiva, apresentada na Califórnia, diz que a empresa inflou artificialmente o valor das ações ao não informar o caso; Trump afirmou que o FBI investiga. Huang admitiu aos funcionários ter sido infiel à esposa, a Nvidia abriu apuração interna e Pequim nega uma operação de espionagem.",
      "fontes": [
+      {
+       "n": "Swissinfo/AFP",
+       "u": "https://www.swissinfo.ch/por/nvidia-e-huang-enfrentam-a%C3%A7%C3%A3o-coletiva-por-rela%C3%A7%C3%A3o-com-suposta-espi%C3%A3-chinesa/92357435"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/mundo/2026/11/10/nvidia-fbi-esta-investigando-ceo-apos-caso-com-suposta-espia-chinesa-diz-trump"
+      },
+      {
+       "n": "IstoÉ Dinheiro",
+       "u": "https://istoedinheiro.com.br/trump-fbi-investiga-jensen-huang-ceo-nvidia"
+      },
       {
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/mercados/nvidia-cai-mais-de-4-apos-escandalo-mas-nao-afeta-setor-o-que-esperar-agora/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://cnnbrasil.com.br/economia/money/tecnologia/quem-e-jensen-huang-ceo-da-nvidia-investigado-por-affair-com-suposta-espia"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/suspeita-de-espionagem-chinesa-faz-acoes-da-nvidia-cairem"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/global/trump-nvidia-espionagem-chips-china/"
       }
      ]
     },
@@ -998,22 +997,22 @@
    "nota": "TV, música e cinema",
    "itens": [
     {
-     "kicker": "TV",
+     "kicker": "Artes",
      "quando": "Hoje",
-     "titulo": "\"Lá na Minha Terra\" estreia com 18 pontos na Grande São Paulo e supera a novela anterior das seis",
-     "resumo": "A trama de Mário Teixeira, com Dira Paes como uma mãe que criou cinco filhos após o sumiço do marido, teve pico de 19 pontos; a estreia de \"A Nobreza do Amor\", em março, havia marcado 17,3. A novela deve ter cerca de 200 capítulos, até junho de 2027.",
+     "titulo": "Esculturas de Aleijadinho saem do Brasil pela primeira vez para mostra nos Museus Vaticanos",
+     "resumo": "Sant'Ana Mestra, São Joaquim e São Manuel, do século 18, vêm de igrejas de Ouro Preto, Raposos e Caeté e ficam expostas de 17 de novembro a 13 de fevereiro no percurso que leva à Capela Sistina. A mostra marca os 200 anos de relações diplomáticas entre o Brasil e a Santa Sé.",
      "fontes": [
       {
-       "n": "O Planeta TV",
-       "u": "https://oplanetatv.clickgratis.com.br/noticias/audiencia-da-tv/la-na-minha-terra-estreia-em-alta-e-supera-audiencia-de-a-nobreza-do-amor.html"
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/gerais/2026/11/7535829-vaticano-sedia-a-partir-deste-mes-exposicao-com-obras-de-aleijadinho.html"
       },
       {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/cultura/estreia-de-la-na-minha-terra-conquista-o-publico-em-belem-1.1192357"
+       "n": "Dasartes",
+       "u": "https://dasartes.com.br/de-arte-a-z/aleijadinho-ganha-mostra-inedita-nos-museus-vaticanos/"
       },
       {
-       "n": "Observatório da TV",
-       "u": "https://observatoriodatv.com.br/critica-de-tv/la-na-minha-terra-encanta-com-visual-deslumbrante-mas-estreia-com-sensacao-de-novela-repetida"
+       "n": "Arquidiocese de BH",
+       "u": "https://arquidiocesebh.org.br/noticias/exposicao-no-vaticano-tera-imagens-mineiras-do-mestre-aleijadinho/"
       }
      ]
     },
@@ -1034,6 +1033,26 @@
       {
        "n": "Rolling Stone Brasil",
        "u": "https://rollingstone.com.br/musica/grammy-latino-2026-indicados/"
+      }
+     ]
+    },
+    {
+     "kicker": "TV",
+     "quando": "Ontem",
+     "titulo": "\"Lá na Minha Terra\" estreia com 18 pontos na Grande São Paulo e supera a novela anterior das seis",
+     "resumo": "A trama de Mário Teixeira e Marcos Lazarini, com Dira Paes e gravada na Chapada Diamantina, teve pico de 19 pontos; a estreia anterior da faixa havia marcado 17,3. Nas redes, parte do público criticou o retrato do Nordeste como estereotipado; a Globo não comentou.",
+     "fontes": [
+      {
+       "n": "O Planeta TV",
+       "u": "https://oplanetatv.clickgratis.com.br/noticias/audiencia-da-tv/la-na-minha-terra-estreia-em-alta-e-supera-audiencia-de-a-nobreza-do-amor.html"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/cultura/estreia-de-la-na-minha-terra-conquista-o-publico-em-belem-1.1192357"
+      },
+      {
+       "n": "Alô Alô Bahia",
+       "u": "https://aloalobahia.com/noticias/2026/11/09/gravada-na-bahia-la-na-minha-terra-estreia-com-enxurrada-de-criticas-festival-de-xenofobia/"
       }
      ]
     },
