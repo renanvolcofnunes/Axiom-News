@@ -1,46 +1,46 @@
 {
- "data": "Segunda-feira, 9 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "09/11/2026 · 19h05 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
+ "data": "Terça-feira, 10 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "10/11/2026 · 07h20 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
  "mercado_hora": "Cotações de 18h00",
- "fontes": 67,
+ "fontes": 64,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento",
+   "nome": "Ibovespa · fechamento de 09/11",
    "valor": "172.236 pts",
    "var": "+2,22%",
    "dir": "up"
   },
   {
-   "nome": "Dólar comercial · fechamento",
+   "nome": "Dólar comercial · fechamento de 09/11",
    "valor": "R$ 5,506",
    "var": "-0,06%",
    "dir": "down"
   },
   {
-   "nome": "Petróleo Brent · fechamento",
+   "nome": "Petróleo Brent · fechamento de 09/11",
    "valor": "US$ 92,57",
    "var": "-5,85%",
    "dir": "down"
   },
   {
-   "nome": "Nasdaq · fechamento",
+   "nome": "Nasdaq · fechamento de 09/11",
    "valor": "25.253 pts",
    "var": "+2,74%",
    "dir": "up"
   },
   {
-   "nome": "Selic fim de 2026 · Focus de hoje",
+   "nome": "Selic · decisão do Copom (ata hoje, 8h)",
    "valor": "13,75%",
-   "var": "era 13,50%",
-   "dir": "up"
+   "var": "Focus vê 13,75% no fim de 2026",
+   "dir": ""
   }
  ],
  "agenda": [
   {
    "hora": "Ter 10/11 · 8h",
-   "txt": "Ata do Copom; inflação ao consumidor dos EUA às 10h30; começam em Abu Dhabi as conversas entre EUA, Rússia e Ucrânia",
+   "txt": "Banco Central divulga a ata do Copom; às 10h30 sai a inflação ao consumidor (CPI) de outubro nos EUA",
    "cat": "economia"
   },
   {
@@ -49,9 +49,9 @@
    "cat": "politica"
   },
   {
-   "hora": "Qua 11/11",
-   "txt": "Lula discursa na abertura da cúpula de líderes da COP31; bancada do PL na Câmara decide se apoia Hugo Motta",
-   "cat": "ciencia"
+   "hora": "Ter 10/11 e Qua 11/11",
+   "txt": "Negociações entre Ucrânia e Rússia, com mediação dos EUA, em Abu Dhabi; Lula participa da cúpula de líderes da COP31 em Antália",
+   "cat": "mundo"
   },
   {
    "hora": "Qui 12/11",
@@ -162,44 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercado",
-  "titulo": "Ibovespa sobe 2,2% e fecha na máxima do dia, aos 172 mil pontos, com tombo do petróleo e alta em Nova York",
-  "resumo": "A bolsa ganhou mais de 3,7 mil pontos, puxada por Vale, bancos e frigoríficos, enquanto o dólar fechou praticamente estável, a R$ 5,506. A queda de quase 6% do Brent, depois de Trump dizer que um novo ataque ao Irã é improvável, animou os mercados globais.",
+  "kicker": "STF",
+  "titulo": "Fachin arquiva o inquérito das fake news depois de sete anos e meio; 104 apurações derivadas serão revistas uma a uma",
+  "resumo": "O presidente do STF atendeu ao pedido da PGR e encerrou, na noite de segunda, a investigação aberta em 2019 para apurar ataques e ameaças a ministros da Corte. Ações penais já abertas, condenações e acordos continuam valendo.",
   "foto": {
-   "src": "fotos/real.jpg",
-   "credito": "José Cruz/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/K-LHa2iu_ZeORwFUS4y-LeXcLKs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9256.jpg?itok=9EtzfhoB",
+   "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
   },
-  "entenda": "Foi o primeiro pregão depois do pronunciamento de domingo, em que Lula reafirmou o compromisso com as regras fiscais sem anunciar cortes de gastos; o ministro da Fazenda, Dario Durigan, disse que o pacote será discutido com o presidente na volta da viagem à COP31 e à Ásia, em 15 de novembro. Analistas atribuíram a alta principalmente ao exterior: com a perspectiva de menos risco de guerra no Golfo, o petróleo despencou, o índice do dólar no mundo recuou e as bolsas americanas subiram mais de 2%. No mercado interno, a cautela fiscal segurou o câmbio, e a remessa sazonal de dividendos ao exterior no fim do ano também pesa sobre o real. Na terça, sai a ata do Copom, que manteve a Selic em 13,75% na semana passada.",
+  "entenda": "O inquérito foi instaurado de ofício pelo então presidente do STF, Dias Toffoli, que designou Alexandre de Moraes como relator sem sorteio. Em 2020, o plenário validou a abertura por 10 votos a 1. Ao longo dos anos, a investigação levou a bloqueios de perfis em redes sociais, buscas contra empresários e mais de 1.600 ações penais, e foi alvo de críticas de entidades de imprensa e de juristas, sobretudo após a retirada de uma reportagem da revista Crusoé do ar em 2019. Fachin assumiu a relatoria em setembro, no lugar de Moraes, e disse que pretendia encerrar o caso. Na decisão, afirmou que a validação de 2020 não autorizava uma investigação sem prazo e que o objeto do inquérito se esgotou.",
   "fatos": [
-   "O Ibovespa fechou em 172.236 pontos (+2,22%), na máxima da sessão; na sexta, havia terminado em 168.498 pontos.",
-   "Minerva (+8,4%), MBRF (+11,4%) e Natura (+8,6%) lideraram as altas; Brava (-4%) e PRIO (-2,2%) caíram com o petróleo.",
-   "O Brent recuou 5,85%, a US$ 92,57; em Nova York, o Nasdaq subiu 2,74% e o S&P 500, 2,34%."
+   "Dos 104 procedimentos vinculados, só seguirão os que tiverem objeto próprio, justa causa e autoridade competente; quatro já foram analisados.",
+   "Dados bancários, fiscais e telefônicos irão para um apenso sigiloso; o sigilo do restante dos autos será levantado depois.",
+   "A decisão não trata da validade das provas, que ficará a cargo de cada juízo."
   ],
   "fontes": [
    {
-    "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-dispara-22-e-fecha-na-maxima-apos-alivio-no-exterior-dolar-fica-estavel-a-r-550-com-fiscal-no-radar/",
-    "d": "Fechamento do pregão"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/politica/entenda-decisao-de-fachin-que-arquivou-o-inquerito-das-fake-news/",
+    "d": "Fundamentos da decisão"
    },
    {
-    "n": "BPMoney",
-    "u": "https://bpmoney.com.br/mercado/ibovespa-sobe-222-fecha-maxima-172-mil-pontos/",
-    "d": "Altas e quedas"
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-encerra-o-polemico-inquerito-das-fake-news/",
+    "d": "Histórico e críticas"
    },
    {
-    "n": "Poder360",
-    "u": "https://www.poder360.com.br/poder-economia/dolar-cai-a-r-5505-ibovespa-sobe-222/",
-    "d": "Dólar e bolsa"
+    "n": "Gazeta Mercantil",
+    "u": "https://gazetamercantil.com/fachin-arquiva-inquerito-fake-news-104-procedimentos",
+    "d": "Procedimentos derivados"
    },
    {
-    "n": "Euronews",
-    "u": "https://pt.euronews.com/2026/11/09/trump-diz-que-eua-venceram-guerra-contra-o-irao-mas-rubio-admite-que-nao-houve-progressos-",
-    "d": "Trump e o Irã"
+    "n": "Campo Grande News",
+    "u": "https://www.campograndenews.com.br/politica/fachin-arquiva-inquerito-das-fake-news-apos-mais-de-7-anos-de-investigacao",
+    "d": "Arquivamento"
    },
    {
     "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31",
-    "d": "Medidas fiscais adiadas"
+    "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-pede-ao-supremo-arquivamento-do-inquerito-das-fake-news",
+    "d": "Pedido da PGR"
+   },
+   {
+    "n": "Times Brasil",
+    "u": "https://timesbrasil.com.br/brasil/dino-questiona-promessa-de-fim-de-investigacoes-apos-fachin-pedir-encerramento-de-inquerito-das-fake-news/",
+    "d": "Críticas de Dino"
    }
   ]
  },
@@ -208,31 +213,84 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "STF, Congresso e oposição",
+   "nota": "STF, PF e Senado",
    "itens": [
     {
-     "kicker": "STF",
+     "kicker": "Inquérito das fake news",
      "quando": "Hoje",
-     "titulo": "PGR pede ao Supremo o arquivamento definitivo do inquérito das fake news, aberto em 2019",
-     "resumo": "O pedido, sigiloso, foi enviado ao presidente do STF, Edson Fachin, que assumiu a relatoria em setembro no lugar de Alexandre de Moraes e já havia dito que pretende encerrar o caso. A PGR afirma que a investigação cumpriu seu objetivo e quer manter sob sigilo o material reunido, com mais de 12 mil páginas; não há prazo para a decisão.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/K-LHa2iu_ZeORwFUS4y-LeXcLKs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9256.jpg?itok=9EtzfhoB",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     },
-     "fontes": [
+     "titulo": "Arquivamento divide opiniões: críticos viam investigação sem fim; defensores lembram que o plenário a validou",
+     "resumo": "A decisão de Fachin encerra a coleta de provas, mas mantém ações penais e condenações já existentes. O debate sobre o inquérito acompanhou toda a sua duração e voltou à tona com o caso Banco Master.",
+     "destaque": false,
+     "lados": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-pede-ao-supremo-arquivamento-do-inquerito-das-fake-news"
+       "quem": "Críticos do inquérito",
+       "txt": "Entidades de imprensa, juristas e a OAB apontaram natureza perpétua, concentração de poderes em um só ministro e medidas tomadas sem consulta prévia à PGR, como a retirada de reportagem da Crusoé em 2019."
       },
       {
-       "n": "Imirante",
-       "u": "https://imirante.com/noticias/brasil/2026/11/09/ipolitica-stf-avalia-encerrar-inquerito-fake-news-apos-7-anos"
+       "quem": "Defensores do inquérito",
+       "txt": "O STF validou a abertura por 10 a 1 em 2020, e a investigação gerou mais de 1.600 ações penais. Em setembro, Flávio Dino questionou se um juiz pode prometer o fim de uma apuração e defendeu que inquéritos terminem por denúncia ou arquivamento técnico."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-encerra-o-polemico-inquerito-das-fake-news/"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/dino-questiona-promessa-de-fim-de-investigacoes-apos-fachin-pedir-encerramento-de-inquerito-das-fake-news/"
+      },
+      {
+       "n": "Gazeta Mercantil",
+       "u": "https://gazetamercantil.com/fachin-arquiva-inquerito-fake-news-104-procedimentos"
+      }
+     ]
+    },
+    {
+     "kicker": "Polícia Federal",
+     "quando": "Hoje",
+     "titulo": "Direção da PF manda reescrever relatórios sobre ligações de ministros do STF com Daniel Vorcaro",
+     "resumo": "Os três relatórios citam Nunes Marques, Alexandre de Moraes e Dias Toffoli e usam dados de celulares apreendidos na Operação Compliance Zero. A cúpula da PF considerou as versões analíticas demais e pediu textos apenas descritivos, como solicitou Fachin; as novas versões devem chegar ao STF até o fim do mês.",
+     "lados": [
+      {
+       "quem": "Direção da PF",
+       "txt": "Diz que os textos iam além do permitido e que a troca de dois delegados faz parte de uma reestruturação iniciada em outubro, sem efeito sobre as investigações."
+      },
+      {
+       "quem": "Críticos internos",
+       "txt": "Policiais ouvidos sob reserva viram nas trocas um sinal de desagrado com o conteúdo dos relatórios; os ministros citados não se manifestaram."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/poder/direcao-da-pf-determina-reformulacao-de-relatorios-sobre-ministros-e-vorcaro/"
+      }
+     ]
+    },
+    {
+     "kicker": "Senado",
+     "quando": "Hoje",
+     "titulo": "Aliados de Rogério Marinho temem que Alcolumbre mude a regra e evite segundo turno na eleição do Senado",
+     "resumo": "O receio é que a Mesa passe a considerar eleito quem tiver maioria simples dos presentes, sem exigir 41 votos, entendimento hoje baseado em uma resposta da presidência de 2018. A eleição é em 1º de fevereiro e tem também Tereza Cristina (PP-MS) como candidata; Alcolumbre não comentou o tema.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-marinho-temem-que-alcolumbre-impeca-2o-turno-no-senado"
+      },
+      {
+       "n": "Congresso em Foco",
+       "u": "https://www.congressoemfoco.com.br/noticia/131331/alcolumbre-e-marinho-largam-proximos-em-disputa-aberta-pelo-senado"
+      },
+      {
+       "n": "Bahia Notícias",
+       "u": "https://www.bahianoticias.com.br/noticia/323464-alcolumbre-e-tereza-acenam-ao-pl-em-busca-de-apoio-para-o-comando-do-senado"
       }
      ]
     },
     {
      "kicker": "Apostas",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Fux suspende ações de 29 marcas de bets que tentavam voltar a operar e leva a disputa ao plenário do STF",
      "resumo": "O ministro congelou os processos na Justiça Federal contra a medida provisória que paralisou as apostas on-line em setembro, a pedido da PGR, e disse que decisões conflitantes criavam insegurança jurídica. A análise da constitucionalidade da MP deve ficar para 2027.",
      "lados": [
@@ -261,66 +319,8 @@
      ]
     },
     {
-     "kicker": "Congresso",
-     "quando": "Hoje",
-     "titulo": "Alcolumbre busca votos no PL para se reeleger no Senado; Marinho e Tereza Cristina dizem que a oposição terá um só nome",
-     "resumo": "O presidente do Senado diz contar com 48 votos, e Rogério Marinho (PL-RN), lançado pelo partido na semana passada, afirma ter pelo menos 40; são necessários 41 dos 81 em votação secreta, em 1º de fevereiro. Na Câmara, a bancada do PL chega dividida à reunião de quarta que decide se apoia a reeleição de Hugo Motta.",
-     "fontes": [
-      {
-       "n": "ISN Online",
-       "u": "https://isnonline.com.br/2026/11/09/alcolumbre-e-tereza-cristina-buscam-apoio-do-pl-na-disputa-pelo-senado/"
-      },
-      {
-       "n": "O Hoje",
-       "u": "https://ohoje.com/2026/11/09/pl-lanca-rogerio-marinho-para-disputar-presidencia-do-senado-contra-alcolumbre/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/direita-articula-sucessao-no-congresso-e-define-pautas-de-oposicao-ao-governo/"
-      },
-      {
-       "n": "PB Agora",
-       "u": "https://www.pbagora.com.br/noticia/politica/pl-divide-se-na-camara-entre-candidatura-propria-e-apoio-a-reeleicao-de-hugo-motta/"
-      }
-     ]
-    },
-    {
-     "kicker": "Pesquisa",
-     "quando": "Ontem",
-     "titulo": "Quaest: 56% acham que Flávio Bolsonaro deixou o país para fugir da Justiça; 35% veem proteção contra perseguição",
-     "resumo": "O levantamento ouviu 2.004 pessoas entre 30 de outubro e 2 de novembro; 89% sabiam do episódio, e entre eleitores do senador no segundo turno 32% acham que ele errou. Flávio segue nos EUA, e deputados democratas cobram do secretário de Estado, Marco Rubio, respostas sobre a entrada dele até sexta.",
-     "lados": [
-      {
-       "quem": "Flávio Bolsonaro",
-       "txt": "Em nota, o senador disse não se arrepender da viagem e acusou o ministro Alexandre de Moraes de perseguição política."
-      },
-      {
-       "quem": "Investigação",
-       "txt": "A saída ocorreu apesar da ordem do STF para entregar os passaportes; o senador é investigado por ligações com um advogado suspeito de lavagem e por repasses de Daniel Vorcaro ao filme \"Dark Horse\"."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/56-acham-que-flavio-bolsonaro-deixou-brasil-para-fugir-da-justica/"
-      },
-      {
-       "n": "Poder360",
-       "u": "https://www.poder360.com.br/poder-justica/flavio-fala-em-perseguicao-de-moraes-e-anuncia-reacao-juridica/"
-      },
-      {
-       "n": "A Tarde",
-       "u": "https://atarde.com.br/politica/flavio-bolsonaro-alega-perseguicao-politica-e-diz-que-nao-se-arrepende-ida-aos-eua-1407969"
-      },
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/mundo/cinco-datas-que-mexem-com-o-brasil-entre-9-e-20-de-novembro-juros-clima-flavio-apec-e-tarifas/"
-      }
-     ]
-    },
-    {
      "kicker": "Judiciário",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Fux suspende punição do CNJ à juíza Gabriela Hardt, da Lava Jato",
      "resumo": "Em liminar, o ministro entendeu que o conselho perdeu o prazo de cinco anos para abrir o processo e que não ficou demonstrada intenção de favorecer alguém. A juíza, afastada por dois anos com salário proporcional desde agosto, volta a receber vencimentos integrais até o julgamento do mandado de segurança.",
      "fontes": [
@@ -340,11 +340,55 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Fechamento do mercado",
+   "nota": "Ata do Copom e inflação nos EUA",
    "itens": [
     {
-     "kicker": "Bolsa",
+     "kicker": "Agenda do dia",
      "quando": "Hoje",
+     "titulo": "Ata do Copom sai às 8h e inflação dos EUA às 10h30; bolsa vem de alta de 2,2%",
+     "resumo": "O documento detalha a decisão que manteve a Selic em 13,75%, e o CPI de outubro pode mudar as apostas sobre os juros nos EUA. Na segunda, o Ibovespa fechou em 172.236 pontos, na máxima do dia, e o dólar ficou estável, a R$ 5,506, com o tombo de quase 6% do petróleo.",
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/agenda-economica-ata-do-copom-e-inflacao-dos-eua-podem-mexer-com-bolsa-e-dolar-nesta-terca-feira-mlem/"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-dispara-22-e-fecha-na-maxima-apos-alivio-no-exterior-dolar-fica-estavel-a-r-550-com-fiscal-no-radar/"
+      },
+      {
+       "n": "Poder360",
+       "u": "https://www.poder360.com.br/poder-economia/dolar-cai-a-r-5505-ibovespa-sobe-222/"
+      }
+     ]
+    },
+    {
+     "kicker": "Energia",
+     "quando": "Ontem",
+     "titulo": "Aneel propõe conta de luz com preço por horário para 5,7 milhões de consumidores a partir de 2028",
+     "resumo": "A área técnica sugere tornar obrigatória, em etapas, a Tarifa Hora Certa (nova tarifa branca) para quem consome a partir de 500 kWh por mês, começando em abril de 2028 pelos maiores consumidores. Energia fica mais cara no horário de ponta, no início da noite, e mais barata no resto do dia; baixa renda fica de fora. A proposta ainda vai à diretoria da agência.",
+     "foto": {
+      "src": "fotos/luz.jpg",
+      "credito": "Arquivo/Agência Brasil"
+     },
+     "fontes": [
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/financas/2026/11/09/1017351-area-tecnica-da-aneel-propoe-tarifa-por-horario-automatica-para-57-milhoes-de-consumidores-a-partir-de-2028"
+      },
+      {
+       "n": "Midiamax",
+       "u": "https://midiamax.com.br/brasil/2026/aneel-propoe-tarifa-hora-certa-reduzir-valor-funcao-horario/"
+      },
+      {
+       "n": "Jornal Pequeno",
+       "u": "https://jornalpequeno.com.br/2026/11/10/aneel-quer-cobranca-de-luz-por-horario-a-partir-de-2028/"
+      }
+     ]
+    },
+    {
+     "kicker": "Bolsa",
+     "quando": "Ontem",
      "titulo": "Frigoríficos e Natura lideram a alta do Ibovespa; petroleiras caem com o Brent",
      "resumo": "MBRF subiu 11,4%, Natura 8,6% e Minerva 8,4%, e Vale e bancos sustentaram o índice, que ganhou mais de 3,7 mil pontos desde a abertura. Brava e PRIO recuaram com o petróleo, e os juros futuros fecharam em queda em quase todos os vencimentos.",
      "fontes": [
@@ -364,7 +408,7 @@
     },
     {
      "kicker": "Pix",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Pix bate recorde e passa de 319 milhões de transações em um dia",
      "resumo": "Na sexta-feira, 6, o sistema registrou 319,7 milhões de transferências, superando a marca de 4 de setembro, segundo o Banco Central. O valor movimentado, R$ 180,5 bilhões, foi o segundo maior da história.",
      "foto": {
@@ -380,7 +424,7 @@
     },
     {
      "kicker": "Focus",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Mercado passa a prever Selic de 13,75% no fim de 2026 e eleva a inflação esperada para 2027",
      "resumo": "Na pesquisa semanal do Banco Central, a mediana para os juros no fim do ano subiu de 13,50% para 13,75%, nível em que o Copom manteve a taxa na quarta passada. O IPCA de 2026 ficou em 5,22%, o de 2027 subiu para 4,90%, e o PIB de 2026 segue em 1,75%.",
      "fontes": [
@@ -397,48 +441,6 @@
        "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09112026/"
       }
      ]
-    },
-    {
-     "kicker": "Exportação",
-     "quando": "Hoje",
-     "titulo": "Filipinas suspendem por 60 dias importações de carne suína do Brasil e de outros fornecedores",
-     "resumo": "O país é o maior comprador da carne suína fresca brasileira, com US$ 530,9 milhões de janeiro a setembro, cerca de 21% do total. O Ministério da Agricultura acompanha o caso, e a associação do setor, ABPA, vai integrar a comitiva de Lula a Manila nesta semana para tentar reverter a medida.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/filipinas-suspendem-importacao-de-carne-suina-brasileira-por-60-dias"
-      }
-     ]
-    },
-    {
-     "kicker": "Fiscal",
-     "quando": "Hoje",
-     "titulo": "Economistas cobram detalhes do ajuste após discurso que reafirmou as regras fiscais",
-     "resumo": "Analistas reconhecem o diagnóstico sobre dívida e juros, mas dizem que faltaram medidas para estabilizar as contas. A Fazenda afirma que o pacote será discutido com Lula na volta da viagem.",
-     "lados": [
-      {
-       "quem": "Críticos",
-       "txt": "Sérgio Vale (MB Associados) e Roberto Troster disseram que o discurso apontou para mais gastos; Hugh Harley (Aurum) vê risco de 2027 começar parecido com 2015."
-      },
-      {
-       "quem": "Avaliação mista e governo",
-       "txt": "Gesner Oliveira (GO Associados) considerou corretas as preocupações com dívida e juros, embora genéricas; o governo diz que vai detalhar as medidas após a viagem."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/como-o-mercado-viu-o-pronunciamento-de-lula-a-nacao/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/por-que-o-ibovespa-sobe-1-nesta-2a-mesmo-com-queda-de-commodities-e-cautela-fiscal/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31"
-      }
-     ]
     }
    ]
   },
@@ -449,32 +451,32 @@
    "nota": "Frio e segurança",
    "itens": [
     {
-     "kicker": "Tempo",
+     "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Frio fora de época põe 748 cidades de Minas sob alerta do Inmet; Grande ABC não passa de 16°C",
-     "resumo": "A massa de ar polar trazida por frentes frias derrubou as temperaturas em 3°C a 5°C em Minas, e Belo Horizonte teve máxima de cerca de 20°C, com chuva. No Sul, frio e chuva continuam, mas a previsão é de aquecimento gradual ao longo da semana.",
+     "titulo": "BH amanhece com 12,6°C e frio fora de época deve seguir no Sudeste até sexta",
+     "resumo": "A passagem de uma frente fria pelo litoral do Sudeste mantém as temperaturas baixas; em Belo Horizonte, a máxima não deve passar de 19°C, com chance de chuva. Curitiba teve 9°C ao amanhecer, e na segunda 748 cidades de Minas estavam sob alerta do Inmet.",
      "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/cidades/2026/11/10/bh-tem-manha-fria-e-maxima-nao-deve-passar-dos-19-c-nesta-terca-feira"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/minas-gerais/bh-pode-ter-12c-nesta-terca-feira-veja-ate-quando-vai-o-frio-em-minas"
+      },
+      {
+       "n": "Brasil 61",
+       "u": "https://brasil61.com/n/o-tempo-e-a-temperatura-terca-feira-de-frio-ao-amanhecer-com-9-c-em-curitiba-e-tempo-seco-no-rs-ptrs264500"
+      },
       {
        "n": "Estado de Minas",
        "u": "https://www.em.com.br/gerais/2026/11/7535558-queda-de-temperatura-coloca-748-cidades-de-minas-sob-alerta-do-inmet.html"
-      },
-      {
-       "n": "DGABC",
-       "u": "https://www.dgabc.com.br/Noticia/4367614/frio-persiste-e-termometros-nao-passam-de-16%C2%B0c-no-grande-abc"
-      },
-      {
-       "n": "Carta Capital",
-       "u": "https://www.cartacapital.com.br/cartalab/regiao-sul-tem-frio-e-chuva-mas-temperaturas-sobem-durante-a-semana/"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/brasil/massa-de-ar-polar-derruba-temperaturas-nesta-segunda-feira/"
       }
      ]
     },
     {
      "kicker": "Segurança",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "PM reforça policiamento no Subúrbio de Salvador após mensagens com ameaças de toque de recolher",
      "resumo": "As mensagens, atribuídas a facções, circularam em bairros como Lobato, Plataforma e São Caetano, onde ao menos quatro homicídios foram registrados na semana passada. Duas companhias da PM intensificaram o patrulhamento, segundo o comando regional.",
      "fontes": [
@@ -486,7 +488,7 @@
     },
     {
      "kicker": "Golpes",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Operação em sete estados mira esquema de bets ilegais que usou vídeo falso de Frei Gilson",
      "resumo": "A Polícia Civil de Goiás bloqueou quase R$ 40 milhões em bens de um grupo que, segundo a investigação, simulava pedidos de doação com a imagem do padre e usava fintechs para movimentar o dinheiro. Um dos alvos mora nos Estados Unidos e tem mandado de prisão com difusão vermelha da Interpol.",
      "fontes": [
@@ -498,7 +500,7 @@
     },
     {
      "kicker": "Temporais",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Celesc faz mobilização máxima na região de Chapecó; 90% da energia já foi religada em Santa Catarina",
      "resumo": "Os temporais desde quarta deixaram mais de 247 mil unidades sem luz no estado, e novas tempestades no sábado provocaram outro pico, de 82 mil. Mais de 500 profissionais atuam no Oeste, mas a companhia não deu prazo para a normalização total.",
      "fontes": [
@@ -521,68 +523,102 @@
    "nota": "Internacional",
    "itens": [
     {
+     "kicker": "Guerra na Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Ucrânia e Rússia voltam a negociar em Abu Dhabi, com mediação dos EUA, após nove meses sem diálogo direto",
+     "resumo": "As conversas devem durar dois dias e têm as garantias de segurança para Kiev como tema central; Marco Rubio disse que ainda não há plano final. Território segue como principal impasse, e a Rússia afirmou ter derrubado 155 drones ucranianos durante a noite.",
+     "fontes": [
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/liveblogs/comecam-hoje-as-negociacoes-entre-kiev-e-moscovo-em-abu-dhabi-estados-unidos-confiantes-em-fim-definitivo-para-a-guerra/"
+      },
+      {
+       "n": "DN",
+       "u": "https://www.dn.pt/internacional/nove-meses-depois-ucrnia-rssia-e-eua-retomam-negociaes-para-tentar-pr-fim-guerra"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/mundo/com-mediacao-dos-eua-russia-e-ucrania-voltam-a-mesa-de-negociacoes-em-abu-dhabi/"
+      }
+     ]
+    },
+    {
      "kicker": "EUA",
      "quando": "Hoje",
-     "titulo": "Trump alega fraude, sem apresentar provas, nas eleições em que os democratas tomaram a Câmara e o Senado",
-     "resumo": "O presidente citou diferenças entre pesquisas e resultados e criticou as urnas eletrônicas, depois de ter reconhecido a vitória democrata na semana passada. Com a contagem quase concluída, os democratas têm 254 cadeiras na Câmara e 54 no Senado.",
+     "titulo": "Deputado republicano apresenta oito artigos de impeachment contra o secretário de Defesa, Pete Hegseth",
+     "resumo": "Thomas Massie acusa Hegseth de conduzir a guerra contra o Irã sem autorização do Congresso e cita ainda ataques a barcos no Caribe e a captura de Maduro; uma votação pode ocorrer nesta semana. Hegseth chamou a iniciativa de farsa de um congressista derrotado, e o líder democrata Hakeem Jeffries disse apoiar.",
+     "lados": [
+      {
+       "quem": "Autor do pedido",
+       "txt": "Massie, que deixa o mandato após perder a primária, afirma que Hegseth cometeu atos passíveis de impeachment em oito ocasiões."
+      },
+      {
+       "quem": "Hegseth",
+       "txt": "Classificou os artigos como teatro político de um parlamentar descontente e derrotado."
+      }
+     ],
      "fontes": [
       {
-       "n": "Diário RO",
-       "u": "https://www.diarioro.com.br/2026/11/09/trump-questiona-eleicoes-nos-eua-e-fala-em-fraude-sem-apresentar-provas/"
+       "n": "CBS News",
+       "u": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/"
       },
       {
-       "n": "Rádio Pampa",
-       "u": "https://www.radiopampa.com.br/trump-alega-fraude-sem-provas-nas-eleicoes-de-meio-de-mandato-dos-estados-unidos/"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/10/congressista-republicano-apresenta-oito-artigos-para-destituir-secretario-da-defesa-dos-eu"
       },
       {
-       "n": "Notícia Max",
-       "u": "https://www.noticiamax.com.br/internacional/derrotado-trump-alega-fraude-sem-provas-nas-eleicoes-nos-eua/199077"
+       "n": "Axios",
+       "u": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war"
       }
      ]
     },
     {
-     "kicker": "Irã",
+     "kicker": "Oriente Médio",
      "quando": "Hoje",
-     "titulo": "Irã exige fim de sanções e do bloqueio antes de negociar; petroleiros atingem minas em Ormuz",
-     "resumo": "Teerã respondeu a Marco Rubio, que vê exigências irrealistas e nenhum avanço, dizendo que os EUA devem encerrar sanções, bloqueio naval e guerra primeiro. A Guarda Revolucionária relatou dois petroleiros em chamas após atingirem minas, e Trump, que vê novo ataque como improvável, conversou com o emir do Catar.",
+     "titulo": "Explosões são ouvidas em Riad após Arábia Saudita interceptar mísseis lançados pelos houthis",
+     "resumo": "A coalizão liderada pelos sauditas diz ter destruído um míssil balístico e um de cruzeiro; não há registro de vítimas. Separadamente, os EUA retiraram aviões da base britânica de Mildenhall por causa de uma ameaça atribuída ao Irã, segundo o Wall Street Journal; o Irã nega planos contra bases no Reino Unido.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/09/trump-diz-que-eua-venceram-guerra-contra-o-irao-mas-rubio-admite-que-nao-houve-progressos-"
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/10/explosoes-ouvidas-na-capital-da-arabia-saudita-e-missil-balistico-intercetado/"
       },
-      {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/09/trump-says-us-has-won-iran-war-as-rubio-reports-no-progress-in-talks"
-      },
-      {
-       "n": "ADVFN",
-       "u": "https://br.advfn.com/jornal/2026/11/petroleo-recua-trump-diplomacia-ira-brent-97-dolares-9-novembro-2026"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Delegação russa chega a Abu Dhabi para conversas com EUA e Ucrânia depois de noite com 317 drones",
-     "resumo": "As negociações, mediadas por Washington e previstas para dois dias a partir de terça, terão a Rússia representada por Vladimir Medinsky. Um ataque em Odessa matou três pessoas e atingiu um depósito de alimentos para escolas, e a Ucrânia bombardeou uma refinaria perto de São Petersburgo.",
-     "fontes": [
       {
        "n": "O Liberal",
-       "u": "https://www.oliberal.com/mundo/russia-e-ucrania-intensificam-ataques-antes-de-conversas-mediadas-pelos-eua-em-abu-dhabi-1.1192136"
+       "u": "https://www.oliberal.com/mundo/arabia-saudita-diz-ter-interceptado-missil-lancado-pelos-houthis-contra-riad-1.1170843"
       },
       {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/geral/2026/11/09/1017285-delegacao-russa-chega-a-abu-dhabi-para-negociacoes-sobre-a-ucrania"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/eua-retiram-avioes-de-base-no-reino-unido-apos-ameaca-do-ira-diz-jornal/"
       },
       {
-       "n": "Jornal Económico",
-       "u": "https://jornaleconomico.sapo.pt/noticias/ucrania-guterres-espera-que-conversacoes-de-paz-levem-a-progressos/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/eua-retira-avioes-de-segunda-base-britanica-devido-a-ameaca-do-ira"
+      }
+     ]
+    },
+    {
+     "kicker": "Paraguai",
+     "quando": "Ontem",
+     "titulo": "Itaipu tinha o equivalente a R$ 1 bilhão no Ueno Bank e tenta reaver o dinheiro na Justiça paraguaia",
+     "resumo": "O lado paraguaio da usina mantinha cerca de US$ 182 milhões no banco digital, dissolvido em 3 de novembro por insolvência; a empresa diz que as operações não serão afetadas. O caso levou ao impeachment e à prisão preventiva do ex-presidente Santiago Peña, que foi acionista do grupo controlador.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/itaipu-tinha-saldo-equivalente-a-r-1-bilhao-em-banco-falido-do-paraguai"
+      },
+      {
+       "n": "O Presente",
+       "u": "https://www.opresente.com.br/geral/crise-no-ueno-bank-itaipu-paraguaia-tinha-cerca-de-r-1-bilhao-no-banco-e-aciona-ministerio-publico/"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/mundo/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena-apos-impeachment/"
       }
      ]
     },
     {
      "kicker": "Vaticano",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Papa Leão XIV celebra missa campal para multidão em Buenos Aires, com Milei presente",
      "resumo": "Na homilia, em Palermo, o papa defendeu a família diante de problemas como trabalho precário e violência doméstica e lembrou Francisco; o Metrópoles fala em cerca de 2 milhões de pessoas. Na véspera, ao criticar políticas de austeridade, ele disse que a economia deve servir às pessoas; o governo diz que o ajuste é necessário para conter a inflação.",
      "fontes": [
@@ -599,36 +635,6 @@
        "u": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-chega-a-argentina-2-etapa-da-viagem-apostolica.html"
       }
      ]
-    },
-    {
-     "kicker": "Paraguai",
-     "quando": "Hoje",
-     "titulo": "Destituído, Santiago Peña é acusado formalmente e tem bens bloqueados no caso Ueno Bank",
-     "resumo": "O ex-presidente, afastado pelo Senado na sexta e preso preventivamente no sábado, responde por lesão de confiança e administração em proveito próprio. O Ministério Público estima prejuízo preliminar de US$ 809,5 milhões; o vice Pedro Alliana assumiu até 2028.",
-     "lados": [
-      {
-       "quem": "Acusação",
-       "txt": "Os promotores afirmam que Peña favoreceu o grupo controlador do banco e se omitiu na fiscalização; o juiz viu risco de fuga."
-      },
-      {
-       "quem": "Defesa",
-       "txt": "Os advogados contestam o risco de fuga, dizem não haver indício de obstrução e lembram que ele já não ocupa o cargo."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/mundo/justica-do-paraguai-decreta-prisao-preventiva-de-santiago-pena-apos-impeachment/"
-      },
-      {
-       "n": "Piranot",
-       "u": "https://www.piranot.com.br/2026/11/09/noticias/economia/ueno-bank-prejuizo-santiago-pena/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/justica-paraguaia-ordena-prisao-de-santiago-pena-por-rombo-milionario-em-banco/"
-      }
-     ]
     }
    ]
   },
@@ -636,31 +642,47 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Seleção em Singapura e Brasileirão",
+   "nota": "Seleção em Singapura",
    "itens": [
     {
      "kicker": "Seleção",
      "quando": "Hoje",
-     "titulo": "Com 12 jogadores, entre eles Vini Jr. e Endrick, Ancelotti faz o primeiro treino em Singapura; Danilo é cortado",
-     "resumo": "Quem atuou pelos clubes europeus no fim de semana descansou, e os convocados de times brasileiros chegam nos próximos dias. O volante do Botafogo sofreu lesão e não terá substituto; o Brasil enfrenta o Japão no sábado, às 7h15, e Singapura no dia 17, às 7h.",
+     "titulo": "Seleção completa o grupo em Singapura nesta semana; Endrick e Allan dão a primeira entrevista",
+     "resumo": "Depois do primeiro treino com parte do elenco, o segundo estava marcado para as 5h de Brasília desta terça, com a maioria dos 25 convocados; Alisson Santana e Marlon Gomes chegam no fim do dia, e o grupo deve estar completo na quarta. O Brasil enfrenta o Japão no sábado, às 7h15, e Singapura na terça, 17.",
+     "fontes": [
+      {
+       "n": "Bahia Notícias",
+       "u": "https://www.bahianoticias.com.br/esportes/noticia/80954-selecao-brasileira-tera-coletiva-e-treino-nesta-terca-em-singapura"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/brasil/selecao-brasileira-realiza-primeiro-treino-na-asia-de-olho-em-amistosos-contra-japao-e-singapura/"
+      },
+      {
+       "n": "bahia.ba",
+       "u": "https://bahia.ba/esporte/ancelotti-inicia-treinos-do-brasil-com-vini-jr-e-endrick-em-singapura/"
+      }
+     ]
+    },
+    {
+     "kicker": "Tênis",
+     "quando": "Ontem",
+     "titulo": "Dois torcedores morrem de parada cardíaca no ATP Finals, em Turim; Sinner estreia com vitória",
+     "resumo": "Um homem de 70 anos passou mal na arquibancada durante Fritz x Musetti, e outro, de 78, na área de convivência do torneio; ambos foram socorridos, mas morreram. Em quadra, Sinner bateu Auger-Aliassime por 7/5 e 6/1, e Fritz venceu Musetti por 6/3 e 6/4.",
      "fontes": [
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/endrick-e-vini-jr-vao-a-campo-no-primeiro-treino-da-selecao-em-singapura/"
+       "u": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-duas-pessoas-morrem-no-segundo-dia-de-atp-finals/"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/selecao-brasileira/com-metade-do-grupo-ancelotti-comanda-primeiro-treino-da-selecao.html"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/11/9/selecao-brasileira-inicia-treinos-em-singapura-para-ultimos-amistosos-do-ano-veja-programacao"
+       "n": "Flashscore",
+       "u": "https://www.flashscore.com.br/noticias/tenis-finais-turim-atp-simples-dois-torcedores-morrem-de-parada-cardiaca-no-segundo-dia-do-atp-finals-em-turim/nDQ84IOO/"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Vitória acerta com Rafael Lacerda, que deixa a lanterna Chapecoense, para fugir do rebaixamento",
      "resumo": "O time baiano é o 15º, com 38 pontos, um à frente do Corinthians, primeiro na zona de rebaixamento, e não vence há cinco rodadas. A estreia do técnico deve ser em 19 de novembro, quando o campeonato já terá voltado da Data Fifa.",
      "fontes": [
@@ -679,10 +701,26 @@
      ]
     },
     {
-     "kicker": "Copa do Brasil",
+     "kicker": "Série B",
      "quando": "Ontem",
-     "titulo": "Palmeiras elimina o Vasco nos pênaltis e decide a Copa do Brasil com o Grêmio em 6 de dezembro, em Brasília",
-     "resumo": "O Vasco venceu por 2 a 1 em São Januário, com gols de Colidio e Puma Rodríguez, e empatou o agregado; nos pênaltis, o Palmeiras ganhou por 5 a 4, com defesa decisiva de Carlos Miguel. A final em jogo único será no Mané Garrincha e vale R$ 78 milhões ao campeão; com a classificação, o Palmeiras já garantiu vaga na Libertadores de 2027. Antes, em 28 de novembro, o time enfrenta o Estudiantes na final da Libertadores, em Montevidéu.",
+     "titulo": "Fortaleza demite Paulo Autuori depois de derrota que tirou o acesso direto à Série A",
+     "resumo": "O time perdeu por 2 a 1 para o Novorizontino na 37ª rodada e encerrou uma série de 17 jogos invicto. Autuori deixa o cargo após 104 dias, e o clube ainda disputa a volta à elite no mata-mata.",
+     "fontes": [
+      {
+       "n": "Piranot",
+       "u": "https://www.piranot.com.br/2026/11/09/noticias/esporte/fortaleza-demite-paulo-autuori/"
+      },
+      {
+       "n": "Mais Goiás",
+       "u": "https://www.maisgoias.com.br/esportes/futebol/brasileirao-serie-b/proximo-adversario-do-vila-nova-demite-tecnico-que-teve-apenas-uma-derrota-na-serie-b/"
+      }
+     ]
+    },
+    {
+     "kicker": "Copa do Brasil",
+     "quando": "08/11",
+     "titulo": "Palmeiras decide a Copa do Brasil com o Grêmio em 6 de dezembro e a Libertadores com o Estudiantes em 28 de novembro",
+     "resumo": "O time eliminou o Vasco nos pênaltis no domingo e chega às duas finais. A decisão da Libertadores será no sábado, 28, às 17h, no Centenário, em Montevidéu; a final da Copa do Brasil será em Brasília.",
      "fontes": [
       {
        "n": "ND+",
@@ -699,46 +737,10 @@
       {
        "n": "Gazeta Esportiva",
        "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
-      }
-     ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Ontem",
-     "titulo": "Norris vence o GP de São Paulo na chuva, Verstappen sai de 21º para 2º e Mercedes garante o título de construtores",
-     "resumo": "Largando da pole na chuva, o britânico da McLaren venceu em Interlagos, e Max Verstappen ganhou 19 posições para terminar em segundo. A Mercedes garantiu o título de construtores; Kimi Antonelli, da equipe, já havia sido confirmado campeão de pilotos no México. A próxima etapa é em Las Vegas, em 22 de novembro.",
-     "fontes": [
-      {
-       "n": "Formula 1",
-       "u": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/automobilismo/bortoleto-e-camara-sofrem-com-chuva-e-ficam-no-fim-do-pelotao-em-sao-paulo/"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/velocidade/formula-1/norris-vence-o-gp-de-sao-paulo-bortoleto-e-16o-e-camara-20o"
-      },
-      {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/en/f1/2026-f1-standings-after-sao-paulo-gp-as-mercedes-clinches-title-and-verstappen-extends-lead-over-russell/"
-      }
-     ]
-    },
-    {
-     "kicker": "Série B",
-     "quando": "Ontem",
-     "titulo": "Fortaleza demite Paulo Autuori depois de derrota que tirou o acesso direto à Série A",
-     "resumo": "O time perdeu por 2 a 1 para o Novorizontino na 37ª rodada e encerrou uma série de 17 jogos invicto. Autuori deixa o cargo após 104 dias, e o clube ainda disputa a volta à elite no mata-mata.",
-     "fontes": [
-      {
-       "n": "Piranot",
-       "u": "https://www.piranot.com.br/2026/11/09/noticias/esporte/fortaleza-demite-paulo-autuori/"
-      },
-      {
-       "n": "Mais Goiás",
-       "u": "https://www.maisgoias.com.br/esportes/futebol/brasileirao-serie-b/proximo-adversario-do-vila-nova-demite-tecnico-que-teve-apenas-uma-derrota-na-serie-b/"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
       }
      ]
     }
@@ -748,11 +750,27 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Sarampo, mpox e Novembro Azul",
+   "nota": "Sarampo, clima e dengue",
    "itens": [
     {
+     "kicker": "COP31",
+     "quando": "Ontem",
+     "titulo": "Brasil lança na COP31 guia para financiar o plano de saúde e clima aprovado em Belém",
+     "resumo": "O documento, feito pelo Ministério da Saúde com apoio da OMS e de fundações, indica fontes de recursos para cada ação do plano, sem criar um fundo novo. O plano tem apoio de 40 países, e uma coalizão de financiadores anunciou mais US$ 150 milhões para clima e saúde.",
+     "fontes": [
+      {
+       "n": "Ministério da Saúde",
+       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/brasil-anuncia-marco-de-financiamento-do-plano-de-acao-em-saude-de-belem-na-cop31"
+      },
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/bem-viver/2026/11/7533219-ministerio-da-saude-projeta-alta-da-dengue-em-2027.html"
+      }
+     ]
+    },
+    {
      "kicker": "Sarampo",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ministério da Saúde repassa R$ 524 mil para conter o sarampo no Alto Solimões",
      "resumo": "A portaria, publicada hoje, destina o dinheiro a Tabatinga, Benjamin Constant e Atalaia do Norte, para vacinação, vigilância e bloqueio da transmissão. O Amazonas soma 21 dos 65 casos importados confirmados no país em 2026.",
      "foto": {
@@ -776,7 +794,7 @@
     },
     {
      "kicker": "Novembro Azul",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Mais da metade dos homens diz não saber como prevenir o câncer de próstata, aponta pesquisa",
      "resumo": "No levantamento do A.C.Camargo Cancer Center, a fatia que não sabe passou de 44% em 2024 para 56% em 2026, e chega a 71% entre 16 e 24 anos. A intenção de fazer o exame de toque caiu de 61% para 48%; é o câncer mais comum entre os homens no país.",
      "fontes": [
@@ -787,46 +805,18 @@
      ]
     },
     {
-     "kicker": "Mpox",
-     "quando": "Ontem",
-     "titulo": "Ministério da Saúde garante 25 mil doses de vacina contra mpox e orienta aplicação intradérmica",
-     "resumo": "A compra, pelo fundo da Opas, ampliou em 5 mil a oferta inicial, com entrega prevista em cerca de três semanas. A via intradérmica pode multiplicar por até cinco o número de vacinados por frasco; o país tem 832 casos e uma morte em 2026, com alta concentrada em Rio, São Paulo, Ceará e Distrito Federal.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
+     "kicker": "Dengue",
+     "quando": "06/11",
+     "titulo": "Fiocruz projeta 866 mil casos prováveis de dengue em 2027, com pico em abril",
+     "resumo": "A estimativa não inclui o efeito do El Niño, que pode elevar a transmissão sobretudo no Sul; Paraná, Rio, Mato Grosso do Sul e Minas estão entre os estados com alta prevista. Os pesquisadores dizem que não se espera uma epidemia como a de 2024, mas recomendam preparar a rede.",
      "fontes": [
       {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/saude/brasil-garante-25-mil-doses-da-vacina-contra-a-mpox/"
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/saude/fiocruz-projeta-866-mil-casos-de-dengue-em-2027-e-faz-alerta-sobre-el-nino"
       },
       {
-       "n": "Poços Já",
-       "u": "https://pocosja.com.br/noticia/saude/2026/11/09/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox/"
-      },
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/08/mpox-governo-amplia-doses-de-vacina-alta/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://cnnbrasil.com.br/saude/brasil-registra-832-casos-e-uma-morte-por-mpox-em-2026-diz-ministerio"
-      }
-     ]
-    },
-    {
-     "kicker": "Sarampo",
-     "quando": "Ontem",
-     "titulo": "EUA passam de 5 mil casos de sarampo em 2026, o maior surto em 35 anos",
-     "resumo": "Autoridades de saúde americanas relatam o maior número de casos desde o início dos anos 1990. No Brasil, o Amazonas tem casos confirmados na fronteira com Peru e Colômbia e reforçou a vacinação.",
-     "fontes": [
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/geral/2026/11/08/1016192-eua-registram-mais-de-5-mil-casos-de-sarampo-em-2026-maior-surto-em-35-anos"
-      },
-      {
-       "n": "Unica News",
-       "u": "https://www.unicanews.com.br/saude-e-bem-estar/mais-de-5-mil-casos-surto-de-sarampo-nos-eua-em-2026-e-o-maior-em-35-anos/143437"
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/bem-viver/2026/11/7533219-ministerio-da-saude-projeta-alta-da-dengue-em-2027.html"
       }
      ]
     }
@@ -840,7 +830,7 @@
    "itens": [
     {
      "kicker": "Enem",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Estudante de 16 anos morre após passar mal no primeiro dia do Enem na Bahia",
      "resumo": "Izalara dos Santos Oliveira, de Cansanção, no norte do estado, foi atendida ainda na escola e morreu no hospital; a causa não foi divulgada. O Inep confirmou a morte e lamentou, e a prefeitura decretou luto.",
      "fontes": [
@@ -852,7 +842,7 @@
     },
     {
      "kicker": "Enem",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Presença de egressos da rede pública no Enem sobe para 65%, mesmo com abstenção geral de 32%",
      "resumo": "Segundo o MEC, mais de 1,9 milhão de concluintes de escolas públicas se inscreveram, cerca de 250 mil a mais que em 2025, e a presença deles subiu ante os 53,8% do ano passado. No total, 68% dos mais de 5 milhões de inscritos fizeram a prova, a menor taxa desde 2021; o ministro Leonardo Barchini atribui parte das faltas à inscrição automática.",
      "foto": {
@@ -876,7 +866,7 @@
     },
     {
      "kicker": "Reaplicação",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Candidatos afetados por falta de luz farão o Enem em 15 e 16 de dezembro",
      "resumo": "Quedas de energia atingiram 39 locais de prova, 36 deles no Rio, e o MEC diz que estudantes prejudicados por eventos climáticos também poderão refazer o exame. No primeiro dia, 4.359 participantes foram eliminados preliminarmente por descumprir regras.",
      "fontes": [
@@ -892,7 +882,7 @@
     },
     {
      "kicker": "Serviço",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Segundo dia do Enem, no domingo, tem 90 questões de ciências da natureza e matemática",
      "resumo": "A prova dura cinco horas e termina às 18h30 de Brasília. Quem faltou no primeiro domingo pode fazer o segundo, mas não tem direito à reaplicação.",
      "fontes": [
@@ -907,22 +897,18 @@
      ]
     },
     {
-     "kicker": "Enem",
-     "quando": "Ontem",
-     "titulo": "Redação do Enem pede reflexão sobre a valorização do SUS como direito universal",
-     "resumo": "O tema foi divulgado pelo ministro Leonardo Barchini depois do início da prova. Candidatos ouvidos em Belo Horizonte deram avaliações que foram de tranquila a muito difícil; uma professora de redação destacou que o enunciado não apresentava um problema pronto.",
+     "kicker": "Pé-de-Meia",
+     "quando": "Hoje",
+     "titulo": "Pé-de-Meia paga nova parcela de R$ 200 entre 23 e 30 de novembro; MEC quer estender o programa a toda a rede pública",
+     "resumo": "O pagamento segue o mês de nascimento do estudante. O ministro Leonardo Barchini disse que o governo pretende ampliar o benefício a todos os alunos do ensino médio público até o fim de 2027 e prepara uma versão universitária para 2027.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-tema-da-redacao-e-divulgado-veja/"
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/04/pe-de-meia-paga-parcela-de-r-200-de-23-a-30-de-novembro-de-2026-por/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/enem/2026/2026/11/8/de-tranquilo-a-dificil-inscritos-no-enem-2026-comentam-prova-e-tema-da-redacao"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/brasil/enem-2026-tema-da-redacao/"
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202611/leonardo-barchini-201cestamos-comprometidos-a-expandir-o-pe-de-meia-para-todos-os-estudantes-da-rede-publica201d"
       }
      ]
     }
@@ -937,34 +923,58 @@
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "COP31 começa com 68 mil credenciados e impasse sobre dinheiro para países vulneráveis; Lula embarca para Antália",
-     "resumo": "Os países em desenvolvimento pedem US$ 305 bilhões por ano até 2035, quase dez vezes o que recebem, e a proposta de triplicar o financiamento para adaptação ficou fora da pauta. A Turquia quer que a eletricidade chegue a 35% do uso de energia em 2035; Lula partiu hoje com sete ministros e discursa na quarta, sem Hugo Motta e Davi Alcolumbre na comitiva.",
+     "titulo": "Lula chega à COP31, em Antália, para a cúpula de líderes; financiamento a países vulneráveis trava a pauta",
+     "resumo": "O presidente participa nesta terça e quarta da cúpula, de uma reunião sobre o fundo de florestas tropicais (TFFF) e de um encontro bilateral com Erdogan. Na negociação, proposta do grupo africano para pôr o financiamento de adaptação na agenda enfrenta resistência da União Europeia e do Canadá; a conferência vai até 20 de novembro.",
      "foto": {
       "src": "fotos/floresta.jpg",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/09/cop31-arranca-na-turquia-com-impasse-sobre-financiamento-climatico-e-68-mil-participantes-em-antalia/"
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/ciencia-e-saude/2026/11/7535708-cop31-tem-impasse-sobre-financiamento-para-paises-vulneraveis.html"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/esg/lula-chega-a-cop31-com-avancos-do-legado-de-belem-e-resultados-da-agenda-climatica-brasileira/"
       },
       {
        "n": "Euronews",
        "u": "https://pt.euronews.com/2026/11/09/turquia-cop31-arranca-em-antalya-com-ambicao-climatica-em-foco"
       },
       {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/poder-e-governo/2026/11/09/1016839-lula-embarca-para-a-cop31-com-janones-e-ministros"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
+      }
+     ]
+    },
+    {
+     "kicker": "Tecnologia",
+     "quando": "Ontem",
+     "titulo": "Trump diz que o FBI investiga a relação do CEO da Nvidia com suposta espiã chinesa; ações caíram 4,3%",
+     "resumo": "Segundo o presidente americano, Jensen Huang negou saber que a mulher seria espiã. O caso derrubou os papéis da empresa na segunda, mas não contaminou o restante do setor de chips, segundo analistas.",
+     "fontes": [
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/nvidia-cai-mais-de-4-apos-escandalo-mas-nao-afeta-setor-o-que-esperar-agora/"
       },
       {
-       "n": "Alma Preta",
-       "u": "https://almapreta.com.br/sessao/cotidiano/cop-31-impasse-financiamento-climatico"
+       "n": "CNN Brasil",
+       "u": "https://cnnbrasil.com.br/economia/money/tecnologia/quem-e-jensen-huang-ceo-da-nvidia-investigado-por-affair-com-suposta-espia"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/suspeita-de-espionagem-chinesa-faz-acoes-da-nvidia-cairem"
+      },
+      {
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/global/trump-nvidia-espionagem-chips-china/"
       }
      ]
     },
     {
      "kicker": "Clima",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "2026 deve ficar entre os quatro anos mais quentes já registrados, diz a OMM",
      "resumo": "De janeiro a setembro, a temperatura média global ficou 1,47°C acima do nível pré-industrial, e o nível do mar bateu recorde. O serviço europeu Copernicus vê como muito provável que 2026 seja o segundo ano a passar do limite de 1,5°C do Acordo de Paris.",
      "foto": {
@@ -978,42 +988,6 @@
        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-diz-que-2026-sera-um-dos-anos-mais-quentes-ja-registrados"
       }
      ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "Hoje",
-     "titulo": "Ações da Nvidia fecham em queda de 4,3% com investigação sobre suposta espionagem envolvendo Jensen Huang",
-     "resumo": "O papel terminou a US$ 178,67, enquanto Broadcom, AMD e Intel subiram, sinal de que o mercado vê o problema como restrito à empresa. O conselho apura a relação do executivo com uma diretora de empresa de nuvem que, segundo a imprensa americana, foi ligada à espionagem chinesa; Huang diz que vai colaborar.",
-     "fontes": [
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/nvidia-cai-mais-de-4-apos-escandalo-mas-nao-afeta-setor-o-que-esperar-agora/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://cnnbrasil.com.br/economia/money/tecnologia/quem-e-jensen-huang-ceo-da-nvidia-investigado-por-affair-com-suposta-espia"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/suspeita-de-espionagem-chinesa-faz-acoes-da-nvidia-cairem"
-      }
-     ]
-    },
-    {
-     "kicker": "Clima",
-     "quando": "Hoje",
-     "titulo": "Brasil leva à COP31 dados de matriz renovável e anúncio de US$ 500 milhões para o fundo de florestas",
-     "resumo": "Lula deve citar que 49,5% da energia do país veio de fontes renováveis em 2025 e apresentar os roteiros voluntários para zerar o desmatamento e deixar os combustíveis fósseis. Um encontro do Fundo Florestas Tropicais para Sempre, com Noruega, Reino Unido e Holanda, deve oficializar o aporte.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/global/lula-retoma-agenda-internacional-cop31-turquia/"
-      }
-     ]
     }
    ]
   },
@@ -1021,41 +995,25 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Cinema, TV e música",
+   "nota": "TV, música e cinema",
    "itens": [
-    {
-     "kicker": "Cinema",
-     "quando": "Hoje",
-     "titulo": "\"Os Farofeiros 3\" lidera a bilheteria do fim de semana, com quatro filmes nacionais no top 10",
-     "resumo": "A comédia superou a exibição de show do Stray Kids e \"Godzilla Minus Zero\" entre 5 e 8 de novembro, segundo a Rentrak. \"Feito Pipa\", pré-candidato do Brasil ao Oscar, \"100 Dias\" e \"As Dez Vantagens de Morrer Depois de Você\" também estão entre os dez mais vistos.",
-     "fontes": [
-      {
-       "n": "Rolling Stone Brasil",
-       "u": "https://rollingstone.com.br/cinema/brasil-lidera-bilheterias-brasileiras-em-disputa-contra-stray-kids-novo-godzilla-e-cara-de-barro/"
-      },
-      {
-       "n": "Alô Alô Bahia",
-       "u": "https://aloalobahia.com/noticias/2026/11/09/os-farofeiros-3-lidera-bilheterias-no-brasil-e-supera-stray-kids-e-novo-godzilla/"
-      }
-     ]
-    },
     {
      "kicker": "TV",
      "quando": "Hoje",
-     "titulo": "\"Lá na Minha Terra\" estreia hoje na faixa das seis da Globo, com Dira Paes como protagonista",
-     "resumo": "A atriz vive uma mãe de cinco filhos na novela que substitui \"A Nobreza do Amor\". O primeiro capítulo foi ao ar no fim da tarde desta segunda.",
+     "titulo": "\"Lá na Minha Terra\" estreia com 18 pontos na Grande São Paulo e supera a novela anterior das seis",
+     "resumo": "A trama de Mário Teixeira, com Dira Paes como uma mãe que criou cinco filhos após o sumiço do marido, teve pico de 19 pontos; a estreia de \"A Nobreza do Amor\", em março, havia marcado 17,3. A novela deve ter cerca de 200 capítulos, até junho de 2027.",
      "fontes": [
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/pop/noticia/2026/11/08/la-na-minha-terra-estreia-globo-dira-paes-faixa-seis"
+       "n": "O Planeta TV",
+       "u": "https://oplanetatv.clickgratis.com.br/noticias/audiencia-da-tv/la-na-minha-terra-estreia-em-alta-e-supera-audiencia-de-a-nobreza-do-amor.html"
       },
       {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/08/dira-paes-vive-mae-de-cinco-filhos-em-la-na-minha-terra-que-estreia-na-globo-nesta-segunda/"
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/cultura/estreia-de-la-na-minha-terra-conquista-o-publico-em-belem-1.1192357"
       },
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/tendencias/2026/11/08/la-na-minha-terra-estreia-em-9-de-novembro-e-substitui-a-nobreza-do-amor-na-faixa-das-seis-da-globo/"
+       "n": "Observatório da TV",
+       "u": "https://observatoriodatv.com.br/critica-de-tv/la-na-minha-terra-encanta-com-visual-deslumbrante-mas-estreia-com-sensacao-de-novela-repetida"
       }
      ]
     },
@@ -1072,34 +1030,38 @@
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/pop/musica/grammy-latino-2026-veja-lista-completa-de-indicados/"
+      },
+      {
+       "n": "Rolling Stone Brasil",
+       "u": "https://rollingstone.com.br/musica/grammy-latino-2026-indicados/"
+      }
+     ]
+    },
+    {
+     "kicker": "Cinema",
+     "quando": "Ontem",
+     "titulo": "\"Os Farofeiros 3\" lidera a bilheteria do fim de semana, com quatro filmes nacionais no top 10",
+     "resumo": "A comédia superou a exibição de show do Stray Kids e \"Godzilla Minus Zero\" entre 5 e 8 de novembro, segundo a Rentrak. \"Feito Pipa\", pré-candidato do Brasil ao Oscar, \"100 Dias\" e \"As Dez Vantagens de Morrer Depois de Você\" também estão entre os dez mais vistos.",
+     "fontes": [
+      {
+       "n": "Rolling Stone Brasil",
+       "u": "https://rollingstone.com.br/cinema/brasil-lidera-bilheterias-brasileiras-em-disputa-contra-stray-kids-novo-godzilla-e-cara-de-barro/"
+      },
+      {
+       "n": "Alô Alô Bahia",
+       "u": "https://aloalobahia.com/noticias/2026/11/09/os-farofeiros-3-lidera-bilheterias-no-brasil-e-supera-stray-kids-e-novo-godzilla/"
       }
      ]
     },
     {
      "kicker": "Famosos",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Belutti, da dupla com Marcos, sofre acidente de carro em Alphaville e já recebeu alta",
      "resumo": "O cantor estava num Porsche que bateu na madrugada desta segunda, com a pista molhada, em Barueri, na Grande São Paulo. Segundo a equipe dele, foi atendido no Hospital Einstein e já está em casa; as circunstâncias ainda não foram esclarecidas.",
      "fontes": [
       {
        "n": "SBT News",
        "u": "https://sbtnews.sbt.com.br/noticia/brasil/belutti-da-dupla-com-marcos-sofre-acidente-com-porsche"
-      }
-     ]
-    },
-    {
-     "kicker": "Dança",
-     "quando": "Ontem",
-     "titulo": "Morre aos 44 anos Lucélia Albuquerque, passista de frevo que dançou em Cannes",
-     "resumo": "Professora e cofundadora do coletivo Guerreiros do Passo, patrimônio cultural do Recife, ela tratava um mieloma múltiplo havia sete anos. O grupo se apresentou no Festival de Cannes com o elenco de \"O Agente Secreto\".",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/celebridades/lucelia-albuquerque-morre-44-anos"
-      },
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/08/morre-lucelia-albuquerque-44-anos/"
       }
      ]
     }
