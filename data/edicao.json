@@ -1,34 +1,34 @@
 {
  "data": "Quarta-feira, 11 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "11/11/2026 · 07h30 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 17h00",
- "fontes": 68,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "11/11/2026 · 12h45 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 10h50",
+ "fontes": 65,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 10/11",
-   "valor": "171.337 pts",
-   "var": "-0,52%",
-   "dir": "down"
-  },
-  {
-   "nome": "Dólar comercial · fechamento 10/11",
-   "valor": "R$ 5,59",
-   "var": "+1,48%",
+   "nome": "Ibovespa · 10h50",
+   "valor": "172.712 pts",
+   "var": "+0,80%",
    "dir": "up"
   },
   {
-   "nome": "Petróleo Brent · 10/11, 17h",
-   "valor": "US$ 91,49",
-   "var": "-1,17%",
+   "nome": "Dólar comercial · 10h10",
+   "valor": "R$ 5,55",
+   "var": "-0,6%",
    "dir": "down"
   },
   {
-   "nome": "Kospi (Seul) · 11/11",
-   "valor": "fechamento",
-   "var": "+2,6%",
-   "dir": "up"
+   "nome": "Petrobras PN · 10h50",
+   "valor": "PETR4",
+   "var": "-2,89%",
+   "dir": "down"
+  },
+  {
+   "nome": "Serviços (IBGE) · setembro",
+   "valor": "volume",
+   "var": "-0,1%",
+   "dir": "down"
   },
   {
    "nome": "Selic · ata do Copom",
@@ -39,34 +39,34 @@
  ],
  "agenda": [
   {
-   "hora": "Qua 11/11 · 11h",
-   "txt": "Bancada do PL se reúne em Brasília para decidir se apoia a reeleição de Hugo Motta; Senado deve votar a MP das dívidas rurais",
-   "cat": "politica"
-  },
-  {
-   "hora": "Qua 11/11",
-   "txt": "Lula discursa na cúpula de líderes da COP31, em Antália; Abu Dhabi tem o segundo dia de negociação entre Ucrânia, Rússia e EUA",
-   "cat": "ciencia"
-  },
-  {
-   "hora": "Qui 12/11 · 9h",
-   "txt": "IBGE divulga o IPCA de outubro; a MP das dívidas rurais perde a validade se não for votada; à noite, Grammy Latino em Las Vegas",
+   "hora": "Qua 11/11 · após o fechamento",
+   "txt": "Banco do Brasil, Rede D'Or, Rumo, Ultrapar, Hapvida e outras empresas divulgam balanços do terceiro trimestre",
    "cat": "economia"
   },
   {
+   "hora": "Qua 11/11 · 21h30",
+   "txt": "Flamengo x Internacional pela Copa do Brasil Feminina; às 19h, Londrina x Náutico pela Série B",
+   "cat": "esporte"
+  },
+  {
+   "hora": "Qui 12/11 · 9h",
+   "txt": "IBGE divulga o IPCA de outubro; a MP das dívidas rurais perde a validade se o Senado não votar",
+   "cat": "economia"
+  },
+  {
+   "hora": "Qui 12/11 · 22h",
+   "txt": "Grammy Latino em Las Vegas, com Anitta concorrendo a Álbum do Ano; transmissão do Multishow",
+   "cat": "cultura"
+  },
+  {
    "hora": "Sáb 14/11 · 7h15",
-   "txt": "Brasil x Japão no Estádio Nacional de Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
+   "txt": "Brasil x Japão em Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
    "cat": "esporte"
   },
   {
    "hora": "Dom 15/11",
-   "txt": "Segundo dia do Enem; de 16 a 20/11, quem faltou no primeiro dia por motivo previsto no edital pode pedir a reaplicação",
+   "txt": "Segundo dia do Enem; de 16 a 20/11, pedidos de reaplicação pela Página do Participante",
    "cat": "educacao"
-  },
-  {
-   "hora": "Sáb 28/11 · 17h",
-   "txt": "Palmeiras e Estudiantes decidem a Libertadores no Estádio Centenário, em Montevidéu",
-   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -162,40 +162,45 @@
   }
  ],
  "manchete": {
-  "kicker": "Balanço da Petrobras",
-  "titulo": "Petrobras lucra R$ 39,7 bilhões no terceiro trimestre, alta de 21,5%, mas resultado fica abaixo das estimativas do mercado",
-  "resumo": "A estatal teve produção recorde e anunciou R$ 15,3 bilhões em dividendos, mas o lucro ficou cerca de 15% abaixo da mediana das projeções, diferença que a empresa atribuiu a fatores extraordinários. O balanço saiu depois do fechamento de terça e deve pesar nas ações nesta quarta.",
-  "entenda": "A Petrobras divulga seus resultados depois do pregão, e o mercado reage no dia seguinte. Analistas esperavam lucro perto de R$ 46,8 bilhões; sem os itens extraordinários, o lucro ajustado foi de R$ 47,9 bilhões, segundo a companhia. A receita subiu com o petróleo mais caro ao longo do ano e com o aumento da produção, que chegou a 3,51 milhões de barris de óleo equivalente por dia. A empresa também elevou as projeções para 2026: produção média de 3,3 a 3,4 milhões de barris por dia, investimentos de até US$ 25,5 bilhões e geração de caixa de até US$ 50 bilhões. A União, maior acionista, fica com cerca de 29% dos dividendos.",
+  "kicker": "Contas públicas e mercado",
+  "titulo": "Governo negocia com o Congresso ajuste de até R$ 80 bilhões para 2027; Ibovespa sobe e dólar recua na manhã, apesar da queda da Petrobras",
+  "resumo": "A proposta inclui tirar receitas extraordinárias de petróleo do cálculo dos pisos de saúde e educação e deve ser apresentada por um senador aliado. Na B3, o índice subia 0,8% no fim da manhã, puxado por bancos e Vale, enquanto as ações da Petrobras caíam quase 3% após o balanço.",
+  "entenda": "Hoje a Constituição obriga a União a aplicar ao menos 15% da receita corrente líquida em saúde e 18% da receita de impostos, já descontados os repasses a estados e municípios, em educação. Quando a arrecadação com petróleo sobe, os pisos sobem junto. Segundo o InfoMoney, o projeto em negociação retiraria essas receitas extraordinárias da base de cálculo mesmo em ano de superávit, ampliando uma regra aprovada pelo Senado em agosto que valia só com déficit. O pacote também revê benefícios tributários e regras de execução do Orçamento; o governo não informou quanto viria de cada medida. A estimativa total equivale a cerca de 0,5% do PIB. O tema pode enfrentar resistência de parlamentares e de entidades das duas áreas, segundo a mesma reportagem. O mercado, que na terça levou o dólar ao maior valor desde julho de 2025, reagiu com alta da Bolsa e queda da moeda.",
   "fatos": [
-   "Receita de R$ 169,3 bilhões (+32,4%) e Ebitda de R$ 85,8 bilhões (+34,3%) no trimestre.",
-   "Produção de diesel bateu recorde, com 769 mil barris por dia, e as importações do combustível caíram 8,8%.",
-   "No acumulado de nove meses, o lucro soma R$ 124,8 bilhões, alta de 32%; no segundo trimestre, tinha sido de R$ 52,4 bilhões."
+   "O Orçamento de 2027 prevê R$ 272,2 bilhões para a saúde e R$ 141,2 bilhões para a educação pelas regras atuais.",
+   "Por volta das 10h50, o Ibovespa marcava 172.712 pontos (+0,8%); o dólar rondava R$ 5,55 depois de fechar a R$ 5,59 na terça.",
+   "Petrobras PN caía 2,89% e ON 2,97%: lucro de R$ 39,7 bilhões e proventos ficaram abaixo do esperado, e o investimento previsto veio acima."
   ],
   "fontes": [
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/economia/money/negocios/analise-resultado-do-3-trimestre-da-petrobras-reflete-maior-producao/",
-    "d": "Comparação com estimativas"
-   },
-   {
-    "n": "O Tempo",
-    "u": "https://www.otempo.com.br/economia/2026/11/10/lucro-da-petrobras-cresce-21-5-no-terceiro-trimestre-para-r-39-7-bilhoes",
-    "d": "Números do balanço"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/politica/petroleo-saude-e-educacao-como-lula-pretende-ajustar-ate-r-80-bi-em-2027/",
+    "d": "Medidas do ajuste"
    },
    {
     "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/empresas-e-negocios/petrobras-lucra-r-397-bilhoes-no-3o-trimestre/",
-    "d": "Lucro do trimestre"
+    "u": "https://timesbrasil.com.br/brasil/governo-negocia-ajuste-fiscal-de-ate-r-80-bilhoes-com-o-congresso-para-2027/",
+    "d": "Negociação no Congresso"
    },
    {
-    "n": "Imirante",
-    "u": "https://imirante.com/noticias/brasil/2026/11/10/petrobras-lucro-r-398-bilhoes-3-trimestre",
-    "d": "Alta de 21,5%"
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/politica/governo-propoe-novo-calculo-de-receitas-para-ajuste-fiscal",
+    "d": "Novo cálculo dos pisos"
    },
    {
-    "n": "Investidor10",
-    "u": "https://investidor10.com.br/noticias/petrobras-petr4-pagara-dividendos-de-r-15-3-bilhoes-veja-condicoes-123811/",
-    "d": "Dividendos anunciados"
+    "n": "BPMoney",
+    "u": "https://bpmoney.com.br/economia/ibovespa-sobe-aos-1722-mil-pontos-com-bancos-e-vale-dolar-cai/",
+    "d": "Abertura do pregão"
+   },
+   {
+    "n": "Reuters/InfoMoney",
+    "u": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-noticiario-fiscal-e-corporativo-apesar-de-petrobras/",
+    "d": "Ibovespa no fim da manhã"
+   },
+   {
+    "n": "Exame",
+    "u": "https://exame.com/invest/mercados/petrobras-reage-ao-balanco-e-bb-divulga-resultado-o-que-move-os-mercados-hoje/",
+    "d": "Agenda do mercado"
    }
   ]
  },
@@ -204,13 +209,13 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Lula na COP31, PL e MP rural",
+   "nota": "COP31, PL e MP rural",
    "itens": [
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "Lula discursa hoje na cúpula de líderes da COP31, na Turquia, depois de reunião com Erdogan sobre comércio",
-     "resumo": "Na primeira viagem internacional desde a reeleição, o presidente deve apresentar a queda de 27% nas emissões líquidas do Brasil entre 2022 e 2024 e os US$ 7,8 bilhões já prometidos ao fundo de florestas TFFF. Ele tem mais de 15 pedidos de encontros bilaterais; França, Alemanha, Itália, China e Japão não enviaram seus chefes de governo.",
+     "titulo": "Rouco, Lula tem discurso lido por Capobianco na COP31 e cobra países ricos e liderança na proteção das florestas",
+     "resumo": "Na cúpula de líderes sobre florestas, em Antália, o texto do presidente apontou pobreza, falta de dinheiro e falta de liderança como entraves e disse que o clima saiu da pauta do G7 e do G20. O governo citou queda de 70% do desmatamento na Amazônia e defendeu ampliar o fundo TFFF, que já soma US$ 7,8 bilhões.",
      "foto": {
       "src": "fotos/lula.jpg",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
@@ -218,27 +223,23 @@
      "fontes": [
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral"
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-planeta-nao-pode-esperar-em-meio-guerras-e-conflitos"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/esg/cop31-comeca-na-turquia-com-presidencia-a-dois-pauta-travada-e-77-lideres-a-caminho/"
+       "n": "TVT News",
+       "u": "https://tvtnews.com.br/discurso-lula-na-cop31-cupula-lideres-florestas/"
       },
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/brasil/2026/11/10/lula-esta-na-turquia-e-se-prepara-para-discurso-na-cop-31.html"
-      },
-      {
-       "n": "EFE/Infobae",
-       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
+       "n": "Diário do Comércio",
+       "u": "https://diariodocomercio.com.br/sustentabilidade/cop31-lula-cobra-paises-ricos"
       }
      ]
     },
     {
      "kicker": "Câmara",
      "quando": "Hoje",
-     "titulo": "PL reúne bancada às 11h para decidir se apoia a reeleição de Hugo Motta ou lança candidato próprio",
-     "resumo": "O partido elegeu 121 deputados, a maior bancada de 2027, e tem Sóstenes Cavalcante e Altineu Côrtes como nomes cotados para uma candidatura própria. Motta articula um bloco de mais de 350 deputados em 15 partidos; a federação do PT resiste à entrada do PL. A eleição é em 1º de fevereiro.",
+     "titulo": "Sem consenso, PL reúne bancada eleita para decidir se apoia a reeleição de Hugo Motta ou lança candidato",
+     "resumo": "A reunião começou às 11h, com o partido dividido. Motta já soma apoio declarado de partidos que reúnem 361 deputados, depois da adesão oficial do União Brasil.",
      "lados": [
       {
        "quem": "Ala que resiste a Motta",
@@ -252,27 +253,27 @@
      "fontes": [
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/rachado-pl-entra-em-semana-decisiva-sobre-apoio-a-reeleicao-de-hugo-motta"
+       "u": "https://www.metropoles.com/brasil/sem-consenso-pl-reune-bancada-eleita-da-camara-para-discutir-apoio-a-motta"
       },
       {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/politica/pl-reune-bancada-para-discutir-apoio-a-motta-e-cargos-na-camara/"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/colunas/coluna-da-victoria/pl-ainda-discute-apoio-a-reeleicao-de-hugo-motta-diz-savio"
       },
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/brasil/pl-enfrenta-divisao-interna-sobre-apoio-a-reeleicao-de-hugo-motta-para-presidencia-da-camara/"
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/politica/uniao-brasil-oficializa-apoio-a-hugo-motta-que-ja-reune-361-deputados-para-reeleicao-na-camara/"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/politica/pl-impasse-candidatura-camara"
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/pl-reune-bancada-para-discutir-apoio-a-reeleicao-de-motta/"
       }
      ]
     },
     {
-     "kicker": "Senado",
+     "kicker": "Congresso",
      "quando": "Hoje",
-     "titulo": "Senado deve votar hoje a MP das dívidas rurais, que perde a validade na quinta",
-     "resumo": "A Câmara aprovou na terça, em votação simbólica, o texto do relator Paulo Pimenta (PT-RS), que amplia as dívidas e operações que podem ser renegociadas. O governo estimava alcançar R$ 100 bilhões em renegociações quando editou a medida, em julho.",
+     "titulo": "Aprovada na Câmara no limite do prazo, MP das dívidas rurais depende do Senado até quinta",
+     "resumo": "O texto amplia quem pode renegociar, inclui dívidas de capital de giro e CPRs feitas com cooperativas e fornecedores e estende até 31 de outubro o enquadramento de atrasos. A senadora Tereza Cristina estima alcance de até R$ 100 bilhões.",
      "lados": [
       {
        "quem": "Frente Parlamentar da Agropecuária",
@@ -285,16 +286,20 @@
      ],
      "fontes": [
       {
-       "n": "Tribuna de Petrópolis",
-       "u": "https://tribunadepetropolis.com.br/noticias/senado-deve-votar-amanha-mp-da-renegociacao-das-dividas-rurais/"
+       "n": "Agência Senado",
+       "u": "https://www12.senado.leg.br/noticias/materias/2026/11/10/comissao-altera-mp-de-renegociacao-de-dividas-rurais-para-ampliar-beneficiarios"
       },
       {
-       "n": "Gazeta Mercantil",
-       "u": "https://gazetamercantil.com/camara-aprova-mp-renegociacao-dividas-rurais-100-bilhoes"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/camara-aprova-mp-da-renegociacao-das-dividas-rurais-texto-segue-para-senado/"
       },
       {
-       "n": "A Rede",
-       "u": "https://arede.info/cotidiano/692249/camara-aprova-mp-da-renegociacao-das-dividas-rurais"
+       "n": "Agrimídia",
+       "u": "https://agrimidia.com.br/avicultura-industrial/2026/11/11/no-limite-do-prazo-camara-aprova-mp-que-renegocia-dividas-rurais-e-texto-vai-ao-senado/"
+      },
+      {
+       "n": "Portal do Agronegócio",
+       "u": "https://www.portaldoagronegocio.com.br/politica-rural/governo/noticias/mp-das-dividas-rurais-senado-tem-prazo-final-para-aprovar-renegociacao-de-ate-r-100-bilhoes-fpa-cobra-fundo-garantidor"
       }
      ]
     },
@@ -336,69 +341,93 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Petrobras, câmbio e juros",
+   "nota": "Ajuste fiscal, Bolsa e Petrobras",
    "itens": [
     {
-     "kicker": "Petrobras",
-     "quando": "Ontem",
-     "titulo": "Petrobras eleva projeções de produção, investimento e caixa para 2026 e anuncia R$ 15,3 bilhões em dividendos",
-     "resumo": "A estatal agora prevê produção média de 3,3 a 3,4 milhões de barris por dia, investimentos de até US$ 25,5 bilhões e geração de caixa de até US$ 50 bilhões no ano. Os dividendos autorizados em 2026 somam R$ 42 bilhões.",
+     "kicker": "Mercado",
+     "quando": "Hoje",
+     "titulo": "Ibovespa sobe 0,8% com bancos e Vale, e dólar cai para perto de R$ 5,55 com ajuste fiscal no radar",
+     "resumo": "Depois de abrir em alta, o índice chegou a 172.712 pontos perto das 10h50; Itaú, Bradesco e BTG subiam, e Magazine Luiza avançava mais de 10%. O dólar devolvia parte da alta de terça, e nos EUA o feriado de Veterans Day deixa o mercado de títulos fechado.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/economia/2026/11/10/lucro-da-petrobras-cresce-21-5-no-terceiro-trimestre-para-r-39-7-bilhoes"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/ibovespa-sobe-aos-1722-mil-pontos-com-bancos-e-vale-dolar-cai/"
       },
       {
-       "n": "Investidor10",
-       "u": "https://investidor10.com.br/noticias/petrobras-petr4-pagara-dividendos-de-r-15-3-bilhoes-veja-condicoes-123811/"
+       "n": "Reuters/InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-exterior-e-noticiario-fiscal-e-corporativo-apesar-de-petrobras/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/negocios/analise-resultado-do-3-trimestre-da-petrobras-reflete-maior-producao/"
-      }
-     ]
-    },
-    {
-     "kicker": "Fechamento",
-     "quando": "Ontem",
-     "titulo": "Dólar fecha a R$ 5,59, maior valor desde julho de 2025, e Ibovespa cai 0,52%",
-     "resumo": "A moeda subiu cerca de 1,5% depois de a inflação americana vir acima do previsto e de a ata do Copom indicar juros altos por mais tempo. A bolsa terminou aos 171.337 pontos e acumula queda no mês.",
-     "fontes": [
-      {
-       "n": "Bora Investir (B3)",
-       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-052-pressionado-por-expectativa-de-juros-elevados-no-brasil-e-nos-eua-dolar-vai-a-r-559/"
+       "n": "InvestNews",
+       "u": "https://investnews.com.br/investimentos/petrobras-cai-ibovespa-hoje-sobe/"
       },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/ibovespa-cai-052-com-inflacao-dos-eua-e-ata-do-copom-no-radar"
-      },
-      {
-       "n": "Imirante",
-       "u": "https://imirante.com/noticias/brasil/2026/11/10/dolar-sobe-146-fecha-maior-valor-15-meses"
+       "u": "https://www.metropoles.com/brasil/bolsa-brasileira-opera-em-alta-seguindo-o-movimento-de-mercados-externos"
       }
      ]
     },
     {
-     "kicker": "Juros nos EUA",
-     "quando": "Ontem",
-     "titulo": "Inflação ao consumidor nos EUA sobe 0,4% em outubro, acima do esperado, e reforça aposta de alta do Fed em dezembro",
-     "resumo": "Economistas consultados pela Reuters projetavam 0,3%; o núcleo, sem alimentos e energia, subiu 0,3%. Wall Street fechou em baixa, mas a bolsa de Seul subiu 2,6% nesta quarta, puxada por tecnologia.",
+     "kicker": "Petrobras",
+     "quando": "Hoje",
+     "titulo": "Ações da Petrobras caem cerca de 3% após balanço com lucro e dividendos abaixo do esperado",
+     "resumo": "O lucro de R$ 39,7 bilhões no terceiro trimestre subiu 21,5% em um ano, mas ficou aquém das projeções, e os R$ 15,3 bilhões em proventos e o investimento maior previsto para 2026 também pesaram. Na véspera, o ADR já recuava mais de 2% em Nova York.",
      "fontes": [
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/cpi-inflacao-eua-sobe-mais-que-esperado-outubro-jcav/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-desempenho-acoes-resultados-3t26-proventos-novas-projecoes/"
       },
       {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/cpi-dos-eua-sobe-04-em-outubro-e-reforca-expectativa-de-alta-dos-juros/"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/empresas-e-negocios/acoes-da-petrobras-caem-2-apos-divulgacao-de-resultados-do-terceiro-trimestre/"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/economia/indicadores-economicos/cpi-eua-fed-dezembro"
+       "n": "Investidor10",
+       "u": "https://investidor10.com.br/noticias/acoes-da-petrobras-recuam-apos-companhia-anunciar-dividendos-abaixo-do-esperado-123823/"
       },
       {
-       "n": "EFE/Infobae",
-       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/11/10/lucro-da-petrobras-cresce-21-5-no-terceiro-trimestre-para-r-39-7-bilhoes"
+      }
+     ]
+    },
+    {
+     "kicker": "IBGE",
+     "quando": "Hoje",
+     "titulo": "Volume de serviços recua 0,1% em setembro, resultado melhor que o esperado pelo mercado",
+     "resumo": "O setor está 19,8% acima do nível de fevereiro de 2020 e 0,4% abaixo do recorde, de outubro de 2025. Analistas projetavam queda mais forte.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/setor-de-servicos-volta-a-registrar-queda-e-cai-01-em-setembro-diz-ibge/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/setor-de-servicos-varia-01-em-setembro-diz-ibge"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/economia/setor-de-servicos-segue-patinando-e-cai-01-em-setembro-aponta-ibge/"
+      },
+      {
+       "n": "Mercado Hoje",
+       "u": "https://mercadohoje.uai.com.br/2026/11/11/noticias-hoje-11-11-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Balanços",
+     "quando": "Hoje",
+     "titulo": "Banco do Brasil divulga resultado após o fechamento, com mercado atento às provisões do crédito rural",
+     "resumo": "A média das projeções compiladas pela LSEG aponta lucro de R$ 3,7 bilhões, mas parte dos analistas espera menos por causa da inadimplência no agro. Rede D'Or, Rumo, Ultrapar, Hapvida, MRV e Raízen também apresentam números hoje; o Nubank abre a quinta-feira.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/petrobras-reage-ao-balanco-e-bb-divulga-resultado-o-que-move-os-mercados-hoje/"
+      },
+      {
+       "n": "Investing.com",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-pacote-fiscal-petrobras-e-servicos-no-radar-2123596"
       }
      ]
     },
@@ -426,22 +455,6 @@
       "src": "fotos/openfinance.jpg",
       "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
      }
-    },
-    {
-     "kicker": "Vale-refeição",
-     "quando": "Ontem",
-     "titulo": "AGU vai recorrer de liminar que suspendeu limites de taxas do vale-refeição e alimentação",
-     "resumo": "A decisão da 22ª Vara Federal Cível do DF, a pedido da associação das empresas do setor (ABBT), suspende para as associadas o teto de 3,6% na taxa cobrada dos estabelecimentos, o repasse em até 15 dias e a abertura obrigatória dos arranjos. O juiz entendeu que o decreto foi além da lei; o governo diz que a reforma busca mais concorrência e taxas menores.",
-     "fontes": [
-      {
-       "n": "Migalhas",
-       "u": "https://www.migalhas.com.br/quentes/468203/justica-suspende-parte-das-novas-regras-do-vale-refeicao-e-alimentacao"
-      },
-      {
-       "n": "DOL",
-       "u": "https://dol.com.br/noticias/brasil/967965/agu-vai-recorrer-contra-suspensao-de-regras-do-vale-refeicao"
-      }
-     ]
     }
    ]
   },
@@ -449,8 +462,32 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "FHC, temporais e Porto de Santos",
+   "nota": "Temporais, FHC e Porto de Santos",
    "itens": [
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "Inmet mantém alerta laranja para temporais no Centro-Oeste e no Matopiba; DF e região de Cabo Frio têm risco de granizo",
+     "resumo": "Os avisos preveem chuva de até 100 mm por dia, ventos de até 100 km/h e queda de granizo em áreas de Mato Grosso, Mato Grosso do Sul, Goiás e do Matopiba. No Distrito Federal, o alerta amarelo prevê até 50 mm; a Defesa Civil de São Paulo também avisa sobre a volta da chuva.",
+     "fontes": [
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/11/inmet-emite-alerta-laranja-para-temporais-no-centro-oeste-e-no-matopiba-clima-de-hoje/"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536580-inmet-emite-alerta-amarelo-e-preve-chuva-nesta-quarta-11-11.html"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/tempo/2026/11/11/ventos-de-ate-60-km-h-e-queda-de-granizo-cabo-frio-e-regiao-entram-em-alerta-amarelo-do-inmet"
+      },
+      {
+       "n": "Agência SP",
+       "u": "https://agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-retorno-da-chuva-a-partir-desta-quarta-feira-11"
+      }
+     ]
+    },
     {
      "kicker": "Caso FHC",
      "quando": "Ontem",
@@ -486,30 +523,6 @@
      ]
     },
     {
-     "kicker": "Tempo",
-     "quando": "Hoje",
-     "titulo": "Inmet põe Mato Grosso do Sul, Goiás e Mato Grosso em alerta laranja para temporais; quinta tem risco de granizo",
-     "resumo": "Há avisos amarelos também no oeste paulista, no Triângulo Mineiro, no oeste do Sul e no litoral sul da Bahia. Com o fim da massa de ar frio, as temperaturas sobem no Centro-Sul, e Teresina e Boa Vista podem chegar a 38°C.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/inmet-preve-temporais-e-risco-de-granizo-em-areas-agricolas-nestas-4a-e-5a"
-      },
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/tempo/tempestades-ventos-de-ate-60-km-h-chuva-de-ate-100-mm-tres-alertas-brasil-quarta-11/"
-      },
-      {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/meio-ambiente/quarta-feira-tem-alerta-de-temporais-ventos-fortes-e-maxima-de-32oc"
-      },
-      {
-       "n": "Agência SP",
-       "u": "https://agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-retorno-da-chuva-a-partir-desta-quarta-feira-11"
-      }
-     ]
-    },
-    {
      "kicker": "Porto de Santos",
      "quando": "Ontem",
      "titulo": "Porto de Santos confirma ataque hacker e adota plano de contingência; PF investiga",
@@ -539,29 +552,95 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Abu Dhabi, EUA e Irã",
+   "nota": "Abu Dhabi, Irã e Portugal",
    "itens": [
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Negociação entre Ucrânia, Rússia e EUA chega ao segundo dia em Abu Dhabi, sem sinal de cessar-fogo",
-     "resumo": "Zelensky e o secretário de Estado Marco Rubio descreveram o primeiro dia como produtivo; o chanceler russo, Sergei Lavrov, rejeitou uma trégua. Segundo um funcionário americano, os dois lados mostraram alguma flexibilidade sobre território em privado, mas Moscou segue exigindo todo o Donbas.",
+     "titulo": "Rodada de Abu Dhabi termina no segundo dia sem acordo; encontro trilateral durou duas horas",
+     "resumo": "Uma fonte da delegação russa confirmou o fim das conversas mediadas pelos EUA, com Steve Witkoff e Jared Kushner. Kiev disse que seus negociadores passaram depois a uma reunião separada com aliados europeus e enviados americanos.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/mundo/2026/11/11/ucrania-e-russia-encerram-segundo-dia-de-negociacoes-em-abu-dhabi"
+      },
+      {
+       "n": "Notícias ao Minuto",
+       "u": "https://www.noticiasaominuto.com/mundo/3082308/fim-das-negociacoes-em-abu-dhabi-afirma-agencia-russa"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/russia-ucrania-e-eua-retomam-negociacoes-de-paz-em-abu-dhabi/"
+      }
+     ]
+    },
+    {
+     "kicker": "Oriente Médio",
+     "quando": "Ontem",
+     "titulo": "Catar vê avanços na mediação entre EUA e Irã; Trump adia novos ataques, mas mantém bloqueio naval",
+     "resumo": "Depois de reunião do premiê catari na Casa Branca, Doha disse não saber quão perto está um acordo e pediu a reabertura imediata do estreito de Ormuz. Teerã propõe retomar conversas se os ataques pararem e o bloqueio for suspenso.",
+     "lados": [
+      {
+       "quem": "Governo dos EUA",
+       "txt": "Trump afirma que o Irã está militarmente derrotado, que há impulso positivo para encerrar o conflito e que a arma nuclear iraniana não está em negociação."
+      },
+      {
+       "quem": "Governo do Irã",
+       "txt": "O chanceler Abbas Araghchi nega qualquer encontro marcado, e autoridades dizem que só haverá conversa se os EUA atenderem às sete condições de Teerã."
+      }
+     ],
      "fontes": [
       {
        "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near"
+       "u": "https://pt.euronews.com/2026/11/10/qatar-ve-avancos-em-conversacoes-eua-irao-apos-reuniao-na-casa-branca"
       },
       {
-       "n": "Diário de Notícias",
-       "u": "https://www.dn.pt/internacional/rssia-e-ucrnia-tero-demonstrado-flexibilidade-em-privado-sobre-territrio-diz-responsvel-dos-eua"
+       "n": "Renascença",
+       "u": "https://rr.pt/noticia/mundo/2026/11/10/trump-diz-que-irao-esta-na-pratica-militarmente-acabado/492881"
       },
       {
-       "n": "Kyiv Post",
-       "u": "https://www.kyivpost.com/post/89627"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/10/trump-diz-que-a-guerra-com-o-irao-praticamente-terminou-mas-teerao-nega-quaisquer-negociac"
+      }
+     ]
+    },
+    {
+     "kicker": "Portugal",
+     "quando": "Hoje",
+     "titulo": "Depressão Charles leva Portugal a decretar alerta e fechar escolas; Lisboa tem aviso vermelho para vento",
+     "resumo": "As rajadas podem chegar a 120 km/h, e a 140 km/h em áreas expostas, no centro e no sul do país. O governo também suspendeu serviços públicos não essenciais.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/11/11/noticias-do-dia-11-de-novembro-2026-manha"
       },
       {
        "n": "EFE/Infobae",
        "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
+      },
+      {
+       "n": "Notícias ao Minuto",
+       "u": "https://www.noticiasaominuto.com/pais/3082185/ao-minuto-portugal-em-alerta-maioria-das-ocorrencias-na-grande-lisboa"
+      }
+     ]
+    },
+    {
+     "kicker": "Papa",
+     "quando": "Hoje",
+     "titulo": "Leão XIV encerra visita à Argentina com missa em Luján e segue para o Peru",
+     "resumo": "Em Lima, o papa será recebido no Palácio de Governo, numa visita de uma semana que fecha a primeira viagem dele pela América Latina. Leão XIV viveu mais de 20 anos no Peru e tem a nacionalidade peruana.",
+     "fontes": [
+      {
+       "n": "EFE/Infobae",
+       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/11/11/noticias-do-dia-11-de-novembro-2026-manha"
       }
      ]
     },
@@ -594,72 +673,6 @@
        "u": "https://www.brasil247.com/mundo/republicanos-barram-impeachment-de-chefe-do-pentagono-apos-guerra-no-ira/"
       }
      ]
-    },
-    {
-     "kicker": "EUA e Irã",
-     "quando": "Ontem",
-     "titulo": "Trump diz que guerra com o Irã praticamente acabou; Teerã nega que haja negociação",
-     "resumo": "Depois de receber o premiê do Catar, mediador do conflito, Trump disse que novos ataques são muito improváveis. Segundo o Wall Street Journal, os EUA também retiraram aviões de reabastecimento de uma base no Reino Unido por ameaça atribuída ao Irã.",
-     "lados": [
-      {
-       "quem": "Governo dos EUA",
-       "txt": "Trump afirma que o Irã está militarmente derrotado, que há impulso positivo para encerrar o conflito e que a arma nuclear iraniana não está em negociação."
-      },
-      {
-       "quem": "Governo do Irã",
-       "txt": "O chanceler Abbas Araghchi nega qualquer encontro marcado, e autoridades dizem que só haverá conversa se os EUA atenderem às sete condições de Teerã."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/10/trump-diz-que-a-guerra-com-o-irao-praticamente-terminou-mas-teerao-nega-quaisquer-negociac"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/eua-retiram-avioes-segunda-base-militar-reino-unido-apos-ameacas-ira/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/eua-retiram-avioes-de-base-no-reino-unido-apos-ameaca-do-ira-diz-jornal/"
-      }
-     ]
-    },
-    {
-     "kicker": "Papa",
-     "quando": "Hoje",
-     "titulo": "Leão XIV encerra visita à Argentina com missa em Luján e segue para o Peru",
-     "resumo": "Em Lima, o papa será recebido no Palácio de Governo, numa visita de uma semana que fecha a primeira viagem dele pela América Latina. Leão XIV viveu mais de 20 anos no Peru e tem a nacionalidade peruana.",
-     "fontes": [
-      {
-       "n": "EFE/Infobae",
-       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/video/2026/11/11/noticias-do-dia-11-de-novembro-2026-manha"
-      }
-     ]
-    },
-    {
-     "kicker": "Portugal",
-     "quando": "Hoje",
-     "titulo": "Depressão Charles leva Portugal a decretar alerta e fechar escolas; Lisboa tem aviso vermelho para vento",
-     "resumo": "As rajadas podem chegar a 120 km/h, e a 140 km/h em áreas expostas, no centro e no sul do país. O governo também suspendeu serviços públicos não essenciais.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/video/2026/11/11/noticias-do-dia-11-de-novembro-2026-manha"
-      },
-      {
-       "n": "EFE/Infobae",
-       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
-      },
-      {
-       "n": "Notícias ao Minuto",
-       "u": "https://www.noticiasaominuto.com/pais/3082185/ao-minuto-portugal-em-alerta-maioria-das-ocorrencias-na-grande-lisboa"
-      }
-     ]
     }
    ]
   },
@@ -671,21 +684,33 @@
    "itens": [
     {
      "kicker": "Seleção",
-     "quando": "Ontem",
-     "titulo": "Seleção completa o grupo em Singapura e intensifica preparação para enfrentar o Japão no sábado",
-     "resumo": "Os 26 convocados de Carlo Ancelotti estão reunidos desde terça. O Brasil enfrenta o Japão no sábado (14), às 7h15, e Singapura na terça (17), às 7h, ambos no Estádio Nacional de Singapura.",
+     "quando": "Hoje",
+     "titulo": "Ancelotti testa meio-campo em Singapura; ataque com Rayan, Estevão, Raphinha e Vinicius Júnior parece definido",
+     "resumo": "No coletivo, o técnico começou com Bento; Wesley, Jair, Gabriel Magalhães e Douglas Santos; Marlon Gomes e Gabriel Bontempo, e depois testou Andrey Santos, João Gomes e André Luiz num 4-3-3. Bruno Guimarães foi poupado, mas deve ser titular contra o Japão no sábado, às 7h15.",
      "fontes": [
       {
-       "n": "Diário do Aço",
-       "u": "https://www.diariodoaco.com.br/noticia/138327-selecao-brasileira-completa-grupo-em-singapura-para-amistosos-de-novembro"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-testa-formacao-e-brasil-pode-ter-novidades-contra-o-japao/"
       },
       {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/selecao-brasileira/vini-jr-e-endrick-chegam-a-selecao-brasileira-e-participam-de-primeiro-treino-em-singapura"
+       "n": "Placar",
+       "u": "https://placar.com.br/selecao-brasileira/escalacao-da-selecao-tem-duvidas-no-meio-e-ataque-definido-para-enfrentar-o-japao/?media=tv&content=geral"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/brasil/ancelotti-preserva-quatro-jogadores-em-treino-da-selecao-em-singapura,bd33c3ef1a4b28a0d3b2e0cbcf805aa11daar9o0.html"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/selecao-brasileira/raphinha-sera-capitao-e-vestira-a-camisa-10-da-selecao-contra-o-japao.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Luto",
+     "quando": "09/11",
+     "titulo": "Morre aos 79 anos Vanderlei, lateral-esquerdo campeão da Libertadores de 1976 pelo Cruzeiro",
+     "resumo": "Ele fez 536 jogos pelo clube, o sétimo com mais partidas na história, e ganhou seis Campeonatos Mineiros. Defendeu a Seleção na Copa América de 1975.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/morre-vanderlei-lateral-esquerdo-campeao-da-libertadores-pelo-cruzeiro/"
       }
      ]
     },
@@ -739,8 +764,45 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Câncer de próstata, dengue e sarampo",
+   "nota": "Mpox, Anvisa e Novembro Azul",
    "itens": [
+    {
+     "kicker": "Mpox",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde compra 25 mil doses de vacina contra mpox; lote deve chegar em três semanas",
+     "resumo": "A compra foi feita pelo fundo rotatório da Opas. O país tem 943 casos confirmados e uma morte em 2026, com alta recente no Rio, em São Paulo, no Ceará e no DF; a vacina é indicada a grupos específicos, como pessoas com HIV e usuários de PrEP.",
+     "foto": {
+      "src": "fotos/vacina.jpg",
+      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4368062/mpox-lote-de-25-mil-doses-da-vacina-deve-chegar-ao-brasil-nas-proximas-semanas"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/brasil/2026/11/7534340-ministerio-da-saude-vai-adquirir-20-mil-doses-de-vacina-contra-mpox.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Anvisa",
+     "quando": "Ontem",
+     "titulo": "Anvisa manda apreender suplementos vendidos sem registro, inclusive em grandes sites de compras",
+     "resumo": "A medida atinge produtos da W Nutry, o colostro em pó Muuh Magic, que prometia prevenir diabetes, e marcas que os fabricantes indicados dizem não reconhecer, vendidas no Mercado Livre e na Shopee.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/kL4sBdVHau6U467C9Nn7O68ygWw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11-11-2020_sede_anvisa-4_0.jpg?itok=-3OpV90w",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
+     "destaque": false,
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-determina-apreensao-de-suplementos-alimentares"
+      }
+     ]
+    },
     {
      "kicker": "Novembro Azul",
      "quando": "Ontem",
@@ -780,30 +842,6 @@
        "u": "https://www.metropoles.com/saude/fiocruz-projeta-866-mil-casos-de-dengue-em-2027-e-faz-alerta-sobre-el-nino"
       }
      ]
-    },
-    {
-     "kicker": "Sarampo",
-     "quando": "09/11",
-     "titulo": "Ministério da Saúde repassa R$ 524 mil para conter o sarampo no Alto Solimões",
-     "resumo": "A portaria, publicada na segunda (9), destina o dinheiro a Tabatinga, Benjamin Constant e Atalaia do Norte, para vacinação, vigilância e bloqueio da transmissão. O Amazonas soma 21 dos 65 casos importados confirmados no país em 2026.",
-     "foto": {
-      "src": "fotos/sarampo.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Gazeta da Amazônia",
-       "u": "https://gazetadaamazonia.com.br/09/11/2026/vacinacao-sarampo-no-amazonas/"
-      },
-      {
-       "n": "Em Tempo",
-       "u": "https://emtempo.com.br/611871/amazonas/municipios-amazonas-recebem-recursos-combate-sarampo/"
-      },
-      {
-       "n": "Rios de Notícias",
-       "u": "https://www.riosdenoticias.com.br/saude-repassa-r-524-mil-para-conter-casos-de-sarampo-no-amazonas/"
-      }
-     ]
     }
    ]
   },
@@ -811,8 +849,32 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "IA nas escolas e Enem",
+   "nota": "Reaplicação do Enem e IA",
    "itens": [
+    {
+     "kicker": "Enem",
+     "quando": "09/11",
+     "titulo": "Candidatos de 39 locais que ficaram sem luz no Enem têm reaplicação garantida; pedidos vão de 16 a 20 de novembro",
+     "resumo": "Foram 36 locais no Rio de Janeiro, 2 no Amapá e 1 em Minas Gerais. A reaplicação será em 15 e 16 de dezembro e vale também para quem teve doenças listadas no edital; quem faltou no primeiro dia deve fazer a prova de domingo normalmente.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/KgpYqt72mDbH8jXd-Hge48HQKR8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/toms6189.jpg?itok=dkh0GsYO",
+      "credito": "Tomaz Silva/Agência Brasil"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame"
+      },
+      {
+       "n": "Foco Enem",
+       "u": "https://focoenem.com.br/vestibulares/enem/mec-anuncia-reaplicacao-do-enem-2026-para-39-locais-afetados-por-falta-de-energia/"
+      },
+      {
+       "n": "News Rondônia",
+       "u": "https://newsrondonia.com.br/educacao/2026/11/10/inep-abre-prazo-para-pedido-de-reaplicacao-do-enem-2026-a-partir-do-dia-16-de-novembro"
+      }
+     ]
+    },
     {
      "kicker": "Inteligência artificial",
      "quando": "Ontem",
@@ -839,27 +901,8 @@
        "n": "Times Brasil",
        "u": "https://timesbrasil.com.br/brasil/inteligencia-artificial-nas-escolas-veja-o-que-muda-com-as-novas-regras-do-mec/"
       }
-     ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "Ontem",
-     "titulo": "Quem faltou ao primeiro dia do Enem por motivo previsto no edital pode pedir reaplicação de 16 a 20 de novembro",
-     "resumo": "Valem casos como doenças infectocontagiosas na semana da prova, falta de luz ou erro na aplicação, com comprovante enviado pela Página do Participante. Os afetados por apagões no Amapá, em Minas e no Rio têm a reaplicação garantida, em 15 e 16 de dezembro; o segundo dia de provas é neste domingo, com ciências da natureza e matemática.",
-     "fontes": [
-      {
-       "n": "RCN67/Agência Brasil",
-       "u": "https://www.rcn67.com.br/tres-lagoas/jpnews/reaplicacao-do-enem-2026-podera-ser-solicitada-de-16-a-20-de-novembro/"
-      },
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/concursos-e-carreiras/faltou-ao-1o-dia-do-enem-2026-veja-se-pode-fazer-o-2o-dia-de-provas/"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/educacao/faltou-ao-1o-dia-do-enem-2026-veja-se-pode-fazer-o-2o-dia-de-provas"
-      }
-     ]
+     ],
+     "destaque": false
     },
     {
      "kicker": "Pé-de-Meia",
@@ -876,30 +919,6 @@
        "u": "https://agenciagov.ebc.com.br/noticias/202611/leonardo-barchini-201cestamos-comprometidos-a-expandir-o-pe-de-meia-para-todos-os-estudantes-da-rede-publica201d"
       }
      ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "09/11",
-     "titulo": "Presença de egressos da rede pública no Enem sobe para 65%, mesmo com abstenção geral de 32%",
-     "resumo": "Segundo o MEC, mais de 1,9 milhão de concluintes de escolas públicas se inscreveram, cerca de 250 mil a mais que em 2025, e a presença deles subiu ante os 53,8% do ano passado. No total, 68% dos mais de 5 milhões de inscritos fizeram a prova, a menor taxa desde 2021; o ministro Leonardo Barchini atribui parte das faltas à inscrição automática.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/o4UwM9a3S6SO9qPwAdQX6jkTB4c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3133.jpg.jpeg?itok=5YEW7evO",
-      "credito": "Valter Campanato/Agência Brasil"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-registra-aumento-na-participacao-de-alunos-da-rede-publica"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/educacao/enem-2026-teve-32-de-abstencao-mas-aumento-de-alunos-da-rede-publica/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
-      }
-     ]
     }
    ]
   },
@@ -907,25 +926,45 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "COP31, pesquisa e tecnologia",
+   "nota": "COP31 e inteligência artificial",
    "itens": [
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "COP31 abre cúpula de líderes com agenda de negociação ainda travada e sem delegação dos EUA com mandato",
-     "resumo": "A conferência em Antália tem presidência dividida entre Turquia e Austrália, e grupos como o africano e a China pedem espaço para financiamento de adaptação e comércio. A ONU confirmou 77 chefes de Estado; a reunião vai até 20 de novembro.",
+     "titulo": "Brasil leva à COP31 plano nacional contra o desmatamento e meta de restaurar 40 milhões de hectares em dez anos",
+     "resumo": "A proposta prevê transformar o chamado Arco do Desmatamento em área de restauração e apoiar a Década da ONU de reflorestamento, de 2027 a 2036. O governo diz já ter recuperado 4,5 milhões de hectares de solos e pastagens degradados.",
+     "foto": {
+      "src": "fotos/floresta.jpg",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/esg/cop31-comeca-na-turquia-com-presidencia-a-dois-pauta-travada-e-77-lideres-a-caminho/"
+       "n": "TVT News",
+       "u": "https://tvtnews.com.br/discurso-lula-na-cop31-cupula-lideres-florestas/"
       },
       {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://www.diariodocentrodomundo.com.br/cop31-comeca-turquia-debates-clima-energia-financiamento"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-planeta-nao-pode-esperar-em-meio-guerras-e-conflitos"
       },
       {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/sustentabilidade/brasil-pauta-na-cop31-a-saida-dos-combustiveis-fosseis/"
+       "n": "SP Diário",
+       "u": "https://spdiario.com.br/noticias/politica/em-discurso-na-cop31-lula-cobra-paises-ricos-e-critica-o-novo-silencio-sobre-o-clima.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Inteligência artificial",
+     "quando": "Hoje",
+     "titulo": "Resultado da CoreWeave puxa ações de nuvem para IA, e Nvidia sobe cerca de 5% após dois dias de queda",
+     "resumo": "A empresa elevou a previsão de receita do ano e disse que vai reduzir empréstimos, o que diminuiu temores de bolha no setor. A ação da CoreWeave subia perto de 10%; o Bernstein avaliou o trimestre como excelente, mas alertou para riscos quando a falta de capacidade de computação diminuir.",
+     "fontes": [
+      {
+       "n": "Reuters/The Star",
+       "u": "https://www.thestar.com.my/tech/tech-news/2026/11/11/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-as-results-ease-bubble-fears"
+      },
+      {
+       "n": "Reuters/MarketScreener",
+       "u": "https://www.marketscreener.com/news/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-as-results-ease-bubble-fears-ce785edbdc8bf322"
       }
      ]
     },
@@ -980,18 +1019,6 @@
        "u": "https://www.infomoney.com.br/mercados/nvidia-cai-mais-de-4-apos-escandalo-mas-nao-afeta-setor-o-que-esperar-agora/"
       }
      ]
-    },
-    {
-     "kicker": "Pesquisa",
-     "quando": "09/11",
-     "titulo": "Estudo da USP mostra que o vírus zika destrói, em laboratório, células de tumores ligados à neurofibromatose",
-     "resumo": "O efeito apareceu em culturas de células, em modelos 3D e em amostra de paciente, segundo trabalho do Centro de Estudos do Genoma Humano publicado na revista Molecular Therapy: Oncology. A pesquisa ainda é pré-clínica e não foi testada como tratamento em pessoas.",
-     "fontes": [
-      {
-       "n": "Jornal da USP",
-       "u": "https://jornal.usp.br/ciencias/pesquisa-da-usp-revela-potencial-do-zika-contra-tumores-associados-a-neurofibromatose"
-      }
-     ]
     }
    ]
   },
@@ -999,8 +1026,48 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Mortes, Grammy Latino e artes",
+   "nota": "Grammy Latino e mortes",
    "itens": [
+    {
+     "kicker": "Música",
+     "quando": "Hoje",
+     "titulo": "Grammy Latino é amanhã em Las Vegas, com Anitta em Álbum do Ano e três brasileiros em Artista Revelação",
+     "resumo": "A cerimônia começa às 22h (Brasília) no MGM Grand Garden Arena, com transmissão do Multishow e do Bis. Loulu Gilberto, Dora Sanches e Zeca Veloso disputam Revelação; hoje à noite, Daddy Yankee recebe a homenagem de Personalidade do Ano.",
+     "fontes": [
+      {
+       "n": "Rolling Stone Brasil",
+       "u": "https://rollingstone.com.br/musica/onde-assistir-ao-grammy-latino-2026-que-acontece-nesta-quinta-feira-12/"
+      },
+      {
+       "n": "Billboard Brasil",
+       "u": "https://billboard.com.br/grammy-latino-2026-e-os-brasileiros/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/entretenimento/luisa-sonza-e-daniela-mercury-serao-apresentadoras-do-grammy-latino-2026"
+      },
+      {
+       "n": "Latin Grammy",
+       "u": "https://cms.latingrammy.com/news/daddy-yankee-named-2026-latin-recording-academy-person-of-the-year/"
+      }
+     ]
+    },
+    {
+     "kicker": "Luto",
+     "quando": "Ontem",
+     "titulo": "Morre aos 76 anos Marcos Camino, fundador do grupo argentino de cumbia Los Palmeras",
+     "resumo": "O cantor foi encontrado morto no estúdio da banda, segundo a imprensa; a causa não foi divulgada. O grupo tem mais de cinco décadas de carreira.",
+     "fontes": [
+      {
+       "n": "Correio Braziliense",
+       "u": "https://tvprime.correiobraziliense.com.br/noticia/413392/celebridades/policia-e-acionada-e-querido-cantor-e-encontrado-sem-vida-momento-de-imensa-dor-11112026"
+      },
+      {
+       "n": "Área VIP",
+       "u": "https://www.areavip.com.br/famosos/morre-cantor-marcos-camino-aos-76-anos/"
+      }
+     ]
+    },
     {
      "kicker": "Morte",
      "quando": "Ontem",
@@ -1018,26 +1085,14 @@
      ]
     },
     {
-     "kicker": "Música",
-     "quando": "Hoje",
-     "titulo": "Daddy Yankee é homenageado hoje como Personalidade do Ano em Las Vegas, véspera do Grammy Latino",
-     "resumo": "A gala da Academia Latina da Gravação abre a reta final da semana do prêmio, que tem cerimônia na quinta. Anitta concorre a álbum do ano, e Marina Sena, Ana Castela e Marisa Monte estão entre os brasileiros indicados.",
+     "kicker": "Luto",
+     "quando": "Ontem",
+     "titulo": "Família confirma morte da ex-modelo e atriz Toukie Smith, pioneira entre modelos negras na alta-costura",
+     "resumo": "Ela morreu em 4 de novembro, em Nova York, de complicações da esclerose múltipla; os filhos gêmeos anunciaram a morte na terça. Desfilou para Yves Saint Laurent e Givenchy e atuou em '227' e 'Miami Vice'.",
      "fontes": [
       {
-       "n": "Latin Grammy",
-       "u": "https://cms.latingrammy.com/news/daddy-yankee-named-2026-latin-recording-academy-person-of-the-year/"
-      },
-      {
-       "n": "Billboard Brasil",
-       "u": "https://billboard.com.br/daddy-yankee-personalidade-do-ano-academia-latina/"
-      },
-      {
-       "n": "Rolling Stone Brasil",
-       "u": "https://rollingstone.com.br/musica/grammy-latino-2026-indicados/"
-      },
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/viva/musica/grammy-latino-2026-tem-anitta-marina-sena-e-ana-castela-entre-os-indicados/"
+       "n": "Correio Braziliense",
+       "u": "https://tvprime.correiobraziliense.com.br/noticia/413302/televisao/globo-acaba-de-confirmar-a-morte-de-querida-atriz-aos-74-anos-10112026"
       }
      ]
     },
