@@ -1,33 +1,33 @@
 {
- "data": "Terça-feira, 10 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "10/11/2026 · 19h20 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
+ "data": "Quarta-feira, 11 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "11/11/2026 · 07h30 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
  "mercado_hora": "Cotações de 17h00",
- "fontes": 65,
+ "fontes": 68,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 17h",
+   "nome": "Ibovespa · fechamento 10/11",
    "valor": "171.337 pts",
    "var": "-0,52%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · fechamento 17h",
+   "nome": "Dólar comercial · fechamento 10/11",
    "valor": "R$ 5,59",
    "var": "+1,48%",
    "dir": "up"
   },
   {
-   "nome": "Petróleo Brent · 17h",
+   "nome": "Petróleo Brent · 10/11, 17h",
    "valor": "US$ 91,49",
    "var": "-1,17%",
    "dir": "down"
   },
   {
-   "nome": "IPCA 2027 · Boletim Focus",
-   "valor": "4,90%",
-   "var": "projeção subiu",
+   "nome": "Kospi (Seul) · 11/11",
+   "valor": "fechamento",
+   "var": "+2,6%",
    "dir": "up"
   },
   {
@@ -39,18 +39,18 @@
  ],
  "agenda": [
   {
-   "hora": "Qua 11/11",
-   "txt": "Lula discursa na abertura da cúpula de líderes da COP31, em Antália; Abu Dhabi tem o segundo dia de negociação entre Ucrânia, Rússia e EUA",
-   "cat": "ciencia"
-  },
-  {
-   "hora": "Qua 11/11",
-   "txt": "Senado precisa votar a MP das dívidas rurais, aprovada pela Câmara, antes que ela perca a validade",
+   "hora": "Qua 11/11 · 11h",
+   "txt": "Bancada do PL se reúne em Brasília para decidir se apoia a reeleição de Hugo Motta; Senado deve votar a MP das dívidas rurais",
    "cat": "politica"
   },
   {
-   "hora": "Qui 12/11",
-   "txt": "IBGE divulga o IPCA de outubro às 9h; à noite, Grammy Latino em Las Vegas, com Anitta indicada a álbum do ano",
+   "hora": "Qua 11/11",
+   "txt": "Lula discursa na cúpula de líderes da COP31, em Antália; Abu Dhabi tem o segundo dia de negociação entre Ucrânia, Rússia e EUA",
+   "cat": "ciencia"
+  },
+  {
+   "hora": "Qui 12/11 · 9h",
+   "txt": "IBGE divulga o IPCA de outubro; a MP das dívidas rurais perde a validade se não for votada; à noite, Grammy Latino em Las Vegas",
    "cat": "economia"
   },
   {
@@ -64,8 +64,8 @@
    "cat": "educacao"
   },
   {
-   "hora": "Sáb 28/11",
-   "txt": "Palmeiras e Estudiantes decidem a Libertadores em Montevidéu",
+   "hora": "Sáb 28/11 · 17h",
+   "txt": "Palmeiras e Estudiantes decidem a Libertadores no Estádio Centenário, em Montevidéu",
    "cat": "esporte"
   }
  ],
@@ -162,44 +162,40 @@
   }
  ],
  "manchete": {
-  "kicker": "Fechamento do mercado",
-  "titulo": "Dólar fecha a R$ 5,59, maior valor desde julho de 2025, e Ibovespa cai 0,52% com juros altos no Brasil e nos EUA",
-  "resumo": "A moeda americana subiu cerca de 1,5% no dia, depois de a inflação nos EUA vir acima do previsto e de a ata do Copom indicar Selic de 13,75% por mais tempo. A bolsa terminou aos 171.337 pontos, e a Petrobras divulga o balanço do terceiro trimestre nesta noite.",
-  "foto": {
-   "src": "fotos/real.jpg",
-   "credito": "José Cruz/Agência Brasil (arquivo)"
-  },
-  "entenda": "Dois fatores pesaram no mercado nesta terça. Pela manhã, o Banco Central publicou a ata da reunião em que manteve a Selic em 13,75% e interrompeu os cortes: o texto diz que expectativas de inflação acima da meta exigem juros altos por um período maior e cita petróleo, El Niño, câmbio e o fim da escala 6x1 como fontes de pressão. Às 10h30, os EUA informaram alta de 0,4% nos preços ao consumidor em outubro, acima do 0,3% esperado, o que aumentou as apostas de que o Federal Reserve suba os juros em dezembro. Juros mais altos lá fora tendem a atrair dinheiro para os EUA e a valorizar o dólar. No Boletim Focus da segunda, o mercado já havia elevado para 4,90% a projeção do IPCA de 2027.",
+  "kicker": "Balanço da Petrobras",
+  "titulo": "Petrobras lucra R$ 39,7 bilhões no terceiro trimestre, alta de 21,5%, mas resultado fica abaixo das estimativas do mercado",
+  "resumo": "A estatal teve produção recorde e anunciou R$ 15,3 bilhões em dividendos, mas o lucro ficou cerca de 15% abaixo da mediana das projeções, diferença que a empresa atribuiu a fatores extraordinários. O balanço saiu depois do fechamento de terça e deve pesar nas ações nesta quarta.",
+  "entenda": "A Petrobras divulga seus resultados depois do pregão, e o mercado reage no dia seguinte. Analistas esperavam lucro perto de R$ 46,8 bilhões; sem os itens extraordinários, o lucro ajustado foi de R$ 47,9 bilhões, segundo a companhia. A receita subiu com o petróleo mais caro ao longo do ano e com o aumento da produção, que chegou a 3,51 milhões de barris de óleo equivalente por dia. A empresa também elevou as projeções para 2026: produção média de 3,3 a 3,4 milhões de barris por dia, investimentos de até US$ 25,5 bilhões e geração de caixa de até US$ 50 bilhões. A União, maior acionista, fica com cerca de 29% dos dividendos.",
   "fatos": [
-   "O Ibovespa oscilou entre 170.569 e 173.271 pontos e fechou em queda de 0,52%; em Nova York, o Nasdaq caiu 0,74%.",
-   "O dólar comercial terminou a R$ 5,59, alta de cerca de 1,5%, e acumula valorização de 2,6% em novembro.",
-   "Analistas projetam lucro da Petrobras perto de R$ 46,8 bilhões no trimestre, ante R$ 32,7 bilhões um ano antes; os números saem após o fechamento."
+   "Receita de R$ 169,3 bilhões (+32,4%) e Ebitda de R$ 85,8 bilhões (+34,3%) no trimestre.",
+   "Produção de diesel bateu recorde, com 769 mil barris por dia, e as importações do combustível caíram 8,8%.",
+   "No acumulado de nove meses, o lucro soma R$ 124,8 bilhões, alta de 32%; no segundo trimestre, tinha sido de R$ 52,4 bilhões."
   ],
   "fontes": [
    {
-    "n": "Bora Investir (B3)",
-    "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-052-pressionado-por-expectativa-de-juros-elevados-no-brasil-e-nos-eua-dolar-vai-a-r-559/",
-    "d": "Fechamento da bolsa"
-   },
-   {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/ibovespa-cai-052-com-inflacao-dos-eua-e-ata-do-copom-no-radar",
-    "d": "Bolsa e petróleo"
-   },
-   {
-    "n": "TMC",
-    "u": "https://tmc.com.br/economia/dolar-hoje-cotacao-10-11-2026/",
-    "d": "Cotação do dólar"
-   },
-   {
     "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/na-ata-do-copom-bc-diz-que-cenario-exige-selic-alta-por-mais-tempo/",
-    "d": "Conteúdo da ata"
+    "u": "https://www.cnnbrasil.com.br/economia/money/negocios/analise-resultado-do-3-trimestre-da-petrobras-reflete-maior-producao/",
+    "d": "Comparação com estimativas"
    },
    {
-    "n": "Brasil em Folhas",
-    "u": "https://brasilemfolhas.com.br/2026/11/petrobras-deve-registrar-lucro-de-r-46-8-bilhoes-no-terceiro-trimestre/",
-    "d": "Projeção da Petrobras"
+    "n": "O Tempo",
+    "u": "https://www.otempo.com.br/economia/2026/11/10/lucro-da-petrobras-cresce-21-5-no-terceiro-trimestre-para-r-39-7-bilhoes",
+    "d": "Números do balanço"
+   },
+   {
+    "n": "Times Brasil",
+    "u": "https://timesbrasil.com.br/empresas-e-negocios/petrobras-lucra-r-397-bilhoes-no-3o-trimestre/",
+    "d": "Lucro do trimestre"
+   },
+   {
+    "n": "Imirante",
+    "u": "https://imirante.com/noticias/brasil/2026/11/10/petrobras-lucro-r-398-bilhoes-3-trimestre",
+    "d": "Alta de 21,5%"
+   },
+   {
+    "n": "Investidor10",
+    "u": "https://investidor10.com.br/noticias/petrobras-petr4-pagara-dividendos-de-r-15-3-bilhoes-veja-condicoes-123811/",
+    "d": "Dividendos anunciados"
    }
   ]
  },
@@ -208,141 +204,129 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "PF no STJ, inquérito das fake news e MP rural",
+   "nota": "Lula na COP31, PL e MP rural",
    "itens": [
     {
-     "kicker": "Polícia Federal",
+     "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "PF prende ex-servidor do STJ suspeito de repassar dados sigilosos ao advogado Willer Tomaz",
-     "resumo": "Humberto Fontoura Pradera, ex-secretário de Tecnologia do tribunal, foi preso preventivamente no Distrito Federal por ordem do STF, na segunda fase da Operação Linceu. Segundo a investigação, ele enviou ao advogado, amigo do senador Flávio Bolsonaro, a foto de um documento quatro dias antes da publicação oficial; a defesa de Willer não quis comentar, e a de Pradera não foi localizada.",
+     "titulo": "Lula discursa hoje na cúpula de líderes da COP31, na Turquia, depois de reunião com Erdogan sobre comércio",
+     "resumo": "Na primeira viagem internacional desde a reeleição, o presidente deve apresentar a queda de 27% nas emissões líquidas do Brasil entre 2022 e 2024 e os US$ 7,8 bilhões já prometidos ao fundo de florestas TFFF. Ele tem mais de 15 pedidos de encontros bilaterais; França, Alemanha, Itália, China e Japão não enviaram seus chefes de governo.",
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-prende-ex-servidor-do-stj-suspeito-de-vazar-informacoes-sigilosas/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral"
       },
       {
-       "n": "Midiamax",
-       "u": "https://midiamax.com.br/brasil/2026/pf-prende-ex-servidor-stj-teria-repassado-informacoes-sigilosas-willer-tomaz/"
+       "n": "Exame",
+       "u": "https://exame.com/esg/cop31-comeca-na-turquia-com-presidencia-a-dois-pauta-travada-e-77-lideres-a-caminho/"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/brasil/2026/11/10/lula-esta-na-turquia-e-se-prepara-para-discurso-na-cop-31.html"
+      },
+      {
+       "n": "EFE/Infobae",
+       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
+      }
+     ]
+    },
+    {
+     "kicker": "Câmara",
+     "quando": "Hoje",
+     "titulo": "PL reúne bancada às 11h para decidir se apoia a reeleição de Hugo Motta ou lança candidato próprio",
+     "resumo": "O partido elegeu 121 deputados, a maior bancada de 2027, e tem Sóstenes Cavalcante e Altineu Côrtes como nomes cotados para uma candidatura própria. Motta articula um bloco de mais de 350 deputados em 15 partidos; a federação do PT resiste à entrada do PL. A eleição é em 1º de fevereiro.",
+     "lados": [
+      {
+       "quem": "Ala que resiste a Motta",
+       "txt": "Critica a proximidade do presidente da Câmara com Lula e o apoio dele ao petista no segundo turno, quando o Republicanos ficou com Flávio Bolsonaro."
+      },
+      {
+       "quem": "Valdemar Costa Neto",
+       "txt": "O presidente do PL defende posição pragmática para que o partido não fique isolado na divisão das comissões, como a CCJ."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/rachado-pl-entra-em-semana-decisiva-sobre-apoio-a-reeleicao-de-hugo-motta"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/pl-reune-bancada-para-discutir-apoio-a-motta-e-cargos-na-camara/"
       },
       {
        "n": "Brasil 247",
-       "u": "https://www.brasil247.com/poder/policia-federal-prende-ex-servidor-do-stj-por-vazar-dados-sigilosos-a-willer-tomaz/"
+       "u": "https://www.brasil247.com/brasil/pl-enfrenta-divisao-interna-sobre-apoio-a-reeleicao-de-hugo-motta-para-presidencia-da-camara/"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/politica/pl-impasse-candidatura-camara"
       }
      ]
     },
     {
-     "kicker": "Inquérito das fake news",
+     "kicker": "Senado",
      "quando": "Hoje",
-     "titulo": "STF diz que pode levar até três semanas para divulgar decisões do inquérito das fake news; Moraes esteve com Fachin antes do arquivamento",
-     "resumo": "Antes da liberação, dados bancários, fiscais e telefônicos serão separados num apenso sigiloso. O Metrópoles informou que Moraes foi à presidência do STF na noite de segunda, pouco antes da decisão de Fachin, que também tratou do Orçamento de 2027 com o ministro do Planejamento; reportagem do UOL afirma que os autos ficaram sete anos só no gabinete de Moraes, que não comentou.",
-     "fontes": [
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/10/stf-tres-semanas-divulgar-decisoes-moraes/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-fachin-inquerito-fake-news"
-      },
-      {
-       "n": "Diario de Pernambuco",
-       "u": "https://www.diariodepernambuco.com.br/politica/2026/11/11728758-moraes-montou-estrutura-paralela-no-gabinete-para-inquerito-das-fake-news-afirma-site.html"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-encerra-o-polemico-inquerito-das-fake-news/"
-      }
-     ],
-     "lados": [
-      {
-       "quem": "Críticos do inquérito",
-       "txt": "Entidades de imprensa, juristas e a OAB apontaram natureza perpétua, concentração de poderes em um só ministro e medidas tomadas sem consulta prévia à PGR, como a retirada de reportagem da Crusoé em 2019."
-      },
-      {
-       "quem": "Defensores do inquérito",
-       "txt": "O STF validou a abertura por 10 a 1 em 2020, e a investigação gerou mais de 1.600 ações penais. Em setembro, Flávio Dino questionou se um juiz pode prometer o fim de uma apuração e defendeu que inquéritos terminem por denúncia ou arquivamento técnico."
-      }
-     ]
-    },
-    {
-     "kicker": "Congresso",
-     "quando": "Hoje",
-     "titulo": "Câmara aprova MP que renegocia dívidas rurais; Senado tem até quarta para votar",
-     "resumo": "O texto do relator Paulo Pimenta (PT-RS) amplia o prazo das dívidas aceitas para 31 de outubro de 2026, reduz a queda de receita exigida para ter acesso e inclui CPRs em atraso desde 2024. A medida cria linhas de crédito e põe a União num fundo garantidor para produtores atingidos por eventos climáticos.",
+     "titulo": "Senado deve votar hoje a MP das dívidas rurais, que perde a validade na quinta",
+     "resumo": "A Câmara aprovou na terça, em votação simbólica, o texto do relator Paulo Pimenta (PT-RS), que amplia as dívidas e operações que podem ser renegociadas. O governo estimava alcançar R$ 100 bilhões em renegociações quando editou a medida, em julho.",
      "lados": [
       {
        "quem": "Frente Parlamentar da Agropecuária",
-       "txt": "Diz que o texto final não é o ideal, mas atende parte das demandas, e pede que o governo não vete trechos."
+       "txt": "Espera aprovação com ampla maioria e diz que o texto foi acordado com o relator e atende às demandas do setor."
       },
       {
-       "quem": "Novo",
-       "txt": "O líder Marcel van Hattem afirma que o avanço é modesto, que a medida alcança cerca de 10% dos produtores e que gaúchos atingidos pela enchente de 2024 seguem sem solução definitiva."
+       "quem": "Equipe econômica",
+       "txt": "É contra as mudanças feitas na Câmara e sinaliza, nos bastidores, a possibilidade de vetar trechos; o relator nega impacto fiscal adicional."
       }
      ],
      "fontes": [
       {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7536378-camara-aprova-mp-das-dividas-rurais-texto-segue-para-o-senado.html"
+       "n": "Tribuna de Petrópolis",
+       "u": "https://tribunadepetropolis.com.br/noticias/senado-deve-votar-amanha-mp-da-renegociacao-das-dividas-rurais/"
       },
       {
-       "n": "Agência FPA",
-       "u": "https://agencia.fpagropecuaria.org.br/2026/11/10/camara-aprova-mp-das-dividas-rurais-com-mudancas-defendidas-pela-fpa/"
+       "n": "Gazeta Mercantil",
+       "u": "https://gazetamercantil.com/camara-aprova-mp-renegociacao-dividas-rurais-100-bilhoes"
+      },
+      {
+       "n": "A Rede",
+       "u": "https://arede.info/cotidiano/692249/camara-aprova-mp-da-renegociacao-das-dividas-rurais"
       }
      ]
     },
     {
-     "kicker": "Escala 6x1",
-     "quando": "Hoje",
-     "titulo": "Dino reúne no STF empresários, centrais sindicais, AGU e Congresso para discutir os prazos do fim da escala 6x1",
-     "resumo": "A audiência de conciliação trata de ações da CNI e da CNC contra a forma de implantação da emenda que reduz a jornada de 44 para 40 horas, com a primeira etapa, de 42 horas, prevista para 16 de dezembro. Dino disse que a redução da jornada não está em negociação, só os detalhes da transição.",
-     "lados": [
-      {
-       "quem": "Confederações patronais (CNI e CNC)",
-       "txt": "Pedem adiar a etapa de 42 horas para outubro de 2027 e a de 40 horas para 2028, poupar contratos e convenções anteriores à emenda e as pequenas empresas até haver regulamentação, e liberar a negociação coletiva de escalas."
-      },
-      {
-       "quem": "Defensores da emenda",
-       "txt": "Dino considera a mudança constitucional por ampliar o descanso semanal; o governo e as centrais defendem o calendário aprovado pelo Congresso, que já prevê transição em duas etapas."
-      }
-     ],
+     "kicker": "Big techs",
+     "quando": "Ontem",
+     "titulo": "Hugo Motta sinaliza que vai levar a voto projeto que cria regras de concorrência para as big techs",
+     "resumo": "O texto cria no Cade uma superintendência para mercados digitais e permite classificar como de relevância sistêmica empresas com faturamento global acima de R$ 50 bilhões ou nacional acima de R$ 5 bilhões. O relator, Aliel Machado (PV-PR), ainda prepara o parecer; o projeto tem pedido de urgência.",
      "fontes": [
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/politica/escala-6x1-audiencia-reune-no-stf-representantes-de-empregadores-e-trabalhadores/"
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/brasil/motta-sinaliza-intencao-de-levar-projeto-sobre-big-techs-a-votacao"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/stf-promove-audiencia-nesta-terca-10-para-discutir-fim-da-escala-6x1/"
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/11/10/hugo-motta-sinaliza-votacao-de-projeto"
       },
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/brasil/dino-inclui-acao-da-cni-em-audiencia-sobre-fim-da-6x1-no-stf"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-marca-audiencia-de-conciliacao-sobre-fim-da-escala-6x1"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/governo-quer-aprovar-regras-para-ia-e-big-techs-ainda-em-2026/"
       }
      ]
     },
     {
-     "kicker": "Polícia Federal",
-     "quando": "Hoje",
-     "titulo": "Direção da PF manda reescrever relatórios sobre ligações de ministros do STF com Daniel Vorcaro",
-     "resumo": "Os três relatórios citam Nunes Marques, Alexandre de Moraes e Dias Toffoli e usam dados de celulares apreendidos na Operação Compliance Zero. A cúpula da PF considerou as versões analíticas demais e pediu textos apenas descritivos, como solicitou Fachin; as novas versões devem chegar ao STF até o fim do mês.",
-     "lados": [
-      {
-       "quem": "Direção da PF",
-       "txt": "Diz que os textos iam além do permitido e que a troca de dois delegados faz parte de uma reestruturação iniciada em outubro, sem efeito sobre as investigações."
-      },
-      {
-       "quem": "Críticos internos",
-       "txt": "Policiais ouvidos sob reserva viram nas trocas um sinal de desagrado com o conteúdo dos relatórios; os ministros citados não se manifestaram."
-      }
-     ],
+     "kicker": "Diplomacia",
+     "quando": "Ontem",
+     "titulo": "Rubio cobra do Brasil aval ao novo embaixador dos EUA e diz que impasse precisa ser resolvido",
+     "resumo": "Em Paris, à margem da reunião de chanceleres do G7, o secretário de Estado afirmou que Washington continuará tratando com o governo Lula. O governo brasileiro não havia comentado a declaração até a publicação.",
      "fontes": [
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/poder/direcao-da-pf-determina-reformulacao-de-relatorios-sobre-ministros-e-vorcaro/"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora-rubio-faz-cobranca-direta-a-lula-e-expoe-novo-impasse-entre-brasil-e-eua/"
       }
      ]
     }
@@ -352,13 +336,33 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Fechamento do mercado e Petrobras",
+   "nota": "Petrobras, câmbio e juros",
    "itens": [
     {
-     "kicker": "Mercado",
-     "quando": "Hoje",
-     "titulo": "Ibovespa fecha em queda de 0,52%, aos 171.337 pontos, e dólar vai a R$ 5,59",
-     "resumo": "A bolsa chegou a passar de 173 mil pontos de manhã, mas virou com a inflação americana acima do esperado e a ata do Copom. O petróleo Brent recuou 1,17%, a US$ 91,49, e os principais índices de Nova York também caíram.",
+     "kicker": "Petrobras",
+     "quando": "Ontem",
+     "titulo": "Petrobras eleva projeções de produção, investimento e caixa para 2026 e anuncia R$ 15,3 bilhões em dividendos",
+     "resumo": "A estatal agora prevê produção média de 3,3 a 3,4 milhões de barris por dia, investimentos de até US$ 25,5 bilhões e geração de caixa de até US$ 50 bilhões no ano. Os dividendos autorizados em 2026 somam R$ 42 bilhões.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/11/10/lucro-da-petrobras-cresce-21-5-no-terceiro-trimestre-para-r-39-7-bilhoes"
+      },
+      {
+       "n": "Investidor10",
+       "u": "https://investidor10.com.br/noticias/petrobras-petr4-pagara-dividendos-de-r-15-3-bilhoes-veja-condicoes-123811/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/negocios/analise-resultado-do-3-trimestre-da-petrobras-reflete-maior-producao/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fechamento",
+     "quando": "Ontem",
+     "titulo": "Dólar fecha a R$ 5,59, maior valor desde julho de 2025, e Ibovespa cai 0,52%",
+     "resumo": "A moeda subiu cerca de 1,5% depois de a inflação americana vir acima do previsto e de a ata do Copom indicar juros altos por mais tempo. A bolsa terminou aos 171.337 pontos e acumula queda no mês.",
      "fontes": [
       {
        "n": "Bora Investir (B3)",
@@ -369,70 +373,38 @@
        "u": "https://www.metropoles.com/brasil/ibovespa-cai-052-com-inflacao-dos-eua-e-ata-do-copom-no-radar"
       },
       {
-       "n": "TMC",
-       "u": "https://tmc.com.br/economia/dolar-hoje-cotacao-10-11-2026/"
+       "n": "Imirante",
+       "u": "https://imirante.com/noticias/brasil/2026/11/10/dolar-sobe-146-fecha-maior-valor-15-meses"
       }
      ]
     },
     {
-     "kicker": "Balanços",
-     "quando": "Hoje",
-     "titulo": "Petrobras divulga resultado do trimestre nesta noite; Magazine Luiza sobe quase 17% e Embraer, 5%",
-     "resumo": "Analistas estimam lucro de cerca de R$ 46,8 bilhões para a estatal, com produção recorde de 3,51 milhões de barris de óleo equivalente por dia, e dividendos entre US$ 2,7 bilhões e US$ 4,2 bilhões, segundo Goldman Sachs e Itaú BBA. Na bolsa, a Magalu reagiu ao lucro ajustado de R$ 13,9 milhões, e a Embraer, à receita recorde de US$ 2,35 bilhões.",
-     "fontes": [
-      {
-       "n": "Brasil em Folhas",
-       "u": "https://brasilemfolhas.com.br/2026/11/petrobras-deve-registrar-lucro-de-r-46-8-bilhoes-no-terceiro-trimestre/"
-      },
-      {
-       "n": "ADVFN",
-       "u": "https://br.advfn.com/jornal/2026/11/petrobras-dividendos-podem-chegar-a-us-4-2-bilhoes-no-3t26-mas-mercado-ve-incertezas-no-fluxo-de-caixa"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/ibovespa-tenta-emplacar-nova-alta-mas-vale-e-petrobras-pesam-dolar-sobe-mais-de-1/"
-      }
-     ]
-    },
-    {
-     "kicker": "Combustíveis",
+     "kicker": "Juros nos EUA",
      "quando": "Ontem",
-     "titulo": "Governo prorroga até 9 de dezembro a desoneração da gasolina e do etanol",
-     "resumo": "O decreto mantém zerados PIS/Cofins e Cide sobre a gasolina, o equivalente a R$ 0,89 por litro, e PIS/Cofins sobre o etanol hidratado, além de subsídio de R$ 0,428 por litro aos produtores de etanol. A Fazenda calcula custo de R$ 3,57 bilhões em 30 dias, a ser coberto com receitas extraordinárias do petróleo.",
+     "titulo": "Inflação ao consumidor nos EUA sobe 0,4% em outubro, acima do esperado, e reforça aposta de alta do Fed em dezembro",
+     "resumo": "Economistas consultados pela Reuters projetavam 0,3%; o núcleo, sem alimentos e energia, subiu 0,3%. Wall Street fechou em baixa, mas a bolsa de Seul subiu 2,6% nesta quarta, puxada por tecnologia.",
      "fontes": [
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/governo-prorroga-desoneracao-de-gasolina-e-etanol-ate-9-de-dezembro/"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/cpi-inflacao-eua-sobe-mais-que-esperado-outubro-jcav/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/economia/2026/11/10/governo-prorroga-ate-9-de-dezembro-desoneracao-da-gasolina-e-do-etanol"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/cpi-dos-eua-sobe-04-em-outubro-e-reforca-expectativa-de-alta-dos-juros/"
       },
       {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/economia/governo-prorroga-desoneracao-da-gasolina-e-do-etanol-ate-dezembro-1.1192635"
-      }
-     ]
-    },
-    {
-     "kicker": "Vale-refeição",
-     "quando": "Hoje",
-     "titulo": "AGU vai recorrer de liminar que suspendeu limites de taxas do vale-refeição e alimentação",
-     "resumo": "A decisão da 22ª Vara Federal Cível do DF, a pedido da associação das empresas do setor (ABBT), suspende para as associadas o teto de 3,6% na taxa cobrada dos estabelecimentos, o repasse em até 15 dias e a abertura obrigatória dos arranjos. O juiz entendeu que o decreto foi além da lei; o governo diz que a reforma busca mais concorrência e taxas menores.",
-     "fontes": [
-      {
-       "n": "Migalhas",
-       "u": "https://www.migalhas.com.br/quentes/468203/justica-suspende-parte-das-novas-regras-do-vale-refeicao-e-alimentacao"
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/economia/indicadores-economicos/cpi-eua-fed-dezembro"
       },
       {
-       "n": "DOL",
-       "u": "https://dol.com.br/noticias/brasil/967965/agu-vai-recorrer-contra-suspensao-de-regras-do-vale-refeicao"
+       "n": "EFE/Infobae",
+       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
       }
      ]
     },
     {
      "kicker": "Banco Central",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Na ata, Copom diz que economia desacelera, mas que inflação exige juros altos por mais tempo",
      "resumo": "O comitê descreveu uma perda de ritmo mais forte da atividade e pediu \"serenidade e cautela\". Entre os riscos para os preços, citou petróleo, El Niño, câmbio e o fim da escala 6x1; a ata não indica quando os cortes da Selic podem voltar.",
      "destaque": false,
@@ -454,6 +426,22 @@
       "src": "fotos/openfinance.jpg",
       "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
      }
+    },
+    {
+     "kicker": "Vale-refeição",
+     "quando": "Ontem",
+     "titulo": "AGU vai recorrer de liminar que suspendeu limites de taxas do vale-refeição e alimentação",
+     "resumo": "A decisão da 22ª Vara Federal Cível do DF, a pedido da associação das empresas do setor (ABBT), suspende para as associadas o teto de 3,6% na taxa cobrada dos estabelecimentos, o repasse em até 15 dias e a abertura obrigatória dos arranjos. O juiz entendeu que o decreto foi além da lei; o governo diz que a reforma busca mais concorrência e taxas menores.",
+     "fontes": [
+      {
+       "n": "Migalhas",
+       "u": "https://www.migalhas.com.br/quentes/468203/justica-suspende-parte-das-novas-regras-do-vale-refeicao-e-alimentacao"
+      },
+      {
+       "n": "DOL",
+       "u": "https://dol.com.br/noticias/brasil/967965/agu-vai-recorrer-contra-suspensao-de-regras-do-vale-refeicao"
+      }
+     ]
     }
    ]
   },
@@ -461,103 +449,87 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "FHC, Porto de Santos e temporais",
+   "nota": "FHC, temporais e Porto de Santos",
    "itens": [
     {
-     "kicker": "São Paulo",
-     "quando": "Hoje",
-     "titulo": "Família de FHC pede apreensão do celular de influenciador que filmou o ex-presidente acamado",
-     "resumo": "Os filhos também querem a exclusão dos perfis de Wesley Oliveira, e a Polícia Civil abriu inquérito com base no Estatuto da Pessoa Idosa. A mulher de FHC, que tem 95 anos e Alzheimer avançado, diz que o vídeo buscou desonrar o marido.",
+     "kicker": "Caso FHC",
+     "quando": "Ontem",
+     "titulo": "TikTok bane conta de influenciador que filmou FHC acamado; polícia abre inquérito com base no Estatuto da Pessoa Idosa",
+     "resumo": "O vídeo mostrou o interior do apartamento do ex-presidente, de 95 anos, que tem Alzheimer em fase avançada. A família pediu a apreensão de celular e computador de Wesley Oliveira e a exclusão dos perfis dele; o caso tramita em segredo de Justiça.",
      "lados": [
       {
        "quem": "Família de FHC",
-       "txt": "Afirma que a gravação expôs o ex-presidente e o apartamento sem autorização e pede medidas judiciais contra o autor."
+       "txt": "A mulher do ex-presidente, Patrícia Kundrat, diz que a gravação teve a intenção de desonrar a imagem do marido."
       },
       {
        "quem": "Wesley Oliveira",
-       "txt": "Diz que Patrícia Kundrat autorizou a filmagem e que o vídeo é um registro histórico que mostra o ex-presidente bem cuidado."
+       "txt": "O influenciador afirma que a gravação foi autorizada por Patrícia e que o vídeo é um registro histórico; a afirmação não foi confirmada."
       }
      ],
      "fontes": [
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/familia-de-fhc-pede-busca-e-apreensao-de-celular-de-influencer-que-o-filmou/"
-      },
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/politica/2026/11/7535437-filhos-de-fhc-pedem-que-mp-investigue-homem-que-filmou-ex-presidente-acamado-diz-colunista.html"
+       "u": "https://www.cnnbrasil.com.br/politica/tiktok-suspende-conta-de-influencer-que-filmou-casa-de-fhc/"
       },
       {
        "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/politica/filhos-de-fhc-pedem-investigacao-sobre-homem-que-o-filmou"
-      }
-     ]
-    },
-    {
-     "kicker": "Porto de Santos",
-     "quando": "Hoje",
-     "titulo": "Porto de Santos eleva nível de segurança após pane nos sistemas e suspeita de ataque hacker",
-     "resumo": "Sistemas da Autoridade Portuária de Santos saíram do ar desde sexta e voltaram a ter instabilidade; segundo o jornal A Tribuna, criminosos pedem dinheiro para restabelecê-los. A comissão de segurança dos portos de São Paulo elevou a proteção do complexo para o nível 2 enquanto a autoridade portuária investiga o caso.",
-     "fontes": [
-      {
-       "n": "A Tribuna",
-       "u": "https://www.atribuna.com.br/noticias/portomar/porto-de-santos-sofre-colapso-digital-e-hackers-pedem-dinheiro-para-sistema-ser-restabelecido-seguranca-e-elevada-1.536296"
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/tik-tok-suspende-conta-de-influencer-que-filmou-casa-de-fhc-1"
       },
       {
-       "n": "Santa Portal",
-       "u": "https://santaportal.com.br/porto-e-negocios/suspeita-de-ataque-cibernetico-tira-sistemas-do-porto-de-santos-do-ar-desde-sexta/"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/familia-de-fhc-aciona-ministerio-publico-apos-influenciador-gravar-e-compartilhar-video-do-ex-presidente/"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/tecnologia/porto-santos-nivel-2-falha-sistemas"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/inovacao/tecnologia/porto-de-santos-nivel-protecao-ataque-cibernetico/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/caso-fhc-entenda-as-tipificacoes-e-crimes-apurados-apos-video-de-influenciador,3bfd29f2e5fd14f7f6ad59cca3dc6403fgvzydhn.html"
       }
      ]
     },
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Inmet põe Brasília e Goiás em alerta amarelo para temporais; frio perde força no Sudeste",
-     "resumo": "O aviso para o Distrito Federal vale até o fim da noite, com chuva de até 30 mm por hora e ventos de até 60 km/h, e Belo Horizonte segue em alerta até a manhã de quarta. O Inmet prevê pancadas fortes no Norte e tempo mais estável no Sul e no Sudeste.",
+     "titulo": "Inmet põe Mato Grosso do Sul, Goiás e Mato Grosso em alerta laranja para temporais; quinta tem risco de granizo",
+     "resumo": "Há avisos amarelos também no oeste paulista, no Triângulo Mineiro, no oeste do Sul e no litoral sul da Bahia. Com o fim da massa de ar frio, as temperaturas sobem no Centro-Sul, e Teresina e Boa Vista podem chegar a 38°C.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/tempo/2026/11/10/brasilia-e-df-entram-em-alerta-amarelo-do-inmet-para-chuva-de-ate-50-mm-dia-e-ventos-de-60-km-h"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/inmet-preve-temporais-e-risco-de-granizo-em-areas-agricolas-nestas-4a-e-5a"
       },
       {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/cidades/2026/11/10/bh-esta-em-alerta-para-chuva-ate-8h-de-quarta-feira-11-11-temperatura-do-dia-sera-baixa"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/tempestades-ventos-de-ate-60-km-h-chuva-de-ate-100-mm-tres-alertas-brasil-quarta-11/"
       },
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/brasil/2026/11/10/inmet-preve-chuva-no-norte-e-melhoria-do-tempo-no-sul-e-sudeste.html"
+       "n": "Campo Grande News",
+       "u": "https://www.campograndenews.com.br/meio-ambiente/quarta-feira-tem-alerta-de-temporais-ventos-fortes-e-maxima-de-32oc"
+      },
+      {
+       "n": "Agência SP",
+       "u": "https://agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-retorno-da-chuva-a-partir-desta-quarta-feira-11"
       }
      ]
     },
     {
-     "kicker": "Segurança",
+     "kicker": "Porto de Santos",
      "quando": "Ontem",
-     "titulo": "PM reforça policiamento no Subúrbio de Salvador após mensagens com ameaças de toque de recolher",
-     "resumo": "As mensagens, atribuídas a facções, circularam em bairros como Lobato, Plataforma e São Caetano, onde ao menos quatro homicídios foram registrados na semana passada. Duas companhias da PM intensificaram o patrulhamento, segundo o comando regional.",
+     "titulo": "Porto de Santos confirma ataque hacker e adota plano de contingência; PF investiga",
+     "resumo": "A autoridade portuária passou a fazer parte das conferências de navios manualmente e diz que a operação não foi paralisada. A Polícia Federal apura a invasão dos sistemas.",
      "fontes": [
       {
-       "n": "Chico Sabe Tudo",
-       "u": "https://www.chicosabetudo.com.br/policia/pm-reforca-policiamento-em-salvador-apos-ameacas-de-toque-de-recolher-550d834fb635"
-      }
-     ]
-    },
-    {
-     "kicker": "Golpes",
-     "quando": "Ontem",
-     "titulo": "Operação em sete estados mira esquema de bets ilegais que usou vídeo falso de Frei Gilson",
-     "resumo": "A Polícia Civil de Goiás bloqueou quase R$ 40 milhões em bens de um grupo que, segundo a investigação, simulava pedidos de doação com a imagem do padre e usava fintechs para movimentar o dinheiro. Um dos alvos mora nos Estados Unidos e tem mandado de prisão com difusão vermelha da Interpol.",
-     "fontes": [
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/porto-de-santos-confirma-que-sofreu-ataque-hacker"
+      },
       {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/operacao-em-7-estados-e-nos-eua-mira-esquema-de-bets-ilegais-que-usou-video-falso-de-frei-gilson/"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/brasil/porto-de-santos-confirma-ataque-hacker-nos-sistemas/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/infra/porto-de-santos-investiga-instabilidades-em-sistema-e-descarta-paralisacao/"
+      },
+      {
+       "n": "InvestNews",
+       "u": "https://investnews.com.br/economia/porto-de-santos-ataque-hacker/"
       }
      ]
     }
@@ -567,35 +539,65 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Abu Dhabi e Irã",
+   "nota": "Abu Dhabi, EUA e Irã",
    "itens": [
     {
-     "kicker": "Guerra na Ucrânia",
+     "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Primeiro dia de negociação entre Ucrânia, Rússia e EUA em Abu Dhabi dura quase quatro horas; conversa segue na quarta",
-     "resumo": "Zelensky chamou o formato de construtivo e disse que foram discutidas garantias de segurança, troca de prisioneiros e redução da escalada; Rubio falou em conversa produtiva, mas com muito trabalho pela frente. Europeus e Otan fizeram reuniões paralelas, e o chanceler russo Serguei Lavrov disse que a União Europeia quer um cessar-fogo para rearmar Kiev.",
+     "titulo": "Negociação entre Ucrânia, Rússia e EUA chega ao segundo dia em Abu Dhabi, sem sinal de cessar-fogo",
+     "resumo": "Zelensky e o secretário de Estado Marco Rubio descreveram o primeiro dia como produtivo; o chanceler russo, Sergei Lavrov, rejeitou uma trégua. Segundo um funcionário americano, os dois lados mostraram alguma flexibilidade sobre território em privado, mas Moscou segue exigindo todo o Donbas.",
      "fontes": [
       {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/11/10/russia-eua-e-ucrania-encerram-primeiro-dia-de-negociacoes-de-paz-em-abu-dhabi-veja-o-que-se-sabe/"
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/11/constructive-abu-dhabi-talks-resume-but-a-ceasefire-is-nowhere-near"
       },
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/10/russia-e-ucrania-realizam-quase-quatro-horas-de-negociacoes-mediadas-pelos-eua-em-abu-dhabi.html"
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/rssia-e-ucrnia-tero-demonstrado-flexibilidade-em-privado-sobre-territrio-diz-responsvel-dos-eua"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/negociacoes-entre-eua-ucrania-e-russia-em-abu-dhabi-diz-moscou/"
+       "n": "Kyiv Post",
+       "u": "https://www.kyivpost.com/post/89627"
       },
       {
-       "n": "DN",
-       "u": "https://www.dn.pt/internacional/abu-dhabi-zelensky-fala-em-formato-construtivo-e-substancial-negociaes-prosseguem-na-quarta-feira"
+       "n": "EFE/Infobae",
+       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Ontem",
+     "titulo": "Republicanos barram na Câmara dos EUA pedido de impeachment do secretário de Defesa, Pete Hegseth",
+     "resumo": "A resolução do republicano Thomas Massie, com oito artigos centrados na guerra com o Irã, foi derrubada em votação quase partidária. Democratas, que assumem o controle do Congresso em janeiro, podem retomar o tema.",
+     "lados": [
+      {
+       "quem": "Defensores do impeachment",
+       "txt": "O líder democrata Hakeem Jeffries diz que Hegseth abusou do poder e prejudicou a segurança nacional."
+      },
+      {
+       "quem": "Hegseth e aliados",
+       "txt": "O secretário diz que não cometeu crimes graves e que o processo é um ataque às tropas; Trump manifestou apoio a ele."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mundo/republicanos-da-camara-dos-eua-abafam-esforco-para-impeachment-de-hegseth/"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/11/republicanos-travam-impeachment-do-secretario-de-defesa-dos-eua-pela-guerra-com-o-irao"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/mundo/republicanos-barram-impeachment-de-chefe-do-pentagono-apos-guerra-no-ira/"
       }
      ]
     },
     {
      "kicker": "EUA e Irã",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Trump diz que guerra com o Irã praticamente acabou; Teerã nega que haja negociação",
      "resumo": "Depois de receber o premiê do Catar, mediador do conflito, Trump disse que novos ataques são muito improváveis. Segundo o Wall Street Journal, os EUA também retiraram aviões de reabastecimento de uma base no Reino Unido por ameaça atribuída ao Irã.",
      "lados": [
@@ -624,62 +626,38 @@
      ]
     },
     {
-     "kicker": "Paraguai",
+     "kicker": "Papa",
      "quando": "Hoje",
-     "titulo": "Promotoria acha cofre escondido atrás de parede na sede do Ueno Bank, onde Itaipu tinha o equivalente a R$ 1 bilhão",
-     "resumo": "Um dos cofres, aberto após horas de trabalho, tinha documentos da investigação; o segundo deve ser aberto nesta terça. O Banco Central paraguaio intervém no banco, e a Itaipu tenta na Justiça reaver cerca de US$ 182 milhões depositados ali.",
+     "titulo": "Leão XIV encerra visita à Argentina com missa em Luján e segue para o Peru",
+     "resumo": "Em Lima, o papa será recebido no Palácio de Governo, numa visita de uma semana que fecha a primeira viagem dele pela América Latina. Leão XIV viveu mais de 20 anos no Peru e tem a nacionalidade peruana.",
      "fontes": [
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/mundo/master-paraguaio-ministerio-publico-do-paraguai-encontra-cofres-escondidos-na-sede-do-ueno-bank/"
+       "n": "EFE/Infobae",
+       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
       },
       {
-       "n": "Bloomberg Línea",
-       "u": "https://www.bloomberglinea.com.br/internacional/itaipu-tenta-recuperar-us-182-milhoes-depositados-no-ueno-bank-do-paraguai/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/itaipu-tinha-saldo-equivalente-a-r-1-bilhao-em-banco-falido-do-paraguai"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/11/11/noticias-do-dia-11-de-novembro-2026-manha"
       }
      ]
     },
     {
-     "kicker": "Oriente Médio",
+     "kicker": "Portugal",
      "quando": "Hoje",
-     "titulo": "Explosões são ouvidas em Riad após Arábia Saudita interceptar mísseis lançados pelos houthis",
-     "resumo": "A coalizão liderada pelos sauditas diz ter destruído um míssil balístico e um de cruzeiro sobre a capital; não há registro de vítimas. O ataque ocorre enquanto os EUA dizem ver perspectiva de fim do conflito com o Irã.",
+     "titulo": "Depressão Charles leva Portugal a decretar alerta e fechar escolas; Lisboa tem aviso vermelho para vento",
+     "resumo": "As rajadas podem chegar a 120 km/h, e a 140 km/h em áreas expostas, no centro e no sul do país. O governo também suspendeu serviços públicos não essenciais.",
      "fontes": [
       {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/10/explosoes-ouvidas-na-capital-da-arabia-saudita-e-missil-balistico-intercetado/"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/video/2026/11/11/noticias-do-dia-11-de-novembro-2026-manha"
       },
       {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/mundo/arabia-saudita-diz-ter-interceptado-missil-lancado-pelos-houthis-contra-riad-1.1170843"
-      }
-     ]
-    },
-    {
-     "kicker": "Vaticano",
-     "quando": "Ontem",
-     "titulo": "Papa Leão XIV celebra missa campal para multidão em Buenos Aires, com Milei presente",
-     "resumo": "Na homilia, em Palermo, o papa defendeu a família diante de problemas como trabalho precário e violência doméstica; o Metrópoles fala em cerca de 2 milhões de pessoas. Na viagem, em Claypole, ele visitou um centro para 410 adultos com deficiência que bispos dizem sofrer com atrasos de verbas e disse que o progresso de um país se mede pelo acolhimento; o governo Milei defende os cortes como forma de conter a inflação.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/papa-leao-xiv-faz-missa-para-2-milhoes-de-pessoas-na-argentina"
+       "n": "EFE/Infobae",
+       "u": "https://infobae.com/america/agencias/2026/11/11/miercoles-11-de-noviembre-de-2026-0800-gmt"
       },
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/papa-leao-xiv-visita-instituicao-que-bispos-argentinos-dizem-estar-ameacada-por-cortes-do-governo/"
-      },
-      {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://www.diariodocentrodomundo.com.br/papa-leao-visita-instituicao-cortes-milei-argentina"
-      },
-      {
-       "n": "Vatican News",
-       "u": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-chega-a-argentina-2-etapa-da-viagem-apostolica.html"
+       "n": "Notícias ao Minuto",
+       "u": "https://www.noticiasaominuto.com/pais/3082185/ao-minuto-portugal-em-alerta-maioria-das-ocorrencias-na-grande-lisboa"
       }
      ]
     }
@@ -693,27 +671,27 @@
    "itens": [
     {
      "kicker": "Seleção",
-     "quando": "Hoje",
-     "titulo": "Seleção faz segundo treino em Singapura com 18 jogadores; grupo fica completo na quarta",
-     "resumo": "Raphinha, Bruno Guimarães, Gabriel Magalhães e Vanderson ficaram na academia por controle de carga. Marlon Gomes, Alisson Santana e Douglas Santos chegam nesta terça e treinam na quarta, quando Ancelotti deve esboçar o time para enfrentar o Japão no sábado, às 7h15.",
+     "quando": "Ontem",
+     "titulo": "Seleção completa o grupo em Singapura e intensifica preparação para enfrentar o Japão no sábado",
+     "resumo": "Os 26 convocados de Carlo Ancelotti estão reunidos desde terça. O Brasil enfrenta o Japão no sábado (14), às 7h15, e Singapura na terça (17), às 7h, ambos no Estádio Nacional de Singapura.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/11/10/com-18-em-campo-selecao-brasileira-faz-segundo-treino-para-amistosos-em-singapura"
+       "n": "Diário do Aço",
+       "u": "https://www.diariodoaco.com.br/noticia/138327-selecao-brasileira-completa-grupo-em-singapura-para-amistosos-de-novembro"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/sem-raphinha-selecao-brasileira-treina-para-jogo-contra-japao-em-singapura"
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/selecao-brasileira/vini-jr-e-endrick-chegam-a-selecao-brasileira-e-participam-de-primeiro-treino-em-singapura"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/selecao-brasileira/selecao-treina-sob-chuva-raphinha-e-mais-tres-sao-poupados.html"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/brasil/ancelotti-preserva-quatro-jogadores-em-treino-da-selecao-em-singapura,bd33c3ef1a4b28a0d3b2e0cbcf805aa11daar9o0.html"
       }
      ]
     },
     {
      "kicker": "Libertadores",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Atacante Joaquín Correa, do Estudiantes, sofre lesão e vira dúvida para a final contra o Palmeiras",
      "resumo": "O argentino de 32 anos tem lesão muscular de grau dois na coxa direita e desfalca o time na Supercopa Argentina, na quinta. A decisão da Libertadores é em 28 de novembro, em Montevidéu.",
      "fontes": [
@@ -729,7 +707,7 @@
     },
     {
      "kicker": "Brasileirão",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Flamengo lidera com três pontos sobre o Palmeiras, e confronto direto em 21 de novembro pode decidir o título",
      "resumo": "Após 34 rodadas, o Flamengo tem 76 pontos e o Palmeiras, 73; o Palmeiras volta a campo em 18 de novembro, contra o Cruzeiro. O Palmeiras ainda disputa a final da Libertadores com o Estudiantes em 28 de novembro, em Montevidéu, e a da Copa do Brasil com o Grêmio em 6 de dezembro.",
      "fontes": [
@@ -745,29 +723,13 @@
     },
     {
      "kicker": "Fórmula 1",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Temporada da F1 pode terminar em Las Vegas por causa da guerra no Oriente Médio",
      "resumo": "A FIA quer manter as provas do Catar e de Abu Dhabi, mas a categoria avalia encerrar o ano nos EUA se a situação piorar; Imola deixou de ser alternativa. Fred Vasseur, da Ferrari, disse querer correr, e Toto Wolff, da Mercedes, afirmou que a F1 segue as orientações internacionais.",
      "fontes": [
       {
        "n": "Boletim do Paddock",
        "u": "https://boletimdopaddock.com.br/temporada-2026-da-f1-pode-terminar-em-las-vegas-diante-de-incertezas-no-oriente-medio/109206/"
-      }
-     ]
-    },
-    {
-     "kicker": "Tênis",
-     "quando": "Ontem",
-     "titulo": "Dois torcedores morrem de parada cardíaca no ATP Finals, em Turim; Sinner estreia com vitória",
-     "resumo": "Um homem de 70 anos passou mal na arquibancada durante Fritz x Musetti, e outro, de 78, na área de convivência do torneio; ambos foram socorridos, mas morreram. Em quadra, Sinner bateu Auger-Aliassime por 7/5 e 6/1, e Fritz venceu Musetti por 6/3 e 6/4.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/tenis/tenis-duas-pessoas-morrem-no-segundo-dia-de-atp-finals/"
-      },
-      {
-       "n": "Flashscore",
-       "u": "https://www.flashscore.com.br/noticias/tenis-finais-turim-atp-simples-dois-torcedores-morrem-de-parada-cardiaca-no-segundo-dia-do-atp-finals-em-turim/nDQ84IOO/"
       }
      ]
     }
@@ -777,11 +739,31 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Dengue e clima",
+   "nota": "Câncer de próstata, dengue e sarampo",
    "itens": [
     {
+     "kicker": "Novembro Azul",
+     "quando": "Ontem",
+     "titulo": "Câncer de próstata responde por 30,5% dos novos casos de câncer em homens, estima o Inca",
+     "resumo": "Na projeção do instituto para 2026 a 2028, cólon e reto (10,3%) e pulmão (7,3%) vêm em seguida. A doença matou cerca de 50 homens por dia no país em 2025; especialistas lembram que ela pode evoluir sem sintomas e recomendam conversar com o médico sobre exames.",
+     "fontes": [
+      {
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/curiosidades/2026/11/10/novembro-azul-cancer-de-prostata-responde-por-305-dos-novos-casos-de-cancer-em-homens-no-brasil-segundo-estimativa-do-inca-para-2026-2028"
+      },
+      {
+       "n": "Sergipe Notícias",
+       "u": "https://www.sergipenoticias.com/saude/2026/11/45346/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025.html"
+      },
+      {
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202611/novembro-azul-campanha-reforca-a-importancia-da-prevencao-e-dos-cuidados-com-a-saude-do-homem"
+      }
+     ]
+    },
+    {
      "kicker": "Dengue",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Médicos alertam para risco de dengue grave em quem pega a doença pela segunda vez",
      "resumo": "Anticorpos de uma infecção anterior podem não neutralizar outro sorotipo e até facilitar a nova infecção; o tipo 3, pouco comum por anos, passou de 14% para 30% dos casos analisados em 2026. Projeção da Fiocruz e de outras instituições estima cerca de 860 mil casos prováveis em 2027, com alerta para o El Niño.",
      "fontes": [
@@ -800,26 +782,10 @@
      ]
     },
     {
-     "kicker": "COP31",
-     "quando": "Ontem",
-     "titulo": "Brasil lança na COP31 guia para financiar o plano de saúde e clima aprovado em Belém",
-     "resumo": "O documento, feito pelo Ministério da Saúde com apoio da OMS e de fundações, indica fontes de recursos para cada ação do plano, sem criar um fundo novo. O plano tem apoio de 40 países, e uma coalizão de financiadores anunciou mais US$ 150 milhões para clima e saúde.",
-     "fontes": [
-      {
-       "n": "Ministério da Saúde",
-       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/brasil-anuncia-marco-de-financiamento-do-plano-de-acao-em-saude-de-belem-na-cop31"
-      },
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/bem-viver/2026/11/7533219-ministerio-da-saude-projeta-alta-da-dengue-em-2027.html"
-      }
-     ]
-    },
-    {
      "kicker": "Sarampo",
-     "quando": "Ontem",
+     "quando": "09/11",
      "titulo": "Ministério da Saúde repassa R$ 524 mil para conter o sarampo no Alto Solimões",
-     "resumo": "A portaria, publicada hoje, destina o dinheiro a Tabatinga, Benjamin Constant e Atalaia do Norte, para vacinação, vigilância e bloqueio da transmissão. O Amazonas soma 21 dos 65 casos importados confirmados no país em 2026.",
+     "resumo": "A portaria, publicada na segunda (9), destina o dinheiro a Tabatinga, Benjamin Constant e Atalaia do Norte, para vacinação, vigilância e bloqueio da transmissão. O Amazonas soma 21 dos 65 casos importados confirmados no país em 2026.",
      "foto": {
       "src": "fotos/sarampo.jpg",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
@@ -838,18 +804,6 @@
        "u": "https://www.riosdenoticias.com.br/saude-repassa-r-524-mil-para-conter-casos-de-sarampo-no-amazonas/"
       }
      ]
-    },
-    {
-     "kicker": "Novembro Azul",
-     "quando": "Ontem",
-     "titulo": "Mais da metade dos homens diz não saber como prevenir o câncer de próstata, aponta pesquisa",
-     "resumo": "No levantamento do A.C.Camargo Cancer Center, a fatia que não sabe passou de 44% em 2024 para 56% em 2026, e chega a 71% entre 16 e 24 anos. A intenção de fazer o exame de toque caiu de 61% para 48%; é o câncer mais comum entre os homens no país.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nivel-de-conhecimento-e-prevencao-ao-cancer-de-prostata-cai-no-brasil"
-      }
-     ]
     }
    ]
   },
@@ -857,11 +811,39 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Enem",
+   "nota": "IA nas escolas e Enem",
    "itens": [
     {
+     "kicker": "Inteligência artificial",
+     "quando": "Ontem",
+     "titulo": "MEC homologa regras para IA nas escolas e proíbe uso da tecnologia para dar nota a redações",
+     "resumo": "As diretrizes vetam o uso sem supervisão por crianças até o 5º ano, punições baseadas só em detectores de texto feito por IA, reconhecimento de emoções e vigilância biométrica contínua. As proibições valem de imediato, e redes e instituições têm 12 meses para adaptar contratos e práticas.",
+     "foto": {
+      "src": "fotos/pedemeia.jpg",
+      "credito": "Antônio Cruz/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/mec-estabelece-regras-para-uso-de-ia-na-educacao-veja-destaques"
+      },
+      {
+       "n": "MEC",
+       "u": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/novembro/mec-estabelece-diretrizes-para-uso-responsavel-da-ia-na-educacao"
+      },
+      {
+       "n": "Telesíntese",
+       "u": "https://telesintese.com.br/mec-homologa-diretrizes-para-uso-de-ia-na-educacao-com-restricoes-a-vigilancia-biometrica/"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/inteligencia-artificial-nas-escolas-veja-o-que-muda-com-as-novas-regras-do-mec/"
+      }
+     ]
+    },
+    {
      "kicker": "Enem",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Quem faltou ao primeiro dia do Enem por motivo previsto no edital pode pedir reaplicação de 16 a 20 de novembro",
      "resumo": "Valem casos como doenças infectocontagiosas na semana da prova, falta de luz ou erro na aplicação, com comprovante enviado pela Página do Participante. Os afetados por apagões no Amapá, em Minas e no Rio têm a reaplicação garantida, em 15 e 16 de dezembro; o segundo dia de provas é neste domingo, com ciências da natureza e matemática.",
      "fontes": [
@@ -880,8 +862,24 @@
      ]
     },
     {
-     "kicker": "Enem",
+     "kicker": "Pé-de-Meia",
      "quando": "Ontem",
+     "titulo": "Pé-de-Meia paga nova parcela de R$ 200 entre 23 e 30 de novembro; MEC quer estender o programa a toda a rede pública",
+     "resumo": "O pagamento segue o mês de nascimento do estudante. O ministro Leonardo Barchini disse que o governo pretende ampliar o benefício a todos os alunos do ensino médio público até o fim de 2027 e prepara uma versão universitária para 2027.",
+     "fontes": [
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/04/pe-de-meia-paga-parcela-de-r-200-de-23-a-30-de-novembro-de-2026-por/"
+      },
+      {
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202611/leonardo-barchini-201cestamos-comprometidos-a-expandir-o-pe-de-meia-para-todos-os-estudantes-da-rede-publica201d"
+      }
+     ]
+    },
+    {
+     "kicker": "Enem",
+     "quando": "09/11",
      "titulo": "Presença de egressos da rede pública no Enem sobe para 65%, mesmo com abstenção geral de 32%",
      "resumo": "Segundo o MEC, mais de 1,9 milhão de concluintes de escolas públicas se inscreveram, cerca de 250 mil a mais que em 2025, e a presença deles subiu ante os 53,8% do ano passado. No total, 68% dos mais de 5 milhões de inscritos fizeram a prova, a menor taxa desde 2021; o ministro Leonardo Barchini atribui parte das faltas à inscrição automática.",
      "foto": {
@@ -902,34 +900,6 @@
        "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
       }
      ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "Ontem",
-     "titulo": "Estudante de 16 anos morre após passar mal no primeiro dia do Enem na Bahia",
-     "resumo": "Izalara dos Santos Oliveira, de Cansanção, no norte do estado, foi atendida ainda na escola e morreu no hospital; a causa não foi divulgada. O Inep confirmou a morte e lamentou, e a prefeitura decretou luto.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/brasil/2026/11/9/estudante-de-16-anos-morre-apos-passar-mal-durante-o-primeiro-dia-do-enem-na-bahia"
-      }
-     ]
-    },
-    {
-     "kicker": "Pé-de-Meia",
-     "quando": "Hoje",
-     "titulo": "Pé-de-Meia paga nova parcela de R$ 200 entre 23 e 30 de novembro; MEC quer estender o programa a toda a rede pública",
-     "resumo": "O pagamento segue o mês de nascimento do estudante. O ministro Leonardo Barchini disse que o governo pretende ampliar o benefício a todos os alunos do ensino médio público até o fim de 2027 e prepara uma versão universitária para 2027.",
-     "fontes": [
-      {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/04/pe-de-meia-paga-parcela-de-r-200-de-23-a-30-de-novembro-de-2026-por/"
-      },
-      {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202611/leonardo-barchini-201cestamos-comprometidos-a-expandir-o-pe-de-meia-para-todos-os-estudantes-da-rede-publica201d"
-      }
-     ]
     }
    ]
   },
@@ -937,12 +907,32 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "COP31 e tecnologia",
+   "nota": "COP31, pesquisa e tecnologia",
    "itens": [
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "Brasil e Turquia divergem na COP31 sobre saída dos combustíveis fósseis; Lula discursa na quarta",
+     "titulo": "COP31 abre cúpula de líderes com agenda de negociação ainda travada e sem delegação dos EUA com mandato",
+     "resumo": "A conferência em Antália tem presidência dividida entre Turquia e Austrália, e grupos como o africano e a China pedem espaço para financiamento de adaptação e comércio. A ONU confirmou 77 chefes de Estado; a reunião vai até 20 de novembro.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/esg/cop31-comeca-na-turquia-com-presidencia-a-dois-pauta-travada-e-77-lideres-a-caminho/"
+      },
+      {
+       "n": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/cop31-comeca-turquia-debates-clima-energia-financiamento"
+      },
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/sustentabilidade/brasil-pauta-na-cop31-a-saida-dos-combustiveis-fosseis/"
+      }
+     ]
+    },
+    {
+     "kicker": "COP31",
+     "quando": "Ontem",
+     "titulo": "Brasil e Turquia divergem na COP31 sobre saída dos combustíveis fósseis; Lula discursa nesta quarta",
      "resumo": "O Brasil defende um plano para que cada país trace a redução gradual de petróleo, gás e carvão, com apoio de Guterres, Reino Unido, Alemanha e Nigéria. A presidência turca propõe elevar a eletricidade a 35% do consumo de energia até 2035, sem exigir fonte limpa, segundo ambientalistas; o financiamento a países vulneráveis segue travado.",
      "foto": {
       "src": "https://imagens.ebc.com.br/f9Wv0_kbpgoYrLM1f030eQ2if-g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/06/0d7a2888.jpg.jpeg?itok=HgpOfqPl",
@@ -969,7 +959,7 @@
     },
     {
      "kicker": "Tecnologia",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Acionistas processam a Nvidia e Jensen Huang por omitir relação do CEO com suposta espiã chinesa",
      "resumo": "A ação coletiva, apresentada na Califórnia, diz que a empresa inflou artificialmente o valor das ações ao não informar o caso; Trump afirmou que o FBI investiga. Huang admitiu aos funcionários ter sido infiel à esposa, a Nvidia abriu apuração interna e Pequim nega uma operação de espionagem.",
      "fontes": [
@@ -992,19 +982,14 @@
      ]
     },
     {
-     "kicker": "Clima",
-     "quando": "Ontem",
-     "titulo": "2026 deve ficar entre os quatro anos mais quentes já registrados, diz a OMM",
-     "resumo": "De janeiro a setembro, a temperatura média global ficou 1,47°C acima do nível pré-industrial, e o nível do mar bateu recorde. O serviço europeu Copernicus vê como muito provável que 2026 seja o segundo ano a passar do limite de 1,5°C do Acordo de Paris.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/DRCBinTonsXqRzXXd1IeKqZ80Zc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/30/pzzb5391.jpg?itok=yOyorZK1",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     },
-     "destaque": false,
+     "kicker": "Pesquisa",
+     "quando": "09/11",
+     "titulo": "Estudo da USP mostra que o vírus zika destrói, em laboratório, células de tumores ligados à neurofibromatose",
+     "resumo": "O efeito apareceu em culturas de células, em modelos 3D e em amostra de paciente, segundo trabalho do Centro de Estudos do Genoma Humano publicado na revista Molecular Therapy: Oncology. A pesquisa ainda é pré-clínica e não foi testada como tratamento em pessoas.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-diz-que-2026-sera-um-dos-anos-mais-quentes-ja-registrados"
+       "n": "Jornal da USP",
+       "u": "https://jornal.usp.br/ciencias/pesquisa-da-usp-revela-potencial-do-zika-contra-tumores-associados-a-neurofibromatose"
       }
      ]
     }
@@ -1014,31 +999,51 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Grammy Latino, artes e TV",
+   "nota": "Mortes, Grammy Latino e artes",
    "itens": [
+    {
+     "kicker": "Morte",
+     "quando": "Ontem",
+     "titulo": "Morre aos 85 anos o ator americano Stacy Keach, de 'Mike Hammer' e 'Prison Break'",
+     "resumo": "Segundo a mulher dele, Malgosia Tomassi, o ator morreu em casa, na Polônia, após longa doença cardíaca. Em mais de sete décadas de carreira, fez também teatro shakespeariano e foi indicado ao prêmio Tony.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/celebridades/morre-stacy-keach-ator-de-prison-break-e-mike-hammer-aos-85-anos"
+      },
+      {
+       "n": "Área VIP",
+       "u": "https://www.areavip.com.br/famosos/morre-ator-stacy-keach-de-will-grace-e-prison-break-aos-85-anos/"
+      }
+     ]
+    },
     {
      "kicker": "Música",
      "quando": "Hoje",
-     "titulo": "Grammy Latino é na quinta, em Las Vegas, com Anitta indicada a álbum do ano",
-     "resumo": "Loulu Gilberto concorre a gravação do ano e artista revelação, categoria que também tem Dora Sanches e Zeca Veloso. Marisa Monte, Criolo e Ney Matogrosso estão entre os indicados a melhor canção em língua portuguesa, e Daniela Mercury recebe o Prêmio à Excelência Musical.",
+     "titulo": "Daddy Yankee é homenageado hoje como Personalidade do Ano em Las Vegas, véspera do Grammy Latino",
+     "resumo": "A gala da Academia Latina da Gravação abre a reta final da semana do prêmio, que tem cerimônia na quinta. Anitta concorre a álbum do ano, e Marina Sena, Ana Castela e Marisa Monte estão entre os brasileiros indicados.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/musica/anitta-loulu-gilberto-e-mais-veja-brasileiros-na-disputa-ao-grammy-latino/"
+       "n": "Latin Grammy",
+       "u": "https://cms.latingrammy.com/news/daddy-yankee-named-2026-latin-recording-academy-person-of-the-year/"
       },
       {
-       "n": "A Crítica",
-       "u": "https://acritica.net/entretenimento/grammy-latino-2026-indicados-ms-ana-castela-luan-santana-ney-matogrosso/"
+       "n": "Billboard Brasil",
+       "u": "https://billboard.com.br/daddy-yankee-personalidade-do-ano-academia-latina/"
       },
       {
        "n": "Rolling Stone Brasil",
        "u": "https://rollingstone.com.br/musica/grammy-latino-2026-indicados/"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/viva/musica/grammy-latino-2026-tem-anitta-marina-sena-e-ana-castela-entre-os-indicados/"
       }
      ]
     },
     {
      "kicker": "Artes",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Esculturas de Aleijadinho saem do Brasil pela primeira vez para mostra nos Museus Vaticanos",
      "resumo": "Sant'Ana Mestra, São Joaquim e São Manuel, do século 18, vêm de igrejas de Ouro Preto, Raposos e Caeté e ficam expostas de 17 de novembro a 13 de fevereiro no percurso que leva à Capela Sistina. A mostra marca os 200 anos de relações diplomáticas entre o Brasil e a Santa Sé.",
      "fontes": [
@@ -1053,54 +1058,6 @@
       {
        "n": "Arquidiocese de BH",
        "u": "https://arquidiocesebh.org.br/noticias/exposicao-no-vaticano-tera-imagens-mineiras-do-mestre-aleijadinho/"
-      }
-     ]
-    },
-    {
-     "kicker": "Famosos",
-     "quando": "Ontem",
-     "titulo": "Influenciadora Vivi Motta morre aos 23 anos no Rio",
-     "resumo": "Victoria Motta Zammit, estudante de Direito com mais de 31 mil seguidores, era filha da joalheira Anna Vitória Motta. A família não divulgou a causa da morte, e o velório será na quarta, no Cemitério São Francisco Xavier.",
-     "fontes": [
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/entretenimento/famosos/influenciadora-vivi-motta-morre-aos-23-anos"
-      }
-     ]
-    },
-    {
-     "kicker": "TV",
-     "quando": "Ontem",
-     "titulo": "\"Lá na Minha Terra\" estreia com 18 pontos na Grande São Paulo e supera a novela anterior das seis",
-     "resumo": "A trama de Mário Teixeira e Marcos Lazarini, com Dira Paes e gravada na Chapada Diamantina, teve pico de 19 pontos; a estreia anterior da faixa havia marcado 17,3. Nas redes, parte do público criticou o retrato do Nordeste como estereotipado; a Globo não comentou.",
-     "fontes": [
-      {
-       "n": "O Planeta TV",
-       "u": "https://oplanetatv.clickgratis.com.br/noticias/audiencia-da-tv/la-na-minha-terra-estreia-em-alta-e-supera-audiencia-de-a-nobreza-do-amor.html"
-      },
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/cultura/estreia-de-la-na-minha-terra-conquista-o-publico-em-belem-1.1192357"
-      },
-      {
-       "n": "Alô Alô Bahia",
-       "u": "https://aloalobahia.com/noticias/2026/11/09/gravada-na-bahia-la-na-minha-terra-estreia-com-enxurrada-de-criticas-festival-de-xenofobia/"
-      }
-     ]
-    },
-    {
-     "kicker": "Cinema",
-     "quando": "Ontem",
-     "titulo": "\"Os Farofeiros 3\" lidera a bilheteria do fim de semana, com quatro filmes nacionais no top 10",
-     "resumo": "A comédia superou a exibição de show do Stray Kids e \"Godzilla Minus Zero\" entre 5 e 8 de novembro, segundo a Rentrak. \"Feito Pipa\", pré-candidato do Brasil ao Oscar, \"100 Dias\" e \"As Dez Vantagens de Morrer Depois de Você\" também estão entre os dez mais vistos.",
-     "fontes": [
-      {
-       "n": "Rolling Stone Brasil",
-       "u": "https://rollingstone.com.br/cinema/brasil-lidera-bilheterias-brasileiras-em-disputa-contra-stray-kids-novo-godzilla-e-cara-de-barro/"
-      },
-      {
-       "n": "Alô Alô Bahia",
-       "u": "https://aloalobahia.com/noticias/2026/11/09/os-farofeiros-3-lidera-bilheterias-no-brasil-e-supera-stray-kids-e-novo-godzilla/"
       }
      ]
     }
