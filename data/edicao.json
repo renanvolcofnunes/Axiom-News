@@ -1,10 +1,10 @@
 {
  "data": "Quinta-feira, 12 de novembro de 2026",
  "edicao": "Edição da noite",
- "atualizado": "12/11/2026 · 19h30 (Brasília)",
+ "atualizado": "12/11/2026 · 19h45 (Brasília)",
  "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 17h30",
- "fontes": 70,
+ "mercado_hora": "Cotações de 18h",
+ "fontes": 72,
  "mercado": [
   {
    "nome": "Ibovespa · fechamento",
@@ -19,10 +19,10 @@
    "dir": "up"
   },
   {
-   "nome": "Dólar Ptax · 13h",
-   "valor": "R$ 5,6143",
-   "var": "venda",
-   "dir": "up"
+   "nome": "Nvidia · fechamento",
+   "valor": "Nasdaq",
+   "var": "-4,3%",
+   "dir": "down"
   },
   {
    "nome": "IPCA · outubro",
@@ -39,34 +39,34 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 13/11 · noite",
-   "txt": "SpaceX faz o 15º voo de teste da Starship e tenta, pela primeira vez, recuperar o foguete e a nave com os braços da torre",
-   "cat": "ciencia"
+   "hora": "Qui 12/11 · noite",
+   "txt": "Senado tenta votar o mérito do projeto de ajuste fiscal; são necessários 41 votos",
+   "cat": "politica"
+  },
+  {
+   "hora": "Qui 12/11 · 21h",
+   "txt": "Cerimônia principal do Grammy Latino em Las Vegas, com transmissão do Multishow, do Bis e do Globoplay",
+   "cat": "cultura"
   },
   {
    "hora": "Sáb 14/11 · 7h15",
-   "txt": "Brasil x Japão, amistoso em Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
+   "txt": "Brasil x Japão em Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
    "cat": "esporte"
   },
   {
-   "hora": "Dom 15/11 · 16h",
-   "txt": "Internacional x Flamengo, jogo de volta da final da Copa do Brasil Feminina, no Beira-Rio",
-   "cat": "esporte"
-  },
-  {
-   "hora": "Seg 16/11 a Sex 20/11",
-   "txt": "Prazo para pedir a reaplicação do Enem para quem foi afetado por falta de luz e problemas climáticos",
+   "hora": "Dom 15/11 · 13h30",
+   "txt": "Segundo dia do Enem, com Matemática e Ciências da Natureza; portões fecham às 13h",
    "cat": "educacao"
   },
   {
    "hora": "Ter 17/11",
-   "txt": "Nvidia divulga o balanço do trimestre, o primeiro após a saída de Jensen Huang; Anthropic estreia na Nasdaq no dia 19",
+   "txt": "Nvidia divulga o balanço do trimestre, o primeiro sem Jensen Huang; Anthropic estreia na Nasdaq no dia 19",
    "cat": "ciencia"
   },
   {
-   "hora": "Qua 18/11 e Qui 19/11",
-   "txt": "Cúpula da Apec em Shenzhen, na China, onde o Kremlin diz que Putin e Trump vão se reunir",
-   "cat": "mundo"
+   "hora": "Qua 18/11",
+   "txt": "Brasileirão volta com Flamengo x Athletico-PR e Palmeiras x Cruzeiro; Trump e Putin devem se reunir na Apec, na China, entre 18 e 19",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercado",
-  "titulo": "Dólar fecha a R$ 5,65, maior valor em 17 meses, e Ibovespa cai 0,8% com tombo do Banco do Brasil e dúvidas sobre o ajuste fiscal",
-  "resumo": "A moeda americana subiu 1,61% e terminou o dia na máxima, no maior patamar de fechamento desde junho de 2025. A bolsa recuou para 170.680 pontos, puxada pelas ações do Banco do Brasil, que perderam mais de 9% depois do balanço do terceiro trimestre.",
+  "kicker": "Ajuste fiscal",
+  "titulo": "Senado aprova urgência do ajuste fiscal por 40 a 38 e tenta votar o projeto ainda hoje; dólar fecha a R$ 5,65",
+  "resumo": "A oposição tentou adiar a análise para a próxima terça-feira, mas foi derrotada, e o plenário pode votar o mérito nesta noite. Como se trata de lei complementar, o governo precisa de ao menos 41 votos, um a mais do que obteve na urgência.",
   "foto": {
    "src": "fotos/real.jpg",
    "credito": "José Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "O dia juntou fatores internos e externos. No Senado, o governo aprovou por 40 votos a 38 a urgência do projeto que pretende conter gastos e elevar receitas em até R$ 60 bilhões em 2027, mas a votação do conteúdo pode ficar para a próxima semana; analistas citados pelos sites de mercado afirmam que o alívio previsto pode não bastar para estabilizar a dívida. O IPCA de outubro, de 0,14%, veio abaixo do esperado, mas o acumulado em 12 meses subiu para 4,63%, acima do teto da meta, o que reduz o espaço para cortes da Selic, hoje em 13,75%. No exterior, o dólar ganhou força diante de moedas emergentes com a expectativa de juros altos por mais tempo nos Estados Unidos, e a saída de Jensen Huang do comando da Nvidia provocou forte oscilação nas ações de tecnologia.",
+  "entenda": "O projeto de lei complementar 299/2026 reúne medidas para melhorar as contas públicas em 2027: limita a 2% acima da inflação o crescimento real dos gastos federais, amplia de 10% para 20% o corte em benefícios tributários, restringe o uso de créditos tributários para pagar impostos, permite congelar despesas mesmo quando a meta fiscal já estiver sendo cumprida e reduz os repasses da Lei Kandir a estados e municípios. Na nova versão apresentada hoje, o relator Eduardo Braga (MDB-AM) poupou a desoneração da folha, os setores de tecnologia e semicondutores e a compra de carros por pessoas com deficiência, e o governo passou a estimar efeito de R$ 45,1 bilhões a R$ 56,1 bilhões em 2027. O mercado reagiu com cautela: o dólar subiu 1,61%, para R$ 5,651, e o Ibovespa caiu 0,80%, aos 170.680 pontos, também pressionado pelo balanço do Banco do Brasil. Se for aprovado no Senado, o texto segue para a Câmara.",
   "fatos": [
-   "Dólar comercial: R$ 5,651 (+1,61%); Ptax de venda a R$ 5,6143",
-   "Ibovespa: 170.679 pontos (-0,80%); no ano, ainda acumula alta de 6,79%",
-   "Banco do Brasil: lucro ajustado caiu 66,5% no trimestre; Americanas recuou cerca de 18% e Azzas subiu mais de 9%"
+   "Urgência aprovada por 40 votos a 38; o mérito exige 41 dos 81 senadores",
+   "Governo estima melhora de R$ 45,1 bi a R$ 56,1 bi nas contas de 2027",
+   "Dólar sobe 1,61%, a R$ 5,651; Ibovespa recua 0,80%"
   ],
   "fontes": [
    {
-    "n": "OReporter",
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/senado-aprova-urgencia-e-deve-votar-ajuste-fiscal-de-lula-ainda-nesta-5a",
+    "d": "votação da urgência"
+   },
+   {
+    "n": "O Tempo",
+    "u": "https://www.otempo.com.br/politica/2026/11/12/senado-aprova-urgencia-do-pacote-fiscal-por-40-a-38-e-governo-fica-a-um-voto-do-minimo",
+    "d": "quórum de 41 votos"
+   },
+   {
+    "n": "Jovem Pan",
+    "u": "https://jovempan.com.br/politica/senado-votara-proposta-de-ajuste-fiscal-com-previsao-de-r-60-milhoes-nesta-quinta/",
+    "d": "conteúdo do projeto"
+   },
+   {
+    "n": "Brasil 247",
+    "u": "https://www.brasil247.com/economia/alcolumbre-adia-votacao-de-ajuste-fiscal-de-r-60-bilhoes-apos-pressao-de-senadores/",
+    "d": "adiamento de quarta"
+   },
+   {
+    "n": "O Repórter",
     "u": "https://oreporter.com/economia/dolar-sobe-5-651-pacote-fiscal-ipca-ibovespa-fecha-queda-12-novembro",
     "d": "fechamento do mercado"
    },
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/dolar-valor-fechamento-12-novembro",
-    "d": "dólar no maior valor"
-   },
-   {
-    "n": "SBT News",
-    "u": "https://sbtnews.sbt.com.br/noticia/economia/dolar-fecha-no-maior-valor-em-17-meses-a-r-5-65",
-    "d": "dólar em 17 meses"
-   },
-   {
-    "n": "Money Times",
-    "u": "https://www.moneytimes.com.br/ibovespa-12-11-2026-davs/",
-    "d": "Ibovespa e balanços"
-   },
-   {
-    "n": "Terra",
-    "u": "https://terra.com.br/economia/banco-do-brasil-tomba-na-bolsa-apos-queda-no-lucro-e-corte-de-dividendos-em-2026,c79cb4a995442b824b9de5ef22b163f5u0qt78oz.html",
-    "d": "queda do Banco do Brasil"
-   },
-   {
     "n": "Jornal de Brasília",
     "u": "https://jornaldebrasilia.com.br/noticias/economia/dolar-sobe-e-ibovespa-cai-em-meio-a-insatisfacao-do-mercado-com-pacote-fiscal/",
-    "d": "pacote fiscal e câmbio"
+    "d": "reação do mercado"
    }
   ]
  },
@@ -213,77 +213,109 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste fiscal, Orçamento e caso Master",
+   "nota": "Ajuste fiscal, PL e COP31",
    "itens": [
     {
-     "kicker": "Senado",
+     "kicker": "Ajuste fiscal",
      "quando": "Hoje",
-     "titulo": "Senado aprova urgência do ajuste fiscal por 40 votos a 38; análise do conteúdo pode ficar para a próxima semana",
-     "resumo": "O placar deixou o governo a um voto do mínimo necessário e acelerou a tramitação do projeto de Jaques Wagner (PT-BA), relatado por Eduardo Braga (MDB-AM). O texto reduz de 2,5% para 2% o crescimento real máximo dos gastos em anos de contenção, amplia de 10% para 20% o corte possível em benefícios fiscais e limita o uso de créditos tributários; Alcolumbre admitiu que a votação do mérito pode ficar para a semana que vem.",
+     "titulo": "Relator muda o pacote fiscal, poupa a desoneração da folha e mantém mudança no piso da saúde",
+     "resumo": "Eduardo Braga (MDB-AM) protegeu do corte de benefícios as empresas da desoneração, os setores de tecnologia e semicondutores e a compra de carros por pessoas com deficiência, e deixou o Fundo Constitucional do DF fora da mudança no piso da saúde. Também foi mantida a regra que retira da base do piso da saúde, até 2030, o imposto sobre exportação de petróleo, o que, segundo estimativa citada pela imprensa, pode reduzir o mínimo do setor em cerca de R$ 9 bilhões.",
      "lados": [
       {
        "quem": "Governo e relator",
-       "txt": "Braga estima efeito de até R$ 54 bilhões em 2027 e diz que a proposta busca um orçamento realista, sem calote; o governo quer aprovar antes do Orçamento de 2027."
+       "txt": "Braga diz que as medidas criam um orçamento realista para 2027, e o ministro Bruno Moretti afirma que os gastos sociais essenciais ficam preservados e que a mudança na saúde é razoável."
       },
       {
        "quem": "Oposição",
-       "txt": "O líder Rogério Marinho (PL-RN) acusa o governo de tentar dar um calote em eleitores e nas contas públicas e pede mais tempo e análise em comissão; o PL diz não ver acordo."
+       "txt": "O líder Rogério Marinho (PL-RN) acusa o governo de dar um calote nos eleitores e nas contas públicas e pede que o texto passe pelas comissões, com mais tempo para análise."
       }
      ],
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/senado-aprova-urgencia-e-deve-votar-ajuste-fiscal-de-lula-ainda-nesta-5a"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/2026/11/12/braga-muda-pacote-fiscal-poupa-desoneracao-da-folha-e-eleva-impacto-para-ate-r-56-bilhoes"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/congresso/2026/11/12/alcolumbre-diz-que-plp-do-ajuste-fiscal-pode-ficar-para-a-proxima-semana"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/senado-aprova-urgencia-e-deve-votar-ajuste-fiscal-de-lula-ainda-nesta-5a"
       },
       {
        "n": "Revista Oeste",
        "u": "https://revistaoeste.com/politica/marinho-chama-pacote-fiscal-de-lula-de-especie-de-estelionato/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/isabel-mega/politica/planalto-tenta-acordo-para-votar-projeto-de-ajuste-fiscal/"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/senado-votara-proposta-de-ajuste-fiscal-com-previsao-de-r-60-milhoes-nesta-quinta/"
       }
      ]
     },
     {
-     "kicker": "Orçamento",
+     "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "Congresso libera R$ 290 milhões para Angra 3 e abre exceção na LDO para gastos com a Copa Feminina de 2027",
-     "resumo": "Em sessão conjunta, deputados e senadores aprovaram um pacote de créditos ao Orçamento que inclui recursos para Previdência, Bolsa Família e BPC. O crédito para Angra 3 passou na Câmara por 261 a 155 e no Senado em votação simbólica; a mudança na LDO para o Mundial feminino segue para sanção.",
-     "lados": [
+     "titulo": "Com problemas na voz, Lula reduz a agenda na COP31, mas mantém encontro com o presidente do Irã",
+     "resumo": "Em Antália, na Turquia, o presidente se reuniu com Masoud Pezeshkian e defendeu solução pacífica para o conflito no Oriente Médio e a reabertura do Estreito de Ormuz. Na quarta, em seu primeiro encontro com a presidente interina da Venezuela, Delcy Rodríguez, os dois concordaram em retomar plenamente as relações e discutir o acordo comercial entre os países, sem assinar contratos.",
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
       {
-       "quem": "Governo",
-       "txt": "O líder Randolfe Rodrigues (PT-AP) afirmou que manter a obra parada custa cerca de R$ 1 bilhão por ano e que a usina amplia a geração de energia."
+       "n": "Diario de Pernambuco",
+       "u": "https://www.diariodepernambuco.com.br/politica/2026/11/11728948-com-problemas-na-voz-lula-reduz-agenda-na-cop31.html"
       },
       {
-       "quem": "Oposição",
-       "txt": "PL e Novo votaram contra; o deputado Gilson Marques (Novo-SC) questionou novo gasto com o projeto a esta altura do ano, citando as contas públicas."
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/lula-se-reune-com-presidente-do-ira-durante-a-cop31/"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/lula-se-reune-com-presidente-do-ira-e-defende-abertura-do-estreito-de-ormuz/"
+      },
+      {
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/lula-delcy-rodriguez-relacoes-brasil-venezuela-cop31"
+      }
+     ]
+    },
+    {
+     "kicker": "Câmara",
+     "quando": "Hoje",
+     "titulo": "Sóstenes ameaça deixar a liderança do PL se o partido apoiar a reeleição de Hugo Motta",
+     "resumo": "Sem consenso, a bancada fará uma consulta reservada aos 121 deputados eleitos, com resultado previsto em até 15 dias. O PL terá a maior bancada da Câmara em 2027.",
+     "lados": [
+      {
+       "quem": "Ala contrária a Motta",
+       "txt": "Sóstenes Cavalcante e deputados bolsonaristas defendem candidatura própria, citando o apoio de Motta a Lula na campanha presidencial."
+      },
+      {
+       "quem": "Ala favorável a acordo",
+       "txt": "Altineu Côrtes e Valdemar Costa Neto avaliam que, fora do bloco majoritário, o partido pode perder espaço na Mesa, em comissões como a CCJ e em relatorias."
       }
      ],
      "fontes": [
       {
-       "n": "Diário da Guanabara",
-       "u": "https://dgrj.com.br/politica/congresso-aprova-r-290-milhoes-para-angra-3-em-votacao-dividida"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/12/congresso-abre-excecao-fiscal-copa-feminina-2027-brasil"
-      },
-      {
        "n": "Brasil 247",
-       "u": "https://www.brasil247.com/poder/congresso-aprova-credito-suplementar-de-r-290-milhoes-para-angra-3/"
+       "u": "https://www.brasil247.com/brasil/camara-sostenes-ameaca-deixar-lideranca-do-pl-se-partido-apoiar-motta/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/pl-adia-definicao-sobre-apoiar-motta-a-presidencia-da-camara"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/cafe-com-a-gazeta/pl-adia-decisao-sobre-apoio-a-reeleicao-de-hugo-motta/"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pl-mantem-indefinicao-sobre-presidencia-da-camara-em-meio-a-racha-sobre-apoio-a-motta/"
       }
      ]
     },
     {
      "kicker": "Caso Master",
      "quando": "Hoje",
-     "titulo": "A pedido da PF, Fachin prorroga por 60 dias a investigação sobre o senador Ciro Nogueira no caso Master",
-     "resumo": "O presidente do STF assumiu o caso de forma provisória, até dezembro. Em relatório de setembro, a PF apontou suposto alinhamento da atuação do senador com interesses do ex-banqueiro Daniel Vorcaro, preso desde março; as reportagens não trouxeram manifestação da defesa sobre a prorrogação.",
+     "titulo": "Fachin prorroga por 60 dias a investigação da PF sobre o senador Ciro Nogueira no caso Master",
+     "resumo": "O presidente do STF, relator temporário do inquérito, atendeu a um pedido da Polícia Federal. Em relatório de setembro, a PF apontou alinhamento entre a atuação parlamentar do senador e interesses de Daniel Vorcaro, ex-dono do banco, preso desde março; a prorrogação não representa juízo sobre culpa.",
      "fontes": [
       {
        "n": "SBT News",
@@ -294,62 +326,38 @@
        "u": "https://revistaoeste.com/politica/fachin-da-mais-60-dias-a-pf-para-investigar-ciro-nogueira-no-caso-master/"
       },
       {
-       "n": "Imirante",
-       "u": "https://m.imirante.com/noticias/brasil/2026/11/12/ipolitica-fachin-prorroga-investigacao-ciro-nogueira-60-dias"
-      }
-     ]
-    },
-    {
-     "kicker": "COP31",
-     "quando": "Hoje",
-     "titulo": "Na COP31, Lula cobra financiamento dos países ricos e cita Trump e Macron; mais cedo, recebeu o presidente do Irã",
-     "resumo": "Em encontro com a sociedade civil em Antália, Lula disse que o Brasil não pede caridade para preservar florestas e defendeu investimentos com retorno repartido com quem conserva. Antes, tratou com Masoud Pezeshkian da guerra no Oriente Médio e da navegação em Ormuz.",
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
        "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/politica/lula-trump-macron-cop31"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/brasil-sustentavel/lula-reivindica-lideranca-climatica-do-brasil-na-cop31-e-cobra-acao-dos-paises-ricos/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/governo/2026/11/12/lula-trata-da-guerra-no-oriente-medio-em-reuniao-com-o-presidente-do-ira-durante-a-cop31"
+       "u": "https://revistaforum.com.br/politica/fachin-abre-novo-capitulo-no-caso-master-envolvendo-ciro-nogueira-e-vorcaro/"
       }
      ]
     },
     {
-     "kicker": "Câmara",
+     "kicker": "Maioridade penal",
      "quando": "Ontem",
-     "titulo": "PL termina reunião sem decidir se apoia Hugo Motta e fará consulta individual aos deputados eleitos",
-     "resumo": "A ala ligada a Valdemar Costa Neto defende aderir ao bloco de Motta para não perder espaço nas comissões; a ala bolsonarista quer candidato próprio. Cada deputado registrará seu voto em documento sigiloso em cerca de 15 dias, e Sóstenes Cavalcante foi mantido como líder para 2027.",
+     "titulo": "Câmara faz audiências sobre PEC que reduz a maioridade penal; relator quer apresentar parecer até o fim do mês",
+     "resumo": "O relator, Mendonça Filho (PL-PE), defende a idade de 16 anos e propõe que os jovens cumpram pena em unidades separadas dos adultos. Nas audiências, o governo apresentou dados segundo os quais 12,2 mil adolescentes cumprem medidas socioeducativas, enquanto o sistema adulto abriga 727 mil presos.",
      "lados": [
       {
-       "quem": "Ala pragmática",
-       "txt": "Apoiar Motta, que já reúne partidos com 361 deputados, garantiria ao PL, maior bancada, espaço na divisão das comissões."
+       "quem": "Defensores da redução",
+       "txt": "A oposição quer 16 anos para todos os crimes e 14 para hediondos; o presidente da comissão, Aluísio Mendes (Republicanos-MA), quer votar a redução para todos os crimes."
       },
       {
-       "quem": "Ala bolsonarista",
-       "txt": "O partido deve lançar nome próprio, porque Motta seria próximo do Palácio do Planalto; foram citados Nikolas Ferreira e Sóstenes Cavalcante, entre outros."
+       "quem": "Governo",
+       "txt": "Governistas admitem 16 anos só para crimes hediondos e violentos; o secretário de Políticas Penais, André Garcia, disse que menores de 18 anos participam de menos de 2% desses crimes."
       }
      ],
      "fontes": [
       {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/politica/pl-racha-e-reuniao-para-definir-posicao-sobre-disputa-pela-presidencia-da-camara-termina-sem-definicao/"
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quinta-feira-12-de-novembro-de-2026/"
       },
       {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pl-adia-decisao-sobre-apoio-a-hugo-motta-na-camara"
+       "n": "Correio da Manhã",
+       "u": "https://www.correiodamanha.com.br/politica/2026/11/amp/332629-camara-tenta-acordo-sobre-reducao-da-maioridade-penal-para-menores.html"
       },
       {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/politica/pl-adia-apoio-a-hugo-motta-na-presidencia-da-camara/"
+       "n": "Diario de Pernambuco",
+       "u": "https://www.diariodepernambuco.com.br/politica/2026/11/11728374-reducao-da-maioridade-penal-relator-na-camara-quer-apresentar-texto-no-fim-de-novembro.html"
       }
      ]
     }
@@ -359,25 +367,53 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Fechamento, balanços e inflação",
+   "nota": "Dólar, bolsa e Banco do Brasil",
    "itens": [
     {
-     "kicker": "Bolsa",
+     "kicker": "Mercado",
      "quando": "Hoje",
-     "titulo": "Ações do Banco do Brasil fecham em queda de mais de 9% após lucro recuar 66,5% e banco cortar dividendos",
-     "resumo": "O banco reduziu à metade a projeção de lucro para 2026 e baixou a distribuição de dividendos ao mínimo legal de 25%, citando a inadimplência no crédito rural. Os papéis chegaram a cair 12% na abertura e foram o principal peso do Ibovespa no dia.",
+     "titulo": "Dólar sobe 1,61% e fecha a R$ 5,65; Ibovespa cai 0,80% com Banco do Brasil e cautela fiscal",
+     "resumo": "A moeda americana atingiu o maior nível recente, pressionada pela dúvida sobre o alcance do pacote fiscal e por dados de inflação nos Estados Unidos que reforçaram apostas em juros altos por lá. O Ibovespa terminou aos 170.680 pontos, depois de operar abaixo de 170 mil pela manhã; a Petrobras ajudou a limitar a queda, com o petróleo Brent acima de US$ 93.",
      "fontes": [
       {
+       "n": "O Repórter",
+       "u": "https://oreporter.com/economia/dolar-sobe-5-651-pacote-fiscal-ipca-ibovespa-fecha-queda-12-novembro"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/economia/dolar-sobe-e-ibovespa-cai-em-meio-a-insatisfacao-do-mercado-com-pacote-fiscal/"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/ibovespa-12-11-2026-davs/"
+      },
+      {
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/11/12/dolar-ibovespa-hoje-12-novembro/"
+      }
+     ]
+    },
+    {
+     "kicker": "Bancos",
+     "quando": "Hoje",
+     "titulo": "Ações do Banco do Brasil fecham em queda de mais de 9% após lucro recuar 66,5% e banco cortar projeções",
+     "resumo": "O lucro ajustado do terceiro trimestre foi de R$ 1,27 bilhão, bem abaixo dos R$ 3,3 bilhões esperados, e a projeção para 2026 caiu de R$ 18 bilhões a R$ 22 bilhões para R$ 9 bilhões a R$ 11 bilhões. A inadimplência acima de 90 dias subiu para 6,08%, puxada pelo crédito rural, e o banco reduziu os dividendos ao mínimo legal.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/acoes-do-banco-do-brasil-caem-11-apos-balanco-do-3o-trimestre"
+      },
+      {
        "n": "Terra",
-       "u": "https://terra.com.br/economia/banco-do-brasil-tomba-na-bolsa-apos-queda-no-lucro-e-corte-de-dividendos-em-2026,c79cb4a995442b824b9de5ef22b163f5u0qt78oz.html"
+       "u": "https://www.terra.com.br/economia/banco-do-brasil-tomba-na-bolsa-apos-queda-no-lucro-e-corte-de-dividendos-em-2026,c79cb4a995442b824b9de5ef22b163f5u0qt78oz.html"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/crise-no-agro-derruba-acoes-do-banco-do-brasil-e-pressiona-ibovespa/"
+       "n": "O Repórter",
+       "u": "https://oreporter.com/economia/dolar-sobe-5-651-pacote-fiscal-ipca-ibovespa-fecha-queda-12-novembro"
       },
       {
-       "n": "NeoFeed",
-       "u": "https://neofeed.com.br/negocios/a-tempestade-no-banco-do-brasil-com-queda-no-lucro-e-roe-no-chao-e-o-agro-ou-ma-gestao/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/bbas3-acoes-do-banco-do-brasil-desabam-10-com-resultado-abaixo-em-todas-as-frentes/"
       }
      ]
     },
@@ -402,22 +438,6 @@
       {
        "n": "Brasil 247",
        "u": "https://www.brasil247.com/economia/ipca-desacelera-fica-em-014-em-outubro-e-acumula-alta-de-463-em-12-meses/"
-      }
-     ]
-    },
-    {
-     "kicker": "Balanços",
-     "quando": "Hoje",
-     "titulo": "Americanas cai cerca de 18% após prejuízo de R$ 352 milhões; Azzas sobe mais de 9% e Petrobras ajuda a segurar a bolsa",
-     "resumo": "A temporada de balanços movimentou a B3 nesta quinta. Com o petróleo Brent acima de US$ 93, as ações da Petrobras amorteceram a queda do índice, enquanto Wall Street fechou sem direção única.",
-     "fontes": [
-      {
-       "n": "OReporter",
-       "u": "https://oreporter.com/economia/dolar-sobe-5-651-pacote-fiscal-ipca-ibovespa-fecha-queda-12-novembro"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ibovespa-12-11-2026-davs/"
       }
      ]
     },
@@ -447,41 +467,25 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Chuva em SP, fraude em concurso e feriado",
+   "nota": "Calor, temporais e segurança",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Chuva coloca São Paulo em estado de atenção, ABC em alerta severo e interrompe trecho da Linha 10 da CPTM",
-     "resumo": "Com acúmulo de água na via, os trens deixaram de circular entre Santo André e Mauá; o CGE previa novas pancadas fortes à tarde, com risco de alagamentos e queda de árvores. O Inmet mantém alertas de tempestade, com ventos de até 60 km/h e granizo, em cidades de Minas, Paraná e do interior paulista para sexta (13).",
+     "titulo": "Inmet prevê temporais na sexta em São Paulo, Rio, Minas e Centro-Oeste; Teresina pode chegar a 39 °C",
+     "resumo": "Uma massa de ar quente e úmido mantém o calor no Centro-Sul e favorece pancadas fortes à tarde, com alerta amarelo para tempestades no Sudeste, no Centro-Oeste e em partes do Norte. No Sul, o tempo fica mais firme na sexta, e a chuva chega ao Paraná, a Santa Catarina e ao Rio Grande do Sul no sábado.",
      "fontes": [
       {
-       "n": "Diário do Transporte",
-       "u": "https://diariodotransporte.com.br/2026/11/12/video-cidade-de-sao-paulo-entra-em-estado-de-atencao-e-abc-paulista-recebe-alerta-severo-para-chuvas-e-alagamentos-nesta-quinta-feira-12/"
+       "n": "Revista Cultivar/Inmet",
+       "u": "https://revistacultivar.com.br/noticias/inmet-previsao-do-tempo-para-sexta-feira-13-11-e-sabado-14-11"
       },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/sao-paulo/alerta-severo-zona-leste-de-sp-esta-em-estado-de-atencao-para-alagamentos"
+       "u": "https://www.metropoles.com/brasil/inmet-emite-alerta-amarelo-de-temporais-e-vento-forte-em-11-estados-e-no-df"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/11/12/ventos-de-ate-60-km-h-e-granizo-betim-e-mais-1-cidade-entram-em-alerta-amarelo-de-tempestade-do-inmet"
-      }
-     ]
-    },
-    {
-     "kicker": "Polícia Federal",
-     "quando": "Hoje",
-     "titulo": "PF deflagra operação contra suspeitos de fraudar o próprio concurso de 2025; um aluno foi afastado da academia",
-     "resumo": "A Operação Falso Mérito cumpriu oito mandados de busca no Paraná, em Santa Catarina e no Distrito Federal e tem seis alvos, com três ordens de prisão temporária. A Justiça Federal de Campo Grande também determinou o bloqueio de até R$ 1,72 milhão.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/operacao-mira-suspeitos-de-fraudar-concurso-de-2025-da-policia-federal"
-      },
-      {
-       "n": "Portal 6",
-       "u": "https://portal6.com.br/2026/11/12/operacao-mira-suspeitos-de-fraudar-concurso-de-2025-da-policia-federal/"
+       "n": "Brasil 61",
+       "u": "https://brasil61.com/n/o-tempo-e-a-temperatura-sudeste-tem-previsao-de-pancadas-de-chuva-e-trovoadas-isoladas-nesta-sexta-feira-13-ptsd264618"
       }
      ]
     },
@@ -498,22 +502,6 @@
       {
        "n": "Agência SP",
        "u": "https://www.agenciasp.sp.gov.br/policia-militar-intensifica-operacoes-em-paraisopolis-na-zona-sul-de-sao-paulo-e-descobre-casa-bomba/"
-      }
-     ]
-    },
-    {
-     "kicker": "Feriado",
-     "quando": "Hoje",
-     "titulo": "Consciência Negra cai numa sexta-feira e cria fim de semana prolongado em todo o país no dia 20",
-     "resumo": "O Dia Nacional de Zumbi e da Consciência Negra é feriado nacional desde a lei de 2023. Hospitais e serviços essenciais funcionam normalmente, e quem trabalhar na data tem direito a pagamento em dobro ou folga compensatória.",
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/trends/feriado-de-novembro-cai-numa-sexta-feira-em-2026-e-pode-criar-descanso-de-3-dias-para-parte-dos-trabalhadores/"
-      },
-      {
-       "n": "Diário do Comércio",
-       "u": "https://diariodocomercio.com.br/mix/brasil-tera-feriado-nacional-em-uma-sexta-feira-e-trabalhadores-ja-podem-se-preparar-para-um-fim-de-semana-de-3-dias/"
       }
      ]
     },
@@ -536,6 +524,22 @@
        "u": "https://www.osaogoncalo.com.br/seguranca-publica/180237/pm-faz-operacao-de-combate-ao-comando-vermelho-no-complexo-da-mare"
       }
      ]
+    },
+    {
+     "kicker": "Feriado",
+     "quando": "Hoje",
+     "titulo": "Consciência Negra cai numa sexta-feira e cria fim de semana prolongado em todo o país no dia 20",
+     "resumo": "O Dia Nacional de Zumbi e da Consciência Negra é feriado nacional desde a lei de 2023. Hospitais e serviços essenciais funcionam normalmente, e quem trabalhar na data tem direito a pagamento em dobro ou folga compensatória.",
+     "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/trends/feriado-de-novembro-cai-numa-sexta-feira-em-2026-e-pode-criar-descanso-de-3-dias-para-parte-dos-trabalhadores/"
+      },
+      {
+       "n": "Diário do Comércio",
+       "u": "https://diariodocomercio.com.br/mix/brasil-tera-feriado-nacional-em-uma-sexta-feira-e-trabalhadores-ja-podem-se-preparar-para-um-fim-de-semana-de-3-dias/"
+      }
+     ]
     }
    ]
   },
@@ -548,36 +552,36 @@
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Kremlin anuncia encontro de Putin e Trump na cúpula da Apec, na China, para discutir a guerra na Ucrânia",
-     "resumo": "Segundo o assessor Yuri Ushakov, os dois devem se reunir em Shenzhen, onde a cúpula ocorre em 18 e 19 de novembro, e pode haver conversa a três com Xi Jinping. A rodada mais recente de negociações, em Abu Dhabi, terminou com acordo para nova troca de prisioneiros; Zelensky afirma que não aceitará decisões tomadas sem a participação da Ucrânia.",
+     "titulo": "Após 2h30 com Putin, Witkoff anuncia nova rodada de negociações e Kremlin fala em encontro com Trump na próxima semana",
+     "resumo": "O enviado americano disse que as conversas entre Estados Unidos, Rússia e Ucrânia foram retomadas e que parceiros europeus vão participar; Moscou se mostrou menos receptiva à presença da Europa. Segundo o assessor Yuri Ushakov, Putin e Trump devem tratar do conflito durante a cúpula da Apec, na China, em 18 e 19 de novembro.",
      "fontes": [
       {
-       "n": "Kyiv Independent",
-       "u": "https://kyivindependent.com/trump-putin-to-discuss-ukraine-peace-settlement-during-meeting-in-china-kremlin-says/"
+       "n": "Kyiv Post",
+       "u": "https://www.kyivpost.com/post/89964"
       },
       {
-       "n": "BioBioChile",
-       "u": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/12/rusia-confirma-reunion-entre-putin-y-trump-y-preparativos-para-tripartita-con-xi-en-apec.shtml"
-      },
-      {
-       "n": "Tribuna do Sertão",
+       "n": "Sputnik/Tribuna do Sertão",
        "u": "https://www.tribunadosertao.com.br/geral/2026/11/12/1020213-kremlin-anuncia-encontro-entre-putin-e-trump-na-semana-que-vem"
+      },
+      {
+       "n": "NV",
+       "u": "https://english.nv.ua/nation/putin-begins-meeting-with-witkoff-and-kushner-in-moscow-on-november-12-50658669.html"
       }
      ]
     },
     {
      "kicker": "Estados Unidos",
      "quando": "Hoje",
-     "titulo": "Ataque a tiros perto da Casa Branca deixa um morto e quatro feridos; atirador é encontrado morto após cerco",
-     "resumo": "Os disparos começaram numa academia do bairro Logan Circle, em Washington, e continuaram na rua. Depois de cerca de uma hora de negociação, a polícia encontrou o suspeito, um médico de 55 anos, morto num prédio vizinho; segundo o chefe de polícia, o caso parece ligado a uma disputa com a associação de moradores do condomínio.",
+     "titulo": "Tiroteio que começou numa academia perto da Casa Branca deixa um morto e cinco feridos; suspeito também morre",
+     "resumo": "Os disparos começaram no bairro de Logan Circle, em Washington, a cerca de 1,6 km da Casa Branca, e o atirador se entrincheirou num prédio vizinho. Segundo a imprensa americana, ele morreu com um ferimento aparentemente autoinfligido; um dos feridos está em estado crítico, e a motivação não foi divulgada.",
      "fontes": [
       {
-       "n": "Al Jazeera",
-       "u": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc"
+       "n": "RTP",
+       "u": "https://www.rtp.pt/noticias/mundo/um-morto-e-cinco-feridos-em-tiroteio-em-washington_n1778705"
       },
       {
-       "n": "CBS News",
-       "u": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/"
+       "n": "JN",
+       "u": "https://www.jn.pt/mundo/artigo/varios-atingidos-em-tiroteio-num-ginasio-perto-da-casa-branca/18147455"
       },
       {
        "n": "CNN Brasil",
@@ -587,17 +591,41 @@
     },
     {
      "kicker": "Nova York",
-     "quando": "Hoje",
-     "titulo": "Desabamento de prédio no Brooklyn deixa oito mortos, entre eles duas crianças; prefeitura paralisa obra vizinha",
-     "resumo": "Seis pessoas morreram no local e duas no hospital; há ao menos 17 feridos, três deles bombeiros. Os investigadores apuram por que o solo cedeu e emitiram ordem de paralisação total da escavação no terreno ao lado.",
+     "quando": "Ontem",
+     "titulo": "Desabamento de prédio no Brooklyn deixa oito mortos, entre eles duas crianças; bombeiros temem novo colapso",
+     "resumo": "O edifício de três andares, dos anos 1930, caiu sobre um terreno vizinho onde havia obras de escavação, no bairro de Flatbush. Cerca de 250 bombeiros e socorristas trabalharam durante a noite, e as autoridades ainda não sabem quantas pessoas estavam no local.",
      "fontes": [
       {
-       "n": "CBS New York",
-       "u": "https://www.cbsnews.com/newyork/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/nova-york-predio-desaba-no-brooklyn-e-deixa-ao-menos-oito-mortos"
       },
       {
-       "n": "ABC News",
-       "u": "https://abcnews.com/US/rescue-operations-underway-after-building-collapses-brooklyn-new/story?id=138059620"
+       "n": "SP Diário",
+       "u": "https://spdiario.com.br/noticias/mundo/desabamento-no-brooklyn-mata-oito-pessoas-incluindo-duas-criancas.html"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/nova-morte-desabamento-predio-ny/"
+      }
+     ]
+    },
+    {
+     "kicker": "Turquia",
+     "quando": "Hoje",
+     "titulo": "Queda de helicóptero militar mata quatro soldados no leste da Turquia",
+     "resumo": "A aeronave de transporte S-70 caiu na província de Malatya, segundo o Ministério da Defesa, que não informou quantas pessoas estavam a bordo. As causas estão sendo investigadas.",
+     "fontes": [
+      {
+       "n": "EFE/Infobae",
+       "u": "https://www.infobae.com/america/agencias/2026/11/12/mueren-cuatro-militares-turcos-al-estrellarse-su-helicoptero-en-el-este-del-pais/"
+      },
+      {
+       "n": "El Universal",
+       "u": "https://eluniversal.com.mx/mundo/fallecen-4-militares-turcos-tras-estrellarse-en-helicoptero-caen-cerca-de-base-militar"
+      },
+      {
+       "n": "Brasil em Folhas",
+       "u": "https://brasilemfolhas.com.br/2026/11/queda-de-helicoptero-militar-mata-quatro-soldados-na-turquia/"
       }
      ]
     },
@@ -622,36 +650,6 @@
        "u": "https://metropoles.com/mundo/casa-branca-ataca-congresso-apos-democratas-anunciarem-devassa-contra-trump"
       }
      ]
-    },
-    {
-     "kicker": "Espanha",
-     "quando": "Ontem",
-     "titulo": "Espanha tem a primeira greve geral em 14 anos, contra o custo da moradia e os salários baixos",
-     "resumo": "A paralisação de 24 horas foi convocada pelos sindicatos UGT e CCOO e fechou lojas em Madri e Barcelona; o país tem déficit estimado de 750 mil moradias. A greve ocorre a menos de três semanas das eleições antecipadas de 29 de novembro.",
-     "lados": [
-      {
-       "quem": "Governo e esquerda",
-       "txt": "Pedro Sánchez reconheceu o direito de greve e as reivindicações; a Frente Amplio, de Ada Colau, apoiou o movimento."
-      },
-      {
-       "quem": "Oposição",
-       "txt": "Alberto Núñez Feijóo (PP) pediu o cancelamento e acusou os sindicatos de motivação eleitoral; Santiago Abascal (Vox) também rejeitou a paralisação."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/trabalhadores-espanhois-fazem-primeira-greve-geral-em-14-anos"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/mundo/greve-geral-paralisa-espanha-por-salarios-e-moradia-a-menos-de-tres-semanas-de-eleicoes-gerais,9f8915cb02a495bb4ea58ab54f81180fk5aygm91.html"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/11/greve-geral-em-espanha-em-protesto-contra-a-crise-da-habitacao-e-os-baixos-salarios"
-      }
-     ]
     }
    ]
   },
@@ -659,33 +657,41 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Liga das Nações, Seleção e Série B",
+   "nota": "Liga das Nações, Seleção e Brasileirão",
    "itens": [
     {
      "kicker": "Liga das Nações",
      "quando": "Hoje",
      "titulo": "Itália vira sobre a França no San Siro, vence por 3 a 1 e assume a liderança do grupo",
-     "resumo": "Olise abriu o placar para os franceses após erro de Donnarumma, mas Pio Esposito marcou duas vezes, uma de pênalti, e Frattesi fechou a virada. As duas seleções têm 10 pontos, e a Itália passa à frente.",
+     "resumo": "Olise abriu o placar para os franceses após erro de Donnarumma, mas Pio Esposito, duas vezes, e Frattesi garantiram a virada. É a primeira derrota da França sob o comando de Zinedine Zidane; as duas seleções têm 10 pontos, e a Itália lidera pelo confronto direto.",
      "fontes": [
+      {
+       "n": "Placar",
+       "u": "https://placar.com.br/futebol-europeu/italia-supera-erro-inicial-vira-sobre-a-franca-e-lidera-na-nations/?media=tv&content=geral"
+      },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/esportes/nations-league-italia-vence-franca-de-virada-e-assume-lideranca-do-grupo"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/franca/italia-vence-a-franca-de-virada-e-assume-a-lideranca-do-grupo-a1-da-liga-das-nacoes/"
+       "n": "Lance",
+       "u": "https://www.lance.com.br/futebol-internacional/sem-mbappe-franca-perde-de-virada-para-a-italia-na-nations-league.html"
       }
      ]
     },
     {
      "kicker": "Liga das Nações",
      "quando": "Hoje",
-     "titulo": "Kane se torna o jogador com mais partidas pela Inglaterra e decide vitória de 2 a 1 sobre a Croácia",
-     "resumo": "Em sua 126ª partida, o atacante superou Peter Shilton e marcou de pênalti, após revisão do VAR, o gol da vitória em Wembley. A Inglaterra visita a líder Espanha no domingo (15); a Croácia vai disputar a repescagem contra o rebaixamento.",
+     "titulo": "Kane marca de pênalti, Inglaterra vence a Croácia por 2 a 1 e garante vaga na próxima fase",
+     "resumo": "Morgan Rogers abriu o placar em Nottingham, Sucic empatou no segundo tempo e Kane decidiu após revisão do VAR, chegando a 92 gols pela seleção. No domingo, a Inglaterra visita a Espanha.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/internacional/inglaterra/kane-faz-historia-inglaterra-bate-a-croacia-e-avanca-na-liga-das-nacoes,4c44f640da94f858a33dbe068c00abd2zv1cjocv.html"
+       "n": "Placar",
+       "u": "https://placar.com.br/futebol-europeu/inglaterra-supera-a-croacia-garante-classificacao-e-elimina-rival-na-liga-das-nacoes/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/harry-kane-marca-inglaterra-vence-croacia-e-avanca-de-fase-na-nations"
       },
       {
        "n": "Gazeta Esportiva",
@@ -697,7 +703,7 @@
      "kicker": "Seleção",
      "quando": "Hoje",
      "titulo": "Com o grupo completo pela primeira vez, Ancelotti treina time com quatro atacantes para enfrentar o Japão",
-     "resumo": "No treino em Singapura, Raphinha, Estêvão, Vini Jr. e Rayan formaram o ataque, com Andrey Santos e Bruno Guimarães no meio. O gol segue indefinido entre Pedro Morisco e Bento; o amistoso é no sábado (14), às 7h15.",
+     "resumo": "No treino em Singapura, Raphinha, Estêvão, Vini Jr. e Rayan formaram o ataque, com Andrey Santos e Bruno Guimarães no meio. O gol segue indefinido entre Pedro Morisco e Bento; o amistoso é no sábado (14), às 7h15. Raphinha será o capitão contra o Japão, e Bruno Guimarães, poupado de parte dos treinos, deve estar disponível.",
      "fontes": [
       {
        "n": "Sportbuzz",
@@ -718,22 +724,18 @@
      ]
     },
     {
-     "kicker": "Série B",
+     "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Rebaixada, Ponte Preta recebe o Operário-PR às 19h, e São Bernardo enfrenta o Athletic às 20h na reta final da Série B",
-     "resumo": "Os dois jogos foram antecipados da 38ª e última rodada. A Ponte tenta evitar a pior campanha de sua história na competição, enquanto o Operário se despede da temporada.",
+     "titulo": "Com o campeonato parado pela data Fifa, Flamengo lidera com 76 pontos, três à frente do Palmeiras",
+     "resumo": "A disputa volta na quarta (18), com Flamengo x Athletico-PR e Palmeiras x Cruzeiro, e a última rodada está marcada para 2 de dezembro. Na Série B, a rodada final é no sábado (14), com Novorizontino e Juventude brigando pelo título.",
      "fontes": [
       {
-       "n": "Todo Dia",
-       "u": "https://tododia.com.br/esportes/ponte-preta-enfrenta-o-operario-na-ultima-rodada-da-serie-b-para-evitar-pior-campanha-da-historia/"
+       "n": "Hoje Cidades",
+       "u": "https://hojecidades.com.br/futebol-brasileiro-12-novembro-2026-selecao-brasileirao-serie-b/"
       },
       {
-       "n": "Diário dos Campos",
-       "u": "https://dcmais.com.br/esportes/operario-encerra-serie-b-contra-a-rebaixada-ponte-preta/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-bernardo-x-athletic-horario-e-onde-assistir-ao-jogo-da-serie-b/"
+       "n": "Lance",
+       "u": "https://www.lance.com.br/futebol-nacional/brasileirao-cbf-divulga-datas-e-horarios-das-duas-ultimas-rodadas-veja.html"
       }
      ]
     },
@@ -767,29 +769,45 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Covid, chikungunya e canetas",
+   "nota": "Mpox, concurso e canetas",
    "itens": [
     {
-     "kicker": "Covid-19",
+     "kicker": "Mpox",
      "quando": "Hoje",
-     "titulo": "Casos graves de covid voltam a subir no início de novembro em cinco estados e no DF, aponta Fiocruz",
-     "resumo": "O boletim InfoGripe mostra alta de síndrome respiratória grave por covid na Bahia, em São Paulo, Minas, Rio, Paraná e no Distrito Federal, embora o patamar geral siga baixo. A Fiocruz recomenda manter a vacinação em dia, com reforço semestral para idosos e imunossuprimidos.",
+     "titulo": "Brasil passa de mil casos de mpox em 2026, com alta de 22% em menos de uma semana",
+     "resumo": "O painel do Ministério da Saúde registra 1.023 casos confirmados e uma morte, com Rio de Janeiro e São Paulo concentrando a maior parte. Especialistas associam a mudança no perfil de circulação à cepa 1b; a vacinação, em duas doses, é restrita a grupos de maior risco.",
+     "foto": {
+      "src": "fotos/vacina.jpg",
+      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/saude/casos-graves-de-covid-19-aumentam-no-inicio-de-novembro"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/saude/brasil-ultrapassa-mil-casos-de-mpox-com-alta-de-22-em-apenas-uma-semana/"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/variedades/mpox-no-brasil-virus-que-causou-crise-na-africa-avanca-em-sp-e-outros-estados-1.1193702"
+      },
+      {
+       "n": "Ceará Agora",
+       "u": "https://cearaagora.com.br/mpox-avanca-no-brasil-e-chega-a-1-023-casos-uma-morte-foi-registrada/"
       }
      ]
     },
     {
-     "kicker": "Chikungunya",
+     "kicker": "Concurso",
      "quando": "Hoje",
-     "titulo": "Chikungunya cresce em seis estados e no DF em 2026; Goiás e Bahia têm alta acima de 480%",
-     "resumo": "No país, os casos caíram para 58.886 neste ano, ante 105.595 no mesmo período de 2025, e as mortes passaram de 126 para 61. Um projeto-piloto de vacinação do Butantan já aplicou cerca de 79 mil doses em seis estados, mas a vacina ainda não está no SUS.",
+     "titulo": "Ministério da Saúde abre seleção com 759 vagas de nível superior e salários de até R$ 10,3 mil",
+     "resumo": "São 300 vagas imediatas e as demais para cadastro de reserva, com contratos de um ano. As inscrições vão até 14 de dezembro, com taxa de R$ 60, e a prova está marcada para 17 de janeiro em sete capitais.",
      "fontes": [
       {
-       "n": "ICL Notícias / Folhapress",
-       "u": "https://iclnoticias.com.br/seis-estados-e-o-df-tem-aumento-de-chikungunya/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/ministerio-da-saude-abre-concurso-com-759-vagas-e-salarios-de-ate-r-10-mil"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/concursos/noticia/2026/11/12/ministerio-saude-abre-300-vagas-temporarias"
       }
      ]
     },
@@ -810,26 +828,26 @@
      ]
     },
     {
-     "kicker": "Mpox",
+     "kicker": "Medicamentos",
      "quando": "Ontem",
-     "titulo": "MPF abre inquérito sobre falta de vacinas contra mpox; ministério diz que 25 mil doses chegam em três semanas",
-     "resumo": "O inquérito civil apura possível omissão na compra e na divisão das doses entre os estados; o Distrito Federal suspendeu a vacinação em 3 de novembro por falta do imunizante. O ministério informou que comprou o lote pelo fundo rotatório da Opas e orientou o uso da aplicação intradérmica, que rende mais doses, em grupos prioritários.",
+     "titulo": "Anvisa registra mais duas canetas de semaglutida, incluindo um genérico; total de aprovações no ano chega a 22",
+     "resumo": "Os produtos, da Ávita Care, são indicados para adultos com diabetes tipo 2 sem controle adequado e foram aprovados por comparação com o Ozempic. Na semana passada, a agência já havia aprovado a primeira semaglutida oral, voltada à obesidade.",
      "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/jYklxJazytk2LjaLUtKfHB4RoSQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/27/img_e9774-10.jpg?itok=Ac7RVSK0",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Perfil Brasil",
-       "u": "https://brasil.perfil.com/saude/falta-de-vacinas-contra-mpox-leva-mpf-a-investigar-ministerio-da-saude.phtml"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-registra-duas-novas-canetas-emagrecedoras-de-semaglutida"
       },
       {
-       "n": "Plox",
-       "u": "https://plox.com.br/noticia/11/11/2026/ministerio-saude-compra-vacina-mpox"
+       "n": "Jornal Pequeno",
+       "u": "https://jornalpequeno.com.br/2026/11/10/anvisa-aprova-duas-novas-canetas-a-base-de-semaglutida/"
       },
       {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4368062/mpox-lote-de-25-mil-doses-da-vacina-deve-chegar-ao-brasil-nas-proximas-semanas"
+       "n": "JD1 Notícias",
+       "u": "https://www.jd1noticias.com/brasil/2026/11/11/anvisa-aprova-mais-duas-canetas-emagrecedoras-a-base-de-semaglutida.html"
       }
      ]
     }
@@ -839,13 +857,13 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Piso no STF, livros e Enem",
+   "nota": "Piso no STF e Enem",
    "itens": [
     {
      "kicker": "Piso do magistério",
      "quando": "Hoje",
-     "titulo": "STF retoma julgamento sobre o alcance do reajuste do piso dos professores, com divergência entre os ministros",
-     "resumo": "O caso, com repercussão geral, decide se o reajuste anual do piso do magistério deve se refletir em toda a carreira ou só no salário inicial. Os ministros mostraram divergências sobre o alcance da regra, e o resultado não havia sido proclamado até a última atualização desta edição.",
+     "titulo": "STF retoma hoje julgamento que define se reajuste do piso dos professores vale para toda a carreira",
+     "resumo": "A sessão de quarta foi suspensa e recomeça às 14h. Em jogo está se a correção do piso, de R$ 5.130,63 em 2026 para 40 horas, deve se refletir automaticamente nos planos de carreira de estados e municípios.",
      "lados": [
       {
        "quem": "Relator, Cristiano Zanin",
@@ -868,26 +886,46 @@
       {
        "n": "Conjur",
        "u": "https://conjur.com.br/2026-mai-21/stf-suspende-julgamento-sobre-reajuste-do-piso-salarial-dos-professores-2/"
-      },
-      {
-       "n": "DOL",
-       "u": "https://dol.com.br/noticias/brasil/968164/stf-julga-reajuste-do-piso-salarial-dos-professores-de-todo-o-pais"
       }
      ]
     },
     {
-     "kicker": "Livros didáticos",
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Segundo dia do Enem é no domingo, com Matemática e Ciências da Natureza; reaplicação pode ser pedida de 16 a 20",
+     "resumo": "Os portões abrem às 12h e fecham às 13h, pelo horário de Brasília, e a prova começa às 13h30. Candidatos de locais afetados por falta de luz ou problemas climáticos no primeiro dia podem solicitar a reaplicação na Página do Participante.",
+     "foto": {
+      "src": "fotos/enamed.jpg",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Inep",
+       "u": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-segundo-dia-tera-itens-de-matematica-e-ciencias-da-natureza"
+      },
+      {
+       "n": "Tribuna do Norte",
+       "u": "https://tribunadonorte.com.br/brasil/enem-2026-segundo-dia-de-provas-sera-no-proximo-domingo-veja-horarios/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame"
+      }
+     ]
+    },
+    {
+     "kicker": "Livro didático",
      "quando": "Ontem",
-     "titulo": "Editoras dizem que livros didáticos de 2027 correm risco de atraso; MEC afirma que todo o material chegará às escolas",
-     "resumo": "Os contratos para cerca de 96,5 milhões de exemplares, destinados a 10 milhões de alunos do 1º ao 5º ano, ainda não foram assinados. A compra completa é estimada em R$ 1,5 bilhão.",
+     "titulo": "Editoras alertam para risco de atraso nos livros didáticos de 2027; MEC diz que material chegará às escolas",
+     "resumo": "Os contratos para os livros de 1º ao 5º ano, destinados a cerca de 10 milhões de alunos, ainda não foram assinados.",
      "lados": [
       {
-       "quem": "Editoras (Abrelivros)",
-       "txt": "Dizem que o MEC informou limite orçamentário para parte dos títulos e que os contratos precisam ser fechados até a próxima semana para evitar atraso."
+       "quem": "Editoras",
+       "txt": "A Abrelivros diz que os contratos precisam ser fechados na próxima semana e que o MEC sinalizou limite orçamentário para comprar todo o material."
       },
       {
        "quem": "MEC e FNDE",
-       "txt": "Afirmam que a contratação segue em negociação, que os alunos não serão prejudicados e que todo o material chegará no próximo ano letivo."
+       "txt": "Afirmam que a contratação está em negociação e que todos os livros chegarão às escolas públicas para o próximo ano letivo."
       }
      ],
      "fontes": [
@@ -924,46 +962,23 @@
      ]
     },
     {
-     "kicker": "Educação especial",
-     "quando": "Ontem",
-     "titulo": "MEC homologa novas diretrizes para alunos com altas habilidades; laudo deixa de ser exigido para atendimento",
-     "resumo": "Pelas regras do Conselho Nacional de Educação, a identificação passa a ser sobretudo pedagógica, com base em observação e registros escolares. A falta de laudo ou teste não pode impedir o acesso ao atendimento especializado, e as redes devem priorizar regiões com menos oferta.",
+     "kicker": "Inteligência artificial",
+     "quando": "10/11",
+     "titulo": "MEC aprova diretrizes que vetam IA para crianças da educação infantil e exigem mediação do professor no fundamental",
+     "resumo": "Pelas regras do Conselho Nacional de Educação, o ensino médio pode usar a ferramenta como recurso pedagógico, e notas e aprovação continuam responsabilidade exclusiva do professor. Ficam proibidos reconhecimento de emoções, vigilância biométrica contínua e uso de dados de alunos para publicidade; as redes terão 12 meses para se adaptar.",
      "foto": {
-      "src": "https://imagens.ebc.com.br/a3yJOipwwu5JmGk-TV99s4di76A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/toms0722.jpg?itok=ouxRcI6w",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/7qcUOR7jtt-JO7i91dsPKDZMF34=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7268.jpg_0.jpg?itok=hCrUo2-6",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
      },
+     "destaque": false,
      "fontes": [
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-fixa-novas-normas-para-educacao-de-alunos-com-altas-habilidades"
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao"
       },
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/brasil/2026/11/11/mec-fixa-novas-normas-para-educacao-de-alunos-com-altas-habilidades.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "09/11",
-     "titulo": "Candidatos de 39 locais que ficaram sem luz no Enem têm reaplicação garantida; pedidos vão de 16 a 20 de novembro",
-     "resumo": "Foram 36 locais no Rio de Janeiro, 2 no Amapá e 1 em Minas Gerais. A reaplicação será em 15 e 16 de dezembro e vale também para quem teve doenças listadas no edital; quem faltou no primeiro dia deve fazer a prova de domingo normalmente.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/KgpYqt72mDbH8jXd-Hge48HQKR8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/toms6189.jpg?itok=dkh0GsYO",
-      "credito": "Tomaz Silva/Agência Brasil"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame"
-      },
-      {
-       "n": "Foco Enem",
-       "u": "https://focoenem.com.br/vestibulares/enem/mec-anuncia-reaplicacao-do-enem-2026-para-39-locais-afetados-por-falta-de-energia/"
-      },
-      {
-       "n": "News Rondônia",
-       "u": "https://newsrondonia.com.br/educacao/2026/11/10/inep-abre-prazo-para-pedido-de-reaplicacao-do-enem-2026-a-partir-do-dia-16-de-novembro"
+       "n": "Midiamax",
+       "u": "https://midiamax.com.br/brasil/2026/mec-aprova-diretrizes-uso-ia-cada-etapa-educacao/"
       }
      ]
     }
@@ -973,57 +988,53 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Nvidia, Starship e IA",
+   "nota": "Nvidia e novos modelos de IA",
    "itens": [
     {
      "kicker": "Nvidia",
      "quando": "Hoje",
-     "titulo": "Ações da Nvidia chegam a cair 14% após a renúncia de Jensen Huang e reduzem perdas ao longo do dia",
-     "resumo": "A empresa confirmou a saída imediata de Huang do cargo de presidente-executivo e do conselho; a diretora financeira Colette Kress assume de forma interina. Os motivos não foram detalhados pela companhia, e a imprensa americana publicou relatos sobre a vida pessoal do executivo que não foram confirmados oficialmente.",
+     "titulo": "Ações da Nvidia fecham em queda de mais de 4% no dia da renúncia de Jensen Huang, depois de recuarem até 14%",
+     "resumo": "A diretora financeira Colette Kress assume interinamente o comando, e Harvey C. Jones passa a presidir o conselho, cargo criado agora. A saída ocorre após uma investigação interna aberta depois de Huang admitir publicamente um caso extraconjugal; a empresa não atribuiu oficialmente a renúncia ao episódio, e o balanço trimestral sai no dia 17.",
      "fontes": [
+      {
+       "n": "CNBC",
+       "u": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+      },
+      {
+       "n": "Suno",
+       "u": "https://www.suno.com.br/noticias/nvidia-nvda-jensen-huang-renuncia/"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://spacemoney.com.br/investimentos/acoes/nvidia-cai-com-renuncia-de-jensen-huang"
+      },
       {
        "n": "Bloomberg Línea",
        "u": "https://www.bloomberglinea.com.br/mercados/as-acoes-da-nvidia-despencam-em-wall-street-apos-a-renuncia-de-jensen-huang/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/internacional-economia/acoes-nvidia-queda-renuncia-ceo-jensen-huang/"
-      },
-      {
-       "n": "Yahoo Finance",
-       "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-jensen-huang-resigns-cfo-colette-kress-to-serve-as-interim-ceo-140341430.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Espaço",
-     "quando": "Hoje",
-     "titulo": "SpaceX marca para sexta o 15º voo da Starship, com a primeira tentativa de recuperar foguete e nave na torre",
-     "resumo": "O lançamento está previsto para o início da noite de sexta-feira (13), no horário de Brasília, a partir do Texas. A Nasa conta com a Starship como módulo de pouso das próximas missões tripuladas à Lua.",
-     "fontes": [
-      {
-       "n": "Space.com",
-       "u": "https://space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt"
-      },
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/11/ciencia-e-espaco/starship-vai-tentar-voltar-para-os-bracos-da-spacex-em-pouso-inedito-olhar-digital-transmite-lancamento-ao-vivo"
       }
      ]
     },
     {
      "kicker": "Inteligência artificial",
-     "quando": "Ontem",
-     "titulo": "Google libera ao público o Gemini 4 Carbon, com recurso que divide tarefas entre vários agentes",
-     "resumo": "Depois de duas semanas de acesso restrito, o modelo, descrito pela empresa como o mais forte que já lançou, ficou disponível para todos. O recurso Swarm, em teste, transforma um pedido em uma equipe de agentes; o preço introdutório dobra no fim de novembro.",
+     "quando": "Hoje",
+     "titulo": "Google lança o Gemini 4 Hydrogen, modelo rápido e gratuito no app e na busca",
+     "resumo": "É o terceiro modelo da geração Gemini 4, voltado a tarefas do dia a dia e a agentes, e substitui o 3.8 Flash pelo mesmo preço para desenvolvedores. Parte dos ganhos de desempenho divulgados vem de testes escolhidos pelo próprio Google.",
      "fontes": [
       {
-       "n": "iMasters",
-       "u": "https://imasters.com.br/noticia/google-lanca-gemini-4-carbon-com-swarm-de-agentes-e-preco-agressivo-por-token"
-      },
+       "n": "Antihype",
+       "u": "https://antihype.com.br/c/ia/gemini-4-hydrogen-ia-rapida-google-gratis/"
+      }
+     ]
+    },
+    {
+     "kicker": "Robótica",
+     "quando": "10/11",
+     "titulo": "Google DeepMind apresenta modelo que leva robôs a executar mais de 200 tipos de tarefa",
+     "resumo": "Segundo a empresa, o Gemini Robotics 2.5 elevou as taxas de sucesso em relação à geração anterior e foi testado num humanoide em fábricas da Mercedes-Benz na Hungria e na Alemanha. Os resultados variam conforme o equipamento, e o sistema ainda exige supervisão humana.",
+     "fontes": [
       {
-       "n": "Público",
-       "u": "https://publico.pt/2026/11/11/enter/noticia/google-abre-gemini-4-carbon-publico-poe-enxames-agentes-ia-trabalhar-2194559"
+       "n": "Gizmodo Brasil",
+       "u": "https://www.gizmodo.com.br/google-apresenta-ia-que-permite-a-robos-realizar-mais-de-200-tarefas-humanas-e-surpreende-com-resultados-75076"
       }
      ]
     },
@@ -1050,22 +1061,6 @@
        "u": "https://spdiario.com.br/noticias/politica/em-discurso-na-cop31-lula-cobra-paises-ricos-e-critica-o-novo-silencio-sobre-o-clima.html"
       }
      ]
-    },
-    {
-     "kicker": "IPO",
-     "quando": "10/11",
-     "titulo": "Anthropic fixa faixa de US$ 70 a US$ 78 por ação e deve estrear na Nasdaq em 19 de novembro",
-     "resumo": "A dona do assistente Claude pode levantar dezenas de bilhões de dólares na oferta, que a colocaria entre as empresas mais valiosas do mundo. A avaliação estimada chega a US$ 1,4 trilhão no topo da faixa.",
-     "fontes": [
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/empresas-e-negocios/anthropic-define-faixa-de-preco-de-seu-ipo-entre-us-70-e-us-78-e-espera-iniciar-as-negociacoes-em-19-de-novembro-diz-fontes/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/inovacao/inteligencia-artificial/anthropic-ipo-avaliacao-14-trilhao-nasdaq/"
-      }
-     ]
     }
    ]
   },
@@ -1073,18 +1068,14 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Grammy Latino, mortes e estreias",
+   "nota": "Grammy Latino e despedidas",
    "itens": [
     {
      "kicker": "Grammy Latino",
      "quando": "Hoje",
-     "titulo": "Emicida, Leci Brandão e Criolo estão entre os brasileiros premiados no Grammy Latino; Anitta disputa Álbum do Ano às 22h",
-     "resumo": "Na pré-cerimônia em Las Vegas, também venceram Lauana Prado (sertanejo), Urias (rock e alternativo) e Eli Soares (música cristã); Criolo dividiu o prêmio com Amaro Freitas e Dino d'Santiago. A cerimônia principal começa às 22h, com transmissão de Multishow, Bis e Globoplay, e Anitta concorre com 'EQUILIBRIVM'.",
+     "titulo": "Emicida e o trio Criolo, Amaro Freitas e Dino d'Santiago vencem no Grammy Latino antes da cerimônia principal",
+     "resumo": "Emicida levou o prêmio de Melhor Álbum de Música Urbana em Língua Portuguesa, e o trio venceu em Música Popular Brasileira na pré-cerimônia em Las Vegas. A festa principal começa às 21h, com Anitta concorrendo a Álbum do Ano e 34 brasileiros entre os indicados.",
      "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://correiobraziliense.com.br/diversao-e-arte/2026/11/7537766-grammy-latino-2026-veja-os-vencedores-da-premiacao.html"
-      },
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/pop/musica/grammy-latino-2026-veja-os-vencedores-das-principais-categorias/"
@@ -1092,6 +1083,30 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/entretenimento/grammy-latino-2026-acompanhe-confira-os-vencedores"
+      },
+      {
+       "n": "Rolling Stone Brasil",
+       "u": "https://rollingstone.com.br/musica/grammy-latino-2026-vencedores/"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Ontem",
+     "titulo": "Morre aos 85 anos o ator americano Stacy Keach, o detetive Mike Hammer da TV",
+     "resumo": "Segundo a mulher, Malgosia Tomassi, ele morreu em casa, na Polônia, após longa luta contra uma doença cardíaca. Keach também atuou em 'Prison Break', 'A Outra História Americana' e 'Nebraska' e ganhou um Globo de Ouro ao interpretar Ernest Hemingway.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/11/estados-unidos-morre-aos-85-anos-o-actor-stacy-keach-de-mike-hammer-e-prison-break"
+      },
+      {
+       "n": "DN",
+       "u": "https://www.dn.pt/cultura/morre-stacy-keach-protagonista-de-mike-hammer-e-figura-marcante-do-cinema-e-da-televiso-tinha-85-anos"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/12/stacy-keach-85-anos-morre-apos-mais-de-60-anos-de-carreira-no-teatro/"
       }
      ]
     },
@@ -1104,22 +1119,6 @@
       {
        "n": "TV Foco",
        "u": "https://tvfoco.uai.com.br/luto-estrela-de-chaves-morre-aos-82-anos/"
-      }
-     ]
-    },
-    {
-     "kicker": "Festival",
-     "quando": "Ontem",
-     "titulo": "Festival MixBrasil começa em São Paulo com mais de 130 filmes, peças, games e homenagem a João Silvério Trevisan",
-     "resumo": "A 34ª edição tem como tema 'Todos os Futuros Possíveis' e exibe o espanhol 'A Bola Preta', premiado por direção em Cannes. Parte da programação pode ser vista online em todo o país.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/34o-festival-mixbrasil-reune-cinema-teatro-games-e-literatura-em-sp"
-      },
-      {
-       "n": "JWave",
-       "u": "https://www.jwave.com.br/2026/11/festival-mixbrasil-2026/"
       }
      ]
     },
@@ -1140,14 +1139,18 @@
      ]
     },
     {
-     "kicker": "Morte",
+     "kicker": "Festival",
      "quando": "Ontem",
-     "titulo": "Morre aos 91 anos a atriz americana Irma P. Hall, de 'Soul Food' e 'Matadores de Velhinha'",
-     "resumo": "Ex-professora de línguas em Dallas, ela começou a atuar tarde e atuou em filmes como 'Patch Adams', 'Colateral' e 'Amada'. A família anunciou a morte sem informar a causa.",
+     "titulo": "Festival MixBrasil começa em São Paulo com mais de 130 filmes, peças, games e homenagem a João Silvério Trevisan",
+     "resumo": "A 34ª edição tem como tema 'Todos os Futuros Possíveis' e exibe o espanhol 'A Bola Preta', premiado por direção em Cannes. Parte da programação pode ser vista online em todo o país.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/12/estados-unidos-morre-aos-91-anos-a-atriz-e-antiga-professora-irma-p-hall"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/34o-festival-mixbrasil-reune-cinema-teatro-games-e-literatura-em-sp"
+      },
+      {
+       "n": "JWave",
+       "u": "https://www.jwave.com.br/2026/11/festival-mixbrasil-2026/"
       }
      ]
     }
