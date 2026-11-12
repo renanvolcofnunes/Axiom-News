@@ -1,57 +1,52 @@
 {
  "data": "Quinta-feira, 12 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "12/11/2026 · 07h20 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h20",
- "fontes": 63,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "12/11/2026 · 12h35 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 12h00",
+ "fontes": 69,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 11/11",
-   "valor": "172.060 pts",
-   "var": "+0,42%",
-   "dir": "up"
-  },
-  {
-   "nome": "Dólar comercial · fechamento 11/11",
-   "valor": "R$ 5,56",
-   "var": "-0,42%",
+   "nome": "Ibovespa · 12h",
+   "valor": "170.295 pts",
+   "var": "-1,03%",
    "dir": "down"
   },
   {
-   "nome": "Nasdaq · fechamento 11/11",
-   "valor": "25.466 pts",
-   "var": "+1,60%",
+   "nome": "Dólar comercial · 12h",
+   "valor": "R$ 5,62",
+   "var": "+1,02%",
    "dir": "up"
+  },
+  {
+   "nome": "Nvidia · 11h32",
+   "valor": "US$ 152,75",
+   "var": "-12%",
+   "dir": "down"
+  },
+  {
+   "nome": "IPCA · outubro",
+   "valor": "0,14%",
+   "var": "4,63% em 12 meses",
+   "dir": ""
   },
   {
    "nome": "Selic · Copom",
    "valor": "13,75%",
    "var": "mantida em novembro",
    "dir": ""
-  },
-  {
-   "nome": "IPCA-15 · outubro",
-   "valor": "0,32%",
-   "var": "4,62% em 12 meses",
-   "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Qui 12/11 · 9h",
-   "txt": "IBGE divulga o IPCA de outubro; em Moscou, Putin recebe os enviados americanos Witkoff e Kushner",
-   "cat": "economia"
-  },
-  {
-   "hora": "Qui 12/11 · 14h",
-   "txt": "STF retoma o julgamento sobre o reflexo do piso do magistério nos planos de carreira (Tema 1.218)",
-   "cat": "educacao"
-  },
-  {
    "hora": "Qui 12/11 · 16h",
    "txt": "Senado reabre a sessão e pode votar o projeto de ajuste fiscal para 2027, se houver acordo entre os líderes",
    "cat": "politica"
+  },
+  {
+   "hora": "Qui 12/11 · 16h45",
+   "txt": "Liga das Nações da Uefa tem Itália x França, Inglaterra x Croácia e República Tcheca x Espanha",
+   "cat": "esporte"
   },
   {
    "hora": "Qui 12/11 · 22h",
@@ -67,6 +62,11 @@
    "hora": "Dom 15/11 · 16h",
    "txt": "Internacional x Flamengo, volta da final da Copa do Brasil Feminina, no Beira-Rio; no mesmo dia, segundo dia do Enem",
    "cat": "esporte"
+  },
+  {
+   "hora": "Ter 17/11",
+   "txt": "Nvidia divulga o balanço do trimestre, o primeiro após a saída de Jensen Huang; Anthropic estreia na Nasdaq no dia 19",
+   "cat": "ciencia"
   }
  ],
  "acervo": [
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Contas públicas",
-  "titulo": "Senado pode votar hoje o ajuste fiscal de 2027; oposição conseguiu adiar a análise ontem alegando falta de tempo para ler o texto",
-  "resumo": "Davi Alcolumbre suspendeu a sessão de quarta e marcou a retomada para as 16h desta quinta, mas avisou que a votação fica para a próxima semana se não houver consenso entre os líderes. O relator, Eduardo Braga (MDB-AM), manteve quase todo o projeto do governo e estima ganho de R$ 43 bilhões a R$ 54 bilhões no resultado primário.",
+  "kicker": "Mercado",
+  "titulo": "Ibovespa cai mais de 1% e dólar passa de R$ 5,60 com tombo do Banco do Brasil, saída do chefe da Nvidia e espera pelo ajuste fiscal",
+  "resumo": "Por volta do meio-dia, o índice recuava 1,03%, aos 170.295 pontos, e o dólar subia 1,02%, a R$ 5,62, mesmo com a inflação de outubro abaixo do previsto. As ações do Banco do Brasil chegaram a cair cerca de 11% depois de um balanço considerado fraco por analistas.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/t0iA4VRV9ltbc284NUSZ_2INP8w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/11/reuniao_de_lideres-5_1.jpg?itok=x-AX5jZ1",
-   "credito": "Lula Marques/Agência Brasil"
+   "src": "fotos/real.jpg",
+   "credito": "José Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "O projeto de lei complementar, apresentado por Jaques Wagner (PT-BA) a pedido do governo, reduz de 2,5% para 2% acima da inflação o crescimento permitido dos gastos federais em anos de aperto fiscal, corta benefícios tributários e permite desvincular até 40% dos superávits de fundos. O Planejamento calcula efeito de R$ 50 bilhões a R$ 60 bilhões em 2027. No substitutivo, Braga trocou a palavra contingenciamento por contenção de despesas e permitiu que o governo mire o centro da meta de resultado primário, e não apenas o piso. A resistência vem dos dois lados: senadores de oposição pediram mais tempo e contestam o trecho que abre espaço para até R$ 10,5 bilhões em créditos extraordinários para subvenção ao diesel; na Câmara, parte da bancada do PT critica o pacote e se reuniu na noite de quarta para discutir divergências. Alcolumbre disse que vai consultar Hugo Motta sobre o calendário, já que o texto ainda precisa passar pela Câmara. Para o governo e aliados, o projeto é necessário para estabilizar a dívida e já foi negociado com o Congresso; para a oposição, o texto é técnico e não deve ser votado às pressas.",
+  "entenda": "A manhã reuniu três pressões. O Banco do Brasil lucrou R$ 1,27 bilhão no terceiro trimestre, queda de 66,5% em um ano, cortou a previsão de lucro de 2026 para R$ 9 bilhões a R$ 11 bilhões e reduziu a fatia de dividendos para 25%, com a inadimplência no agronegócio em alta. Lá fora, a Nvidia confirmou a renúncia de Jensen Huang, e as ações da fabricante de chips caíram mais de 10% na abertura em Nova York. Em Brasília, o mercado aguarda se o Senado vota hoje o projeto que busca economizar R$ 50 bilhões a R$ 60 bilhões em 2027; analistas citados pelos sites de mercado apontam cautela com o alcance das medidas, e os juros futuros de prazo mais longo subiram. O IPCA de 0,14% em outubro, abaixo dos 0,25% esperados, foi lido como sinal de desinflação, mas o acumulado de 12 meses, de 4,63%, segue acima do teto da meta.",
   "fatos": [
-   "Na sessão de quarta, Tereza Cristina (PP-MS), Magno Malta (PL-ES) e Damares Alves (Republicanos-DF) pediram adiamento; Randolfe Rodrigues (PT-AP) e a líder do governo, Teresa Leitão (PT-PE), pediram urgência.",
-   "O ministro Bruno Moretti disse que o esforço será dividido igualmente entre corte de despesas e aumento de receitas e negou que o pacote contrarie compromissos de campanha.",
-   "O dólar caiu 0,42% na quarta, a R$ 5,56, e o Ibovespa subiu 0,42%, com o mercado atento ao andamento do projeto."
+   "IPCA de outubro: 0,14%, com queda de 1,92% na conta de luz e alta de 1,04% em alimentos",
+   "Banco do Brasil: lucro de R$ 1,27 bilhão no 3º trimestre, queda de 66,5%",
+   "Vale (-2,1%) e Bradesco (-1,95%) também pesavam; Petrobras subia"
   ],
   "fontes": [
    {
-    "n": "Agência Senado",
-    "u": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ajuste-fiscal-pode-ser-votado-nesta-quinta-feira",
-    "d": "Sessão suspensa e posições"
-   },
-   {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/senado-pode-votar-ajuste-fiscal-nesta-quinta-e-alcolumbre-busca-consenso/",
-    "d": "Busca de consenso"
+    "n": "Bom Dia Mercado",
+    "u": "https://www.bomdiamercado.com.br/mercado-financeiro/giro-dos-mercados/giro-das-12h-cautela-fiscal-e-treasuries-em-alta-marcam-sessao/",
+    "d": "cotações do meio-dia"
    },
    {
     "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/politica/alcolumbre-definira-na-quinta-feira-se-vota-ou-adia-projeto-de-ajuste-fiscal/",
-    "d": "Críticas da oposição"
+    "u": "https://www.infomoney.com.br/mercados/bbas3-acoes-do-banco-do-brasil-desabam-10-com-resultado-abaixo-em-todas-as-frentes/",
+    "d": "queda do Banco do Brasil"
    },
    {
-    "n": "Money Times",
-    "u": "https://www.moneytimes.com.br/relator-do-plp-do-ajuste-do-ajuste-fiscal-mantem-boa-parte-do-projeto-e-faz-ajustes-de-redacao-gaep/",
-    "d": "Parecer do relator"
+    "n": "BPMoney",
+    "u": "https://bpmoney.com.br/mercado/ibovespa-cai-066-com-tombo-do-banco-do-brasil/",
+    "d": "abertura da bolsa"
    },
    {
-    "n": "O Povo",
-    "u": "https://opovo.com.br/noticias/economia/2026/11/11/senadores-sugerem-votacao-do-plp-do-ajuste-amanha-12-e-alcolumbre-disse-que-consultara-motta.html",
-    "d": "Pedido de adiamento"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inflacao-perde-forca-e-fica-em-014-em-outubro-conta-de-luz-cai",
+    "d": "inflação de outubro"
    },
    {
-    "n": "Brasil 247",
-    "u": "https://www.brasil247.com/economia/ministro-do-planejamento-nega-estelionato-eleitoral-e-diz-que-ajuste-fiscal-preservara-direitos-sociais/",
-    "d": "Entrevista de Moretti"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-nvidia-bolsa-de-valores-12-novembro-2026/",
+    "d": "ações da Nvidia"
+   },
+   {
+    "n": "IstoÉ Dinheiro",
+    "u": "https://istoedinheiro.com.br/dolar-hoje-12-11-2026-ipca-pacote-fiscal",
+    "d": "dólar na abertura"
    }
   ]
  },
@@ -213,31 +213,63 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste, PT, PL e maioridade",
+   "nota": "Ajuste no Senado e Lula na COP31",
    "itens": [
     {
      "kicker": "Ajuste fiscal",
-     "quando": "Ontem",
-     "titulo": "Bancada do PT na Câmara se reúne para tentar conter divergências sobre o pacote fiscal",
-     "resumo": "O líder Pedro Uczai (SC) convocou o encontro depois que deputados como Lindbergh Farias (RJ) e Natália Bonavides (RN) criticaram em público as medidas dos ministros Bruno Moretti e Dario Durigan. A avaliação inicial no partido foi de que é preciso mais tempo para analisar o texto antes da votação na Câmara.",
+     "quando": "Hoje",
+     "titulo": "Alcolumbre tenta votar o ajuste fiscal às 16h, mas admite deixar para a próxima semana se senadores pedirem mais tempo",
+     "resumo": "O relator Eduardo Braga (MDB-AM) se reúne com os líderes ao longo do dia para decidir se o projeto entra na pauta. Por ser lei complementar, o texto precisa de ao menos 41 votos no Senado e depois segue para a Câmara; o governo estima economia de R$ 50 bilhões a R$ 60 bilhões em 2027.",
      "lados": [
       {
-       "quem": "Críticos no PT",
-       "txt": "Dizem estar frustrados com a proposta e afirmam que um aperto desse tipo não foi o que saiu vitorioso nas urnas."
+       "quem": "Governo",
+       "txt": "O ministro Bruno Moretti diz que os efeitos começam em 2027 e crescem nos anos seguintes, sem mudar as metas de superávit, e que direitos sociais serão preservados."
       },
       {
-       "quem": "Equipe econômica",
-       "txt": "Defende um ajuste gradual para sinalizar a estabilização da dívida e diz que direitos sociais e a valorização do salário mínimo serão preservados."
+       "quem": "Oposição",
+       "txt": "Senadores oposicionistas rejeitaram a urgência, pediram mais tempo para analisar o substitutivo e questionam o trecho que abre espaço para créditos extraordinários ao diesel."
       }
      ],
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/pt-se-reune-para-tentar-conter-divergencias-sobre-ajuste-fiscal/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/congresso/2026/11/12/alcolumbre-diz-que-plp-do-ajuste-fiscal-pode-ficar-para-a-proxima-semana"
       },
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/economia/ministro-do-planejamento-nega-estelionato-eleitoral-e-diz-que-ajuste-fiscal-preservara-direitos-sociais/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-deve-votar-ajuste-fiscal-com-previsao-de-economia-de-r-60-bi"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/alcolumbre-tentara-pautar-votacao-do-pacote-de-ajuste-fiscal-nesta-quinta-12/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/alcolumbre-busca-consenso-para-aprovar-plp-do-ajuste-fiscal-nesta-quinta/"
+      }
+     ]
+    },
+    {
+     "kicker": "COP31",
+     "quando": "Hoje",
+     "titulo": "Em Antália, Lula se reúne com o presidente do Irã e defende saída pacífica para a guerra e navegação livre em Ormuz",
+     "resumo": "Segundo o governo, Lula ouviu de Masoud Pezeshkian relatos sobre as conversas mediadas por Catar e Paquistão e manifestou preocupação com a alta de combustíveis e alimentos; o Brasil quer importar mais fertilizantes iranianos. No mesmo dia, ele tratou do Fundo Amazônia e do fundo de florestas TFFF com o premiê da Noruega, Jonas Gahr Støre.",
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/11/12/lula-trata-da-guerra-no-oriente-medio-em-reuniao-com-o-presidente-do-ira-durante-a-cop31"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-fala-com-presidente-do-ira-sobre-guerra-e-ormuz"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/variedades/cop31-lula-e-premie-da-noruega-discutem-combate-ao-desmatamento-e-tfff-1.1193336"
       }
      ]
     },
@@ -320,30 +352,6 @@
        "u": "https://www.canalrural.com.br/politica/senado-aprova-mp-de-renegociacao-de-dividas-rurais-e-texto-vai-a-sancao/"
       }
      ]
-    },
-    {
-     "kicker": "COP31",
-     "quando": "Ontem",
-     "titulo": "Rouco, Lula tem discurso lido por Capobianco na COP31 e cobra países ricos e liderança na proteção das florestas",
-     "resumo": "Na cúpula de líderes sobre florestas, em Antália, o texto do presidente apontou pobreza, falta de dinheiro e falta de liderança como entraves e disse que o clima saiu da pauta do G7 e do G20. O governo citou queda de 70% do desmatamento na Amazônia e defendeu ampliar o fundo TFFF, que já soma US$ 7,8 bilhões.",
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-planeta-nao-pode-esperar-em-meio-guerras-e-conflitos"
-      },
-      {
-       "n": "TVT News",
-       "u": "https://tvtnews.com.br/discurso-lula-na-cop31-cupula-lideres-florestas/"
-      },
-      {
-       "n": "Diário do Comércio",
-       "u": "https://diariodocomercio.com.br/sustentabilidade/cop31-lula-cobra-paises-ricos"
-      }
-     ]
     }
    ]
   },
@@ -351,65 +359,69 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "BB, IPCA e Petrobras",
+   "nota": "Inflação, Banco do Brasil e bolsa",
    "itens": [
-    {
-     "kicker": "Bancos",
-     "quando": "Ontem",
-     "titulo": "Lucro do Banco do Brasil cai 66,5% no terceiro trimestre, e banco corta pela metade a projeção para 2026",
-     "resumo": "O lucro ajustado foi de R$ 1,27 bilhão, abaixo do que esperavam os analistas, pressionado pela inadimplência no agronegócio; as despesas com perdas de crédito subiram 18,4%, para R$ 21,2 bilhões. A estimativa de lucro do ano passou de R$ 18 bilhões a R$ 22 bilhões para R$ 9 bilhões a R$ 11 bilhões, e o pagamento de dividendos ficará no mínimo de 25%.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/negocios/banco-do-brasil-encerrou-o-3o-trimestre-de-2026-com-lucro-liquido-ajustado-de-r-127-bilhao/"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-lucro-no-3t26-expectativas-rentabilidade-inadimplencia-ainda-preocupa-miql/"
-      },
-      {
-       "n": "Seu Dinheiro",
-       "u": "https://www.seudinheiro.com/2026/empresas/banco-do-brasil-bbas3-lucro-rentabilidade-roe-no-3t26-inadimplencia-ainda-desafia-recuperacao-do-banco-miql/"
-      }
-     ]
-    },
     {
      "kicker": "Inflação",
      "quando": "Hoje",
-     "titulo": "IBGE divulga às 9h a inflação oficial de outubro; prévia do mês havia desacelerado para 0,32%",
-     "resumo": "O IPCA-15 de outubro acumulou 4,62% em 12 meses, com queda nas tarifas de água e de energia e pressão dos alimentos. O resultado do IPCA é um dos dados acompanhados pelo Banco Central, que manteve a Selic em 13,75% na última reunião.",
+     "titulo": "Inflação desacelera para 0,14% em outubro com conta de luz mais barata, mas acumulado de 12 meses sobe a 4,63%",
+     "resumo": "O resultado do IBGE ficou abaixo dos 0,25% esperados pelo mercado; a bandeira verde derrubou a energia em 1,92%, e os transportes tiveram a maior queda para outubro desde o Plano Real. Alimentos subiram 1,04%, puxados por tomate e cebola, e o índice segue acima do teto da meta, de 4,5%, pelo segundo mês.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/oLlnx28MN0MqbDgSEwHF5T9XCss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/energia_eletrica_interruptor_de_luz_energia070720211248.jpg?itok=SnuOYYsW",
+      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "IBGE",
-       "u": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48349-o-ipca-15-e-de-0-32-em-outubro"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inflacao-perde-forca-e-fica-em-014-em-outubro-conta-de-luz-cai"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/previa-inflacao-ipca-15-hoje-23-outubro-2026/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/economia/ipca-inflacao-outubro-2026-dados-ibge/"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/economia/ipca-desacelera-fica-em-014-em-outubro-e-acumula-alta-de-463-em-12-meses/"
       }
      ]
     },
     {
-     "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Ibovespa fecha em alta de 0,42% e dólar cai a R$ 5,56 com pacote fiscal e alta das bolsas americanas",
-     "resumo": "O índice terminou aos 172.060 pontos, com Magazine Luiza (+17,9%), Cosan e Hapvida entre as maiores altas. O dólar devolveu parte da subida da véspera, quando havia fechado no maior valor desde julho de 2025; analistas atribuíram o movimento às medidas fiscais e ao exterior.",
-     "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     },
+     "kicker": "Bancos",
+     "quando": "Hoje",
+     "titulo": "Ações do Banco do Brasil caem mais de 10% após lucro recuar 66,5% e banco cortar projeções e dividendos",
+     "resumo": "O lucro de R$ 1,27 bilhão no trimestre ficou bem abaixo dos R$ 3,5 bilhões esperados, e a inadimplência acima de 90 dias subiu para 6,08%, com 6,92% no agronegócio. O banco reduziu a previsão de lucro de 2026 para R$ 9 bilhões a R$ 11 bilhões e não pagará dividendos intermediários em 2027.",
      "fontes": [
       {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-sobe-dolar-recua-ajuste-fiscal-exterior/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/bbas3-acoes-do-banco-do-brasil-desabam-10-com-resultado-abaixo-em-todas-as-frentes/"
       },
       {
-       "n": "Misto Brasil",
-       "u": "https://mistobrasil.com/2026/11/11/ibovespa-fecha-em-alta-e-dolar-recua-nesta-quarta-feira/"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/acoes/bbas3-banco-do-brasil-desaba-balanco-3t26-abaixo/"
+      },
+      {
+       "n": "Monitor do Mercado",
+       "u": "https://monitordomercado.com.br/noticias/435891-lucro-do-bb-despenca-66-5-com-calotes-no-agro-e-banco-corta-dividendos"
+      }
+     ]
+    },
+    {
+     "kicker": "Bolsa",
+     "quando": "Hoje",
+     "titulo": "Juros longos sobem e Wall Street opera dividida enquanto a Nvidia derruba o setor de tecnologia",
+     "resumo": "Os contratos de DI de prazo mais longo avançavam desde a abertura, com cautela sobre o ajuste fiscal e alta dos juros americanos. Em Nova York, por volta do meio-dia, o Dow Jones subia 0,15%, enquanto S&P 500 e Nasdaq recuavam 0,21% e 0,33%.",
+     "fontes": [
+      {
+       "n": "Bom Dia Mercado",
+       "u": "https://www.bomdiamercado.com.br/mercado-financeiro/giro-dos-mercados/giro-das-12h-cautela-fiscal-e-treasuries-em-alta-marcam-sessao/"
       },
       {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11112026/"
+       "u": "https://www.infomoney.com.br/mercados/wall-street-cai-apos-a-renuncia-do-presidente-executivo-da-nvidia/"
+      },
+      {
+       "n": "ADVFN",
+       "u": "https://br.advfn.com/jornal/2026/11/ibovespa-operava-com-queda-banco-do-brasil-decepciona-fiscal-pressiona-e-saida-de-jensen-huang-da-nvidia-amplia-aversao-ao-risco"
       }
      ]
     },
@@ -439,25 +451,41 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporais, Maré e feriado",
+   "nota": "Temporais, operações policiais e feriado",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Inmet põe 11 estados e o DF em alerta amarelo para temporais nesta quinta; Santa Catarina pode ter granizo",
-     "resumo": "O aviso vale para áreas do Centro-Oeste, Sudeste, Sul e Norte, com chuva de 20 a 30 mm por hora e rajadas de até 60 km/h. Em Santa Catarina, a previsão é de temporais isolados à tarde, com risco de destelhamentos e quedas de galhos; Niterói e Curitiba também estão sob alerta.",
+     "titulo": "Defesa Civil de São Paulo alerta para temporais à tarde e à noite; Inmet mantém 11 estados e o DF em alerta amarelo",
+     "resumo": "Em São Paulo, a chuva começa pelo sul e leste do estado e se espalha à tarde, com volumes que podem ser altos na Baixada Santista. O aviso do Inmet prevê 20 a 30 mm por hora e rajadas de até 60 km/h; Santa Catarina pode ter granizo.",
      "fontes": [
+      {
+       "n": "SP Agora",
+       "u": "https://www.spagora.com.br/cotidiano/clima/defesa-civil-alerta-temporais-sp-12-novembro-2026/"
+      },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/brasil/inmet-emite-alerta-amarelo-de-temporais-e-vento-forte-em-11-estados-e-no-df"
       },
       {
-       "n": "Bem Paraná",
-       "u": "https://bemparana.com.br/noticias/parana/inmet-emite-dois-alertas-de-tempestade-para-o-parana-veja-cidades-e-regioes-afetadas"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-11/inmet-emite-alerta-de-chuvas-intensas-em-varias-regioes-do-pais"
+      }
+     ]
+    },
+    {
+     "kicker": "Segurança",
+     "quando": "Hoje",
+     "titulo": "PM prende suspeito e acha duas casas-bomba com cocaína e material de refino em Paraisópolis",
+     "resumo": "Um cão farejador indicou os imóveis na comunidade da zona sul de São Paulo, que foram preservados para perícia. A PM liga o reforço das ações ao cancelamento, por segurança, de um evento musical gratuito no bairro no fim de semana.",
+     "fontes": [
+      {
+       "n": "Sim Notícias/CNN Brasil",
+       "u": "https://simnoticias.com.br/cnn-brasil/policia-prende-suspeito-e-encontra-duas-casas-bomba-em-paraisopolis-sp/"
       },
       {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quinta-feira-12-de-novembro-de-2026/"
+       "n": "Agência SP",
+       "u": "https://www.agenciasp.sp.gov.br/policia-militar-intensifica-operacoes-em-paraisopolis-na-zona-sul-de-sao-paulo-e-descobre-casa-bomba/"
       }
      ]
     },
@@ -503,25 +531,87 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ucrânia, Espanha e papa no Peru",
+   "nota": "Ucrânia, Nova York e Washington",
    "itens": [
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Witkoff e Kushner chegam a Moscou para reunião com Putin e depois devem encontrar Zelensky em Dublin",
-     "resumo": "Os enviados de Donald Trump foram recebidos por Kirill Dmitriev depois da rodada trilateral de Abu Dhabi, que não teve avanço decisivo, mas fechou o que Kushner chamou de maior troca de prisioneiros da guerra. Ele reconheceu que ainda há grandes diferenças sobre território, garantias de segurança, Otan e o tamanho do Exército ucraniano.",
+     "titulo": "Witkoff e Kushner se reúnem com Putin no Kremlin e pedem aval para incluir a Europa nas negociações de paz",
+     "resumo": "Os enviados de Donald Trump chegaram a Moscou depois de rodadas em Abu Dhabi, cujos resultados o vice-chanceler russo disse permitirem construir algo funcional. Em seguida, devem encontrar Volodymyr Zelensky em Dublin.",
      "fontes": [
       {
-       "n": "ABC News",
-       "u": "https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/12/witkoff-e-kushner-chegam-a-moscovo-e-pedem-bencao-de-putin-para-papel-europeu-na-paz-na-uc"
       },
       {
-       "n": "EFE/Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/12/jueves-12-de-noviembre-2026-0200-gmt/"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/mundo/enviados-de-trump-chegam-a-moscou-para-reuniao-com-putin/"
       },
       {
-       "n": "Kyiv Post",
-       "u": "https://www.kyivpost.com/post/89817"
+       "n": "CNN",
+       "u": "https://edition.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Desabamento de prédio no Brooklyn deixa ao menos oito mortos e 17 feridos; buscas continuam",
+     "resumo": "O edifício de três andares em Flatbush ruiu na tarde de quarta, ao lado de um terreno onde havia escavações. Segundo registros da prefeitura, a empresa da obra vizinha já tinha sido notificada por continuar o serviço após ordem de paralisação; o prefeito Zohran Mamdani disse que as causas serão apuradas.",
+     "fontes": [
+      {
+       "n": "TN Sul",
+       "u": "https://tnsul.com/2026/11/12/predio-em-nova-york-desaba-e-deixa-oito-mortos-e-cerca-de-17-feridos/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/mundo/predio-de-tres-andares-desaba-em-nova-york-e-deixa-ao-menos-um-morto-e-dez-feridos,3209d0da9d081a4a54653ee33f769025txroeo3j.html"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/mundo/predio-desaba-parcialmente-em-nova-york-e-deixa-mortos-e-feridos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Tiroteio em Washington, a cerca de 1,6 km da Casa Branca, deixa ao menos cinco baleados; suspeito estaria entrincheirado",
+     "resumo": "Os disparos ocorreram no bairro de Logan Circle, e a polícia isolou ruas, pôs escolas em confinamento e pediu que moradores fiquem longe das janelas. FBI e ATF apoiam a operação; a identidade do suspeito e o estado das vítimas não foram divulgados.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/tiroteio-casa-branca-washington/"
+      },
+      {
+       "n": "SOL",
+       "u": "https://sol.iol.pt/internacional/noticias/tiroteio-perto-da-casa-branca-faz-pelo-menos-cinco-vitimas-atirador-estara-barricado-dentro-de-um-edificio/20261112/6af5d3c90cf2aafa0453e4fb"
+      },
+      {
+       "n": "TNH1",
+       "u": "https://www.tnh1.com.br/noticia/nid/ataque-a-tiros-deixa-ao-menos-quatro-baleados-perto-da-casa-branca/"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Casa Branca envia carta a democratas e diz que investigações prometidas contra Trump podem passar dos limites constitucionais",
+     "resumo": "O advogado da Casa Branca Will Scharf escreveu a Robert Garcia, que deve presidir o Comitê de Supervisão da Câmara a partir de janeiro, após a vitória democrata nas eleições de meio de mandato.",
+     "lados": [
+      {
+       "quem": "Casa Branca",
+       "txt": "Afirma que as apurações anunciadas podem extrapolar a Constituição e sugere que o Executivo poderia investigar o Congresso."
+      },
+      {
+       "quem": "Democratas",
+       "txt": "Garcia respondeu que a autoridade do Congresso vem da Constituição, não da Casa Branca, e que o Legislativo não será intimidado."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/mundo/casa-branca-ataca-congresso-apos-democratas-anunciarem-devassa-contra-trump"
       }
      ]
     },
@@ -554,52 +644,6 @@
        "u": "https://pt.euronews.com/2026/11/11/greve-geral-em-espanha-em-protesto-contra-a-crise-da-habitacao-e-os-baixos-salarios"
       }
      ]
-    },
-    {
-     "kicker": "Vaticano",
-     "quando": "Hoje",
-     "titulo": "No Peru, Leão XIV pede às autoridades que ouçam a população e combatam a violência",
-     "resumo": "Recebido pela presidente Keiko Fujimori, o papa discursou no Gran Teatro Nacional, em Lima, diante de autoridades e de ex-presidentes, e falou em reforçar a democracia e recuperar a confiança nas instituições. Nesta quinta, ele se reúne com bispos e participa à noite de uma vigília com jovens no Estádio Nacional.",
-     "fontes": [
-      {
-       "n": "La República",
-       "u": "https://larepublica.pe/sociedad/2026/11/11/papa-leon-xiv-dara-su-primer-discurso-en-peru-ante-autoridades-y-expresidentes-asi-sera-su-ultimo-acto-en-lima-este-miercoles-11-243782"
-      },
-      {
-       "n": "Infobae",
-       "u": "https://www.infobae.com/peru/2026/11/11/itinerario-oficial-de-la-visita-del-papa-leon-xiv-en-peru-del-11-al-16-de-noviembre/"
-      },
-      {
-       "n": "Voz Portucalense",
-       "u": "https://vozportucalense.pt/2026/11/12/peru-papa-as-autoridades-regresso-tambem-a-minha-patria"
-      }
-     ]
-    },
-    {
-     "kicker": "Oriente Médio",
-     "quando": "Ontem",
-     "titulo": "Irã ameaça atacar bases americanas distantes se voltar a ser bombardeado e nega negociar com Washington",
-     "resumo": "Mohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional, disse que o urânio enriquecido não sairá do país e que Teerã espera resposta às suas condições, como o fim do bloqueio naval. Trump afirmou que prefere evitar nova ofensiva, mas não descartou destruir o que resta das instalações nucleares.",
-     "lados": [
-      {
-       "quem": "Irã",
-       "txt": "Não há negociação em curso; o país apresentou condições, como cessar-fogo, fim do bloqueio e das sanções, e aguarda resposta clara dos EUA."
-      },
-      {
-       "quem": "Estados Unidos",
-       "txt": "Trump diz preferir não atacar de novo, mas que pode ter de destruir o restante do programa nuclear, e que Teerã precisa do aval americano."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/ira-ameaca-atacar-bases-dos-eua-se-pais-voltar-a-ser-bombardeado"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/10/trump-diz-que-a-guerra-com-o-irao-praticamente-terminou-mas-teerao-nega-quaisquer-negociac"
-      }
-     ]
     }
    ]
   },
@@ -607,8 +651,28 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Final feminina, Seleção e reta final",
+   "nota": "Seleção, final feminina e rodada europeia",
    "itens": [
+    {
+     "kicker": "Seleção",
+     "quando": "Hoje",
+     "titulo": "Com o grupo completo pela primeira vez, Ancelotti treina time com quatro atacantes para enfrentar o Japão",
+     "resumo": "No treino em Singapura, Raphinha, Estêvão, Vini Jr. e Rayan formaram o ataque, com Andrey Santos e Bruno Guimarães no meio. O gol segue indefinido entre Pedro Morisco e Bento; o amistoso é no sábado (14), às 7h15.",
+     "fontes": [
+      {
+       "n": "Sportbuzz",
+       "u": "https://www.sportbuzz.com.br/futebol/2026/11/12/ancelotti-prepara-mudanca-no-ataque-e-escala-quarteto-em-treino-da-selecao/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-repete-selecao-brasileira-com-quatro-atacantes-em-treino/"
+      },
+      {
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/ancelotti-testa-quarteto-ataque-brasil-japao-12-novembro-2026"
+      }
+     ]
+    },
     {
      "kicker": "Futebol feminino",
      "quando": "Ontem",
@@ -634,54 +698,42 @@
      ]
     },
     {
-     "kicker": "Seleção",
+     "kicker": "Copa feminina",
      "quando": "Ontem",
-     "titulo": "Seleção completa o grupo em Singapura e Ancelotti mantém dúvidas no meio-campo para enfrentar o Japão",
-     "resumo": "Alisson Santana, Douglas Santos e Marlon Gomes se apresentaram na quarta; nos treinos, o técnico testou dois esquemas e poupou jogadores como Raphinha por controle de carga. O jogo contra o Japão é no sábado (14), às 7h15 de Brasília, e a data Fifa termina contra Singapura na terça (17).",
+     "titulo": "Fifa divulga regras do sorteio da Copa do Mundo Feminina de 2027, marcado para 11 de dezembro no Rio",
+     "resumo": "O Brasil, como sede, será cabeça do Grupo A e estreia em 24 de junho no Maracanã, com jogos depois em São Paulo e Brasília. Seleções da mesma confederação não podem cair juntas, exceto as europeias, limitadas a duas por grupo.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/sem-raphinha-selecao-brasileira-treina-para-jogo-contra-japao-em-singapura"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/brasil/ancelotti-preserva-quatro-jogadores-em-treino-da-selecao-em-singapura,bd33c3ef1a4b28a0d3b2e0cbcf805aa11daar9o0.html"
-      },
-      {
-       "n": "VAVEL Brasil",
-       "u": "https://www.vavel.com/br/futebol/2026/11/11/1278928-ancelotti-testa-dois-esquemas-e-mantem-duvida-no-meio.html"
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quinta-feira-12-de-novembro-de-2026/"
       }
      ]
     },
     {
-     "kicker": "Brasileirão",
+     "kicker": "Liga das Nações",
      "quando": "Hoje",
-     "titulo": "Com o líder Flamengo três pontos à frente, Palmeiras x Flamengo do dia 21 pode decidir o título",
-     "resumo": "Depois da data Fifa, a 35ª rodada tem o Flamengo contra o Athletico-PR no Maracanã e o Palmeiras contra o Cruzeiro no Mineirão, ambos na quarta (18). O confronto direto será no sábado (21), às 16h30, no Nubank Parque, pela 36ª rodada.",
+     "titulo": "Itália x França e Inglaterra x Croácia são os destaques da rodada desta quinta na Europa",
+     "resumo": "Os jogos começam às 16h45 de Brasília, no mesmo horário de República Tcheca x Espanha; mais cedo, às 14h, a Turquia recebe a Bélgica.",
      "fontes": [
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/futebol-nacional/cbf-detalha-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios-dos-jogos.html"
-      },
       {
        "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/futebol-nacional/2026/10/30/cbf-detalha-tabela-das-rodadas-35-e-36-do-campeonato-brasileiro-serie-a"
+       "u": "https://www.otempo.com.br/sports/onde-assistir/2026/11/12/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-quinta-feira-12112026"
       }
      ]
     },
     {
-     "kicker": "Libertadores",
+     "kicker": "Série B",
      "quando": "Hoje",
-     "titulo": "Palmeiras e Estudiantes decidem a Libertadores em jogo único no dia 28, no Centenário, em Montevidéu",
-     "resumo": "A Conmebol ainda não divulgou o horário da final. No clube argentino, o atacante Joaquín Correa se lesionou e é dúvida para a decisão.",
+     "titulo": "Ponte Preta recebe o Operário-PR às 19h, e São Bernardo enfrenta o Athletic às 20h pela Série B",
+     "resumo": "São os únicos jogos de clubes brasileiros na noite desta quinta. A última rodada da competição está marcada pela CBF para 24 de novembro.",
      "fontes": [
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/onde-assistir/2026/11/12/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-quinta-feira-12112026"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/libertadores/palmeiras-x-estudiantes-ingressos-data-hora-e-local-da-final-da-libertadores.html"
+       "n": "Soccerway",
+       "u": "https://br.soccerway.com/noticias/futebol-serie-b-cbf-marca-ultima-rodada-da-serie-b-para-24-de-novembro-mas-pode-fazer-alteracoes/M11Sz7lC"
       }
      ]
     }
@@ -691,8 +743,24 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Mpox, canetas e dengue",
+   "nota": "Canetas, mpox e dengue",
    "itens": [
+    {
+     "kicker": "Vigilância sanitária",
+     "quando": "Hoje",
+     "titulo": "Anvisa manda recolher insumos de tirzepatida e retatrutida guardados de forma irregular por distribuidora",
+     "resumo": "A medida atinge um lote de tirzepatida e todos os lotes de retatrutida da Condor Importador, destinados a farmácias de manipulação, cujo depósito não tinha estrutura adequada. A agência lembra que a retatrutida ainda está em pesquisa e não tem aprovação em nenhum país.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://otempo.com.br/brasil/2026/11/12/anvisa-manda-recolher-insumos-de-tirzepatida-e-retatrutida-armazenados-irregularmente"
+      },
+      {
+       "n": "TNH1",
+       "u": "https://tnh1.com.br/noticia/nid/anvisa-manda-recolher-lotes-de-insumos-para-canetas-emagrecedoras"
+      }
+     ]
+    },
     {
      "kicker": "Mpox",
      "quando": "Ontem",
@@ -871,41 +939,29 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Crise na Nvidia, IPO e IA",
+   "nota": "Nvidia sem Huang, IPO e IA",
    "itens": [
     {
-     "kicker": "Nvidia",
+     "kicker": "Tecnologia",
      "quando": "Hoje",
-     "titulo": "Conselho da Nvidia se reúne para decidir o futuro do CEO Jensen Huang; ações caem mais de 8% fora do pregão",
-     "resumo": "O Wall Street Journal informou que a empresa se preparava para afastar Huang, que admitiu no domingo ter sido infiel à mulher em meio à investigação sobre a empresária Alice Huang, suspeita de espionagem para a China. Até a madrugada, o resultado da reunião não havia sido divulgado; entre as opções citadas está transferi-lo para a presidência do conselho.",
+     "titulo": "Jensen Huang renuncia ao comando da Nvidia; diretora financeira Colette Kress assume como CEO interina",
+     "resumo": "O conselho aceitou a saída na quarta, com efeito imediato, dias depois de Huang admitir relação com uma mulher apontada como espiã chinesa e de nova reportagem sobre outro caso extraconjugal. Harvey Jones foi nomeado o primeiro presidente do conselho, e as ações caíram mais de 10% na abertura.",
      "fontes": [
       {
-       "n": "Reuters/Korea Times",
-       "u": "https://www.koreatimes.co.kr/world/20261112/nvidia-board-meets-to-decide-ceo-huangs-future-as-leadership-crisis-deepens"
+       "n": "TechCrunch",
+       "u": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
       },
       {
-       "n": "Seoul Economic Daily",
-       "u": "https://en.sedaily.com/world/2026/11/12/nvidia-board-moves-to-oust-ceo-jensen-huang-in-late-night"
+       "n": "Convergência Digital",
+       "u": "https://convergenciadigital.com.br/mercado/jensen-huang-executivo-que-deu-protagonismo-a-ia-renuncia-ao-comando-da-nvidia-apos-escandalo-extraconjugal-e-de-espionagem/"
       },
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/negocios/noticia/2026/11/12/senadores-eua-cobram-provas-exportacao-chips-nvidia-china"
-      }
-     ]
-    },
-    {
-     "kicker": "IPO",
-     "quando": "10/11",
-     "titulo": "Anthropic fixa faixa de US$ 70 a US$ 78 por ação e deve estrear na Nasdaq em 19 de novembro",
-     "resumo": "A dona do assistente Claude pode levantar dezenas de bilhões de dólares na oferta, que a colocaria entre as empresas mais valiosas do mundo. A avaliação estimada chega a US$ 1,4 trilhão no topo da faixa.",
-     "fontes": [
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/empresas-e-negocios/anthropic-define-faixa-de-preco-de-seu-ipo-entre-us-70-e-us-78-e-espera-iniciar-as-negociacoes-em-19-de-novembro-diz-fontes/"
+       "n": "CoinDesk Brasil",
+       "u": "https://www.coindesk.com/pt-br/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns"
       },
       {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/inovacao/inteligencia-artificial/anthropic-ipo-avaliacao-14-trilhao-nasdaq/"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/acoes-da-nvidia-despencam-mais-de-10-apos-saida-de-huang"
       }
      ]
     },
@@ -922,6 +978,22 @@
       {
        "n": "Público",
        "u": "https://publico.pt/2026/11/11/enter/noticia/google-abre-gemini-4-carbon-publico-poe-enxames-agentes-ia-trabalhar-2194559"
+      }
+     ]
+    },
+    {
+     "kicker": "IPO",
+     "quando": "10/11",
+     "titulo": "Anthropic fixa faixa de US$ 70 a US$ 78 por ação e deve estrear na Nasdaq em 19 de novembro",
+     "resumo": "A dona do assistente Claude pode levantar dezenas de bilhões de dólares na oferta, que a colocaria entre as empresas mais valiosas do mundo. A avaliação estimada chega a US$ 1,4 trilhão no topo da faixa.",
+     "fontes": [
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/empresas-e-negocios/anthropic-define-faixa-de-preco-de-seu-ipo-entre-us-70-e-us-78-e-espera-iniciar-as-negociacoes-em-19-de-novembro-diz-fontes/"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/inovacao/inteligencia-artificial/anthropic-ipo-avaliacao-14-trilhao-nasdaq/"
       }
      ]
     },
@@ -955,7 +1027,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Grammy Latino e estreias",
+   "nota": "Grammy Latino, mortes e festivais",
    "itens": [
     {
      "kicker": "Música",
@@ -979,13 +1051,29 @@
     },
     {
      "kicker": "Morte",
-     "quando": "Hoje",
-     "titulo": "Morre aos 91 anos a atriz americana Irma P. Hall, de 'Soul Food' e 'Matadores de Velhinha'",
-     "resumo": "Ex-professora de línguas em Dallas, ela começou a atuar tarde e atuou em filmes como 'Patch Adams', 'Colateral' e 'Amada'. A família anunciou a morte sem informar a causa.",
+     "quando": "Ontem",
+     "titulo": "Morre aos 82 anos a atriz mexicana Regina Torné, a Glória de 'Chaves'",
+     "resumo": "A morte foi anunciada pela associação de atores do México, a ANDA, que não informou a causa. Em mais de cinco décadas de carreira, ela ganhou o prêmio Ariel por 'Como Água para Chocolate' e atuou em 'Rebelde'.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/12/estados-unidos-morre-aos-91-anos-a-atriz-e-antiga-professora-irma-p-hall"
+       "n": "TV Foco",
+       "u": "https://tvfoco.uai.com.br/luto-estrela-de-chaves-morre-aos-82-anos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Festival",
+     "quando": "Ontem",
+     "titulo": "Festival MixBrasil começa em São Paulo com mais de 130 filmes, peças, games e homenagem a João Silvério Trevisan",
+     "resumo": "A 34ª edição tem como tema 'Todos os Futuros Possíveis' e exibe o espanhol 'A Bola Preta', premiado por direção em Cannes. Parte da programação pode ser vista online em todo o país.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/34o-festival-mixbrasil-reune-cinema-teatro-games-e-literatura-em-sp"
+      },
+      {
+       "n": "JWave",
+       "u": "https://www.jwave.com.br/2026/11/festival-mixbrasil-2026/"
       }
      ]
     },
@@ -1006,30 +1094,14 @@
      ]
     },
     {
-     "kicker": "Literatura",
-     "quando": "Hoje",
-     "titulo": "Restos de Miguel Ángel Asturias, Nobel de Literatura, voltam de Paris para a Guatemala",
-     "resumo": "Depois de homenagens de Estado, o escritor será sepultado no centro cultural que leva seu nome. Asturias, autor de 'O Senhor Presidente', recebeu o Nobel em 1967 e estava enterrado na França.",
-     "fontes": [
-      {
-       "n": "EFE/Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/12/jueves-12-de-noviembre-2026-0200-gmt/"
-      }
-     ]
-    },
-    {
      "kicker": "Morte",
-     "quando": "10/11",
-     "titulo": "Morre aos 85 anos o ator americano Stacy Keach, de 'Mike Hammer' e 'Prison Break'",
-     "resumo": "Segundo a mulher dele, Malgosia Tomassi, o ator morreu em casa, na Polônia, após longa doença cardíaca. Em mais de sete décadas de carreira, fez também teatro shakespeariano e foi indicado ao prêmio Tony.",
+     "quando": "Ontem",
+     "titulo": "Morre aos 91 anos a atriz americana Irma P. Hall, de 'Soul Food' e 'Matadores de Velhinha'",
+     "resumo": "Ex-professora de línguas em Dallas, ela começou a atuar tarde e atuou em filmes como 'Patch Adams', 'Colateral' e 'Amada'. A família anunciou a morte sem informar a causa.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/celebridades/morre-stacy-keach-ator-de-prison-break-e-mike-hammer-aos-85-anos"
-      },
-      {
-       "n": "Área VIP",
-       "u": "https://www.areavip.com.br/famosos/morre-ator-stacy-keach-de-will-grace-e-prison-break-aos-85-anos/"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/12/estados-unidos-morre-aos-91-anos-a-atriz-e-antiga-professora-irma-p-hall"
       }
      ]
     }
