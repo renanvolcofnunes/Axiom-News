@@ -1,31 +1,25 @@
 {
- "data": "Quarta-feira, 11 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "11/11/2026 · 19h10 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
+ "data": "Quinta-feira, 12 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "12/11/2026 · 07h20 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
  "mercado_hora": "Cotações de 18h20",
- "fontes": 72,
+ "fontes": 63,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento",
+   "nome": "Ibovespa · fechamento 11/11",
    "valor": "172.060 pts",
    "var": "+0,42%",
    "dir": "up"
   },
   {
-   "nome": "Dólar comercial · fechamento",
+   "nome": "Dólar comercial · fechamento 11/11",
    "valor": "R$ 5,56",
-   "var": "-0,43%",
+   "var": "-0,42%",
    "dir": "down"
   },
   {
-   "nome": "Petrobras PN · fechamento",
-   "valor": "R$ 43,60",
-   "var": "-3,0%",
-   "dir": "down"
-  },
-  {
-   "nome": "Nasdaq · fechamento",
+   "nome": "Nasdaq · fechamento 11/11",
    "valor": "25.466 pts",
    "var": "+1,60%",
    "dir": "up"
@@ -35,38 +29,44 @@
    "valor": "13,75%",
    "var": "mantida em novembro",
    "dir": ""
+  },
+  {
+   "nome": "IPCA-15 · outubro",
+   "valor": "0,32%",
+   "var": "4,62% em 12 meses",
+   "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Qua 11/11 · 21h30",
-   "txt": "Flamengo x Internacional, jogo de ida da final da Copa do Brasil Feminina, no Luso-Brasileiro (RJ); a volta é domingo (15), às 16h, no Beira-Rio",
-   "cat": "esporte"
-  },
-  {
    "hora": "Qui 12/11 · 9h",
-   "txt": "IBGE divulga o IPCA de outubro; enviados dos EUA se reúnem com Putin em Moscou",
+   "txt": "IBGE divulga o IPCA de outubro; em Moscou, Putin recebe os enviados americanos Witkoff e Kushner",
    "cat": "economia"
   },
   {
+   "hora": "Qui 12/11 · 14h",
+   "txt": "STF retoma o julgamento sobre o reflexo do piso do magistério nos planos de carreira (Tema 1.218)",
+   "cat": "educacao"
+  },
+  {
+   "hora": "Qui 12/11 · 16h",
+   "txt": "Senado reabre a sessão e pode votar o projeto de ajuste fiscal para 2027, se houver acordo entre os líderes",
+   "cat": "politica"
+  },
+  {
    "hora": "Qui 12/11 · 22h",
-   "txt": "Grammy Latino em Las Vegas, com Anitta concorrendo a Álbum do Ano; transmissão do Multishow",
+   "txt": "Grammy Latino em Las Vegas, com Anitta concorrendo a Álbum do Ano; transmissão do Multishow e do Bis",
    "cat": "cultura"
   },
   {
    "hora": "Sáb 14/11 · 7h15",
-   "txt": "Brasil x Japão em Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
+   "txt": "Brasil x Japão no Estádio Nacional de Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
    "cat": "esporte"
   },
   {
-   "hora": "Dom 15/11",
-   "txt": "Segundo dia do Enem; de 16 a 20/11, pedidos de reaplicação pela Página do Participante",
-   "cat": "educacao"
-  },
-  {
-   "hora": "Semana de 16/11",
-   "txt": "Governo deve enviar ao Congresso o projeto de ajuste fiscal para 2027, segundo Davi Alcolumbre",
-   "cat": "politica"
+   "hora": "Dom 15/11 · 16h",
+   "txt": "Internacional x Flamengo, volta da final da Copa do Brasil Feminina, no Beira-Rio; no mesmo dia, segundo dia do Enem",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -163,43 +163,48 @@
  ],
  "manchete": {
   "kicker": "Contas públicas",
-  "titulo": "Governo detalha no Congresso ajuste de R$ 50 bilhões a R$ 60 bilhões para 2027, com teto de gastos mais apertado e corte de incentivos",
-  "resumo": "O ministro do Planejamento, Bruno Moretti, apresentou à Comissão Mista de Orçamento as medidas que irão num projeto de lei complementar a ser apresentado pelo líder do governo no Senado, Jaques Wagner. O mercado reagiu com queda do dólar, mas analistas disseram que o pacote ainda é pequeno diante da dívida.",
+  "titulo": "Senado pode votar hoje o ajuste fiscal de 2027; oposição conseguiu adiar a análise ontem alegando falta de tempo para ler o texto",
+  "resumo": "Davi Alcolumbre suspendeu a sessão de quarta e marcou a retomada para as 16h desta quinta, mas avisou que a votação fica para a próxima semana se não houver consenso entre os líderes. O relator, Eduardo Braga (MDB-AM), manteve quase todo o projeto do governo e estima ganho de R$ 43 bilhões a R$ 54 bilhões no resultado primário.",
   "foto": {
    "src": "https://imagens.ebc.com.br/t0iA4VRV9ltbc284NUSZ_2INP8w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/11/reuniao_de_lideres-5_1.jpg?itok=x-AX5jZ1",
    "credito": "Lula Marques/Agência Brasil"
   },
-  "entenda": "Pela regra fiscal atual, os gastos federais podem crescer até 2,5% acima da inflação por ano. Segundo a Agência Brasil, a proposta reduz esse limite para 2% em 2027 sempre que houver risco de a meta não ser cumprida, o que travaria cerca de R$ 12,8 bilhões. O pacote também prevê um corte linear adicional de 10% em incentivos tributários, limites ao uso de créditos tributários para pagar impostos, revisão de supersalários e mais instrumentos de bloqueio do Orçamento. Na saúde, receitas extraordinárias de petróleo e gás deixariam de entrar no cálculo do piso até 2030. A meta para 2027 é um superávit primário de 0,5% do PIB, ou R$ 73,2 bilhões. O presidente do Senado, Davi Alcolumbre, disse que o texto deve chegar na próxima semana e que o Congresso tem compromisso de analisá-lo; o relator deve ser Eduardo Braga (MDB-AM). Na véspera, a estimativa que circulava era de até R$ 80 bilhões.",
+  "entenda": "O projeto de lei complementar, apresentado por Jaques Wagner (PT-BA) a pedido do governo, reduz de 2,5% para 2% acima da inflação o crescimento permitido dos gastos federais em anos de aperto fiscal, corta benefícios tributários e permite desvincular até 40% dos superávits de fundos. O Planejamento calcula efeito de R$ 50 bilhões a R$ 60 bilhões em 2027. No substitutivo, Braga trocou a palavra contingenciamento por contenção de despesas e permitiu que o governo mire o centro da meta de resultado primário, e não apenas o piso. A resistência vem dos dois lados: senadores de oposição pediram mais tempo e contestam o trecho que abre espaço para até R$ 10,5 bilhões em créditos extraordinários para subvenção ao diesel; na Câmara, parte da bancada do PT critica o pacote e se reuniu na noite de quarta para discutir divergências. Alcolumbre disse que vai consultar Hugo Motta sobre o calendário, já que o texto ainda precisa passar pela Câmara. Para o governo e aliados, o projeto é necessário para estabilizar a dívida e já foi negociado com o Congresso; para a oposição, o texto é técnico e não deve ser votado às pressas.",
   "fatos": [
-   "A meta de superávit primário é de 0,5% do PIB em 2027 e de 1,5% do PIB até 2030, segundo o Planejamento.",
-   "O dólar fechou em queda de 0,43%, a R$ 5,56, e o Ibovespa subiu 0,42%, aos 172.060 pontos; Petrobras PN caiu 3%.",
-   "Para analistas ouvidos pelo BlockTrends, o impacto de cerca de 0,5% do PIB não basta para estabilizar a dívida, perto de 78% do PIB."
+   "Na sessão de quarta, Tereza Cristina (PP-MS), Magno Malta (PL-ES) e Damares Alves (Republicanos-DF) pediram adiamento; Randolfe Rodrigues (PT-AP) e a líder do governo, Teresa Leitão (PT-PE), pediram urgência.",
+   "O ministro Bruno Moretti disse que o esforço será dividido igualmente entre corte de despesas e aumento de receitas e negou que o pacote contrarie compromissos de campanha.",
+   "O dólar caiu 0,42% na quarta, a R$ 5,56, e o Ibovespa subiu 0,42%, com o mercado atento ao andamento do projeto."
   ],
   "fontes": [
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-anuncia-medidas-de-ajuste-para-economia-de-ate-r-60-bilhoes",
-    "d": "Medidas apresentadas na CMO"
+    "n": "Agência Senado",
+    "u": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ajuste-fiscal-pode-ser-votado-nesta-quinta-feira",
+    "d": "Sessão suspensa e posições"
    },
    {
     "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/alcolumbre-diz-ter-compromisso-para-analisar-projeto-de-ajuste-fiscal/",
-    "d": "Compromisso de Alcolumbre"
+    "u": "https://www.cnnbrasil.com.br/politica/senado-pode-votar-ajuste-fiscal-nesta-quinta-e-alcolumbre-busca-consenso/",
+    "d": "Busca de consenso"
    },
    {
-    "n": "Seu Dinheiro",
-    "u": "https://www.seudinheiro.com/2026/economia/ajuste-fiscal-vem-ai-governo-enviara-projeto-que-deve-ter-impacto-de-ate-r-60-bilhoes-nas-contas-publicas-em-2027-julw/",
-    "d": "Principais medidas"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/politica/alcolumbre-definira-na-quinta-feira-se-vota-ou-adia-projeto-de-ajuste-fiscal/",
+    "d": "Críticas da oposição"
    },
    {
-    "n": "BlockTrends",
-    "u": "https://blocktrends.com.br/pacote-fiscal-60-bi-derruba-dolar-mercado-quer-mais/",
-    "d": "Avaliação de analistas"
+    "n": "Money Times",
+    "u": "https://www.moneytimes.com.br/relator-do-plp-do-ajuste-do-ajuste-fiscal-mantem-boa-parte-do-projeto-e-faz-ajustes-de-redacao-gaep/",
+    "d": "Parecer do relator"
    },
    {
-    "n": "BPMoney",
-    "u": "https://bpmoney.com.br/mercado/ibovespa-sobe-dolar-recua-ajuste-fiscal-exterior/",
-    "d": "Fechamento do mercado"
+    "n": "O Povo",
+    "u": "https://opovo.com.br/noticias/economia/2026/11/11/senadores-sugerem-votacao-do-plp-do-ajuste-amanha-12-e-alcolumbre-disse-que-consultara-motta.html",
+    "d": "Pedido de adiamento"
+   },
+   {
+    "n": "Brasil 247",
+    "u": "https://www.brasil247.com/economia/ministro-do-planejamento-nega-estelionato-eleitoral-e-diz-que-ajuste-fiscal-preservara-direitos-sociais/",
+    "d": "Entrevista de Moretti"
    }
   ]
  },
@@ -208,31 +213,37 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste, PL e MP rural",
+   "nota": "Ajuste, PT, PL e maioridade",
    "itens": [
     {
-     "kicker": "Agronegócio",
-     "quando": "Hoje",
-     "titulo": "Senado aprova no último dia de validade a MP que renegocia dívidas rurais; texto vai à sanção",
-     "resumo": "A medida permite renegociar dívidas de produtores que perderam safras em pelo menos dois anos entre 2019 e 2025, com juros de 5% a 12% ao ano e prazos de até dez anos. A pedido do senador Alessandro Vieira (MDB-SE), foram retirados trechos sem relação com o tema, como regras sobre cigarros eletrônicos e free shops, o que dispensa nova votação na Câmara.",
+     "kicker": "Ajuste fiscal",
+     "quando": "Ontem",
+     "titulo": "Bancada do PT na Câmara se reúne para tentar conter divergências sobre o pacote fiscal",
+     "resumo": "O líder Pedro Uczai (SC) convocou o encontro depois que deputados como Lindbergh Farias (RJ) e Natália Bonavides (RN) criticaram em público as medidas dos ministros Bruno Moretti e Dario Durigan. A avaliação inicial no partido foi de que é preciso mais tempo para analisar o texto antes da votação na Câmara.",
+     "lados": [
+      {
+       "quem": "Críticos no PT",
+       "txt": "Dizem estar frustrados com a proposta e afirmam que um aperto desse tipo não foi o que saiu vitorioso nas urnas."
+      },
+      {
+       "quem": "Equipe econômica",
+       "txt": "Defende um ajuste gradual para sinalizar a estabilização da dívida e diz que direitos sociais e a valorização do salário mínimo serão preservados."
+      }
+     ],
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/senado-aprova-mp-que-permite-renegociacao-de-dividas-rurais"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/pt-se-reune-para-tentar-conter-divergencias-sobre-ajuste-fiscal/"
       },
       {
-       "n": "Jornal do Comércio",
-       "u": "https://www.jornaldocomercio.com/agro/2026/11/1270203-senado-aprova-mp-das-dividas-rurais-novas-regras-aguardam-sancao.html"
-      },
-      {
-       "n": "Canal Rural",
-       "u": "https://www.canalrural.com.br/politica/senado-aprova-mp-de-renegociacao-de-dividas-rurais-e-texto-vai-a-sancao/"
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/economia/ministro-do-planejamento-nega-estelionato-eleitoral-e-diz-que-ajuste-fiscal-preservara-direitos-sociais/"
       }
      ]
     },
     {
      "kicker": "Câmara",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "PL termina reunião sem decidir se apoia Hugo Motta e fará consulta individual aos deputados eleitos",
      "resumo": "A ala ligada a Valdemar Costa Neto defende aderir ao bloco de Motta para não perder espaço nas comissões; a ala bolsonarista quer candidato próprio. Cada deputado registrará seu voto em documento sigiloso em cerca de 15 dias, e Sóstenes Cavalcante foi mantido como líder para 2027.",
      "lados": [
@@ -261,8 +272,58 @@
      ]
     },
     {
+     "kicker": "Maioridade penal",
+     "quando": "Ontem",
+     "titulo": "Câmara faz audiências sobre PEC que reduz a maioridade penal; relator quer apresentar parecer até o fim do mês",
+     "resumo": "O relator, Mendonça Filho (PL-PE), defende a idade de 16 anos e propõe que os jovens cumpram pena em unidades separadas dos adultos. Nas audiências, o governo apresentou dados segundo os quais 12,2 mil adolescentes cumprem medidas socioeducativas, enquanto o sistema adulto abriga 727 mil presos.",
+     "lados": [
+      {
+       "quem": "Defensores da redução",
+       "txt": "A oposição quer 16 anos para todos os crimes e 14 para hediondos; o presidente da comissão, Aluísio Mendes (Republicanos-MA), quer votar a redução para todos os crimes."
+      },
+      {
+       "quem": "Governo",
+       "txt": "Governistas admitem 16 anos só para crimes hediondos e violentos; o secretário de Políticas Penais, André Garcia, disse que menores de 18 anos participam de menos de 2% desses crimes."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quinta-feira-12-de-novembro-de-2026/"
+      },
+      {
+       "n": "Correio da Manhã",
+       "u": "https://www.correiodamanha.com.br/politica/2026/11/amp/332629-camara-tenta-acordo-sobre-reducao-da-maioridade-penal-para-menores.html"
+      },
+      {
+       "n": "Diario de Pernambuco",
+       "u": "https://www.diariodepernambuco.com.br/politica/2026/11/11728374-reducao-da-maioridade-penal-relator-na-camara-quer-apresentar-texto-no-fim-de-novembro.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Agronegócio",
+     "quando": "Ontem",
+     "titulo": "Senado aprova no último dia de validade a MP que renegocia dívidas rurais; texto vai à sanção",
+     "resumo": "A medida permite renegociar dívidas de produtores que perderam safras em pelo menos dois anos entre 2019 e 2025, com juros de 5% a 12% ao ano e prazos de até dez anos. A pedido do senador Alessandro Vieira (MDB-SE), foram retirados trechos sem relação com o tema, como regras sobre cigarros eletrônicos e free shops, o que dispensa nova votação na Câmara.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/senado-aprova-mp-que-permite-renegociacao-de-dividas-rurais"
+      },
+      {
+       "n": "Jornal do Comércio",
+       "u": "https://www.jornaldocomercio.com/agro/2026/11/1270203-senado-aprova-mp-das-dividas-rurais-novas-regras-aguardam-sancao.html"
+      },
+      {
+       "n": "Canal Rural",
+       "u": "https://www.canalrural.com.br/politica/senado-aprova-mp-de-renegociacao-de-dividas-rurais-e-texto-vai-a-sancao/"
+      }
+     ]
+    },
+    {
      "kicker": "COP31",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Rouco, Lula tem discurso lido por Capobianco na COP31 e cobra países ricos e liderança na proteção das florestas",
      "resumo": "Na cúpula de líderes sobre florestas, em Antália, o texto do presidente apontou pobreza, falta de dinheiro e falta de liderança como entraves e disse que o clima saiu da pauta do G7 e do G20. O governo citou queda de 70% do desmatamento na Amazônia e defendeu ampliar o fundo TFFF, que já soma US$ 7,8 bilhões.",
      "foto": {
@@ -283,38 +344,6 @@
        "u": "https://diariodocomercio.com.br/sustentabilidade/cop31-lula-cobra-paises-ricos"
       }
      ]
-    },
-    {
-     "kicker": "Big techs",
-     "quando": "Ontem",
-     "titulo": "Hugo Motta sinaliza que vai levar a voto projeto que cria regras de concorrência para as big techs",
-     "resumo": "O texto cria no Cade uma superintendência para mercados digitais e permite classificar como de relevância sistêmica empresas com faturamento global acima de R$ 50 bilhões ou nacional acima de R$ 5 bilhões. O relator, Aliel Machado (PV-PR), ainda prepara o parecer; o projeto tem pedido de urgência.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://metropoles.com/brasil/motta-sinaliza-intencao-de-levar-projeto-sobre-big-techs-a-votacao"
-      },
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/10/hugo-motta-sinaliza-votacao-de-projeto"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/governo-quer-aprovar-regras-para-ia-e-big-techs-ainda-em-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Diplomacia",
-     "quando": "Ontem",
-     "titulo": "Rubio cobra do Brasil aval ao novo embaixador dos EUA e diz que impasse precisa ser resolvido",
-     "resumo": "Em Paris, à margem da reunião de chanceleres do G7, o secretário de Estado afirmou que Washington continuará tratando com o governo Lula. O governo brasileiro não havia comentado a declaração até a publicação.",
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/gazeta-agora/gazeta-agora-rubio-faz-cobranca-direta-a-lula-e-expoe-novo-impasse-entre-brasil-e-eua/"
-      }
-     ]
     }
    ]
   },
@@ -322,11 +351,47 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Fechamento, Petrobras e BB",
+   "nota": "BB, IPCA e Petrobras",
    "itens": [
     {
-     "kicker": "Mercado",
+     "kicker": "Bancos",
+     "quando": "Ontem",
+     "titulo": "Lucro do Banco do Brasil cai 66,5% no terceiro trimestre, e banco corta pela metade a projeção para 2026",
+     "resumo": "O lucro ajustado foi de R$ 1,27 bilhão, abaixo do que esperavam os analistas, pressionado pela inadimplência no agronegócio; as despesas com perdas de crédito subiram 18,4%, para R$ 21,2 bilhões. A estimativa de lucro do ano passou de R$ 18 bilhões a R$ 22 bilhões para R$ 9 bilhões a R$ 11 bilhões, e o pagamento de dividendos ficará no mínimo de 25%.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/negocios/banco-do-brasil-encerrou-o-3o-trimestre-de-2026-com-lucro-liquido-ajustado-de-r-127-bilhao/"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-lucro-no-3t26-expectativas-rentabilidade-inadimplencia-ainda-preocupa-miql/"
+      },
+      {
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/empresas/banco-do-brasil-bbas3-lucro-rentabilidade-roe-no-3t26-inadimplencia-ainda-desafia-recuperacao-do-banco-miql/"
+      }
+     ]
+    },
+    {
+     "kicker": "Inflação",
      "quando": "Hoje",
+     "titulo": "IBGE divulga às 9h a inflação oficial de outubro; prévia do mês havia desacelerado para 0,32%",
+     "resumo": "O IPCA-15 de outubro acumulou 4,62% em 12 meses, com queda nas tarifas de água e de energia e pressão dos alimentos. O resultado do IPCA é um dos dados acompanhados pelo Banco Central, que manteve a Selic em 13,75% na última reunião.",
+     "fontes": [
+      {
+       "n": "IBGE",
+       "u": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48349-o-ipca-15-e-de-0-32-em-outubro"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/previa-inflacao-ipca-15-hoje-23-outubro-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Mercado",
+     "quando": "Ontem",
      "titulo": "Ibovespa fecha em alta de 0,42% e dólar cai a R$ 5,56 com pacote fiscal e alta das bolsas americanas",
      "resumo": "O índice terminou aos 172.060 pontos, com Magazine Luiza (+17,9%), Cosan e Hapvida entre as maiores altas. O dólar devolveu parte da subida da véspera, quando havia fechado no maior valor desde julho de 2025; analistas atribuíram o movimento às medidas fiscais e ao exterior.",
      "foto": {
@@ -349,70 +414,22 @@
      ]
     },
     {
-     "kicker": "Petrobras",
-     "quando": "Hoje",
-     "titulo": "Ações da Petrobras fecham em queda de 3% após balanço com lucro e dividendos abaixo do esperado",
-     "resumo": "O lucro de R$ 39,7 bilhões no terceiro trimestre subiu 21,5% em um ano, mas ficou aquém das projeções, e os R$ 15,3 bilhões em proventos e o investimento maior previsto para 2026 também pesaram. Na véspera, o ADR já recuava mais de 2% em Nova York.",
+     "kicker": "Combustíveis",
+     "quando": "Ontem",
+     "titulo": "Petrobras admite reajustes pontuais em gasolina e diesel, mas descarta mudar a política de preços",
+     "resumo": "A diretora Angélica Laureano disse que a empresa discute uma mudança conjuntural, sem repassar automaticamente a volatilidade do petróleo. Segundo a Abicom, a defasagem do diesel em relação ao produto importado chegou a R$ 3,50 por litro no fim de outubro; as ações da estatal caíram 3% após o balanço.",
      "fontes": [
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-desempenho-acoes-resultados-3t26-proventos-novas-projecoes/"
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/petrobras-avalia-reajustes-dos-combustiveis-mas-descarta-mudar-politica-de-precos/"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/empresas-e-negocios/acoes-da-petrobras-caem-2-apos-divulgacao-de-resultados-do-terceiro-trimestre/"
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/12/petroleo-russo-aperta-diesel-petrobras-brasil"
       },
       {
-       "n": "Investidor10",
-       "u": "https://investidor10.com.br/noticias/acoes-da-petrobras-recuam-apos-companhia-anunciar-dividendos-abaixo-do-esperado-123823/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/economia/2026/11/10/lucro-da-petrobras-cresce-21-5-no-terceiro-trimestre-para-r-39-7-bilhoes"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-sobe-dolar-recua-ajuste-fiscal-exterior/"
-      }
-     ]
-    },
-    {
-     "kicker": "Balanços",
-     "quando": "Hoje",
-     "titulo": "Banco do Brasil divulga balanço após o fechamento; analistas preveem lucro cerca de 20% menor",
-     "resumo": "O consenso aponta lucro perto de R$ 3 bilhões no terceiro trimestre, com rentabilidade bem abaixo do custo de capital, segundo projeções reunidas pela imprensa especializada. A atenção está na inadimplência do crédito rural, que pode levar o banco a elevar provisões.",
-     "fontes": [
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/11/resultado-bbas3-3t26-hoje-lucro-cai-20-7-pressao-aumenta/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-divulga-balanco-nesta-quarta-o-que-esperar-do-banco/"
-      }
-     ]
-    },
-    {
-     "kicker": "IBGE",
-     "quando": "Hoje",
-     "titulo": "Volume de serviços recua 0,1% em setembro, resultado melhor que o esperado pelo mercado",
-     "resumo": "O setor está 19,8% acima do nível de fevereiro de 2020 e 0,4% abaixo do recorde, de outubro de 2025. Analistas projetavam queda mais forte.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/setor-de-servicos-volta-a-registrar-queda-e-cai-01-em-setembro-diz-ibge/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/setor-de-servicos-varia-01-em-setembro-diz-ibge"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/economia/setor-de-servicos-segue-patinando-e-cai-01-em-setembro-aponta-ibge/"
-      },
-      {
-       "n": "Mercado Hoje",
-       "u": "https://mercadohoje.uai.com.br/2026/11/11/noticias-hoje-11-11-2026"
+       "n": "eixos",
+       "u": "https://eixos.com.br/combustiveis-e-bioenergia/petrobras-avalia-ajuste-conjuntural-na-politica-de-precos-dos-combustiveis/"
       }
      ]
     }
@@ -422,11 +439,31 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Maré, temporais e Funai",
+   "nota": "Temporais, Maré e feriado",
    "itens": [
     {
-     "kicker": "Segurança",
+     "kicker": "Clima",
      "quando": "Hoje",
+     "titulo": "Inmet põe 11 estados e o DF em alerta amarelo para temporais nesta quinta; Santa Catarina pode ter granizo",
+     "resumo": "O aviso vale para áreas do Centro-Oeste, Sudeste, Sul e Norte, com chuva de 20 a 30 mm por hora e rajadas de até 60 km/h. Em Santa Catarina, a previsão é de temporais isolados à tarde, com risco de destelhamentos e quedas de galhos; Niterói e Curitiba também estão sob alerta.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/inmet-emite-alerta-amarelo-de-temporais-e-vento-forte-em-11-estados-e-no-df"
+      },
+      {
+       "n": "Bem Paraná",
+       "u": "https://bemparana.com.br/noticias/parana/inmet-emite-dois-alertas-de-tempestade-para-o-parana-veja-cidades-e-regioes-afetadas"
+      },
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quinta-feira-12-de-novembro-de-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Segurança",
+     "quando": "Ontem",
      "titulo": "Operação da PM na Maré contra o Comando Vermelho tem três presos, afeta 22 escolas e provoca bloqueios na Avenida Brasil",
      "resumo": "A ação nas comunidades Parque União e Nova Holanda apreendeu um fuzil, uma pistola e drogas, segundo a Polícia Militar, que diz ter sido recebida a tiros. Caminhões foram atravessados na Avenida Brasil e objetos foram queimados na Linha Vermelha, em suposta represália; dois dos presos tentavam bloquear a via.",
      "fontes": [
@@ -445,82 +482,18 @@
      ]
     },
     {
-     "kicker": "Clima",
+     "kicker": "Feriado",
      "quando": "Hoje",
-     "titulo": "Inmet mantém alerta laranja para temporais no Centro-Oeste e no Matopiba; DF e região de Cabo Frio têm risco de granizo",
-     "resumo": "Os avisos preveem chuva de até 100 mm por dia, ventos de até 100 km/h e queda de granizo em áreas de Mato Grosso, Mato Grosso do Sul, Goiás e do Matopiba. No Distrito Federal, o alerta amarelo prevê até 50 mm; a Defesa Civil de São Paulo também avisa sobre a volta da chuva.",
+     "titulo": "Consciência Negra cai numa sexta-feira e cria fim de semana prolongado em todo o país no dia 20",
+     "resumo": "O Dia Nacional de Zumbi e da Consciência Negra é feriado nacional desde a lei de 2023. Hospitais e serviços essenciais funcionam normalmente, e quem trabalhar na data tem direito a pagamento em dobro ou folga compensatória.",
      "fontes": [
       {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/11/inmet-emite-alerta-laranja-para-temporais-no-centro-oeste-e-no-matopiba-clima-de-hoje/"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/trends/feriado-de-novembro-cai-numa-sexta-feira-em-2026-e-pode-criar-descanso-de-3-dias-para-parte-dos-trabalhadores/"
       },
       {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7536580-inmet-emite-alerta-amarelo-e-preve-chuva-nesta-quarta-11-11.html"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/11/11/ventos-de-ate-60-km-h-e-queda-de-granizo-cabo-frio-e-regiao-entram-em-alerta-amarelo-do-inmet"
-      },
-      {
-       "n": "Agência SP",
-       "u": "https://agenciasp.sp.gov.br/defesa-civil/defesa-civil-de-sp-alerta-para-retorno-da-chuva-a-partir-desta-quarta-feira-11"
-      }
-     ]
-    },
-    {
-     "kicker": "Conflito agrário",
-     "quando": "Ontem",
-     "titulo": "PF prende coordenador regional da Funai em investigação sobre invasões de fazendas em Mato Grosso do Sul",
-     "resumo": "A apuração trata de invasões, ameaças, roubos e incêndios ocorridos em junho na disputa pela Terra Indígena Buriti; o Ministério dos Povos Indígenas exonerou o servidor e disse que a medida não antecipa culpa. A Defensoria Pública da União contesta as prisões e afirma que reivindicações territoriais não podem ser tratadas como crime.",
-     "lados": [
-      {
-       "quem": "Polícia Federal",
-       "txt": "A investigação busca a participação individual de cada suspeito nos crimes e não discute a titularidade das terras."
-      },
-      {
-       "quem": "Defensoria Pública da União",
-       "txt": "As prisões temporárias se apoiam em elementos frágeis, e a luta por território não deve ser confundida com crime."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/pf-prende-coordenador-da-funai-em-operacao-que-apura-invasoes-de-fazendas-no-mato-grosso/"
-      }
-     ]
-    },
-    {
-     "kicker": "Caso FHC",
-     "quando": "Ontem",
-     "titulo": "TikTok bane conta de influenciador que filmou FHC acamado; polícia abre inquérito com base no Estatuto da Pessoa Idosa",
-     "resumo": "O vídeo mostrou o interior do apartamento do ex-presidente, de 95 anos, que tem Alzheimer em fase avançada. A família pediu a apreensão de celular e computador de Wesley Oliveira e a exclusão dos perfis dele; o caso tramita em segredo de Justiça.",
-     "lados": [
-      {
-       "quem": "Família de FHC",
-       "txt": "A mulher do ex-presidente, Patrícia Kundrat, diz que a gravação teve a intenção de desonrar a imagem do marido."
-      },
-      {
-       "quem": "Wesley Oliveira",
-       "txt": "O influenciador afirma que a gravação foi autorizada por Patrícia e que o vídeo é um registro histórico; a afirmação não foi confirmada."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/tiktok-suspende-conta-de-influencer-que-filmou-casa-de-fhc/"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/brasil/tik-tok-suspende-conta-de-influencer-que-filmou-casa-de-fhc-1"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/familia-de-fhc-aciona-ministerio-publico-apos-influenciador-gravar-e-compartilhar-video-do-ex-presidente/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/caso-fhc-entenda-as-tipificacoes-e-crimes-apurados-apos-video-de-influenciador,3bfd29f2e5fd14f7f6ad59cca3dc6403fgvzydhn.html"
+       "n": "Diário do Comércio",
+       "u": "https://diariodocomercio.com.br/mix/brasil-tera-feriado-nacional-em-uma-sexta-feira-e-trabalhadores-ja-podem-se-preparar-para-um-fim-de-semana-de-3-dias/"
       }
      ]
     }
@@ -530,51 +503,81 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ucrânia, Irã e Portugal",
+   "nota": "Ucrânia, Espanha e papa no Peru",
    "itens": [
     {
-     "kicker": "Guerra na Ucrânia",
+     "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Rodada de Abu Dhabi termina com acordo para grande troca de prisioneiros; enviados dos EUA vão a Moscou",
-     "resumo": "Negociadores dos EUA, da Rússia e da Ucrânia confirmaram a troca, cujos números serão fechados na quinta; Zelensky falou em mil a 1.500 prisioneiros de cada lado. Não houve avanço sobre território: Moscou exige a retirada ucraniana do Donbass e rejeita cessar-fogo imediato. Jared Kushner e Steve Witkoff se reúnem com Putin na quinta e depois com Zelensky em Dublin.",
+     "titulo": "Witkoff e Kushner chegam a Moscou para reunião com Putin e depois devem encontrar Zelensky em Dublin",
+     "resumo": "Os enviados de Donald Trump foram recebidos por Kirill Dmitriev depois da rodada trilateral de Abu Dhabi, que não teve avanço decisivo, mas fechou o que Kushner chamou de maior troca de prisioneiros da guerra. Ele reconheceu que ainda há grandes diferenças sobre território, garantias de segurança, Otan e o tamanho do Exército ucraniano.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
+       "n": "ABC News",
+       "u": "https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892"
       },
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/ucrania-e-russia-nao-chegam-a-acordo-em-abu-dhabi"
+       "n": "EFE/Infobae",
+       "u": "https://www.infobae.com/america/agencias/2026/11/12/jueves-12-de-noviembre-2026-0200-gmt/"
       },
       {
-       "n": "Público",
-       "u": "https://www.publico.pt/2026/11/11/mundo/noticia/negociacoes-russia-ucrania-terminam-promessas-encontros-2194608"
+       "n": "Kyiv Post",
+       "u": "https://www.kyivpost.com/post/89817"
       }
      ]
     },
     {
-     "kicker": "Rússia e EUA",
-     "quando": "Hoje",
-     "titulo": "Morre aos 66 anos Alexander Darchiev, embaixador da Rússia nos Estados Unidos",
-     "resumo": "O Ministério das Relações Exteriores russo informou que ele morreu de forma repentina, sem divulgar a causa. Diplomata de carreira, foi embaixador no Canadá e assumiu o posto em Washington em 2025, após a volta de Donald Trump ao poder.",
-     "fontes": [
+     "kicker": "Espanha",
+     "quando": "Ontem",
+     "titulo": "Espanha tem a primeira greve geral em 14 anos, contra o custo da moradia e os salários baixos",
+     "resumo": "A paralisação de 24 horas foi convocada pelos sindicatos UGT e CCOO e fechou lojas em Madri e Barcelona; o país tem déficit estimado de 750 mil moradias. A greve ocorre a menos de três semanas das eleições antecipadas de 29 de novembro.",
+     "lados": [
       {
-       "n": "Al Jazeera",
-       "u": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
+       "quem": "Governo e esquerda",
+       "txt": "Pedro Sánchez reconheceu o direito de greve e as reivindicações; a Frente Amplio, de Ada Colau, apoiou o movimento."
       },
       {
-       "n": "The Moscow Times",
-       "u": "https://www.themoscowtimes.com/2026/11/11/russias-ambassador-to-the-united-states-dies-at-66-a94232"
+       "quem": "Oposição",
+       "txt": "Alberto Núñez Feijóo (PP) pediu o cancelamento e acusou os sindicatos de motivação eleitoral; Santiago Abascal (Vox) também rejeitou a paralisação."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/trabalhadores-espanhois-fazem-primeira-greve-geral-em-14-anos"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/mundo/greve-geral-paralisa-espanha-por-salarios-e-moradia-a-menos-de-tres-semanas-de-eleicoes-gerais,9f8915cb02a495bb4ea58ab54f81180fk5aygm91.html"
       },
       {
        "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced"
+       "u": "https://pt.euronews.com/2026/11/11/greve-geral-em-espanha-em-protesto-contra-a-crise-da-habitacao-e-os-baixos-salarios"
+      }
+     ]
+    },
+    {
+     "kicker": "Vaticano",
+     "quando": "Hoje",
+     "titulo": "No Peru, Leão XIV pede às autoridades que ouçam a população e combatam a violência",
+     "resumo": "Recebido pela presidente Keiko Fujimori, o papa discursou no Gran Teatro Nacional, em Lima, diante de autoridades e de ex-presidentes, e falou em reforçar a democracia e recuperar a confiança nas instituições. Nesta quinta, ele se reúne com bispos e participa à noite de uma vigília com jovens no Estádio Nacional.",
+     "fontes": [
+      {
+       "n": "La República",
+       "u": "https://larepublica.pe/sociedad/2026/11/11/papa-leon-xiv-dara-su-primer-discurso-en-peru-ante-autoridades-y-expresidentes-asi-sera-su-ultimo-acto-en-lima-este-miercoles-11-243782"
+      },
+      {
+       "n": "Infobae",
+       "u": "https://www.infobae.com/peru/2026/11/11/itinerario-oficial-de-la-visita-del-papa-leon-xiv-en-peru-del-11-al-16-de-noviembre/"
+      },
+      {
+       "n": "Voz Portucalense",
+       "u": "https://vozportucalense.pt/2026/11/12/peru-papa-as-autoridades-regresso-tambem-a-minha-patria"
       }
      ]
     },
     {
      "kicker": "Oriente Médio",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Irã ameaça atacar bases americanas distantes se voltar a ser bombardeado e nega negociar com Washington",
      "resumo": "Mohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional, disse que o urânio enriquecido não sairá do país e que Teerã espera resposta às suas condições, como o fim do bloqueio naval. Trump afirmou que prefere evitar nova ofensiva, mas não descartou destruir o que resta das instalações nucleares.",
      "lados": [
@@ -597,42 +600,6 @@
        "u": "https://pt.euronews.com/2026/11/10/trump-diz-que-a-guerra-com-o-irao-praticamente-terminou-mas-teerao-nega-quaisquer-negociac"
       }
      ]
-    },
-    {
-     "kicker": "Portugal",
-     "quando": "Hoje",
-     "titulo": "Governo português avalia que o pior da tempestade Charles passou; Madeira registra 210 ocorrências",
-     "resumo": "Na Madeira, choveu 479 milímetros em 12 horas, houve inundações e deslizamentos e cerca de 20 voos foram cancelados, sem registro de mortos. Em Lisboa, túneis ficaram alagados; o primeiro-ministro Luís Montenegro convocou o gabinete de crise, e o alerta na ilha caiu de vermelho para laranja.",
-     "fontes": [
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/mundo/europa/governo-de-portugal-avalia-que-pior-da-tempestade-charles-ja-passou,f7916ecb985995e3effc36e6a4268cd3ls2aazhx.html"
-      },
-      {
-       "n": "Renascença",
-       "u": "https://rr.pt/noticia/pais/2026/11/11/charles-nao-deprimiu-o-pais-mas-deixou-marcas-as-imagens-do-dia-em-que-a-tempestade-morreu-na-praia/493149"
-      },
-      {
-       "n": "Observador",
-       "u": "https://observador.pt/newsletters/360/tempestade-charles-deixa-portugal-continental-em-situacao-de-alerta-causa-estragos-na-madeira-e-o-que-diz-a-lei-sobre-teletrabalho/"
-      }
-     ]
-    },
-    {
-     "kicker": "Vaticano",
-     "quando": "Hoje",
-     "titulo": "Leão XIV deixa a Argentina e chega ao Peru, país onde viveu 20 anos, para a última etapa da viagem",
-     "resumo": "O papa desembarcou em Lima no fim da tarde, com cerimônia de boas-vindas e encontro com o presidente peruano. A visita vai até 17 de novembro e inclui Chiclayo, Cusco e Pucallpa.",
-     "fontes": [
-      {
-       "n": "Vatican News",
-       "u": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-se-despede-da-argentina-e-segue-para-o-peru.html"
-      },
-      {
-       "n": "Infobae",
-       "u": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-en-peru-en-vivo-minuto-a-minuto-de-su-llegada-recorrido-calles-cerradas-y-ultimas-noticias-del-santo-padre/"
-      }
-     ]
     }
    ]
   },
@@ -640,97 +607,81 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Final feminina, Seleção e Brasileirão",
+   "nota": "Final feminina, Seleção e reta final",
    "itens": [
     {
      "kicker": "Futebol feminino",
-     "quando": "Hoje",
-     "titulo": "Flamengo e Internacional fazem nesta noite o jogo de ida da final da Copa do Brasil Feminina",
-     "resumo": "A partida é às 21h30 no estádio Luso-Brasileiro, no Rio; a volta será no domingo (15), às 16h, no Beira-Rio. O Flamengo eliminou o Bahia, e o Inter, que disputa a final pela primeira vez, passou pelo Bragantino nos pênaltis. O campeão recebe R$ 1,1 milhão.",
+     "quando": "Ontem",
+     "titulo": "Inter vira sobre o Flamengo no Rio, vence por 3 a 1 e abre vantagem na final da Copa do Brasil Feminina",
+     "resumo": "Letícia Oliveira abriu o placar para o Flamengo no início do jogo, no estádio Luso-Brasileiro, mas Valéria Cantuário, Débora e Sole Jaimes marcaram para o Inter no segundo tempo. Na volta, domingo (15), às 16h, no Beira-Rio, o Inter pode perder por um gol; o Flamengo precisa vencer por três para ser campeão ou por dois para levar aos pênaltis.",
      "foto": {
       "src": "fotos/jogadoras.jpg",
       "credito": "Fernando Frazão/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/flamengo-x-internacional-horario-onde-assistir-e-escalacoes-da-final-da-copa-do-brasil-feminina-2026,669f268cbc8c9a6351ba4e3efa1bed90h77g9g8q.html"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/inter-vence-o-flamengo-e-abre-vantagem-na-final-da-copa-do-brasil-feminina/"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/onde-assistir/flamengo-x-internacional-onde-assistir-a-final-da-copa-do-brasil-feminina.html"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/inter-vence-o-flamengo-em-jogo-de-ida-da-final-da-copa-do-brasil-feminina"
       },
       {
-       "n": "Internacional",
-       "u": "https://internacional.com.br/noticias/feminino/servico-de-jogo-internacional-x-flamengo-final-da-copa-do-brasil-feminina-2026"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/futebol/inter-vence-o-flamengo-de-virada-e-abre-vantagem-na-final-da-copa-do-brasil-feminina/"
       }
      ]
     },
     {
      "kicker": "Seleção",
-     "quando": "Hoje",
-     "titulo": "Ancelotti testa meio-campo em Singapura; ataque com Rayan, Estevão, Raphinha e Vinicius Júnior parece definido",
-     "resumo": "No coletivo, o técnico começou com Bento; Wesley, Jair, Gabriel Magalhães e Douglas Santos; Marlon Gomes e Gabriel Bontempo, e depois testou Andrey Santos, João Gomes e André Luiz num 4-3-3. Bruno Guimarães foi poupado, mas deve ser titular contra o Japão no sábado, às 7h15.",
+     "quando": "Ontem",
+     "titulo": "Seleção completa o grupo em Singapura e Ancelotti mantém dúvidas no meio-campo para enfrentar o Japão",
+     "resumo": "Alisson Santana, Douglas Santos e Marlon Gomes se apresentaram na quarta; nos treinos, o técnico testou dois esquemas e poupou jogadores como Raphinha por controle de carga. O jogo contra o Japão é no sábado (14), às 7h15 de Brasília, e a data Fifa termina contra Singapura na terça (17).",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-testa-formacao-e-brasil-pode-ter-novidades-contra-o-japao/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/sem-raphinha-selecao-brasileira-treina-para-jogo-contra-japao-em-singapura"
       },
       {
-       "n": "Placar",
-       "u": "https://placar.com.br/selecao-brasileira/escalacao-da-selecao-tem-duvidas-no-meio-e-ataque-definido-para-enfrentar-o-japao/?media=tv&content=geral"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/brasil/ancelotti-preserva-quatro-jogadores-em-treino-da-selecao-em-singapura,bd33c3ef1a4b28a0d3b2e0cbcf805aa11daar9o0.html"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/selecao-brasileira/raphinha-sera-capitao-e-vestira-a-camisa-10-da-selecao-contra-o-japao.html"
+       "n": "VAVEL Brasil",
+       "u": "https://www.vavel.com/br/futebol/2026/11/11/1278928-ancelotti-testa-dois-esquemas-e-mantem-duvida-no-meio.html"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Com quatro rodadas pela frente, Flamengo tem 76 pontos, três a mais que o Palmeiras; Z-4 tem Grêmio e Corinthians",
-     "resumo": "A 35ª rodada começa no sábado (14), e a última está marcada para 2 de dezembro, com todos os jogos às 21h30. Chapecoense já está rebaixada; Remo, Grêmio e Corinthians estão na zona, e Internacional e Vitória ficam um ponto acima.",
+     "titulo": "Com o líder Flamengo três pontos à frente, Palmeiras x Flamengo do dia 21 pode decidir o título",
+     "resumo": "Depois da data Fifa, a 35ª rodada tem o Flamengo contra o Athletico-PR no Maracanã e o Palmeiras contra o Cruzeiro no Mineirão, ambos na quarta (18). O confronto direto será no sábado (21), às 16h30, no Nubank Parque, pela 36ª rodada.",
      "fontes": [
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/tendencias/2026/11/11/brasileirao-na-reta-final-veja-quem-briga-pelo-titulo-e-contra-o-rebaixamento-ultima-rodada-e-em-2-12/"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/futebol-nacional/cbf-detalha-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios-dos-jogos.html"
       },
       {
-       "n": "The Rio Times",
-       "u": "https://www.riotimesonline.com/latin-america-sports-daily-wednesday-november-11-2026"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/futebol-nacional/2026/10/30/cbf-detalha-tabela-das-rodadas-35-e-36-do-campeonato-brasileiro-serie-a"
       }
      ]
     },
     {
      "kicker": "Libertadores",
-     "quando": "Ontem",
-     "titulo": "Atacante Joaquín Correa, do Estudiantes, sofre lesão e vira dúvida para a final contra o Palmeiras",
-     "resumo": "O argentino de 32 anos tem lesão muscular de grau dois na coxa direita e desfalca o time na Supercopa Argentina, na quinta. A decisão da Libertadores é em 28 de novembro, em Montevidéu.",
-     "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://1news.correiobraziliense.com.br/noticia/907010/esportes/palmeiras-recebe-noticia-importante-envolvendo-final-da-libertadores-10112026"
-      },
-      {
-       "n": "GC Mais",
-       "u": "https://gcmais.com.br/noticias/2026/11/09/final-da-libertadores-2026-veja-data-horario-e-adversario-do-palmeiras"
-      }
-     ]
-    },
-    {
-     "kicker": "Fórmula 1",
      "quando": "Hoje",
-     "titulo": "Com títulos já decididos, F1 vai a Las Vegas na próxima semana; corrida será na madrugada de domingo (22)",
-     "resumo": "Restam três etapas, e a disputa agora é pelo vice entre pilotos e equipes. Gabriel Bortoleto, da Audi, e Rafael Câmara, da Haas, foram 16º e 20º em Interlagos; a corrida de Las Vegas terá transmissão da TV Globo.",
+     "titulo": "Palmeiras e Estudiantes decidem a Libertadores em jogo único no dia 28, no Centenário, em Montevidéu",
+     "resumo": "A Conmebol ainda não divulgou o horário da final. No clube argentino, o atacante Joaquín Correa se lesionou e é dúvida para a decisão.",
      "fontes": [
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/formula-1/f1-gp-las-vegas-2026-onde-assistir-horarios"
-      },
       {
        "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/motor/formula-1/bortoleto-faz-balanco-da-temporada-na-formula-1-e-pede-paciencia/"
+       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/libertadores/palmeiras-x-estudiantes-ingressos-data-hora-e-local-da-final-da-libertadores.html"
       }
      ]
     }
@@ -740,8 +691,32 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Canetas, mpox e dengue",
+   "nota": "Mpox, canetas e dengue",
    "itens": [
+    {
+     "kicker": "Mpox",
+     "quando": "Ontem",
+     "titulo": "MPF abre inquérito sobre falta de vacinas contra mpox; ministério diz que 25 mil doses chegam em três semanas",
+     "resumo": "O inquérito civil apura possível omissão na compra e na divisão das doses entre os estados; o Distrito Federal suspendeu a vacinação em 3 de novembro por falta do imunizante. O ministério informou que comprou o lote pelo fundo rotatório da Opas e orientou o uso da aplicação intradérmica, que rende mais doses, em grupos prioritários.",
+     "foto": {
+      "src": "fotos/vacina.jpg",
+      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Perfil Brasil",
+       "u": "https://brasil.perfil.com/saude/falta-de-vacinas-contra-mpox-leva-mpf-a-investigar-ministerio-da-saude.phtml"
+      },
+      {
+       "n": "Plox",
+       "u": "https://plox.com.br/noticia/11/11/2026/ministerio-saude-compra-vacina-mpox"
+      },
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4368062/mpox-lote-de-25-mil-doses-da-vacina-deve-chegar-ao-brasil-nas-proximas-semanas"
+      }
+     ]
+    },
     {
      "kicker": "Medicamentos",
      "quando": "Ontem",
@@ -767,28 +742,8 @@
      ]
     },
     {
-     "kicker": "Mpox",
-     "quando": "Hoje",
-     "titulo": "Ministério da Saúde compra 25 mil doses de vacina contra mpox; lote deve chegar em três semanas",
-     "resumo": "A compra foi feita pelo fundo rotatório da Opas. O país tem 943 casos confirmados e uma morte em 2026, com alta recente no Rio, em São Paulo, no Ceará e no DF; a vacina é indicada a grupos específicos, como pessoas com HIV e usuários de PrEP.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4368062/mpox-lote-de-25-mil-doses-da-vacina-deve-chegar-ao-brasil-nas-proximas-semanas"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/brasil/2026/11/7534340-ministerio-da-saude-vai-adquirir-20-mil-doses-de-vacina-contra-mpox.html"
-      }
-     ]
-    },
-    {
      "kicker": "Dengue",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Opas amplia recomendação da vacina Qdenga para pessoas de 6 a 59 anos em áreas de alta transmissão",
      "resumo": "A orientação não muda automaticamente o SUS, que oferece a vacina gratuita a adolescentes de 10 a 14 anos; uma ampliação depende do Ministério da Saúde. Modelos citados pela Fiocruz projetam alta de casos entre o fim de 2026 e 2027.",
      "fontes": [
@@ -801,38 +756,6 @@
        "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/pais-pode-chegar-860-mil-casos-provaveis-de-dengue-em-2027"
       }
      ]
-    },
-    {
-     "kicker": "COP31",
-     "quando": "Ontem",
-     "titulo": "Brasil apresenta na COP31 marco para financiar a adaptação dos sistemas de saúde à mudança do clima",
-     "resumo": "O documento, apoiado pela OMS, ajuda países a identificar fontes de recursos e não cria um novo fundo. Segundo o Ministério da Saúde, países em desenvolvimento podem precisar de cerca de US$ 23 bilhões por ano até 2035.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-apresenta-marco-de-financiamento-para-area-de-saude-na-cop31"
-      }
-     ]
-    },
-    {
-     "kicker": "Novembro Azul",
-     "quando": "Ontem",
-     "titulo": "Câncer de próstata responde por 30,5% dos novos casos de câncer em homens, estima o Inca",
-     "resumo": "Na projeção do instituto para 2026 a 2028, cólon e reto (10,3%) e pulmão (7,3%) vêm em seguida. A doença matou cerca de 50 homens por dia no país em 2025; especialistas lembram que ela pode evoluir sem sintomas e recomendam conversar com o médico sobre exames.",
-     "fontes": [
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/curiosidades/2026/11/10/novembro-azul-cancer-de-prostata-responde-por-305-dos-novos-casos-de-cancer-em-homens-no-brasil-segundo-estimativa-do-inca-para-2026-2028"
-      },
-      {
-       "n": "Sergipe Notícias",
-       "u": "https://www.sergipenoticias.com/saude/2026/11/45346/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025.html"
-      },
-      {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202611/novembro-azul-campanha-reforca-a-importancia-da-prevencao-e-dos-cuidados-com-a-saude-do-homem"
-      }
-     ]
     }
    ]
   },
@@ -840,11 +763,41 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Enem, altas habilidades e IA",
+   "nota": "Piso no STF e Enem",
    "itens": [
     {
-     "kicker": "Enem",
+     "kicker": "Piso do magistério",
      "quando": "Hoje",
+     "titulo": "STF retoma hoje julgamento que define se reajuste do piso dos professores vale para toda a carreira",
+     "resumo": "A sessão de quarta foi suspensa e recomeça às 14h. Em jogo está se a correção do piso, de R$ 5.130,63 em 2026 para 40 horas, deve se refletir automaticamente nos planos de carreira de estados e municípios.",
+     "lados": [
+      {
+       "quem": "Relator, Cristiano Zanin",
+       "txt": "O Judiciário não deve fixar percentuais; redes devem adaptar seus planos de carreira em até 24 meses, com o piso como mínimo."
+      },
+      {
+       "quem": "Dias Toffoli e Alexandre de Moraes",
+       "txt": "O piso atualizado precisa ser respeitado no vencimento-base, e a Justiça pode mandar pagar; os reflexos nos demais níveis ficam para leis locais."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "O Estado",
+       "u": "https://oestadoonline.com.br/justica/stf-julga-nesta-quarta-feira-se-reajuste-do-piso-dos-professores-deve-alcancar-toda-a-carreira/"
+      },
+      {
+       "n": "Sepe-RJ",
+       "u": "https://seperj.org.br/sessao-do-supremo-foi-suspensa-e-recomeca-nesta-quinta-12-11/"
+      },
+      {
+       "n": "Conjur",
+       "u": "https://conjur.com.br/2026-mai-21/stf-suspende-julgamento-sobre-reajuste-do-piso-salarial-dos-professores-2/"
+      }
+     ]
+    },
+    {
+     "kicker": "Enem",
+     "quando": "Ontem",
      "titulo": "Escola Sem Partido pede na Justiça a anulação da redação do Enem sobre o SUS; juiz dá 72 horas para o Inep se manifestar",
      "resumo": "A associação quer suspender a correção ou impedir o uso das notas até uma decisão. O Inep ainda não respondeu publicamente; o prazo foi fixado pela 20ª Vara Federal Cível do DF.",
      "lados": [
@@ -870,7 +823,7 @@
     },
     {
      "kicker": "Educação especial",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "MEC homologa novas diretrizes para alunos com altas habilidades; laudo deixa de ser exigido para atendimento",
      "resumo": "Pelas regras do Conselho Nacional de Educação, a identificação passa a ser sobretudo pedagógica, com base em observação e registros escolares. A falta de laudo ou teste não pode impedir o acesso ao atendimento especializado, e as redes devem priorizar regiões com menos oferta.",
      "foto": {
@@ -911,51 +864,6 @@
        "u": "https://newsrondonia.com.br/educacao/2026/11/10/inep-abre-prazo-para-pedido-de-reaplicacao-do-enem-2026-a-partir-do-dia-16-de-novembro"
       }
      ]
-    },
-    {
-     "kicker": "Inteligência artificial",
-     "quando": "Ontem",
-     "titulo": "MEC homologa regras para IA nas escolas e proíbe uso da tecnologia para dar nota a redações",
-     "resumo": "As diretrizes vetam o uso sem supervisão por crianças até o 5º ano, punições baseadas só em detectores de texto feito por IA, reconhecimento de emoções e vigilância biométrica contínua. As proibições valem de imediato, e redes e instituições têm 12 meses para adaptar contratos e práticas.",
-     "foto": {
-      "src": "fotos/pedemeia.jpg",
-      "credito": "Antônio Cruz/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/mec-estabelece-regras-para-uso-de-ia-na-educacao-veja-destaques"
-      },
-      {
-       "n": "MEC",
-       "u": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/novembro/mec-estabelece-diretrizes-para-uso-responsavel-da-ia-na-educacao"
-      },
-      {
-       "n": "Telesíntese",
-       "u": "https://telesintese.com.br/mec-homologa-diretrizes-para-uso-de-ia-na-educacao-com-restricoes-a-vigilancia-biometrica/"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/inteligencia-artificial-nas-escolas-veja-o-que-muda-com-as-novas-regras-do-mec/"
-      }
-     ],
-     "destaque": false
-    },
-    {
-     "kicker": "Pé-de-Meia",
-     "quando": "Ontem",
-     "titulo": "Pé-de-Meia paga nova parcela de R$ 200 entre 23 e 30 de novembro; MEC quer estender o programa a toda a rede pública",
-     "resumo": "O pagamento segue o mês de nascimento do estudante. O ministro Leonardo Barchini disse que o governo pretende ampliar o benefício a todos os alunos do ensino médio público até o fim de 2027 e prepara uma versão universitária para 2027.",
-     "fontes": [
-      {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/04/pe-de-meia-paga-parcela-de-r-200-de-23-a-30-de-novembro-de-2026-por/"
-      },
-      {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202611/leonardo-barchini-201cestamos-comprometidos-a-expandir-o-pe-de-meia-para-todos-os-estudantes-da-rede-publica201d"
-      }
-     ]
     }
    ]
   },
@@ -963,51 +871,63 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "IPO da Anthropic, IA e COP31",
+   "nota": "Crise na Nvidia, IPO e IA",
    "itens": [
     {
-     "kicker": "Inteligência artificial",
-     "quando": "Ontem",
-     "titulo": "Anthropic atualiza prospecto de IPO e pode ser avaliada em até US$ 1,4 trilhão na Nasdaq",
-     "resumo": "Segundo a Reuters, a empresa pretende levantar até US$ 64,4 bilhões com ações entre US$ 70 e US$ 78, sob o código ANT, além de uma colocação privada com investidores como Google e Nvidia. A receita anualizada chegou a cerca de US$ 81 bilhões no fim de outubro.",
+     "kicker": "Nvidia",
+     "quando": "Hoje",
+     "titulo": "Conselho da Nvidia se reúne para decidir o futuro do CEO Jensen Huang; ações caem mais de 8% fora do pregão",
+     "resumo": "O Wall Street Journal informou que a empresa se preparava para afastar Huang, que admitiu no domingo ter sido infiel à mulher em meio à investigação sobre a empresária Alice Huang, suspeita de espionagem para a China. Até a madrugada, o resultado da reunião não havia sido divulgado; entre as opções citadas está transferi-lo para a presidência do conselho.",
      "fontes": [
       {
-       "n": "CNN Brasil/Reuters",
-       "u": "https://www.cnnbrasil.com.br/economia/money/negocios/anthropic-mira-avaliacao-de-us-14-trilhao-em-ipo/"
+       "n": "Reuters/Korea Times",
+       "u": "https://www.koreatimes.co.kr/world/20261112/nvidia-board-meets-to-decide-ceo-huangs-future-as-leadership-crisis-deepens"
       },
       {
-       "n": "Bloomberg Línea",
-       "u": "https://www.bloomberglinea.com.br/mercados/anthropic-solicita-abertura-de-capital-e-pode-se-tornar-primeira-empresa-de-ia-na-bolsa/"
+       "n": "Seoul Economic Daily",
+       "u": "https://en.sedaily.com/world/2026/11/12/nvidia-board-moves-to-oust-ceo-jensen-huang-in-late-night"
       },
       {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-money/2026/11/anthropic-mira-avaliacao-de-us-14-trilhao-em-ipo-aguardado-pelo-mercado/"
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/negocios/noticia/2026/11/12/senadores-eua-cobram-provas-exportacao-chips-nvidia-china"
+      }
+     ]
+    },
+    {
+     "kicker": "IPO",
+     "quando": "10/11",
+     "titulo": "Anthropic fixa faixa de US$ 70 a US$ 78 por ação e deve estrear na Nasdaq em 19 de novembro",
+     "resumo": "A dona do assistente Claude pode levantar dezenas de bilhões de dólares na oferta, que a colocaria entre as empresas mais valiosas do mundo. A avaliação estimada chega a US$ 1,4 trilhão no topo da faixa.",
+     "fontes": [
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/empresas-e-negocios/anthropic-define-faixa-de-preco-de-seu-ipo-entre-us-70-e-us-78-e-espera-iniciar-as-negociacoes-em-19-de-novembro-diz-fontes/"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/inovacao/inteligencia-artificial/anthropic-ipo-avaliacao-14-trilhao-nasdaq/"
       }
      ]
     },
     {
      "kicker": "Inteligência artificial",
-     "quando": "Hoje",
-     "titulo": "Balanço da CoreWeave faz Nasdaq subir 1,6%; ações da empresa saltam 25% e Nvidia avança quase 3%",
-     "resumo": "Os números da CoreWeave reacenderam as apostas em infraestrutura de IA depois da queda de terça, puxando também AMD e Broadcom. A Nvidia subiu mesmo após o banco Baird rebaixar a recomendação, citando incertezas sobre o CEO, a China e os investimentos das grandes empresas de nuvem.",
+     "quando": "Ontem",
+     "titulo": "Google libera ao público o Gemini 4 Carbon, com recurso que divide tarefas entre vários agentes",
+     "resumo": "Depois de duas semanas de acesso restrito, o modelo, descrito pela empresa como o mais forte que já lançou, ficou disponível para todos. O recurso Swarm, em teste, transforma um pedido em uma equipe de agentes; o preço introdutório dobra no fim de novembro.",
      "fontes": [
       {
-       "n": "Reuters/The Star",
-       "u": "https://www.thestar.com.my/tech/tech-news/2026/11/11/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-as-results-ease-bubble-fears"
+       "n": "iMasters",
+       "u": "https://imasters.com.br/noticia/google-lanca-gemini-4-carbon-com-swarm-de-agentes-e-preco-agressivo-por-token"
       },
       {
-       "n": "Reuters/MarketScreener",
-       "u": "https://www.marketscreener.com/news/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-as-results-ease-bubble-fears-ce785edbdc8bf322"
-      },
-      {
-       "n": "The Motley Fool",
-       "u": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-nvidia-rebounds-as-coreweave-earnings-reignite-the-ai-trade/"
+       "n": "Público",
+       "u": "https://publico.pt/2026/11/11/enter/noticia/google-abre-gemini-4-carbon-publico-poe-enxames-agentes-ia-trabalhar-2194559"
       }
      ]
     },
     {
      "kicker": "COP31",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Brasil leva à COP31 plano nacional contra o desmatamento e meta de restaurar 40 milhões de hectares em dez anos",
      "resumo": "A proposta prevê transformar o chamado Arco do Desmatamento em área de restauração e apoiar a Década da ONU de reflorestamento, de 2027 a 2036. O governo diz já ter recuperado 4,5 milhões de hectares de solos e pastagens degradados.",
      "foto": {
@@ -1028,30 +948,6 @@
        "u": "https://spdiario.com.br/noticias/politica/em-discurso-na-cop31-lula-cobra-paises-ricos-e-critica-o-novo-silencio-sobre-o-clima.html"
       }
      ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "Ontem",
-     "titulo": "Acionistas processam a Nvidia e Jensen Huang por omitir relação do CEO com suposta espiã chinesa",
-     "resumo": "A ação coletiva, apresentada na Califórnia, diz que a empresa inflou artificialmente o valor das ações ao não informar o caso; Trump afirmou que o FBI investiga. Huang admitiu aos funcionários ter sido infiel à esposa, a Nvidia abriu apuração interna e Pequim nega uma operação de espionagem.",
-     "fontes": [
-      {
-       "n": "Swissinfo/AFP",
-       "u": "https://www.swissinfo.ch/por/nvidia-e-huang-enfrentam-a%C3%A7%C3%A3o-coletiva-por-rela%C3%A7%C3%A3o-com-suposta-espi%C3%A3-chinesa/92357435"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/10/nvidia-fbi-esta-investigando-ceo-apos-caso-com-suposta-espia-chinesa-diz-trump"
-      },
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/trump-fbi-investiga-jensen-huang-ceo-nvidia"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/nvidia-cai-mais-de-4-apos-escandalo-mas-nao-afeta-setor-o-que-esperar-agora/"
-      }
-     ]
     }
    ]
   },
@@ -1059,51 +955,71 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Grammy Latino e mortes",
+   "nota": "Grammy Latino e estreias",
    "itens": [
     {
      "kicker": "Música",
      "quando": "Hoje",
-     "titulo": "Grammy Latino é amanhã em Las Vegas, com Anitta em Álbum do Ano e três brasileiros em Artista Revelação",
-     "resumo": "A cerimônia começa às 22h (Brasília) no MGM Grand Garden Arena, com transmissão do Multishow e do Bis. Loulu Gilberto, Dora Sanches e Zeca Veloso disputam Revelação; hoje à noite, Daddy Yankee recebe a homenagem de Personalidade do Ano.",
+     "titulo": "Grammy Latino é hoje em Las Vegas, com Anitta em Álbum do Ano e três brasileiros em Artista Revelação",
+     "resumo": "A cerimônia começa às 22h de Brasília, na MGM Grand Garden Arena, com transmissão do Multishow, do Bis e do Globoplay. Loulu Gilberto concorre também a Gravação do Ano, ao lado de Dora Sanches e Zeca Veloso em Revelação; Rosalía, Karol G, Jorge Drexler e Ca7riel & Paco Amoroso lideram com sete indicações cada.",
      "fontes": [
       {
        "n": "Rolling Stone Brasil",
-       "u": "https://rollingstone.com.br/musica/onde-assistir-ao-grammy-latino-2026-que-acontece-nesta-quinta-feira-12/"
+       "u": "https://rollingstone.com.br/musica/que-horas-comeca-o-grammy-latino-2026-que-acontece-nesta-quinta-feira-12/"
+      },
+      {
+       "n": "EFE/Infobae",
+       "u": "https://www.infobae.com/america/agencias/2026/11/12/jueves-12-de-noviembre-2026-0200-gmt/"
       },
       {
        "n": "Billboard Brasil",
-       "u": "https://billboard.com.br/grammy-latino-2026-e-os-brasileiros/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/entretenimento/luisa-sonza-e-daniela-mercury-serao-apresentadoras-do-grammy-latino-2026"
-      },
-      {
-       "n": "Latin Grammy",
-       "u": "https://cms.latingrammy.com/news/daddy-yankee-named-2026-latin-recording-academy-person-of-the-year/"
-      }
-     ]
-    },
-    {
-     "kicker": "Luto",
-     "quando": "Ontem",
-     "titulo": "Morre aos 76 anos Marcos Camino, fundador do grupo argentino de cumbia Los Palmeras",
-     "resumo": "O cantor foi encontrado morto no estúdio da banda, segundo a imprensa; a causa não foi divulgada. O grupo tem mais de cinco décadas de carreira.",
-     "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://tvprime.correiobraziliense.com.br/noticia/413392/celebridades/policia-e-acionada-e-querido-cantor-e-encontrado-sem-vida-momento-de-imensa-dor-11112026"
-      },
-      {
-       "n": "Área VIP",
-       "u": "https://www.areavip.com.br/famosos/morre-cantor-marcos-camino-aos-76-anos/"
+       "u": "https://billboard.com.br/grammy-latino-2026-artistas-brasileiros-premiacao/"
       }
      ]
     },
     {
      "kicker": "Morte",
-     "quando": "Ontem",
+     "quando": "Hoje",
+     "titulo": "Morre aos 91 anos a atriz americana Irma P. Hall, de 'Soul Food' e 'Matadores de Velhinha'",
+     "resumo": "Ex-professora de línguas em Dallas, ela começou a atuar tarde e atuou em filmes como 'Patch Adams', 'Colateral' e 'Amada'. A família anunciou a morte sem informar a causa.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/12/estados-unidos-morre-aos-91-anos-a-atriz-e-antiga-professora-irma-p-hall"
+      }
+     ]
+    },
+    {
+     "kicker": "Cinema",
+     "quando": "Hoje",
+     "titulo": "Semana de estreias tem Johnny Depp como Scrooge, novo filme de Asghar Farhadi e nacionais com Irandhir Santos",
+     "resumo": "Entre os lançamentos estão 'Ebenezer e os Fantasmas do Natal', de Ti West, e 'Contos Paralelos', de Farhadi, com Isabelle Huppert. Entre os brasileiros, chegam 'Enquanto o Céu Não Me Espera', 'Só Não Posso Dizer o Nome', de Helvécio Ratton, e o documentário 'Nação Ubuntu'.",
+     "fontes": [
+      {
+       "n": "AdoroCinema",
+       "u": "https://www.adorocinema.com/filmes/agenda/week-2026-11-12/"
+      },
+      {
+       "n": "Cinema e Afins",
+       "u": "https://cinemaeafins.com.br/estreias-da-semana-12-de-novembro-de-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Literatura",
+     "quando": "Hoje",
+     "titulo": "Restos de Miguel Ángel Asturias, Nobel de Literatura, voltam de Paris para a Guatemala",
+     "resumo": "Depois de homenagens de Estado, o escritor será sepultado no centro cultural que leva seu nome. Asturias, autor de 'O Senhor Presidente', recebeu o Nobel em 1967 e estava enterrado na França.",
+     "fontes": [
+      {
+       "n": "EFE/Infobae",
+       "u": "https://www.infobae.com/america/agencias/2026/11/12/jueves-12-de-noviembre-2026-0200-gmt/"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "10/11",
      "titulo": "Morre aos 85 anos o ator americano Stacy Keach, de 'Mike Hammer' e 'Prison Break'",
      "resumo": "Segundo a mulher dele, Malgosia Tomassi, o ator morreu em casa, na Polônia, após longa doença cardíaca. Em mais de sete décadas de carreira, fez também teatro shakespeariano e foi indicado ao prêmio Tony.",
      "fontes": [
@@ -1114,38 +1030,6 @@
       {
        "n": "Área VIP",
        "u": "https://www.areavip.com.br/famosos/morre-ator-stacy-keach-de-will-grace-e-prison-break-aos-85-anos/"
-      }
-     ]
-    },
-    {
-     "kicker": "Luto",
-     "quando": "Ontem",
-     "titulo": "Família confirma morte da ex-modelo e atriz Toukie Smith, pioneira entre modelos negras na alta-costura",
-     "resumo": "Ela morreu em 4 de novembro, em Nova York, de complicações da esclerose múltipla; os filhos gêmeos anunciaram a morte na terça. Desfilou para Yves Saint Laurent e Givenchy e atuou em '227' e 'Miami Vice'.",
-     "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://tvprime.correiobraziliense.com.br/noticia/413302/televisao/globo-acaba-de-confirmar-a-morte-de-querida-atriz-aos-74-anos-10112026"
-      }
-     ]
-    },
-    {
-     "kicker": "Artes",
-     "quando": "Ontem",
-     "titulo": "Esculturas de Aleijadinho saem do Brasil pela primeira vez para mostra nos Museus Vaticanos",
-     "resumo": "Sant'Ana Mestra, São Joaquim e São Manuel, do século 18, vêm de igrejas de Ouro Preto, Raposos e Caeté e ficam expostas de 17 de novembro a 13 de fevereiro no percurso que leva à Capela Sistina. A mostra marca os 200 anos de relações diplomáticas entre o Brasil e a Santa Sé.",
-     "fontes": [
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/gerais/2026/11/7535829-vaticano-sedia-a-partir-deste-mes-exposicao-com-obras-de-aleijadinho.html"
-      },
-      {
-       "n": "Dasartes",
-       "u": "https://dasartes.com.br/de-arte-a-z/aleijadinho-ganha-mostra-inedita-nos-museus-vaticanos/"
-      },
-      {
-       "n": "Arquidiocese de BH",
-       "u": "https://arquidiocesebh.org.br/noticias/exposicao-no-vaticano-tera-imagens-mineiras-do-mestre-aleijadinho/"
       }
      ]
     }
