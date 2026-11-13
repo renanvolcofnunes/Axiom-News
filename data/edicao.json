@@ -1,27 +1,27 @@
 {
  "data": "Sexta-feira, 13 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "13/11/2026 · 13h20 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 10h30",
- "fontes": 79,
+ "edicao": "Edição da noite",
+ "atualizado": "13/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h00",
+ "fontes": 68,
  "mercado": [
   {
-   "nome": "Ibovespa · 10h30",
-   "valor": "172.093 pts",
-   "var": "+0,45%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "172.458 pts",
+   "var": "+0,66%",
    "dir": "up"
   },
   {
-   "nome": "Dólar à vista · 10h05",
-   "valor": "R$ 5,66",
-   "var": "+0,21%",
+   "nome": "Dólar à vista · fechamento",
+   "valor": "R$ 5,657",
+   "var": "+0,11%",
    "dir": "up"
   },
   {
-   "nome": "Varejo · setembro (IBGE)",
-   "valor": "+0,2%",
-   "var": "1,7% em 12 meses",
+   "nome": "Brent · 18h",
+   "valor": "US$ 95,84",
+   "var": "+0,02%",
    "dir": "up"
   },
   {
@@ -50,7 +50,7 @@
   },
   {
    "hora": "Sáb 14 e dom 15/11",
-   "txt": "Lula participa como convidado da cúpula da Asean e se reúne com Ferdinand Marcos Jr., em Manila",
+   "txt": "Lula participa da cúpula da Asean, em Manila; INSS faz mutirão com 7,9 mil vagas em oito estados",
    "cat": "politica"
   },
   {
@@ -59,13 +59,13 @@
    "cat": "educacao"
   },
   {
-   "hora": "Ter 17/11",
-   "txt": "Senado vota os destaques do ajuste fiscal; Nvidia divulga balanço trimestral",
+   "hora": "Seg 16/11",
+   "txt": "STF retoma o julgamento virtual das regras de transição da escala 5x2; ministro da Agricultura negocia a carne suína nas Filipinas",
    "cat": "politica"
   },
   {
-   "hora": "20 a 30/11",
-   "txt": "Primeira Turma do STF julga no plenário virtual recurso de Flávio Bolsonaro contra restrições a passaportes",
+   "hora": "Ter 17/11",
+   "txt": "Senado vota os destaques do ajuste fiscal; Nvidia divulga balanço trimestral",
    "cat": "politica"
   }
  ],
@@ -162,44 +162,45 @@
   }
  ],
  "manchete": {
-  "kicker": "Ajuste fiscal",
-  "titulo": "Motta sinaliza votar o ajuste fiscal na Câmara na próxima semana; Bolsa sobe e dólar avança pela manhã",
-  "resumo": "O presidente da Câmara vai reunir líderes no início da semana para definir a data, depois que o Senado concluir, na terça (17), a votação dos quatro destaques pendentes. No mercado, o Ibovespa voltou aos 172 mil pontos, e o dólar seguiu em alta, perto de R$ 5,66.",
-  "foto": {
-   "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
-   "credito": "Lula Marques/Agência Brasil"
-  },
-  "entenda": "O projeto de lei complementar 299/2026 é a aposta do governo para fechar as contas de 2027 com superávit primário de 0,5% do PIB. A versão aprovada corta mais 10% dos benefícios tributários, além do corte feito no fim de 2025, mas poupa a desoneração da folha, os setores de tecnologia e semicondutores e a compra de veículos por pessoas com deficiência e autistas. O texto também reduz de 2,5% para 2% acima da inflação o limite de crescimento dos gastos quando os gatilhos de contenção forem acionados, retira até 2030 as receitas extraordinárias com exportação de petróleo da base do piso da saúde, dá 120 dias ao Congresso para regulamentar pagamentos acima do teto do funcionalismo e permite excluir da meta de 2026 até R$ 10,5 bilhões em subsídios ao diesel. A economia estimada chega a R$ 60 bilhões em 2027. Na quinta, a dúvida sobre o alcance do pacote ajudou a levar o dólar ao maior valor desde junho de 2025; nesta sexta, a moeda segue em alta, enquanto a Bolsa recupera parte das perdas.",
+  "kicker": "Aviação",
+  "titulo": "EUA suspendem decolagens em todos os aeroportos do país após falha de comunicação no controle aéreo",
+  "resumo": "A FAA, agência de aviação americana, mandou manter em solo todos os voos com partida dos EUA na tarde desta sexta, sem prazo para a retomada. Segundo o secretário de Transportes, Sean Duffy, o problema atingiu todos os centros de controle de rotas.",
+  "entenda": "Os centros de controle de tráfego aéreo em rota coordenam os aviões entre um aeroporto e outro; sem comunicação com eles, a FAA decidiu interromper as partidas por segurança, citando \"circunstâncias extraordinárias\". Aviões que já estavam no ar puderam seguir para pouso, alguns com espera, e voos internacionais com destino aos EUA passaram a ser avaliados caso a caso. Segundo o Flightradar24, cerca de 3.100 aeronaves voavam para aeroportos americanos no momento da ordem, e o FlightAware contava quase 7 mil voos atrasados ou cancelados, segundo a Reuters. Fontes ouvidas pela CNN disseram que as informações preliminares não apontam para ataque cibernético. A última paralisação nacional, em janeiro de 2023, durou menos de duas horas, mas provocou mais de 1.300 cancelamentos e cerca de 10 mil atrasos.",
   "fatos": [
-   "Texto-base aprovado no Senado por 45 a 31; destaques ficam para terça (17)",
-   "Governo quer o ajuste aprovado antes da votação do Orçamento de 2027",
-   "Às 10h30, Ibovespa subia 0,45%, e o dólar à vista avançava 0,21%"
+   "Ordem vale \"até novo aviso\", sem horário para a retomada",
+   "Cerca de 3.100 aviões estavam a caminho de aeroportos dos EUA",
+   "Aeroportos como Atlanta, Boston e Miami pedem que passageiros consultem as companhias"
   ],
   "fontes": [
    {
     "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana",
-    "d": "calendário na Câmara"
+    "u": "https://www.metropoles.com/mundo/voos-nos-eua-foram-suspensos-apos-problema-de-comunicacao-diz-secretario",
+    "d": "declaração de Duffy"
    },
    {
-    "n": "Tribuna do Sertão",
-    "u": "https://www.tribunadosertao.com.br/financas/2026/11/13/1020811-ajuste-fiscal-hugo-motta-vai-reunir-lideres-no-comeco-da-semana-que-vem-para-definir-votacao-na-camara",
-    "d": "reunião de líderes"
+    "n": "Jovem Pan",
+    "u": "https://jovempan.com.br/mundo/entenda-por-que-os-eua-suspenderam-as-decolagens-em-todo-o-pais/",
+    "d": "causa e números"
    },
    {
-    "n": "Senado Notícias",
-    "u": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
-    "d": "placar e conteúdo"
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/mundo/eua-suspendem-decolagens-em-todos-os-aeroportos-do-pais-por-razoes-de-seguranca/",
+    "d": "ordem da FAA"
    },
    {
-    "n": "TV Senado",
-    "u": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/11/lider-da-oposicao-diz-que-ajuste-fiscal-aumenta-impostos-e-nao-corta-gastos",
-    "d": "críticas da oposição"
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/mundo/mais-de-mil-avioes-seguem-no-ar-apos-suspensao-nos-eua",
+    "d": "aviões no ar"
    },
    {
-    "n": "Portal do Agronegócio",
-    "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-sobe-a-r-5-66-e-ibovespa-retoma-172-mil-pontos-com-pacote-fiscal-no-radar",
-    "d": "reação do mercado"
+    "n": "Exame",
+    "u": "https://exame.com/mundo/eua-suspendem-decolagens-de-voos-em-todos-os-aeroportos-do-pais/",
+    "d": "alcance da suspensão"
+   },
+   {
+    "n": "ABC News",
+    "u": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
+    "d": "cobertura nos EUA"
    }
   ]
  },
@@ -208,13 +209,85 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Operação da PF, ajuste fiscal e STF",
+   "nota": "Escala 5x2 no STF, ajuste fiscal e PF",
    "itens": [
+    {
+     "kicker": "Escala 5x2",
+     "quando": "Hoje",
+     "titulo": "STF forma quatro votos para manter a escala 5x2 a partir de 16 de dezembro; Câmara pede que Corte derrube seis pontos da decisão de Dino",
+     "resumo": "Dino, Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes votaram no plenário virtual para referendar a decisão que mantém o calendário da jornada de 42 horas com dois descansos semanais; o julgamento continua na segunda (16). A Câmara concorda com a data, mas contesta regras de transição fixadas pelo relator.",
+     "lados": [
+      {
+       "quem": "Câmara dos Deputados",
+       "txt": "Pede que o STF não substitua escolhas do Congresso e derrube pontos como a jornada diária de até 8h24 sem acordo coletivo e o prazo de 180 dias para o Legislativo regulamentar regimes especiais."
+      },
+      {
+       "quem": "CNC e CNI",
+       "txt": "As confederações do comércio e da indústria recorreram ao STF alegando que dois meses de adaptação são insuficientes para reorganizar as escalas e pedem prazo maior."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/fim-da-6x1-camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino"
+      },
+      {
+       "n": "A Tribuna RJ",
+       "u": "https://www.atribunarj.com.br/materia/stf-tem-quatro-votos-para-manter-inicio-da-escala-5-x-2-em-dezembro"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/congresso/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-de-flavio-dino-ao-fim-da-escala-6x1"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-mantem-prazo-inicial-da-5x2-mas-flexibiliza-regra-de-transicao"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Hoje",
+     "titulo": "Kassab elogia ajuste fiscal e acena ao governo; oposição diz que pacote aumenta impostos e tenta mudar limite de gastos na terça",
+     "resumo": "O presidente do PSD disse em São Paulo que gostou do texto aprovado no Senado e quer colaborar com Lula, mas que cargos em ministérios são secundários para o partido. Hugo Motta deve definir com líderes, no início da semana, a data de votação na Câmara, depois que o Senado analisar quatro destaques na terça (17).",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
+      "credito": "Lula Marques/Agência Brasil"
+     },
+     "lados": [
+      {
+       "quem": "Governo e aliados",
+       "txt": "Afirmam que o pacote, com melhora estimada de até R$ 60 bilhões nas contas de 2027, garante estabilidade fiscal e querem aprová-lo antes do Orçamento."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "O líder Rogerio Marinho (PL-RN) diz que o projeto eleva a carga tributária sem cortar despesas, reduz repasses aos estados e tira da meta R$ 10,5 bilhões em subsídio ao diesel."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/congresso/2026/11/13/kassab-diz-que-gostou-do-ajuste-fiscal-aprovado-no-senado-e-que-quer-colaborar-com-lula"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana"
+      },
+      {
+       "n": "TV Senado",
+       "u": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/11/lider-da-oposicao-diz-que-ajuste-fiscal-aumenta-impostos-e-nao-corta-gastos"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/aliados-lula-rejeitam-ajuste-fiscal-contas-publicas/"
+      }
+     ]
+    },
     {
      "kicker": "Investigação",
      "quando": "Hoje",
-     "titulo": "PF faz nova fase da operação que apura uso de emendas na produção de 'Dark Horse', filme sobre Jair Bolsonaro",
-     "resumo": "A segunda fase da Operação Make Up cumpriu um mandado de busca em Brasília, autorizado pelo STF; a PF não identificou o alvo. O inquérito apura suspeitas de peculato, lavagem de dinheiro e fraude em licitações e se recursos ligados ao filme custearam a permanência de Eduardo Bolsonaro nos EUA.",
+     "titulo": "PF faz nova fase da operação sobre emendas ligadas a 'Dark Horse' e mira ex-assessor de Mario Frias",
+     "resumo": "A segunda fase da Operação Make Up cumpriu um mandado de busca em Brasília contra um investigado que não havia sido localizado na primeira etapa, apontado como ex-assessor do deputado. O inquérito apura suspeitas de peculato, lavagem de dinheiro e fraude em licitações na destinação de emendas à produtora do filme sobre Jair Bolsonaro.",
      "lados": [
       {
        "quem": "Investigação",
@@ -227,88 +300,36 @@
      ],
      "fontes": [
       {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/pf-deflagra-nova-fase-da-operacao-sobre-desvio-de-emendas-para-dark-horse/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/pf-deflagra-segunda-fase-de-operacao-para-investigar-desvio-de-emendas-para-o-filme-dark-horse,7b60dbcced556660e425e1ec616247bdp76de0ov.html"
+      },
+      {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/politica/congresso/2026/11/13/policia-federal-faz-nova-fase-de-operacao-sobre-filme-de-jair-bolsonaro"
       },
       {
-       "n": "Agora RN",
-       "u": "https://agorarn.com.br/brasil/pf-segunda-fase-operacao-make-up-dark-horse/"
-      },
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4368573/pf-faz-nova-operacao-sobre-emendas-ligadas-a-filme-de-bolsonaro"
-      },
-      {
-       "n": "Sim Notícias/CNN Brasil",
-       "u": "https://simnoticias.com.br/cnn-brasil/pf-deflagra-nova-fase-da-operacao-sobre-desvio-de-emendas-para-dark-horse/"
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/brasil/pf-operacao-desvio-emendas-dark-horse/"
       }
      ]
     },
     {
-     "kicker": "Ajuste fiscal",
+     "kicker": "Pesquisa",
      "quando": "Hoje",
-     "titulo": "Governo pede pressa à Câmara; oposição diz que ajuste fiscal aumenta impostos e tenta mudar limite de gastos na terça",
-     "resumo": "O ministro José Guimarães agradeceu ao Senado e pediu celeridade a Hugo Motta, que deve definir a data com os líderes no início da semana. Antes, os senadores analisam na terça (17) quatro destaques, entre eles a proposta da oposição de reduzir o crescimento permitido das despesas.",
-     "lados": [
-      {
-       "quem": "Governo",
-       "txt": "Afirma que o pacote, com melhora estimada de até R$ 60 bilhões nas contas de 2027, garante estabilidade fiscal e quer aprová-lo antes do Orçamento."
-      },
-      {
-       "quem": "Oposição",
-       "txt": "O líder Rogerio Marinho (PL-RN) diz que o projeto eleva a carga tributária sem cortar despesas, reduz repasses aos estados e tira da meta R$ 10,5 bilhões em subsídio ao diesel."
-      }
-     ],
+     "titulo": "Primeira AtlasIntel após a reeleição mostra 50,3% de desaprovação e 47,7% de aprovação ao governo Lula",
+     "resumo": "Na comparação com outubro, os números oscilaram dentro da margem de erro de 2 pontos: 39,1% avaliam o trabalho do presidente como bom ou ótimo e 47,9% como ruim ou péssimo. O levantamento, feito com a Bloomberg, ouviu 4.946 pessoas entre 5 e 9 de novembro.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana"
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7538370-governo-lula-e-desaprovado-por-503-e-aprovado-por-477-diz-pesquisa.html"
       },
       {
-       "n": "TV Senado",
-       "u": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/11/lider-da-oposicao-diz-que-ajuste-fiscal-aumenta-impostos-e-nao-corta-gastos"
-      },
-      {
-       "n": "Diário do RN",
-       "u": "https://diariodorn.com.br/apos-senado-ajuste-fiscal-vira-incognita-na-camara-governo-busca-motta/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/economia/aliados-lula-rejeitam-ajuste-fiscal-contas-publicas/"
-      }
-     ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Hoje",
-     "titulo": "STF marca para 20 a 30 de novembro julgamento de recurso de Flávio Bolsonaro contra restrições a passaportes",
-     "resumo": "A ministra Cármen Lúcia, presidente da Primeira Turma, pautou o caso no plenário virtual. O senador deixou o país em 27 de outubro e chegou a Miami usando a cidadania italiana; pesquisa AtlasIntel/Bloomberg divulgada hoje mostra 52% avaliando a saída como errada e 46% como correta.",
-     "lados": [
-      {
-       "quem": "Defesa de Flávio",
-       "txt": "Diz que a ordem se baseou em dados que não mostram participação em ilícitos, contesta o uso de falas de Eduardo Bolsonaro como prova de risco de fuga e pede que o caso saia de Moraes."
-      },
-      {
-       "quem": "Decisão de Moraes",
-       "txt": "Determinou a entrega dos passaportes e proibiu a saída do país após relatório da PF apontar risco de o senador permanecer no exterior e contato com advogado investigado."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/manoela-alcantara/carmen-pauta-recurso-de-flavio-contra-apreensao-de-passaportes-por-moraes"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-embarca-para-os-estados-unidos-com-passaporte-europeu/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/politica/pesquisa-atlas-52-reprovam-saida-flavio-bolsonaro-pais/"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/politica/flavio-bolsonaro-fugiu-do-brasil-e-esta-em-aviao-a-caminho-dos-eua/"
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/11/7538417-governo-lula-e-desaprovado-por-503-e-aprovado-por-477-indica-atlasintel.html"
       }
      ]
     },
@@ -316,57 +337,19 @@
      "kicker": "Diplomacia",
      "quando": "Hoje",
      "titulo": "Lula chega a Manila e quer elevar o Brasil a parceiro de diálogo da Asean, o nível mais alto de relação com o bloco",
-     "resumo": "A agenda oficial ocorre no sábado e no domingo, com a cúpula da Asean, reuniões com Ferdinand Marcos Jr. e um fórum empresarial. É a primeira visita de Estado de um presidente brasileiro em exercício às Filipinas; o Itamaraty diz que os temas serão comércio, investimentos e desenvolvimento.",
+     "resumo": "O presidente participa da cúpula da Asean no fim de semana e tenta elevar o Brasil a parceiro de diálogo do bloco. A comitiva também quer reverter a suspensão, por 60 dias a partir de 24 de novembro, das compras de carne suína brasileira pelas Filipinas, principal destino do produto.",
      "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/depois-da-turquia-lula-chega-as-filipinas-para-cupula-da-asean/"
+      },
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-chega-filipinas-brasil-quer-ser-parceiro-de-dialogo-da-asean"
       },
       {
-       "n": "Philstar",
-       "u": "https://www.philstar.com/headlines/2026/11/13/2569907/watch-brazils-lula-lands-manila-talks-marcos-asean-summit"
-      },
-      {
-       "n": "Carta Capital",
-       "u": "https://www.cartacapital.com.br/mundo/lula-chega-as-filipinas-para-participar-da-cupula-do-sudeste-asiatico/"
-      },
-      {
-       "n": "Manila Bulletin",
-       "u": "https://mb.com.ph/2026/11/13/brazils-lula-arrives-in-philippines-for-historic-state-visit-asean-summit"
-      }
-     ]
-    },
-    {
-     "kicker": "Câmara",
-     "quando": "Ontem",
-     "titulo": "Sóstenes ameaça deixar a liderança do PL se o partido apoiar a reeleição de Hugo Motta",
-     "resumo": "Sem consenso, a bancada fará uma consulta reservada aos 121 deputados eleitos, com resultado previsto em até 15 dias. O PL terá a maior bancada da Câmara em 2027.",
-     "lados": [
-      {
-       "quem": "Ala contrária a Motta",
-       "txt": "Sóstenes Cavalcante e deputados bolsonaristas defendem candidatura própria, citando o apoio de Motta a Lula na campanha presidencial."
-      },
-      {
-       "quem": "Ala favorável a acordo",
-       "txt": "Altineu Côrtes e Valdemar Costa Neto avaliam que, fora do bloco majoritário, o partido pode perder espaço na Mesa, em comissões como a CCJ e em relatorias."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/brasil/camara-sostenes-ameaca-deixar-lideranca-do-pl-se-partido-apoiar-motta/"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/politica/pl-adia-definicao-sobre-apoiar-motta-a-presidencia-da-camara"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/cafe-com-a-gazeta/pl-adia-decisao-sobre-apoio-a-reeleicao-de-hugo-motta/"
-      },
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pl-mantem-indefinicao-sobre-presidencia-da-camara-em-meio-a-racha-sobre-apoio-a-motta/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/lula-chega-as-filipinas-em-busca-de-destravar-novos-mercados-e-impasses"
       }
      ]
     }
@@ -376,29 +359,81 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Manhã na Bolsa, varejo e Wall Street",
+   "nota": "Fechamento, carne suína e vazamento",
    "itens": [
     {
      "kicker": "Mercado",
      "quando": "Hoje",
-     "titulo": "Ibovespa sobe 0,45% e volta aos 172 mil pontos pela manhã; dólar segue em alta, a R$ 5,66",
-     "resumo": "Às 10h30, o índice marcava 172.093 pontos, recuperando parte da queda de quinta; às 10h05, o dólar à vista subia 0,21%. Investidores acompanham a tramitação do ajuste fiscal, o varejo acima do esperado e os juros americanos, que avançam; em Nova York, as bolsas abriram em alta.",
+     "titulo": "Ibovespa sobe 0,66% e fecha a 172.458 pontos; dólar termina a R$ 5,657, no maior valor desde junho de 2025",
+     "resumo": "Na semana, a Bolsa ganhou 2,35%, puxada por varejistas e petroleiras, enquanto o dólar acumulou alta de 2,63%. Pesaram as dúvidas sobre o alcance do ajuste fiscal; a inflação ao produtor nos EUA abaixo do esperado aliviou o temor com os juros americanos.",
+     "foto": {
+      "src": "fotos/real.jpg",
+      "credito": "José Cruz/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Portal do Agronegócio",
-       "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-sobe-a-r-5-66-e-ibovespa-retoma-172-mil-pontos-com-pacote-fiscal-no-radar"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana"
       },
       {
-       "n": "Folha de Curitiba",
-       "u": "https://folhadecuritiba.com.br/ibovespa-abre-em-alta-de-017-com-foco-no-ajuste-fiscal-e-em-gigantes-de-tecnologia/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-13-novembro"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/ibovespa-ensaia-recuperacao-enquanto-dolar-renova-maxima/"
-      },
+       "n": "TradeMap",
+       "u": "https://trademap.com.br/noticias/news-8601458"
+      }
+     ]
+    },
+    {
+     "kicker": "Exportação",
+     "quando": "Hoje",
+     "titulo": "Comitiva chega a Manila para tentar reverter suspensão de 60 dias da carne suína brasileira nas Filipinas",
+     "resumo": "As Filipinas compraram 25,9% da carne suína exportada pelo Brasil em 2025, cerca de US$ 885 milhões, e alegam que a importação derrubou preços pagos aos produtores locais. O ministro da Agricultura, André de Paula, tem reunião marcada para segunda (16) com autoridades do país.",
+     "fontes": [
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-13-novembro-2026/"
+       "u": "https://www.cnnbrasil.com.br/agro/brasil-desembarca-nas-filipinas-para-tentar-reverter-suspensao-de-suinos/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/parana/suspensao-nas-filipinas-ameaca-exportacoes-de-carne-suina-do-parana/"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/mundo/lula-chega-as-filipinas-em-meio-a-suspensao-da-carne-suina-brasileira"
+      }
+     ]
+    },
+    {
+     "kicker": "Dados pessoais",
+     "quando": "Ontem",
+     "titulo": "Caixa Seguridade informa ataque hacker e vazamento de dados cadastrais de 7,6 milhões de clientes",
+     "resumo": "Foram expostos nomes e CPFs e, em parte dos casos, endereços, telefones, e-mails e datas de nascimento; a empresa diz não haver sinal de acesso a senhas, dados bancários ou saldos de previdência. A recomendação é desconfiar de contatos que peçam pagamentos, códigos ou senhas em nome da Caixa.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-seguridade-informa-ataque-cibernetico-e-vazamento-de-dados"
+      },
+      {
+       "n": "Jornal Noroeste",
+       "u": "https://jornalnoroeste.com.br/noticia/seguranca/caixa-seguridade-informa-vazamento-de-dados-pessoais-de-7-6-milhoes-de-clientes"
+      },
+      {
+       "n": "93 Notícias",
+       "u": "https://93noticias.com.br/caixa-seguridade-confirma-ataque-cibernetico-e/"
+      }
+     ]
+    },
+    {
+     "kicker": "Balanços",
+     "quando": "Hoje",
+     "titulo": "Nubank lucra US$ 1,09 bilhão no trimestre; Braskem tem prejuízo de R$ 1,07 bilhão e Cemig dobra o lucro",
+     "resumo": "A temporada de resultados do terceiro trimestre também trouxe lucro de R$ 1,45 bilhão da Rede D'Or e queda de 36% no ganho do Grupo Mateus. O IRB Re reverteu o lucro de um ano antes e teve prejuízo contábil de R$ 456 milhões.",
+     "fontes": [
+      {
+       "n": "Mercado Hoje",
+       "u": "https://mercadohoje.uai.com.br/2026/11/13/noticias-hoje-13-11-2026"
       }
      ]
     },
@@ -425,70 +460,6 @@
        "u": "https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-varejo-ppi-balancos"
       }
      ]
-    },
-    {
-     "kicker": "Exterior",
-     "quando": "Hoje",
-     "titulo": "Inflação ao produtor nos EUA fica um pouco abaixo do esperado, e Wall Street abre em alta",
-     "resumo": "Na abertura, o Dow Jones subia 0,37%, o S&P 500, 0,32%, e o Nasdaq, 0,17%. O dado trouxe algum alívio depois de dirigentes do Fed dizerem nesta semana que a inflação segue bem acima da meta, o que vinha fortalecendo o dólar no mundo.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-13-novembro-2026/"
-      },
-      {
-       "n": "Portal do Agronegócio",
-       "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/bolsas-ibovespa-retoma-172-mil-pontos-europa-avanca-e-tecnologia-cai-na-asia"
-      }
-     ]
-    },
-    {
-     "kicker": "Bancos",
-     "quando": "Ontem",
-     "titulo": "Ações do Banco do Brasil caem 8,3% e fecham no menor nível desde 2023 após lucro recuar 66,5%",
-     "resumo": "O lucro ajustado do terceiro trimestre foi de R$ 1,27 bilhão, bem abaixo dos R$ 3,3 bilhões esperados, e a projeção para 2026 caiu de R$ 18 bilhões a R$ 22 bilhões para R$ 9 bilhões a R$ 11 bilhões. A inadimplência acima de 90 dias subiu para 6,08%, puxada pelo crédito rural, e o banco reduziu os dividendos ao mínimo legal.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/acoes-do-banco-do-brasil-caem-11-apos-balanco-do-3o-trimestre"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/economia/banco-do-brasil-tomba-na-bolsa-apos-queda-no-lucro-e-corte-de-dividendos-em-2026,c79cb4a995442b824b9de5ef22b163f5u0qt78oz.html"
-      },
-      {
-       "n": "O Repórter",
-       "u": "https://oreporter.com/economia/dolar-sobe-5-651-pacote-fiscal-ipca-ibovespa-fecha-queda-12-novembro"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/bbas3-acoes-do-banco-do-brasil-desabam-10-com-resultado-abaixo-em-todas-as-frentes/"
-      }
-     ]
-    },
-    {
-     "kicker": "Inflação",
-     "quando": "Ontem",
-     "titulo": "Inflação desacelera para 0,14% em outubro com conta de luz mais barata, mas acumulado de 12 meses sobe a 4,63%",
-     "resumo": "O resultado do IBGE ficou abaixo dos 0,25% esperados pelo mercado; a bandeira verde derrubou a energia em 1,92%, e os transportes tiveram a maior queda para outubro desde o Plano Real. Alimentos subiram 1,04%, puxados por tomate e cebola, e o índice segue acima do teto da meta, de 4,5%, pelo segundo mês.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/oLlnx28MN0MqbDgSEwHF5T9XCss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/energia_eletrica_interruptor_de_luz_energia070720211248.jpg?itok=SnuOYYsW",
-      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inflacao-perde-forca-e-fica-em-014-em-outubro-conta-de-luz-cai"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/economia/ipca-inflacao-outubro-2026-dados-ibge/"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/economia/ipca-desacelera-fica-em-014-em-outubro-e-acumula-alta-de-463-em-12-meses/"
-      }
-     ]
     }
    ]
   },
@@ -496,25 +467,45 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporais, operação no RS e feriado",
+   "nota": "Temporais em SP e mutirão do INSS",
    "itens": [
     {
-     "kicker": "Clima",
+     "kicker": "Temporais",
      "quando": "Hoje",
-     "titulo": "Defesa Civil emite alerta severo de ventania e raios para as zonas sul e leste de São Paulo e Diadema",
-     "resumo": "O aviso saiu por volta do meio-dia, um dia depois de temporais alagarem ruas e interromperem trens na Grande São Paulo. O sábado deve ser seco, mas o CGE prevê pancadas fortes no domingo à tarde, com rajadas acima de 50 km/h, no horário do Enem.",
+     "titulo": "Chuva forte com granizo deixa mais de 100 mil imóveis sem luz na Grande São Paulo",
+     "resumo": "Segundo a Enel, cerca de 104 mil imóveis estavam sem energia no início da tarde, depois de a Defesa Civil emitir alerta severo para toda a região metropolitana, com raios e ventos fortes. Houve granizo nas zonas leste e norte, quedas de árvores e alagamento que interrompeu a linha 10-Turquesa da CPTM.",
      "fontes": [
       {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/variedades/defesa-civil-de-sp-emite-alerta-severo-de-chuva-para-capital-e-regiao-metropolitana-1.1193929"
+       "n": "ND+",
+       "u": "https://ndmais.com.br/tempo/chuva-forte-em-sao-paulo-mais-de-100-mil-imoveis-sem-energia/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-ventos-e-raios-na-capital-e-grande-sp/"
+       "n": "Exame",
+       "u": "https://exame.com/brasil/chuva-forte-atinge-sp-e-defesa-civil-emite-alertas-de-temporais-veja-previsao-para-o-fim-de-semana/"
       },
       {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/defesa-civil-alerta-severo-chuva-sao-paulo-13-novembro"
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/13/chuva-em-sao-paulo-provoca-granizo-e-deixa-capital-em-alerta-para-alagamentos-nesta-sexta/"
+      }
+     ]
+    },
+    {
+     "kicker": "Previdência",
+     "quando": "Hoje",
+     "titulo": "INSS faz mutirão com 7,9 mil vagas de perícia e avaliação social em oito estados neste fim de semana",
+     "resumo": "Os atendimentos no sábado (14) e no domingo (15) servem para antecipar perícias médicas e avaliações sociais de quem já está na fila. As vagas são distribuídas em unidades de oito estados e precisam de agendamento prévio.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/inss-mutirao-oferece-79-mil-vagas-em-8-estados-neste-fim-de-semana"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/inss-abre-7-9-mil-vagas-em-mutirao-neste-fim-de-semana"
+      },
+      {
+       "n": "NSC Total",
+       "u": "https://www.nsctotal.com.br/economia/mutirao-inss-pericias-7959-vagas-oito-estados"
       }
      ]
     },
@@ -527,22 +518,6 @@
       {
        "n": "Sim Notícias/CNN Brasil",
        "u": "https://simnoticias.com.br/cnn-brasil/operacao-mira-fraudes-em-contratacoes-emergenciais-apos-enchentes-no-rs/"
-      }
-     ]
-    },
-    {
-     "kicker": "Segurança",
-     "quando": "Ontem",
-     "titulo": "PM prende suspeito e acha duas casas-bomba com cocaína e material de refino em Paraisópolis",
-     "resumo": "Um cão farejador indicou os imóveis na comunidade da zona sul de São Paulo, que foram preservados para perícia. A PM liga o reforço das ações ao cancelamento, por segurança, de um evento musical gratuito no bairro no fim de semana.",
-     "fontes": [
-      {
-       "n": "Sim Notícias/CNN Brasil",
-       "u": "https://simnoticias.com.br/cnn-brasil/policia-prende-suspeito-e-encontra-duas-casas-bomba-em-paraisopolis-sp/"
-      },
-      {
-       "n": "Agência SP",
-       "u": "https://www.agenciasp.sp.gov.br/policia-militar-intensifica-operacoes-em-paraisopolis-na-zona-sul-de-sao-paulo-e-descobre-casa-bomba/"
       }
      ]
     },
@@ -568,8 +543,42 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ucrânia, Gaza e Estados Unidos",
+   "nota": "Ormuz, Ucrânia e Gaza",
    "itens": [
+    {
+     "kicker": "Irã",
+     "quando": "Hoje",
+     "titulo": "Irã diz que navio de gás natural explodiu ao bater em mina em Ormuz e afirma ter destruído radar dos EUA no Bahrein",
+     "resumo": "A Guarda Revolucionária afirma que a embarcação ignorou avisos e usou uma rota não autorizada com escolta de caças americanos; não houve confirmação independente nem informação sobre vítimas. Na véspera, Trump retirou JD Vance das negociações e disse que os EUA não precisam de acordo com Teerã.",
+     "lados": [
+      {
+       "quem": "Irã",
+       "txt": "Declarou o estreito fechado desde a ofensiva de fevereiro e diz que só as rotas autorizadas por suas Forças Armadas são seguras."
+      },
+      {
+       "quem": "Estados Unidos",
+       "txt": "Negam haver bloqueio, dizem controlar militarmente a passagem e escoltar navios para manter as exportações de petróleo do Golfo."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/mundo/navio-que-transportava-gas-natural-explode-apos-colidir-com-mina-em-ormuz-diz-ira/"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/mundo/ira-relata-explosao-de-navio-carregado-de-gnl-em-ormuz-e-de-sistema-de-radar-dos-eua-no-bahrein/"
+      },
+      {
+       "n": "24 Notícias",
+       "u": "https://24noticias.sapo.pt/atualidade/artigos/irao-reivindica-ataque-a-radar-dos-eua-no-bahrein"
+      },
+      {
+       "n": "Just Security",
+       "u": "https://www.justsecurity.org/164357/early-edition-november-13-2026/"
+      }
+     ]
+    },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
@@ -645,38 +654,18 @@
      ]
     },
     {
-     "kicker": "Estados Unidos",
+     "kicker": "Papa",
      "quando": "Ontem",
-     "titulo": "Trump tira JD Vance das negociações com o Irã e diz que os EUA não precisam de acordo com Teerã",
-     "resumo": "Em rede social, o presidente pediu que o vice se concentre no combate à criminalidade em estados governados por democratas. A mudança ocorre após Vance atribuir parte da derrota republicana nas eleições de 3 de novembro aos efeitos econômicos da guerra com o Irã.",
+     "titulo": "Papa Leão XIV percorre Lima, encontra Keiko Fujimori e reúne 52 mil jovens no Estádio Nacional",
+     "resumo": "Na Catedral, o papa pediu justiça, perdão e reparação nos casos de abuso no clero e falou em reconciliação no Peru. A viagem pela América do Sul, que passou por Uruguai e Argentina, segue por Chiclayo, Cusco e Pucallpa e termina na segunda (16).",
      "fontes": [
       {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/13/donald-trump-afasta-jd-vance-das-negociacoes-de-paz-e-diz-que-washington-nao-precisa-de-um-acordo-com-o-irao/"
-      },
-      {
-       "n": "Daily Beast",
-       "u": "https://www2.thedailybeast.com/trump-benches-vance-in-humiliating-move"
-      }
-     ]
-    },
-    {
-     "kicker": "Nova York",
-     "quando": "Ontem",
-     "titulo": "Bombeiros seguem buscas após desabamento de prédio no Brooklyn que deixou oito mortos",
-     "resumo": "O edifício de três andares caiu na quarta sobre um terreno vizinho onde havia obras de escavação, no bairro de Flatbush; a empreiteira já havia sido multada por trabalhar apesar de uma ordem de paralisação. O prefeito Zohran Mamdani disse que o Departamento de Edificações vai investigar as causas, e as autoridades ainda não sabem se há pessoas sob os escombros.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/buscas-por-vitimas-continuam-apos-colapso-de-predio-no-brooklyn/"
+       "n": "El Comercio",
+       "u": "https://elcomercio.pe/peru/papa-leon-xiv-en-peru-en-vivo-hoy-minuto-a-minuto-actividades-rutas-agenda-de-su-visita-y-ultimas-noticias-del-sumo-pontifice-vaticano-lbposting-noticia/"
       },
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/nova-york-predio-desaba-no-brooklyn-e-deixa-ao-menos-oito-mortos"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/video/2026/11/13/noticias-do-dia-13-de-novembro-2026-manha"
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/um-mes-apos-cirurgia-papa-leao-inicia-viagem-america-do-sul"
       }
      ]
     }
@@ -686,29 +675,45 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Seleção, data Fifa e finais",
+   "nota": "Seleção, Liga das Nações e F1",
    "itens": [
     {
      "kicker": "Seleção",
      "quando": "Hoje",
-     "titulo": "Ancelotti define a Seleção para o Japão com Rayan no meio, Carlos Augusto na lateral e Morisco no gol",
-     "resumo": "O time provável tem Wesley, Jair, Gabriel Magalhães e Carlos Augusto; Andrey Santos, Bruno Guimarães e Rayan; Estêvão, Raphinha, novo camisa 10, e Vini Jr. O amistoso é no sábado (14), às 7h15, no Estádio Nacional de Singapura, com transmissão da TV Globo e do SporTV.",
+     "titulo": "Seleção faz último treino em Singapura com os 25 convocados; Brasil enfrenta o Japão às 7h15 de sábado",
+     "resumo": "A provável escalação tem Pedro Morisco; Wesley, Jair, Gabriel Magalhães e Douglas Santos ou Carlos Augusto; Andrey Santos, Bruno Guimarães e Rayan; Estêvão, Raphinha e Vini Jr. Ancelotti deve manter a base e deixar os testes para o jogo contra Singapura, na terça (17).",
      "fontes": [
       {
-       "n": "VAVEL",
-       "u": "https://www.vavel.com/br/futebol/2026/11/13/selecao-brasileira/1279122-ancelotti-define-selecao-com-novidade-para-pegar-o-japao.html"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/brasil/selecao-brasileira-faz-ultimo-treino-antes-da-partida-contra-o-japao,01493133ee6e868ae73d437463c6d5femz67l6qx.html"
       },
       {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/ancelotti-rayan-meio-brasil-japao-escalacao"
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4368686/brasil-reencontra-japao-apos-copa-veja-provavel-time-de-ancelotti"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/confira-a-provavel-escalacao-do-brasil-para-amistoso-contra-o-japao"
+       "n": "Exame",
+       "u": "https://exame.com/esporte/selecao-brasileira-quando-e-o-amistoso-do-brasil-contra-o-japao/"
+      }
+     ]
+    },
+    {
+     "kicker": "Liga das Nações",
+     "quando": "Hoje",
+     "titulo": "Alemanha vence a Sérvia por 3 a 1 em Belgrado e segue viva; Holanda goleia a Grécia por 7 a 0 e se classifica",
+     "resumo": "Wirtz e Gruda marcaram, além de um gol contra de Babic, num estádio sem torcida por punição da Uefa; a Sérvia terminou com dois expulsos. Com 8 pontos, a Alemanha decide a vaga contra a líder Holanda na segunda; Reijnders fez três gols na goleada em Amsterdã.",
+     "fontes": [
+      {
+       "n": "O Liberal",
+       "u": "https://oliberal.com/esportes/alemanha-bate-servia-e-aumenta-chances-de-vaga-na-liga-das-nacoes-holanda-faz-7-na-grecia-1.1194172"
       },
       {
-       "n": "Diário do Nordeste",
-       "u": "https://diariodonordeste.verdesmares.com.br/jogada/ancelotti-promove-ultimos-testes-na-selecao-brasileira-veja-escalacao-contra-o-japao-1.3805392"
+       "n": "Gazeta Esportiva",
+       "u": "https://gazetaesportiva.com/times/alemanha/alemanha-vence-servia-fora-de-casa-e-segue-viva-na-liga-das-nacoes"
+      },
+      {
+       "n": "365Scores",
+       "u": "https://365scores.com/pt-br/news/magazine/alemanha-vence-servia-briga-classificacao-nations-resultados"
       }
      ]
     },
@@ -737,26 +742,6 @@
      ]
     },
     {
-     "kicker": "Liga das Nações",
-     "quando": "Ontem",
-     "titulo": "Itália vira sobre a França e lidera o grupo; Inglaterra bate a Croácia e se classifica; hoje tem Sérvia x Alemanha",
-     "resumo": "Em Milão, a Itália venceu por 3 a 1, com dois gols de Pio Esposito, e impôs a primeira derrota da França sob Zidane; em Nottingham, Kane decidiu de pênalti o 2 a 1 inglês. Nesta sexta, às 16h45, jogam Sérvia x Alemanha e Holanda x Grécia.",
-     "fontes": [
-      {
-       "n": "Placar",
-       "u": "https://placar.com.br/futebol-europeu/italia-supera-erro-inicial-vira-sobre-a-franca-e-lidera-na-nations/?media=tv&content=geral"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/harry-kane-marca-inglaterra-vence-croacia-e-avanca-de-fase-na-nations"
-      },
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-13-11-confira-partidas-futebol-tv-nesta-sexta"
-      }
-     ]
-    },
-    {
      "kicker": "Finais",
      "quando": "Hoje",
      "titulo": "Com o Brasileirão parado, temporada de finais começa dia 21 com Atlético-MG x Boca na Sul-Americana",
@@ -777,26 +762,22 @@
      ]
     },
     {
-     "kicker": "Futebol feminino",
-     "quando": "11/11",
-     "titulo": "Inter vira sobre o Flamengo no Rio, vence por 3 a 1 e abre vantagem na final da Copa do Brasil Feminina",
-     "resumo": "Letícia Oliveira abriu o placar para o Flamengo no início do jogo, no estádio Luso-Brasileiro, mas Valéria Cantuário, Débora e Sole Jaimes marcaram para o Inter no segundo tempo. Na volta, domingo (15), às 16h, no Beira-Rio, o Inter pode perder por um gol; o Flamengo precisa vencer por três para ser campeão ou por dois para levar aos pênaltis.",
-     "foto": {
-      "src": "fotos/jogadoras.jpg",
-      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
-     },
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "GP de Las Vegas, com Bortoleto e Rafael Câmara, terá corrida na madrugada de domingo (22), à 1h",
+     "resumo": "Com os títulos de pilotos e de construtores já definidos, a Mercedes campeã entre as equipes, as três últimas etapas valem a disputa pelo vice. O primeiro treino livre é na quinta (19), às 21h30, pelo horário de Brasília.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/inter-vence-o-flamengo-e-abre-vantagem-na-final-da-copa-do-brasil-feminina/"
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/formula-1/f1-gp-las-vegas-2026-onde-assistir-horarios"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/inter-vence-o-flamengo-em-jogo-de-ida-da-final-da-copa-do-brasil-feminina"
+       "n": "Band",
+       "u": "https://www.band.com.br/esportes/velocidade/formula-1/gp-de-las-vegas-de-f1-2026-tera-corrida-de-madrugada-veja-horarios"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/futebol/inter-vence-o-flamengo-de-virada-e-abre-vantagem-na-final-da-copa-do-brasil-feminina/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-confira-horarios-e-onde-assistir-ao-gp-de-las-vegas-com-gabriel-bortoleto-e-rafa-camara,d9cd99a144183f65602c255662cfe224bn1ifmp3.html"
       }
      ]
     }
@@ -806,7 +787,7 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Mpox, concurso e canetas",
+   "nota": "Mpox, concurso e Anvisa",
    "itens": [
     {
      "kicker": "Mpox",
@@ -874,7 +855,7 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Enem, piso no STF e IA nas escolas",
+   "nota": "Enem, livros didáticos e piso",
    "itens": [
     {
      "kicker": "Enem",
@@ -901,6 +882,18 @@
       {
        "n": "Inep",
        "u": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-segundo-dia-tera-itens-de-matematica-e-ciencias-da-natureza"
+      }
+     ]
+    },
+    {
+     "kicker": "Livro didático",
+     "quando": "Hoje",
+     "titulo": "Editoras alertam para atraso de livros didáticos em 2027; MEC diz que todos serão entregues",
+     "resumo": "A compra prevista é de 96,5 milhões de exemplares para cerca de 10 milhões de alunos do 1º ao 5º ano, e o FNDE ainda precisa complementar cerca de R$ 700 milhões. Um segundo lote, com Inglês, Espanhol e educação digital, ainda não tem data; MEC e FNDE dizem que a contratação está em negociação.",
+     "fontes": [
+      {
+       "n": "RCN67",
+       "u": "https://www.rcn67.com.br/campo-grande/falta-de-recursos-no-mec-ameaca-entrega-de-livros-didaticos-nas-escolas-em-2027/"
       }
      ]
     },
@@ -933,48 +926,6 @@
        "u": "https://ndmais.com.br/educacao/piso-dos-professores-no-stf-julgamento-pode-mudar-salarios-de-toda-a-categoria-entenda-o-que-esta-em-discussao/"
       }
      ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "11/11",
-     "titulo": "Escola Sem Partido pede na Justiça a anulação da redação do Enem sobre o SUS; juiz dá 72 horas para o Inep se manifestar",
-     "resumo": "A associação quer suspender a correção ou impedir o uso das notas até uma decisão. O Inep ainda não respondeu publicamente; o prazo foi fixado pela 20ª Vara Federal Cível do DF.",
-     "lados": [
-      {
-       "quem": "Escola Sem Partido",
-       "txt": "Pedir a 'valorização' do SUS, com textos de apoio só favoráveis, condicionaria a nota à concordância com uma visão política."
-      },
-      {
-       "quem": "Inep",
-       "txt": "O órgão ainda não se manifestou no processo; o MEC disse, após a prova, que mantém as regras de correção da redação."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/vida-e-cidadania/escola-sem-partido-justica-anular-redacao-enem-inep/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-mec-garante-seguranca-da-prova-e-mantem-regras-da-redacao"
-      }
-     ]
-    },
-    {
-     "kicker": "Inteligência artificial",
-     "quando": "10/11",
-     "titulo": "MEC aprova diretrizes para IA nas escolas: veto na educação infantil e uso mediado no fundamental",
-     "resumo": "O parecer do Conselho Nacional de Educação mantém com o professor a responsabilidade por notas e aprovações e proíbe práticas como reconhecimento de emoções e vigilância biométrica contínua. No ensino médio não há restrição de etapa, e as redes têm 12 meses para se adaptar.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/7qcUOR7jtt-JO7i91dsPKDZMF34=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7268.jpg_0.jpg?itok=hCrUo2-6",
-      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao"
-      }
-     ]
     }
    ]
   },
@@ -982,17 +933,17 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Starship, pane da Microsoft e Nvidia",
+   "nota": "Starship, Microsoft e Nvidia",
    "itens": [
     {
      "kicker": "Espaço",
      "quando": "Hoje",
      "titulo": "SpaceX tenta lançar hoje o voo 15 da Starship e recuperar pela primeira vez os dois estágios com a torre",
-     "resumo": "A janela de 75 minutos abre às 19h45, pelo horário de Brasília, se houver aval regulatório e tempo favorável. A nave deve dar cerca de 14 voltas na Terra, liberar 26 satélites Starlink e, se as condições permitirem, ser capturada pelos braços da torre cerca de um dia depois.",
+     "resumo": "A SpaceX autorizou o abastecimento do foguete para a janela que abre às 19h45, pelo horário de Brasília. A nave deve dar cerca de 14 voltas na Terra, liberar 26 satélites Starlink e, se as condições permitirem, ser capturada pelos braços da torre cerca de um dia depois.",
      "fontes": [
       {
        "n": "Space.com",
-       "u": "https://space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live"
+       "u": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt"
       },
       {
        "n": "ABC News",
@@ -1003,56 +954,52 @@
        "u": "https://sbtnews.sbt.com.br/noticia/mundo/space-x-tentara-recuperar-foguete-starship-apos-voo-espacial"
       },
       {
-       "n": "Engadget",
-       "u": "https://www.engadget.com/2311878/spacex-first-attempt-to-catch-both-starship-stages-november-13/"
+       "n": "Exame",
+       "u": "https://exame.com/ciencia/starship-decola-nesta-sexta-feira-o-que-se-sabe-sobre-o-15o-voo-da-spacex/"
       }
      ]
     },
     {
-     "kicker": "Tecnologia",
+     "kicker": "Pane",
      "quando": "Hoje",
-     "titulo": "Falha da Microsoft deixa Outlook, Teams e Copilot instáveis por mais de 12 horas em vários países",
-     "resumo": "A empresa atribuiu o problema a servidores, disse não haver sinal de ataque e relatou sinais de estabilização após correções. A pane atingiu órgãos de governo, corretoras, companhias aéreas e empresas que adiaram divulgações de resultados.",
+     "titulo": "Outlook volta aos poucos após mais de 20 horas de falha; Microsoft atribui pane a sobrecarga de servidores",
+     "resumo": "A empresa nega ataque hacker e diz que muitos servidores saíram do ar de uma vez, sobrecarregando os demais e afetando sobretudo o Exchange Online, além de Teams e Copilot. No pico, o Downdetector recebeu 140 mil relatos em 74 países; a recuperação é gradual para evitar novo colapso.",
      "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/byte/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema,638eeab82fd0d8d2ce170ffac1d7a4f8a8d0wjdz.html"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/13/microsoft-falha-em-outlook-e-teams-deixa-milhares-de-utilizadores-sem-email"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/tecnologia/outlook-teams-e-copilot-voltaram-a-funcionar-servicos-da-microsoft-seguem-instaveis/"
+      },
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/outlook-teams-e-copilot-da-microsoft-ainda-estao-fora-do-ar"
-      },
-      {
-       "n": "Tecnoblog",
-       "u": "https://tecnoblog.net/noticias/outlook-fica-fora-do-ar-e-dificulta-acesso-a-e-mails/"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/servicos-da-microsoft-seguem-fora-no-ar-nesta-sexta-feira"
       }
      ]
     },
     {
      "kicker": "Nvidia",
-     "quando": "Ontem",
-     "titulo": "Ações da Nvidia fecham em queda de mais de 4% no dia da renúncia de Jensen Huang, depois de recuarem até 14%",
-     "resumo": "A diretora financeira Colette Kress assume interinamente o comando, e Harvey C. Jones passa a presidir o conselho, cargo criado agora. A saída ocorre após uma investigação interna aberta depois de Huang admitir publicamente um caso extraconjugal; a empresa não atribuiu oficialmente a renúncia ao episódio, e o balanço trimestral sai no dia 17.",
+     "quando": "Hoje",
+     "titulo": "Nvidia volta a cair após rebaixamento do HSBC; FT diz que conselho sondou chefe da Arm para suceder Huang",
+     "resumo": "As ações recuavam mais de 2% nesta sexta, depois de perderem mais de 4% na véspera, e o Nasdaq caía perto de 0,9%. O HSBC avalia que os papéis seguem pressionados até haver plano de sucessão; Colette Kress comanda a empresa interinamente.",
      "fontes": [
       {
-       "n": "CNBC",
-       "u": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/investimentos/bolsa/nasdaq-recua-nesta-sexta-feira-pressionado-por-novas-perdas-da-nvidia-mas-principais-indices-fecham-a-semana-em-alta/"
       },
       {
-       "n": "Suno",
-       "u": "https://www.suno.com.br/noticias/nvidia-nvda-jensen-huang-renuncia/"
+       "n": "Reuters/TradingView",
+       "u": "https://br.tradingview.com/news/reuters.com,2026:newsml_L2N46U108:0/"
       },
       {
        "n": "SpaceMoney",
-       "u": "https://spacemoney.com.br/investimentos/acoes/nvidia-cai-com-renuncia-de-jensen-huang"
-      },
-      {
-       "n": "Bloomberg Línea",
-       "u": "https://www.bloomberglinea.com.br/mercados/as-acoes-da-nvidia-despencam-em-wall-street-apos-a-renuncia-de-jensen-huang/"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/tecnologia/jensen-huang-ceo-nvidia-renuncia/"
+       "u": "https://www.spacemoney.com.br/tecnologia/nvidia-busca-consultoria-sucessao-huang"
       }
      ]
     },
@@ -1065,30 +1012,6 @@
       {
        "n": "Antihype",
        "u": "https://antihype.com.br/c/ia/gemini-4-hydrogen-ia-rapida-google-gratis/"
-      }
-     ]
-    },
-    {
-     "kicker": "COP31",
-     "quando": "11/11",
-     "titulo": "Brasil leva à COP31 plano nacional contra o desmatamento e meta de restaurar 40 milhões de hectares em dez anos",
-     "resumo": "A proposta prevê transformar o chamado Arco do Desmatamento em área de restauração e apoiar a Década da ONU de reflorestamento, de 2027 a 2036. O governo diz já ter recuperado 4,5 milhões de hectares de solos e pastagens degradados.",
-     "foto": {
-      "src": "fotos/floresta.jpg",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "TVT News",
-       "u": "https://tvtnews.com.br/discurso-lula-na-cop31-cupula-lideres-florestas/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-planeta-nao-pode-esperar-em-meio-guerras-e-conflitos"
-      },
-      {
-       "n": "SP Diário",
-       "u": "https://spdiario.com.br/noticias/politica/em-discurso-na-cop31-lula-cobra-paises-ricos-e-critica-o-novo-silencio-sobre-o-clima.html"
       }
      ]
     }
@@ -1104,19 +1027,31 @@
      "kicker": "Morte",
      "quando": "Hoje",
      "titulo": "Morre aos 91 anos Claudette Soares, a 'Princesinha do Baião', no dia em que lançou álbum inédito",
-     "resumo": "Segundo sua assessoria, a cantora sofreu um mal súbito durante a noite, em São Paulo. Apelidada por Luiz Gonzaga nos anos 1950, ela passou pela bossa nova, pela Jovem Guarda e pelos festivais e gravou 'De Tanto Amor'; o disco 'O Mundo É Ruim pra Quem Não Sabe Esperar', com dez faixas inéditas, saiu nesta sexta.",
+     "resumo": "A cantora carioca teve um mal súbito durante a madrugada, em São Paulo, no dia em que saiu \"O Mundo É Ruim pra Quem Não Sabe Esperar\", seu primeiro disco só de inéditas, com canções de Marcos Valle, Arnaldo Antunes e Guilherme Arantes. Apelidada por Luiz Gonzaga, passou pelo baião, pela bossa nova e pela Jovem Guarda.",
      "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/morre-claudette-soares-aos-91-no-dia-de-lancamento-do-ultimo-album"
+      },
       {
        "n": "SBT News",
        "u": "https://sbtnews.sbt.com.br/noticia/cultura/claudette-soares-a-princesinha-do-baiao-morre-aos-91-anos"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/celebridades/morre-a-cantora-claudette-soares-aos-91-anos-em-sao-paulo/"
-      },
+       "n": "Correio Braziliense",
+       "u": "https://tvprime.correiobraziliense.com.br/noticia/413847/celebridades/morte-de-cantora-e-confirmada-e-audio-enviado-para-o-ator-rainer-cadete-vem-a-tona-ai-meu-deus-13112026"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre aos 43 anos Christian Cousins, um dos gêmeos de 'Um Tira no Jardim de Infância'",
+     "resumo": "A morte foi confirmada pelo irmão, que disse que o ator sofria de doença hepática. Ele dividiu com o gêmeo Joseph o papel de Dominic, no filme estrelado por Arnold Schwarzenegger, e atuou na série 'Knots Landing'.",
+     "fontes": [
       {
-       "n": "Farol da Bahia",
-       "u": "https://www.faroldabahia.com.br/noticia/luto-no-dia-de-lancamento-de-album-cantora-claudette-soares-morre-aos-91-anos"
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/colunas/fabia-oliveira/ator-de-um-tira-no-jardim-de-infancia-christian-cousins-morre-aos-43-anos"
       }
      ]
     },
@@ -1177,18 +1112,6 @@
       {
        "n": "Diário do Grande ABC",
        "u": "https://www.dgabc.com.br/Noticia/4368421/morre-aos-82-anos-regina-torne-atriz-de-chaves-e-rebelde"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Hoje",
-     "titulo": "Morre aos 43 anos Christian Cousins, um dos gêmeos de 'Um Tira no Jardim de Infância'",
-     "resumo": "A morte foi confirmada pelo irmão, que disse que o ator sofria de doença hepática. Ele dividiu com o gêmeo Joseph o papel de Dominic, no filme estrelado por Arnold Schwarzenegger, e atuou na série 'Knots Landing'.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://metropoles.com/colunas/fabia-oliveira/ator-de-um-tira-no-jardim-de-infancia-christian-cousins-morre-aos-43-anos"
       }
      ]
     }
