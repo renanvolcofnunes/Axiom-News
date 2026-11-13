@@ -1,28 +1,28 @@
 {
  "data": "Sexta-feira, 13 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "13/11/2026 · 07h06 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h",
- "fontes": 78,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "13/11/2026 · 13h20 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 10h30",
+ "fontes": 79,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 12/11",
-   "valor": "171.324 pts",
-   "var": "-0,43%",
-   "dir": "down"
-  },
-  {
-   "nome": "Dólar comercial · fechamento 12/11",
-   "valor": "R$ 5,65",
-   "var": "+1,60%",
+   "nome": "Ibovespa · 10h30",
+   "valor": "172.093 pts",
+   "var": "+0,45%",
    "dir": "up"
   },
   {
-   "nome": "Banco do Brasil ON · 12/11",
-   "valor": "BBAS3",
-   "var": "-8,34%",
-   "dir": "down"
+   "nome": "Dólar à vista · 10h05",
+   "valor": "R$ 5,66",
+   "var": "+0,21%",
+   "dir": "up"
+  },
+  {
+   "nome": "Varejo · setembro (IBGE)",
+   "valor": "+0,2%",
+   "var": "1,7% em 12 meses",
+   "dir": "up"
   },
   {
    "nome": "IPCA · outubro",
@@ -39,24 +39,19 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 13/11 · 9h e 10h30",
-   "txt": "IBGE divulga vendas do varejo de setembro e nova estimativa da safra; às 10h30 sai a inflação de outubro nos EUA",
-   "cat": "economia"
-  },
-  {
    "hora": "Sex 13/11 · 19h45",
-   "txt": "Abre a janela de lançamento do voo 15 da Starship, com a primeira tentativa de recuperar os dois estágios",
+   "txt": "Abre a janela do voo 15 da Starship; às 20h, Argentina x Uruguai na Bombonera",
    "cat": "ciencia"
-  },
-  {
-   "hora": "Sex 13/11 · 20h",
-   "txt": "Argentina x Uruguai na Bombonera, primeiro jogo argentino após a aposentadoria de Messi da seleção",
-   "cat": "esporte"
   },
   {
    "hora": "Sáb 14/11 · 7h15",
    "txt": "Brasil x Japão em Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
    "cat": "esporte"
+  },
+  {
+   "hora": "Sáb 14 e dom 15/11",
+   "txt": "Lula participa como convidado da cúpula da Asean e se reúne com Ferdinand Marcos Jr., em Manila",
+   "cat": "politica"
   },
   {
    "hora": "Dom 15/11 · 13h30",
@@ -66,6 +61,11 @@
   {
    "hora": "Ter 17/11",
    "txt": "Senado vota os destaques do ajuste fiscal; Nvidia divulga balanço trimestral",
+   "cat": "politica"
+  },
+  {
+   "hora": "20 a 30/11",
+   "txt": "Primeira Turma do STF julga no plenário virtual recurso de Flávio Bolsonaro contra restrições a passaportes",
    "cat": "politica"
   }
  ],
@@ -163,22 +163,32 @@
  ],
  "manchete": {
   "kicker": "Ajuste fiscal",
-  "titulo": "Senado aprova texto-base do ajuste fiscal por 45 a 31; destaques ficam para terça-feira",
-  "resumo": "O governo superou com folga os 41 votos exigidos para lei complementar, depois de ter obtido apenas 40 na votação da urgência. Quatro destaques que podem alterar o texto serão analisados na terça (17), e só então o projeto segue para a Câmara.",
+  "titulo": "Motta sinaliza votar o ajuste fiscal na Câmara na próxima semana; Bolsa sobe e dólar avança pela manhã",
+  "resumo": "O presidente da Câmara vai reunir líderes no início da semana para definir a data, depois que o Senado concluir, na terça (17), a votação dos quatro destaques pendentes. No mercado, o Ibovespa voltou aos 172 mil pontos, e o dólar seguiu em alta, perto de R$ 5,66.",
   "foto": {
    "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
    "credito": "Lula Marques/Agência Brasil"
   },
-  "entenda": "O projeto de lei complementar 299/2026 é a aposta do governo para fechar as contas de 2027 com superávit primário de 0,5% do PIB. A versão aprovada corta mais 10% dos benefícios tributários, além do corte feito no fim de 2025, mas poupa a desoneração da folha, os setores de tecnologia e semicondutores e a compra de veículos por pessoas com deficiência e autistas. O texto também reduz de 2,5% para 2% acima da inflação o limite de crescimento dos gastos quando os gatilhos de contenção forem acionados, retira até 2030 as receitas extraordinárias com exportação de petróleo da base do piso da saúde, dá 120 dias ao Congresso para regulamentar pagamentos acima do teto do funcionalismo e permite excluir da meta de 2026 até R$ 10,5 bilhões em subsídios ao diesel. A economia estimada chega a R$ 60 bilhões em 2027. No mercado, a dúvida sobre o alcance do pacote ajudou a levar o dólar ao maior valor desde junho de 2025.",
+  "entenda": "O projeto de lei complementar 299/2026 é a aposta do governo para fechar as contas de 2027 com superávit primário de 0,5% do PIB. A versão aprovada corta mais 10% dos benefícios tributários, além do corte feito no fim de 2025, mas poupa a desoneração da folha, os setores de tecnologia e semicondutores e a compra de veículos por pessoas com deficiência e autistas. O texto também reduz de 2,5% para 2% acima da inflação o limite de crescimento dos gastos quando os gatilhos de contenção forem acionados, retira até 2030 as receitas extraordinárias com exportação de petróleo da base do piso da saúde, dá 120 dias ao Congresso para regulamentar pagamentos acima do teto do funcionalismo e permite excluir da meta de 2026 até R$ 10,5 bilhões em subsídios ao diesel. A economia estimada chega a R$ 60 bilhões em 2027. Na quinta, a dúvida sobre o alcance do pacote ajudou a levar o dólar ao maior valor desde junho de 2025; nesta sexta, a moeda segue em alta, enquanto a Bolsa recupera parte das perdas.",
   "fatos": [
-   "Texto-base aprovado por 45 votos a 31; o mínimo para lei complementar é 41",
-   "Quatro destaques serão votados na terça (17); depois, o texto vai à Câmara",
-   "Dólar fecha em alta de 1,60%, a R$ 5,65, maior valor desde junho de 2025"
+   "Texto-base aprovado no Senado por 45 a 31; destaques ficam para terça (17)",
+   "Governo quer o ajuste aprovado antes da votação do Orçamento de 2027",
+   "Às 10h30, Ibovespa subia 0,45%, e o dólar à vista avançava 0,21%"
   ],
   "fontes": [
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/senado-aprova-texto-base-do-projeto-de-ajuste-fiscal-do-governo",
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana",
+    "d": "calendário na Câmara"
+   },
+   {
+    "n": "Tribuna do Sertão",
+    "u": "https://www.tribunadosertao.com.br/financas/2026/11/13/1020811-ajuste-fiscal-hugo-motta-vai-reunir-lideres-no-comeco-da-semana-que-vem-para-definir-votacao-na-camara",
+    "d": "reunião de líderes"
+   },
+   {
+    "n": "Senado Notícias",
+    "u": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
     "d": "placar e conteúdo"
    },
    {
@@ -187,18 +197,8 @@
     "d": "críticas da oposição"
    },
    {
-    "n": "Diario de Pernambuco",
-    "u": "https://www.diariodepernambuco.com.br/economia/2026/11/11729020-oposicao-no-senado-critica-pacote-fiscal-e-cobra-cortes-maiores-nas-contas-publicas.html",
-    "d": "oposição cobra cortes"
-   },
-   {
-    "n": "Canal Rural",
-    "u": "https://www.canalrural.com.br/politica/ajuste-fiscal-avanca-no-senado-e-fica-pendente-de-destaques-para-terca-feira",
-    "d": "destaques para terça"
-   },
-   {
-    "n": "O Tempo",
-    "u": "https://www.otempo.com.br/economia/2026/11/12/dolar-dispara-e-fecha-no-maior-valor-desde-junho-de-2025",
+    "n": "Portal do Agronegócio",
+    "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-sobe-a-r-5-66-e-ibovespa-retoma-172-mil-pontos-com-pacote-fiscal-no-radar",
     "d": "reação do mercado"
    }
   ]
@@ -208,67 +208,131 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste fiscal, Lula na Ásia e Câmara",
+   "nota": "Operação da PF, ajuste fiscal e STF",
    "itens": [
     {
-     "kicker": "Ajuste fiscal",
-     "quando": "Ontem",
-     "titulo": "Governo e oposição divergem sobre efeito do pacote fiscal; oposição tenta mudar limite de gastos na terça",
-     "resumo": "O texto aprovado na noite de quinta reduz repasses da Lei Kandir a estados e corta benefícios tributários, mas preservou setores após mudanças do relator Eduardo Braga (MDB-AM). A disputa agora se concentra nos quatro destaques pendentes.",
+     "kicker": "Investigação",
+     "quando": "Hoje",
+     "titulo": "PF faz nova fase da operação que apura uso de emendas na produção de 'Dark Horse', filme sobre Jair Bolsonaro",
+     "resumo": "A segunda fase da Operação Make Up cumpriu um mandado de busca em Brasília, autorizado pelo STF; a PF não identificou o alvo. O inquérito apura suspeitas de peculato, lavagem de dinheiro e fraude em licitações e se recursos ligados ao filme custearam a permanência de Eduardo Bolsonaro nos EUA.",
      "lados": [
       {
-       "quem": "Governo",
-       "txt": "Afirma que o pacote, com economia de até R$ 60 bilhões, é necessário para cumprir a meta de superávit de 0,5% do PIB em 2027 e preserva gastos sociais essenciais."
+       "quem": "Investigação",
+       "txt": "A PF suspeita de um grupo de agentes públicos e privados que teria direcionado recursos a empresas subcontratadas de forma irregular; não há conclusão sobre culpa."
       },
       {
-       "quem": "Oposição",
-       "txt": "O líder Rogerio Marinho (PL-RN) diz que o projeto aumenta impostos, não corta gastos e tira recursos dos estados; o grupo vai propor um limite menor para o crescimento das despesas."
+       "quem": "Investigados",
+       "txt": "Flávio Bolsonaro diz que não há nada de errado em buscar financiamento privado e nega uso de dinheiro público; o deputado Mário Frias chamou a primeira fase de 'cortina de fumaça'."
       }
      ],
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/senado-aprova-texto-base-do-projeto-de-ajuste-fiscal-do-governo"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/congresso/2026/11/13/policia-federal-faz-nova-fase-de-operacao-sobre-filme-de-jair-bolsonaro"
+      },
+      {
+       "n": "Agora RN",
+       "u": "https://agorarn.com.br/brasil/pf-segunda-fase-operacao-make-up-dark-horse/"
+      },
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4368573/pf-faz-nova-operacao-sobre-emendas-ligadas-a-filme-de-bolsonaro"
+      },
+      {
+       "n": "Sim Notícias/CNN Brasil",
+       "u": "https://simnoticias.com.br/cnn-brasil/pf-deflagra-nova-fase-da-operacao-sobre-desvio-de-emendas-para-dark-horse/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Hoje",
+     "titulo": "Governo pede pressa à Câmara; oposição diz que ajuste fiscal aumenta impostos e tenta mudar limite de gastos na terça",
+     "resumo": "O ministro José Guimarães agradeceu ao Senado e pediu celeridade a Hugo Motta, que deve definir a data com os líderes no início da semana. Antes, os senadores analisam na terça (17) quatro destaques, entre eles a proposta da oposição de reduzir o crescimento permitido das despesas.",
+     "lados": [
+      {
+       "quem": "Governo",
+       "txt": "Afirma que o pacote, com melhora estimada de até R$ 60 bilhões nas contas de 2027, garante estabilidade fiscal e quer aprová-lo antes do Orçamento."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "O líder Rogerio Marinho (PL-RN) diz que o projeto eleva a carga tributária sem cortar despesas, reduz repasses aos estados e tira da meta R$ 10,5 bilhões em subsídio ao diesel."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana"
       },
       {
        "n": "TV Senado",
        "u": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/11/lider-da-oposicao-diz-que-ajuste-fiscal-aumenta-impostos-e-nao-corta-gastos"
       },
       {
-       "n": "Diario de Pernambuco",
-       "u": "https://www.diariodepernambuco.com.br/economia/2026/11/11729020-oposicao-no-senado-critica-pacote-fiscal-e-cobra-cortes-maiores-nas-contas-publicas.html"
+       "n": "Diário do RN",
+       "u": "https://diariodorn.com.br/apos-senado-ajuste-fiscal-vira-incognita-na-camara-governo-busca-motta/"
       },
       {
-       "n": "O Cafezinho",
-       "u": "https://www.ocafezinho.com/2026-11-12/senado-aprova-ajuste-fiscal-de-ate-r-60-bilhoes-proposto-por-lula"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/aliados-lula-rejeitam-ajuste-fiscal-contas-publicas/"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "STF marca para 20 a 30 de novembro julgamento de recurso de Flávio Bolsonaro contra restrições a passaportes",
+     "resumo": "A ministra Cármen Lúcia, presidente da Primeira Turma, pautou o caso no plenário virtual. O senador deixou o país em 27 de outubro e chegou a Miami usando a cidadania italiana; pesquisa AtlasIntel/Bloomberg divulgada hoje mostra 52% avaliando a saída como errada e 46% como correta.",
+     "lados": [
+      {
+       "quem": "Defesa de Flávio",
+       "txt": "Diz que a ordem se baseou em dados que não mostram participação em ilícitos, contesta o uso de falas de Eduardo Bolsonaro como prova de risco de fuga e pede que o caso saia de Moraes."
+      },
+      {
+       "quem": "Decisão de Moraes",
+       "txt": "Determinou a entrega dos passaportes e proibiu a saída do país após relatório da PF apontar risco de o senador permanecer no exterior e contato com advogado investigado."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/manoela-alcantara/carmen-pauta-recurso-de-flavio-contra-apreensao-de-passaportes-por-moraes"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-embarca-para-os-estados-unidos-com-passaporte-europeu/"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/politica/pesquisa-atlas-52-reprovam-saida-flavio-bolsonaro-pais/"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/flavio-bolsonaro-fugiu-do-brasil-e-esta-em-aviao-a-caminho-dos-eua/"
       }
      ]
     },
     {
      "kicker": "Diplomacia",
      "quando": "Hoje",
-     "titulo": "Lula chega a Manila para visita de Estado e cúpula da Asean, com encontro previsto com Ferdinand Marcos Jr.",
-     "resumo": "A visita, tratada pela imprensa filipina como histórica, ocorre logo após a passagem de Lula pela COP31, na Turquia, onde ele reduziu a agenda por problemas na voz. O governo quer ampliar o comércio e a cooperação com o bloco do Sudeste Asiático.",
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
+     "titulo": "Lula chega a Manila e quer elevar o Brasil a parceiro de diálogo da Asean, o nível mais alto de relação com o bloco",
+     "resumo": "A agenda oficial ocorre no sábado e no domingo, com a cúpula da Asean, reuniões com Ferdinand Marcos Jr. e um fórum empresarial. É a primeira visita de Estado de um presidente brasileiro em exercício às Filipinas; o Itamaraty diz que os temas serão comércio, investimentos e desenvolvimento.",
      "fontes": [
       {
-       "n": "EFE/Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/13/viernes-13-de-noviembre-de-2026-0200-gmt/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-chega-filipinas-brasil-quer-ser-parceiro-de-dialogo-da-asean"
       },
       {
-       "n": "Rappler",
-       "u": "https://www.rappler.com/philippines/brazil-lula-arrives-manila-state-visit-asean-summit-2026/"
+       "n": "Philstar",
+       "u": "https://www.philstar.com/headlines/2026/11/13/2569907/watch-brazils-lula-lands-manila-talks-marcos-asean-summit"
       },
       {
-       "n": "Bernama",
-       "u": "https://www.bernama.com/en/world/news.php?id=2632201"
+       "n": "Carta Capital",
+       "u": "https://www.cartacapital.com.br/mundo/lula-chega-as-filipinas-para-participar-da-cupula-do-sudeste-asiatico/"
       },
       {
-       "n": "Prensa Latina",
-       "u": "https://www.prensa-latina.cu/2026/11/10/gobierno-brasileno-divulga-detalles-de-agenda-de-lula-en-filipinas/"
+       "n": "Manila Bulletin",
+       "u": "https://mb.com.ph/2026/11/13/brazils-lula-arrives-in-philippines-for-historic-state-visit-asean-summit"
       }
      ]
     },
@@ -305,56 +369,6 @@
        "u": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pl-mantem-indefinicao-sobre-presidencia-da-camara-em-meio-a-racha-sobre-apoio-a-motta/"
       }
      ]
-    },
-    {
-     "kicker": "Emendas",
-     "quando": "Hoje",
-     "titulo": "Congresso teme que Dino amplie o controle do governo sobre emendas; prazo para código único vence em 30 de novembro",
-     "resumo": "O ministro do STF determinou em setembro que Legislativo e Executivo apresentem um identificador para rastrear cada emenda da indicação ao gasto. Ele também pediu a 21 partidos que expliquem se administram cotas de emendas e com quais critérios.",
-     "lados": [
-      {
-       "quem": "Parlamentares",
-       "txt": "Avaliam que novas restrições podem transferir ao Executivo o poder de decidir o destino dos recursos e temem que investigações sobre emendas cheguem ao Senado."
-      },
-      {
-       "quem": "Decisões de Dino",
-       "txt": "Até agora, as ordens do ministro tratam de transparência, rastreabilidade e fiscalização, sem determinar a transferência do controle ao governo."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/poder/congresso-teme-decisao-de-dino-que-fortaleca-controle-do-governo-sobre-o-orcamento/"
-      },
-      {
-       "n": "Plantão Brasil",
-       "u": "https://www.plantaobrasil.net/noticias/163321-clima-de-tensao-congresso-ve-com-preocupacao-atuacao-de-dino-sobre-emendas"
-      },
-      {
-       "n": "Conjur",
-       "u": "https://conjur.com.br/2026-set-11/dino-determina-criacao-de-codigo-unico-para-rastrear-emendas-parlamentares/"
-      }
-     ]
-    },
-    {
-     "kicker": "Caso Master",
-     "quando": "Ontem",
-     "titulo": "Fachin prorroga por 60 dias a investigação da PF sobre o senador Ciro Nogueira no caso Master",
-     "resumo": "O presidente do STF, relator temporário do inquérito, atendeu a um pedido da Polícia Federal. Em relatório de setembro, a PF apontou alinhamento entre a atuação parlamentar do senador e interesses de Daniel Vorcaro, ex-dono do banco, preso desde março; a prorrogação não representa juízo sobre culpa.",
-     "fontes": [
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/politica/caso-master-fachin-prorroga-investigacao-de-ciro-nogueira"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/politica/fachin-da-mais-60-dias-a-pf-para-investigar-ciro-nogueira-no-caso-master/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/politica/fachin-abre-novo-capitulo-no-caso-master-envolvendo-ciro-nogueira-e-vorcaro/"
-      }
-     ]
     }
    ]
   },
@@ -362,49 +376,69 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Dólar em alta, Banco do Brasil e agenda do dia",
+   "nota": "Manhã na Bolsa, varejo e Wall Street",
    "itens": [
     {
      "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Dólar sobe 1,60% e fecha a R$ 5,65, maior valor desde junho de 2025; Ibovespa cai 0,43%",
-     "resumo": "Investidores buscaram proteção na moeda americana diante da incerteza sobre o que o Congresso vai aprovar do pacote fiscal e de sinais de que o Fed pode voltar a subir juros. O Ibovespa terminou aos 171.324 pontos, pressionado por Banco do Brasil, Magazine Luiza e BTG; a Petrobras subiu com o petróleo.",
+     "quando": "Hoje",
+     "titulo": "Ibovespa sobe 0,45% e volta aos 172 mil pontos pela manhã; dólar segue em alta, a R$ 5,66",
+     "resumo": "Às 10h30, o índice marcava 172.093 pontos, recuperando parte da queda de quinta; às 10h05, o dólar à vista subia 0,21%. Investidores acompanham a tramitação do ajuste fiscal, o varejo acima do esperado e os juros americanos, que avançam; em Nova York, as bolsas abriram em alta.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/economia/2026/11/12/dolar-dispara-e-fecha-no-maior-valor-desde-junho-de-2025"
+       "n": "Portal do Agronegócio",
+       "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-sobe-a-r-5-66-e-ibovespa-retoma-172-mil-pontos-com-pacote-fiscal-no-radar"
       },
       {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-dolar-dispara-565-petroleo-sobe/"
+       "n": "Folha de Curitiba",
+       "u": "https://folhadecuritiba.com.br/ibovespa-abre-em-alta-de-017-com-foco-no-ajuste-fiscal-e-em-gigantes-de-tecnologia/"
       },
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/12/dolar-sobe-565-maior-nivel-17-meses-ibovespa-cai"
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/ibovespa-ensaia-recuperacao-enquanto-dolar-renova-maxima/"
       },
       {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4368495/fechamento-do-mercado-financeiro"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-13-novembro-2026/"
       }
      ]
     },
     {
      "kicker": "Indicadores",
      "quando": "Hoje",
-     "titulo": "IBGE divulga varejo de setembro e safra; nos EUA, inflação de outubro pode reforçar aposta em alta de juros",
-     "resumo": "Os dados brasileiros saem pela manhã, e o índice de preços ao consumidor americano é publicado às 10h30. Dirigentes do Fed disseram nesta semana que a inflação segue bem acima da meta, o que ajudou a fortalecer o dólar no mundo.",
+     "titulo": "Vendas do varejo crescem 0,2% em setembro, acima do esperado; IBGE vê estabilidade",
+     "resumo": "O comércio acumula alta de 1,7% em 12 meses, mas recuou 0,3% no terceiro trimestre e está 1% abaixo do pico de março. Informática e comunicação (7,6%) e combustíveis (2,8%) puxaram a alta; móveis e eletrodomésticos caíram 2,6%.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/7r0yAg4rJEbX3YxN-tJT2aNAirw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/movimento_de_vendas_de_brinquedos_para_o_dia_das_criancas_comercio_varejista_nas_ruas_do_polo_saara_centro_do_rio_de_janeiro_ffraz_abr_100720210100.jpg?itok=4inwcj8O",
+      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "EFE/Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/13/viernes-13-de-noviembre-de-2026-0200-gmt/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade"
+      },
+      {
+       "n": "Ativo Virtual",
+       "u": "https://www.ativovirtual.com.br/avnews/artigos/ajuste-fiscal-aprovado-varejo-acima-do-esperado-o-que-muda-no-ibovespa"
       },
       {
        "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/economia/indicadores-economicos/inflacao-eua-cpi-outubro-fed"
+       "u": "https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-varejo-ppi-balancos"
+      }
+     ]
+    },
+    {
+     "kicker": "Exterior",
+     "quando": "Hoje",
+     "titulo": "Inflação ao produtor nos EUA fica um pouco abaixo do esperado, e Wall Street abre em alta",
+     "resumo": "Na abertura, o Dow Jones subia 0,37%, o S&P 500, 0,32%, e o Nasdaq, 0,17%. O dado trouxe algum alívio depois de dirigentes do Fed dizerem nesta semana que a inflação segue bem acima da meta, o que vinha fortalecendo o dólar no mundo.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-13-novembro-2026/"
       },
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/12/fed-ve-inflacao-eua-bem-acima-meta-pede-cautela"
+       "n": "Portal do Agronegócio",
+       "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/bolsas-ibovespa-retoma-172-mil-pontos-europa-avanca-e-tecnologia-cai-na-asia"
       }
      ]
     },
@@ -455,22 +489,6 @@
        "u": "https://www.brasil247.com/economia/ipca-desacelera-fica-em-014-em-outubro-e-acumula-alta-de-463-em-12-meses/"
       }
      ]
-    },
-    {
-     "kicker": "Comércio exterior",
-     "quando": "Hoje",
-     "titulo": "Parlamento alemão vota hoje a aprovação do acordo de livre comércio entre União Europeia e Mercosul",
-     "resumo": "A votação no Bundestag está prevista para a manhã, pelo horário de Brasília. A ratificação pelos países do bloco europeu é uma das etapas para a entrada em vigor do tratado.",
-     "fontes": [
-      {
-       "n": "EFE/Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/13/viernes-13-de-noviembre-de-2026-0200-gmt/"
-      },
-      {
-       "n": "Comissão Europeia",
-       "u": "https://commission.europa.eu/topics/trade/eu-mercosur-trade-agreement_pt"
-      }
-     ]
     }
    ]
   },
@@ -478,29 +496,37 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporais, segurança e feriado",
+   "nota": "Temporais, operação no RS e feriado",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Tempestades com granizo e ventos de até 60 km/h podem atingir 15 estados; São Paulo está em alerta amarelo",
-     "resumo": "O Inmet incluiu a capital paulista e mais 18 cidades em aviso de tempestade, com chuva forte à tarde e à noite. A combinação de calor e umidade alta favorece pancadas no Sudeste, no Centro-Oeste e em partes do Norte e do Nordeste.",
+     "titulo": "Defesa Civil emite alerta severo de ventania e raios para as zonas sul e leste de São Paulo e Diadema",
+     "resumo": "O aviso saiu por volta do meio-dia, um dia depois de temporais alagarem ruas e interromperem trens na Grande São Paulo. O sábado deve ser seco, mas o CGE prevê pancadas fortes no domingo à tarde, com rajadas acima de 50 km/h, no horário do Enem.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/11/12/inmet-poe-sao-paulo-e-mais-18-cidades-em-alerta-amarelo-para-tempestade-com-ventos-de-60-km-h-e-granizo"
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/variedades/defesa-civil-de-sp-emite-alerta-severo-de-chuva-para-capital-e-regiao-metropolitana-1.1193929"
       },
       {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/tempestades-avancam-sobre-as-5-regioes-do-brasil-nesta-sexta-13/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-para-ventos-e-raios-na-capital-e-grande-sp/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/clima-combinacao-entre-calor-e-alta-umidade-provoca-muita-chuva-nesta-6a"
-      },
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/defesa-civil-alerta-severo-chuva-sao-paulo-13-novembro"
+      }
+     ]
+    },
+    {
+     "kicker": "Corrupção",
+     "quando": "Hoje",
+     "titulo": "PF investiga sobrepreço de até dez vezes em contratos de motobombas após as enchentes de 2024 no RS",
+     "resumo": "Foram cumpridos 13 mandados de busca em cidades gaúchas e em Itapema (SC), e a Justiça bloqueou mais de R$ 10 milhões. Os contratos, pagos com verba federal em Canoas e Cachoeirinha, teriam favorecido uma empresa sem estrutura que subcontratava o serviço por valores menores; os investigados não foram identificados.",
+     "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2026-11/inmet-emite-alerta-de-chuvas-intensas-em-varias-regioes-do-pais"
+       "n": "Sim Notícias/CNN Brasil",
+       "u": "https://simnoticias.com.br/cnn-brasil/operacao-mira-fraudes-em-contratacoes-emergenciais-apos-enchentes-no-rs/"
       }
      ]
     },
@@ -517,22 +543,6 @@
       {
        "n": "Agência SP",
        "u": "https://www.agenciasp.sp.gov.br/policia-militar-intensifica-operacoes-em-paraisopolis-na-zona-sul-de-sao-paulo-e-descobre-casa-bomba/"
-      }
-     ]
-    },
-    {
-     "kicker": "Segurança",
-     "quando": "Ontem",
-     "titulo": "Operação prende 14 pessoas, entre elas um ex-secretário, suspeitas de integrar organização criminosa em Alagoa Grande (PB)",
-     "resumo": "A ação foi realizada na quinta-feira no município do agreste paraibano. As investigações seguem, e os nomes dos presos não foram divulgados oficialmente.",
-     "fontes": [
-      {
-       "n": "Paraíba Online",
-       "u": "https://paraibaonline.com.br/policial/2026/11/12/operacao-prende-14-pessoas-suspeitas-de-integrar-organizacao-criminosa-em-alagoa-grande/"
-      },
-      {
-       "n": "ClickPicuí",
-       "u": "https://www.clickpicui.com.br/2026/11/operacao-prende-ex-secretario-e-outras.html"
       }
      ]
     },
@@ -563,43 +573,67 @@
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Negociação em Abu Dhabi termina com acordo para ampla troca de prisioneiros; enviados de Trump vão a Dublin encontrar Zelensky",
-     "resumo": "Depois de reunião com Putin em Moscou, Steve Witkoff e Jared Kushner disseram que querem incluir os europeus nas conversas, o que o Kremlin resiste. Zelensky chamou a troca de positiva, mas repetiu que a Ucrânia não cederá território; Moscou diz que Putin e Trump devem tratar da guerra na Apec, na próxima semana.",
+     "titulo": "Zelensky anuncia a maior troca de prisioneiros da guerra após reunião com enviados de Trump em Dublin",
+     "resumo": "O encontro com Steve Witkoff e Jared Kushner, na noite de quinta, ocorreu logo depois de os dois se reunirem com Putin em Moscou; os detalhes não foram divulgados. O Kremlin diz que Putin e Trump vão tratar do acordo na cúpula da Apec, e a coalizão de países que apoiam Kiev se reúne em Berlim na próxima semana.",
      "fontes": [
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/13/enviados-dos-eua-se-reunem-com-putin-apos-negociacoes-de-paz.html"
+       "n": "Kyiv Independent",
+       "u": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
       },
       {
-       "n": "Time",
-       "u": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"
+       "n": "Ukrainska Pravda",
+       "u": "https://www.pravda.com.ua/eng/news/2026/11/13/8062620/"
       },
       {
-       "n": "Kyiv Post",
-       "u": "https://www.kyivpost.com/post/89960"
+       "n": "Irish Examiner",
+       "u": "https://www.irishexaminer.com/news/politics/arid-41937069.html"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/emissarios-de-trump-discutem-com-putin-sobre-cessar-fogo-na-ucrania"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/zelensky-se-encontra-com-enviados-dos-eua-em-dublin"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Ataque russo de madrugada provoca incêndio em unidade médica de Kiev; adolescente morre em Zaporizhzhia",
+     "resumo": "Segundo o serviço de emergência ucraniano, 30 pessoas foram retiradas do prédio em Kiev, que teve o segundo andar danificado. Em Zaporizhzhia, um bombardeio matou um jovem de 17 anos e feriu quatro pessoas, entre elas uma criança de 10.",
+     "fontes": [
+      {
+       "n": "Sergipe News",
+       "u": "https://www.sergipenewsoficial.com/noticia/ataque-russo-atinge-unidade-medica-em-kiev-e-deixa-feridos-na-ucrania"
+      },
+      {
+       "n": "112 Ukraine",
+       "u": "https://112.ua/en/rosia-zavdala-udaru-dronami-po-kievu-pozeza-v-nacionalnomu-instituti-travmatologii-ta-postrazdali-197940"
+      },
+      {
+       "n": "TSN",
+       "u": "https://kyiv.tsn.ua/kyiv/rf-atakuvala-kyyiv-u-likarni-spalakhnula-pozeza-ye-ruynuvannia-usi-podrobytsi-foto-3215579.html"
       }
      ]
     },
     {
      "kicker": "Gaza",
      "quando": "Ontem",
-     "titulo": "Ataque israelense ao Hospital Nasser, em Khan Younis, mata seis pessoas, entre elas um cirurgião e uma criança",
-     "resumo": "Segundo o Ministério da Saúde de Gaza, ao menos 28 pessoas ficaram feridas; o diretor do hospital disse que dois mísseis atingiram o prédio sem aviso, e um deles não explodiu.",
+     "titulo": "Mortos em ataques israelenses em Gaza na quinta sobem para 13, sete deles no complexo do Hospital Nasser",
+     "resumo": "Entre as vítimas no hospital de Khan Younis estão um médico e uma criança de 13 anos; outras mortes ocorreram em Al Mawasi e perto do Hospital Al-Shifa, na Cidade de Gaza. A OMS condenou o ataque a serviços de saúde; o cessar-fogo vigora desde outubro de 2025.",
      "lados": [
       {
        "quem": "Exército de Israel",
-       "txt": "Confirmou o ataque e afirmou que o alvo era um comandante do Hamas."
+       "txt": "Diz que o alvo era um comandante da brigada do Hamas em Khan Younis e acusa o grupo de usar o hospital para se rearmar."
       },
       {
        "quem": "Hamas e autoridades de Gaza",
-       "txt": "Dizem que o argumento tenta encobrir um crime de guerra contra uma unidade de saúde."
+       "txt": "Negam o uso militar do hospital, chamam a justificativa de falsa e dizem que mais de 1.600 pessoas morreram desde o cessar-fogo."
       }
      ],
      "fontes": [
+      {
+       "n": "DNoticias/Lusa",
+       "u": "https://www.dnoticias.pt/2026/11/13/512800-ataques-israelitas-em-gaza-na-quinta-feira-causaram-13-mortos/"
+      },
       {
        "n": "CNN",
        "u": "https://www.cnn.com/2026/11/12/middleeast/israeli-strike-gaza-hospital-kills-six-intl"
@@ -607,14 +641,22 @@
       {
        "n": "NBC News",
        "u": "https://www.nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Ontem",
+     "titulo": "Trump tira JD Vance das negociações com o Irã e diz que os EUA não precisam de acordo com Teerã",
+     "resumo": "Em rede social, o presidente pediu que o vice se concentre no combate à criminalidade em estados governados por democratas. A mudança ocorre após Vance atribuir parte da derrota republicana nas eleições de 3 de novembro aos efeitos econômicos da guerra com o Irã.",
+     "fontes": [
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/13/donald-trump-afasta-jd-vance-das-negociacoes-de-paz-e-diz-que-washington-nao-precisa-de-um-acordo-com-o-irao/"
       },
       {
-       "n": "Público",
-       "u": "https://www.publico.pt/2026/11/12/mundo/noticia/ataque-israelita-hospital-gaza-faz-seis-mortos-2194686"
-      },
-      {
-       "n": "Drop Site",
-       "u": "https://www.dropsitenews.com/p/israel-bombs-gaza-hospital-killing"
+       "n": "Daily Beast",
+       "u": "https://www2.thedailybeast.com/trump-benches-vance-in-humiliating-move"
       }
      ]
     },
@@ -637,42 +679,6 @@
        "u": "https://pt.euronews.com/video/2026/11/13/noticias-do-dia-13-de-novembro-2026-manha"
       }
      ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "11/11",
-     "titulo": "Democrata Scott Colom vence no Mississippi e será o primeiro senador negro do estado desde a Reconstrução",
-     "resumo": "A agência AP projetou a vitória sobre a republicana Cindy Hyde-Smith depois de dias de apuração de votos pelo correio; ela reconheceu a derrota em vídeo. É o primeiro democrata eleito senador pelo estado desde 1947.",
-     "fontes": [
-      {
-       "n": "Drop Site",
-       "u": "https://www.dropsitenews.com/p/israel-bombs-gaza-hospital-killing"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/video/2026/11/13/noticias-do-dia-13-de-novembro-2026-manha"
-      }
-     ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Ontem",
-     "titulo": "Tiroteio que começou numa academia perto da Casa Branca deixa um morto e cinco feridos; suspeito também morre",
-     "resumo": "Os disparos começaram no bairro de Logan Circle, em Washington, a cerca de 1,6 km da Casa Branca, e o atirador se entrincheirou num prédio vizinho. Segundo a imprensa americana, ele morreu com um ferimento aparentemente autoinfligido; um dos feridos está em estado crítico, e a motivação não foi divulgada.",
-     "fontes": [
-      {
-       "n": "RTP",
-       "u": "https://www.rtp.pt/noticias/mundo/um-morto-e-cinco-feridos-em-tiroteio-em-washington_n1778705"
-      },
-      {
-       "n": "JN",
-       "u": "https://www.jn.pt/mundo/artigo/varios-atingidos-em-tiroteio-num-ginasio-perto-da-casa-branca/18147455"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/tiroteio-perto-da-casa-branca-comecou-em-academia-diz-policia/"
-      }
-     ]
     }
    ]
   },
@@ -685,24 +691,24 @@
     {
      "kicker": "Seleção",
      "quando": "Hoje",
-     "titulo": "Ancelotti faz último treino antes do Japão com quatro atacantes e dúvida no gol entre Morisco e Bento",
-     "resumo": "O provável time tem Wesley, Jair, Gabriel Magalhães e Douglas Santos na defesa, Andrey Santos e Bruno Guimarães no meio e Raphinha, Estêvão, Vini Jr. e Rayan no ataque. O amistoso é no sábado (14), às 7h15, no Estádio Nacional de Singapura.",
+     "titulo": "Ancelotti define a Seleção para o Japão com Rayan no meio, Carlos Augusto na lateral e Morisco no gol",
+     "resumo": "O time provável tem Wesley, Jair, Gabriel Magalhães e Carlos Augusto; Andrey Santos, Bruno Guimarães e Rayan; Estêvão, Raphinha, novo camisa 10, e Vini Jr. O amistoso é no sábado (14), às 7h15, no Estádio Nacional de Singapura, com transmissão da TV Globo e do SporTV.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-repete-selecao-brasileira-com-quatro-atacantes-em-treino/"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/brasil/ancelotti-escalacao-selecao-brasileira-japao-duvidas/"
-      },
-      {
-       "n": "Placar",
-       "u": "https://placar.com.br/selecao-brasileira/selecao-ancelotti-testa-rayan-como-meia-e-volta-de-bruno-guimaraes/"
-      },
-      {
        "n": "VAVEL",
-       "u": "https://www.vavel.com/br/futebol/2026/11/13/selecao-brasileira/1279084-selecao-deve-ter-4-2-4-contra-o-japao-duvida-no-meio.html"
+       "u": "https://www.vavel.com/br/futebol/2026/11/13/selecao-brasileira/1279122-ancelotti-define-selecao-com-novidade-para-pegar-o-japao.html"
+      },
+      {
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/ancelotti-rayan-meio-brasil-japao-escalacao"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/confira-a-provavel-escalacao-do-brasil-para-amistoso-contra-o-japao"
+      },
+      {
+       "n": "Diário do Nordeste",
+       "u": "https://diariodonordeste.verdesmares.com.br/jogada/ancelotti-promove-ultimos-testes-na-selecao-brasileira-veja-escalacao-contra-o-japao-1.3805392"
       }
      ]
     },
@@ -713,16 +719,20 @@
      "resumo": "A partida começa às 20h, com transmissão do SporTV, e marca o início do trabalho de Diego Forlán no Uruguai. Scaloni não terá Lautaro Martínez e Cuti Romero, lesionados, e deve testar jovens de olho na Copa América.",
      "fontes": [
       {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/13/internet-e-redes-sociais/argentina-x-uruguai-onde-assistir-horario-e-escalacoes-do-amistoso"
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4368553/argentina-enfrenta-uruguai-no-primeiro-jogo-sem-messi-veja-onde-assistir"
+      },
+      {
+       "n": "Lance",
+       "u": "https://www.lance.com.br/onde-assistir/argentina-x-uruguai-onde-assistir-horario-e-escalacoes.html"
       },
       {
        "n": "SBT Sports",
        "u": "https://sports.sbt.com.br/noticia/futebol/argentina-x-uruguai-onde-assistir-escalacoes-e-arbitragem-2"
       },
       {
-       "n": "The Football",
-       "u": "https://thefootball.com.br/argentina-x-uruguai-onde-assistir-argentina-tera-seu-primeiro-jogo-apos-a-aposentadoria-de-lionel-messi/"
+       "n": "MisionesOnline",
+       "u": "https://misionesonline.net/2026/11/13/lionel-scaloni-define-el-once-de-argentina-para-recibir-a-uruguay-en-la-bombonera/"
       }
      ]
     },
@@ -864,8 +874,36 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Piso no STF e Enem",
+   "nota": "Enem, piso no STF e IA nas escolas",
    "itens": [
+    {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Enem tem segundo dia no domingo com 90 questões de Matemática e Ciências da Natureza; prova vai até 18h30",
+     "resumo": "Os portões abrem às 12h e fecham às 13h, pelo horário de Brasília; o caderno de questões só pode ser levado a partir das 18h. Em São Paulo, há previsão de chuva forte à tarde, e quem perder a prova por problemas logísticos ou desastres naturais pode pedir reaplicação de 16 a 20 de novembro; ela ocorre em 15 e 16 de dezembro.",
+     "foto": {
+      "src": "fotos/enamed.jpg",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-confira-as-orientacoes-para-o-segundo-dia-de-provas"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/13/enem-2026-candidatos-fazem-provas-de-matematica-e-ciencias-da-natureza-neste-domingo-15/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/enem-2026-veja-local-e-horario-do-segundo-dia-de-prova"
+      },
+      {
+       "n": "Inep",
+       "u": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-segundo-dia-tera-itens-de-matematica-e-ciencias-da-natureza"
+      }
+     ]
+    },
     {
      "kicker": "Piso do magistério",
      "quando": "Ontem",
@@ -898,30 +936,6 @@
     },
     {
      "kicker": "Enem",
-     "quando": "Hoje",
-     "titulo": "Segundo dia do Enem é no domingo, com Matemática e Ciências da Natureza; reaplicação pode ser pedida de 16 a 20",
-     "resumo": "Os portões abrem às 12h e fecham às 13h, pelo horário de Brasília, e a prova começa às 13h30. Candidatos de locais afetados por falta de luz ou problemas climáticos no primeiro dia podem solicitar a reaplicação na Página do Participante.",
-     "foto": {
-      "src": "fotos/enamed.jpg",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Inep",
-       "u": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-segundo-dia-tera-itens-de-matematica-e-ciencias-da-natureza"
-      },
-      {
-       "n": "Tribuna do Norte",
-       "u": "https://tribunadonorte.com.br/brasil/enem-2026-segundo-dia-de-provas-sera-no-proximo-domingo-veja-horarios/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame"
-      }
-     ]
-    },
-    {
-     "kicker": "Enem",
      "quando": "11/11",
      "titulo": "Escola Sem Partido pede na Justiça a anulação da redação do Enem sobre o SUS; juiz dá 72 horas para o Inep se manifestar",
      "resumo": "A associação quer suspender a correção ou impedir o uso das notas até uma decisão. O Inep ainda não respondeu publicamente; o prazo foi fixado pela 20ª Vara Federal Cível do DF.",
@@ -947,24 +961,18 @@
      ]
     },
     {
-     "kicker": "Livro didático",
-     "quando": "11/11",
-     "titulo": "Editoras alertam para risco de atraso nos livros didáticos de 2027; MEC diz que material chegará às escolas",
-     "resumo": "Os contratos para os livros de 1º ao 5º ano, destinados a cerca de 10 milhões de alunos, ainda não foram assinados.",
-     "lados": [
-      {
-       "quem": "Editoras",
-       "txt": "A Abrelivros diz que os contratos precisam ser fechados na próxima semana e que o MEC sinalizou limite orçamentário para comprar todo o material."
-      },
-      {
-       "quem": "MEC e FNDE",
-       "txt": "Afirmam que a contratação está em negociação e que todos os livros chegarão às escolas públicas para o próximo ano letivo."
-      }
-     ],
+     "kicker": "Inteligência artificial",
+     "quando": "10/11",
+     "titulo": "MEC aprova diretrizes para IA nas escolas: veto na educação infantil e uso mediado no fundamental",
+     "resumo": "O parecer do Conselho Nacional de Educação mantém com o professor a responsabilidade por notas e aprovações e proíbe práticas como reconhecimento de emoções e vigilância biométrica contínua. No ensino médio não há restrição de etapa, e as redes têm 12 meses para se adaptar.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/7qcUOR7jtt-JO7i91dsPKDZMF34=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7268.jpg_0.jpg?itok=hCrUo2-6",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "A Crítica",
-       "u": "https://acritica.net/educacao/livros-didaticos-para-2027-correm-risco-de-atraso-alertam-editoras-mec-nega/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao"
       }
      ]
     }
@@ -974,7 +982,7 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Starship, Nvidia e IA",
+   "nota": "Starship, pane da Microsoft e Nvidia",
    "itens": [
     {
      "kicker": "Espaço",
@@ -983,16 +991,40 @@
      "resumo": "A janela de 75 minutos abre às 19h45, pelo horário de Brasília, se houver aval regulatório e tempo favorável. A nave deve dar cerca de 14 voltas na Terra, liberar 26 satélites Starlink e, se as condições permitirem, ser capturada pelos braços da torre cerca de um dia depois.",
      "fontes": [
       {
+       "n": "Space.com",
+       "u": "https://space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live"
+      },
+      {
+       "n": "ABC News",
+       "u": "https://abcnews.com/US/spacex-starship-flight-15-major-step-full-rocket/story?id=138053402"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/space-x-tentara-recuperar-foguete-starship-apos-voo-espacial"
+      },
+      {
        "n": "Engadget",
        "u": "https://www.engadget.com/2311878/spacex-first-attempt-to-catch-both-starship-stages-november-13/"
+      }
+     ]
+    },
+    {
+     "kicker": "Tecnologia",
+     "quando": "Hoje",
+     "titulo": "Falha da Microsoft deixa Outlook, Teams e Copilot instáveis por mais de 12 horas em vários países",
+     "resumo": "A empresa atribuiu o problema a servidores, disse não haver sinal de ataque e relatou sinais de estabilização após correções. A pane atingiu órgãos de governo, corretoras, companhias aéreas e empresas que adiaram divulgações de resultados.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/outlook-teams-e-copilot-da-microsoft-ainda-estao-fora-do-ar"
       },
       {
-       "n": "Interesting Engineering",
-       "u": "https://interestingengineering.com/space/spacex-starship-flight-15-launch-date-objectives"
+       "n": "Tecnoblog",
+       "u": "https://tecnoblog.net/noticias/outlook-fica-fora-do-ar-e-dificulta-acesso-a-e-mails/"
       },
       {
-       "n": "Space Launch Schedule",
-       "u": "https://www.spacelaunchschedule.com/news/starship-flight-15-launch-date-how-to-watch/"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/servicos-da-microsoft-seguem-fora-no-ar-nesta-sexta-feira"
       }
      ]
     },
@@ -1066,8 +1098,28 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Grammy Latino e despedidas",
+   "nota": "Despedidas e Grammy Latino",
    "itens": [
+    {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre aos 91 anos Claudette Soares, a 'Princesinha do Baião', no dia em que lançou álbum inédito",
+     "resumo": "Segundo sua assessoria, a cantora sofreu um mal súbito durante a noite, em São Paulo. Apelidada por Luiz Gonzaga nos anos 1950, ela passou pela bossa nova, pela Jovem Guarda e pelos festivais e gravou 'De Tanto Amor'; o disco 'O Mundo É Ruim pra Quem Não Sabe Esperar', com dez faixas inéditas, saiu nesta sexta.",
+     "fontes": [
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/cultura/claudette-soares-a-princesinha-do-baiao-morre-aos-91-anos"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/celebridades/morre-a-cantora-claudette-soares-aos-91-anos-em-sao-paulo/"
+      },
+      {
+       "n": "Farol da Bahia",
+       "u": "https://www.faroldabahia.com.br/noticia/luto-no-dia-de-lancamento-de-album-cantora-claudette-soares-morre-aos-91-anos"
+      }
+     ]
+    },
     {
      "kicker": "Grammy Latino",
      "quando": "Ontem",
@@ -1130,37 +1182,13 @@
     },
     {
      "kicker": "Morte",
-     "quando": "11/11",
-     "titulo": "Morre aos 85 anos o ator americano Stacy Keach, o detetive Mike Hammer da TV",
-     "resumo": "Segundo a mulher, Malgosia Tomassi, ele morreu em casa, na Polônia, após longa luta contra uma doença cardíaca. Keach também atuou em 'Prison Break', 'A Outra História Americana' e 'Nebraska' e ganhou um Globo de Ouro ao interpretar Ernest Hemingway.",
+     "quando": "Hoje",
+     "titulo": "Morre aos 43 anos Christian Cousins, um dos gêmeos de 'Um Tira no Jardim de Infância'",
+     "resumo": "A morte foi confirmada pelo irmão, que disse que o ator sofria de doença hepática. Ele dividiu com o gêmeo Joseph o papel de Dominic, no filme estrelado por Arnold Schwarzenegger, e atuou na série 'Knots Landing'.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/11/estados-unidos-morre-aos-85-anos-o-actor-stacy-keach-de-mike-hammer-e-prison-break"
-      },
-      {
-       "n": "DN",
-       "u": "https://www.dn.pt/cultura/morre-stacy-keach-protagonista-de-mike-hammer-e-figura-marcante-do-cinema-e-da-televiso-tinha-85-anos"
-      },
-      {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/12/stacy-keach-85-anos-morre-apos-mais-de-60-anos-de-carreira-no-teatro/"
-      }
-     ]
-    },
-    {
-     "kicker": "Cinema",
-     "quando": "Ontem",
-     "titulo": "Semana de estreias tem Johnny Depp como Scrooge, novo filme de Asghar Farhadi e nacionais com Irandhir Santos",
-     "resumo": "Entre os lançamentos estão 'Ebenezer e os Fantasmas do Natal', de Ti West, e 'Contos Paralelos', de Farhadi, com Isabelle Huppert. Entre os brasileiros, chegam 'Enquanto o Céu Não Me Espera', 'Só Não Posso Dizer o Nome', de Helvécio Ratton, e o documentário 'Nação Ubuntu'.",
-     "fontes": [
-      {
-       "n": "AdoroCinema",
-       "u": "https://www.adorocinema.com/filmes/agenda/week-2026-11-12/"
-      },
-      {
-       "n": "Cinema e Afins",
-       "u": "https://cinemaeafins.com.br/estreias-da-semana-12-de-novembro-de-2026/"
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/colunas/fabia-oliveira/ator-de-um-tira-no-jardim-de-infancia-christian-cousins-morre-aos-43-anos"
       }
      ]
     }
