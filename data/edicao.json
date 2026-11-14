@@ -1,28 +1,28 @@
 {
- "data": "Sexta-feira, 13 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "13/11/2026 · 19h20 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
+ "data": "Sábado, 14 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "14/11/2026 · 07h20 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
  "mercado_hora": "Cotações de 18h00",
- "fontes": 68,
+ "fontes": 78,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento",
+   "nome": "Ibovespa · fechamento de sexta",
    "valor": "172.458 pts",
    "var": "+0,66%",
    "dir": "up"
   },
   {
-   "nome": "Dólar à vista · fechamento",
+   "nome": "Dólar à vista · fechamento de sexta",
    "valor": "R$ 5,657",
-   "var": "+0,11%",
+   "var": "+2,63% na semana",
    "dir": "up"
   },
   {
-   "nome": "Brent · 18h",
+   "nome": "Brent · fechamento de sexta",
    "valor": "US$ 95,84",
-   "var": "+0,02%",
-   "dir": "up"
+   "var": "2ª queda semanal",
+   "dir": "down"
   },
   {
    "nome": "IPCA · outubro",
@@ -39,18 +39,13 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 13/11 · 19h45",
-   "txt": "Abre a janela do voo 15 da Starship; às 20h, Argentina x Uruguai na Bombonera",
-   "cat": "ciencia"
-  },
-  {
    "hora": "Sáb 14/11 · 7h15",
-   "txt": "Brasil x Japão em Singapura; na terça (17), às 7h, a Seleção enfrenta Singapura",
+   "txt": "Brasil x Japão em Singapura; por volta das 18h15, a Starship tenta pousar a nave na torre",
    "cat": "esporte"
   },
   {
-   "hora": "Sáb 14 e dom 15/11",
-   "txt": "Lula participa da cúpula da Asean, em Manila; INSS faz mutirão com 7,9 mil vagas em oito estados",
+   "hora": "Dom 15/11",
+   "txt": "Lula participa da abertura da cúpula da Asean, em Manila; Espanha x Inglaterra pela Liga das Nações",
    "cat": "politica"
   },
   {
@@ -60,13 +55,18 @@
   },
   {
    "hora": "Seg 16/11",
-   "txt": "STF retoma o julgamento virtual das regras de transição da escala 5x2; ministro da Agricultura negocia a carne suína nas Filipinas",
+   "txt": "STF retoma o julgamento virtual da escala 5x2; ministro da Agricultura negocia a carne suína nas Filipinas",
    "cat": "politica"
   },
   {
    "hora": "Ter 17/11",
-   "txt": "Senado vota os destaques do ajuste fiscal; Nvidia divulga balanço trimestral",
+   "txt": "Senado vota os destaques do ajuste fiscal; Brasil x Singapura às 7h; Argentina x Costa Rica às 20h30",
    "cat": "politica"
+  },
+  {
+   "hora": "Qua 18 e qui 19/11",
+   "txt": "Cúpula da Apec em Shenzhen, com encontro inédito entre Trump, Xi e Putin",
+   "cat": "mundo"
   }
  ],
  "acervo": [
@@ -163,44 +163,48 @@
  ],
  "manchete": {
   "kicker": "Aviação",
-  "titulo": "EUA suspendem decolagens em todos os aeroportos do país após falha de comunicação no controle aéreo",
-  "resumo": "A FAA, agência de aviação americana, mandou manter em solo todos os voos com partida dos EUA na tarde desta sexta, sem prazo para a retomada. Segundo o secretário de Transportes, Sean Duffy, o problema atingiu todos os centros de controle de rotas.",
-  "entenda": "Os centros de controle de tráfego aéreo em rota coordenam os aviões entre um aeroporto e outro; sem comunicação com eles, a FAA decidiu interromper as partidas por segurança, citando \"circunstâncias extraordinárias\". Aviões que já estavam no ar puderam seguir para pouso, alguns com espera, e voos internacionais com destino aos EUA passaram a ser avaliados caso a caso. Segundo o Flightradar24, cerca de 3.100 aeronaves voavam para aeroportos americanos no momento da ordem, e o FlightAware contava quase 7 mil voos atrasados ou cancelados, segundo a Reuters. Fontes ouvidas pela CNN disseram que as informações preliminares não apontam para ataque cibernético. A última paralisação nacional, em janeiro de 2023, durou menos de duas horas, mas provocou mais de 1.300 cancelamentos e cerca de 10 mil atrasos.",
+  "titulo": "EUA retomam voos após quase cinco horas de paralisação nacional; governo culpa equipamentos antigos e pede US$ 50 bilhões ao Congresso",
+  "resumo": "A FAA liberou as decolagens na noite de sexta, por volta das 20h15 no horário de Nova York, depois da maior parada nacional desde o 11 de Setembro. Cerca de 6 mil voos foram cancelados no mundo, e a agência avisa que a normalização vai levar tempo.",
+  "foto": {
+   "src": "fotos/aviao.jpg",
+   "credito": "Rovena Rosa/Agência Brasil (arquivo)"
+  },
+  "entenda": "A ordem de manter os aviões em solo foi dada na tarde de sexta, depois de uma falha de comunicação nos centros que controlam o tráfego aéreo entre aeroportos. Segundo o secretário de Transportes, Sean Duffy, o problema veio de equipamentos de radar e comunicação antigos, alguns dos anos 1980, e não dos sistemas novos; ele classificou a situação como emergência e pediu ao Congresso US$ 50 bilhões para modernizar o controle aéreo. O governo diz não ter encontrado sinal de ataque hacker, mas a investigação continua, e o FBI apura uma atualização de software. Mais de 800 aviões foram desviados para aeroportos fora do plano de voo, com mais impacto em Chicago, Nova York, Atlanta e Dallas. A parada ocorre a menos de duas semanas do feriado de Ação de Graças, um dos períodos de maior movimento do ano nos EUA, e as autoridades admitem que novas falhas podem ocorrer até a troca dos equipamentos.",
   "fatos": [
-   "Ordem vale \"até novo aviso\", sem horário para a retomada",
-   "Cerca de 3.100 aviões estavam a caminho de aeroportos dos EUA",
-   "Aeroportos como Atlanta, Boston e Miami pedem que passageiros consultem as companhias"
+   "Suspensão durou entre quatro e cinco horas, segundo diferentes veículos",
+   "Cerca de 6 mil voos cancelados no mundo e mais de 800 desviados",
+   "Governo descarta, por ora, ataque cibernético; FBI investiga software"
   ],
   "fontes": [
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/mundo/voos-nos-eua-foram-suspensos-apos-problema-de-comunicacao-diz-secretario",
-    "d": "declaração de Duffy"
+    "n": "O Antagonista",
+    "u": "https://oantagonista.com.br/mundo/eua-retomam-decolagens-apos-quase-cinco-horas-de-paralisacao/",
+    "d": "pedido de US$ 50 bi"
+   },
+   {
+    "n": "RTP",
+    "u": "https://www.rtp.pt/noticias/mundo/voos-retomados-nos-eua-apos-suspensao-que-cancelou-seis-mil-ligacoes-em-todo-o-mundo_n1779090",
+    "d": "retomada e cancelamentos"
+   },
+   {
+    "n": "Metro 1",
+    "u": "https://www.metro1.com.br/noticias/internacional/191408,voos-sao-retomados-nos-eua-apos-quatro-horas-de-suspensao-total",
+    "d": "duração da parada"
+   },
+   {
+    "n": "Jornal de Notícias",
+    "u": "https://www.jn.pt/mundo/artigo/espaco-aereo-dos-estados-unidos-reaberto-apos-suspensao-de-voos/18148094",
+    "d": "reabertura do espaço aéreo"
+   },
+   {
+    "n": "Airway",
+    "u": "https://www.airway.com.br/eua-retomam-voos-apos-pane-em-sistema-antigo-de-controle-aereo/",
+    "d": "sistema antigo"
    },
    {
     "n": "Jovem Pan",
     "u": "https://jovempan.com.br/mundo/entenda-por-que-os-eua-suspenderam-as-decolagens-em-todo-o-pais/",
-    "d": "causa e números"
-   },
-   {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/mundo/eua-suspendem-decolagens-em-todos-os-aeroportos-do-pais-por-razoes-de-seguranca/",
-    "d": "ordem da FAA"
-   },
-   {
-    "n": "SBT News",
-    "u": "https://sbtnews.sbt.com.br/noticia/mundo/mais-de-mil-avioes-seguem-no-ar-apos-suspensao-nos-eua",
-    "d": "aviões no ar"
-   },
-   {
-    "n": "Exame",
-    "u": "https://exame.com/mundo/eua-suspendem-decolagens-de-voos-em-todos-os-aeroportos-do-pais/",
-    "d": "alcance da suspensão"
-   },
-   {
-    "n": "ABC News",
-    "u": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
-    "d": "cobertura nos EUA"
+    "d": "causa da suspensão"
    }
   ]
  },
@@ -209,11 +213,73 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Escala 5x2 no STF, ajuste fiscal e PF",
+   "nota": "Lula em Manila, ajuste fiscal e STF",
    "itens": [
     {
-     "kicker": "Escala 5x2",
+     "kicker": "Viagem internacional",
      "quando": "Hoje",
+     "titulo": "Em Manila, Lula se reúne com Marcos Jr., critica extremismo e ingerência externa e cancela duas falas por rouquidão",
+     "resumo": "Na primeira visita de Estado após a reeleição e a primeira de um presidente brasileiro às Filipinas, Lula defendeu a soberania, citou o fechamento de Ormuz e reafirmou apoio à autodeterminação palestina. A declaração conjunta e o discurso no fórum empresarial foram cancelados por desgaste da voz; a ida à abertura da cúpula da Asean, no domingo, está mantida.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/na-1a-visita-de-estado-apos-reeleicao-lula-critica-extremismo-e-ingerencia/"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/14/lula-cancelar-compromissos-filipinas-rouquidao"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/mundo/nas-filipinas-lula-visita-imagem-de-nossa-senhora-aparecida"
+      },
+      {
+       "n": "Rappler",
+       "u": "https://www.rappler.com/philippines/brazil-lula-arrives-manila-state-visit-asean-summit-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Ontem",
+     "titulo": "Senado vota na terça os quatro destaques do ajuste fiscal; oposição quer limite de gastos menor e governo defende o texto-base",
+     "resumo": "O texto-base foi aprovado na quinta por 45 a 31 e reduz de 2,5% para 2% acima da inflação o teto de crescimento das despesas em anos de contenção. O Executivo calcula ganho de R$ 45,1 bilhões a R$ 56,1 bilhões em 2027; depois dos destaques, o projeto segue para a Câmara.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
+      "credito": "Lula Marques/Agência Brasil"
+     },
+     "lados": [
+      {
+       "quem": "Governo e relator Eduardo Braga (MDB-AM)",
+       "txt": "Dizem que o pacote é necessário para fechar o Orçamento de 2027 e cumprir a meta fiscal sem cortes bruscos em áreas sociais."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "Rogério Marinho (PL-RN) propõe teto de 0,6% e congelamentos obrigatórios; senadores criticam o impacto sobre estados e o setor produtivo."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/senado-vota-na-proxima-terca-feira-mudancas-no-ajuste-fiscal-de-lula/"
+      },
+      {
+       "n": "TV Senado",
+       "u": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/11/ajuste-fiscal-votacao-dos-destaques-pode-mudar-o-projeto"
+      },
+      {
+       "n": "Frances News",
+       "u": "https://francesnews.com.br/post/2026/11/13/45931-senado-aprova-texto-base-do-ajuste-fiscal-mas-deixa-conclusao-para-terca-feira"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/senado-aprova-pacote-de-ajuste-fiscal-do-governo-lula/"
+      }
+     ]
+    },
+    {
+     "kicker": "Escala 5x2",
+     "quando": "Ontem",
      "titulo": "STF forma quatro votos para manter a escala 5x2 a partir de 16 de dezembro; Câmara pede que Corte derrube seis pontos da decisão de Dino",
      "resumo": "Dino, Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes votaram no plenário virtual para referendar a decisão que mantém o calendário da jornada de 42 horas com dois descansos semanais; o julgamento continua na segunda (16). A Câmara concorda com a data, mas contesta regras de transição fixadas pelo relator.",
      "lados": [
@@ -246,46 +312,30 @@
      ]
     },
     {
-     "kicker": "Ajuste fiscal",
-     "quando": "Hoje",
-     "titulo": "Kassab elogia ajuste fiscal e acena ao governo; oposição diz que pacote aumenta impostos e tenta mudar limite de gastos na terça",
-     "resumo": "O presidente do PSD disse em São Paulo que gostou do texto aprovado no Senado e quer colaborar com Lula, mas que cargos em ministérios são secundários para o partido. Hugo Motta deve definir com líderes, no início da semana, a data de votação na Câmara, depois que o Senado analisar quatro destaques na terça (17).",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
-      "credito": "Lula Marques/Agência Brasil"
-     },
+     "kicker": "STF",
+     "quando": "Ontem",
+     "titulo": "PGR se manifesta contra a revisão criminal pedida pela defesa de Bolsonaro; caso deve ir ao plenário",
+     "resumo": "O procurador-geral Paulo Gonet enviou ao STF parecer contrário ao pedido para rever a condenação a 27 anos de prisão. Com a manifestação, o relator, Kassio Nunes Marques, pode liberar o caso para julgamento.",
      "lados": [
       {
-       "quem": "Governo e aliados",
-       "txt": "Afirmam que o pacote, com melhora estimada de até R$ 60 bilhões nas contas de 2027, garante estabilidade fiscal e querem aprová-lo antes do Orçamento."
+       "quem": "PGR",
+       "txt": "Diz que a defesa não trouxe fatos novos, que não houve cerceamento de defesa e que a condenação se apoiou em provas."
       },
       {
-       "quem": "Oposição",
-       "txt": "O líder Rogerio Marinho (PL-RN) diz que o projeto eleva a carga tributária sem cortar despesas, reduz repasses aos estados e tira da meta R$ 10,5 bilhões em subsídio ao diesel."
+       "quem": "Defesa de Bolsonaro",
+       "txt": "Questiona a cadeia de custódia das provas digitais, aponta nulidades processuais e pede a suspensão da pena até o julgamento do recurso."
       }
      ],
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/congresso/2026/11/13/kassab-diz-que-gostou-do-ajuste-fiscal-aprovado-no-senado-e-que-quer-colaborar-com-lula"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana"
-      },
-      {
-       "n": "TV Senado",
-       "u": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/11/lider-da-oposicao-diz-que-ajuste-fiscal-aumenta-impostos-e-nao-corta-gastos"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/economia/aliados-lula-rejeitam-ajuste-fiscal-contas-publicas/"
+       "n": "Diário do Grande ABC/Estadão",
+       "u": "https://www.dgabc.com.br/Noticia/4368543/pgr-se-manifesta-contra-revisao-criminal-de-condenacao-de-bolsonaro"
       }
      ]
     },
     {
      "kicker": "Investigação",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "PF faz nova fase da operação sobre emendas ligadas a 'Dark Horse' e mira ex-assessor de Mario Frias",
      "resumo": "A segunda fase da Operação Make Up cumpriu um mandado de busca em Brasília contra um investigado que não havia sido localizado na primeira etapa, apontado como ex-assessor do deputado. O inquérito apura suspeitas de peculato, lavagem de dinheiro e fraude em licitações na destinação de emendas à produtora do filme sobre Jair Bolsonaro.",
      "lados": [
@@ -316,42 +366,6 @@
        "u": "https://revistaforum.com.br/brasil/pf-operacao-desvio-emendas-dark-horse/"
       }
      ]
-    },
-    {
-     "kicker": "Pesquisa",
-     "quando": "Hoje",
-     "titulo": "Primeira AtlasIntel após a reeleição mostra 50,3% de desaprovação e 47,7% de aprovação ao governo Lula",
-     "resumo": "Na comparação com outubro, os números oscilaram dentro da margem de erro de 2 pontos: 39,1% avaliam o trabalho do presidente como bom ou ótimo e 47,9% como ruim ou péssimo. O levantamento, feito com a Bloomberg, ouviu 4.946 pessoas entre 5 e 9 de novembro.",
-     "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7538370-governo-lula-e-desaprovado-por-503-e-aprovado-por-477-diz-pesquisa.html"
-      },
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/politica/2026/11/7538417-governo-lula-e-desaprovado-por-503-e-aprovado-por-477-indica-atlasintel.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Diplomacia",
-     "quando": "Hoje",
-     "titulo": "Lula chega a Manila e quer elevar o Brasil a parceiro de diálogo da Asean, o nível mais alto de relação com o bloco",
-     "resumo": "O presidente participa da cúpula da Asean no fim de semana e tenta elevar o Brasil a parceiro de diálogo do bloco. A comitiva também quer reverter a suspensão, por 60 dias a partir de 24 de novembro, das compras de carne suína brasileira pelas Filipinas, principal destino do produto.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/depois-da-turquia-lula-chega-as-filipinas-para-cupula-da-asean/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-chega-filipinas-brasil-quer-ser-parceiro-de-dialogo-da-asean"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/lula-chega-as-filipinas-em-busca-de-destravar-novos-mercados-e-impasses"
-      }
-     ]
     }
    ]
   },
@@ -359,41 +373,65 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Fechamento, carne suína e vazamento",
+   "nota": "Semana do dólar, diesel e carne suína",
    "itens": [
     {
      "kicker": "Mercado",
-     "quando": "Hoje",
-     "titulo": "Ibovespa sobe 0,66% e fecha a 172.458 pontos; dólar termina a R$ 5,657, no maior valor desde junho de 2025",
-     "resumo": "Na semana, a Bolsa ganhou 2,35%, puxada por varejistas e petroleiras, enquanto o dólar acumulou alta de 2,63%. Pesaram as dúvidas sobre o alcance do ajuste fiscal; a inflação ao produtor nos EUA abaixo do esperado aliviou o temor com os juros americanos.",
+     "quando": "Ontem",
+     "titulo": "Dólar fecha a semana em R$ 5,657, com alta de 2,63%, no maior nível desde junho de 2025; Ibovespa sobe pela segunda semana",
+     "resumo": "Na sexta, a bolsa subiu 0,66% e fechou a 172.458 pontos, apoiada no avanço do ajuste fiscal no Senado e na recuperação do petróleo. O mercado segue atento à votação dos destaques na terça e aos sinais do Fed, que pode voltar a subir juros em dezembro.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Itabira Online",
+       "u": "https://itabiraonline.com.br/2026/11/13/dolar-fecha-a-r-565-e-acumula-alta-de-263-na-semana-ibovespa-sobe-066/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/11/13/bolsa-de-valores-encerra-segunda-semana-seguida-no-azul"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/ibovespa-fecha-em-alta-com-o-ajuste-fiscal-e-recuperacao-do-petroleo-davs/"
+      },
+      {
+       "n": "Grupo Ceres",
+       "u": "https://grupoceres.net.br/2026/11/14/ibovespa-sobe-235-na-semana-enquanto-dolar-permanece-no-maior-patamar-desde-junho-de-2025/"
+      }
+     ]
+    },
+    {
+     "kicker": "Combustíveis",
+     "quando": "Ontem",
+     "titulo": "Governo não renova subsídio de R$ 1,40 por litro ao diesel importado; ajuda de R$ 2,12 ao diesel rodoviário continua",
+     "resumo": "A Fazenda informou na noite de sexta que a subvenção ao produto importado, criada em outubro por causa da alta do petróleo, venceu e não será prorrogada. O diesel importado responde por mais de 25% do consumo, e o ministério diz que um novo benefício depende da evolução dos preços internacionais.",
+     "fontes": [
+      {
+       "n": "BM&C News",
+       "u": "https://bmcnews.com.br/economia/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado/"
+      },
+      {
+       "n": "Diário de Suzano",
+       "u": "https://www.diariodesuzano.com.br/nacional/2026/11/13/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado.html"
+      },
+      {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-13-novembro"
-      },
-      {
-       "n": "TradeMap",
-       "u": "https://trademap.com.br/noticias/news-8601458"
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado"
       }
      ]
     },
     {
      "kicker": "Exportação",
-     "quando": "Hoje",
-     "titulo": "Comitiva chega a Manila para tentar reverter suspensão de 60 dias da carne suína brasileira nas Filipinas",
-     "resumo": "As Filipinas compraram 25,9% da carne suína exportada pelo Brasil em 2025, cerca de US$ 885 milhões, e alegam que a importação derrubou preços pagos aos produtores locais. O ministro da Agricultura, André de Paula, tem reunião marcada para segunda (16) com autoridades do país.",
+     "quando": "Ontem",
+     "titulo": "Ministro da Agricultura negocia na segunda a suspensão de 60 dias da carne suína brasileira nas Filipinas",
+     "resumo": "As Filipinas, principal destino da carne suína do Brasil, suspenderão as compras a partir de 24 de novembro para conter a queda de preços aos produtores locais. Em 2025, o país comprou 381 mil toneladas, cerca de 26% das exportações, ou US$ 885 milhões; André de Paula integra a comitiva de Lula.",
      "fontes": [
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/agro/brasil-desembarca-nas-filipinas-para-tentar-reverter-suspensao-de-suinos/"
+       "u": "https://www.cnnbrasil.com.br/politica/na-1a-visita-de-estado-apos-reeleicao-lula-critica-extremismo-e-ingerencia/"
       },
       {
        "n": "Gazeta do Povo",
@@ -407,7 +445,7 @@
     },
     {
      "kicker": "Dados pessoais",
-     "quando": "Ontem",
+     "quando": "12/11",
      "titulo": "Caixa Seguridade informa ataque hacker e vazamento de dados cadastrais de 7,6 milhões de clientes",
      "resumo": "Foram expostos nomes e CPFs e, em parte dos casos, endereços, telefones, e-mails e datas de nascimento; a empresa diz não haver sinal de acesso a senhas, dados bancários ou saldos de previdência. A recomendação é desconfiar de contatos que peçam pagamentos, códigos ou senhas em nome da Caixa.",
      "fontes": [
@@ -427,37 +465,13 @@
     },
     {
      "kicker": "Balanços",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Nubank lucra US$ 1,09 bilhão no trimestre; Braskem tem prejuízo de R$ 1,07 bilhão e Cemig dobra o lucro",
      "resumo": "A temporada de resultados do terceiro trimestre também trouxe lucro de R$ 1,45 bilhão da Rede D'Or e queda de 36% no ganho do Grupo Mateus. O IRB Re reverteu o lucro de um ano antes e teve prejuízo contábil de R$ 456 milhões.",
      "fontes": [
       {
        "n": "Mercado Hoje",
        "u": "https://mercadohoje.uai.com.br/2026/11/13/noticias-hoje-13-11-2026"
-      }
-     ]
-    },
-    {
-     "kicker": "Indicadores",
-     "quando": "Hoje",
-     "titulo": "Vendas do varejo crescem 0,2% em setembro, acima do esperado; IBGE vê estabilidade",
-     "resumo": "O comércio acumula alta de 1,7% em 12 meses, mas recuou 0,3% no terceiro trimestre e está 1% abaixo do pico de março. Informática e comunicação (7,6%) e combustíveis (2,8%) puxaram a alta; móveis e eletrodomésticos caíram 2,6%.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/7r0yAg4rJEbX3YxN-tJT2aNAirw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/movimento_de_vendas_de_brinquedos_para_o_dia_das_criancas_comercio_varejista_nas_ruas_do_polo_saara_centro_do_rio_de_janeiro_ffraz_abr_100720210100.jpg?itok=4inwcj8O",
-      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade"
-      },
-      {
-       "n": "Ativo Virtual",
-       "u": "https://www.ativovirtual.com.br/avnews/artigos/ajuste-fiscal-aprovado-varejo-acima-do-esperado-o-que-muda-no-ibovespa"
-      },
-      {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-varejo-ppi-balancos"
       }
      ]
     }
@@ -467,21 +481,33 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporais em SP e mutirão do INSS",
+   "nota": "Operação nas fronteiras, chuva e INSS",
    "itens": [
     {
-     "kicker": "Temporais",
-     "quando": "Hoje",
-     "titulo": "Chuva forte com granizo deixa mais de 100 mil imóveis sem luz na Grande São Paulo",
-     "resumo": "Segundo a Enel, cerca de 104 mil imóveis estavam sem energia no início da tarde, depois de a Defesa Civil emitir alerta severo para toda a região metropolitana, com raios e ventos fortes. Houve granizo nas zonas leste e norte, quedas de árvores e alagamento que interrompeu a linha 10-Turquesa da CPTM.",
+     "kicker": "Segurança",
+     "quando": "Ontem",
+     "titulo": "Operação Protetor começa em todos os estados e no DF e vai até 12 de dezembro, com reforço nas fronteiras",
+     "resumo": "Coordenado pelo Ministério da Justiça, o novo ciclo tem frentes nas fronteiras, nas divisas entre estados, nos biomas e com equipes de cães farejadores. Em Mato Grosso do Sul o foco é contrabando e tráfico de armas perto do Paraguai e da Bolívia; em Roraima, as divisas com Venezuela e Guiana.",
      "fontes": [
       {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/chuva-forte-em-sao-paulo-mais-de-100-mil-imoveis-sem-energia/"
-      },
+       "n": "Revista Sociedade Militar",
+       "u": "https://www.sociedademilitar.com.br/2026/11/brasil-inicia-operacao-nacional-de-seguranca-em-26-estados-por-30-dias-e-reforca-acoes-nas-fronteiras-com-paraguai-bolivia-venezuela-e-guiana-nbd.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Temporais",
+     "quando": "Ontem",
+     "titulo": "Depois do granizo de sexta, São Paulo tem sábado com pouca chuva, mas temporais voltam no domingo",
+     "resumo": "A chuva forte de sexta deixou mais de 85 mil imóveis sem luz na Grande São Paulo ainda no fim da manhã e levou o CGE a decretar atenção para alagamentos em toda a capital. Para domingo, a previsão é de pancadas fortes à tarde, com raios e rajadas acima de 50 km/h, no dia do Enem.",
+     "fontes": [
       {
        "n": "Exame",
        "u": "https://exame.com/brasil/chuva-forte-atinge-sp-e-defesa-civil-emite-alertas-de-temporais-veja-previsao-para-o-fim-de-semana/"
+      },
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/tempo/chuva-forte-em-sao-paulo-mais-de-100-mil-imoveis-sem-energia/"
       },
       {
        "n": "Mix Vale",
@@ -510,20 +536,28 @@
      ]
     },
     {
-     "kicker": "Corrupção",
-     "quando": "Hoje",
-     "titulo": "PF investiga sobrepreço de até dez vezes em contratos de motobombas após as enchentes de 2024 no RS",
-     "resumo": "Foram cumpridos 13 mandados de busca em cidades gaúchas e em Itapema (SC), e a Justiça bloqueou mais de R$ 10 milhões. Os contratos, pagos com verba federal em Canoas e Cachoeirinha, teriam favorecido uma empresa sem estrutura que subcontratava o serviço por valores menores; os investigados não foram identificados.",
+     "kicker": "Santa Catarina",
+     "quando": "Ontem",
+     "titulo": "Campanha da Udesc reúne doações para 1,5 mil indígenas atingidos por tornados e temporais no oeste catarinense",
+     "resumo": "As famílias guarani e kaingang vivem nas terras Toldo Chimbangue, Toldo Chimbangue II e Aldeia Kondá, segundo o Instituto Socioambiental. Mais de cem municípios do estado foram afetados pelos temporais de novembro.",
      "fontes": [
       {
-       "n": "Sim Notícias/CNN Brasil",
-       "u": "https://simnoticias.com.br/cnn-brasil/operacao-mira-fraudes-em-contratacoes-emergenciais-apos-enchentes-no-rs/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/sc-campanha-reune-doacoes-para-indigenas-atingidos-por-tempestades"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/brasil/2026/11/13/sc-campanha-reune-doacoes-para-indigenas-atingidos-por-tempestades.html"
+      },
+      {
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/brasil/sc-campanha-reune-doacoes-para-indigenas-atingidos-por-tempestades/"
       }
      ]
     },
     {
      "kicker": "Feriado",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Consciência Negra cai numa sexta-feira e cria fim de semana prolongado em todo o país no dia 20",
      "resumo": "O Dia Nacional de Zumbi e da Consciência Negra é feriado nacional desde a lei de 2023. Hospitais e serviços essenciais funcionam normalmente, e quem trabalhar na data tem direito a pagamento em dobro ou folga compensatória.",
      "fontes": [
@@ -543,13 +577,33 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ormuz, Ucrânia e Gaza",
+   "nota": "Trump, Xi e Putin, Ormuz e Ucrânia",
    "itens": [
     {
-     "kicker": "Irã",
+     "kicker": "Diplomacia",
      "quando": "Hoje",
-     "titulo": "Irã diz que navio de gás natural explodiu ao bater em mina em Ormuz e afirma ter destruído radar dos EUA no Bahrein",
-     "resumo": "A Guarda Revolucionária afirma que a embarcação ignorou avisos e usou uma rota não autorizada com escolta de caças americanos; não houve confirmação independente nem informação sobre vítimas. Na véspera, Trump retirou JD Vance das negociações e disse que os EUA não precisam de acordo com Teerã.",
+     "titulo": "Casa Branca anuncia encontro inédito de Trump com Xi e Putin em Shenzhen, durante a cúpula da Apec",
+     "resumo": "A reunião a três deve ocorrer na semana que vem, à margem da cúpula de 18 e 19 de novembro, com foco na redução de armas nucleares e na guerra com o Irã; a Ucrânia fica fora da pauta. Trump passa antes pelas Filipinas, e Moscou e Pequim ainda não comentaram o anúncio.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says"
+      },
+      {
+       "n": "The Week",
+       "u": "https://www.theweek.in/news/world/2026/11/14/trump-xi-putin-trilateral-meeting-apec.html"
+      },
+      {
+       "n": "The Tribune",
+       "u": "https://www.tribuneindia.com/news/china/trump-to-hold-first-ever-trilateral-meeting-with-xi-putin-at-apec-summit-in-china-next-week/"
+      }
+     ]
+    },
+    {
+     "kicker": "Irã",
+     "quando": "Ontem",
+     "titulo": "Irã diz que dois petroleiros explodiram em minas em Ormuz e ameaça qualquer navio que entrar na zona proibida",
+     "resumo": "Segundo a Guarda Revolucionária, os navios estavam com radares desligados; um terceiro ficou imobilizado a leste do estreito, e Teerã também afirma ter destruído um radar dos EUA no Bahrein. Trump rejeitou retomar a guerra em larga escala e mantém o bloqueio naval, enquanto Israel pressiona por novos ataques, segundo o Axios.",
      "lados": [
       {
        "quem": "Irã",
@@ -562,28 +616,28 @@
      ],
      "fontes": [
       {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/navio-que-transportava-gas-natural-explode-apos-colidir-com-mina-em-ormuz-diz-ira/"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/13/aviso-serio-a-washington-irao-afirma-ter-destruido-radar-dos-eua-no-bahrein"
       },
       {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/mundo/ira-relata-explosao-de-navio-carregado-de-gnl-em-ormuz-e-de-sistema-de-radar-dos-eua-no-bahrein/"
+       "n": "Executive Digest",
+       "u": "https://executivedigest.sapo.pt/irao-dois-petroleiros-em-chamas-apos-atingirem-minas-guarda-revolucionaria/"
       },
       {
-       "n": "24 Notícias",
-       "u": "https://24noticias.sapo.pt/atualidade/artigos/irao-reivindica-ataque-a-radar-dos-eua-no-bahrein"
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/mundo/ira-relata-explosao-de-navio-carregado-de-gnl-em-ormuz-e-de-sistema-de-radar-dos-eua-no-bahrein-1.1193805"
       },
       {
-       "n": "Just Security",
-       "u": "https://www.justsecurity.org/164357/early-edition-november-13-2026/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/ira-e-eua-trocam-ataques-enquanto-disputa-por-ormuz-se-intensifica-entenda/"
       }
      ]
     },
     {
      "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Zelensky anuncia a maior troca de prisioneiros da guerra após reunião com enviados de Trump em Dublin",
-     "resumo": "O encontro com Steve Witkoff e Jared Kushner, na noite de quinta, ocorreu logo depois de os dois se reunirem com Putin em Moscou; os detalhes não foram divulgados. O Kremlin diz que Putin e Trump vão tratar do acordo na cúpula da Apec, e a coalizão de países que apoiam Kiev se reúne em Berlim na próxima semana.",
+     "quando": "Ontem",
+     "titulo": "Rússia ataca energia, ferrovias e portos ucranianos por cerca de 22 horas; Zelensky fala em troca de mais de mil prisioneiros",
+     "resumo": "Moscou diz ter atingido alvos em 14 regiões, e drones acertaram uma subestação em Kiev; a Ucrânia atingiu de novo a refinaria de Volgogrado, e autoridades russas relatam sete mortos. A troca anunciada após a reunião com enviados de Trump em Dublin ainda não tem data, e o Kremlin diz que os parâmetros estão sendo finalizados.",
      "fontes": [
       {
        "n": "Kyiv Independent",
@@ -600,72 +654,26 @@
       {
        "n": "SBT News",
        "u": "https://sbtnews.sbt.com.br/noticia/mundo/zelensky-se-encontra-com-enviados-dos-eua-em-dublin"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Ataque russo de madrugada provoca incêndio em unidade médica de Kiev; adolescente morre em Zaporizhzhia",
-     "resumo": "Segundo o serviço de emergência ucraniano, 30 pessoas foram retiradas do prédio em Kiev, que teve o segundo andar danificado. Em Zaporizhzhia, um bombardeio matou um jovem de 17 anos e feriu quatro pessoas, entre elas uma criança de 10.",
-     "fontes": [
-      {
-       "n": "Sergipe News",
-       "u": "https://www.sergipenewsoficial.com/noticia/ataque-russo-atinge-unidade-medica-em-kiev-e-deixa-feridos-na-ucrania"
       },
       {
-       "n": "112 Ukraine",
-       "u": "https://112.ua/en/rosia-zavdala-udaru-dronami-po-kievu-pozeza-v-nacionalnomu-instituti-travmatologii-ta-postrazdali-197940"
-      },
-      {
-       "n": "TSN",
-       "u": "https://kyiv.tsn.ua/kyiv/rf-atakuvala-kyyiv-u-likarni-spalakhnula-pozeza-ye-ruynuvannia-usi-podrobytsi-foto-3215579.html"
+       "n": "Destaques da Geopolítica",
+       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-14-nov-2026"
       }
      ]
     },
     {
      "kicker": "Gaza",
-     "quando": "Ontem",
-     "titulo": "Mortos em ataques israelenses em Gaza na quinta sobem para 13, sete deles no complexo do Hospital Nasser",
-     "resumo": "Entre as vítimas no hospital de Khan Younis estão um médico e uma criança de 13 anos; outras mortes ocorreram em Al Mawasi e perto do Hospital Al-Shifa, na Cidade de Gaza. A OMS condenou o ataque a serviços de saúde; o cessar-fogo vigora desde outubro de 2025.",
-     "lados": [
-      {
-       "quem": "Exército de Israel",
-       "txt": "Diz que o alvo era um comandante da brigada do Hamas em Khan Younis e acusa o grupo de usar o hospital para se rearmar."
-      },
-      {
-       "quem": "Hamas e autoridades de Gaza",
-       "txt": "Negam o uso militar do hospital, chamam a justificativa de falsa e dizem que mais de 1.600 pessoas morreram desde o cessar-fogo."
-      }
-     ],
+     "quando": "Hoje",
+     "titulo": "Bebê de nove meses morre de hipotermia em Gaza, a primeira morte por frio do inverno; ataque em Deir al-Balah mata três",
+     "resumo": "Segundo o Ministério da Saúde local, uma criança e uma mulher estão entre os mortos no bombardeio, que deixou 20 feridos. O balanço divulgado no sábado aponta 1.622 palestinos mortos desde o cessar-fogo de outubro de 2025.",
      "fontes": [
       {
-       "n": "DNoticias/Lusa",
-       "u": "https://www.dnoticias.pt/2026/11/13/512800-ataques-israelitas-em-gaza-na-quinta-feira-causaram-13-mortos/"
+       "n": "Radio Pakistan",
+       "u": "https://www.radio.gov.pk/14-11-2026/three-palestinians-martyred-in-latest-israeli-attacks-on-gaza"
       },
       {
-       "n": "CNN",
-       "u": "https://www.cnn.com/2026/11/12/middleeast/israeli-strike-gaza-hospital-kills-six-intl"
-      },
-      {
-       "n": "NBC News",
-       "u": "https://www.nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932"
-      }
-     ]
-    },
-    {
-     "kicker": "Papa",
-     "quando": "Ontem",
-     "titulo": "Papa Leão XIV percorre Lima, encontra Keiko Fujimori e reúne 52 mil jovens no Estádio Nacional",
-     "resumo": "Na Catedral, o papa pediu justiça, perdão e reparação nos casos de abuso no clero e falou em reconciliação no Peru. A viagem pela América do Sul, que passou por Uruguai e Argentina, segue por Chiclayo, Cusco e Pucallpa e termina na segunda (16).",
-     "fontes": [
-      {
-       "n": "El Comercio",
-       "u": "https://elcomercio.pe/peru/papa-leon-xiv-en-peru-en-vivo-hoy-minuto-a-minuto-actividades-rutas-agenda-de-su-visita-y-ultimas-noticias-del-sumo-pontifice-vaticano-lbposting-noticia/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/um-mes-apos-cirurgia-papa-leao-inicia-viagem-america-do-sul"
+       "n": "Destaques da Geopolítica",
+       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-14-nov-2026"
       }
      ]
     }
@@ -675,75 +683,79 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Seleção, Liga das Nações e F1",
+   "nota": "Seleção, Bombonera e Liga das Nações",
    "itens": [
     {
      "kicker": "Seleção",
      "quando": "Hoje",
-     "titulo": "Seleção faz último treino em Singapura com os 25 convocados; Brasil enfrenta o Japão às 7h15 de sábado",
-     "resumo": "A provável escalação tem Pedro Morisco; Wesley, Jair, Gabriel Magalhães e Douglas Santos ou Carlos Augusto; Andrey Santos, Bruno Guimarães e Rayan; Estêvão, Raphinha e Vini Jr. Ancelotti deve manter a base e deixar os testes para o jogo contra Singapura, na terça (17).",
+     "titulo": "Brasil enfrenta o Japão em Singapura nesta manhã, com três meio-campistas e Raphinha de capitão e camisa 10",
+     "resumo": "O jogo, às 7h15, é o penúltimo amistoso do ano e o primeiro reencontro desde a virada por 2 a 1 nas oitavas da Copa; a provável escalação tem Andrey Santos, Bruno Guimarães e Rayan no meio. Na terça, às 7h, a Seleção fecha 2026 contra Singapura.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/brasil/selecao-brasileira-faz-ultimo-treino-antes-da-partida-contra-o-japao,01493133ee6e868ae73d437463c6d5femz67l6qx.html"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/esportes/2026/11/13/brasil-tera-tres-meio-campistas-em-amistoso-contra-japao-neste-sabado.html"
       },
       {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4368686/brasil-reencontra-japao-apos-copa-veja-provavel-time-de-ancelotti"
+       "n": "CBF",
+       "u": "https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/brasil-reencontra-japao-neste-sabado-em-singapura"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/esporte/selecao-brasileira-quando-e-o-amistoso-do-brasil-contra-o-japao/"
-      }
-     ]
-    },
-    {
-     "kicker": "Liga das Nações",
-     "quando": "Hoje",
-     "titulo": "Alemanha vence a Sérvia por 3 a 1 em Belgrado e segue viva; Holanda goleia a Grécia por 7 a 0 e se classifica",
-     "resumo": "Wirtz e Gruda marcaram, além de um gol contra de Babic, num estádio sem torcida por punição da Uefa; a Sérvia terminou com dois expulsos. Com 8 pontos, a Alemanha decide a vaga contra a líder Holanda na segunda; Reijnders fez três gols na goleada em Amsterdã.",
-     "fontes": [
-      {
-       "n": "O Liberal",
-       "u": "https://oliberal.com/esportes/alemanha-bate-servia-e-aumenta-chances-de-vaga-na-liga-das-nacoes-holanda-faz-7-na-grecia-1.1194172"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-japao-escalacoes-e-onde-assistir-ao-amistoso-da-selecao/"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://gazetaesportiva.com/times/alemanha/alemanha-vence-servia-fora-de-casa-e-segue-viva-na-liga-das-nacoes"
-      },
-      {
-       "n": "365Scores",
-       "u": "https://365scores.com/pt-br/news/magazine/alemanha-vence-servia-briga-classificacao-nations-resultados"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-tera-tres-meio-campistas-em-amistoso-contra-japao-neste-sabado"
       }
      ]
     },
     {
      "kicker": "Amistoso",
-     "quando": "Hoje",
-     "titulo": "Argentina enfrenta o Uruguai na Bombonera no primeiro jogo depois da aposentadoria de Messi da seleção",
-     "resumo": "A partida começa às 20h, com transmissão do SporTV, e marca o início do trabalho de Diego Forlán no Uruguai. Scaloni não terá Lautaro Martínez e Cuti Romero, lesionados, e deve testar jovens de olho na Copa América.",
+     "quando": "Ontem",
+     "titulo": "Uruguai vence a Argentina por 2 a 1 na Bombonera no primeiro jogo dos argentinos sem Messi",
+     "resumo": "Os uruguaios marcaram no início do segundo tempo, com gol contra de Balerdi e cabeçada de Maxi Araújo, ambos em bolas paradas cobradas por Arrascaeta; Julián Álvarez descontou. Na terça, a Argentina recebe a Costa Rica em Córdoba.",
      "fontes": [
       {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4368553/argentina-enfrenta-uruguai-no-primeiro-jogo-sem-messi-veja-onde-assistir"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/uruguai-bate-argentina-na-bombonera-em-primeiro-jogo-da-era-pos-messi/"
       },
       {
-       "n": "Lance",
-       "u": "https://www.lance.com.br/onde-assistir/argentina-x-uruguai-onde-assistir-horario-e-escalacoes.html"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/com-gols-no-segundo-tempo-uruguai-vence-a-argentina-em-la-bombonera"
       },
       {
-       "n": "SBT Sports",
-       "u": "https://sports.sbt.com.br/noticia/futebol/argentina-x-uruguai-onde-assistir-escalacoes-e-arbitragem-2"
+       "n": "La Nación",
+       "u": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-uruguay-en-vivo-nid13112026/"
       },
       {
-       "n": "MisionesOnline",
-       "u": "https://misionesonline.net/2026/11/13/lionel-scaloni-define-el-once-de-argentina-para-recibir-a-uruguay-en-la-bombonera/"
+       "n": "Infobae",
+       "u": "https://www.infobae.com/deportes/2026/11/13/argentina-comenzara-la-era-post-messi-con-un-choque-ante-uruguay-hora-tv-y-formaciones/"
+      }
+     ]
+    },
+    {
+     "kicker": "Liga das Nações",
+     "quando": "Ontem",
+     "titulo": "Holanda goleia a Grécia por 7 a 0, maior placar da história da Liga das Nações; Alemanha vence a Sérvia",
+     "resumo": "Wirtz e Gruda marcaram, além de um gol contra de Babic, num estádio sem torcida por punição da Uefa; a Sérvia terminou com dois expulsos. Com 8 pontos, a Alemanha decide a vaga contra a líder Holanda na segunda; Reijnders fez três gols na goleada em Amsterdã.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/holanda-goleia-grecia-por-7-x-0-e-se-isola-na-lideranca-da-nations-league"
+      },
+      {
+       "n": "365Scores",
+       "u": "https://www.365scores.com/pt-br/news/magazine/holanda-maior-goleada-historia-nations-league-ranking/"
+      },
+      {
+       "n": "Uefa",
+       "u": "https://pt.uefa.com/uefanationsleague/news/02ab-220e7630495a-f5de78f6bc9c-1000--resumo-da-jornada-5-da-uefa-nations-league-paises-baixos-mar/"
       }
      ]
     },
     {
      "kicker": "Finais",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Com o Brasileirão parado, temporada de finais começa dia 21 com Atlético-MG x Boca na Sul-Americana",
      "resumo": "O Palmeiras decide a Libertadores contra o Estudiantes em 28 de novembro, em Montevidéu, e a Copa do Brasil contra o Grêmio em 6 de dezembro, em Brasília, ambas em jogo único. O Brasileirão volta na quarta (18), com o Flamengo na liderança, três pontos à frente do Palmeiras.",
      "fontes": [
@@ -763,7 +775,7 @@
     },
     {
      "kicker": "Fórmula 1",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "GP de Las Vegas, com Bortoleto e Rafael Câmara, terá corrida na madrugada de domingo (22), à 1h",
      "resumo": "Com os títulos de pilotos e de construtores já definidos, a Mercedes campeã entre as equipes, as três últimas etapas valem a disputa pelo vice. O primeiro treino livre é na quinta (19), às 21h30, pelo horário de Brasília.",
      "fontes": [
@@ -787,17 +799,37 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Mpox, concurso e Anvisa",
+   "nota": "Covid, mpox e concurso",
    "itens": [
     {
-     "kicker": "Mpox",
+     "kicker": "Vigilância",
      "quando": "Ontem",
-     "titulo": "Brasil passa de mil casos de mpox em 2026, com alta de 22% em menos de uma semana",
-     "resumo": "O painel do Ministério da Saúde registra 1.023 casos confirmados e uma morte, com Rio de Janeiro e São Paulo concentrando a maior parte. O governo comprou 25 mil doses da vacina, com entrega prevista em cerca de três semanas, e orientou estados a usar a aplicação intradérmica, que rende mais doses; a vacinação segue restrita a grupos de maior risco.",
+     "titulo": "Fiocruz aponta alta de casos graves de Covid-19 em seis estados, entre eles São Paulo, Rio e Minas",
+     "resumo": "O boletim InfoGripe registra aumento na Bahia, no Distrito Federal, em Minas, no Paraná, no Rio e em São Paulo, embora o total de casos graves siga baixo. O rinovírus ainda lidera as internações por síndrome respiratória, e a fundação recomenda manter a vacinação em dia, sobretudo para idosos e gestantes.",
      "foto": {
       "src": "fotos/vacina.jpg",
       "credito": "Tomaz Silva/Agência Brasil (arquivo)"
      },
+     "fontes": [
+      {
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/covid-19-fiocruz-alta-casos-graves-seis-estados"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://brasil247.com/saude/casos-graves-de-covid-19-voltam-a-crescer-no-brasil-aponta-fiocruz"
+      },
+      {
+       "n": "Folha BV",
+       "u": "https://folhabv.com.br/saude-e-bem-estar/boa-vista-tem-aumento-de-casos-graves-de-doencas-respiratorias-aponta-fiocruz"
+      }
+     ]
+    },
+    {
+     "kicker": "Mpox",
+     "quando": "12/11",
+     "titulo": "Brasil passa de mil casos de mpox em 2026, com alta de 22% em menos de uma semana",
+     "resumo": "O painel do Ministério da Saúde registra 1.023 casos confirmados e uma morte, com Rio de Janeiro e São Paulo concentrando a maior parte. O governo comprou 25 mil doses da vacina, com entrega prevista em cerca de três semanas, e orientou estados a usar a aplicação intradérmica, que rende mais doses; a vacinação segue restrita a grupos de maior risco.",
      "fontes": [
       {
        "n": "CNN Brasil",
@@ -819,7 +851,7 @@
     },
     {
      "kicker": "Concurso",
-     "quando": "Ontem",
+     "quando": "12/11",
      "titulo": "Ministério da Saúde abre seleção com 759 vagas de nível superior e salários de até R$ 10,3 mil",
      "resumo": "São 300 vagas imediatas e as demais para cadastro de reserva, com contratos de um ano. As inscrições vão até 14 de dezembro, com taxa de R$ 60, e a prova está marcada para 17 de janeiro em sete capitais.",
      "fontes": [
@@ -830,22 +862,10 @@
       {
        "n": "TV Sim Brasil",
        "u": "https://tvsimbrasil.com.br/brasil/concursos/noticia/2026/11/12/ministerio-saude-abre-300-vagas-temporarias"
-      }
-     ]
-    },
-    {
-     "kicker": "Vigilância sanitária",
-     "quando": "Ontem",
-     "titulo": "Anvisa manda recolher insumos de tirzepatida e retatrutida guardados de forma irregular por distribuidora",
-     "resumo": "A medida atinge um lote de tirzepatida e todos os lotes de retatrutida da Condor Importador, destinados a farmácias de manipulação, cujo depósito não tinha estrutura adequada. A agência lembra que a retatrutida ainda está em pesquisa e não tem aprovação em nenhum país.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/brasil/2026/11/12/anvisa-manda-recolher-insumos-de-tirzepatida-e-retatrutida-armazenados-irregularmente"
       },
       {
-       "n": "TNH1",
-       "u": "https://tnh1.com.br/noticia/nid/anvisa-manda-recolher-lotes-de-insumos-para-canetas-emagrecedoras"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/11/13/saude-selecao-com-759-vagas-e-salarios-de-rs-10-mil.html"
       }
      ]
     }
@@ -855,13 +875,13 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Enem, livros didáticos e piso",
+   "nota": "Enem no domingo e reaplicação",
    "itens": [
     {
      "kicker": "Enem",
      "quando": "Hoje",
      "titulo": "Enem tem segundo dia no domingo com 90 questões de Matemática e Ciências da Natureza; prova vai até 18h30",
-     "resumo": "Os portões abrem às 12h e fecham às 13h, pelo horário de Brasília; o caderno de questões só pode ser levado a partir das 18h. Em São Paulo, há previsão de chuva forte à tarde, e quem perder a prova por problemas logísticos ou desastres naturais pode pedir reaplicação de 16 a 20 de novembro; ela ocorre em 15 e 16 de dezembro.",
+     "resumo": "São 45 questões de Ciências da Natureza e 45 de Matemática, sem redação; os portões abrem às 12h, fecham às 13h, e a prova vai das 13h30 às 18h30. Só vale caneta preta de tubo transparente, e é preciso levar documento original com foto.",
      "foto": {
       "src": "fotos/enamed.jpg",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
@@ -882,12 +902,32 @@
       {
        "n": "Inep",
        "u": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-segundo-dia-tera-itens-de-matematica-e-ciencias-da-natureza"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/euestudante/enem/2026/11/7538272-enem-no-domingo-15-portoes-fecham-as-13h-e-prova-dura-cinco-horas.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Enem",
+     "quando": "Ontem",
+     "titulo": "Quem faltou ao primeiro dia pode fazer a prova de domingo; pedidos de reaplicação vão de 16 a 20 de novembro",
+     "resumo": "A reaplicação vale para quem comprovar problema logístico ou doença infectocontagiosa da lista do Inep e será em 15 e 16 de dezembro. O gabarito sai até o décimo dia útil após a prova, e os resultados estão previstos para janeiro de 2027.",
+     "fontes": [
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/euestudante/enem/2026/11/7538272-enem-no-domingo-15-portoes-fecham-as-13h-e-prova-dura-cinco-horas.html"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame"
       }
      ]
     },
     {
      "kicker": "Livro didático",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Editoras alertam para atraso de livros didáticos em 2027; MEC diz que todos serão entregues",
      "resumo": "A compra prevista é de 96,5 milhões de exemplares para cerca de 10 milhões de alunos do 1º ao 5º ano, e o FNDE ainda precisa complementar cerca de R$ 700 milhões. Um segundo lote, com Inglês, Espanhol e educação digital, ainda não tem data; MEC e FNDE dizem que a contratação está em negociação.",
      "fontes": [
@@ -899,7 +939,7 @@
     },
     {
      "kicker": "Piso do magistério",
-     "quando": "Ontem",
+     "quando": "12/11",
      "titulo": "STF suspende de novo o julgamento sobre o piso dos professores; Fachin promete retomar na próxima semana",
      "resumo": "A análise foi interrompida na sessão de quinta sem data marcada para a retomada. Está em jogo se a correção do piso, de R$ 5.130,63 em 2026 para 40 horas, deve se refletir automaticamente nos planos de carreira de estados e municípios.",
      "lados": [
@@ -933,35 +973,47 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Starship, Microsoft e Nvidia",
+   "nota": "Starship, IA e Microsoft",
    "itens": [
     {
      "kicker": "Espaço",
      "quando": "Hoje",
-     "titulo": "SpaceX tenta lançar hoje o voo 15 da Starship e recuperar pela primeira vez os dois estágios com a torre",
-     "resumo": "A SpaceX autorizou o abastecimento do foguete para a janela que abre às 19h45, pelo horário de Brasília. A nave deve dar cerca de 14 voltas na Terra, liberar 26 satélites Starlink e, se as condições permitirem, ser capturada pelos braços da torre cerca de um dia depois.",
+     "titulo": "Starship chega à órbita e solta 26 satélites, mas SpaceX desiste de pegar o propulsor na torre; nave tenta pousar hoje",
+     "resumo": "O voo 15 decolou do Texas na noite de sexta; o Super Heavy foi desviado para o Golfo do México e, segundo a Reuters, explodiu perto da água, sem explicação da empresa. Se os sistemas estiverem em ordem, a nave deve voltar à base por volta das 18h15 (Brasília) para a primeira captura de um segundo estágio.",
      "fontes": [
       {
        "n": "Space.com",
-       "u": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt"
+       "u": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
       },
       {
-       "n": "ABC News",
-       "u": "https://abcnews.com/US/spacex-starship-flight-15-major-step-full-rocket/story?id=138053402"
+       "n": "Infobae",
+       "u": "https://infobae.com/tecno/2026/11/14/starship-llego-a-orbita-y-solto-26-satelites-starlink-este-sabado-intentara-aterrizar-en-la-torre-de-lanzamiento"
       },
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/space-x-tentara-recuperar-foguete-starship-apos-voo-espacial"
+       "n": "Democrata",
+       "u": "https://democrata.es/pt/atualidade/o-starship-tentara-neste-sabado-sua-primeira-captura-na-torre-apos-enviar-o-propulsor-ao-mar"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/ciencia/starship-decola-nesta-sexta-feira-o-que-se-sabe-sobre-o-15o-voo-da-spacex/"
+       "n": "Hot Air",
+       "u": "https://hotair.com/john-s-2/2026/11/13/starship-test-flight-15-has-a-clean-launch-but-no-tower-catch-n3820990"
+      }
+     ]
+    },
+    {
+     "kicker": "Inteligência artificial",
+     "quando": "Ontem",
+     "titulo": "OpenAI testa carteira digital que deixa agente de IA fazer compras sem expor o cartão",
+     "resumo": "O ChatGPT Wallet, feito com American Express, Mastercard e Visa, troca os dados do cartão por um código e exige aprovação por biometria a cada compra. Por enquanto, vale só para assinantes Pro nos EUA, sem previsão para o Brasil.",
+     "fontes": [
+      {
+       "n": "iMasters",
+       "u": "https://imasters.com.br/noticia/chatgpt-wallet-deixa-agentes-de-ia-pagar-compras-sem-expor-o-cartao-real"
       }
      ]
     },
     {
      "kicker": "Pane",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Outlook volta aos poucos após mais de 20 horas de falha; Microsoft atribui pane a sobrecarga de servidores",
      "resumo": "A empresa nega ataque hacker e diz que muitos servidores saíram do ar de uma vez, sobrecarregando os demais e afetando sobretudo o Exchange Online, além de Teams e Copilot. No pico, o Downdetector recebeu 140 mil relatos em 74 países; a recuperação é gradual para evitar novo colapso.",
      "fontes": [
@@ -985,7 +1037,7 @@
     },
     {
      "kicker": "Nvidia",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Nvidia volta a cair após rebaixamento do HSBC; FT diz que conselho sondou chefe da Arm para suceder Huang",
      "resumo": "As ações recuavam mais de 2% nesta sexta, depois de perderem mais de 4% na véspera, e o Nasdaq caía perto de 0,9%. O HSBC avalia que os papéis seguem pressionados até haver plano de sucessão; Colette Kress comanda a empresa interinamente.",
      "fontes": [
@@ -1002,18 +1054,6 @@
        "u": "https://www.spacemoney.com.br/tecnologia/nvidia-busca-consultoria-sucessao-huang"
       }
      ]
-    },
-    {
-     "kicker": "Inteligência artificial",
-     "quando": "Ontem",
-     "titulo": "Google lança o Gemini 4 Hydrogen, modelo rápido e gratuito no app e na busca",
-     "resumo": "É o terceiro modelo da geração Gemini 4, voltado a tarefas do dia a dia e a agentes, e substitui o 3.8 Flash pelo mesmo preço para desenvolvedores. Parte dos ganhos de desempenho divulgados vem de testes escolhidos pelo próprio Google.",
-     "fontes": [
-      {
-       "n": "Antihype",
-       "u": "https://antihype.com.br/c/ia/gemini-4-hydrogen-ia-rapida-google-gratis/"
-      }
-     ]
     }
    ]
   },
@@ -1021,11 +1061,31 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Despedidas e Grammy Latino",
+   "nota": "Rogério Fróes, Dira Paes e Claudette Soares",
    "itens": [
     {
+     "kicker": "Luto",
+     "quando": "Ontem",
+     "titulo": "Morre aos 92 anos o ator Rogério Fróes, de \"O Bem-Amado\" e \"Prova de Amor\"",
+     "resumo": "A morte foi comunicada pela família nas redes sociais, sem informar a causa. Com seis décadas de carreira no teatro, na TV e no cinema, ele atuou em \"Selva de Pedra\", \"Menino do Rio\" e \"Três Verões\".",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/2026/11/14/morre-o-ator-rogerio-froes-aos-92-anos"
+      },
+      {
+       "n": "Sou Mais Pop",
+       "u": "https://soumaispop.com.br/2026/11/13/morreu-aos-92-anos-o-ator-rogerio-froes/"
+      },
+      {
+       "n": "Área VIP",
+       "u": "https://www.areavip.com.br/famosos/morre-ator-rogerio-froes-aos-92-anos/"
+      }
+     ]
+    },
+    {
      "kicker": "Morte",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Morre aos 91 anos Claudette Soares, a 'Princesinha do Baião', no dia em que lançou álbum inédito",
      "resumo": "A cantora carioca teve um mal súbito durante a madrugada, em São Paulo, no dia em que saiu \"O Mundo É Ruim pra Quem Não Sabe Esperar\", seu primeiro disco só de inéditas, com canções de Marcos Valle, Arnaldo Antunes e Guilherme Arantes. Apelidada por Luiz Gonzaga, passou pelo baião, pela bossa nova e pela Jovem Guarda.",
      "fontes": [
@@ -1044,8 +1104,28 @@
      ]
     },
     {
+     "kicker": "TV",
+     "quando": "Ontem",
+     "titulo": "Dira Paes pede desculpas após críticas ao retrato do sertão em \"Lá na Minha Terra\"",
+     "resumo": "A atriz havia defendido a estética da novela da Globo, que recebeu críticas nas redes por reforçar uma imagem caricata do Nordeste. Ela disse lamentar ter magoado espectadores e que não quis ofender o povo do sertão.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/2026/11/14/dira-paes-quebra-silencio-apos-falas-sobre-nordeste-em-la-na-minha-terra"
+      },
+      {
+       "n": "Pipoca Moderna",
+       "u": "https://pipocamoderna.com.br/2026/11/dira-paes-desculpas-nordeste-la-na-minha-terra/"
+      },
+      {
+       "n": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/dira-paes-pede-desculpas-criticas-sertao-novela-globo/"
+      }
+     ]
+    },
+    {
      "kicker": "Morte",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Morre aos 43 anos Christian Cousins, um dos gêmeos de 'Um Tira no Jardim de Infância'",
      "resumo": "A morte foi confirmada pelo irmão, que disse que o ator sofria de doença hepática. Ele dividiu com o gêmeo Joseph o papel de Dominic, no filme estrelado por Arnold Schwarzenegger, e atuou na série 'Knots Landing'.",
      "fontes": [
@@ -1057,7 +1137,7 @@
     },
     {
      "kicker": "Grammy Latino",
-     "quando": "Ontem",
+     "quando": "12/11",
      "titulo": "Rosalía vence Álbum do Ano no Grammy Latino, e Anitta conquista seu primeiro prêmio após 12 indicações",
      "resumo": "A espanhola levou seis troféus, entre eles Álbum do Ano por \"Lux\" e Canção do Ano por \"La Perla\", e é a primeira mulher a vencer a principal categoria três vezes. Anitta ganhou Melhor Álbum de Pop Contemporâneo em Língua Portuguesa com \"Equilibrivm\"; Gravação do Ano ficou com o argentino Milo J.",
      "fontes": [
@@ -1076,42 +1156,6 @@
       {
        "n": "NBC News",
        "u": "https://www.nbcnews.com/pop-culture/pop-culture-news/rosali-wins-album-year-lux-electrifying-latin-grammy-awards-rcna609115"
-      }
-     ]
-    },
-    {
-     "kicker": "Grammy Latino",
-     "quando": "Ontem",
-     "titulo": "Brasil leva dez prêmios, com Leci Brandão, Emicida, Urias, Ney Matogrosso e a trilha de \"O Agente Secreto\"",
-     "resumo": "Johnny Hooker e Ney Matogrosso venceram Melhor Canção em Língua Portuguesa, e Mateus Alves e Tomaz Alves Souza levaram Música para Mídia Visual pela trilha do filme. Também foram premiados Criolo, Amaro Freitas e Dino d'Santiago, Lauana Prado, Eli Soares e o trio João Gomes, Mestrinho e Jota.pê.",
-     "fontes": [
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/diversao/musica/grammy-latino-2026-rosalia-vence-album-do-ano-e-anitta-ganha-pela-1-vez-veja-lista-completa,2eabdfa8c60488ce05290fc1c7b0e9d0rgc4h1we.html"
-      },
-      {
-       "n": "Rolling Stone Brasil",
-       "u": "https://rollingstone.com.br/musica/grammy-latino-2026-vencedores/"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/diversao-e-arte/2026/11/7537766-grammy-latino-2026-veja-os-vencedores-da-premiacao.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Morre aos 82 anos a atriz mexicana Regina Torné, a Glória de 'Chaves'",
-     "resumo": "A morte foi anunciada pela associação de atores do México, a ANDA, que não informou a causa. Em mais de cinco décadas de carreira, ela ganhou o prêmio Ariel por 'Como Água para Chocolate' e atuou em 'Rebelde'.",
-     "fontes": [
-      {
-       "n": "TV Foco",
-       "u": "https://tvfoco.uai.com.br/luto-estrela-de-chaves-morre-aos-82-anos/"
-      },
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4368421/morre-aos-82-anos-regina-torne-atriz-de-chaves-e-rebelde"
       }
      ]
     }
