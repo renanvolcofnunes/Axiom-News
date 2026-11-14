@@ -1,15 +1,15 @@
 {
  "data": "Sábado, 14 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "14/11/2026 · 07h20 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
+ "edicao": "Edição do meio-dia",
+ "atualizado": "14/11/2026 · 12h40 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
  "mercado_hora": "Cotações de 18h00",
- "fontes": 78,
+ "fontes": 77,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento de sexta",
+   "nome": "Ibovespa · fechamento de sexta (bolsa fechada no sábado)",
    "valor": "172.458 pts",
-   "var": "+0,66%",
+   "var": "+2,35% na semana",
    "dir": "up"
   },
   {
@@ -39,8 +39,13 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 14/11 · 7h15",
-   "txt": "Brasil x Japão em Singapura; por volta das 18h15, a Starship tenta pousar a nave na torre",
+   "hora": "Sáb 14/11 · 18h15",
+   "txt": "Starship tenta pousar a nave na torre do Texas, a primeira captura de um segundo estágio",
+   "cat": "ciencia"
+  },
+  {
+   "hora": "Sáb 14/11 · 20h30",
+   "txt": "Chapecoense x Vasco, jogo atrasado do Brasileirão, na Arena Condá",
    "cat": "esporte"
   },
   {
@@ -54,14 +59,9 @@
    "cat": "educacao"
   },
   {
-   "hora": "Seg 16/11",
-   "txt": "STF retoma o julgamento virtual da escala 5x2; ministro da Agricultura negocia a carne suína nas Filipinas",
-   "cat": "politica"
-  },
-  {
-   "hora": "Ter 17/11",
-   "txt": "Senado vota os destaques do ajuste fiscal; Brasil x Singapura às 7h; Argentina x Costa Rica às 20h30",
-   "cat": "politica"
+   "hora": "Ter 17/11 · 7h",
+   "txt": "Brasil x Singapura, sem Ancelotti e Raphinha; Senado vota os destaques do ajuste fiscal",
+   "cat": "esporte"
   },
   {
    "hora": "Qua 18 e qui 19/11",
@@ -162,49 +162,45 @@
   }
  ],
  "manchete": {
-  "kicker": "Aviação",
-  "titulo": "EUA retomam voos após quase cinco horas de paralisação nacional; governo culpa equipamentos antigos e pede US$ 50 bilhões ao Congresso",
-  "resumo": "A FAA liberou as decolagens na noite de sexta, por volta das 20h15 no horário de Nova York, depois da maior parada nacional desde o 11 de Setembro. Cerca de 6 mil voos foram cancelados no mundo, e a agência avisa que a normalização vai levar tempo.",
-  "foto": {
-   "src": "fotos/aviao.jpg",
-   "credito": "Rovena Rosa/Agência Brasil (arquivo)"
-  },
-  "entenda": "A ordem de manter os aviões em solo foi dada na tarde de sexta, depois de uma falha de comunicação nos centros que controlam o tráfego aéreo entre aeroportos. Segundo o secretário de Transportes, Sean Duffy, o problema veio de equipamentos de radar e comunicação antigos, alguns dos anos 1980, e não dos sistemas novos; ele classificou a situação como emergência e pediu ao Congresso US$ 50 bilhões para modernizar o controle aéreo. O governo diz não ter encontrado sinal de ataque hacker, mas a investigação continua, e o FBI apura uma atualização de software. Mais de 800 aviões foram desviados para aeroportos fora do plano de voo, com mais impacto em Chicago, Nova York, Atlanta e Dallas. A parada ocorre a menos de duas semanas do feriado de Ação de Graças, um dos períodos de maior movimento do ano nos EUA, e as autoridades admitem que novas falhas podem ocorrer até a troca dos equipamentos.",
+  "kicker": "Seleção",
+  "titulo": "Japão vence o Brasil por 3 a 2 com gol nos acréscimos em Singapura; Ancelotti e Raphinha são expulsos após reclamar de falta no lance",
+  "resumo": "Vinicius Júnior marcou duas vezes e empatou um jogo que o Japão vencia por 2 a 0 antes dos 20 minutos, mas Sakamoto fez o gol da vitória japonesa no tempo extra. O técnico e o capitão foram expulsos na confusão que se seguiu e desfalcam a Seleção na terça, contra Singapura.",
+  "entenda": "O amistoso desta manhã, no Estádio Nacional de Singapura, foi o primeiro reencontro desde a vitória brasileira por 2 a 1 nas oitavas da Copa. Kubo e Nakamura abriram 2 a 0 no primeiro tempo; Vinicius descontou com um chute de longe e empatou no segundo tempo, também de fora da área, e Endrick ainda acertou a trave. Nos acréscimos, o lance do gol de Sakamoto começou com uma disputa entre Minamino e João Gomes; os brasileiros pediram falta, o árbitro Jansen Foo deixou seguir e o VAR confirmou o gol. Comentaristas de TV se dividiram sobre a arbitragem: parte apontou falta no início da jogada e um pênalti não marcado em Raphinha no primeiro tempo. É a segunda vitória do Japão sobre o Brasil na história. O último jogo da Seleção em 2026 será contra Singapura, na terça (17), às 7h de Brasília.",
   "fatos": [
-   "Suspensão durou entre quatro e cinco horas, segundo diferentes veículos",
-   "Cerca de 6 mil voos cancelados no mundo e mais de 800 desviados",
-   "Governo descarta, por ora, ataque cibernético; FBI investiga software"
+   "Vinicius Júnior fez os dois gols do Brasil, ambos de fora da área",
+   "Gol japonês saiu nos acréscimos e foi mantido pelo VAR",
+   "Ancelotti e Raphinha ficam fora do jogo contra Singapura, na terça"
   ],
   "fontes": [
    {
-    "n": "O Antagonista",
-    "u": "https://oantagonista.com.br/mundo/eua-retomam-decolagens-apos-quase-cinco-horas-de-paralisacao/",
-    "d": "pedido de US$ 50 bi"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-e-raphinha-sao-expulsos-e-desfalcam-brasil-contra-singapura/",
+    "d": "expulsões e desfalques"
    },
    {
-    "n": "RTP",
-    "u": "https://www.rtp.pt/noticias/mundo/voos-retomados-nos-eua-apos-suspensao-que-cancelou-seis-mil-ligacoes-em-todo-o-mundo_n1779090",
-    "d": "retomada e cancelamentos"
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/brasil/brasil-perde-para-o-japao-em-amistoso-em-singapura",
+    "d": "gols do jogo"
    },
    {
-    "n": "Metro 1",
-    "u": "https://www.metro1.com.br/noticias/internacional/191408,voos-sao-retomados-nos-eua-apos-quatro-horas-de-suspensao-total",
-    "d": "duração da parada"
+    "n": "TNH1",
+    "u": "https://www.tnh1.com.br/noticia/nid/brasil-perde-para-o-japao-e-termina-com-ancelotti-e-raphinha-expulsos/",
+    "d": "arbitragem e VAR"
    },
    {
-    "n": "Jornal de Notícias",
-    "u": "https://www.jn.pt/mundo/artigo/espaco-aereo-dos-estados-unidos-reaberto-apos-suspensao-de-voos/18148094",
-    "d": "reabertura do espaço aéreo"
+    "n": "Band",
+    "u": "https://www.band.com.br/esportes/futebol/selecao-brasileira/ancelotti-e-raphinha-sao-expulsos-por-reclamacoes-contra-a-arbitragem",
+    "d": "reclamações contra árbitro"
    },
    {
-    "n": "Airway",
-    "u": "https://www.airway.com.br/eua-retomam-voos-apos-pane-em-sistema-antigo-de-controle-aereo/",
-    "d": "sistema antigo"
+    "n": "O Pantaneiro",
+    "u": "https://www.opantaneiro.com.br/esportes/2026/11/14/japao-vence-brasil-por-3-a-2-apos-gol-nos-acrescimos-em-singapura.html",
+    "d": "histórico do confronto"
    },
    {
-    "n": "Jovem Pan",
-    "u": "https://jovempan.com.br/mundo/entenda-por-que-os-eua-suspenderam-as-decolagens-em-todo-o-pais/",
-    "d": "causa da suspensão"
+    "n": "Diário do Pará",
+    "u": "https://diariodopara.com.br/bola/japao-vence-o-brasil-por-3-a-2-em-amistoso-marcado-por-cinco-gols/",
+    "d": "placar e lances"
    }
   ]
  },
@@ -218,9 +214,13 @@
     {
      "kicker": "Viagem internacional",
      "quando": "Hoje",
-     "titulo": "Em Manila, Lula se reúne com Marcos Jr., critica extremismo e ingerência externa e cancela duas falas por rouquidão",
-     "resumo": "Na primeira visita de Estado após a reeleição e a primeira de um presidente brasileiro às Filipinas, Lula defendeu a soberania, citou o fechamento de Ormuz e reafirmou apoio à autodeterminação palestina. A declaração conjunta e o discurso no fórum empresarial foram cancelados por desgaste da voz; a ida à abertura da cúpula da Asean, no domingo, está mantida.",
+     "titulo": "Em Manila, Lula defende aproximação com a Ásia, mas cancela discursos do sábado por afonia; abertura da Asean no domingo está mantida",
+     "resumo": "Na primeira visita de um presidente brasileiro às Filipinas, Lula se reuniu com Ferdinand Marcos Jr., disse querer diversificar um comércio que se aproxima de US$ 3 bilhões e associou a reeleição à defesa da soberania e da democracia. As duas falas previstas para o dia, entre elas a do fórum com cerca de 200 empresários, foram canceladas por problemas na voz.",
      "fontes": [
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-problemas-na-voz/"
+      },
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/politica/na-1a-visita-de-estado-apos-reeleicao-lula-critica-extremismo-e-ingerencia/"
@@ -481,8 +481,32 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Operação nas fronteiras, chuva e INSS",
+   "nota": "Temporais, operação nas fronteiras e INSS",
    "itens": [
+    {
+     "kicker": "Temporais",
+     "quando": "Hoje",
+     "titulo": "Inmet tem alertas de tempestade em quatro regiões no sábado; no domingo, dia de Enem, a chuva avança sobre todo o Sudeste",
+     "resumo": "Neste sábado, os avisos amarelos cobrem o Sul, boa parte do Centro-Oeste, Minas, Espírito Santo, norte do Rio e o interior do Nordeste, com chuva forte também em estados do Norte. Para domingo, o instituto estende o alerta a todo o Sudeste e o Centro-Oeste, depois do granizo que deixou mais de 85 mil imóveis sem luz na Grande São Paulo na sexta.",
+     "fontes": [
+      {
+       "n": "Paipee",
+       "u": "https://br.paipee.com/2026/11/14/inmet-preve-temporais-em-varias-regioes-do-brasil-neste-fim-de-semana/"
+      },
+      {
+       "n": "A Gazeta",
+       "u": "https://www.agazeta.com.br/clima/es-segue-em-alerta-de-tempestade-no-fim-de-semana-veja-cidades-atingidas-1126"
+      },
+      {
+       "n": "Midiamax",
+       "u": "https://midiamax.com.br/cotidiano/2026/inmet-mantem-alerta-tempestade-mato-grosso-sul-veja-riscos"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/brasil/chuva-forte-atinge-sp-e-defesa-civil-emite-alertas-de-temporais-veja-previsao-para-o-fim-de-semana/"
+      }
+     ]
+    },
     {
      "kicker": "Segurança",
      "quando": "Ontem",
@@ -492,26 +516,6 @@
       {
        "n": "Revista Sociedade Militar",
        "u": "https://www.sociedademilitar.com.br/2026/11/brasil-inicia-operacao-nacional-de-seguranca-em-26-estados-por-30-dias-e-reforca-acoes-nas-fronteiras-com-paraguai-bolivia-venezuela-e-guiana-nbd.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Temporais",
-     "quando": "Ontem",
-     "titulo": "Depois do granizo de sexta, São Paulo tem sábado com pouca chuva, mas temporais voltam no domingo",
-     "resumo": "A chuva forte de sexta deixou mais de 85 mil imóveis sem luz na Grande São Paulo ainda no fim da manhã e levou o CGE a decretar atenção para alagamentos em toda a capital. Para domingo, a previsão é de pancadas fortes à tarde, com raios e rajadas acima de 50 km/h, no dia do Enem.",
-     "fontes": [
-      {
-       "n": "Exame",
-       "u": "https://exame.com/brasil/chuva-forte-atinge-sp-e-defesa-civil-emite-alertas-de-temporais-veja-previsao-para-o-fim-de-semana/"
-      },
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/tempo/chuva-forte-em-sao-paulo-mais-de-100-mil-imoveis-sem-energia/"
-      },
-      {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/13/chuva-em-sao-paulo-provoca-granizo-e-deixa-capital-em-alerta-para-alagamentos-nesta-sexta/"
       }
      ]
     },
@@ -577,8 +581,36 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Trump, Xi e Putin, Ormuz e Ucrânia",
+   "nota": "Voos nos EUA, Irã, Trump-Xi-Putin e Ucrânia",
    "itens": [
+    {
+     "kicker": "Aviação",
+     "quando": "Hoje",
+     "titulo": "Depois da paralisação nacional, EUA têm mais de 2 mil voos cancelados neste sábado; governo diz que atrasos vão continuar",
+     "resumo": "O tráfego aéreo foi liberado na noite de sexta após mais de quatro horas, mas as companhias ainda reorganizam aviões e tripulações, e o secretário de Transportes, Sean Duffy, avisou que as falhas podem se repetir até a troca de equipamentos antigos de radar e comunicação. O governo quer normalizar as operações antes do feriado de Ação de Graças, em 26 de novembro.",
+     "foto": {
+      "src": "fotos/aviao.jpg",
+      "credito": "Rovena Rosa/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/mundo/apagao-aereo-nos-eua-mais-de-2-mil-voos-sao-cancelados-no-sabado-14-apos-suspensao-nacional-do-trafego-aereo/"
+      },
+      {
+       "n": "ISTOÉ",
+       "u": "https://istoe.com.br/pane-aerea-nos-eua-provoca-milhares-de-cancelamentos-neste-sabado"
+      },
+      {
+       "n": "A Voz do Campo",
+       "u": "https://avozdocampo.com/mundo/atrasos-e-cancelamentos-de-voos-devem-continuar-nos-eua-alerta-secretario-de-transportes/"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/mundo/entenda-por-que-os-eua-suspenderam-as-decolagens-em-todo-o-pais/"
+      }
+     ]
+    },
     {
      "kicker": "Diplomacia",
      "quando": "Hoje",
@@ -600,36 +632,26 @@
      ]
     },
     {
-     "kicker": "Irã",
+     "kicker": "Oriente Médio",
      "quando": "Ontem",
-     "titulo": "Irã diz que dois petroleiros explodiram em minas em Ormuz e ameaça qualquer navio que entrar na zona proibida",
-     "resumo": "Segundo a Guarda Revolucionária, os navios estavam com radares desligados; um terceiro ficou imobilizado a leste do estreito, e Teerã também afirma ter destruído um radar dos EUA no Bahrein. Trump rejeitou retomar a guerra em larga escala e mantém o bloqueio naval, enquanto Israel pressiona por novos ataques, segundo o Axios.",
-     "lados": [
+     "titulo": "Mesmo sob trégua, Irã diz ter atacado radar dos EUA no Bahrein e relata petroleiros explodidos por minas em Ormuz",
+     "resumo": "A Guarda Revolucionária afirma que o ataque ao radar respondeu a um bombardeio contra uma torre de telecomunicações no sul do país; é a primeira ação do tipo contra bases americanas no Golfo desde setembro. Washington e o Bahrein não se manifestaram de imediato, e Trump disse que pode destruir o setor energético iraniano, mas descartou retomar a guerra em larga escala.",
+     "fontes": [
       {
-       "quem": "Irã",
-       "txt": "Declarou o estreito fechado desde a ofensiva de fevereiro e diz que só as rotas autorizadas por suas Forças Armadas são seguras."
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/em-meio-a-tregua-ira-diz-ter-atacado-radar-dos-eua-no-bahrein/"
       },
       {
-       "quem": "Estados Unidos",
-       "txt": "Negam haver bloqueio, dizem controlar militarmente a passagem e escoltar navios para manter as exportações de petróleo do Golfo."
-      }
-     ],
-     "fontes": [
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/ira-diz-ter-atacado-radar-dos-eua-no-bahrein"
+      },
       {
        "n": "Euronews",
        "u": "https://pt.euronews.com/2026/11/13/aviso-serio-a-washington-irao-afirma-ter-destruido-radar-dos-eua-no-bahrein"
       },
       {
-       "n": "Executive Digest",
-       "u": "https://executivedigest.sapo.pt/irao-dois-petroleiros-em-chamas-apos-atingirem-minas-guarda-revolucionaria/"
-      },
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/mundo/ira-relata-explosao-de-navio-carregado-de-gnl-em-ormuz-e-de-sistema-de-radar-dos-eua-no-bahrein-1.1193805"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/ira-e-eua-trocam-ataques-enquanto-disputa-por-ormuz-se-intensifica-entenda/"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/13/ira-afirma-que-atacou-sistema-de-radar-americano-no-bahrein.html"
       }
      ]
     },
@@ -683,29 +705,45 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Seleção, Bombonera e Liga das Nações",
+   "nota": "Derrota para o Japão, Vasco e finais",
    "itens": [
     {
      "kicker": "Seleção",
      "quando": "Hoje",
-     "titulo": "Brasil enfrenta o Japão em Singapura nesta manhã, com três meio-campistas e Raphinha de capitão e camisa 10",
-     "resumo": "O jogo, às 7h15, é o penúltimo amistoso do ano e o primeiro reencontro desde a virada por 2 a 1 nas oitavas da Copa; a provável escalação tem Andrey Santos, Bruno Guimarães e Rayan no meio. Na terça, às 7h, a Seleção fecha 2026 contra Singapura.",
+     "titulo": "Sem Ancelotti e Raphinha, expulsos contra o Japão, Brasil fecha o ano contra Singapura na terça",
+     "resumo": "A derrota por 3 a 2 nesta manhã terminou com reclamações contra o árbitro Jansen Foo, que deixou seguir o lance do gol japonês nos acréscimos; comentaristas da TV viram falta em João Gomes no início da jogada. O amistoso de terça (17), às 7h, é o último da Seleção em 2026; o Japão enfrenta o Paraguai no mesmo dia.",
      "fontes": [
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/esportes/2026/11/13/brasil-tera-tres-meio-campistas-em-amistoso-contra-japao-neste-sabado.html"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-e-raphinha-sao-expulsos-e-desfalcam-brasil-contra-singapura/"
       },
       {
-       "n": "CBF",
-       "u": "https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/brasil-reencontra-japao-neste-sabado-em-singapura"
+       "n": "TNH1",
+       "u": "https://www.tnh1.com.br/noticia/nid/brasil-perde-para-o-japao-e-termina-com-ancelotti-e-raphinha-expulsos/"
+      },
+      {
+       "n": "Liga da Notícia",
+       "u": "https://ligadanoticia.com.br/esportes/expulsos-contra-o-japao-ancelotti-e-raphinha-desfalcam-a-selecao-no-proximo-jogo/"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Vasco visita a rebaixada Chapecoense às 20h30 em jogo atrasado e pode subir para a zona da Sul-Americana",
+     "resumo": "A partida, adiada da 21ª rodada, é na Arena Condá. O Vasco é o 13º, com 41 pontos e quatro à frente do Corinthians, primeiro time da zona de rebaixamento; com a vitória, passa o Botafogo e chega ao 11º lugar.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/chapecoense-x-vasco-saiba-onde-assitir-ao-jogo-atrasado-do-brasileirao"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-japao-escalacoes-e-onde-assistir-ao-amistoso-da-selecao/"
+       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-vasco-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-tera-tres-meio-campistas-em-amistoso-contra-japao-neste-sabado"
+       "n": "Lance",
+       "u": "https://www.lance.com.br/onde-assistir/chapecoense-x-vasco-onde-assistir-horario-e-escalacoes.html"
       }
      ]
     },
@@ -730,26 +768,6 @@
       {
        "n": "Infobae",
        "u": "https://www.infobae.com/deportes/2026/11/13/argentina-comenzara-la-era-post-messi-con-un-choque-ante-uruguay-hora-tv-y-formaciones/"
-      }
-     ]
-    },
-    {
-     "kicker": "Liga das Nações",
-     "quando": "Ontem",
-     "titulo": "Holanda goleia a Grécia por 7 a 0, maior placar da história da Liga das Nações; Alemanha vence a Sérvia",
-     "resumo": "Wirtz e Gruda marcaram, além de um gol contra de Babic, num estádio sem torcida por punição da Uefa; a Sérvia terminou com dois expulsos. Com 8 pontos, a Alemanha decide a vaga contra a líder Holanda na segunda; Reijnders fez três gols na goleada em Amsterdã.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/holanda-goleia-grecia-por-7-x-0-e-se-isola-na-lideranca-da-nations-league"
-      },
-      {
-       "n": "365Scores",
-       "u": "https://www.365scores.com/pt-br/news/magazine/holanda-maior-goleada-historia-nations-league-ranking/"
-      },
-      {
-       "n": "Uefa",
-       "u": "https://pt.uefa.com/uefanationsleague/news/02ab-220e7630495a-f5de78f6bc9c-1000--resumo-da-jornada-5-da-uefa-nations-league-paises-baixos-mar/"
       }
      ]
     },
@@ -1061,8 +1079,28 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Rogério Fróes, Dira Paes e Claudette Soares",
+   "nota": "Marina Sena, Rogério Fróes e Claudette Soares",
    "itens": [
+    {
+     "kicker": "Música",
+     "quando": "Hoje",
+     "titulo": "Retida nos EUA pela pane aérea, Marina Sena adia para o dia 22 o show deste sábado em Campinas",
+     "resumo": "A cantora estava em Las Vegas para o Grammy Latino e disse ter passado cerca de 12 horas no aeroporto sem conseguir embarcar; o voo de volta foi remarcado para domingo. Os ingressos seguem válidos para a nova data, e quem preferir pode pedir reembolso na plataforma de compra.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/celebridades/marina-sena-adia-show-e-desabafa-apos-voos-suspensos-nos-eua-presos/"
+      },
+      {
+       "n": "Midiamax",
+       "u": "https://midiamax.com.br/midiamais/famosos/2026/presa-eua-marina-sena-tem-show-deste-sabado-adiado-campinas/"
+      },
+      {
+       "n": "Alagoas 24 Horas",
+       "u": "https://www.alagoas24horas.com.br/1774681/sem-conseguir-voltar-do-grammy-latino-marina-sena-tem-show-adiado-apos-paralisacao-de-aeroportos-nos-eua-loucura/"
+      }
+     ]
+    },
     {
      "kicker": "Luto",
      "quando": "Ontem",
@@ -1080,6 +1118,10 @@
       {
        "n": "Área VIP",
        "u": "https://www.areavip.com.br/famosos/morre-ator-rogerio-froes-aos-92-anos/"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://tvprime.correiobraziliense.com.br/noticia/413935/celebridades/aos-92-anos-rogerio-froes-tem-morte-confirmada-e-filha-do-ator-faz-comunicado-nas-redes-sociais-14112026"
       }
      ]
     },
@@ -1132,30 +1174,6 @@
       {
        "n": "Metrópoles",
        "u": "https://metropoles.com/colunas/fabia-oliveira/ator-de-um-tira-no-jardim-de-infancia-christian-cousins-morre-aos-43-anos"
-      }
-     ]
-    },
-    {
-     "kicker": "Grammy Latino",
-     "quando": "12/11",
-     "titulo": "Rosalía vence Álbum do Ano no Grammy Latino, e Anitta conquista seu primeiro prêmio após 12 indicações",
-     "resumo": "A espanhola levou seis troféus, entre eles Álbum do Ano por \"Lux\" e Canção do Ano por \"La Perla\", e é a primeira mulher a vencer a principal categoria três vezes. Anitta ganhou Melhor Álbum de Pop Contemporâneo em Língua Portuguesa com \"Equilibrivm\"; Gravação do Ano ficou com o argentino Milo J.",
-     "fontes": [
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/diversao/musica/grammy-latino-2026-rosalia-vence-album-do-ano-e-anitta-ganha-pela-1-vez-veja-lista-completa,2eabdfa8c60488ce05290fc1c7b0e9d0rgc4h1we.html"
-      },
-      {
-       "n": "Pipoca Moderna",
-       "u": "https://pipocamoderna.com.br/2026/11/anitta-primeiro-grammy-latino-10-vitorias-brasileiras/"
-      },
-      {
-       "n": "Vagalume",
-       "u": "https://www.vagalume.com.br/news/2026/11/13/rosalia-domina-o-grammy-latino-2026-e-anitta-quebra-jejum-historico-veja-os-vencedores.html"
-      },
-      {
-       "n": "NBC News",
-       "u": "https://www.nbcnews.com/pop-culture/pop-culture-news/rosali-wins-album-year-lux-electrifying-latin-grammy-awards-rcna609115"
       }
      ]
     }
