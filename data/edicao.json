@@ -1,13 +1,13 @@
 {
  "data": "Sábado, 14 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "14/11/2026 · 12h40 (Brasília)",
- "proxima": "Próxima atualização: 19h",
+ "edicao": "Edição da noite",
+ "atualizado": "14/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
  "mercado_hora": "Cotações de 18h00",
- "fontes": 77,
+ "fontes": 78,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento de sexta (bolsa fechada no sábado)",
+   "nome": "Ibovespa · fechamento de sexta (sem pregão no sábado)",
    "valor": "172.458 pts",
    "var": "+2,35% na semana",
    "dir": "up"
@@ -39,19 +39,9 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 14/11 · 18h15",
-   "txt": "Starship tenta pousar a nave na torre do Texas, a primeira captura de um segundo estágio",
-   "cat": "ciencia"
-  },
-  {
    "hora": "Sáb 14/11 · 20h30",
-   "txt": "Chapecoense x Vasco, jogo atrasado do Brasileirão, na Arena Condá",
+   "txt": "Chapecoense x Vasco, jogo atrasado do Brasileirão; antes, Mirassol x Atlético-MG abre a 35ª rodada",
    "cat": "esporte"
-  },
-  {
-   "hora": "Dom 15/11",
-   "txt": "Lula participa da abertura da cúpula da Asean, em Manila; Espanha x Inglaterra pela Liga das Nações",
-   "cat": "politica"
   },
   {
    "hora": "Dom 15/11 · 13h30",
@@ -59,13 +49,23 @@
    "cat": "educacao"
   },
   {
+   "hora": "Dom 15/11",
+   "txt": "Cabo Verde elege presidente entre seis candidatos; Lula participa da cúpula da Asean, em Manila",
+   "cat": "mundo"
+  },
+  {
+   "hora": "Seg 16/11",
+   "txt": "De volta das Filipinas, Lula começa a negociar com partidos a composição dos ministérios",
+   "cat": "politica"
+  },
+  {
    "hora": "Ter 17/11 · 7h",
    "txt": "Brasil x Singapura, sem Ancelotti e Raphinha; Senado vota os destaques do ajuste fiscal",
    "cat": "esporte"
   },
   {
-   "hora": "Qua 18 e qui 19/11",
-   "txt": "Cúpula da Apec em Shenzhen, com encontro inédito entre Trump, Xi e Putin",
+   "hora": "Qui 19/11",
+   "txt": "Trump, Xi e Putin se reúnem em Shenzhen, segundo o Kremlin, durante a cúpula da Apec",
    "cat": "mundo"
   }
  ],
@@ -162,45 +162,40 @@
   }
  ],
  "manchete": {
-  "kicker": "Seleção",
-  "titulo": "Japão vence o Brasil por 3 a 2 com gol nos acréscimos em Singapura; Ancelotti e Raphinha são expulsos após reclamar de falta no lance",
-  "resumo": "Vinicius Júnior marcou duas vezes e empatou um jogo que o Japão vencia por 2 a 0 antes dos 20 minutos, mas Sakamoto fez o gol da vitória japonesa no tempo extra. O técnico e o capitão foram expulsos na confusão que se seguiu e desfalcam a Seleção na terça, contra Singapura.",
-  "entenda": "O amistoso desta manhã, no Estádio Nacional de Singapura, foi o primeiro reencontro desde a vitória brasileira por 2 a 1 nas oitavas da Copa. Kubo e Nakamura abriram 2 a 0 no primeiro tempo; Vinicius descontou com um chute de longe e empatou no segundo tempo, também de fora da área, e Endrick ainda acertou a trave. Nos acréscimos, o lance do gol de Sakamoto começou com uma disputa entre Minamino e João Gomes; os brasileiros pediram falta, o árbitro Jansen Foo deixou seguir e o VAR confirmou o gol. Comentaristas de TV se dividiram sobre a arbitragem: parte apontou falta no início da jogada e um pênalti não marcado em Raphinha no primeiro tempo. É a segunda vitória do Japão sobre o Brasil na história. O último jogo da Seleção em 2026 será contra Singapura, na terça (17), às 7h de Brasília.",
+  "kicker": "STF · Fim da escala 6x1",
+  "titulo": "Fux tira do plenário virtual o julgamento sobre o fim da escala 6x1 e zera o placar de 4 a 0; transição para a 5x2 segue marcada para 16 de dezembro",
+  "resumo": "O pedido de destaque, feito neste sábado, leva o caso a uma sessão presencial ainda sem data, e os votos de Dino, Moraes, Cármen Lúcia e Gilmar Mendes terão de ser dados de novo. A liminar de Flávio Dino continua valendo enquanto isso.",
+  "entenda": "A emenda constitucional aprovada pelo Congresso em outubro reduz a jornada semanal de 44 para 42 horas a partir de 16 de dezembro de 2026, com dois dias de descanso remunerado, e para 40 horas em dezembro de 2027, sem corte de salário. A CNC e a CNI foram ao STF alegando dificuldades para reorganizar escalas e contratos nesse prazo. Na quinta (12), o relator Flávio Dino negou o adiamento, mas flexibilizou a transição: permitiu jornadas de até 8h24 em cinco dias e deixou empresas e sindicatos negociarem a compensação das folgas. As advocacias da Câmara e do Senado pediram que o tribunal não confirme parte desses ajustes, por considerarem que alteram escolhas feitas pelo Congresso. O julgamento virtual terminaria na segunda (16); agora cabe ao presidente do STF, Edson Fachin, marcar a sessão presencial.",
   "fatos": [
-   "Vinicius Júnior fez os dois gols do Brasil, ambos de fora da área",
-   "Gol japonês saiu nos acréscimos e foi mantido pelo VAR",
-   "Ancelotti e Raphinha ficam fora do jogo contra Singapura, na terça"
+   "Placar de 4 a 0 a favor da liminar de Dino deixa de valer e julgamento recomeça",
+   "Jornada máxima cai para 42 horas semanais em 16 de dezembro, como previsto",
+   "Dino diz que a liminar não cria exceções e só admite negociação coletiva com sindicato"
   ],
   "fontes": [
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-e-raphinha-sao-expulsos-e-desfalcam-brasil-contra-singapura/",
-    "d": "expulsões e desfalques"
+    "n": "CNN Brasil (via Sim Notícias)",
+    "u": "https://simnoticias.com.br/cnn-brasil/fux-interrompe-julgamento-sobre-fim-da-escala-6x1-e-leva-caso-ao-plenario/",
+    "d": "destaque de Fux"
    },
    {
-    "n": "SBT News",
-    "u": "https://sbtnews.sbt.com.br/noticia/brasil/brasil-perde-para-o-japao-em-amistoso-em-singapura",
-    "d": "gols do jogo"
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/republica/fux-suspende-julgamento-fim-escala-6x1-leva-caso-plenario-stf/",
+    "d": "calendário do julgamento"
    },
    {
-    "n": "TNH1",
-    "u": "https://www.tnh1.com.br/noticia/nid/brasil-perde-para-o-japao-e-termina-com-ancelotti-e-raphinha-expulsos/",
-    "d": "arbitragem e VAR"
+    "n": "ND+",
+    "u": "https://ndmais.com.br/justica/fim-da-escala-6x1-stf-interrompe-julgamento-pedido-fux",
+    "d": "regras da transição"
    },
    {
-    "n": "Band",
-    "u": "https://www.band.com.br/esportes/futebol/selecao-brasileira/ancelotti-e-raphinha-sao-expulsos-por-reclamacoes-contra-a-arbitragem",
-    "d": "reclamações contra árbitro"
+    "n": "TV Sim Brasil",
+    "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/14/fux-interrompe-julgamento-zera-votacao-escala-6x1",
+    "d": "votação zerada"
    },
    {
-    "n": "O Pantaneiro",
-    "u": "https://www.opantaneiro.com.br/esportes/2026/11/14/japao-vence-brasil-por-3-a-2-apos-gol-nos-acrescimos-em-singapura.html",
-    "d": "histórico do confronto"
-   },
-   {
-    "n": "Diário do Pará",
-    "u": "https://diariodopara.com.br/bola/japao-vence-o-brasil-por-3-a-2-em-amistoso-marcado-por-cinco-gols/",
-    "d": "placar e lances"
+    "n": "Plantão Brasil",
+    "u": "https://www.plantaobrasil.net/noticias/163586-stf-trava-julgamento-sobre-fim-da-escala-6x1-e-leva-debate-para-plenario-fisico",
+    "d": "plenário físico"
    }
   ]
  },
@@ -209,33 +204,97 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Lula em Manila, ajuste fiscal e STF",
+   "nota": "6x1 no STF, Lula em Manila e ministérios",
    "itens": [
     {
-     "kicker": "Viagem internacional",
+     "kicker": "Escala 6x1",
      "quando": "Hoje",
-     "titulo": "Em Manila, Lula defende aproximação com a Ásia, mas cancela discursos do sábado por afonia; abertura da Asean no domingo está mantida",
-     "resumo": "Na primeira visita de um presidente brasileiro às Filipinas, Lula se reuniu com Ferdinand Marcos Jr., disse querer diversificar um comércio que se aproxima de US$ 3 bilhões e associou a reeleição à defesa da soberania e da democracia. As duas falas previstas para o dia, entre elas a do fórum com cerca de 200 empresários, foram canceladas por problemas na voz.",
+     "titulo": "Dino defende liminar sobre a 6x1 após críticas do Congresso: \"texto perfeito não existe\"",
+     "resumo": "O relator afirmou nas redes que a decisão não permite acordo individual entre patrão e empregado e que, sem convenção coletiva, vale a regra geral. As exceções negociadas com sindicato valeriam para setores como hospitais, aviação, navios, plataformas de petróleo e eventos sazonais.",
+     "lados": [
+      {
+       "quem": "Câmara e Senado",
+       "txt": "Dizem que o relator mudou limites que o Congresso fixou para a compensação de folgas e pedem que o STF preserve as regras da emenda."
+      },
+      {
+       "quem": "Flávio Dino",
+       "txt": "Diz que a negociação coletiva já está prevista na Constituição e que as leis de atividades essenciais precisam ser respeitadas."
+      }
+     ],
      "fontes": [
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-problemas-na-voz/"
+       "n": "CNN Brasil (via Sim Notícias)",
+       "u": "https://simnoticias.com.br/cnn-brasil/apos-criticas-dino-defende-decisao-sobre-6x1-texto-perfeito-nao-existe"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/na-1a-visita-de-estado-apos-reeleicao-lula-critica-extremismo-e-ingerencia/"
+       "n": "Plantão Brasil",
+       "u": "https://www.plantaobrasil.net/noticias/163588-fux-trava-julgamento-sobre-fim-da-escala-6x1-no-stf-apos-criticas-a-dino"
+      }
+     ]
+    },
+    {
+     "kicker": "Diplomacia",
+     "quando": "Hoje",
+     "titulo": "Em Manila, Brasil e Filipinas assinam acordos sobre comércio agrícola e concorrência; Lula cancela discursos por afonia",
+     "resumo": "Os dois memorandos foram firmados após reunião de Lula com Ferdinand Marcos Jr.; o comércio entre os países soma cerca de US$ 3 bilhões e quadruplicou em 20 anos. Sem voz, o presidente deixou de discursar no sábado, mas mantém a participação na cúpula da Asean no domingo.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia"
       },
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/14/lula-cancelar-compromissos-filipinas-rouquidao"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/nas-filipinas-lula-destaca-lacos-com-a-asia-e-cancela-discursos-por-afonia/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://metropoles.com/mundo/nas-filipinas-lula-visita-imagem-de-nossa-senhora-aparecida"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/nas-filipinas-lula-exalta-aproximacao-com-asia-e-cancela-discursos-por-afonia/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ministérios",
+     "quando": "Hoje",
+     "titulo": "Lula começa na segunda a negociar ministérios; PP e Republicanos, que apoiaram Flávio, querem pastas maiores",
+     "resumo": "Saúde, Educação e Desenvolvimento Social são as mais disputadas, e o presidente cobra que os partidos mostrem que entregam os votos de suas bancadas. A Esplanada tem hoje 38 pastas e pode passar de 39, com a criação já decidida do Ministério da Segurança Pública.",
+     "fontes": [
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/politica/lula-quer-votos-e-o-centrao-quer-poder-a-negociacao-por-ministerios-no-novo-governo/"
       },
       {
-       "n": "Rappler",
-       "u": "https://www.rappler.com/philippines/brazil-lula-arrives-manila-state-visit-asean-summit-2026/"
+       "n": "Folhapress (via Portal 6)",
+       "u": "https://portal6.com.br/2026/11/14/quebra-cabeca-de-lula-4-na-esplanada-envolve-r-26-trilhoes-novas-pastas-e-milhares-de-servidores/"
+      },
+      {
+       "n": "Transmissão Política",
+       "u": "https://transmissaopolitica.com.br/politica-nacional/2026/11/13/lula-ministerios-psd-republicanos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Partidos",
+     "quando": "Hoje",
+     "titulo": "Pastores da Universal ameaçam deixar o Republicanos por causa da aproximação com o governo",
+     "resumo": "Segundo a coluna Painel, da Folha, parte dos religiosos critica o presidente do partido, Marcos Pereira, e cogita migrar para o PL antes da reunião prevista com representantes de Lula.",
+     "lados": [
+      {
+       "quem": "Críticos na Universal",
+       "txt": "Dizem que a direção quer levar o partido para o governo e reclamam da perda de espaço da igreja na bancada eleita."
+      },
+      {
+       "quem": "Marcos Pereira",
+       "txt": "Disse ter se surpreendido com as críticas e lembrou que ninguém é obrigado a permanecer filiado; quem quiser pode sair na janela partidária."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/poder/pastores-da-universal-ameacam-deixar-republicanos-apos-aproximacao-com-lula/"
+      },
+      {
+       "n": "Acesse Política",
+       "u": "https://acessepolitica.com.br/governo-lula-cogita-ministerio-para-marcos-pereira-presidente-do-republicanos/"
       }
      ]
     },
@@ -276,96 +335,6 @@
        "u": "https://www.gazetadopovo.com.br/economia/senado-aprova-pacote-de-ajuste-fiscal-do-governo-lula/"
       }
      ]
-    },
-    {
-     "kicker": "Escala 5x2",
-     "quando": "Ontem",
-     "titulo": "STF forma quatro votos para manter a escala 5x2 a partir de 16 de dezembro; Câmara pede que Corte derrube seis pontos da decisão de Dino",
-     "resumo": "Dino, Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes votaram no plenário virtual para referendar a decisão que mantém o calendário da jornada de 42 horas com dois descansos semanais; o julgamento continua na segunda (16). A Câmara concorda com a data, mas contesta regras de transição fixadas pelo relator.",
-     "lados": [
-      {
-       "quem": "Câmara dos Deputados",
-       "txt": "Pede que o STF não substitua escolhas do Congresso e derrube pontos como a jornada diária de até 8h24 sem acordo coletivo e o prazo de 180 dias para o Legislativo regulamentar regimes especiais."
-      },
-      {
-       "quem": "CNC e CNI",
-       "txt": "As confederações do comércio e da indústria recorreram ao STF alegando que dois meses de adaptação são insuficientes para reorganizar as escalas e pedem prazo maior."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/fim-da-6x1-camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino"
-      },
-      {
-       "n": "A Tribuna RJ",
-       "u": "https://www.atribunarj.com.br/materia/stf-tem-quatro-votos-para-manter-inicio-da-escala-5-x-2-em-dezembro"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/congresso/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-de-flavio-dino-ao-fim-da-escala-6x1"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-mantem-prazo-inicial-da-5x2-mas-flexibiliza-regra-de-transicao"
-      }
-     ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Ontem",
-     "titulo": "PGR se manifesta contra a revisão criminal pedida pela defesa de Bolsonaro; caso deve ir ao plenário",
-     "resumo": "O procurador-geral Paulo Gonet enviou ao STF parecer contrário ao pedido para rever a condenação a 27 anos de prisão. Com a manifestação, o relator, Kassio Nunes Marques, pode liberar o caso para julgamento.",
-     "lados": [
-      {
-       "quem": "PGR",
-       "txt": "Diz que a defesa não trouxe fatos novos, que não houve cerceamento de defesa e que a condenação se apoiou em provas."
-      },
-      {
-       "quem": "Defesa de Bolsonaro",
-       "txt": "Questiona a cadeia de custódia das provas digitais, aponta nulidades processuais e pede a suspensão da pena até o julgamento do recurso."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC/Estadão",
-       "u": "https://www.dgabc.com.br/Noticia/4368543/pgr-se-manifesta-contra-revisao-criminal-de-condenacao-de-bolsonaro"
-      }
-     ]
-    },
-    {
-     "kicker": "Investigação",
-     "quando": "Ontem",
-     "titulo": "PF faz nova fase da operação sobre emendas ligadas a 'Dark Horse' e mira ex-assessor de Mario Frias",
-     "resumo": "A segunda fase da Operação Make Up cumpriu um mandado de busca em Brasília contra um investigado que não havia sido localizado na primeira etapa, apontado como ex-assessor do deputado. O inquérito apura suspeitas de peculato, lavagem de dinheiro e fraude em licitações na destinação de emendas à produtora do filme sobre Jair Bolsonaro.",
-     "lados": [
-      {
-       "quem": "Investigação",
-       "txt": "A PF suspeita de um grupo de agentes públicos e privados que teria direcionado recursos a empresas subcontratadas de forma irregular; não há conclusão sobre culpa."
-      },
-      {
-       "quem": "Investigados",
-       "txt": "Flávio Bolsonaro diz que não há nada de errado em buscar financiamento privado e nega uso de dinheiro público; o deputado Mário Frias chamou a primeira fase de 'cortina de fumaça'."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/pf-deflagra-nova-fase-da-operacao-sobre-desvio-de-emendas-para-dark-horse/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/pf-deflagra-segunda-fase-de-operacao-para-investigar-desvio-de-emendas-para-o-filme-dark-horse,7b60dbcced556660e425e1ec616247bdp76de0ov.html"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/congresso/2026/11/13/policia-federal-faz-nova-fase-de-operacao-sobre-filme-de-jair-bolsonaro"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/brasil/pf-operacao-desvio-emendas-dark-horse/"
-      }
-     ]
     }
    ]
   },
@@ -373,7 +342,7 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Semana do dólar, diesel e carne suína",
+   "nota": "Orçamento dos ministérios, carne suína e dólar",
    "itens": [
     {
      "kicker": "Mercado",
@@ -404,6 +373,42 @@
      ]
     },
     {
+     "kicker": "Orçamento",
+     "quando": "Hoje",
+     "titulo": "Ministérios do quarto mandato de Lula vão administrar R$ 2,6 trilhões em 2027; seis pastas ficam com 92,4%",
+     "resumo": "Só a Previdência tem R$ 1,24 trilhão no projeto de Orçamento, e os órgãos superiores do Executivo somavam 574 mil servidores ativos em setembro. Os números entram na conta da negociação com os partidos, que disputam pastas de maior orçamento.",
+     "fontes": [
+      {
+       "n": "Folhapress (via Portal 6)",
+       "u": "https://portal6.com.br/2026/11/14/quebra-cabeca-de-lula-4-na-esplanada-envolve-r-26-trilhoes-novas-pastas-e-milhares-de-servidores/"
+      },
+      {
+       "n": "CartaCapital",
+       "u": "https://www.cartacapital.com.br/politica/lula-quer-votos-e-o-centrao-quer-poder-a-negociacao-por-ministerios-no-novo-governo/"
+      }
+     ]
+    },
+    {
+     "kicker": "Agro",
+     "quando": "Hoje",
+     "titulo": "Ministro diz que veto filipino à carne suína deve durar 60 dias; governo evita pressionar pelo fim imediato",
+     "resumo": "Com Lula em Manila, o ministro da Agricultura, André de Paula, afirmou ver avanço nas conversas e disse que a restrição deve ficar no prazo anunciado. As Filipinas são o maior comprador da carne suína brasileira, e os dois países assinaram neste sábado um memorando para facilitar o comércio agrícola.",
+     "fontes": [
+      {
+       "n": "Floresta Notícias",
+       "u": "https://www.florestanoticias.com/2026/11/14/restricao-a-carne-suina-brasileira-nas-filipinas-deve-durar-60-dias-diz-ministro/"
+      },
+      {
+       "n": "Diário do RN",
+       "u": "https://diariodorn.com.br/governo-evita-pressionar-filipinas-por-fim-imediato-de-veto-a-carne-suina/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/filipinas-suspendem-importacao-de-carne-suina-brasileira-por-60-dias"
+      }
+     ]
+    },
+    {
      "kicker": "Combustíveis",
      "quando": "Ontem",
      "titulo": "Governo não renova subsídio de R$ 1,40 por litro ao diesel importado; ajuda de R$ 2,12 ao diesel rodoviário continua",
@@ -420,46 +425,6 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado"
-      }
-     ]
-    },
-    {
-     "kicker": "Exportação",
-     "quando": "Ontem",
-     "titulo": "Ministro da Agricultura negocia na segunda a suspensão de 60 dias da carne suína brasileira nas Filipinas",
-     "resumo": "As Filipinas, principal destino da carne suína do Brasil, suspenderão as compras a partir de 24 de novembro para conter a queda de preços aos produtores locais. Em 2025, o país comprou 381 mil toneladas, cerca de 26% das exportações, ou US$ 885 milhões; André de Paula integra a comitiva de Lula.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/na-1a-visita-de-estado-apos-reeleicao-lula-critica-extremismo-e-ingerencia/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/parana/suspensao-nas-filipinas-ameaca-exportacoes-de-carne-suina-do-parana/"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/mundo/lula-chega-as-filipinas-em-meio-a-suspensao-da-carne-suina-brasileira"
-      }
-     ]
-    },
-    {
-     "kicker": "Dados pessoais",
-     "quando": "12/11",
-     "titulo": "Caixa Seguridade informa ataque hacker e vazamento de dados cadastrais de 7,6 milhões de clientes",
-     "resumo": "Foram expostos nomes e CPFs e, em parte dos casos, endereços, telefones, e-mails e datas de nascimento; a empresa diz não haver sinal de acesso a senhas, dados bancários ou saldos de previdência. A recomendação é desconfiar de contatos que peçam pagamentos, códigos ou senhas em nome da Caixa.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-seguridade-informa-ataque-cibernetico-e-vazamento-de-dados"
-      },
-      {
-       "n": "Jornal Noroeste",
-       "u": "https://jornalnoroeste.com.br/noticia/seguranca/caixa-seguridade-informa-vazamento-de-dados-pessoais-de-7-6-milhoes-de-clientes"
-      },
-      {
-       "n": "93 Notícias",
-       "u": "https://93noticias.com.br/caixa-seguridade-confirma-ataque-cibernetico-e/"
       }
      ]
     },
@@ -481,41 +446,41 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporais, operação nas fronteiras e INSS",
+   "nota": "Temporais, calor extremo e INSS",
    "itens": [
     {
-     "kicker": "Temporais",
+     "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Inmet tem alertas de tempestade em quatro regiões no sábado; no domingo, dia de Enem, a chuva avança sobre todo o Sudeste",
-     "resumo": "Neste sábado, os avisos amarelos cobrem o Sul, boa parte do Centro-Oeste, Minas, Espírito Santo, norte do Rio e o interior do Nordeste, com chuva forte também em estados do Norte. Para domingo, o instituto estende o alerta a todo o Sudeste e o Centro-Oeste, depois do granizo que deixou mais de 85 mil imóveis sem luz na Grande São Paulo na sexta.",
+     "titulo": "Inmet prevê temporais até segunda em grande parte do país; Minas tem alerta de tempestade em todos os municípios no domingo",
+     "resumo": "A chuva forte se concentra no Sul, no Sudeste, no Centro-Oeste e no Amapá, justamente no dia da segunda prova do Enem. A orientação é sair mais cedo de casa e evitar áreas alagadas e árvores durante as rajadas de vento.",
      "fontes": [
       {
-       "n": "Paipee",
-       "u": "https://br.paipee.com/2026/11/14/inmet-preve-temporais-em-varias-regioes-do-brasil-neste-fim-de-semana/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-chuvas-e-tempestades-predominam-no-pais-neste-fim-de-semana"
       },
       {
-       "n": "A Gazeta",
-       "u": "https://www.agazeta.com.br/clima/es-segue-em-alerta-de-tempestade-no-fim-de-semana-veja-cidades-atingidas-1126"
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/gerais/2026/11/7538704-tempestades-ameacam-todos-os-municipios-de-minas-gerais-no-domingo-15-11.html"
       },
       {
-       "n": "Midiamax",
-       "u": "https://midiamax.com.br/cotidiano/2026/inmet-mantem-alerta-tempestade-mato-grosso-sul-veja-riscos"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/brasil/chuva-forte-atinge-sp-e-defesa-civil-emite-alertas-de-temporais-veja-previsao-para-o-fim-de-semana/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/fim-de-semana-tera-temporais-em-varias-regioes-do-brasil-preve-inmet"
       }
      ]
     },
     {
-     "kicker": "Segurança",
-     "quando": "Ontem",
-     "titulo": "Operação Protetor começa em todos os estados e no DF e vai até 12 de dezembro, com reforço nas fronteiras",
-     "resumo": "Coordenado pelo Ministério da Justiça, o novo ciclo tem frentes nas fronteiras, nas divisas entre estados, nos biomas e com equipes de cães farejadores. Em Mato Grosso do Sul o foco é contrabando e tráfico de armas perto do Paraguai e da Bolívia; em Roraima, as divisas com Venezuela e Guiana.",
+     "kicker": "Calor extremo",
+     "quando": "Hoje",
+     "titulo": "Governo abre consulta pública sobre plano nacional contra o calor extremo; contribuições vão até 23 de novembro",
+     "resumo": "O rascunho do plano do Ministério do Meio Ambiente tem dez recomendações, com metas para 2027, 2031 e 2035, que vão de mais vegetação nas cidades a eficiência energética e resfriamento sustentável. As sugestões podem ser enviadas pela plataforma Brasil Participativo.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/_i15j7PANiECyWqg8VoFUDFqw_E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a4895_01.jpg?itok=Mq8WKdwF",
+      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Revista Sociedade Militar",
-       "u": "https://www.sociedademilitar.com.br/2026/11/brasil-inicia-operacao-nacional-de-seguranca-em-26-estados-por-30-dias-e-reforca-acoes-nas-fronteiras-com-paraguai-bolivia-venezuela-e-guiana-nbd.html"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/governo-abre-consulta-publica-sobre-enfrentamento-ao-calor-extremo"
       }
      ]
     },
@@ -540,22 +505,14 @@
      ]
     },
     {
-     "kicker": "Santa Catarina",
+     "kicker": "Segurança",
      "quando": "Ontem",
-     "titulo": "Campanha da Udesc reúne doações para 1,5 mil indígenas atingidos por tornados e temporais no oeste catarinense",
-     "resumo": "As famílias guarani e kaingang vivem nas terras Toldo Chimbangue, Toldo Chimbangue II e Aldeia Kondá, segundo o Instituto Socioambiental. Mais de cem municípios do estado foram afetados pelos temporais de novembro.",
+     "titulo": "Operação Protetor começa em todos os estados e no DF e vai até 12 de dezembro, com reforço nas fronteiras",
+     "resumo": "Coordenado pelo Ministério da Justiça, o novo ciclo tem frentes nas fronteiras, nas divisas entre estados, nos biomas e com equipes de cães farejadores. Em Mato Grosso do Sul o foco é contrabando e tráfico de armas perto do Paraguai e da Bolívia; em Roraima, as divisas com Venezuela e Guiana.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/sc-campanha-reune-doacoes-para-indigenas-atingidos-por-tempestades"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/brasil/2026/11/13/sc-campanha-reune-doacoes-para-indigenas-atingidos-por-tempestades.html"
-      },
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/brasil/sc-campanha-reune-doacoes-para-indigenas-atingidos-por-tempestades/"
+       "n": "Revista Sociedade Militar",
+       "u": "https://www.sociedademilitar.com.br/2026/11/brasil-inicia-operacao-nacional-de-seguranca-em-26-estados-por-30-dias-e-reforca-acoes-nas-fronteiras-com-paraguai-bolivia-venezuela-e-guiana-nbd.html"
       }
      ]
     },
@@ -581,121 +538,105 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Voos nos EUA, Irã, Trump-Xi-Putin e Ucrânia",
+   "nota": "Voos nos EUA, Ucrânia e Cabo Verde",
    "itens": [
     {
      "kicker": "Aviação",
      "quando": "Hoje",
-     "titulo": "Depois da paralisação nacional, EUA têm mais de 2 mil voos cancelados neste sábado; governo diz que atrasos vão continuar",
-     "resumo": "O tráfego aéreo foi liberado na noite de sexta após mais de quatro horas, mas as companhias ainda reorganizam aviões e tripulações, e o secretário de Transportes, Sean Duffy, avisou que as falhas podem se repetir até a troca de equipamentos antigos de radar e comunicação. O governo quer normalizar as operações antes do feriado de Ação de Graças, em 26 de novembro.",
+     "titulo": "EUA ainda cancelam mais de 2,5 mil voos no sábado; governo culpa equipamentos antigos do controle aéreo",
+     "resumo": "O secretário de Transportes, Sean Duffy, disse que switches e roteadores antigos sobrecarregados falharam e levaram à paralisação de cerca de quatro horas na sexta. O secretário de Segurança Interna afirmou não ter evidência de ataque, sem descartar a hipótese; Guarulhos chegou a segurar voos para os EUA.",
      "foto": {
       "src": "fotos/aviao.jpg",
       "credito": "Rovena Rosa/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/mundo/apagao-aereo-nos-eua-mais-de-2-mil-voos-sao-cancelados-no-sabado-14-apos-suspensao-nacional-do-trafego-aereo/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/mundo/2026/11/14/mais-de-2-5-mil-voos-sao-cancelados-nos-eua-neste-sabado-14-11-mesmo-apos-retomada-das-operacoes"
       },
       {
-       "n": "ISTOÉ",
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eua-retomarao-voos-apos-falha-na-rede-de-trafego-aereo-causar-caos"
+      },
+      {
+       "n": "IstoÉ",
        "u": "https://istoe.com.br/pane-aerea-nos-eua-provoca-milhares-de-cancelamentos-neste-sabado"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Zelensky diz que EUA propuseram ceder território à Rússia em troca de entrada na Otan; Bulgária suspende ajuda militar",
+     "resumo": "Segundo o presidente ucraniano, a proposta surgiu nas conversas com os enviados Steve Witkoff e Jared Kushner, e qualquer decisão do tipo teria de ser levada à população. A Europa escolheu França, Alemanha, Itália, Reino Unido e Polônia para representá-la nas próximas negociações; o premiê búlgaro disse que o país não tem mais armas nem dinheiro para enviar.",
+     "fontes": [
+      {
+       "n": "Swissinfo",
+       "u": "https://www.swissinfo.ch/por/governo-dos-eua-prop%C3%B5e-que-ucr%C3%A2nia-ceda-territ%C3%B3rio-em-troca-de-ades%C3%A3o-%C3%A0-otan,-diz-zelensky/92381165"
       },
       {
-       "n": "A Voz do Campo",
-       "u": "https://avozdocampo.com/mundo/atrasos-e-cancelamentos-de-voos-devem-continuar-nos-eua-alerta-secretario-de-transportes/"
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/zelensky-diz-que-eua-propem-cedncia-de-territrio-em-troca-de-adeso-nato"
       },
       {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/entenda-por-que-os-eua-suspenderam-as-decolagens-em-todo-o-pais/"
+       "n": "Tribuna do Agreste",
+       "u": "https://www.tribunadoagreste.com.br/geral/2026/11/14/1021746-bulgaria-suspende-apoio-militar-a-ucrania-diz-primeiro-ministro"
       }
      ]
     },
     {
      "kicker": "Diplomacia",
      "quando": "Hoje",
-     "titulo": "Casa Branca anuncia encontro inédito de Trump com Xi e Putin em Shenzhen, durante a cúpula da Apec",
-     "resumo": "A reunião a três deve ocorrer na semana que vem, à margem da cúpula de 18 e 19 de novembro, com foco na redução de armas nucleares e na guerra com o Irã; a Ucrânia fica fora da pauta. Trump passa antes pelas Filipinas, e Moscou e Pequim ainda não comentaram o anúncio.",
+     "titulo": "Kremlin confirma para quinta (19) o encontro de Putin, Xi e Trump em Shenzhen",
+     "resumo": "A reunião dos três líderes vai ocorrer durante a cúpula da Apec, na China, e já havia sido anunciada pela Casa Branca. Será o primeiro encontro trilateral entre os presidentes de Rússia, China e Estados Unidos.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/mundo/russia-confirma-reuniao-trilateral-entre-putin-xi-e-trump-no-dia-19-de-novembro,e1b462635b68a28dafec7086b20eff1bhtm1ndz6.html"
       },
       {
-       "n": "The Week",
-       "u": "https://www.theweek.in/news/world/2026/11/14/trump-xi-putin-trilateral-meeting-apec.html"
+       "n": "Renascença",
+       "u": "https://rr.pt/noticia/mundo/2026/11/14/putin-xi-e-trump-reunem-se-na-china-a-19-de-novembro/493584/"
       },
       {
-       "n": "The Tribune",
-       "u": "https://www.tribuneindia.com/news/china/trump-to-hold-first-ever-trilateral-meeting-with-xi-putin-at-apec-summit-in-china-next-week/"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
       }
      ]
     },
     {
      "kicker": "Oriente Médio",
-     "quando": "Ontem",
-     "titulo": "Mesmo sob trégua, Irã diz ter atacado radar dos EUA no Bahrein e relata petroleiros explodidos por minas em Ormuz",
-     "resumo": "A Guarda Revolucionária afirma que o ataque ao radar respondeu a um bombardeio contra uma torre de telecomunicações no sul do país; é a primeira ação do tipo contra bases americanas no Golfo desde setembro. Washington e o Bahrein não se manifestaram de imediato, e Trump disse que pode destruir o setor energético iraniano, mas descartou retomar a guerra em larga escala.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/em-meio-a-tregua-ira-diz-ter-atacado-radar-dos-eua-no-bahrein/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/ira-diz-ter-atacado-radar-dos-eua-no-bahrein"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/13/aviso-serio-a-washington-irao-afirma-ter-destruido-radar-dos-eua-no-bahrein"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/13/ira-afirma-que-atacou-sistema-de-radar-americano-no-bahrein.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Ontem",
-     "titulo": "Rússia ataca energia, ferrovias e portos ucranianos por cerca de 22 horas; Zelensky fala em troca de mais de mil prisioneiros",
-     "resumo": "Moscou diz ter atingido alvos em 14 regiões, e drones acertaram uma subestação em Kiev; a Ucrânia atingiu de novo a refinaria de Volgogrado, e autoridades russas relatam sete mortos. A troca anunciada após a reunião com enviados de Trump em Dublin ainda não tem data, e o Kremlin diz que os parâmetros estão sendo finalizados.",
-     "fontes": [
-      {
-       "n": "Kyiv Independent",
-       "u": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
-      },
-      {
-       "n": "Ukrainska Pravda",
-       "u": "https://www.pravda.com.ua/eng/news/2026/11/13/8062620/"
-      },
-      {
-       "n": "Irish Examiner",
-       "u": "https://www.irishexaminer.com/news/politics/arid-41937069.html"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/zelensky-se-encontra-com-enviados-dos-eua-em-dublin"
-      },
-      {
-       "n": "Destaques da Geopolítica",
-       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-14-nov-2026"
-      }
-     ]
-    },
-    {
-     "kicker": "Gaza",
      "quando": "Hoje",
-     "titulo": "Bebê de nove meses morre de hipotermia em Gaza, a primeira morte por frio do inverno; ataque em Deir al-Balah mata três",
-     "resumo": "Segundo o Ministério da Saúde local, uma criança e uma mulher estão entre os mortos no bombardeio, que deixou 20 feridos. O balanço divulgado no sábado aponta 1.622 palestinos mortos desde o cessar-fogo de outubro de 2025.",
+     "titulo": "TV iraniana relata três petroleiros atingidos por minas em Ormuz; drone israelense mata dois em Gaza",
+     "resumo": "A Guarda Revolucionária avisou que navios que usarem o estreito sem autorização do Irã correm o mesmo risco. Em Jabaliya, Israel disse ter atingido dois militantes do Hamas; países árabes e a Liga Árabe cobraram o cumprimento do cessar-fogo, sob o qual mais de 1.600 palestinos morreram, segundo o Ministério da Saúde de Gaza.",
      "fontes": [
       {
-       "n": "Radio Pakistan",
-       "u": "https://www.radio.gov.pk/14-11-2026/three-palestinians-martyred-in-latest-israeli-attacks-on-gaza"
+       "n": "Tribuna do Agreste (AP)",
+       "u": "https://www.tribunadoagreste.com.br/internacional/2026/11/14/1021981-ataque-de-drone-israelense-mata-2-palestinos-em-gaza-e-outras-noticias-do-oriente-medio"
       },
       {
-       "n": "Destaques da Geopolítica",
-       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-14-nov-2026"
+       "n": "Infobae",
+       "u": "https://www.infobae.com/america/agencias/2026/11/14/paises-arabes-islamicos-y-la-liga-arabe-exigen-a-israel-cumplir-el-alto-el-fuego-en-gaza/"
+      },
+      {
+       "n": "Diario Siglo XXI",
+       "u": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261114170303/palestinos-muertos-gaza-bombardeo-israeli-pesar-alto-fuego"
+      }
+     ]
+    },
+    {
+     "kicker": "Cabo Verde",
+     "quando": "Hoje",
+     "titulo": "Cabo Verde escolhe presidente no domingo entre seis candidatos; segundo turno, se houver, será em 29 de novembro",
+     "resumo": "São cerca de 419 mil eleitores, mais de 76 mil deles fora do país. A comissão eleitoral disse que a pane aérea nos EUA obrigou a levar material de votação por estrada a Washington, Flórida, Nova York e Pensilvânia.",
+     "fontes": [
+      {
+       "n": "A Nação",
+       "u": "https://www.anacao.cv/noticia/2026/11/14/presidenciais-2026-cne-garante-estar-tudo-a-postos-para-a-votacao-de-amanha-domingo-mas-aponta-dificuldades-na-composicao-das-mesas-de-voto-devido-a-problemas-de-saude/"
+      },
+      {
+       "n": "Expresso das Ilhas",
+       "u": "https://expressodasilhas.cv/politica/2026/11/13/presidenciais-2026-campanha-para-escolher-presidente-da-republica-termina-hoje/105526"
       }
      ]
     }
@@ -705,13 +646,13 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Derrota para o Japão, Vasco e finais",
+   "nota": "Seleção, Série B e Brasileirão",
    "itens": [
     {
      "kicker": "Seleção",
      "quando": "Hoje",
      "titulo": "Sem Ancelotti e Raphinha, expulsos contra o Japão, Brasil fecha o ano contra Singapura na terça",
-     "resumo": "A derrota por 3 a 2 nesta manhã terminou com reclamações contra o árbitro Jansen Foo, que deixou seguir o lance do gol japonês nos acréscimos; comentaristas da TV viram falta em João Gomes no início da jogada. O amistoso de terça (17), às 7h, é o último da Seleção em 2026; o Japão enfrenta o Paraguai no mesmo dia.",
+     "resumo": "A derrota por 3 a 2 em Singapura, com gol japonês nos acréscimos, terminou com reclamações contra o árbitro Jansen Foo, que deixou seguir o lance; comentaristas da TV viram falta em João Gomes no início da jogada. O amistoso de terça (17), às 7h de Brasília, é o último da Seleção em 2026.",
      "fontes": [
       {
        "n": "CNN Brasil",
@@ -724,70 +665,74 @@
       {
        "n": "Liga da Notícia",
        "u": "https://ligadanoticia.com.br/esportes/expulsos-contra-o-japao-ancelotti-e-raphinha-desfalcam-a-selecao-no-proximo-jogo/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/ancelotti-e-raphinha-sao-expulsos-e-estao-fora-de-amistoso-contra-singapura"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-perde-para-o-japao-com-gol-nos-acrescimos-3-2"
+      }
+     ]
+    },
+    {
+     "kicker": "Série B",
+     "quando": "Hoje",
+     "titulo": "Novorizontino é campeão da Série B e sobe com o Juventude; Fortaleza e Vila Nova disputam playoffs pelo acesso",
+     "resumo": "Na última rodada, o Novorizontino venceu o Criciúma por 1 a 0 e terminou com 73 pontos, e o Juventude bateu o Botafogo-SP por 2 a 0. As duas vagas restantes saem dos mata-matas Vila Nova x Atlético-GO e Fortaleza x Criciúma, a partir do dia 21; Ponte Preta, América-MG, Londrina e Avaí caíram para a Série C.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/futebol-nacional/2026/11/14/campeao-quem-caiu-quem-subiu-play-offs-e-mais-tudo-o-que-rolou-na-ultima-rodada-da-serie-b"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-e-campeao-da-serie-b-veja-playoffs-acesso-e-rebaixados/"
+      },
+      {
+       "n": "Diário de Goiás",
+       "u": "https://diariodegoias.com.br/goias-fracassa-na-rodada-decisiva-e-goleado-pelo-sport-e-fica-fora-dos-playoffs-da-serie-b/554495/"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Vasco visita a rebaixada Chapecoense às 20h30 em jogo atrasado e pode subir para a zona da Sul-Americana",
-     "resumo": "A partida, adiada da 21ª rodada, é na Arena Condá. O Vasco é o 13º, com 41 pontos e quatro à frente do Corinthians, primeiro time da zona de rebaixamento; com a vitória, passa o Botafogo e chega ao 11º lugar.",
+     "titulo": "Mirassol e Atlético-MG abrem a 35ª rodada; Vasco visita a rebaixada Chapecoense às 20h30",
+     "resumo": "O Mirassol, 14º com 40 pontos, tenta se afastar da zona de rebaixamento contra o Galo, sétimo colocado. Em Chapecó, no jogo atrasado da 21ª rodada, o Vasco, 13º com 41 pontos, busca ganhar distância da parte de baixo da tabela.",
      "fontes": [
       {
+       "n": "Vavel",
+       "u": "https://www.vavel.com/br/futebol/2026/11/14/1279204-mirassol-x-atletico-mg-ao-vivo-brasileirao-serie-a.html"
+      },
+      {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/chapecoense-x-vasco-saiba-onde-assitir-ao-jogo-atrasado-do-brasileirao"
+       "u": "https://www.metropoles.com/esportes/brasileirao-vasco-enfrenta-a-chapecoense-para-fugir-do-rebaixamento"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-vasco-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
-      },
-      {
-       "n": "Lance",
-       "u": "https://www.lance.com.br/onde-assistir/chapecoense-x-vasco-onde-assistir-horario-e-escalacoes.html"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/esportes/futebol/chapecoense-x-vasco-onde-assistir-14-11-2026/"
       }
      ]
     },
     {
-     "kicker": "Amistoso",
-     "quando": "Ontem",
-     "titulo": "Uruguai vence a Argentina por 2 a 1 na Bombonera no primeiro jogo dos argentinos sem Messi",
-     "resumo": "Os uruguaios marcaram no início do segundo tempo, com gol contra de Balerdi e cabeçada de Maxi Araújo, ambos em bolas paradas cobradas por Arrascaeta; Julián Álvarez descontou. Na terça, a Argentina recebe a Costa Rica em Córdoba.",
+     "kicker": "Portugal",
+     "quando": "Hoje",
+     "titulo": "No primeiro jogo depois da despedida de Cristiano Ronaldo, Portugal perde de 4 a 1 para a Dinamarca em Braga",
+     "resumo": "Os jogadores entraram em campo com a camisa 7 e a torcida aplaudiu no sétimo minuto, em homenagem ao atacante, que deixou a seleção no dia 5. Højlund marcou duas vezes pela Dinamarca; Portugal já estava classificado na Liga das Nações.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/uruguai-bate-argentina-na-bombonera-em-primeiro-jogo-da-era-pos-messi/"
+       "n": "Trivela",
+       "u": "https://trivela.com.br/europa/liga-das-nacoes/portugal-cr7-quatro-dinamarca-homenagens-jesus/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/com-gols-no-segundo-tempo-uruguai-vence-a-argentina-em-la-bombonera"
+       "n": "O Jogo",
+       "u": "https://www.ojogo.pt/internacional/artigo/dinamarca-goleou-noite-de-homenagem-a-cristiano-ronaldo-virou-pesadelo-para-portugal/18148325"
       },
       {
-       "n": "La Nación",
-       "u": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-uruguay-en-vivo-nid13112026/"
-      },
-      {
-       "n": "Infobae",
-       "u": "https://www.infobae.com/deportes/2026/11/13/argentina-comenzara-la-era-post-messi-con-un-choque-ante-uruguay-hora-tv-y-formaciones/"
-      }
-     ]
-    },
-    {
-     "kicker": "Finais",
-     "quando": "Ontem",
-     "titulo": "Com o Brasileirão parado, temporada de finais começa dia 21 com Atlético-MG x Boca na Sul-Americana",
-     "resumo": "O Palmeiras decide a Libertadores contra o Estudiantes em 28 de novembro, em Montevidéu, e a Copa do Brasil contra o Grêmio em 6 de dezembro, em Brasília, ambas em jogo único. O Brasileirão volta na quarta (18), com o Flamengo na liderança, três pontos à frente do Palmeiras.",
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/tendencias/2026/11/11/temporada-de-finais-sul-americana-21-11-libertadores-28-11-e-copa-do-brasil-6-12-veja-datas-locais-e-quem-joga/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/internacional/final-da-libertadores-de-2026-sera-em-28-de-novembro,336ec8b66d17a1547b5de5c97abb839fc4ozi62o.html"
-      },
-      {
-       "n": "Lance",
-       "u": "https://www.lance.com.br/futebol-nacional/brasileirao-cbf-divulga-datas-e-horarios-das-duas-ultimas-rodadas-veja.html"
+       "n": "Sport TV",
+       "u": "https://sporttv.pt/noticias/876032/portugal-goleado-no-primeiro-jogo-apos-era-ronaldo"
       }
      ]
     },
@@ -817,17 +762,33 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Covid, mpox e concurso",
+   "nota": "Alta da Covid e mpox",
    "itens": [
+    {
+     "kicker": "Covid-19",
+     "quando": "Hoje",
+     "titulo": "Com alta da Covid, Belo Horizonte abre nove centros de saúde no sábado e tem fila para vacinação",
+     "resumo": "Centenas de pessoas procuraram a unidade do Padre Eustáquio pela manhã; a prefeitura diz que o vírus circula mais nas últimas semanas, mas que não há motivo para pânico. A vacina é indicada a idosos, crianças de 6 meses a 5 anos, gestantes e outros grupos prioritários.",
+     "foto": {
+      "src": "fotos/vacina.jpg",
+      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/gerais/2026/11/7538700-bh-centro-de-saude-lota-para-vacina-contra-covid-em-meio-a-alta-de-casos.html"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://mais.opovo.com.br/colunistas/editorial/2026/11/14/negacionistas-aproveitam-novo-alerta-sobre-a-covid.html"
+      }
+     ]
+    },
     {
      "kicker": "Vigilância",
      "quando": "Ontem",
      "titulo": "Fiocruz aponta alta de casos graves de Covid-19 em seis estados, entre eles São Paulo, Rio e Minas",
      "resumo": "O boletim InfoGripe registra aumento na Bahia, no Distrito Federal, em Minas, no Paraná, no Rio e em São Paulo, embora o total de casos graves siga baixo. O rinovírus ainda lidera as internações por síndrome respiratória, e a fundação recomenda manter a vacinação em dia, sobretudo para idosos e gestantes.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
      "fontes": [
       {
        "n": "IstoÉ",
@@ -866,26 +827,6 @@
        "u": "https://diariodepernambuco.com.br/amp/dp-/dp-saude/2026/11/11728849-mpox-lote-de-25-mil-doses-da-vacina-deve-chegar-ao-brasil-nas-proximas-semanas.html"
       }
      ]
-    },
-    {
-     "kicker": "Concurso",
-     "quando": "12/11",
-     "titulo": "Ministério da Saúde abre seleção com 759 vagas de nível superior e salários de até R$ 10,3 mil",
-     "resumo": "São 300 vagas imediatas e as demais para cadastro de reserva, com contratos de um ano. As inscrições vão até 14 de dezembro, com taxa de R$ 60, e a prova está marcada para 17 de janeiro em sete capitais.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/ministerio-da-saude-abre-concurso-com-759-vagas-e-salarios-de-ate-r-10-mil"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/concursos/noticia/2026/11/12/ministerio-saude-abre-300-vagas-temporarias"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/economia/2026/11/13/saude-selecao-com-759-vagas-e-salarios-de-rs-10-mil.html"
-      }
-     ]
     }
    ]
   },
@@ -893,37 +834,33 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Enem no domingo e reaplicação",
+   "nota": "Enem no domingo",
    "itens": [
     {
      "kicker": "Enem",
      "quando": "Hoje",
-     "titulo": "Enem tem segundo dia no domingo com 90 questões de Matemática e Ciências da Natureza; prova vai até 18h30",
-     "resumo": "São 45 questões de Ciências da Natureza e 45 de Matemática, sem redação; os portões abrem às 12h, fecham às 13h, e a prova vai das 13h30 às 18h30. Só vale caneta preta de tubo transparente, e é preciso levar documento original com foto.",
+     "titulo": "Enem tem segundo dia neste domingo, com 90 questões de Matemática e Ciências da Natureza e previsão de chuva no Sul e no Sudeste",
+     "resumo": "Os portões abrem às 12h e fecham às 13h, e a prova vai das 13h30 às 18h30, meia hora a menos que no primeiro dia, porque não há redação. O Inmet prevê chuva intensa no Sul, no Sudeste e no Amapá; celular que tocar elimina o candidato.",
      "foto": {
-      "src": "fotos/enamed.jpg",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/rmkl9SBGEtL2udUef6AeCzJtaZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3023.jpg.jpeg?itok=36NIkyYQ",
+      "credito": "Valter Campanato/Agência Brasil (arquivo)"
      },
      "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-os-horarios-e-o-que-levar-no-segundo-dia-de-prova"
+      },
       {
        "n": "Agência Gov",
        "u": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-confira-as-orientacoes-para-o-segundo-dia-de-provas"
       },
       {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/13/enem-2026-candidatos-fazem-provas-de-matematica-e-ciencias-da-natureza-neste-domingo-15/"
+       "n": "Rádio Agência Nacional",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2026-11/inmet-enem-tera-chuvas-intensas-nas-regioes-sul-e-sudeste-e-no-amapa"
       },
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/brasil/enem-2026-veja-local-e-horario-do-segundo-dia-de-prova"
-      },
-      {
-       "n": "Inep",
-       "u": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-segundo-dia-tera-itens-de-matematica-e-ciencias-da-natureza"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/euestudante/enem/2026/11/7538272-enem-no-domingo-15-portoes-fecham-as-13h-e-prova-dura-cinco-horas.html"
+       "n": "Tribuna de Minas",
+       "u": "https://tribunademinas.com.br/noticias/cidade/14-11-2026/enem-2026-jf-deve-ter-chuva-no-segundo-dia-apos-problemas-na-primeira-etapa-pelo-pais.html"
       }
      ]
     },
@@ -954,36 +891,6 @@
        "u": "https://www.rcn67.com.br/campo-grande/falta-de-recursos-no-mec-ameaca-entrega-de-livros-didaticos-nas-escolas-em-2027/"
       }
      ]
-    },
-    {
-     "kicker": "Piso do magistério",
-     "quando": "12/11",
-     "titulo": "STF suspende de novo o julgamento sobre o piso dos professores; Fachin promete retomar na próxima semana",
-     "resumo": "A análise foi interrompida na sessão de quinta sem data marcada para a retomada. Está em jogo se a correção do piso, de R$ 5.130,63 em 2026 para 40 horas, deve se refletir automaticamente nos planos de carreira de estados e municípios.",
-     "lados": [
-      {
-       "quem": "Relator, Cristiano Zanin",
-       "txt": "O Judiciário não deve fixar percentuais; redes devem adaptar seus planos de carreira em até 24 meses, com o piso como mínimo."
-      },
-      {
-       "quem": "Dias Toffoli e Alexandre de Moraes",
-       "txt": "O piso atualizado precisa ser respeitado no vencimento-base, e a Justiça pode mandar pagar; os reflexos nos demais níveis ficam para leis locais."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Sepe-RJ",
-       "u": "https://seperj.org.br/julgamento-do-piso-do-magisterio-no-stf-foi-postergado-para-a-proxima-semana/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/brasil/julgamento-stf-professores"
-      },
-      {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/educacao/piso-dos-professores-no-stf-julgamento-pode-mudar-salarios-de-toda-a-categoria-entenda-o-que-esta-em-discussao/"
-      }
-     ]
     }
    ]
   },
@@ -991,41 +898,29 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Starship, IA e Microsoft",
+   "nota": "Starship capturada e panes",
    "itens": [
     {
      "kicker": "Espaço",
      "quando": "Hoje",
-     "titulo": "Starship chega à órbita e solta 26 satélites, mas SpaceX desiste de pegar o propulsor na torre; nave tenta pousar hoje",
-     "resumo": "O voo 15 decolou do Texas na noite de sexta; o Super Heavy foi desviado para o Golfo do México e, segundo a Reuters, explodiu perto da água, sem explicação da empresa. Se os sistemas estiverem em ordem, a nave deve voltar à base por volta das 18h15 (Brasília) para a primeira captura de um segundo estágio.",
+     "titulo": "SpaceX captura a nave Starship com os braços da torre no Texas pela primeira vez, depois de mais de 22 horas em órbita",
+     "resumo": "No voo 15, a nave deu 14 voltas na Terra, reentrou na atmosfera, virou para a posição vertical e foi presa pelos braços mecânicos da torre sem tocar o solo. Até agora, só o propulsor Super Heavy tinha sido recuperado assim; a reutilização dos dois estágios é a aposta da empresa para baratear os lançamentos.",
      "fontes": [
       {
-       "n": "Space.com",
-       "u": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship"
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/2026/11/14/ciencia-e-espaco/historico-starship-e-recuperada-no-ar-com-sucesso-pelos-bracos-roboticos-da-spacex"
       },
       {
        "n": "Infobae",
-       "u": "https://infobae.com/tecno/2026/11/14/starship-llego-a-orbita-y-solto-26-satelites-starlink-este-sabado-intentara-aterrizar-en-la-torre-de-lanzamiento"
+       "u": "https://www.infobae.com/america/agencias/2026/11/14/spacex-captura-por-primera-vez-la-nave-starship-con-los-brazos-de-su-torre/"
       },
       {
-       "n": "Democrata",
-       "u": "https://democrata.es/pt/atualidade/o-starship-tentara-neste-sabado-sua-primeira-captura-na-torre-apos-enviar-o-propulsor-ao-mar"
+       "n": "Telemundo",
+       "u": "https://www.telemundo.com/noticias/noticias-telemundo/ciencia-y-tecnologia/spacex-recupera-con-sus-brazos-mecanicos-la-nave-starship-en-su-base-d-rcna609349"
       },
       {
-       "n": "Hot Air",
-       "u": "https://hotair.com/john-s-2/2026/11/13/starship-test-flight-15-has-a-clean-launch-but-no-tower-catch-n3820990"
-      }
-     ]
-    },
-    {
-     "kicker": "Inteligência artificial",
-     "quando": "Ontem",
-     "titulo": "OpenAI testa carteira digital que deixa agente de IA fazer compras sem expor o cartão",
-     "resumo": "O ChatGPT Wallet, feito com American Express, Mastercard e Visa, troca os dados do cartão por um código e exige aprovação por biometria a cada compra. Por enquanto, vale só para assinantes Pro nos EUA, sem previsão para o Brasil.",
-     "fontes": [
-      {
-       "n": "iMasters",
-       "u": "https://imasters.com.br/noticia/chatgpt-wallet-deixa-agentes-de-ia-pagar-compras-sem-expor-o-cartao-real"
+       "n": "CNN Chile",
+       "u": "https://www.cnnchile.com/mundo/spacex-starship-aterrizaje-historico-mechazilla/"
       }
      ]
     },
@@ -1050,6 +945,18 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/outlook-teams-e-copilot-da-microsoft-ainda-estao-fora-do-ar"
+      }
+     ]
+    },
+    {
+     "kicker": "Inteligência artificial",
+     "quando": "Ontem",
+     "titulo": "OpenAI testa carteira digital que deixa agente de IA fazer compras sem expor o cartão",
+     "resumo": "O ChatGPT Wallet, feito com American Express, Mastercard e Visa, troca os dados do cartão por um código e exige aprovação por biometria a cada compra. Por enquanto, vale só para assinantes Pro nos EUA, sem previsão para o Brasil.",
+     "fontes": [
+      {
+       "n": "iMasters",
+       "u": "https://imasters.com.br/noticia/chatgpt-wallet-deixa-agentes-de-ia-pagar-compras-sem-expor-o-cartao-real"
       }
      ]
     },
@@ -1079,7 +986,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Marina Sena, Rogério Fróes e Claudette Soares",
+   "nota": "Marina Sena, Consciência Negra e lutos",
    "itens": [
     {
      "kicker": "Música",
@@ -1098,6 +1005,18 @@
       {
        "n": "Alagoas 24 Horas",
        "u": "https://www.alagoas24horas.com.br/1774681/sem-conseguir-voltar-do-grammy-latino-marina-sena-tem-show-adiado-apos-paralisacao-de-aeroportos-nos-eua-loucura/"
+      }
+     ]
+    },
+    {
+     "kicker": "Consciência Negra",
+     "quando": "Hoje",
+     "titulo": "Circuito cultural gratuito no Leblon, no Rio, celebra o mês da Consciência Negra até o dia 22",
+     "resumo": "A programação do Instituto 12 começou neste sábado com exposição da artista Panmela Castro e inclui debates, dança afro-brasileira contemporânea e show de Toni Garrido no dia 22. A entrada é livre, mas com retirada antecipada de ingressos por sessão.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/circuito-cultural-comeca-no-rio-com-celebracao-da-consciencia-negra"
       }
      ]
     },
@@ -1162,18 +1081,6 @@
       {
        "n": "Diário do Centro do Mundo",
        "u": "https://www.diariodocentrodomundo.com.br/dira-paes-pede-desculpas-criticas-sertao-novela-globo/"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Morre aos 43 anos Christian Cousins, um dos gêmeos de 'Um Tira no Jardim de Infância'",
-     "resumo": "A morte foi confirmada pelo irmão, que disse que o ator sofria de doença hepática. Ele dividiu com o gêmeo Joseph o papel de Dominic, no filme estrelado por Arnold Schwarzenegger, e atuou na série 'Knots Landing'.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://metropoles.com/colunas/fabia-oliveira/ator-de-um-tira-no-jardim-de-infancia-christian-cousins-morre-aos-43-anos"
       }
      ]
     }
