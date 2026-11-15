@@ -1,15 +1,15 @@
 {
  "data": "Domingo, 15 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "15/11/2026 · 12h45 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 09h30",
- "fontes": 72,
+ "edicao": "Edição da noite",
+ "atualizado": "15/11/2026 · 19h09 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 10h30",
+ "fontes": 76,
  "mercado": [
   {
-   "nome": "Bitcoin · 9h30 de domingo",
-   "valor": "US$ 65.417",
-   "var": "-2,52% em 24h",
+   "nome": "Bitcoin · domingo",
+   "valor": "perto de US$ 64,5 mil",
+   "var": "mínima de 3 meses, cerca de US$ 62 mil",
    "dir": "down"
   },
   {
@@ -25,10 +25,10 @@
    "dir": "up"
   },
   {
-   "nome": "Ether · 9h30 de domingo",
-   "valor": "US$ 1.829",
-   "var": "-18,2% em 7 dias",
-   "dir": "down"
+   "nome": "Petróleo Brent · fechamento de 12/11",
+   "valor": "US$ 95,82",
+   "var": "+3,30% no dia",
+   "dir": "up"
   },
   {
    "nome": "Selic · Copom",
@@ -39,34 +39,34 @@
  ],
  "agenda": [
   {
-   "hora": "Dom 15/11 · 16h",
-   "txt": "Internacional x Flamengo, no Beira-Rio, decidem a Copa do Brasil Feminina; o campeão será inédito",
-   "cat": "esporte"
-  },
-  {
    "hora": "Seg 16/11",
-   "txt": "Lula visita Pedro Sánchez em Madri; BC divulga o Focus às 8h25 e o IBC-Br de setembro às 9h",
+   "txt": "Lula se reúne com Pedro Sánchez em Madri; BC divulga o Focus às 8h25 e o IBC-Br de setembro às 9h; abrem os pedidos de reaplicação do Enem",
    "cat": "politica"
   },
   {
    "hora": "Ter 17/11 · 7h",
-   "txt": "Brasil x Singapura, sem Ancelotti e Raphinha; Senado vota os destaques do ajuste fiscal",
+   "txt": "Brasil x Singapura, sem Ancelotti e Raphinha; Senado vota os destaques do ajuste fiscal; Nvidia divulga balanço",
    "cat": "esporte"
   },
   {
    "hora": "Qua 18/11 · 16h",
-   "txt": "Fed divulga a ata da última reunião; COP31 tem declarações de alto nível até quinta",
+   "txt": "Fed divulga a ata da última reunião; IBGE publica a Pnad Contínua trimestral às 9h",
    "cat": "economia"
   },
   {
    "hora": "Qui 19/11",
-   "txt": "Putin, Xi e Trump se reúnem em Shenzhen, à margem da cúpula da Apec, segundo o Kremlin",
+   "txt": "Putin, Xi e Trump se reúnem em Shenzhen, à margem da Apec; ações da Anthropic estreiam na Nasdaq",
    "cat": "mundo"
   },
   {
    "hora": "Sex 20/11",
-   "txt": "Feriado da Consciência Negra; plenárias de encerramento da COP31, na Turquia",
+   "txt": "Feriado da Consciência Negra; prazo final da COP31, em Antália, na Turquia",
    "cat": "brasil"
+  },
+  {
+   "hora": "Sáb 21/11",
+   "txt": "Atlético-MG e Boca Juniors decidem a Copa Sul-Americana",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -163,48 +163,48 @@
  ],
  "manchete": {
   "kicker": "Educação · Enem 2026",
-  "titulo": "Mais de 5 milhões de inscritos fazem o segundo dia do Enem, com Matemática e Ciências da Natureza, sob alerta de temporais em São Paulo e no Sul",
-  "resumo": "Os portões abriram ao meio-dia e fecham às 13h; a prova vai das 13h30 às 18h30 em 1.901 municípios. A Defesa Civil paulista prevê tempestades em todo o estado, e 270 cidades catarinenses estão em alerta para granizo e ventania.",
+  "titulo": "Enem termina o segundo dia para mais de 5 milhões de inscritos; ministro diz que site do Inep sofreu tentativas de ataque hacker, sem efeito",
+  "resumo": "A prova de Matemática e Ciências da Natureza foi até as 18h30, e MEC e Inep marcaram balanço para a noite. Em coletiva no Inep, ao lado de Geraldo Alckmin, o ministro Leonardo Barchini disse que as investidas contra o portal estão sob controle.",
   "foto": {
    "src": "https://imagens.ebc.com.br/rmkl9SBGEtL2udUef6AeCzJtaZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3023.jpg.jpeg?itok=36NIkyYQ",
    "credito": "Valter Campanato/Agência Brasil (arquivo)"
   },
-  "entenda": "O Enem é a principal porta de entrada para universidades públicas, pelo Sisu, e para bolsas do Prouni e do Fies. Neste domingo os candidatos respondem a 45 questões de Matemática e 45 de Ciências da Natureza, em cerca de 14,8 mil locais de prova, segundo a Agência Brasil. No primeiro domingo, dia 8, a abstenção ficou em torno de 32%, de acordo com o Inep. Quem for prejudicado por problemas como falta de energia ou chuva no local pode pedir a reaplicação entre 16 e 20 de novembro. A Defesa Civil de São Paulo recomenda não atravessar ruas alagadas e buscar abrigo em locais fechados durante as tempestades.",
+  "entenda": "O Enem é a principal porta de entrada para universidades públicas, pelo Sisu, e para bolsas do Prouni e financiamento do Fies. Neste domingo, os candidatos responderam a 90 questões em mais de 184 mil salas de cerca de 1,9 mil municípios. No primeiro dia, em 8 de novembro, a abstenção ficou em torno de 32%, segundo o Inep. O ministro não detalhou quantos acessos foram bloqueados nem o objetivo das tentativas de invasão. Quem foi prejudicado por problema logístico no local de prova ou por doença infectocontagiosa listada no edital pode pedir a reaplicação de 16 a 20 de novembro; as provas extras estão marcadas para 15 e 16 de dezembro, e o resultado sai em janeiro de 2027.",
   "fatos": [
-   "Portões fecham às 13h (Brasília); a saída com o caderno de questões só é permitida a partir das 18h",
-   "Defesa Civil de SP prevê rajadas de até 70 km/h no oeste paulista e granizo em pontos isolados",
-   "Pedidos de reaplicação, para quem for prejudicado por problemas no local de prova, vão de 16 a 20 de novembro"
+   "Ministro Leonardo Barchini relatou tentativas de ataque hacker ao portal do Inep e disse que não surtiram efeito",
+   "Prova teve 45 questões de Matemática e 45 de Ciências da Natureza; portões fecharam às 13h",
+   "Pedidos de reaplicação vão de 16 a 20 de novembro, pela Página do Participante"
   ],
   "fontes": [
+   {
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/politica/enem-ministro-diz-que-hackers-tentaram-invadir-site-do-inep",
+    "d": "tentativas de invasão"
+   },
+   {
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/segundo-dia-provas-enem-2026",
+    "d": "horário da prova"
+   },
    {
     "n": "Agência Brasil",
     "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades",
     "d": "números do exame"
    },
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-segundo-dia-de-prova/",
-    "d": "portões e horários"
+    "n": "SP Agora",
+    "u": "https://www.spagora.com.br/cotidiano/servicos/enem-2026-balanco-segundo-dia-abstencao-ocorrencias/",
+    "d": "balanço e reaplicação"
    },
    {
-    "n": "Jornal de Brasília",
-    "u": "https://jornaldebrasilia.com.br/noticias/brasil/enem-2026-tem-segundo-dia-de-provas-neste-domingo-15/",
-    "d": "regras da prova"
-   },
-   {
-    "n": "Correio do Estado",
-    "u": "https://correiodoestado.com.br/cidades/2026/11/15/enem-2026-apos-32-de-abstencao-no-1o-dia-estudantes-fazem-as-ultimas-provas-neste-domingo.html",
+    "n": "Gazeta do Paraná",
+    "u": "https://gazetadoparana.com.br/publico/enem-2026-tem-32-de-abstencao-e-mais-de-43-mil-candidatos-eliminados",
     "d": "abstenção do 1º dia"
    },
    {
-    "n": "Agência SP",
-    "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-temporais-dom-15/",
-    "d": "alerta de temporais"
-   },
-   {
-    "n": "ND+",
-    "u": "https://ndmais.com.br/tempo/temporais-avancam-sobre-sc-com-ventos-de-ate-60-km-h-e-colocam-270-cidades-em-alerta",
-    "d": "alerta em SC"
+    "n": "HNT",
+    "u": "https://www.hnt.com.br/brasil/alckmin-defende-ajuste-fiscal-e-espera-votacao-na-camara-nesta-semana/587169",
+    "d": "visita de Alckmin"
    }
   ]
  },
@@ -213,45 +213,123 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Lula na Asean, 6x1 no STF e disputa na Câmara",
+   "nota": "Lula na Asean, ajuste fiscal e caso Master",
    "itens": [
     {
      "kicker": "Asean",
      "quando": "Hoje",
-     "titulo": "Em Manila, Lula diz que o Brasil buscou novos parceiros comerciais após o tarifaço dos EUA em vez de pedir clemência a Washington",
-     "resumo": "Em declaração após a abertura da cúpula da Asean, o presidente citou alta de cerca de 20% no comércio com a China e de 13% a 15% com Vietnã e Indonésia. Rouco desde sábado, ele segue para Madri, onde se reúne com Pedro Sánchez na segunda (16).",
+     "titulo": "Na cúpula da Asean, Lula critica a concentração de poder das big techs e propõe elevar a relação com o bloco a parceria plena",
+     "resumo": "Em Manila, o presidente disse que os interesses das plataformas não podem se sobrepor à soberania dos Estados e citou a proteção de crianças na internet como agenda comum. Também afirmou que o Brasil buscou novos parceiros após o tarifaço dos EUA e recebeu do Canadá o anúncio de US$ 400 milhões para o fundo de florestas; na segunda (16), reúne-se com Pedro Sánchez em Madri.",
      "fontes": [
+      {
+       "n": "A Folha Hoje",
+       "u": "https://afolhahoje.com/lula-asean-big-techs-parceria-filipinas-15-novembro-2026/"
+      },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/mundo/lula-diz-que-brasil-reagiu-ao-tarifaco-dos-eua-sem-ficar-chorando"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/governo/2026/11/15/lula-afirma-que-brasil-buscou-outros-parceiros-ao-inves-de-ficar-chorando-apos-tarifaco-dos-eua"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/politica/rouquidao-de-lula-leva-partido-de-sanchez-a-cancelar-evento-em-madri/"
-      }
-     ]
-    },
-    {
-     "kicker": "Diplomacia",
-     "quando": "Hoje",
-     "titulo": "Canadá anuncia US$ 400 milhões para o fundo de florestas criado pelo Brasil, e Singapura propõe retomar acordo Mercosul-Asean",
-     "resumo": "O anúncio do premiê Mark Carney foi feito em reunião com Lula à margem da cúpula, segundo nota do Planalto; os dois querem concluir o acordo Mercosul-Canadá nos próximos meses. O premiê de Singapura, Lawrence Wong, sugeriu reabrir a negociação entre os blocos.",
-     "fontes": [
-      {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/internacional/em-encontro-com-lula-carney-promete-us-400-mi-para-protecao-de-florestas/"
       },
       {
-       "n": "Folha de Curitiba",
-       "u": "https://folhadecuritiba.com.br/carney-anuncia-us-400-milhoes-para-fundo-florestal-em-encontro-com-lula-nas-filipinas/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/apos-asean-e-cop-31-lula-embarca-para-madri-para-encontro-com-pedro-sanchez/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Hoje",
+     "titulo": "Alckmin defende o ajuste fiscal e espera votação na Câmara nesta semana; Senado analisa os destaques na terça",
+     "resumo": "Presidente em exercício, Alckmin disse no Inep que o pacote vai na direção correta, preserva os mais pobres e ajuda a baixar os juros. O governo estima melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado de 2027; a oposição vai defender na terça um teto de gastos mais apertado.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
+      "credito": "Lula Marques/Agência Brasil"
+     },
+     "lados": [
+      {
+       "quem": "Governo",
+       "txt": "Diz que o projeto reduz benefícios tributários, não mexe em programas sociais e mostra compromisso com as contas públicas e a queda da dívida."
       },
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/geral/premie-de-singapura-sugere-a-lula-acordo-mercosul-asean/"
+       "quem": "Oposição",
+       "txt": "Rogerio Marinho (PL-RN) chama o texto de pedalada, diz que ele aumenta impostos, transfere custos aos estados e propõe limitar o crescimento real das despesas a 0,6% em 2027."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "HNT",
+       "u": "https://www.hnt.com.br/brasil/alckmin-defende-ajuste-fiscal-e-espera-votacao-na-camara-nesta-semana/587169"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/governo-lula-deu-nova-pedalada-fiscal-diz-rogerio-marinho-sobre-ajuste-aprovado-no-senado/"
+      },
+      {
+       "n": "Rádio Senado",
+       "u": "https://www12.senado.leg.br/radio/1/noticia/2026/11/12/senado-aprova-texto-base-do-ajuste-fiscal-e-votacao-dos-destaques-sera-na-terca"
+      }
+     ]
+    },
+    {
+     "kicker": "Caso Master",
+     "quando": "Hoje",
+     "titulo": "PGR tem até esta semana para se manifestar sobre o relatório da PF, e denúncia contra Daniel Vorcaro e mais 14 é esperada",
+     "resumo": "O prazo de 15 dias dado pelo ministro Edson Fachin começou em 4 de novembro; a procuradoria pode denunciar ou pedir novas diligências. A PF aponta fraude de R$ 17,5 bilhões em ativos e carteiras nas operações entre o Master e o BRB.",
+     "lados": [
+      {
+       "quem": "Investigação",
+       "txt": "A PF indiciou Vorcaro, o ex-presidente do BRB Paulo Henrique Costa e mais 13 pessoas; a PGR estuda dividir as acusações em cinco núcleos."
+      },
+      {
+       "quem": "Defesa de Vorcaro",
+       "txt": "Chama o indiciamento de prematuro, nega prova técnica de fraude ou prejuízo e pede o arquivamento do inquérito."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/noticias/noticia/2026/11/15/pgr-prepara-denuncia-vorcaro-mais-14-caso-master"
+      },
+      {
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/pgr-deve-apresentar-primeira-denuncia-contra-vorcaro-na-semana-que-vem/"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/pgr-prepara-primeira-denuncia-contra-daniel-vorcaro/"
+      }
+     ]
+    },
+    {
+     "kicker": "Câmara",
+     "quando": "Hoje",
+     "titulo": "Hugo Motta declara apoio de 15 partidos e 361 deputados à reeleição; PL segue dividido e ainda não decidiu",
+     "resumo": "O presidente da Câmara precisa de 257 votos na eleição de 1º de fevereiro. No PL, maior bancada, com 121 deputados, Júlia Zanatta (SC) se juntou ao senador Flávio Bolsonaro contra o apoio, e Sóstenes Cavalcanti é citado como possível candidato; a sigla tem cerca de 15 dias para definir posição.",
+     "lados": [
+      {
+       "quem": "Flávio Bolsonaro e ala bolsonarista",
+       "txt": "Afirmam que Motta não cumpriu compromissos, como pautar propostas para condenados do 8 de Janeiro, e defendem candidatura própria."
+      },
+      {
+       "quem": "Valdemar Costa Neto",
+       "txt": "Diz não ter preferência e argumenta que entrar no bloco de Motta pode dar ao PL mais comissões e cargos na Câmara."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/motta-tem-apoio-361-deputados-zanatta-flavio-dizem-nao"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/cafe-com-a-gazeta/pl-adia-decisao-sobre-apoio-a-reeleicao-de-hugo-motta/"
+      },
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/politica/flavio-bolsonaro-rejeita-apoio-a-hugo-motta-em-meio-a-embate-no-pl-sobre-presidencia-da-camara-1.1193980"
       }
      ]
     },
@@ -288,70 +366,6 @@
        "u": "https://www.gazetadopovo.com.br/republica/fux-suspende-julgamento-fim-escala-6x1-leva-caso-plenario-stf/"
       }
      ]
-    },
-    {
-     "kicker": "Câmara",
-     "quando": "Ontem",
-     "titulo": "Flávio Bolsonaro se opõe a apoio do PL à reeleição de Hugo Motta; Valdemar diz que a bancada eleita vai decidir",
-     "resumo": "Em transmissão ao vivo dos EUA, o senador disse que o partido não deve trocar princípios por acordos. O PL, com 121 deputados eleitos, vai consultar os diretórios estaduais num processo de cerca de 15 dias.",
-     "lados": [
-      {
-       "quem": "Flávio Bolsonaro e ala bolsonarista",
-       "txt": "Afirmam que Motta não cumpriu compromissos, como pautar propostas para condenados do 8 de Janeiro, e defendem candidatura própria."
-      },
-      {
-       "quem": "Valdemar Costa Neto",
-       "txt": "Diz não ter preferência e argumenta que entrar no bloco de Motta pode dar ao PL mais comissões e cargos na Câmara."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/politica/flavio-bolsonaro-rejeita-apoio-a-hugo-motta-em-meio-a-embate-no-pl-sobre-presidencia-da-camara-1.1193980"
-      },
-      {
-       "n": "Tribuna do Agreste",
-       "u": "https://www.tribunadoagreste.com.br/geral/2026/11/14/1021850-tensao-no-pl-flavio-bolsonaro-se-opoe-a-reeleicao-de-hugo-motta"
-      },
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/geral/2026/11/14/1021849-flavio-bolsonaro-amplia-pressao-contra-apoio-do-pl-a-reeleicao-de-hugo-motta-na-camara"
-      }
-     ]
-    },
-    {
-     "kicker": "Ajuste fiscal",
-     "quando": "13/11",
-     "titulo": "Senado vota na terça os quatro destaques do ajuste fiscal; oposição quer limite de gastos menor e governo defende o texto-base",
-     "resumo": "O relator Eduardo Braga (MDB-AM) diz que o texto garante a execução do Orçamento de 2027, e Camilo Santana (PT-CE) afirma que não há corte em programas sociais. O líder da oposição, Rogerio Marinho (PL-RN), diz que o projeto transfere custos aos estados e propõe alternativa que, por sua conta, renderia R$ 75 bilhões sem alta de impostos.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
-      "credito": "Lula Marques/Agência Brasil"
-     },
-     "fontes": [
-      {
-       "n": "Rádio Senado",
-       "u": "https://www12.senado.leg.br/radio/1/noticia/2026/11/12/senado-aprova-texto-base-do-ajuste-fiscal-e-votacao-dos-destaques-sera-na-terca"
-      },
-      {
-       "n": "Sou Brasília",
-       "u": "https://soubrasilia.com/ajuste-fiscal-plp-299-senado-aprova-texto-principal-fcdf-fora-trava-destaques-17-novembro-2026/"
-      },
-      {
-       "n": "Canal Rural",
-       "u": "https://www.canalrural.com.br/politica/ajuste-fiscal-avanca-no-senado-e-fica-pendente-de-destaques-para-terca-feira"
-      }
-     ],
-     "lados": [
-      {
-       "quem": "Governo e relator",
-       "txt": "Defendem o texto-base, negociado com senadores de vários partidos, e dizem que ele preserva programas como o Pé-de-Meia."
-      },
-      {
-       "quem": "Oposição",
-       "txt": "Diz que o projeto não contém o crescimento dos gastos e que a mudança na Lei Kandir pode tirar mais de R$ 3 bilhões por ano dos estados."
-      }
-     ]
     }
    ]
   },
@@ -359,41 +373,61 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Cripto em queda e semana curta",
+   "nota": "Cripto em queda e semana de Nvidia e Fed",
    "itens": [
+    {
+     "kicker": "Agenda",
+     "quando": "Hoje",
+     "titulo": "Semana curta tem IBC-Br e Focus na segunda, balanço da Nvidia na terça, ata do Fed na quarta e estreia da Anthropic na bolsa na quinta",
+     "resumo": "Para a prévia do PIB de setembro, a projeção citada pelo InfoMoney é de estabilidade; a FGV divulga o IGP-10 de novembro no mesmo dia, e o IBGE publica a Pnad trimestral na quarta. O feriado da Consciência Negra fecha a B3 na sexta (20), enquanto os mercados americanos funcionam normalmente.",
+     "fontes": [
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ata-do-fomc-e-dados-das-atividades-sao-destaque/"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/"
+      },
+      {
+       "n": "ECO",
+       "u": "https://eco.sapo.pt/2026/11/15/eco-da-semana-contas-da-nvidia-ipo-da-anthropic-e-reuniao-trump-xi-putin/"
+      }
+     ]
+    },
     {
      "kicker": "Criptomoedas",
      "quando": "Hoje",
-     "titulo": "Bitcoin recua 2,5% neste domingo, a US$ 65,4 mil, e acumula queda de quase 14% em sete dias; ether perde 18% na semana",
-     "resumo": "Às 9h30, o bitcoin era negociado a US$ 65.417 e o ether a US$ 1.829, segundo o Money Times. Analistas citados atribuem a pressão à queda das ações de tecnologia e ao índice de preços ao produtor dos EUA, que reforçou apostas de juros mais altos por lá.",
+     "titulo": "Bitcoin toca a mínima em três meses, perto de US$ 62 mil, e caminha para queda de cerca de 15% na semana",
+     "resumo": "Pela manhã, a moeda era negociada a US$ 65,4 mil, segundo o Money Times, e chegou a cerca de US$ 62 mil ao longo do domingo, segundo a KuCoin News; o ether perde 18% em sete dias. Analistas citam saques de US$ 1,9 bilhão em ETFs de bitcoin nos EUA, liquidações de posições alavancadas e a perspectiva de juros altos por mais tempo.",
      "fontes": [
       {
        "n": "Money Times",
        "u": "https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/"
       },
       {
-       "n": "Infobae",
-       "u": "https://infobae.com/tecno/2026/11/15/criptomonedas-cual-es-la-cotizacion-de-bitcoin-este-domingo"
+       "n": "KuCoin News",
+       "u": "https://www.kucoin.com/news/flash/bitcoin-falls-to-62-000-dollar-three-month-low-amid-etf-outflows-and-liquidations"
       },
       {
-       "n": "La Nación",
-       "u": "https://lanacion.com.ar/economia/IA/bitcoin-hoy-precio-cotizacion-y-variacion-del-mercado-al-15-de-noviembre-nid15112026"
+       "n": "Infobae",
+       "u": "https://infobae.com/tecno/2026/11/15/criptomonedas-cual-es-la-cotizacion-de-bitcoin-este-domingo"
       }
      ]
     },
     {
-     "kicker": "Agenda",
+     "kicker": "Petróleo",
      "quando": "Hoje",
-     "titulo": "Semana encurtada pelo feriado de sexta tem IBC-Br e Focus na segunda, ata do Fed na quarta e reunião do CMN na quinta",
-     "resumo": "A prévia do PIB de setembro sai às 9h de segunda; a leitura anterior foi de alta de 0,30%. No exterior, o mercado acompanha vendas no varejo dos EUA na terça, inflação da zona do euro e do Reino Unido na quarta e dados da China divulgados na noite deste domingo.",
+     "titulo": "Novos incidentes em Ormuz mantêm o petróleo no radar do mercado; Brent fechou a US$ 95,82 em 12 de novembro",
+     "resumo": "Antes da guerra no Oriente Médio, o barril custava perto de US$ 65; analistas citados pela TV Sim projetam a faixa de US$ 70 se EUA e Irã fecharem acordo. A Petrobras, que segue a paridade internacional, pediu ao governo subsídio à gasolina, e a equipe econômica resiste por falta de espaço no Orçamento.",
      "fontes": [
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/"
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/15/petroleiro-2-milhoes-barris-afunda-ormuz-ira"
       },
       {
-       "n": "Boletim Nacional",
-       "u": "https://boletimnacional.com.br/2026/11/15/a-agenda-economica-de-16-a-20-de-novembro-de-2026/"
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/dois-petroleiros-afundam-se-no-estreito-de-ormuz-aps-coliso-com-minas-navais"
       }
      ]
     },
@@ -426,28 +460,6 @@
      ]
     },
     {
-     "kicker": "Agronegócio",
-     "quando": "13/11",
-     "titulo": "Entidades do agro rebatem o Banco do Brasil, que atribuiu a queda de 66,5% no lucro à inadimplência de produtores rurais",
-     "resumo": "A presidente do BB disse que parte dos médios e grandes produtores se recusa a renegociar dívidas. Aprosoja, Faesp, Farsul e Famato contestam e citam clima, preços baixos e juros altos como causas do atraso nos pagamentos.",
-     "lados": [
-      {
-       "quem": "Banco do Brasil",
-       "txt": "Afirma que 90% dos clientes do agro estão em dia e que a inadimplência se concentra num grupo de médios e grandes produtores que não aceitou as renegociações oferecidas."
-      },
-      {
-       "quem": "Entidades do agro",
-       "txt": "Dizem que o banco generaliza, comparam a taxa de 7% do BB com a de cooperativas, perto de 2%, e apontam juros, clima e queda de preços como causas."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/associacoes-do-agro-rebatem-bb-sobre-alta-da-inadimplencia"
-      }
-     ]
-    },
-    {
      "kicker": "Agro",
      "quando": "Ontem",
      "titulo": "Ministro diz que veto filipino à carne suína deve durar 60 dias; governo evita pressionar pelo fim imediato",
@@ -473,33 +485,53 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporais no Centro-Sul e feriados",
+   "nota": "Temporais no Sudeste e violência",
    "itens": [
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Defesa Civil alerta para temporais em todo o estado de São Paulo, com rajadas de até 70 km/h e granizo; 270 cidades de SC também estão em alerta",
-     "resumo": "Em São Paulo, as pancadas devem ficar mais generalizadas ao longo do dia, com risco de alagamentos e queda de árvores, segundo a Defesa Civil. Em Santa Catarina, o Inmet prevê ventos de até 60 km/h e granizo em três regiões.",
+     "titulo": "Temporal com granizo atinge Belo Horizonte, e Defesa Civil mantém alerta para tempestades em todo o estado de São Paulo",
+     "resumo": "Na capital mineira, a Defesa Civil enviou alerta severo aos celulares e relatou chuva extremamente intensa no Hipercentro e na região Oeste; granizo caiu na área da Feira Hippie. Em São Paulo, onde a chuva de sexta deixou mais de 100 mil imóveis sem luz, o alerta previa rajadas de até 70 km/h; 270 cidades catarinenses também estavam em alerta.",
      "foto": {
       "src": "https://imagens.ebc.com.br/pMQu7ZGPr9aw8v36dbJy7-Pcv3k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_9230.jpg?itok=FoVvdnSa",
       "credito": "Fernando Frazão/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/minas-gerais/belo-horizonte-tem-granizo-e-alerta-severo-de-chuva-neste-domingo-15-11"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/defesa-civil-emite-alerta-severo-para-chuvas-intensas-em-belo-horizonte/"
+      },
+      {
        "n": "Agência SP",
        "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-temporais-dom-15/"
       },
       {
-       "n": "BS9",
-       "u": "https://www.bs9.com.br/brasil/2026/11/15/defesa-civil-alerta-para-temporais-em-todo-o-estado-de-sao-paulo-neste-domingo-15.html"
-      },
-      {
        "n": "ND+",
        "u": "https://ndmais.com.br/tempo/temporais-avancam-sobre-sc-com-ventos-de-ate-60-km-h-e-colocam-270-cidades-em-alerta"
+      }
+     ]
+    },
+    {
+     "kicker": "Segurança",
+     "quando": "Hoje",
+     "titulo": "Soldado da PM morre baleado em Salvador, e operação policial na Zona Norte do Rio deixa um morto e sete presos",
+     "resumo": "Na Bahia, segundo a PM, o soldado Marco Antônio Ramos da Silva foi atingido no sábado no bairro de Nova Brasília, depois de suspeitos atacarem guarnições. No Rio, a PM diz ter apreendido dois fuzis e um revólver no Morro da Caixa d'Água, em Quintino, e moradores relataram tiros também em Piedade e Cascadura.",
+     "fontes": [
+      {
+       "n": "iBahia",
+       "u": "https://www.ibahia.com/noticias/seguranca/policial-militar-morre-apos-ser-baleado-durante-operacao-em-salvador-393357"
       },
       {
-       "n": "NSC Total",
-       "u": "https://www.nsctotal.com.br/tempo/temporais-com-ventos-intensos-colocam-sc-em-alerta-para-alagamentos-e-risco-de-granizo-neste-final-de-semana"
+       "n": "Bahia.ba",
+       "u": "https://bahia.ba/salvador/pm-morre-baleado-na-cabeca-em-salvador-comandante-promete-resposta/"
+      },
+      {
+       "n": "Agenda do Poder",
+       "u": "https://agendadopoder.com.br/operacao-da-pm-em-quintino-termina-com-um-morto-e-sete-presos-neste-domingo/"
       }
      ]
     },
@@ -565,25 +597,63 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Cabo Verde vota, cúpula em Shenzhen e Gaza",
+   "nota": "Cabo Verde reelege Neves e tensão em Ormuz",
    "itens": [
     {
      "kicker": "Cabo Verde",
      "quando": "Hoje",
-     "titulo": "Cabo Verde vota para presidente; Joana Rosa, apoiada pelo MpD, pode ser a primeira mulher no cargo, e José Maria Neves busca a reeleição",
-     "resumo": "Cerca de 419 mil eleitores, 18% deles no exterior, podem votar até as 18h locais (16h em Brasília). São seis candidatos; se ninguém passar de 50%, haverá segundo turno em 29 de novembro.",
+     "titulo": "José Maria Neves tem 63,8% dos votos com 93,7% das mesas apuradas e caminha para a reeleição em Cabo Verde no primeiro turno",
+     "resumo": "Segundo os resultados provisórios, Joana Rosa, ex-ministra da Justiça apoiada pelo MpD, tem 31,6%; ela poderia ter sido a primeira mulher presidente do país. A vantagem de Neves sobre os demais candidatos somados supera o número de eleitores das mesas que faltam.",
      "fontes": [
       {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/15/cabo-verdianos-ja-votam-para-escolher-presidente-da-republica/"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/mundo/2026/11/7538844-cabo-verde-pode-eleger-1-presidente-mulher-desde-independencia.html"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/jose-maria-neves-lidera-eleicao-em-cabo-verde-com-63-7"
       },
       {
        "n": "TSF",
-       "u": "https://www.tsf.pt/mundo/artigo/eleicoes-em-cabo-verde-jose-maria-neves-vota-e-diz-que-so-quem-vota-decide/18148440"
+       "u": "https://www.tsf.pt/mundo/artigo/eleicoes-em-cabo-verde-atual-presidente-a-frente-com-637-dos-votos/18148585"
+      },
+      {
+       "n": "Notícias ao Minuto",
+       "u": "https://www.noticiasaominuto.com/pais/3084532/cabo-verdeeleicoes-jose-maria-neves-lidera-contagem-com-63-7-dos-votos"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/15/cape-verde-heads-to-the-polls-in-presidential-election"
+      }
+     ]
+    },
+    {
+     "kicker": "Oriente Médio",
+     "quando": "Hoje",
+     "titulo": "Irã diz que superpetroleiro com mais de 2 milhões de barris afundou em Ormuz após atingir mina; não há confirmação independente",
+     "resumo": "A Guarda Revolucionária afirma que o navio usava rota não autorizada e que outro petroleiro também bateu numa mina; a agência britânica UKMTO registrou ataque a uma embarcação na região e disse que a tripulação está segura. No mesmo fim de semana, o Irã diz ter atacado uma base dos EUA no Bahrein com drones, e Donald Trump afirmou que os EUA não precisam de acordo com Teerã.",
+     "lados": [
+      {
+       "quem": "Irã",
+       "txt": "Atribui os incidentes aos EUA, diz que os navios desligaram os sistemas de rastreamento e afirma controlar a passagem pelo estreito."
+      },
+      {
+       "quem": "EUA",
+       "txt": "Mantêm bloqueio aos portos iranianos e escolta de petroleiros; Trump diz que não precisa de acordo com o Irã."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/15/petroleiro-2-milhoes-barris-afunda-ormuz-ira"
+      },
+      {
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/dois-petroleiros-afundam-se-no-estreito-de-ormuz-aps-coliso-com-minas-navais"
+      },
+      {
+       "n": "Repórter Capixaba",
+       "u": "https://www.reportercapixaba.com.br/drones-no-bahrein-ira-ataca-base-militar-dos-eua-pela-segunda-vez-em-tres-dias/"
+      },
+      {
+       "n": "Reuters (via Investing.com)",
+       "u": "https://br.investing.com/news/commodities-news/guarda-revolucionaria-do-ira-dizque-dois-petroleiros-atingiram-minas-maritimas-no-estreito-de-ormuz-2127153"
       }
      ]
     },
@@ -652,40 +722,6 @@
        "u": "https://revistaoeste.com/mundo/trafego-aereo-nos-estados-unidos-deve-se-estabilizar-neste-domingo/"
       }
      ]
-    },
-    {
-     "kicker": "Oriente Médio",
-     "quando": "Ontem",
-     "titulo": "Guarda Revolucionária diz que dois petroleiros pegaram fogo após bater em minas em Ormuz e afirma ter atacado radar dos EUA no Bahrein",
-     "resumo": "Segundo o Irã, os navios tinham desligado radar e localização e usavam rota não autorizada; Bahrein e EUA não confirmaram o ataque ao radar. A Organização Marítima Internacional contou 134 incidentes na região até 11 de novembro, com 25 marinheiros mortos.",
-     "lados": [
-      {
-       "quem": "Irã",
-       "txt": "Diz controlar o estreito e que ataca embarcações que tentam passar sem autorização."
-      },
-      {
-       "quem": "EUA",
-       "txt": "Afirmam ter removido a maior parte das minas e mantêm escolta de petroleiros e bloqueio aos portos iranianos."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Diário de Notícias",
-       "u": "https://www.dn.pt/internacional/iro-dois-petroleiros-em-chamas-aps-atingirem-minas-no-estreito-de-ormuz"
-      },
-      {
-       "n": "Reuters (via Investing.com)",
-       "u": "https://br.investing.com/news/commodities-news/guarda-revolucionaria-do-ira-dizque-dois-petroleiros-atingiram-minas-maritimas-no-estreito-de-ormuz-2127153"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/14/tv-estatal-do-ira-diz-que-tres-petroleiros-atingiram-minas-e-pegaram-fogo-perto-de-ormuz.html"
-      },
-      {
-       "n": "Diário de Notícias",
-       "u": "https://www.dn.pt/internacional/iro-dois-petroleiros-colidem-com-minas-em-ormuz-quando-decorrem-negociaes-de-paz"
-      }
-     ]
     }
    ]
   },
@@ -693,41 +729,57 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Final feminina, ATP Finals e Seleção",
+   "nota": "Inter campeão inédito e Liga das Nações",
    "itens": [
     {
      "kicker": "Futebol feminino",
      "quando": "Hoje",
-     "titulo": "Internacional e Flamengo decidem a Copa do Brasil Feminina às 16h, no Beira-Rio, e o título será inédito para qualquer um dos dois",
-     "resumo": "O jogo de ida foi na quarta (11), no Estádio Luso-Brasileiro, no Rio. A volta tem transmissão da TV Globo e do SporTV.",
+     "titulo": "Internacional vence o Flamengo por 1 a 0 no Beira-Rio e conquista a Copa do Brasil Feminina pela primeira vez",
+     "resumo": "A peruana Paty Llantos marcou no segundo tempo, e o Inter fechou a final com 4 a 1 no placar agregado. O VAR anulou por impedimento um gol de Sole Jaimes no primeiro tempo e o empate de Cristiane nos acréscimos.",
+     "foto": {
+      "src": "fotos/jogadoras.jpg",
+      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Folha do Leste",
-       "u": "https://folhadoleste.com.br/flamengo-x-internacional-final-feminina-horarios-onde-assistir/"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/internacional-bate-flamengo-e-conquista-titulo-inedito-da-copa-do-brasil-feminina/"
       },
       {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/15/internet-e-redes-sociais/jogos-de-hoje-15-11-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/futebol-feminino/internacional-estraga-festa-do-flamengo-com-titulo-inedito-da-copa-do-brasil-feminina.html"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/futebol-feminino/internacional-vence-o-flamengo-e-conquista-a-copa-do-brasil-feminina,4389d3846e49d8547583c1bbd4685d188nuu4ga2.html"
+      },
+      {
+       "n": "Placar",
+       "u": "https://placar.com.br/futebol-feminino/internacional-vence-flamengo-e-conquista-titulo-da-copa-do-brasil/"
       }
      ]
     },
     {
-     "kicker": "Tênis",
+     "kicker": "Liga das Nações",
      "quando": "Hoje",
-     "titulo": "Orlando Luz e Rafael Matos perdem a estreia no ATP Finals para a dupla número 1, Heliövaara e Patten, no match tie-break",
-     "resumo": "Os brasileiros perderam o primeiro set por 6/3, venceram o segundo por 7/5 e caíram por 10 a 4 no desempate, em Turim. É a segunda vez que uma dupla só de brasileiros disputa o torneio; eles voltam à quadra na fase de grupos, que vai até sexta.",
+     "titulo": "Inglaterra vence a Espanha por 3 a 2 em Madri e fica com o primeiro lugar do grupo; França e Bélgica também avançam",
+     "resumo": "Kane, Konsa e Ben White marcaram para os ingleses; Oyarzabal, de pênalti, e Nico Williams descontaram, e o Lance destaca o fim de uma série de 44 jogos sem derrota da Espanha. A França bateu a Turquia por 2 a 1 e a Bélgica goleou a Itália por 4 a 1, empurrando os italianos para o terceiro lugar da chave.",
      "fontes": [
       {
-       "n": "Ansa",
-       "u": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-esordio-vincente-per-campioni-in-carica-heliovaara-patten_af68e5e2-b625-40b3-901e-838dd3f5cbd7.html"
+       "n": "Notícias ao Minuto",
+       "u": "https://www.noticiasaominuto.com/desporto/3084531/inglaterra-despacha-espanha-franca-sofre-e-italia-tomba-na-belgica"
       },
       {
-       "n": "Tênis News",
-       "u": "https://www.tenisnews.com.br/luz-matos-atp-finals-domingo/"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/futebol-internacional/ao-vivo-acompanhe-espanha-x-inglaterra-pela-nations-league.html"
       },
       {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/esportes/2026/11/7538664-atp-finals-a-ultima-coroa-do-tenis-tem-presenca-brasileira-em-turim.html"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/franca/franca-vence-turquia-confirma-lideranca-e-avanca-na-liga-das-nacoes/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/nations-league-franca-vence-turquia-e-avanca-de-fase-como-lider-do-grupo-1"
       }
      ]
     },
@@ -772,22 +824,22 @@
      ]
     },
     {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Com dois gols de Bruno Duarte, Vasco vence a Chapecoense e abre sete pontos do Z-4; Mirassol e Atlético-MG empatam sem gols",
-     "resumo": "O Vasco chegou a 44 pontos, em 11º, na segunda vitória seguida; a Chapecoense, já rebaixada, segue na lanterna. O Galo, sétimo, antecipou o jogo da 35ª rodada por causa da final da Sul-Americana contra o Boca, no dia 21; a rodada continua na quarta (18).",
+     "kicker": "Tênis",
+     "quando": "Hoje",
+     "titulo": "Orlando Luz e Rafael Matos perdem a estreia no ATP Finals para a dupla número 1, Heliövaara e Patten, no match tie-break",
+     "resumo": "Os brasileiros perderam o primeiro set por 6/3, venceram o segundo por 7/5 e caíram por 10 a 4 no desempate, em Turim. É a segunda vez que uma dupla só de brasileiros disputa o torneio; eles voltam à quadra na fase de grupos, que vai até sexta.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/vasco/vasco-vence-a-chapecoense-e-praticamente-se-livra-do-risco-de-serie-b,446e928c56e10d057c094bd365a95b21wavlf7mh.html"
+       "n": "Ansa",
+       "u": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-esordio-vincente-per-campioni-in-carica-heliovaara-patten_af68e5e2-b625-40b3-901e-838dd3f5cbd7.html"
       },
       {
-       "n": "Futebol Interior",
-       "u": "https://www.futebolinterior.com.br/brasileirao-vasco-vence-jogo-atrasado-e-atletico-mg-e-mirassol-empatam/"
+       "n": "Tênis News",
+       "u": "https://www.tenisnews.com.br/luz-matos-atp-finals-domingo/"
       },
       {
-       "n": "CBF",
-       "u": "https://cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/brasileirao-35-rodada-comeca-com-empate-sem-gols-entre-mirassol-e-galo"
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/esportes/2026/11/7538664-atp-finals-a-ultima-coroa-do-tenis-tem-presenca-brasileira-em-turim.html"
       }
      ]
     }
@@ -801,10 +853,14 @@
    "itens": [
     {
      "kicker": "Mpox",
-     "quando": "Hoje",
-     "titulo": "Novembro já é o segundo com mais casos de mpox desde 2022, com 257 registros; Brasil soma 1.099 no ano",
-     "resumo": "Os dados do Ministério da Saúde, compilados pela CNN Brasil, ficam atrás só de novembro de 2022. São Paulo e Rio concentram a maior parte dos casos, e o Rio confirmou a primeira morte do ano, de um homem de 48 anos com doença imunossupressora.",
+     "quando": "Ontem",
+     "titulo": "Rio confirma a primeira morte por mpox do ano, e novembro já é o segundo mês com mais casos desde 2022",
+     "resumo": "A vítima é um homem de 48 anos com doença imunossupressora, segundo a prefeitura do Rio. O painel do Ministério da Saúde soma 1.055 casos confirmados no ano, 552 deles em novembro até o dia 14, com São Paulo e Rio concentrando a maior parte.",
      "fontes": [
+      {
+       "n": "ND+",
+       "u": "https://ndmais.com.br/saude/primeira-morte-por-mpox-acende-alerta-mil-casos-da-doenca-no-brasil/"
+      },
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/saude/brasil-tem-segundo-novembro-com-mais-casos-de-mpox-desde-2022/"
@@ -865,34 +921,43 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Segundo dia do Enem",
+   "nota": "Fim do Enem 2026",
    "itens": [
     {
      "kicker": "Enem",
      "quando": "Hoje",
-     "titulo": "Mais de 5,05 milhões de inscritos fazem o segundo dia do Enem em 1.901 municípios; prova vai até as 18h30",
-     "resumo": "São 45 questões de Matemática e 45 de Ciências da Natureza, em cerca de 14,8 mil locais, segundo o Inep. Quem ficar até os 30 minutos finais pode levar o caderno para conferir o gabarito.",
+     "titulo": "Segundo dia do Enem termina às 18h30; MEC relata tentativas de ataque hacker ao portal do Inep, sem efeito",
+     "resumo": "O ministro Leonardo Barchini acompanhou a aplicação na sala de monitoramento do Inep com o vice-presidente Geraldo Alckmin. Foram 90 questões de Matemática e Ciências da Natureza em mais de 184 mil salas; o balanço de abstenção e eliminados ficou para a coletiva da noite.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/rmkl9SBGEtL2udUef6AeCzJtaZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3023.jpg.jpeg?itok=36NIkyYQ",
+      "credito": "Valter Campanato/Agência Brasil (arquivo)"
+     },
+     "destaque": false,
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/enem-ministro-diz-que-hackers-tentaram-invadir-site-do-inep"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-2o-dia-de-provas-ocorre-neste-domingo-com-questoes-de-matematica/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/segundo-dia-provas-enem-2026"
       },
       {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/brasil/enem-2026-tem-segundo-dia-de-provas-neste-domingo-15/"
+       "n": "Rede 98",
+       "u": "https://rede98.com.br/noticias/politica/enem-2026-ministro-da-educacao-relata-tentativas-de-ataques-hackers-ao-site-do-inep/"
       }
      ]
     },
     {
      "kicker": "Enem",
-     "quando": "13/11",
-     "titulo": "Quem faltou ao primeiro dia pode fazer a prova de domingo; pedidos de reaplicação vão de 16 a 20 de novembro",
-     "resumo": "A reaplicação vale para quem comprovar problema logístico ou doença infectocontagiosa da lista do Inep e será em 15 e 16 de dezembro. O gabarito sai até o décimo dia útil após a prova, e os resultados estão previstos para janeiro de 2027.",
+     "quando": "Hoje",
+     "titulo": "Pedidos de reaplicação do Enem abrem nesta segunda (16) e vão até sexta (20); resultado sai em janeiro",
+     "resumo": "Podem pedir quem comprovar problema logístico no local de prova ou doença infectocontagiosa da lista do Inep, pela Página do Participante. As provas extras serão em 15 e 16 de dezembro, e o gabarito oficial sai até o décimo dia útil após a prova.",
      "fontes": [
+      {
+       "n": "SP Agora",
+       "u": "https://www.spagora.com.br/cotidiano/servicos/enem-2026-balanco-segundo-dia-abstencao-ocorrencias/"
+      },
       {
        "n": "Correio Braziliense",
        "u": "https://www.correiobraziliense.com.br/euestudante/enem/2026/11/7538272-enem-no-domingo-15-portoes-fecham-as-13h-e-prova-dura-cinco-horas.html"
@@ -921,25 +986,65 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "COP31 e Starship",
+   "nota": "COP31, Nvidia e IPO da Anthropic",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "COP31 entra na semana decisiva com temas sem acordo nas mãos dos ministros; encerramento está previsto para sexta (20)",
-     "resumo": "Ficaram em aberto o financiamento para adaptação, o futuro do programa de corte de emissões e o formato do mecanismo de transição justa. Os discursos de alto nível estão marcados para terça e quarta, em Antália, na Turquia.",
+     "titulo": "COP31 fecha a primeira semana com avanços técnicos e sem consenso sobre financiamento, adaptação e corte de emissões",
+     "resumo": "Os temas políticos ficaram para a semana final, que termina na sexta (20), em Antália. Brasil e China defendem repasses mais rápidos e a fundo perdido do fundo de perdas e danos, enquanto União Europeia, Japão e Canadá resistem a novas orientações; a presidência deve apresentar o rascunho formal da decisão no início da semana.",
      "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-negociacoes-avancam-mas-financiamento-e-desafio-para-2a-semana"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/esg/cop31-rascunho-da-decisao-final-inclui-mapas-do-caminho-e-financiamento-climatico/"
+      },
       {
        "n": "Neo Mondo",
        "u": "https://neomondo.org.br/clima/sete-dias-cinco-disputas-o-que-a-cop31-ainda-precisa-decidir-ate-20-de-novembro"
+      }
+     ]
+    },
+    {
+     "kicker": "Nvidia",
+     "quando": "Hoje",
+     "titulo": "Nvidia perde US$ 573 bilhões em valor de mercado na semana da saída de Jensen Huang e divulga balanço na terça (17)",
+     "resumo": "Segundo dados citados pelo Wall Street Journal, foi a maior perda semanal já registrada por uma empresa; o valor caiu para cerca de US$ 3,92 trilhões. Será o primeiro resultado sob a CEO interina, Colette Kress, e analistas consultados pela LSEG esperam receita perto de US$ 109 bilhões.",
+     "fontes": [
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/nvidia-valor-mercado-renuncia-huang/"
       },
       {
-       "n": "Climate Home News",
-       "u": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+       "n": "ECO",
+       "u": "https://eco.sapo.pt/2026/11/15/eco-da-semana-contas-da-nvidia-ipo-da-anthropic-e-reuniao-trump-xi-putin/"
       },
       {
-       "n": "Sapo",
-       "u": "https://sapo.pt/artigo/cop31-acordo-de-paris-e-eletrificacao-entre-prioridades-para-segunda-semana-na-turquia-6af988b5faafdbf5ce6dc6b4"
+       "n": "Jornal de Negócios",
+       "u": "https://www.jornaldenegocios.pt/mercados/bolsa/detalhe/sell-off-de-acoes-de-ia-arrasta-s-p-500-e-nasdaq-para-o-vermelho-nvidia-cai-6-na-semana"
+      }
+     ]
+    },
+    {
+     "kicker": "Inteligência artificial",
+     "quando": "Hoje",
+     "titulo": "Anthropic, dona do Claude, estreia na Nasdaq na quinta (19) com avaliação de até US$ 1,4 trilhão",
+     "resumo": "A empresa e acionistas pretendem levantar até US$ 64,4 bilhões com ações entre US$ 70 e US$ 78; o preço final sai na véspera. Há ainda uma colocação privada de US$ 26 bilhões com investidores como Alphabet, Nvidia e AMD, e especialistas divergem sobre o preço pedido.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/inteligencia-artificial/ipo-anthropic-nasdaq-19-de-novembro/"
+      },
+      {
+       "n": "ECO",
+       "u": "https://eco.sapo.pt/2026/11/15/eco-da-semana-contas-da-nvidia-ipo-da-anthropic-e-reuniao-trump-xi-putin/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/"
       }
      ]
     },
@@ -966,26 +1071,6 @@
        "u": "https://www.cnnchile.com/mundo/spacex-starship-aterrizaje-historico-mechazilla/"
       }
      ]
-    },
-    {
-     "kicker": "Nvidia",
-     "quando": "13/11",
-     "titulo": "Nvidia volta a cair após rebaixamento do HSBC; FT diz que conselho sondou chefe da Arm para suceder Huang",
-     "resumo": "As ações recuavam mais de 2% nesta sexta, depois de perderem mais de 4% na véspera, e o Nasdaq caía perto de 0,9%. O HSBC avalia que os papéis seguem pressionados até haver plano de sucessão; Colette Kress comanda a empresa interinamente.",
-     "fontes": [
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/investimentos/bolsa/nasdaq-recua-nesta-sexta-feira-pressionado-por-novas-perdas-da-nvidia-mas-principais-indices-fecham-a-semana-em-alta/"
-      },
-      {
-       "n": "Reuters/TradingView",
-       "u": "https://br.tradingview.com/news/reuters.com,2026:newsml_L2N46U108:0/"
-      },
-      {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/tecnologia/nvidia-busca-consultoria-sucessao-huang"
-      }
-     ]
     }
    ]
   },
@@ -993,7 +1078,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Luto na música baiana e Marina Sena",
+   "nota": "Luto na música baiana e Grammy Latino",
    "itens": [
     {
      "kicker": "Luto",
@@ -1004,6 +1089,38 @@
       {
        "n": "A Tarde",
        "u": "https://atarde.com.br/musica/artistas-baianos-lamentam-a-morte-de-aroldo-macedo-1409523"
+      }
+     ]
+    },
+    {
+     "kicker": "TV",
+     "quando": "Hoje",
+     "titulo": "Dança dos Famosos tem eliminação dupla neste domingo no grupo de Bruna Griphao, Pedro Scooby e Giovana Cordeiro",
+     "resumo": "Os cinco participantes da rodada dançam samba de gafieira no Domingão com Huck, e só três seguem, pela soma de notas dos jurados e votos do público. MC Livinho, Mell Muzzillo e Léo Foguete já estão garantidos na fase seguinte.",
+     "fontes": [
+      {
+       "n": "Antenados na TV",
+       "u": "https://www.antenadosnatvestreaming.com/2026/11/danca-dos-famosos-eliminacao-dupla-15-novembro.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Música",
+     "quando": "12/11",
+     "titulo": "Anitta ganha o primeiro Grammy Latino da carreira, e brasileiros como Leci Brandão, Emicida e Criolo também são premiados",
+     "resumo": "Na cerimônia em Las Vegas, a cantora venceu em Melhor Álbum de Pop Contemporâneo em Língua Portuguesa com \"EQUILIBRIVM\". Rosalía levou Álbum e Canção do Ano, e Milo J ficou com Gravação do Ano.",
+     "fontes": [
+      {
+       "n": "Imirante",
+       "u": "https://m.imirante.com/entretenimento/mundo/2026/11/13/grammy-latino-confira-vencedores-categorias"
+      },
+      {
+       "n": "Billboard Brasil",
+       "u": "https://billboard.com.br/grammy-latino-2026-brasileiros-vencedores/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/vida-e-estilo/horoscopo/anitta-emicida-e-criolo-veja-os-brasileiros-vencedores-do-grammy-latino-2026,ee16877523a9c08524cefc40dea64ca7gjk4n673.html"
       }
      ]
     },
@@ -1044,42 +1161,6 @@
       {
        "n": "Diário do Centro do Mundo",
        "u": "https://www.diariodocentrodomundo.com.br/dira-paes-pede-desculpas-criticas-sertao-novela-globo/"
-      }
-     ]
-    },
-    {
-     "kicker": "Luto",
-     "quando": "13/11",
-     "titulo": "Morre aos 92 anos o ator Rogério Fróes, de \"O Bem-Amado\" e \"Prova de Amor\"",
-     "resumo": "A morte foi comunicada pela família nas redes sociais, sem informar a causa. Com seis décadas de carreira no teatro, na TV e no cinema, ele atuou em \"Selva de Pedra\", \"Menino do Rio\" e \"Três Verões\".",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/2026/11/14/morre-o-ator-rogerio-froes-aos-92-anos"
-      },
-      {
-       "n": "Sou Mais Pop",
-       "u": "https://soumaispop.com.br/2026/11/13/morreu-aos-92-anos-o-ator-rogerio-froes/"
-      },
-      {
-       "n": "Área VIP",
-       "u": "https://www.areavip.com.br/famosos/morre-ator-rogerio-froes-aos-92-anos/"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://tvprime.correiobraziliense.com.br/noticia/413935/celebridades/aos-92-anos-rogerio-froes-tem-morte-confirmada-e-filha-do-ator-faz-comunicado-nas-redes-sociais-14112026"
-      }
-     ]
-    },
-    {
-     "kicker": "Consciência Negra",
-     "quando": "Ontem",
-     "titulo": "Circuito cultural gratuito no Leblon, no Rio, celebra o mês da Consciência Negra até o dia 22",
-     "resumo": "A programação do Instituto 12 começou neste sábado com exposição da artista Panmela Castro e inclui debates, dança afro-brasileira contemporânea e show de Toni Garrido no dia 22. A entrada é livre, mas com retirada antecipada de ingressos por sessão.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/circuito-cultural-comeca-no-rio-com-celebracao-da-consciencia-negra"
       }
      ]
     }
