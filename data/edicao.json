@@ -1,13 +1,19 @@
 {
  "data": "Domingo, 15 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "15/11/2026 · 07h40 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h00",
- "fontes": 83,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "15/11/2026 · 12h45 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 09h30",
+ "fontes": 72,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento de sexta (sem pregão no sábado)",
+   "nome": "Bitcoin · 9h30 de domingo",
+   "valor": "US$ 65.417",
+   "var": "-2,52% em 24h",
+   "dir": "down"
+  },
+  {
+   "nome": "Ibovespa · fechamento de sexta (sem pregão no fim de semana)",
    "valor": "172.458 pts",
    "var": "+2,35% na semana",
    "dir": "up"
@@ -19,16 +25,10 @@
    "dir": "up"
   },
   {
-   "nome": "Brent · fechamento de sexta",
-   "valor": "US$ 95,84",
-   "var": "2ª queda semanal",
+   "nome": "Ether · 9h30 de domingo",
+   "valor": "US$ 1.829",
+   "var": "-18,2% em 7 dias",
    "dir": "down"
-  },
-  {
-   "nome": "IPCA · outubro",
-   "valor": "0,14%",
-   "var": "4,63% em 12 meses",
-   "dir": ""
   },
   {
    "nome": "Selic · Copom",
@@ -39,18 +39,13 @@
  ],
  "agenda": [
   {
-   "hora": "Dom 15/11 · 13h30",
-   "txt": "Segundo dia do Enem, com Matemática e Ciências da Natureza; portões fecham às 13h",
-   "cat": "educacao"
-  },
-  {
-   "hora": "Dom 15/11",
-   "txt": "Cabo Verde elege presidente; se ninguém passar de 50%, haverá segundo turno em 29 de novembro",
-   "cat": "mundo"
+   "hora": "Dom 15/11 · 16h",
+   "txt": "Internacional x Flamengo, no Beira-Rio, decidem a Copa do Brasil Feminina; o campeão será inédito",
+   "cat": "esporte"
   },
   {
    "hora": "Seg 16/11",
-   "txt": "Lula visita Pedro Sánchez no Palácio de La Moncloa, em Madri; BC divulga o IBC-Br às 9h",
+   "txt": "Lula visita Pedro Sánchez em Madri; BC divulga o Focus às 8h25 e o IBC-Br de setembro às 9h",
    "cat": "politica"
   },
   {
@@ -59,14 +54,19 @@
    "cat": "esporte"
   },
   {
-   "hora": "Qua 18/11",
-   "txt": "Brasileirão segue com Flamengo x Athletico-PR e Cruzeiro x Palmeiras; COP31 tem discursos de alto nível",
-   "cat": "esporte"
+   "hora": "Qua 18/11 · 16h",
+   "txt": "Fed divulga a ata da última reunião; COP31 tem declarações de alto nível até quinta",
+   "cat": "economia"
   },
   {
    "hora": "Qui 19/11",
-   "txt": "Trump, Xi e Putin se reúnem em Shenzhen, segundo o Kremlin, durante a cúpula da Apec",
+   "txt": "Putin, Xi e Trump se reúnem em Shenzhen, à margem da cúpula da Apec, segundo o Kremlin",
    "cat": "mundo"
+  },
+  {
+   "hora": "Sex 20/11",
+   "txt": "Feriado da Consciência Negra; plenárias de encerramento da COP31, na Turquia",
+   "cat": "brasil"
   }
  ],
  "acervo": [
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Diplomacia · Cúpula da Asean",
-  "titulo": "Em Manila, Canadá anuncia US$ 400 milhões para o fundo de florestas criado pelo Brasil, e Lula e Carney querem fechar o acordo Mercosul-Canadá nos próximos meses",
-  "resumo": "O anúncio foi feito neste domingo (15), no horário de Manila, em reunião à margem da cúpula da Asean, segundo nota do governo brasileiro. Lula também se reuniu com o premiê de Singapura, que propôs retomar a negociação de um acordo entre Mercosul e Asean, e seguiu para Madri.",
+  "kicker": "Educação · Enem 2026",
+  "titulo": "Mais de 5 milhões de inscritos fazem o segundo dia do Enem, com Matemática e Ciências da Natureza, sob alerta de temporais em São Paulo e no Sul",
+  "resumo": "Os portões abriram ao meio-dia e fecham às 13h; a prova vai das 13h30 às 18h30 em 1.901 municípios. A Defesa Civil paulista prevê tempestades em todo o estado, e 270 cidades catarinenses estão em alerta para granizo e ventania.",
   "foto": {
-   "src": "fotos/lula.jpg",
-   "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/rmkl9SBGEtL2udUef6AeCzJtaZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3023.jpg.jpeg?itok=36NIkyYQ",
+   "credito": "Valter Campanato/Agência Brasil (arquivo)"
   },
-  "entenda": "O Fundo Florestas Tropicais para Sempre (TFFF) foi lançado pelo Brasil na COP30, em Belém, em novembro de 2025, para remunerar países que mantêm suas florestas em pé. Segundo balanço do próprio fundo citado pela imprensa, ele soma perto de US$ 8 bilhões, e a meta é chegar a US$ 10 bilhões até o fim do ano; com o aporte canadense, a diferença cai para cerca de US$ 1,7 bilhão. Na cúpula, Lula pediu que o Brasil passe de parceiro setorial a parceiro de diálogo pleno da Asean, bloco que foi o quinto maior parceiro comercial do país em 2025, com US$ 38,4 bilhões em trocas. Com afonia desde sábado, o presidente evitou falas longas e cancelou um ato político com Pedro Sánchez em Madri; a visita oficial ao Palácio de La Moncloa, na segunda (16), foi mantida.",
+  "entenda": "O Enem é a principal porta de entrada para universidades públicas, pelo Sisu, e para bolsas do Prouni e do Fies. Neste domingo os candidatos respondem a 45 questões de Matemática e 45 de Ciências da Natureza, em cerca de 14,8 mil locais de prova, segundo a Agência Brasil. No primeiro domingo, dia 8, a abstenção ficou em torno de 32%, de acordo com o Inep. Quem for prejudicado por problemas como falta de energia ou chuva no local pode pedir a reaplicação entre 16 e 20 de novembro. A Defesa Civil de São Paulo recomenda não atravessar ruas alagadas e buscar abrigo em locais fechados durante as tempestades.",
   "fatos": [
-   "Canadá anuncia US$ 400 milhões para o TFFF; Carney promete visitar o Brasil no primeiro trimestre de 2027",
-   "Singapura sugere retomar a negociação de um acordo Mercosul-Asean",
-   "Lula vai a Madri e se reúne com Pedro Sánchez na segunda, duas semanas antes da eleição espanhola"
+   "Portões fecham às 13h (Brasília); a saída com o caderno de questões só é permitida a partir das 18h",
+   "Defesa Civil de SP prevê rajadas de até 70 km/h no oeste paulista e granizo em pontos isolados",
+   "Pedidos de reaplicação, para quem for prejudicado por problemas no local de prova, vão de 16 a 20 de novembro"
   ],
   "fontes": [
    {
-    "n": "TV Sim Brasil",
-    "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/fundo-florestas-lula-recebe-400-milhoes-canada",
-    "d": "saldo do fundo"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades",
+    "d": "números do exame"
    },
    {
-    "n": "Brasil 247",
-    "u": "https://www.brasil247.com/mundo/lula-garante-acordo-comercial-e-400-milhoes-de-dolares-para-protecao-de-florestas-em-reuniao-com-premie-do-canada/",
-    "d": "nota do Planalto"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-segundo-dia-de-prova/",
+    "d": "portões e horários"
    },
    {
-    "n": "Folha de Curitiba",
-    "u": "https://folhadecuritiba.com.br/carney-anuncia-us-400-milhoes-para-fundo-florestal-em-encontro-com-lula-nas-filipinas/",
-    "d": "anúncio de Carney"
+    "n": "Jornal de Brasília",
+    "u": "https://jornaldebrasilia.com.br/noticias/brasil/enem-2026-tem-segundo-dia-de-provas-neste-domingo-15/",
+    "d": "regras da prova"
    },
    {
-    "n": "CNN Brasil (via Sim Notícias)",
-    "u": "https://simnoticias.com.br/cnn-brasil/nas-filipinas-lula-ataca-big-techs-e-tarifas-injustas-contra-sul-global/",
-    "d": "discurso na Asean"
+    "n": "Correio do Estado",
+    "u": "https://correiodoestado.com.br/cidades/2026/11/15/enem-2026-apos-32-de-abstencao-no-1o-dia-estudantes-fazem-as-ultimas-provas-neste-domingo.html",
+    "d": "abstenção do 1º dia"
    },
    {
-    "n": "Plantão Brasil",
-    "u": "https://www.plantaobrasil.net/noticias/163613-lula-sela-parceria-com-canada-400-milhoes-de-dolares-para-florestas-e-avanco-em-acordo-comercial",
-    "d": "acordo comercial"
+    "n": "Agência SP",
+    "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-temporais-dom-15/",
+    "d": "alerta de temporais"
    },
    {
-    "n": "Jovem Pan",
-    "u": "https://jovempan.com.br/mundo/lula-inclui-espanha-em-viagem-internacional-e-se-reune-com-pedro-sanchez-na-segunda-feira/",
-    "d": "escala em Madri"
+    "n": "ND+",
+    "u": "https://ndmais.com.br/tempo/temporais-avancam-sobre-sc-com-ventos-de-ate-60-km-h-e-colocam-270-cidades-em-alerta",
+    "d": "alerta em SC"
    }
   ]
  },
@@ -218,28 +218,48 @@
     {
      "kicker": "Asean",
      "quando": "Hoje",
-     "titulo": "Singapura propõe a Lula retomar acordo entre Mercosul e Asean; na cúpula, presidente pede parceria plena com o bloco",
-     "resumo": "O premiê Lawrence Wong sugeriu reabrir a discussão de um acordo entre os dois blocos e prometeu examinar um aporte ao fundo de florestas, segundo nota do Planalto. No texto lido na cúpula, Lula defendeu regras para as grandes empresas de tecnologia e criticou tarifas que, segundo ele, penalizam o Sul Global.",
+     "titulo": "Em Manila, Lula diz que o Brasil buscou novos parceiros comerciais após o tarifaço dos EUA em vez de pedir clemência a Washington",
+     "resumo": "Em declaração após a abertura da cúpula da Asean, o presidente citou alta de cerca de 20% no comércio com a China e de 13% a 15% com Vietnã e Indonésia. Rouco desde sábado, ele segue para Madri, onde se reúne com Pedro Sánchez na segunda (16).",
      "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/lula-diz-que-brasil-reagiu-ao-tarifaco-dos-eua-sem-ficar-chorando"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/11/15/lula-afirma-que-brasil-buscou-outros-parceiros-ao-inves-de-ficar-chorando-apos-tarifaco-dos-eua"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/rouquidao-de-lula-leva-partido-de-sanchez-a-cancelar-evento-em-madri/"
+      }
+     ]
+    },
+    {
+     "kicker": "Diplomacia",
+     "quando": "Hoje",
+     "titulo": "Canadá anuncia US$ 400 milhões para o fundo de florestas criado pelo Brasil, e Singapura propõe retomar acordo Mercosul-Asean",
+     "resumo": "O anúncio do premiê Mark Carney foi feito em reunião com Lula à margem da cúpula, segundo nota do Planalto; os dois querem concluir o acordo Mercosul-Canadá nos próximos meses. O premiê de Singapura, Lawrence Wong, sugeriu reabrir a negociação entre os blocos.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/em-encontro-com-lula-carney-promete-us-400-mi-para-protecao-de-florestas/"
+      },
+      {
+       "n": "Folha de Curitiba",
+       "u": "https://folhadecuritiba.com.br/carney-anuncia-us-400-milhoes-para-fundo-florestal-em-encontro-com-lula-nas-filipinas/"
+      },
       {
        "n": "Brasil 247",
        "u": "https://www.brasil247.com/geral/premie-de-singapura-sugere-a-lula-acordo-mercosul-asean/"
-      },
-      {
-       "n": "CNN Brasil (via Sim Notícias)",
-       "u": "https://simnoticias.com.br/cnn-brasil/nas-filipinas-lula-ataca-big-techs-e-tarifas-injustas-contra-sul-global/"
-      },
-      {
-       "n": "Boca",
-       "u": "https://boca.com.br/politica/lula-amplia-parcerias-sudeste-asiatico-cumpula"
       }
      ]
     },
     {
      "kicker": "Escala 6x1",
      "quando": "Ontem",
-     "titulo": "Após destaque de Fux, julgamento da transição para a 5x2 vai ao plenário físico do STF, ainda sem data; liminar de Dino continua valendo",
-     "resumo": "O pedido apagou o placar de 4 a 0 a favor da decisão do relator, e os ministros terão de votar de novo. Até lá, segue a regra da liminar: jornada de 42 horas a partir de 16 de dezembro, com até 8h24 em cinco dias e dois dias de descanso.",
+     "titulo": "Julgamento da transição para a 5x2 recomeça do zero no plenário presencial do STF, sem data; liminar de Dino segue valendo",
+     "resumo": "O destaque de Fux interrompeu a votação virtual, que terminaria nesta segunda (16) com quatro votos a favor do relator; cabe ao presidente Edson Fachin marcar a nova sessão. Até lá vale a liminar: jornada de 42 horas a partir de 16 de dezembro, com até 8h24 em cinco dias e dois dias de descanso.",
      "lados": [
       {
        "quem": "Câmara e Senado",
@@ -252,8 +272,12 @@
      ],
      "fontes": [
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/por-que-fim-escala-6x1-travou-no-stf-dias-de-valer"
+       "n": "Conjur",
+       "u": "https://conjur.com.br/2026-nov-15/stf-vai-reiniciar-julgamento-sobre-fim-da-escala-6x1-em-plenario/"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://mais.opovo.com.br/jornal/dom/2026/11/15/fux-leva-decisao-sobre-fim-da-escala-6x1-a-julgamento-presencial.html"
       },
       {
        "n": "SBT News",
@@ -292,26 +316,6 @@
       {
        "n": "Tribuna do Sertão",
        "u": "https://www.tribunadosertao.com.br/geral/2026/11/14/1021849-flavio-bolsonaro-amplia-pressao-contra-apoio-do-pl-a-reeleicao-de-hugo-motta-na-camara"
-      }
-     ]
-    },
-    {
-     "kicker": "Agenda",
-     "quando": "Ontem",
-     "titulo": "Sem voz, Lula cancela ato político com Pedro Sánchez em Madri, mas mantém visita oficial ao Palácio de La Moncloa na segunda",
-     "resumo": "A conversa pública organizada pelo PSOE seria na sede da central sindical UGT. A Espanha vota em 29 de novembro, e Sánchez disputa a continuidade do governo com o PP e o Vox.",
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/mundo/por-problemas-na-voz-lula-cancela-ato-politico-com-pedro-sanchez-na-espanha/"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/lula-inclui-espanha-em-viagem-internacional-e-se-reune-com-pedro-sanchez-na-segunda-feira/"
-      },
-      {
-       "n": "Diário de Pernambuco",
-       "u": "https://www.diariodepernambuco.com.br/mundo/2026/11/11729043-premie-da-espanha-fala-com-presidenta-do-mexico-e-agenda-encontro-com-lula-a-2-semanas-da-eleicao.html"
       }
      ]
     },
@@ -355,21 +359,41 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Semana curta, dólar e carne suína",
+   "nota": "Cripto em queda e semana curta",
    "itens": [
     {
-     "kicker": "Semana",
+     "kicker": "Criptomoedas",
      "quando": "Hoje",
-     "titulo": "Semana encurtada pelo feriado de sexta começa com o IBC-Br; lá fora, mercado acompanha varejo nos EUA e inflação na zona do euro",
-     "resumo": "O índice de atividade do Banco Central sai na segunda às 9h, e a B3 fica fechada na sexta (20), Dia da Consciência Negra. Na terça, o Senado vota os destaques do ajuste fiscal, tema que tem pesado sobre o dólar.",
+     "titulo": "Bitcoin recua 2,5% neste domingo, a US$ 65,4 mil, e acumula queda de quase 14% em sete dias; ether perde 18% na semana",
+     "resumo": "Às 9h30, o bitcoin era negociado a US$ 65.417 e o ether a US$ 1.829, segundo o Money Times. Analistas citados atribuem a pressão à queda das ações de tecnologia e ao índice de preços ao produtor dos EUA, que reforçou apostas de juros mais altos por lá.",
      "fontes": [
       {
-       "n": "The Rio Times",
-       "u": "https://www.riotimesonline.com/key-market-events-for-the-week-of-november-16-20-2026/"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/"
       },
       {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/economia/dolar-fecha-a-r-5-65-e-acumula-alta-de-2-66-na-semana"
+       "n": "Infobae",
+       "u": "https://infobae.com/tecno/2026/11/15/criptomonedas-cual-es-la-cotizacion-de-bitcoin-este-domingo"
+      },
+      {
+       "n": "La Nación",
+       "u": "https://lanacion.com.ar/economia/IA/bitcoin-hoy-precio-cotizacion-y-variacion-del-mercado-al-15-de-noviembre-nid15112026"
+      }
+     ]
+    },
+    {
+     "kicker": "Agenda",
+     "quando": "Hoje",
+     "titulo": "Semana encurtada pelo feriado de sexta tem IBC-Br e Focus na segunda, ata do Fed na quarta e reunião do CMN na quinta",
+     "resumo": "A prévia do PIB de setembro sai às 9h de segunda; a leitura anterior foi de alta de 0,30%. No exterior, o mercado acompanha vendas no varejo dos EUA na terça, inflação da zona do euro e do Reino Unido na quarta e dados da China divulgados na noite deste domingo.",
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/"
+      },
+      {
+       "n": "Boletim Nacional",
+       "u": "https://boletimnacional.com.br/2026/11/15/a-agenda-economica-de-16-a-20-de-novembro-de-2026/"
       }
      ]
     },
@@ -402,6 +426,28 @@
      ]
     },
     {
+     "kicker": "Agronegócio",
+     "quando": "13/11",
+     "titulo": "Entidades do agro rebatem o Banco do Brasil, que atribuiu a queda de 66,5% no lucro à inadimplência de produtores rurais",
+     "resumo": "A presidente do BB disse que parte dos médios e grandes produtores se recusa a renegociar dívidas. Aprosoja, Faesp, Farsul e Famato contestam e citam clima, preços baixos e juros altos como causas do atraso nos pagamentos.",
+     "lados": [
+      {
+       "quem": "Banco do Brasil",
+       "txt": "Afirma que 90% dos clientes do agro estão em dia e que a inadimplência se concentra num grupo de médios e grandes produtores que não aceitou as renegociações oferecidas."
+      },
+      {
+       "quem": "Entidades do agro",
+       "txt": "Dizem que o banco generaliza, comparam a taxa de 7% do BB com a de cooperativas, perto de 2%, e apontam juros, clima e queda de preços como causas."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/associacoes-do-agro-rebatem-bb-sobre-alta-da-inadimplencia"
+      }
+     ]
+    },
+    {
      "kicker": "Agro",
      "quando": "Ontem",
      "titulo": "Ministro diz que veto filipino à carne suína deve durar 60 dias; governo evita pressionar pelo fim imediato",
@@ -420,42 +466,6 @@
        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/filipinas-suspendem-importacao-de-carne-suina-brasileira-por-60-dias"
       }
      ]
-    },
-    {
-     "kicker": "Orçamento",
-     "quando": "Ontem",
-     "titulo": "Ministérios do quarto mandato de Lula vão administrar R$ 2,6 trilhões em 2027; seis pastas ficam com 92,4%",
-     "resumo": "Só a Previdência tem R$ 1,24 trilhão no projeto de Orçamento, e os órgãos superiores do Executivo somavam 574 mil servidores ativos em setembro. Os números entram na conta da negociação com os partidos, que disputam pastas de maior orçamento.",
-     "fontes": [
-      {
-       "n": "Folhapress (via Portal 6)",
-       "u": "https://portal6.com.br/2026/11/14/quebra-cabeca-de-lula-4-na-esplanada-envolve-r-26-trilhoes-novas-pastas-e-milhares-de-servidores/"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/politica/lula-quer-votos-e-o-centrao-quer-poder-a-negociacao-por-ministerios-no-novo-governo/"
-      }
-     ]
-    },
-    {
-     "kicker": "Combustíveis",
-     "quando": "13/11",
-     "titulo": "Governo não renova subsídio de R$ 1,40 por litro ao diesel importado; ajuda de R$ 2,12 ao diesel rodoviário continua",
-     "resumo": "A Fazenda informou na noite de sexta que a subvenção ao produto importado, criada em outubro por causa da alta do petróleo, venceu e não será prorrogada. O diesel importado responde por mais de 25% do consumo, e o ministério diz que um novo benefício depende da evolução dos preços internacionais.",
-     "fontes": [
-      {
-       "n": "BM&C News",
-       "u": "https://bmcnews.com.br/economia/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado/"
-      },
-      {
-       "n": "Diário de Suzano",
-       "u": "https://www.diariodesuzano.com.br/nacional/2026/11/13/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado.html"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado"
-      }
-     ]
     }
    ]
   },
@@ -463,29 +473,33 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Chuva no Centro-Sul e feriados",
+   "nota": "Temporais no Centro-Sul e feriados",
    "itens": [
     {
-     "kicker": "Clima",
+     "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Chuva se espalha pelo Centro-Sul neste domingo, e área de baixa pressão na costa do Sudeste pode ampliar temporais na segunda",
-     "resumo": "O Inmet prevê chuva sobretudo em São Paulo, no Rio, em Minas, em Goiás, em Mato Grosso do Sul e em parte do Sul, no dia da segunda prova do Enem. Na segunda (16), a instabilidade deve se intensificar em boa parte do país; norte do Pará, norte do Nordeste e extremo sul gaúcho têm menor chance de chuva.",
+     "titulo": "Defesa Civil alerta para temporais em todo o estado de São Paulo, com rajadas de até 70 km/h e granizo; 270 cidades de SC também estão em alerta",
+     "resumo": "Em São Paulo, as pancadas devem ficar mais generalizadas ao longo do dia, com risco de alagamentos e queda de árvores, segundo a Defesa Civil. Em Santa Catarina, o Inmet prevê ventos de até 60 km/h e granizo em três regiões.",
      "foto": {
       "src": "https://imagens.ebc.com.br/pMQu7ZGPr9aw8v36dbJy7-Pcv3k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_9230.jpg?itok=FoVvdnSa",
       "credito": "Fernando Frazão/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-chuvas-e-tempestades-predominam-no-pais-neste-fim-de-semana"
+       "n": "Agência SP",
+       "u": "https://www.agenciasp.sp.gov.br/defesa-civil/defesa-civil-temporais-dom-15/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/fim-de-semana-tera-temporais-em-varias-regioes-do-brasil-preve-inmet"
+       "n": "BS9",
+       "u": "https://www.bs9.com.br/brasil/2026/11/15/defesa-civil-alerta-para-temporais-em-todo-o-estado-de-sao-paulo-neste-domingo-15.html"
       },
       {
-       "n": "Canal Rural",
-       "u": "https://canalrural.com.br/diversos/inmet-preve-chuvas-e-tempestades-em-grande-parte-do-pais-ate-segunda-feira"
+       "n": "ND+",
+       "u": "https://ndmais.com.br/tempo/temporais-avancam-sobre-sc-com-ventos-de-ate-60-km-h-e-colocam-270-cidades-em-alerta"
+      },
+      {
+       "n": "NSC Total",
+       "u": "https://www.nsctotal.com.br/tempo/temporais-com-ventos-intensos-colocam-sc-em-alerta-para-alagamentos-e-risco-de-granizo-neste-final-de-semana"
       }
      ]
     },
@@ -544,18 +558,6 @@
        "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/governo-abre-consulta-publica-sobre-enfrentamento-ao-calor-extremo"
       }
      ]
-    },
-    {
-     "kicker": "Segurança",
-     "quando": "13/11",
-     "titulo": "Operação Protetor começa em todos os estados e no DF e vai até 12 de dezembro, com reforço nas fronteiras",
-     "resumo": "Coordenado pelo Ministério da Justiça, o novo ciclo tem frentes nas fronteiras, nas divisas entre estados, nos biomas e com equipes de cães farejadores. Em Mato Grosso do Sul o foco é contrabando e tráfico de armas perto do Paraguai e da Bolívia; em Roraima, as divisas com Venezuela e Guiana.",
-     "fontes": [
-      {
-       "n": "Revista Sociedade Militar",
-       "u": "https://www.sociedademilitar.com.br/2026/11/brasil-inicia-operacao-nacional-de-seguranca-em-26-estados-por-30-dias-e-reforca-acoes-nas-fronteiras-com-paraguai-bolivia-venezuela-e-guiana-nbd.html"
-      }
-     ]
     }
    ]
   },
@@ -563,49 +565,91 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Cabo Verde vota, voos nos EUA e Ormuz",
+   "nota": "Cabo Verde vota, cúpula em Shenzhen e Gaza",
    "itens": [
     {
      "kicker": "Cabo Verde",
      "quando": "Hoje",
-     "titulo": "Cabo Verde vota para presidente; disputa entre José Maria Neves e Joana Rosa pode dar ao país a primeira mulher no cargo",
-     "resumo": "São seis candidatos e cerca de 419 mil eleitores, 77 mil deles no exterior, inclusive no Brasil. Neves, que tenta o segundo mandato, tem o apoio do PAICV, que governa o país; a ex-ministra da Justiça Joana Rosa é apoiada pelo MpD; se ninguém passar de 50%, há segundo turno em 29 de novembro.",
+     "titulo": "Cabo Verde vota para presidente; Joana Rosa, apoiada pelo MpD, pode ser a primeira mulher no cargo, e José Maria Neves busca a reeleição",
+     "resumo": "Cerca de 419 mil eleitores, 18% deles no exterior, podem votar até as 18h locais (16h em Brasília). São seis candidatos; se ninguém passar de 50%, haverá segundo turno em 29 de novembro.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/15/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica"
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/15/cabo-verdianos-ja-votam-para-escolher-presidente-da-republica/"
       },
       {
-       "n": "A Nação",
-       "u": "https://www.anacao.cv/noticia/2026/11/15/presidenciais-2026-cabo-verde-elege-este-domingo-15-de-novembro-o-sexto-presidente-da-republica/"
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/mundo/2026/11/7538844-cabo-verde-pode-eleger-1-presidente-mulher-desde-independencia.html"
       },
       {
-       "n": "Portal C3",
-       "u": "https://portalc3.net/eleicoes-presidenciais-de-cabo-verde-acontecem-neste-domingo-com-local-de-votacao-na-baixada-fluminense/"
+       "n": "TSF",
+       "u": "https://www.tsf.pt/mundo/artigo/eleicoes-em-cabo-verde-jose-maria-neves-vota-e-diz-que-so-quem-vota-decide/18148440"
+      }
+     ]
+    },
+    {
+     "kicker": "Diplomacia",
+     "quando": "Hoje",
+     "titulo": "Kremlin confirma encontro de Putin, Xi e Trump em Shenzhen na quinta (19), à margem da cúpula da Apec",
+     "resumo": "O porta-voz Dmitri Peskov disse à agência TASS que os três líderes acertaram a reunião. Segundo a Casa Branca, o foco será a redução de arsenais nucleares; Pequim ainda não se manifestou.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/kremlin-confirma-reuniao-entre-putin-trump-e-xi-em-19-de-novembro"
+      },
+      {
+       "n": "Público",
+       "u": "https://www.publico.pt/2026/11/14/mundo/noticia/kremlin-confirma-encontro-putin-trump-xi-shenzhen-2194997"
+      },
+      {
+       "n": "Jornal Económico",
+       "u": "https://jornaleconomico.sapo.pt/noticias/kremlin-confirma-encontro-entre-putin-trump-e-xi-na-quinta-feira-em-shenzhen/"
+      }
+     ]
+    },
+    {
+     "kicker": "Gaza",
+     "quando": "Hoje",
+     "titulo": "Israel e Hamas confirmam morte de comandante da Brigada de Rafah em ataque aéreo em Al-Mawasi, no sul de Gaza",
+     "resumo": "Israel diz que Samir Abu Younis participou do planejamento do ataque de 7 de outubro de 2023. O Hamas chamou a ação de assassinato e acusa Israel de violar o cessar-fogo de outubro de 2025.",
+     "lados": [
+      {
+       "quem": "Israel",
+       "txt": "Afirma que a operação, feita com o Shin Bet, mirou um comandante com papel na reorganização militar do Hamas e que adotou medidas para reduzir riscos a civis."
+      },
+      {
+       "quem": "Hamas",
+       "txt": "Classifica o ataque como assassinato e violação da trégua; o Ministério da Saúde de Gaza conta 1.643 mortos desde o início do cessar-fogo."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/11/15/israel-mata-comandante-hamas-sul-gaza/"
       }
      ]
     },
     {
      "kicker": "Aviação",
      "quando": "Hoje",
-     "titulo": "FAA prevê voos normalizados nos EUA até o fim do domingo; pane no controle aéreo levou a cerca de 16 mil cancelamentos",
-     "resumo": "Para este domingo, a agência ainda estima de 4 mil a 5 mil cancelamentos entre 41 mil voos programados. O governo descarta ataque hacker e investiga se a falha veio de erro humano, da instalação de uma nova rede de fibra óptica ou de um roteador com defeito.",
+     "titulo": "FAA mantém previsão de voos normalizados nos EUA até o fim deste domingo, mas remarcações podem causar atrasos por dias",
+     "resumo": "A paralisação de quatro horas no controle aéreo, na sexta, levou a cerca de 12 mil cancelamentos até sábado, segundo a imprensa americana. O chefe da FAA disse que os sistemas estão estáveis; a agência recomenda checar o voo antes de ir ao aeroporto até segunda (16).",
      "foto": {
       "src": "fotos/aviao.jpg",
       "credito": "Rovena Rosa/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Health News",
-       "u": "https://healthnews.pt/2026/11/15/caos-aereo-nos-eua-faa-preve-16-mil-voos-cancelados-e-regresso-a-normalidade-so-no-domingo/"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/mundo/voos-nos-eua-devem-voltar-ao-normal-neste-domingo-mas-transtornos-podem-durar-dias/"
       },
       {
-       "n": "Folha Vitória",
-       "u": "https://www.folhavitoria.com.br/economia/falha-em-cabo-de-comunicacao-causou-caos-aereo-nos-eua-operacao-volta-ao-normal-ate-domingo/"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/mundo/apos-paralisacao-total-eua-esperam-trafego-aereo-normal-no-domingo/"
       },
       {
-       "n": "TSF",
-       "u": "https://www.tsf.pt/mundo/artigo/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-este-sabado-nos-eua/18148252"
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/mundo/trafego-aereo-nos-estados-unidos-deve-se-estabilizar-neste-domingo/"
       }
      ]
     },
@@ -636,62 +680,10 @@
       {
        "n": "O Povo",
        "u": "https://www.opovo.com.br/noticias/mundo/2026/11/14/tv-estatal-do-ira-diz-que-tres-petroleiros-atingiram-minas-e-pegaram-fogo-perto-de-ormuz.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Gaza",
-     "quando": "Hoje",
-     "titulo": "Israel confirma ter matado comandante do Hamas em ataque ao Hospital Nasser, em Khan Younis, durante o cessar-fogo",
-     "resumo": "Segundo as Forças de Defesa de Israel, o alvo foi Samir Abu Younis, da ala militar do grupo; o ataque ocorreu na quinta (12). Mídia árabe relata seis mortos, entre eles um médico e uma criança.",
-     "lados": [
-      {
-       "quem": "Israel",
-       "txt": "Diz que a operação, feita com o Shin Bet, eliminou um comandante militar do Hamas."
       },
       {
-       "quem": "Hamas",
-       "txt": "Chama o ataque de crime de guerra contra instalação médica protegida e nega que houvesse membros do grupo no local."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://tribunadosertao.com.br/geral/2026/11/15/1022111-fdi-afirmam-ter-matado-comandante-do-hamas-ataque-foi-efetuado-em-meio-a-um-cessar-fogo"
-      },
-      {
-       "n": "Democrata",
-       "u": "https://www.democrata.es/pt/internacional/morrem-dois-palestinos-em-gaza-em-um-ataque-de-drone-israelense-apesar-do-cessar-fogo/"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Ontem",
-     "titulo": "Zelensky diz que EUA propuseram ceder o Donbass à Rússia em troca de entrada na Otan; cinco países europeus vão participar das negociações",
-     "resumo": "Os enviados Steve Witkoff e Jared Kushner estiveram com as duas partes em Abu Dhabi, Moscou e Dublin, sem avanço concreto; Washington não comentou o relato. França, Alemanha, Itália, Reino Unido e Polônia vão indicar representantes.",
-     "lados": [
-      {
-       "quem": "Zelensky",
-       "txt": "Diz que qualquer troca depende de garantias de segurança da Otan e da UE e teria de ser levada à sociedade ucraniana."
-      },
-      {
-       "quem": "Rússia",
-       "txt": "Exige a retirada total das tropas ucranianas de Donetsk e rejeita um cessar-fogo temporário."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Swissinfo (AFP)",
-       "u": "https://www.swissinfo.ch/por/governo-dos-eua-prop%C3%B5e-que-ucr%C3%A2nia-ceda-territ%C3%B3rio-em-troca-de-ades%C3%A3o-%C3%A0-otan,-diz-zelensky/92381165"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/politica/governo-dos-eua-propoe-que-ucrania-ceda-territorio-em-troca-de-adesao-a-otan-diz-zelensky/"
-      },
-      {
-       "n": "Portal Tela",
-       "u": "https://www.portaltela.com/internacional/2026/11/14/eua-ucrania-territorio-russa-otan/"
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/iro-dois-petroleiros-colidem-com-minas-em-ormuz-quando-decorrem-negociaes-de-paz"
       }
      ]
     }
@@ -701,8 +693,64 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Amanda Nunes, Vasco e Seleção",
+   "nota": "Final feminina, ATP Finals e Seleção",
    "itens": [
+    {
+     "kicker": "Futebol feminino",
+     "quando": "Hoje",
+     "titulo": "Internacional e Flamengo decidem a Copa do Brasil Feminina às 16h, no Beira-Rio, e o título será inédito para qualquer um dos dois",
+     "resumo": "O jogo de ida foi na quarta (11), no Estádio Luso-Brasileiro, no Rio. A volta tem transmissão da TV Globo e do SporTV.",
+     "fontes": [
+      {
+       "n": "Folha do Leste",
+       "u": "https://folhadoleste.com.br/flamengo-x-internacional-final-feminina-horarios-onde-assistir/"
+      },
+      {
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/2026/11/15/internet-e-redes-sociais/jogos-de-hoje-15-11-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas"
+      }
+     ]
+    },
+    {
+     "kicker": "Tênis",
+     "quando": "Hoje",
+     "titulo": "Orlando Luz e Rafael Matos perdem a estreia no ATP Finals para a dupla número 1, Heliövaara e Patten, no match tie-break",
+     "resumo": "Os brasileiros perderam o primeiro set por 6/3, venceram o segundo por 7/5 e caíram por 10 a 4 no desempate, em Turim. É a segunda vez que uma dupla só de brasileiros disputa o torneio; eles voltam à quadra na fase de grupos, que vai até sexta.",
+     "fontes": [
+      {
+       "n": "Ansa",
+       "u": "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/15/atp-finals-esordio-vincente-per-campioni-in-carica-heliovaara-patten_af68e5e2-b625-40b3-901e-838dd3f5cbd7.html"
+      },
+      {
+       "n": "Tênis News",
+       "u": "https://www.tenisnews.com.br/luz-matos-atp-finals-domingo/"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/esportes/2026/11/7538664-atp-finals-a-ultima-coroa-do-tenis-tem-presenca-brasileira-em-turim.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Seleção",
+     "quando": "Hoje",
+     "titulo": "Seleção treina em Singapura com a volta de Rayan; comissão define na segunda quem comanda o time sem Ancelotti",
+     "resumo": "O técnico e Raphinha cumprem suspensão automática após as expulsões na derrota por 3 a 2 para o Japão. O último jogo do ano será na terça (17), às 7h de Brasília, no Estádio Nacional de Singapura.",
+     "fontes": [
+      {
+       "n": "ABCD Jornal",
+       "u": "https://abcdjornal.com.br/esporte/noticia/2026/11/15/selecao-treina-com-reforco-no-ataque-e-comeca-preparacao-para-ultimo-jogo-do-ano/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://metropoles.com/esportes/rayan-volta-a-treinar-com-a-selecao-brasileira-apos-ficar-fora-contra-japao"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-e-raphinha-sao-expulsos-e-desfalcam-brasil-contra-singapura/"
+      }
+     ]
+    },
     {
      "kicker": "UFC",
      "quando": "Hoje",
@@ -742,74 +790,6 @@
        "u": "https://cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/brasileirao-35-rodada-comeca-com-empate-sem-gols-entre-mirassol-e-galo"
       }
      ]
-    },
-    {
-     "kicker": "Seleção",
-     "quando": "Ontem",
-     "titulo": "Sem Ancelotti e Raphinha, expulsos contra o Japão, Brasil fecha o ano contra Singapura na terça",
-     "resumo": "A derrota por 3 a 2 em Singapura, com gol japonês nos acréscimos, terminou com reclamações contra o árbitro Jansen Foo, que deixou seguir o lance; comentaristas da TV viram falta em João Gomes no início da jogada. O amistoso de terça (17), às 7h de Brasília, é o último da Seleção em 2026.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-e-raphinha-sao-expulsos-e-desfalcam-brasil-contra-singapura/"
-      },
-      {
-       "n": "TNH1",
-       "u": "https://www.tnh1.com.br/noticia/nid/brasil-perde-para-o-japao-e-termina-com-ancelotti-e-raphinha-expulsos/"
-      },
-      {
-       "n": "Liga da Notícia",
-       "u": "https://ligadanoticia.com.br/esportes/expulsos-contra-o-japao-ancelotti-e-raphinha-desfalcam-a-selecao-no-proximo-jogo/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/ancelotti-e-raphinha-sao-expulsos-e-estao-fora-de-amistoso-contra-singapura"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-perde-para-o-japao-com-gol-nos-acrescimos-3-2"
-      }
-     ]
-    },
-    {
-     "kicker": "Série B",
-     "quando": "Ontem",
-     "titulo": "Novorizontino é campeão da Série B e sobe com o Juventude; Fortaleza e Vila Nova disputam playoffs pelo acesso",
-     "resumo": "Na última rodada, o Novorizontino venceu o Criciúma por 1 a 0 e terminou com 73 pontos, e o Juventude bateu o Botafogo-SP por 2 a 0. As duas vagas restantes saem dos mata-matas Vila Nova x Atlético-GO e Fortaleza x Criciúma, a partir do dia 21; Ponte Preta, América-MG, Londrina e Avaí caíram para a Série C.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/futebol-nacional/2026/11/14/campeao-quem-caiu-quem-subiu-play-offs-e-mais-tudo-o-que-rolou-na-ultima-rodada-da-serie-b"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-e-campeao-da-serie-b-veja-playoffs-acesso-e-rebaixados/"
-      },
-      {
-       "n": "Diário de Goiás",
-       "u": "https://diariodegoias.com.br/goias-fracassa-na-rodada-decisiva-e-goleado-pelo-sport-e-fica-fora-dos-playoffs-da-serie-b/554495/"
-      }
-     ]
-    },
-    {
-     "kicker": "Calendário",
-     "quando": "Hoje",
-     "titulo": "Reta final tem Palmeiras x Flamengo no dia 21, que pode decidir o Brasileirão, e final da Libertadores em Montevidéu no dia 28",
-     "resumo": "O clássico será às 16h30 no Nubank Parque, pela 36ª rodada. Uma semana depois, o Palmeiras enfrenta o Estudiantes no Estádio Centenário pela taça continental.",
-     "fontes": [
-      {
-       "n": "A Gazeta",
-       "u": "https://www.agazeta.com.br/futebol/cbf-define-data-e-horario-de-palmeiras-x-flamengo-no-brasileirao-1026"
-      },
-      {
-       "n": "GC Mais",
-       "u": "https://gcmais.com.br/noticias/2026/10/30/cbf-detalha-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios-dos-jogos"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
-      }
-     ]
     }
    ]
   },
@@ -821,21 +801,21 @@
    "itens": [
     {
      "kicker": "Mpox",
-     "quando": "Ontem",
-     "titulo": "Rio confirma morte por mpox de homem de 48 anos; Brasil chega a 1.099 casos no ano, e variante 1b já circula em São Paulo",
-     "resumo": "Segundo a Secretaria Municipal de Saúde, o paciente tinha uma condição que enfraquecia a imunidade. São Paulo (409) e Rio (395) concentram mais de 76% dos casos, e mais de 250 foram registrados só em novembro; em São Paulo, 103 casos foram ligados ao clado 1b, associado a surtos na África.",
+     "quando": "Hoje",
+     "titulo": "Novembro já é o segundo com mais casos de mpox desde 2022, com 257 registros; Brasil soma 1.099 no ano",
+     "resumo": "Os dados do Ministério da Saúde, compilados pela CNN Brasil, ficam atrás só de novembro de 2022. São Paulo e Rio concentram a maior parte dos casos, e o Rio confirmou a primeira morte do ano, de um homem de 48 anos com doença imunossupressora.",
      "fontes": [
       {
-       "n": "Grupo Rio Claro SP",
-       "u": "https://www.gruporioclarosp.com.br/saude/mpox-sao-paulo-lidera-casos-no-brasil-e-rio-confirma-morte/"
-      },
-      {
-       "n": "Portal de Prefeitura",
-       "u": "https://portaldeprefeitura.com.br/saude/mpox-nova-variante-ligada-a-surto-na-africa-ja-circula-no-brasil/636036/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/saude/brasil-tem-segundo-novembro-com-mais-casos-de-mpox-desde-2022/"
       },
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados"
+      },
+      {
+       "n": "Agência Aids",
+       "u": "https://agenciaaids.com.br/noticias/brasil-ultrapassa-mil-casos-de-mpox-em-2026-rio-de-janeiro-e-sao-paulo-concentram-76-das-infeccoes/"
       }
      ]
     },
@@ -890,24 +870,20 @@
     {
      "kicker": "Enem",
      "quando": "Hoje",
-     "titulo": "Enem tem segundo dia neste domingo, com 90 questões de Matemática e Ciências da Natureza e previsão de chuva no Centro-Sul",
-     "resumo": "Os portões abrem às 12h e fecham às 13h, e a prova vai das 13h30 às 18h30, meia hora a menos que no primeiro dia, porque não há redação. O candidato só pode sair depois de duas horas, e aparelhos eletrônicos, inclusive relógios digitais, devem ficar desligados no envelope.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/rmkl9SBGEtL2udUef6AeCzJtaZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3023.jpg.jpeg?itok=36NIkyYQ",
-      "credito": "Valter Campanato/Agência Brasil (arquivo)"
-     },
+     "titulo": "Mais de 5,05 milhões de inscritos fazem o segundo dia do Enem em 1.901 municípios; prova vai até as 18h30",
+     "resumo": "São 45 questões de Matemática e 45 de Ciências da Natureza, em cerca de 14,8 mil locais, segundo o Inep. Quem ficar até os 30 minutos finais pode levar o caderno para conferir o gabarito.",
      "fontes": [
       {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202611/enem-segundo-dia-tera-itens-de-matematica-e-ciencias-da-natureza"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades"
       },
       {
-       "n": "Inep",
-       "u": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-confira-as-orientacoes-para-o-segundo-dia-de-provas"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-2o-dia-de-provas-ocorre-neste-domingo-com-questoes-de-matematica/"
       },
       {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/enem-2026-segundo-dia-provas-horarios-regras"
+       "n": "Jornal de Brasília",
+       "u": "https://jornaldebrasilia.com.br/noticias/brasil/enem-2026-tem-segundo-dia-de-provas-neste-domingo-15/"
       }
      ]
     },
@@ -945,8 +921,28 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Starship capturada e COP31",
+   "nota": "COP31 e Starship",
    "itens": [
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "COP31 entra na semana decisiva com temas sem acordo nas mãos dos ministros; encerramento está previsto para sexta (20)",
+     "resumo": "Ficaram em aberto o financiamento para adaptação, o futuro do programa de corte de emissões e o formato do mecanismo de transição justa. Os discursos de alto nível estão marcados para terça e quarta, em Antália, na Turquia.",
+     "fontes": [
+      {
+       "n": "Neo Mondo",
+       "u": "https://neomondo.org.br/clima/sete-dias-cinco-disputas-o-que-a-cop31-ainda-precisa-decidir-ate-20-de-novembro"
+      },
+      {
+       "n": "Climate Home News",
+       "u": "https://www.climatechangenews.com/2026/11/14/cop31-bulletin-day-6-limited-progress-as-ministers-arrive-in-antalya/"
+      },
+      {
+       "n": "Sapo",
+       "u": "https://sapo.pt/artigo/cop31-acordo-de-paris-e-eletrificacao-entre-prioridades-para-segunda-semana-na-turquia-6af988b5faafdbf5ce6dc6b4"
+      }
+     ]
+    },
     {
      "kicker": "Espaço",
      "quando": "Ontem",
@@ -968,46 +964,6 @@
       {
        "n": "CNN Chile",
        "u": "https://www.cnnchile.com/mundo/spacex-starship-aterrizaje-historico-mechazilla/"
-      }
-     ]
-    },
-    {
-     "kicker": "Clima",
-     "quando": "Ontem",
-     "titulo": "COP31 fecha a primeira semana sem acordo sobre combustíveis fósseis e financiamento para adaptação; ministros assumem as negociações",
-     "resumo": "Em Antália, na Turquia, a triplicação dos recursos para adaptação enfrentou resistência de países como Canadá, Japão, Reino Unido e membros da União Europeia, e a menção aos fósseis segue sem item próprio na pauta. Os discursos de alto nível são nos dias 17 e 18, e o encerramento está previsto para o dia 20.",
-     "fontes": [
-      {
-       "n": "Mídia Ninja",
-       "u": "https://midianinja.org/primeira-semana-da-cop31-termina-com-impasses-nas-negociacoes/"
-      },
-      {
-       "n": "ONU News",
-       "u": "https://news.un.org/en/story/2026/11/1168763"
-      }
-     ]
-    },
-    {
-     "kicker": "Pane",
-     "quando": "13/11",
-     "titulo": "Outlook volta aos poucos após mais de 20 horas de falha; Microsoft atribui pane a sobrecarga de servidores",
-     "resumo": "A empresa nega ataque hacker e diz que muitos servidores saíram do ar de uma vez, sobrecarregando os demais e afetando sobretudo o Exchange Online, além de Teams e Copilot. No pico, o Downdetector recebeu 140 mil relatos em 74 países; a recuperação é gradual para evitar novo colapso.",
-     "fontes": [
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/byte/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema,638eeab82fd0d8d2ce170ffac1d7a4f8a8d0wjdz.html"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/13/microsoft-falha-em-outlook-e-teams-deixa-milhares-de-utilizadores-sem-email"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/tecnologia/outlook-teams-e-copilot-voltaram-a-funcionar-servicos-da-microsoft-seguem-instaveis/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/outlook-teams-e-copilot-da-microsoft-ainda-estao-fora-do-ar"
       }
      ]
     },
@@ -1037,8 +993,20 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Marina Sena, Dira Paes e lutos",
+   "nota": "Luto na música baiana e Marina Sena",
    "itens": [
+    {
+     "kicker": "Luto",
+     "quando": "Hoje",
+     "titulo": "Morre aos 68 anos o guitarrista Aroldo Macêdo, filho de um dos criadores do trio elétrico",
+     "resumo": "Ele estava internado em Salvador e tratava a paralisia supranuclear progressiva, doença neurodegenerativa rara. Filho de Osmar Macêdo, foi uma das figuras da música do Carnaval baiano; artistas como Márcio Victor prestaram homenagens.",
+     "fontes": [
+      {
+       "n": "A Tarde",
+       "u": "https://atarde.com.br/musica/artistas-baianos-lamentam-a-morte-de-aroldo-macedo-1409523"
+      }
+     ]
+    },
     {
      "kicker": "Música",
      "quando": "Ontem",
@@ -1080,18 +1048,6 @@
      ]
     },
     {
-     "kicker": "Consciência Negra",
-     "quando": "Ontem",
-     "titulo": "Circuito cultural gratuito no Leblon, no Rio, celebra o mês da Consciência Negra até o dia 22",
-     "resumo": "A programação do Instituto 12 começou neste sábado com exposição da artista Panmela Castro e inclui debates, dança afro-brasileira contemporânea e show de Toni Garrido no dia 22. A entrada é livre, mas com retirada antecipada de ingressos por sessão.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/circuito-cultural-comeca-no-rio-com-celebracao-da-consciencia-negra"
-      }
-     ]
-    },
-    {
      "kicker": "Luto",
      "quando": "13/11",
      "titulo": "Morre aos 92 anos o ator Rogério Fróes, de \"O Bem-Amado\" e \"Prova de Amor\"",
@@ -1116,22 +1072,14 @@
      ]
     },
     {
-     "kicker": "Morte",
-     "quando": "13/11",
-     "titulo": "Morre aos 91 anos Claudette Soares, a 'Princesinha do Baião', no dia em que lançou álbum inédito",
-     "resumo": "A cantora carioca teve um mal súbito durante a madrugada, em São Paulo, no dia em que saiu \"O Mundo É Ruim pra Quem Não Sabe Esperar\", seu primeiro disco só de inéditas, com canções de Marcos Valle, Arnaldo Antunes e Guilherme Arantes. Apelidada por Luiz Gonzaga, passou pelo baião, pela bossa nova e pela Jovem Guarda.",
+     "kicker": "Consciência Negra",
+     "quando": "Ontem",
+     "titulo": "Circuito cultural gratuito no Leblon, no Rio, celebra o mês da Consciência Negra até o dia 22",
+     "resumo": "A programação do Instituto 12 começou neste sábado com exposição da artista Panmela Castro e inclui debates, dança afro-brasileira contemporânea e show de Toni Garrido no dia 22. A entrada é livre, mas com retirada antecipada de ingressos por sessão.",
      "fontes": [
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/morre-claudette-soares-aos-91-no-dia-de-lancamento-do-ultimo-album"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/cultura/claudette-soares-a-princesinha-do-baiao-morre-aos-91-anos"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://tvprime.correiobraziliense.com.br/noticia/413847/celebridades/morte-de-cantora-e-confirmada-e-audio-enviado-para-o-ator-rainer-cadete-vem-a-tona-ai-meu-deus-13112026"
+       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/circuito-cultural-comeca-no-rio-com-celebracao-da-consciencia-negra"
       }
      ]
     }
