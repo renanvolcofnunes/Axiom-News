@@ -1,71 +1,71 @@
 {
  "data": "Segunda-feira, 16 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "16/11/2026 · 07h10 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 07h01",
- "fontes": 66,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "16/11/2026 · 12h35 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 11h46",
+ "fontes": 73,
  "mercado": [
   {
-   "nome": "Bitcoin · 6h01",
-   "valor": "US$ 64.421",
-   "var": "-1,3% em 24h; -12,7% em 7 dias",
+   "nome": "Ibovespa · 11h10",
+   "valor": "170.840 pts",
+   "var": "-0,93%",
    "dir": "down"
   },
   {
-   "nome": "Ibovespa · fechamento de sexta (13/11)",
-   "valor": "172.458 pts",
-   "var": "+2,35% na semana",
+   "nome": "Dólar comercial · 11h46",
+   "valor": "R$ 5,745",
+   "var": "+1,59%",
    "dir": "up"
   },
   {
-   "nome": "Dólar à vista · fechamento de sexta (13/11)",
-   "valor": "R$ 5,657",
-   "var": "+2,63% na semana",
-   "dir": "up"
-  },
-  {
-   "nome": "Petróleo Brent · 7h01",
-   "valor": "US$ 95,10",
-   "var": "-0,77%",
+   "nome": "Bitcoin · 10h50",
+   "valor": "US$ 64.271",
+   "var": "-1,8% em 24h",
    "dir": "down"
+  },
+  {
+   "nome": "IPCA 2027 · Focus de hoje",
+   "valor": "5,00%",
+   "var": "de 4,90% na semana passada",
+   "dir": "up"
   },
   {
    "nome": "Selic · Copom",
    "valor": "13,75%",
-   "var": "mantida em novembro",
+   "var": "Focus vê 12,75% no fim de 2027",
    "dir": ""
   }
  ],
  "agenda": [
   {
    "hora": "Seg 16/11",
-   "txt": "Lula se reúne com Pedro Sánchez em Madri; BC divulga o Focus às 8h25 e o IBC-Br de setembro às 9h; velório de Claudionor Germano no Paço do Frevo, das 9h às 13h; abrem os pedidos de reaplicação do Enem",
-   "cat": "politica"
+   "txt": "Kevin Warsh, presidente do Fed, discursa às 14h; Alemanha x Holanda às 16h45 pela Liga das Nações; Lula chega a Brasília à noite; Bolsa Família paga o NIS final 1",
+   "cat": "economia"
   },
   {
    "hora": "Ter 17/11 · 7h",
-   "txt": "Brasil x Singapura, com Francesco Mauri no banco; Senado vota os destaques do ajuste fiscal; Nvidia divulga balanço por volta das 18h20",
+   "txt": "Brasil x Singapura, com Francesco Mauri no banco; Senado vota os destaques do ajuste fiscal; Nvidia divulga balanço após o fechamento",
    "cat": "esporte"
   },
   {
    "hora": "Qua 18/11",
-   "txt": "Inep divulga o gabarito do Enem; IBGE publica a Pnad Contínua às 9h; Fed divulga a ata às 16h; Anthropic fixa o preço das ações",
+   "txt": "Inep divulga o gabarito do Enem; Fed publica a ata; Voyager 1 chega a um dia-luz da Terra; Brasileirão volta com Flamengo x Athletico-PR e Cruzeiro x Palmeiras",
    "cat": "educacao"
   },
   {
    "hora": "Qui 19/11",
-   "txt": "Putin, Xi e Trump se reúnem em Shenzhen, à margem da Apec; ações da Anthropic estreiam na Nasdaq",
+   "txt": "Xi, Trump e Putin se reúnem em Shenzhen, à margem da Apec; ações da Anthropic estreiam na Nasdaq; São Paulo x Fluminense fecha a 35ª rodada",
    "cat": "mundo"
   },
   {
    "hora": "Sex 20/11",
-   "txt": "Feriado da Consciência Negra; prazo final da COP31, em Antália, na Turquia",
+   "txt": "Feriado da Consciência Negra, sem pregão na B3; último dia da COP31 e do prazo para pedir a reaplicação do Enem",
    "cat": "brasil"
   },
   {
    "hora": "Sáb 21/11 · 19h30",
-   "txt": "Atlético-MG e Boca Juniors decidem a Copa Sul-Americana em Barranquilla, na Colômbia",
+   "txt": "Atlético-MG e Boca Juniors decidem a Copa Sul-Americana em Barranquilla; GP de Las Vegas de F1 é à 1h de domingo",
    "cat": "esporte"
   }
  ],
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Educação · Enem 2026",
-  "titulo": "Enem tem 36% de faltas no segundo dia, a maior abstenção em pelo menos cinco anos; gabarito sai na quarta (18)",
-  "resumo": "Segundo o MEC, 64% dos inscritos fizeram as provas de Matemática e Ciências da Natureza neste domingo, ante 68% no primeiro dia, e 1.683 candidatos foram eliminados. O ministro Leonardo Barchini atribuiu a alta à inscrição automática dos concluintes da rede pública e disse que o índice ficou dentro do previsto.",
+  "kicker": "Economia · Mercado",
+  "titulo": "Dólar sobe mais de 1,5% e passa de R$ 5,74, e Ibovespa cai perto de 1% com atividade mais fraca, Focus pior para 2027 e rebaixamento do Morgan Stanley",
+  "resumo": "Às 11h46, o dólar comercial era vendido a R$ 5,745, em alta de 1,59%, e por volta das 11h10 a bolsa recuava 0,93%, aos 170.840 pontos. A manhã reuniu queda do IBC-Br, piora das projeções para 2027 no Focus e recomendação do Morgan Stanley para reduzir a exposição ao Brasil.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/rmkl9SBGEtL2udUef6AeCzJtaZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3023.jpg.jpeg?itok=36NIkyYQ",
-   "credito": "Valter Campanato/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/SgnUFMdRtJPNTHPG5q90__2MSS4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/11/0d4a1789.jpg?itok=9dpF2vXe",
+   "credito": "Antonio Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "Em 2026, o Inep passou a inscrever automaticamente os alunos que concluem o ensino médio na rede pública, o que elevou o total para mais de 5 milhões de inscritos e incluiu cerca de 1,9 milhão de estudantes desse grupo. Nos anos anteriores, a abstenção no segundo dia ficou entre 31% e 32%. O MEC diz que vai levantar nos próximos dias os motivos das faltas. O ministro também relatou tentativas de ataque hacker ao portal do Inep durante a aplicação e afirmou que os sistemas de segurança impediram problemas. Falta de energia levou à reaplicação em 11 locais de cinco estados; os pedidos de reaplicação vão de 16 a 20 de novembro, as provas extras são em 15 e 16 de dezembro, e o resultado individual sai em 18 de janeiro de 2027.",
+  "entenda": "O dia começou com o Banco Central informando que o IBC-Br, considerado uma prévia do PIB, caiu 0,2% em setembro e 0,9% no terceiro trimestre, a primeira queda trimestral em um ano; indústria e serviços recuaram, e só a agropecuária cresceu no mês. No Focus, os economistas consultados pelo BC passaram a prever inflação de 5% em 2027, acima do teto da meta, e Selic de 12,75% no fim daquele ano. O Morgan Stanley rebaixou o Brasil para 'underweight' (abaixo da média) e projeta o Ibovespa em 160 mil pontos no fim de 2027, citando juros altos, desaceleração e lucros das empresas que considera superestimados. No exterior, bolsas da Ásia caíram com nova venda de ações de tecnologia, e os juros longos dos EUA seguem acima de 5%. Também pesam a tramitação do ajuste fiscal, cujos destaques o Senado vota na terça, e a semana curta, sem pregão na sexta (20).",
   "fatos": [
-   "Abstenção de 36% no segundo dia, contra 32% no primeiro; em 2025, foi de 32%",
-   "Gabarito oficial sai na quarta-feira (18), e o resultado, em 18 de janeiro",
-   "Falta de energia obrigou reaplicação em 11 locais de MG, BA, PR, MA e PI"
+   "IBC-Br: -0,2% em setembro e -0,9% no 3º trimestre; 12 meses ainda em alta de 1,4%",
+   "Focus: IPCA de 2026 cai para 5,11%, mas o de 2027 sobe para 5%; PIB de 2027 cai para 1,02%",
+   "Morgan Stanley prevê Ibovespa em 160 mil pontos no fim de 2027, queda de cerca de 7%"
   ],
   "fontes": [
    {
-    "n": "Agenda do Poder",
-    "u": "https://agendadopoder.com.br/enem-2026-registra-36-de-faltas-no-segundo-dia-gabarito-sera-divulgado-nesta-quarta-feira/",
-    "d": "abstenção e eliminados"
+    "n": "Times Brasil",
+    "u": "https://timesbrasil.com.br/investimentos/dolar-sobe-ibovespa-recua-ibc-br/",
+    "d": "cotações da manhã"
    },
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/ministro-atribui-alta-abstencao-do-enem-2026-ao-modelo-de-inscricao",
-    "d": "explicação do ministro"
-   },
-   {
-    "n": "Correio Braziliense",
-    "u": "https://www.correiobraziliense.com.br/euestudante/enem/2026/11/7539018-segundo-dia-do-enem-tem-abstencao-de-36-acima-da-media-dos-ultimos-5-anos.html",
-    "d": "comparação com anos anteriores"
-   },
-   {
-    "n": "Band",
-    "u": "https://www.band.com.br/educacao/segundo-dia-do-enem-tem-36-de-abstencao-e-tentativa-de-ataques-hackers",
-    "d": "ataque hacker e energia"
+    "n": "BPMoney",
+    "u": "https://bpmoney.com.br/mercado/ibovespa-cai-aos-1715-mil-pontos-com-vale-e-petrobras-dolar-sobe-a-r-571/",
+    "d": "ações em destaque"
    },
    {
     "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro",
-    "d": "gabarito e resultado"
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202",
+    "d": "Boletim Focus"
    },
    {
-    "n": "O Povo",
-    "u": "https://www.opovo.com.br/noticias/enem/2026/11/15/enem-2026-tem-maior-abstencao-dos-ultimos-5-anos-aponta-mec.html",
-    "d": "maior abstenção em 5 anos"
+    "n": "Exame",
+    "u": "https://exame.com/invest/mercados/morgan-stanley-rebaixa-brasil-e-ve-ibovespa-em-160-mil-pontos-no-fim-de-2027/",
+    "d": "rebaixamento do Morgan Stanley"
+   },
+   {
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16112026/",
+    "d": "juros futuros e abertura"
+   },
+   {
+    "n": "Investing.com",
+    "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ibcbr-pacote-fiscal-e-discurso-de-warsh-no-radar-2127862",
+    "d": "agenda e exterior"
    }
   ]
  },
@@ -213,37 +213,75 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Lula em Madri, ajuste fiscal e caso Master",
+   "nota": "Lula volta, Flávio fica nos EUA e ajuste fiscal",
    "itens": [
     {
      "kicker": "Diplomacia",
      "quando": "Hoje",
-     "titulo": "Lula se reúne com Pedro Sánchez em Madri e encerra o primeiro giro internacional depois da reeleição",
-     "resumo": "O presidente chegou à Espanha no domingo, vindo da cúpula da Asean em Manila, onde defendeu atrair investimentos asiáticos para industrializar minerais críticos e terras raras no Brasil. Segundo a imprensa espanhola, o encontro bilateral pode ter entrevista conjunta e um ato político de apoio a Sánchez, que antecipou as eleições gerais no país.",
+     "titulo": "Lula se reúne com Sánchez na Moncloa, encerra o giro internacional e volta a Brasília para montar o novo governo",
+     "resumo": "Os dois falaram em defesa da democracia e cooperação; o ato de campanha com o PSOE, partido de Sánchez, foi cancelado porque Lula estava rouco. O presidente deixou Madri por volta das 10h30 e deve anunciar os primeiros ministros depois de ouvir os partidos aliados.",
      "fontes": [
       {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/lula-encontra-sanchez-na-espanha-e-encerra-1o-giro-externo-apos-reeleicao"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/16/tive-encontro-importante-com-sanchez-para-reafirmar-lacos-entre-brasil-e-espanha-diz-lula.html"
+      },
+      {
        "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/lula-espanha-pedro-sanchez-reuniao/"
+       "u": "https://jovempan.com.br/politica/rouquidao-de-lula-leva-partido-de-sanchez-a-cancelar-evento-em-madri/"
       },
       {
-       "n": "Diario de Pernambuco",
-       "u": "https://www.diariodepernambuco.com.br/mundo/2026/11/11729182-lula-tera-encontro-com-pedro-sanchez-na-espanha-nesta-segunda-16.html"
+       "n": "La Moncloa",
+       "u": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/161126-sanchez-encuentro-lula.aspx"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/politica/lula-encerra-giro-internacional-madri"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/lula-encerra-viagem-a-asia-com-encontro-com-sanchez-na-espanha-e-volta-ao-brasil/"
+      }
+     ]
+    },
+    {
+     "kicker": "Oposição",
+     "quando": "Ontem",
+     "titulo": "Flávio Bolsonaro diz que vai pedir residência permanente nos EUA e liderar a oposição do exterior",
+     "resumo": "Em entrevista ao Epoch Times, o senador disse que teme ser preso se voltar ao Brasil e que pretende disputar a Presidência em 2030. Ele está nos EUA desde 28 de outubro, com autorização humanitária de permanência válida até outubro de 2027.",
+     "lados": [
+      {
+       "quem": "Flávio Bolsonaro",
+       "txt": "Afirma ser alvo de perseguição política, agradece a Trump e Milei e diz confiar mais na Justiça americana que na brasileira."
       },
       {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-segunda-feira-16-de-novembro-de-2026/"
+       "quem": "Críticos",
+       "txt": "Lembram que a Justiça havia determinado a entrega dos passaportes antes da viagem; o deputado democrata Robert García pediu ao governo dos EUA que facilite o retorno dele para responder à Justiça."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "La Nación",
+       "u": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-busca-instalarse-en-estados-unidos-y-promete-seguir-disputando-el-poder-politico-en-nid15112026/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/trump-autorizou-entrada-de-flavio-nos-eua-senador-deve-receber-visto-de-residencia-permanente-diz-jornal/"
+      },
+      {
+       "n": "NTD",
+       "u": "https://www.ntd.com/brazils-flavio-bolsonaro-says-he-plans-to-stay-in-us-assist-his-party-from-abroad_1185418.html"
+      },
+      {
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
       }
      ]
     },
     {
      "kicker": "Ajuste fiscal",
      "quando": "Hoje",
-     "titulo": "Senado vota na terça os quatro destaques do ajuste fiscal, e Hugo Motta reúne líderes para definir a votação na Câmara",
-     "resumo": "O texto-base foi aprovado por 45 a 31 na quinta (12) e prevê economia de R$ 50 bilhões a R$ 60 bilhões em 2027, com corte de benefícios tributários e limite menor para o crescimento dos gastos. O presidente da Câmara deve se reunir com os líderes nesta segunda ou na terça; ainda não há relator definido na Casa.",
+     "titulo": "Senado vota na terça os quatro destaques do ajuste fiscal; na Câmara, projeto ainda não tem data e governo procura Hugo Motta",
+     "resumo": "O texto-base foi aprovado por 45 a 31 na quinta (12), com impacto estimado entre R$ 45 bilhões e R$ 56 bilhões em 2027. Os destaques, apresentados sobretudo por PL e Republicanos, tratam de compensações tributárias, do limite de gastos, da Lei Kandir e do controle do Orçamento.",
      "foto": {
       "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
       "credito": "Lula Marques/Agência Brasil"
@@ -260,26 +298,26 @@
      ],
      "fontes": [
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/politica/ajuste-fiscal-motta-vai-reunir-lideres-para-definir-votacao-na-camara/"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7538158-ajuste-fiscal-guimaraes-diz-que-camara-votara-plp-imediatamente-apos-senado.html"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/apos-senado-ajuste-fiscal-vira-incognita-na-camara-governo-busca-motta"
       },
       {
        "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/governo-lula-deu-nova-pedalada-fiscal-diz-rogerio-marinho-sobre-ajuste-aprovado-no-senado/"
+       "u": "https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/"
       },
       {
-       "n": "TV Senado",
-       "u": "https://www12.senado.leg.br/tv/programas/noticias-1/2026/11/lider-da-oposicao-diz-que-ajuste-fiscal-aumenta-impostos-e-nao-corta-gastos"
+       "n": "Investing.com",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ibcbr-pacote-fiscal-e-discurso-de-warsh-no-radar-2127862"
+      },
+      {
+       "n": "Agência Pública",
+       "u": "https://apublica.org/nota/senado-fecha-ajuste-fiscal-que-chega-essa-semana-na-camara/"
       }
      ]
     },
     {
      "kicker": "Caso Master",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Prazo dado por Fachin à PGR sobre o relatório da PF termina nesta semana, e denúncia contra Vorcaro e mais 14 é esperada",
      "resumo": "A PGR pode denunciar os investigados ou pedir novas diligências; segundo a imprensa, a ideia é dividir as acusações em cinco núcleos. A PF aponta fraude de R$ 17,5 bilhões em ativos e carteiras envolvendo o Banco Master e o BRB.",
      "lados": [
@@ -304,26 +342,6 @@
       {
        "n": "Revista Oeste",
        "u": "https://revistaoeste.com/politica/pgr-prepara-primeira-denuncia-contra-daniel-vorcaro/"
-      }
-     ]
-    },
-    {
-     "kicker": "Novo governo",
-     "quando": "Ontem",
-     "titulo": "Lula pretende anunciar os primeiros ministros do quarto mandato até o início de dezembro; Fazenda tem quatro nomes cotados",
-     "resumo": "Segundo a imprensa, estão em avaliação para a Fazenda o atual ministro Dario Durigan, o vice-presidente Geraldo Alckmin, o ex-ministro Fernando Haddad e o governador do Piauí, Rafael Fonteles. O mercado acompanha a escolha, que deve sair junto com Planejamento, Educação e Desenvolvimento Social.",
-     "fontes": [
-      {
-       "n": "A Tarde",
-       "u": "https://atarde.com.br/politica/lula-planeja-anunciar-primeiros-ministros-ate-inicio-de-dezembro-1409513"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/investidores-aguardam-definicao-da-equipe-economica-em-semana-mais-curta-ibovespa-em-dolar-cai-nesta-segunda-feira-16-rens/"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/poder/elogio-de-lula-indica-permanencia-de-dario-durigan-na-fazenda-para-novo-mandato/"
       }
      ]
     },
@@ -357,89 +375,97 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Focus, IBC-Br e cripto em queda",
+   "nota": "IBC-Br, Focus e Morgan Stanley",
    "itens": [
     {
-     "kicker": "Abertura",
+     "kicker": "Focus",
      "quando": "Hoje",
-     "titulo": "Semana curta começa com Focus e IBC-Br; futuros em Nova York e bolsas da Ásia caem com nova venda de ações de tecnologia",
-     "resumo": "Antes da abertura, o índice futuro da Nasdaq recuava 0,94%, e o Nikkei fechou em queda de 2,25%. No Brasil, saem o IGP-10 às 8h, o Focus às 8h25 e o IBC-Br de setembro às 9h, e investidores aguardam a definição da equipe econômica; o feriado de sexta (20) deve reduzir o volume de negócios.",
+     "titulo": "Mercado passa a prever inflação de 5% em 2027, acima do teto da meta, e Selic de 12,75% no fim daquele ano",
+     "resumo": "Para 2026, a projeção do IPCA caiu de 5,22% para 5,11%, e a Selic segue em 13,75%. A estimativa de crescimento recuou pela quinta semana, para 1,72% neste ano e 1,02% em 2027, e o dólar esperado no fim de 2026 subiu para R$ 5,40.",
      "fontes": [
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/investidores-aguardam-definicao-da-equipe-economica-em-semana-mais-curta-ibovespa-em-dolar-cai-nesta-segunda-feira-16-rens/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202"
       },
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/calendario-economico-da-semana-ata-do-fomc-e-dados-das-atividades-sao-destaque/"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/economia/focus-mercado-eleva-previsoes-de-inflacao-e-selic-para-2027"
       },
       {
-       "n": "ECO",
-       "u": "https://eco.sapo.pt/2026/11/15/eco-da-semana-contas-da-nvidia-ipo-da-anthropic-e-reuniao-trump-xi-putin/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/focus-mercado-sobe-projecoes-para-juros-e-inflacao-em-2027"
+      },
+      {
+       "n": "Portal do Agronegócio",
+       "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-hoje-supera-r-5-72-com-piora-do-focus-para-2027-e-preocupacao-fiscal"
       }
      ]
     },
     {
-     "kicker": "Criptomoedas",
+     "kicker": "Atividade",
      "quando": "Hoje",
-     "titulo": "Bitcoin opera perto de US$ 64,4 mil e acumula queda de 12,7% em sete dias; índice de medo do mercado chega a 10",
-     "resumo": "No domingo, a moeda tocou US$ 61,97 mil, menor nível em 90 sessões, e está cerca de 49% abaixo do recorde de US$ 126 mil. Fundos de bitcoin à vista nos EUA tiveram saídas líquidas de cerca de US$ 1,07 bilhão entre 9 e 13 de novembro.",
+     "titulo": "IBC-Br cai 0,2% em setembro e aponta recuo de 0,9% da economia no terceiro trimestre",
+     "resumo": "A queda mensal foi menor que a esperada pelo mercado; indústria caiu 0,4% e serviços 0,1%, enquanto a agropecuária subiu 1,2%. É a primeira queda trimestral do indicador do BC em um ano; o IBGE divulga o PIB oficial do período em 2 de dezembro.",
      "fontes": [
       {
-       "n": "BitNotícias",
-       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-16-de-novembro-de-2026"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/ibc-br-previa-pib-cai-setembro-2026/"
       },
       {
-       "n": "KuCoin News",
-       "u": "https://www.kucoin.com/news/flash/bitcoin-stabilizes-amid-market-volatility-ahead-of-nvidia-earnings"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/economia-do-pais-reduziu-02-em-setembro-em-relacao-agosto"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/ibc-br-previa-do-pib-recua-02-em-setembro-diz-banco-central"
       },
       {
        "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/"
+       "u": "https://www.moneytimes.com.br/ibc-br-previa-do-pib-recua-02-em-setembro-abaixo-das-expectativas-jcav/"
       }
      ]
     },
     {
-     "kicker": "Petróleo",
+     "kicker": "Bolsa",
      "quando": "Hoje",
-     "titulo": "Brent recua 0,77%, para US$ 95,10, mesmo com ataques do Irã no Bahrein e avanço dos houthis no Iêmen",
-     "resumo": "As exportações do Golfo voltaram a níveis próximos aos de antes da guerra, mas ataques a navios seguem como risco diário, segundo a Reuters. O estreito de Bab el-Mandeb, onde o governo iemenita recuou, é rota estratégica para o petróleo.",
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/investidores-aguardam-definicao-da-equipe-economica-em-semana-mais-curta-ibovespa-em-dolar-cai-nesta-segunda-feira-16-rens/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://infomoney.com.br/mundo/ira-pressiona-eua-em-duas-frentes-drones-no-barein-e-avanco-houthi-no-iemen"
-      }
-     ]
-    },
-    {
-     "kicker": "Mercado",
-     "quando": "13/11",
-     "titulo": "Dólar fecha a semana em R$ 5,657, com alta de 2,63%, no maior nível desde junho de 2025; Ibovespa sobe pela segunda semana",
-     "resumo": "Na sexta, a bolsa subiu 0,66% e fechou a 172.458 pontos, apoiada no avanço do ajuste fiscal no Senado e na recuperação do petróleo. O mercado segue atento à votação dos destaques na terça e aos sinais do Fed, que pode voltar a subir juros em dezembro.",
+     "titulo": "Morgan Stanley rebaixa recomendação para o Brasil e projeta Ibovespa em 160 mil pontos no fim de 2027",
+     "resumo": "O banco passou o país de neutro para abaixo da média, citando economia em fim de ciclo, juros altos que inibem investimento e projeções de lucro que considera otimistas demais. Na América Latina, a preferência é por Chile, Peru e o setor de energia da Argentina.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Itabira Online",
-       "u": "https://itabiraonline.com.br/2026/11/13/dolar-fecha-a-r-565-e-acumula-alta-de-263-na-semana-ibovespa-sobe-066/"
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/morgan-stanley-rebaixa-brasil-e-ve-ibovespa-em-160-mil-pontos-no-fim-de-2027/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/economia/2026/11/13/bolsa-de-valores-encerra-segunda-semana-seguida-no-azul"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/morgan-stanley-rebaixa-brasil-para-underweight-e-ve-ibovespa-a-160-mil-pontos-em-2027/"
       },
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ibovespa-fecha-em-alta-com-o-ajuste-fiscal-e-recuperacao-do-petroleo-davs/"
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/investimentos/acoes/morgan-stanley-rebaixa-brasil-ibovespa-2027"
+      }
+     ]
+    },
+    {
+     "kicker": "Criptomoedas",
+     "quando": "Hoje",
+     "titulo": "Bitcoin cai 1,8% em 24 horas, para US$ 64,3 mil, e devolve a alta dos últimos três meses",
+     "resumo": "A moeda acumula seis semanas seguidas de queda, e fundos de bitcoin à vista nos EUA tiveram o sétimo pregão seguido de saques na sexta. Mais de US$ 2 bilhões em posições foram liquidados no fim de semana, e investidores aguardam o balanço da Nvidia e a ata do Fed.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/future-of-money/bitcoin-hoje-16-11-2026/"
       },
       {
-       "n": "Grupo Ceres",
-       "u": "https://grupoceres.net.br/2026/11/14/ibovespa-sobe-235-na-semana-enquanto-dolar-permanece-no-maior-patamar-desde-junho-de-2025/"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/bitcoin-hoje-cai-a-us-64-mil-e-acumula-perdas-de-17-em-novembro-veja-analise/"
+      },
+      {
+       "n": "Bitcoin.com",
+       "u": "https://news.bitcoin.com/pt/market-updates/bitcoin-mantem-us-64-mil-apos-queda-no-fim-de-semana-pessimismo-segue/"
       }
      ]
     }
@@ -449,29 +475,65 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Alerta de tempestades e feriado",
+   "nota": "Tempestades, Bolsa Família e feriado",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Inmet mantém alerta de tempestade para todo o estado de Minas e para São Paulo, depois de alerta severo na Grande SP no domingo",
-     "resumo": "A previsão para Minas é de até 50 mm de chuva no dia, ventos de até 60 km/h e granizo; em São Paulo, as pancadas podem ir da madrugada até boa parte da tarde, com trégua prevista para terça. No domingo à noite, a Defesa Civil paulista registrou queda de árvore e um deslizamento na SP-342, em Águas da Prata.",
+     "titulo": "Inmet emite alerta de tempestade para 18 estados e o DF nesta segunda, com risco de granizo e ventos de até 60 km/h",
+     "resumo": "O aviso amarelo, de perigo potencial, vale até as 23h59 e inclui todo o Sudeste, o Centro-Oeste e parte do Norte e do Nordeste, com chuva de até 50 mm no dia. Em Minas, o alerta abrange todo o estado; a Defesa Civil atende pelo 199.",
      "foto": {
       "src": "https://imagens.ebc.com.br/pMQu7ZGPr9aw8v36dbJy7-Pcv3k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_9230.jpg?itok=FoVvdnSa",
       "credito": "Fernando Frazão/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/gerais/2026/11/7539050-minas-esta-sob-alerta-de-tempestade-com-granizo-nesta-segunda-feira-16.html"
+       "n": "Plox",
+       "u": "https://plox.com.br/noticia/16/11/2026/inmet-alerta-tempestades-minas"
       },
+      {
+       "n": "Correio de Minas",
+       "u": "https://correiodeminas.com.br/2026/11/16/tempestades-avancam-pelo-brasil-e-mantem-minas-gerais-em-alerta-nesta-segunda-feira-16/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-preve-tempestades-no-centro-sul-do-pais-ate-segunda-feira"
+      },
+      {
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/inmet-tempestades-chuva-forte-brasil-16-novembro-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Bolsa Família",
+     "quando": "Hoje",
+     "titulo": "Caixa começa a pagar o Bolsa Família de novembro, em calendário concentrado em três dias",
+     "resumo": "Recebem nesta segunda os beneficiários com NIS final 1, na terça os de final 2 e na quarta todos os demais; moradores de 112 municípios em emergência recebem já no primeiro dia. São 19,1 milhões de famílias e R$ 15 bilhões na folha, com benefício mínimo de R$ 691.",
+     "fontes": [
+      {
+       "n": "SC Real (Agência Brasil)",
+       "u": "https://www.screal.tv.br/noticia/31937/noticias-do-brasil/noticias-do-brasil/caixa-comeca-a-pagar-parcela-do-bolsa-familia-de-novembro.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Feriado",
+     "quando": "Hoje",
+     "titulo": "Consciência Negra, na sexta (20), é feriado nacional e cria o segundo fim de semana prolongado de novembro",
+     "resumo": "A data é feriado nacional desde 2024; a Proclamação da República caiu num domingo neste ano. Bancos, repartições federais e a B3 não funcionam na sexta, o que encurta a semana do mercado.",
+     "fontes": [
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-para-chuvas-intensas-na-grande-sao-paulo/"
+       "u": "https://www.cnnbrasil.com.br/nacional/brasil/feriados-de-novembro-permitem-duas-folgas-prolongadas-em-2026-veja-datas/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/minas-gerais/belo-horizonte-tem-granizo-e-alerta-severo-de-chuva-neste-domingo-15-11"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/trends/feriado-de-novembro-cai-numa-sexta-feira-em-2026-e-pode-criar-descanso-de-3-dias-para-parte-dos-trabalhadores/"
+      },
+      {
+       "n": "Diário do Comércio",
+       "u": "https://diariodocomercio.com.br/mix/brasil-tera-feriado-nacional-em-uma-sexta-feira-e-trabalhadores-ja-podem-se-preparar-para-um-fim-de-semana-de-3-dias/"
       }
      ]
     },
@@ -496,38 +558,18 @@
      ]
     },
     {
-     "kicker": "Feriado",
-     "quando": "Hoje",
-     "titulo": "Consciência Negra, na sexta (20), é feriado nacional e cria o segundo fim de semana prolongado de novembro",
-     "resumo": "A data é feriado nacional desde 2024; a Proclamação da República caiu num domingo neste ano. Bancos, repartições federais e a bolsa não funcionam na sexta.",
+     "kicker": "Segurança",
+     "quando": "13/11",
+     "titulo": "Operação Protetor reúne forças dos 26 estados e do DF por 30 dias contra crimes nas fronteiras e divisas",
+     "resumo": "Coordenada pelo Ministério da Justiça, a nova fase começou na sexta (13) e vai até 12 de dezembro, com foco em contrabando, tráfico de armas e crimes ambientais. No Maranhão, 175 policiais foram mobilizados para as divisas.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/brasil/feriados-de-novembro-permitem-duas-folgas-prolongadas-em-2026-veja-datas/"
+       "n": "Sociedade Militar",
+       "u": "https://www.sociedademilitar.com.br/2026/11/brasil-inicia-operacao-nacional-de-seguranca-em-26-estados-por-30-dias-e-reforca-acoes-nas-fronteiras-com-paraguai-bolivia-venezuela-e-guiana-nbd.html"
       },
       {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/trends/feriado-de-novembro-cai-numa-sexta-feira-em-2026-e-pode-criar-descanso-de-3-dias-para-parte-dos-trabalhadores/"
-      },
-      {
-       "n": "Diário do Comércio",
-       "u": "https://diariodocomercio.com.br/mix/brasil-tera-feriado-nacional-em-uma-sexta-feira-e-trabalhadores-ja-podem-se-preparar-para-um-fim-de-semana-de-3-dias/"
-      }
-     ]
-    },
-    {
-     "kicker": "Calor extremo",
-     "quando": "14/11",
-     "titulo": "Governo abre consulta pública sobre plano nacional contra o calor extremo; contribuições vão até 23 de novembro",
-     "resumo": "O rascunho do plano do Ministério do Meio Ambiente tem dez recomendações, com metas para 2027, 2031 e 2035, que vão de mais vegetação nas cidades a eficiência energética e resfriamento sustentável. As sugestões podem ser enviadas pela plataforma Brasil Participativo.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/_i15j7PANiECyWqg8VoFUDFqw_E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a4895_01.jpg?itok=Mq8WKdwF",
-      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/governo-abre-consulta-publica-sobre-enfrentamento-ao-calor-extremo"
+       "n": "Jornal Pequeno",
+       "u": "https://jornalpequeno.com.br/2026/11/16/operacao-protetor-mobiliza-175-policiais-para-atuar-nas-divisas-do-maranhao/"
       }
      ]
     }
@@ -537,53 +579,79 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Irã x EUA no Golfo e Cabo Verde",
+   "nota": "Ormuz, papa no Peru e Ucrânia",
    "itens": [
     {
      "kicker": "Golfo",
      "quando": "Ontem",
-     "titulo": "Irã lança drones contra base dos EUA no Bahrein, sede da Quinta Frota; governo bareinita diz ter interceptado os ataques",
-     "resumo": "A Guarda Revolucionária afirmou ter usado seis drones em retaliação a ações americanas; foram os primeiros ataques desse tipo ao país desde setembro. No mesmo dia, forças do governo do Iêmen deixaram posições perto de Bab el-Mandeb diante dos houthis, aliados de Teerã, e o Irã afirmou que um superpetroleiro afundou em Ormuz após atingir uma mina, sem confirmação independente.",
+     "titulo": "Irã diz que dois petroleiros explodiram em minas em Ormuz e um afundou; EUA reforçam presença com terceiro porta-aviões",
+     "resumo": "Segundo a Guarda Revolucionária, um superpetroleiro com mais de 2 milhões de barris afundou no sul do Golfo; o Irã também lançou no domingo o segundo ataque com drones ao Bahrein em três dias. O New York Times informou que o USS Theodore Roosevelt se junta a outros dois porta-aviões na região, sem confirmação do Pentágono.",
+     "lados": [
+      {
+       "quem": "Irã",
+       "txt": "Diz que os navios usavam a rota sul sem autorização, com rastreadores desligados e apoio dos EUA, e que o estreito está fechado a quem não seguir as rotas indicadas por suas Forças Armadas."
+      },
+      {
+       "quem": "EUA",
+       "txt": "Afirmam que não há bloqueio, que a passagem segue aberta e que escoltam navios na parte externa do estreito para manter as exportações de petróleo."
+      }
+     ],
      "fontes": [
       {
-       "n": "InfoMoney (Reuters)",
-       "u": "https://infomoney.com.br/mundo/ira-pressiona-eua-em-duas-frentes-drones-no-barein-e-avanco-houthi-no-iemen"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/mundo/ira-diz-que-dois-petroleiros-afundaram-apos-atingir-minas-no-estreito-de-ormuz/"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/guarda-revolucionaria-afirma-ter-atacado-a-quinta-frota-dos-eua-no-bahrein/"
+       "u": "https://www.cnnbrasil.com.br/internacional/ira-diz-ter-atacado-base-militar-dos-eua-em-bahrein/"
       },
       {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/11/15/ira-ataca-base-militar-dos-eua-no-bahrein-pais-afirma-ter-interceptado-drones/"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
       },
       {
-       "n": "24 Notícias",
-       "u": "https://24noticias.sapo.pt/atualidade/artigos/irao-volta-a-atacar-base-militar-dos-eua-no-bahrein-tensao-aumenta-no-medio-oriente"
+       "n": "Jornal de Negócios",
+       "u": "https://www.jornaldenegocios.pt/economia/detalhe/irao-dois-petroleiros-afundam-se-no-estreito-de-ormuz-apos-colisao-com-minas-navais"
       }
      ]
     },
     {
-     "kicker": "Cabo Verde",
+     "kicker": "Vaticano",
      "quando": "Hoje",
-     "titulo": "José Maria Neves é reeleito presidente de Cabo Verde no primeiro turno, com 63,8% dos votos, segundo resultados provisórios",
-     "resumo": "Joana Rosa Amado, primeira mulher candidata à Presidência do país, teve 31,4%. A abstenção foi de 68%, e a Comissão Eleitoral ainda vai anunciar o resultado definitivo.",
+     "titulo": "Papa Leão XIV encerra no Peru a primeira viagem à América do Sul e volta a Roma",
+     "resumo": "Em 12 dias por Uruguai, Argentina e Peru, os eventos reuniram cerca de 12 milhões de pessoas, segundo a CNN. O papa, que viveu duas décadas no Peru, celebra missa em Lima antes de embarcar; na Amazônia peruana, criticou o desmatamento ligado à extração de ouro e petróleo.",
      "fontes": [
       {
-       "n": "Swissinfo",
-       "u": "https://www.swissinfo.ch/por/cabo-verde-reelege-o-presidente-jos%C3%A9-maria-neves,-segundo-resultados-provis%C3%B3rios/92387034"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/papa-leao-encerra-viagem-a-america-do-sul-apos-reunir-12-milhoes-de-fieis/"
       },
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/15/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/leao-xiv-peru-viagem-mais-longa-papado"
       },
       {
-       "n": "O País",
-       "u": "https://opais.co.mz/jose-maria-neves-reeleito-presidente-de-cabo-verde-com-639-dos-votos/"
+       "n": "EFE (Infobae)",
+       "u": "https://www.infobae.com/america/agencias/2026/11/16/temas-del-dia-de-efe-internacional-del-lunes-16-de-noviembre-1200-gmt/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Rússia diz ter derrubado 1.336 drones ucranianos em 15 regiões, em um dos maiores ataques da guerra",
+     "resumo": "A ofensiva ocorre às vésperas da reunião de Putin, Trump e Xi na China. A Estônia anunciou que fechará todas as passagens de fronteira com a Rússia em 1º de dezembro, após uma tentativa de sabotagem, e o Kremlin chamou as acusações de infundadas.",
+     "fontes": [
+      {
+       "n": "EFE (Infobae)",
+       "u": "https://www.infobae.com/america/agencias/2026/11/16/temas-del-dia-de-efe-internacional-del-lunes-16-de-noviembre-1200-gmt/"
       },
       {
-       "n": "ABC News",
-       "u": "https://abcnews.com/International/wireStory/cape-verdes-president-reelected-5-year-term-provisional-138170967"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+      },
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/16/1022679-principais-noticias-do-mundo-na-manha-de-hoje-16"
       }
      ]
     },
@@ -608,24 +676,26 @@
      ]
     },
     {
-     "kicker": "Gaza",
+     "kicker": "Cabo Verde",
      "quando": "Ontem",
-     "titulo": "Israel e Hamas confirmam morte de comandante da Brigada de Rafah em ataque aéreo em Al-Mawasi, no sul de Gaza",
-     "resumo": "Israel diz que Samir Abu Younis participou do planejamento do ataque de 7 de outubro de 2023. O Hamas chamou a ação de assassinato e acusa Israel de violar o cessar-fogo de outubro de 2025.",
-     "lados": [
-      {
-       "quem": "Israel",
-       "txt": "Afirma que a operação, feita com o Shin Bet, mirou um comandante com papel na reorganização militar do Hamas e que adotou medidas para reduzir riscos a civis."
-      },
-      {
-       "quem": "Hamas",
-       "txt": "Classifica o ataque como assassinato e violação da trégua; o Ministério da Saúde de Gaza conta 1.643 mortos desde o início do cessar-fogo."
-      }
-     ],
+     "titulo": "José Maria Neves é reeleito presidente de Cabo Verde no primeiro turno, com 63,8% dos votos, segundo resultados provisórios",
+     "resumo": "Joana Rosa Amado, primeira mulher candidata à Presidência do país, teve 31,4%. A abstenção foi de 68%, e a Comissão Eleitoral ainda vai anunciar o resultado definitivo.",
      "fontes": [
       {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/15/israel-mata-comandante-hamas-sul-gaza/"
+       "n": "Swissinfo",
+       "u": "https://www.swissinfo.ch/por/cabo-verde-reelege-o-presidente-jos%C3%A9-maria-neves,-segundo-resultados-provis%C3%B3rios/92387034"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/15/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica"
+      },
+      {
+       "n": "O País",
+       "u": "https://opais.co.mz/jose-maria-neves-reeleito-presidente-de-cabo-verde-com-639-dos-votos/"
+      },
+      {
+       "n": "ABC News",
+       "u": "https://abcnews.com/International/wireStory/cape-verdes-president-reelected-5-year-term-provisional-138170967"
       }
      ]
     }
@@ -635,81 +705,97 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Seleção sem Ancelotti e final da Sula",
+   "nota": "Ronaldinho, Seleção e Liga das Nações",
    "itens": [
     {
-     "kicker": "Seleção",
-     "quando": "Hoje",
-     "titulo": "Com Ancelotti e Raphinha suspensos, auxiliar Francesco Mauri comanda o Brasil contra Singapura, e Bruno Guimarães será o capitão",
-     "resumo": "O amistoso é nesta terça (17), às 7h de Brasília, no Estádio Nacional de Singapura, e fecha o ano da Seleção. Ancelotti vai assistir da arquibancada e deve testar Rayan, recuperado de lesão no tornozelo, como meia; os dois foram expulsos na derrota por 3 a 2 para o Japão.",
+     "kicker": "Futebol",
+     "quando": "Ontem",
+     "titulo": "Aos 46 anos, Ronaldinho volta a jogar profissionalmente e participa de gol na vitória do Ravenna, na terceira divisão italiana",
+     "resumo": "Titular no clássico contra o Forlì, ele jogou todo o primeiro tempo, mais do que os 30 minutos previstos, e participou da jogada do primeiro gol, aos 35 minutos; o Ravenna venceu por 2 a 0. Foi a primeira partida oficial dele em mais de 11 anos.",
      "fontes": [
       {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/na-reestreia-profissional-ronaldinho-gaucho-participa-de-gol-do-ravenna"
+      },
+      {
        "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/brasil/ancelotti-testa-rayan-no-meio-e-define-capitao-contra-singapura,ab65e1cafd64dfbe968f705e708824f14ppeo4kk.html"
+       "u": "https://www.terra.com.br/esportes/ronaldinho-gaucho-estreia-como-titular-pelo-ravenna-e-participa-de-gol,f337ef0127f0530e8ea657bf0e6b0db6eg200z9q.html"
       },
       {
-       "n": "ABCD Jornal",
-       "u": "https://abcdjornal.com.br/brasil/noticia/2026/11/15/selecao-quem-entra-no-lugar-de-ancelotti-apos-suspensao/"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/brasil/selecao-rayan-reforco-amistoso-singapura/"
-      },
-      {
-       "n": "Olympics.com",
-       "u": "https://olympics.com/pt/noticias/brasil-singapura-escalacoes-horario-assistir-amistoso-selecao-brasileira"
+       "n": "Sapo",
+       "u": "https://sapo.pt/artigo/ronaldinho-estreia-se-no-ravenna-aos-46-anos-em-italia-6a86ea5157746d4cd88fab93"
       }
      ]
     },
     {
-     "kicker": "Futebol feminino",
-     "quando": "Ontem",
-     "titulo": "Internacional vence o Flamengo por 1 a 0 no Beira-Rio e conquista a Copa do Brasil Feminina pela primeira vez",
-     "resumo": "O gol de Pati Llanos, aos 13 minutos do segundo tempo, garantiu o título inédito diante de 20.097 torcedores no Beira-Rio; no agregado, o Inter fez 4 a 1. Um gol de Sole James foi anulado pelo VAR por impedimento.",
-     "foto": {
-      "src": "fotos/jogadoras.jpg",
-      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
-     },
+     "kicker": "Seleção",
+     "quando": "Hoje",
+     "titulo": "Brasil enfrenta Singapura amanhã às 7h, sem Ancelotti e Raphinha; chuva encurta treino e Endrick deve começar jogando",
+     "resumo": "O auxiliar Francesco Mauri comanda o time no Estádio Nacional de Singapura, com Bruno Guimarães como capitão; Rayan, recuperado de lesão, deve atuar no meio. Gabriel Magalhães e Bruno Guimarães treinaram normalmente, mas seguem sob observação; a Globo transmite.",
      "fontes": [
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/internacional-bate-flamengo-e-conquista-titulo-inedito-da-copa-do-brasil-feminina/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/brasil-x-singapura-escalacao-horario-e-onde-assistir,cc73ed2b439fb090cf23938cba2cd4facxy96859.html"
       },
       {
        "n": "Lance!",
-       "u": "https://www.lance.com.br/futebol-feminino/internacional-estraga-festa-do-flamengo-com-titulo-inedito-da-copa-do-brasil-feminina.html"
+       "u": "https://www.lance.com.br/selecao-brasileira/escalacao-ancelotti-define-selecao-com-rayan-no-meio-e-endrick-no-ataque.html"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/futebol-feminino/internacional-vence-o-flamengo-e-conquista-a-copa-do-brasil-feminina,4389d3846e49d8547583c1bbd4685d188nuu4ga2.html"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-singapura-veja-a-provavel-escalacao-de-ancelotti-para-o-amistoso/"
       },
       {
-       "n": "Placar",
-       "u": "https://placar.com.br/futebol-feminino/internacional-vence-flamengo-e-conquista-titulo-da-copa-do-brasil/"
+       "n": "Olympics.com",
+       "u": "https://www.olympics.com/pt/noticias/brasil-singapura-escalacoes-horario-assistir-amistoso-selecao-brasileira"
       }
      ]
     },
     {
      "kicker": "Liga das Nações",
-     "quando": "Ontem",
-     "titulo": "Bélgica goleia e elimina a Itália na Liga das Nações; Inglaterra vence a Espanha em Madri, e Alemanha x Holanda jogam hoje",
-     "resumo": "No domingo, a Inglaterra bateu a Espanha por 3 a 2 e ficou em primeiro no grupo, e França e Bélgica também avançaram. Nesta segunda, a rodada tem Alemanha x Holanda e Suíça x Escócia, às 16h45.",
+     "quando": "Hoje",
+     "titulo": "Alemanha e Holanda decidem vaga nas quartas da Liga das Nações às 16h45, em Berlim",
+     "resumo": "A Holanda de Xavi lidera o grupo com 11 pontos, e a Alemanha tem 8. No domingo, a Inglaterra venceu a Espanha por 3 a 2 em Madri, mesmo com um a menos, e encerrou uma série de 43 jogos sem derrota dos espanhóis; a Bélgica goleou a Itália por 4 a 1.",
      "fontes": [
       {
-       "n": "Notícias ao Minuto",
-       "u": "https://www.noticiasaominuto.com/desporto/3084531/inglaterra-despacha-espanha-franca-sofre-e-italia-tomba-na-belgica"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/nations-league-com-alemanha-x-holanda-veja-agenda-desta-segunda-feira"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/futebol-internacional/ao-vivo-acompanhe-espanha-x-inglaterra-pela-nations-league.html"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/alemanha-x-holanda-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-liga-das-nacoes/"
       },
       {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/esportes/belgica-goleia-avanca-de-fase-e-elimina-a-italia-da-liga-das-nacoes-1.1194640"
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-16-11-2026.html"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/alemanha-x-holanda-onde-assistir-ao-vivo-horario-e-escalacoes-pela-liga-das-nacoes,2dfc0dd3adb4703835f1e2ac392d77e86n72iy7d.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Brasileirão volta na quarta com Flamengo, 76 pontos, e Cruzeiro, 73, em jogos decisivos pela liderança",
+     "resumo": "O Flamengo recebe o Athletico-PR, e o Cruzeiro enfrenta o Palmeiras, terceiro colocado. Na parte de baixo, a Chapecoense já está rebaixada, e Remo, Grêmio e Corinthians tentam sair da zona.",
+     "fontes": [
+      {
+       "n": "Diário do RN",
+       "u": "https://diariodorn.com.br/brasileirao-retorna-confira-todos-os-jogos-da-35a-rodada-nesta-semana/"
+      },
+      {
+       "n": "Portal MPA",
+       "u": "https://sistemampa.com.br/esporte/brasileirao-retorna-com-disputa-pelo-topo-e-pressao-contra-o-rebaixamento-na-35a-rodada"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/sao-paulo/com-menos-de-1-de-chance-de-libertadores-sao-paulo-encara-semana-decisiva-no-brasileirao/"
       }
      ]
     },
@@ -732,22 +818,6 @@
        "u": "https://br.bolavip.com/atletico-mineiro/eduardo-dominguez-reconhece-favoritismo-do-boca-mas-confia-no-atletico-mg-para-conquistar-a-sul-americana"
       }
      ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "Com títulos já decididos, F1 vai a Las Vegas; corrida com Bortoleto será à 1h de domingo (22), horário de Brasília",
-     "resumo": "Faltam três etapas na temporada, e a Mercedes já garantiu o título de construtores em Interlagos. Verstappen, Russell, Hamilton, Leclerc e Norris disputam o vice entre os pilotos.",
-     "fontes": [
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/formula-1/f1-gp-las-vegas-2026-onde-assistir-horarios"
-      },
-      {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-apos-gp-do-brasil-formula-1-mira-las-vegas-e-entra-na-reta-final-da-temporada-2026/"
-      }
-     ]
     }
    ]
   },
@@ -755,17 +825,21 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Mpox e Covid em alta",
+   "nota": "Mpox, planos de saúde e Anvisa",
    "itens": [
     {
      "kicker": "Mpox",
-     "quando": "Ontem",
-     "titulo": "Ministério da Saúde confirma a primeira morte por mpox no país em 2026, no Rio, e Brasil já soma 1.055 casos no ano",
-     "resumo": "A vítima era um homem de 40 a 49 anos com doença que afeta o sistema imunológico, e a morte ocorreu na segunda quinzena de outubro. O total de casos do ano está 20 abaixo do registrado em todo 2025, e novembro já é o segundo pior desde 2022.",
+     "quando": "Hoje",
+     "titulo": "Rio confirma a primeira morte por mpox no país em 2026; estado soma 382 casos e 55 internações no ano",
+     "resumo": "A vítima morava na capital, que concentra 71% dos casos fluminenses. Dois terços dos registros do estado ocorreram depois de 12 de setembro, e o Brasil já soma 1.055 casos no ano.",
      "fontes": [
       {
-       "n": "CBN Recife",
-       "u": "https://www.cbnrecife.com/2026/11/15/ministerio-da-saude-confirma-primeira-morte-por-mpox-no-brasil-em-2026/"
+       "n": "Tribuna de Minas",
+       "u": "https://tribunademinas.com.br/especiais/saude/16-11-2026/rio-de-janeiro-confirma-primeira-morte-por-mpox-em-2026-no-brasil.html"
+      },
+      {
+       "n": "Diário da Guanabara",
+       "u": "https://dgrj.com.br/saude/rio-de-janeiro-registra-382-casos-de-mpox-e-confirma-primeira-morte-no-brasil"
       },
       {
        "n": "Agência Brasil",
@@ -774,18 +848,38 @@
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/saude/brasil-tem-segundo-novembro-com-mais-casos-de-mpox-desde-2022/"
-      },
+      }
+     ]
+    },
+    {
+     "kicker": "Planos de saúde",
+     "quando": "Hoje",
+     "titulo": "ANS inclui exame genético e remédio oral para câncer de pulmão na cobertura obrigatória dos planos",
+     "resumo": "A resolução publicada no Diário Oficial inclui o painel genético NGS para casos avançados de câncer de pulmão de não pequenas células e o medicamento tepotinibe, para pacientes com uma mutação específica. As coberturas passam a valer em fevereiro de 2027.",
+     "fontes": [
       {
-       "n": "ND+",
-       "u": "https://ndmais.com.br/saude/primeira-morte-por-mpox-acende-alerta-mil-casos-da-doenca-no-brasil/"
+       "n": "SC Real (Agência Brasil)",
+       "u": "https://www.screal.tv.br/noticia/31920/noticias-do-brasil/noticias-do-brasil/ans-amplia-cobertura-obrigatoria-para-tratamento-de-cancer-de-pulmao.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Anvisa",
+     "quando": "Hoje",
+     "titulo": "Anvisa proíbe a venda de dois tira-manchas à base de percarbonato fabricados sem registro",
+     "resumo": "A medida atinge o Brankíssimo Alvejante e o Alveclean Tira Manchas em Pó, segundo publicação no Diário Oficial. A agência não conseguiu identificar os fabricantes, que não tinham autorização para produzir saneantes.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/saude/anvisa-proibe-dois-tira-manchas-a-base-de-percarbonato-veja-marcas"
       }
      ]
     },
     {
      "kicker": "Vacina",
-     "quando": "Ontem",
-     "titulo": "Governo adquire 25 mil doses de vacina contra mpox, mas mantém aplicação só para grupos de maior risco",
-     "resumo": "A entrega está prevista para as próximas três semanas. A vacina é indicada para pessoas vivendo com HIV em imunossupressão, profissionais de laboratório que lidam com o vírus e contatos de casos; o ministério orienta evitar contato físico com quem tem lesões na pele ou nas mucosas.",
+     "quando": "08/11",
+     "titulo": "Vacina contra mpox segue restrita a grupos de maior risco; estado do Rio já recebeu mais de 2 mil doses",
+     "resumo": "O ministério comprou 25 mil doses, com entrega prevista em cerca de três semanas, para pessoas com HIV em imunossupressão, profissionais de laboratório e contatos de casos. O esquema tem duas doses, com intervalo de 28 dias.",
      "foto": {
       "src": "fotos/vacina.jpg",
       "credito": "Tomaz Silva/Agência Brasil (arquivo)"
@@ -839,8 +933,32 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Abstenção recorde no Enem",
+   "nota": "Reaplicação do Enem e IA nas escolas",
    "itens": [
+    {
+     "kicker": "Reaplicação",
+     "quando": "Hoje",
+     "titulo": "Pedidos de reaplicação do Enem estão abertos até sexta (20); gabarito oficial sai na quarta (18)",
+     "resumo": "Podem pedir quem teve problema logístico no local de prova ou doença infectocontagiosa prevista no edital, pela Página do Participante; as provas extras serão em 15 e 16 de dezembro. As notas individuais saem em 18 de janeiro e valem para Sisu, Prouni e Fies.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro"
+      },
+      {
+       "n": "Sou Brasília",
+       "u": "https://soubrasilia.com/reaplicacao-enem-2026-pedido-16-a-20-novembro-provas-15-16-dezembro/"
+      },
+      {
+       "n": "News Rondônia",
+       "u": "https://newsrondonia.com.br/educacao/2026/11/10/inep-abre-prazo-para-pedido-de-reaplicacao-do-enem-2026-a-partir-do-dia-16-de-novembro"
+      },
+      {
+       "n": "Folha do Leste",
+       "u": "https://folhadoleste.com.br/gabarito-oficial-enem-2026-data-notas-reaplicacao/"
+      }
+     ]
+    },
     {
      "kicker": "Enem",
      "quando": "Ontem",
@@ -850,7 +968,6 @@
       "src": "https://imagens.ebc.com.br/rmkl9SBGEtL2udUef6AeCzJtaZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/0d7a3023.jpg.jpeg?itok=36NIkyYQ",
       "credito": "Valter Campanato/Agência Brasil (arquivo)"
      },
-     "destaque": false,
      "fontes": [
       {
        "n": "Agenda do Poder",
@@ -871,62 +988,18 @@
      ]
     },
     {
-     "kicker": "Reaplicação",
-     "quando": "Hoje",
-     "titulo": "Pedidos de reaplicação do Enem abrem nesta segunda (16) e vão até sexta (20); falta de luz afetou 11 locais",
-     "resumo": "Podem pedir quem teve problema logístico no local de prova ou doença infectocontagiosa prevista no edital, pela Página do Participante. As provas extras serão em 15 e 16 de dezembro; nos locais sem energia, em MG, BA, PR, MA e PI, a reaplicação já está garantida.",
-     "fontes": [
-      {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/enem-2026-registra-36-de-faltas-no-segundo-dia-gabarito-sera-divulgado-nesta-quarta-feira/"
-      },
-      {
-       "n": "SP Agora",
-       "u": "https://www.spagora.com.br/cotidiano/servicos/enem-2026-balanco-segundo-dia-abstencao-ocorrencias/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame"
-      }
-     ]
-    },
-    {
-     "kicker": "Gabarito",
-     "quando": "Hoje",
-     "titulo": "Inep divulga o gabarito oficial do Enem na quarta (18); notas individuais saem em 18 de janeiro",
-     "resumo": "O gabarito permite que os candidatos estimem o desempenho, mas a nota final depende do método de correção usado pelo Inep. As notas servem para o Sisu, o Prouni e o Fies.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/enem-2026-veja-quando-sai-o-gabarito-e-o-resultado-das-provas"
-      },
-      {
-       "n": "ES Brasil",
-       "u": "https://esbrasil.com.br/gabarito-do-enem-2026-abstencao/"
-      }
-     ]
-    },
-    {
-     "kicker": "Pé-de-Meia",
-     "quando": "13/11",
-     "titulo": "Pé-de-Meia paga a parcela de R$ 200 de frequência entre 23 e 30 de novembro, conforme o mês de nascimento",
-     "resumo": "O pagamento é feito pela Caixa aos estudantes do ensino médio público que cumprem a frequência mínima. O MEC já anunciou que, a partir de março de 2027, o programa deixa de ser restrito ao CadÚnico e passa a atender toda a rede pública.",
+     "kicker": "Inteligência artificial",
+     "quando": "10/11",
+     "titulo": "Novas diretrizes do MEC proíbem IA na educação infantil e desaconselham ferramentas generativas até o 5º ano",
+     "resumo": "Do 6º ao 9º ano, o uso fica permitido com mediação do professor, e no ensino médio não há restrição específica. A IA pode ajudar a corrigir redações, mas não pode ser a única base para dar notas; as regras do Conselho Nacional de Educação foram homologadas pelo MEC.",
      "foto": {
       "src": "fotos/pedemeia.jpg",
       "credito": "Antônio Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/13/pe-de-meia-paga-r-200-entre-23-e-30-de-novembro-de-2026-a-estudantes/"
-      },
-      {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/14/pe-de-meia-universitario-mec-confirma-inicio-de-programa-no-brasil-em-2027-com-r-38-mil/"
+       "n": "Cidades em Foco",
+       "u": "https://cidadesemfoco.com/mec-estabelece-limites-para-uso-de-ia-nas-escolas/"
       }
      ]
     }
@@ -936,17 +1009,21 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "COP31, Nvidia e IPO da Anthropic",
+   "nota": "COP31, Nvidia e Voyager 1",
    "itens": [
     {
      "kicker": "COP31",
      "quando": "Hoje",
      "titulo": "COP31 entra na semana decisiva sem acordo sobre financiamento; rascunho inclui mapa do caminho contra fósseis liderado pelo Brasil",
-     "resumo": "O primeiro rascunho propõe elevar o financiamento climático a US$ 300 bilhões por ano, chegando a US$ 1,3 trilhão até 2035, e triplicar os recursos para adaptação. Brasil, China e países africanos querem doações; União Europeia e Japão preferem empréstimos. A conferência em Antália termina na sexta (20).",
+     "resumo": "O primeiro rascunho propõe elevar o financiamento climático a US$ 300 bilhões por ano, chegando a US$ 1,3 trilhão até 2035; Brasil, China e africanos querem doações, e União Europeia e Japão preferem empréstimos. Nesta segunda, o ministro João Paulo Capobianco pediu esforço conjunto dos países contra o fogo na Amazônia; a conferência termina na sexta (20).",
      "fontes": [
       {
        "n": "TV Sim Brasil",
        "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/16/financiamento-climatico-trava-cop31-brasil-lidera-plano-contra-fosseis"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-ministro-defende-esforco-compartilhado-na-protecao-da-amazonia"
       },
       {
        "n": "Exame",
@@ -955,30 +1032,54 @@
       {
        "n": "Canal Rural",
        "u": "https://www.canalrural.com.br/politica/cop31-avanca-em-temas-tecnicos-e-deixa-financiamento-para-a-reta-final/"
-      },
-      {
-       "n": "Sapo",
-       "u": "https://sapo.pt/artigo/cop31-acordo-de-paris-e-eletrificacao-entre-prioridades-para-segunda-semana-na-turquia-6af988b5faafdbf5ce6dc6b4"
       }
-     ]
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/94SQjjcu4cTte9q4jZB3BziTpsI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/floresta-211016ebc0489.jpg?itok=raMYT_E0",
+      "credito": "Valter Campanato/Agência Brasil (arquivo)"
+     }
     },
     {
      "kicker": "Nvidia",
      "quando": "Hoje",
-     "titulo": "Nvidia divulga na terça (17) o primeiro balanço sem Jensen Huang no comando; mercado espera receita de US$ 109 bilhões",
-     "resumo": "Colette Kress é a CEO interina desde a saída de Huang, em 12 de novembro, semana em que a empresa perdeu cerca de US$ 573 bilhões em valor de mercado. Investidores devem olhar sobretudo o ritmo de entrega dos sistemas Vera Rubin e as margens.",
+     "titulo": "Jensen Huang discute voltar ao comando da Nvidia, mas Tesouro dos EUA quer um presidente de fora; balanço sai amanhã",
+     "resumo": "Huang deixou o cargo em 12 de novembro, após denúncias de relacionamentos com funcionárias e uma empresária; uma carta de apoio à volta reuniu perto de 100 mil assinaturas, entre elas a de Elon Musk. O secretário Scott Bessent deu dez dias ao conselho para explicar o cumprimento das regras de exportação de chips.",
      "fontes": [
       {
        "n": "Exame",
-       "u": "https://exame.com/inteligencia-artificial/a-nvidia-perdeu-o-fundador-e-us-600-bilhoes-em-uma-semana-na-terca-precisa-provar-o-que-vale/"
+       "u": "https://exame.com/invest/mercados/jensen-huang-articula-retorno-a-nvidia-mas-enfrenta-resistencia-nos-eua/"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/mundo/aliados-articulam-volta-de-huang-ao-comando-da-nvidia/"
+      },
+      {
+       "n": "ECO",
+       "u": "https://eco.sapo.pt/2026/11/16/jensen-huang-discute-regresso-a-lideranca-da-nvidia/"
+      },
+      {
+       "n": "EFE (Infobae)",
+       "u": "https://www.infobae.com/america/agencias/2026/11/16/temas-del-dia-de-efe-internacional-del-lunes-16-de-noviembre-1200-gmt/"
+      }
+     ]
+    },
+    {
+     "kicker": "Espaço",
+     "quando": "Hoje",
+     "titulo": "Voyager 1 se torna na quarta (18) o primeiro objeto humano a um dia-luz da Terra",
+     "resumo": "Lançada em 1977, a sonda da Nasa estará a cerca de 25,9 bilhões de quilômetros; um sinal levará 24 horas para chegar, e uma mensagem e sua resposta, ao menos 48 horas.",
+     "fontes": [
+      {
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+      },
+      {
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/curiosidades/2026/06/21/e-oficial-a-voyager-1-vai-ultrapassar-a-marca-de-1-dia-luz-em-18-de-novembro-de-2026/"
       },
       {
        "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/nvidia-sofre-desvalorizacao-historica-apos-saida-repentina-de-jensen-huang/"
-      },
-      {
-       "n": "CNBC",
-       "u": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+       "u": "https://www.gazetadopovo.com.br/mundo/voyager-1-chegara-um-dia-luz-terra-em-novembro/"
       }
      ]
     },
@@ -1001,18 +1102,6 @@
        "u": "https://www.spacemoney.com.br/investimentos/acoes/radar-dos-ipos/ipo-anthropic-nasdaq-big-techs-2"
       }
      ]
-    },
-    {
-     "kicker": "Espaço",
-     "quando": "Ontem",
-     "titulo": "Pesquisadores levantam hipótese de que asteroide de 11 metros seja a sonda soviética Fobos 1, perdida em 1988",
-     "resumo": "Avi Loeb, de Harvard, e dois colegas apontam que o objeto 1998 KY26 tem aceleração que a gravidade não explica por completo. O estudo saiu no repositório arXiv, sem revisão por pares, e fenômenos naturais também podem explicar o comportamento; a missão japonesa Hayabusa2 deve visitar o asteroide.",
-     "fontes": [
-      {
-       "n": "Gizmodo Brasil",
-       "u": "https://www.gizmodo.com.br/cientistas-investigam-um-asteroide-misterioso-que-pode-ser-uma-nave-sovietica-perdida-em-1988-75550"
-      }
-     ]
     }
    ]
   },
@@ -1020,29 +1109,77 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Luto na música e na TV",
+   "nota": "Grammy, Oscar honorário e luto no frevo",
    "itens": [
+    {
+     "kicker": "Música",
+     "quando": "Hoje",
+     "titulo": "Grammy anuncia indicados de 2027: Raye lidera, e Anitta concorre a Melhor Álbum de Música Global com 'Equilibrivm'",
+     "resumo": "A britânica Raye lidera a lista, seguida de Rosalía; Taylor Swift, Olivia Rodrigo e Bruno Mars estão entre os concorrentes a Álbum do Ano. É a terceira indicação de Anitta ao prêmio, que será entregue em 7 de fevereiro, em Los Angeles.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/musica/grammy-2027-confira-a-lista-completa-de-indicados/"
+      },
+      {
+       "n": "Omelete",
+       "u": "https://www.omelete.com.br/musica/grammy-2027-lista-indicados"
+      },
+      {
+       "n": "Jornal do Comércio",
+       "u": "https://www.jornaldocomercio.com/cultura/2026/11/1270612-grammy-2027-anuncia-indicados.html"
+      },
+      {
+       "n": "POPLine",
+       "u": "https://portalpopline.com.br/grammy-2027-lista-completa-indicados/"
+      }
+     ]
+    },
     {
      "kicker": "Luto",
      "quando": "Ontem",
-     "titulo": "Morre aos 94 anos Claudionor Germano, a Voz do Frevo; velório é nesta segunda no Paço do Frevo, no Recife",
-     "resumo": "O cantor, que tinha Parkinson, morreu em casa, em Boa Viagem, e gravou mais de 130 músicas de Capiba. Patrimônio Vivo de Pernambuco, foi o único artista presente em todas as edições do Baile Municipal; governo do estado e prefeitura decretaram luto de três dias.",
+     "titulo": "Recife se despede de Claudionor Germano, a Voz do Frevo, no Paço do Frevo; corpo é cremado à tarde em Paulista",
+     "resumo": "O cantor morreu no domingo, aos 94 anos, em casa, em Boa Viagem; o velório vai das 9h às 13h, e o governo de Pernambuco e a prefeitura decretaram luto de três dias. Patrimônio Vivo do estado, ele gravou mais de 130 músicas de Capiba.",
      "fontes": [
       {
-       "n": "Vagalume",
-       "u": "https://www.vagalume.com.br/news/2026/11/15/morre-aos-94-anos-claudionor-germano-voz-historica-do-frevo-pernambucano.html"
+       "n": "CBN Recife",
+       "u": "https://www.cbnrecife.com/2026/11/16/governo-de-pernambuco-e-prefeitura-do-recife-decretam-luto-de-tres-dias-pela-morte-de-claudionor-germano/"
+      },
+      {
+       "n": "Folha PE",
+       "u": "https://www.folhape.com.br/cultura/morre-claudionor-germano-uma-das-maiores-vozes-do-frevo/524373/"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/2026/11/16/morre-claudionor-germano-icone-do-frevo-pernambucano-aos-94-anos"
       },
       {
        "n": "Correio Braziliense",
        "u": "https://www.correiobraziliense.com.br/brasil/2026/11/7538971-morre-claudionor-germano-icone-do-frevo-e-patrimonio-de-pernambuco.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Cinema",
+     "quando": "Ontem",
+     "titulo": "Depois de oito indicações sem vitória, Glenn Close recebe Oscar honorário em Hollywood",
+     "resumo": "A atriz foi homenageada no Governors Awards com o diretor Ridley Scott, que agradeceu por vídeo, e o animador Floyd Norman, de 91 anos. Em discurso, Close disse que sempre considerou uma honra apenas estar entre os indicados.",
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/pop/noticia/2026/11/16/glenn-close-ridley-scott-recebem-oscar-honorario-pela-carreira"
       },
       {
-       "n": "PE Notícias",
-       "u": "https://penoticias.com.br/blog/morre-claudionor-germano-referencia-do-frevo-e-patrimonio-de-pernambuco-aos-94-anos/"
+       "n": "Alô Alô Bahia",
+       "u": "https://aloalobahia.com/noticias/2026/11/16/apos-oito-indicacoes-glenn-close-recebe-oscar-honorario-em-hollywood-ao-lado-de-ridley-scott/"
       },
       {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/cultura-pop/2026/11/15/1022464-morre-claudionor-germano-aos-94-anos-a-voz-que-fez-do-frevo-uma-paixao-de-geracoes"
+       "n": "Deadline",
+       "u": "https://deadline.com/2026/11/oscars-17th-governors-awards-glenn-close-ridley-scott-1237224853/"
+      },
+      {
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
       }
      ]
     },
