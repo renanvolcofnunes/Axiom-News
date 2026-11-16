@@ -1,34 +1,34 @@
 {
  "data": "Segunda-feira, 16 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "16/11/2026 · 12h35 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 11h46",
- "fontes": 73,
+ "edicao": "Edição da noite",
+ "atualizado": "16/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 17h30",
+ "fontes": 83,
  "mercado": [
   {
-   "nome": "Ibovespa · 11h10",
-   "valor": "170.840 pts",
-   "var": "-0,93%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "169.295 pts",
+   "var": "-1,83%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · 11h46",
-   "valor": "R$ 5,745",
-   "var": "+1,59%",
+   "nome": "Dólar comercial · fechamento",
+   "valor": "R$ 5,777",
+   "var": "+2,15%",
    "dir": "up"
   },
   {
-   "nome": "Bitcoin · 10h50",
-   "valor": "US$ 64.271",
-   "var": "-1,8% em 24h",
+   "nome": "S&P 500 · fechamento",
+   "valor": "Nova York",
+   "var": "-1,91%",
    "dir": "down"
   },
   {
-   "nome": "IPCA 2027 · Focus de hoje",
-   "valor": "5,00%",
-   "var": "de 4,90% na semana passada",
-   "dir": "up"
+   "nome": "Nasdaq · fechamento",
+   "valor": "Nova York",
+   "var": "-2,49%",
+   "dir": "down"
   },
   {
    "nome": "Selic · Copom",
@@ -39,18 +39,13 @@
  ],
  "agenda": [
   {
-   "hora": "Seg 16/11",
-   "txt": "Kevin Warsh, presidente do Fed, discursa às 14h; Alemanha x Holanda às 16h45 pela Liga das Nações; Lula chega a Brasília à noite; Bolsa Família paga o NIS final 1",
-   "cat": "economia"
-  },
-  {
    "hora": "Ter 17/11 · 7h",
-   "txt": "Brasil x Singapura, com Francesco Mauri no banco; Senado vota os destaques do ajuste fiscal; Nvidia divulga balanço após o fechamento",
+   "txt": "Brasil x Singapura, com Francesco Mauri no banco; Senado vota os destaques do ajuste fiscal; Trump chega a Manila para a cúpula da Asean; Nvidia divulga balanço após o fechamento",
    "cat": "esporte"
   },
   {
    "hora": "Qua 18/11",
-   "txt": "Inep divulga o gabarito do Enem; Fed publica a ata; Voyager 1 chega a um dia-luz da Terra; Brasileirão volta com Flamengo x Athletico-PR e Cruzeiro x Palmeiras",
+   "txt": "Inep divulga o gabarito do Enem; Comissão de Segurança do Senado ouve o diretor-geral da PF; Voyager 1 chega a um dia-luz da Terra; Brasileirão volta com Flamengo x Athletico-PR e Cruzeiro x Palmeiras",
    "cat": "educacao"
   },
   {
@@ -163,48 +158,48 @@
  ],
  "manchete": {
   "kicker": "Economia · Mercado",
-  "titulo": "Dólar sobe mais de 1,5% e passa de R$ 5,74, e Ibovespa cai perto de 1% com atividade mais fraca, Focus pior para 2027 e rebaixamento do Morgan Stanley",
-  "resumo": "Às 11h46, o dólar comercial era vendido a R$ 5,745, em alta de 1,59%, e por volta das 11h10 a bolsa recuava 0,93%, aos 170.840 pontos. A manhã reuniu queda do IBC-Br, piora das projeções para 2027 no Focus e recomendação do Morgan Stanley para reduzir a exposição ao Brasil.",
+  "titulo": "Dólar sobe 2,15% e fecha a R$ 5,77, maior valor desde abril de 2025, e Ibovespa cai 1,83% com temor fiscal e queda em Nova York",
+  "resumo": "A moeda americana chegou a R$ 5,79 durante a tarde e encerrou em R$ 5,777, terceira alta seguida; a bolsa fechou aos 169.295 pontos, puxada por Vale, Petrobras e varejo. Analistas citam dúvidas sobre o ajuste fiscal e a futura equipe econômica, além da aversão ao risco no exterior.",
   "foto": {
    "src": "https://imagens.ebc.com.br/SgnUFMdRtJPNTHPG5q90__2MSS4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/11/0d4a1789.jpg?itok=9dpF2vXe",
    "credito": "Antonio Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "O dia começou com o Banco Central informando que o IBC-Br, considerado uma prévia do PIB, caiu 0,2% em setembro e 0,9% no terceiro trimestre, a primeira queda trimestral em um ano; indústria e serviços recuaram, e só a agropecuária cresceu no mês. No Focus, os economistas consultados pelo BC passaram a prever inflação de 5% em 2027, acima do teto da meta, e Selic de 12,75% no fim daquele ano. O Morgan Stanley rebaixou o Brasil para 'underweight' (abaixo da média) e projeta o Ibovespa em 160 mil pontos no fim de 2027, citando juros altos, desaceleração e lucros das empresas que considera superestimados. No exterior, bolsas da Ásia caíram com nova venda de ações de tecnologia, e os juros longos dos EUA seguem acima de 5%. Também pesam a tramitação do ajuste fiscal, cujos destaques o Senado vota na terça, e a semana curta, sem pregão na sexta (20).",
+  "entenda": "O dia somou fatores internos e externos. No Brasil, o Banco Central informou queda de 0,2% do IBC-Br em setembro, o Boletim Focus piorou as projeções de inflação e juros para 2027, e o Morgan Stanley rebaixou a recomendação para ações brasileiras. Parte do mercado considera insuficiente o pacote fiscal aprovado no Senado na semana passada, que tem os destaques votados nesta terça (17), e houve ruído com relatos de que Aloizio Mercadante poderia ir para a Fazenda, o que ele negou em nota. No exterior, o dólar ganhou força ante a maioria das moedas, os juros longos dos EUA seguem acima de 5%, e as bolsas de Nova York caíram com a venda de ações de tecnologia antes do balanço da Nvidia, previsto para terça. A semana é curta na B3, sem pregão na sexta (20), feriado da Consciência Negra.",
   "fatos": [
-   "IBC-Br: -0,2% em setembro e -0,9% no 3º trimestre; 12 meses ainda em alta de 1,4%",
-   "Focus: IPCA de 2026 cai para 5,11%, mas o de 2027 sobe para 5%; PIB de 2027 cai para 1,02%",
-   "Morgan Stanley prevê Ibovespa em 160 mil pontos no fim de 2027, queda de cerca de 7%"
+   "Dólar: R$ 5,777 (+2,15%), maior fechamento desde abril de 2025; máxima do dia em R$ 5,79",
+   "Ibovespa: 169.295 pontos (-1,83%), mínima de 168.491 pontos na sessão",
+   "Nova York: Dow Jones -1,37%, S&P 500 -1,91% e Nasdaq -2,49%"
   ],
   "fontes": [
    {
-    "n": "Times Brasil",
-    "u": "https://timesbrasil.com.br/investimentos/dolar-sobe-ibovespa-recua-ibc-br/",
-    "d": "cotações da manhã"
+    "n": "InfoMoney",
+    "u": "https://infomoney.com.br/mercados/por-que-dolar-sobe-nesta-segunda",
+    "d": "motivos da alta do dólar"
    },
    {
-    "n": "BPMoney",
-    "u": "https://bpmoney.com.br/mercado/ibovespa-cai-aos-1715-mil-pontos-com-vale-e-petrobras-dolar-sobe-a-r-571/",
-    "d": "ações em destaque"
+    "n": "Bora Investir (B3)",
+    "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-183-com-pressao-do-exterior-e-cautela-fiscal-dolar-sobe/",
+    "d": "fechamento da bolsa"
+   },
+   {
+    "n": "Jovem Pan",
+    "u": "https://jovempan.com.br/economia/dolar-fecha-a-r-577-maior-valor-desde-abril-de-2025/",
+    "d": "cotação recorde do dólar"
+   },
+   {
+    "n": "Misto Brasil",
+    "u": "https://mistobrasil.com/2026/11/16/ibovespa-cai-cerca-de-2-e-o-dolar-tem-forte-alta-de-217/",
+    "d": "Vale e Petrobras"
+   },
+   {
+    "n": "Cruzeiro FM",
+    "u": "https://www.cruzeirofm.com.br/2026/11/16/noticias/dolar-dispara-e-fecha-no-maior-valor-em-mais-de-um-ano-bolsa-cai-183/",
+    "d": "plano Moretti"
    },
    {
     "n": "Agência Brasil",
     "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202",
     "d": "Boletim Focus"
-   },
-   {
-    "n": "Exame",
-    "u": "https://exame.com/invest/mercados/morgan-stanley-rebaixa-brasil-e-ve-ibovespa-em-160-mil-pontos-no-fim-de-2027/",
-    "d": "rebaixamento do Morgan Stanley"
-   },
-   {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16112026/",
-    "d": "juros futuros e abertura"
-   },
-   {
-    "n": "Investing.com",
-    "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ibcbr-pacote-fiscal-e-discurso-de-warsh-no-radar-2127862",
-    "d": "agenda e exterior"
    }
   ]
  },
@@ -213,33 +208,105 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Lula volta, Flávio fica nos EUA e ajuste fiscal",
+   "nota": "Lula volta, crise na PF e ajuste fiscal",
    "itens": [
     {
-     "kicker": "Diplomacia",
+     "kicker": "Novo governo",
      "quando": "Hoje",
-     "titulo": "Lula se reúne com Sánchez na Moncloa, encerra o giro internacional e volta a Brasília para montar o novo governo",
-     "resumo": "Os dois falaram em defesa da democracia e cooperação; o ato de campanha com o PSOE, partido de Sánchez, foi cancelado porque Lula estava rouco. O presidente deixou Madri por volta das 10h30 e deve anunciar os primeiros ministros depois de ouvir os partidos aliados.",
+     "titulo": "Lula volta a Brasília para montar o ministério, e Mercadante nega que vá para a Fazenda",
+     "resumo": "Depois de encerrar em Madri o giro por Ásia e Europa, o presidente retoma as conversas com os partidos aliados para definir a equipe do novo mandato. Em nota, o presidente do BNDES, Aloizio Mercadante, disse que não disputa cargo e quer seguir no banco; o governador do Piauí, Rafael Fonteles, e o vice Geraldo Alckmin aparecem entre os nomes citados para a Fazenda, hoje comandada por Dario Durigan.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/lula-encontra-sanchez-na-espanha-e-encerra-1o-giro-externo-apos-reeleicao"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/mercadante-descarta-assumir-ministerio-da-fazenda-em-lula-4/"
+      },
+      {
+       "n": "Congresso em Foco",
+       "u": "https://www.congressoemfoco.com.br/noticia/131608/lula-comeca-a-montar-novo-ministerio-nesta-semana-diz-alckmin"
       },
       {
        "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/16/tive-encontro-importante-com-sanchez-para-reafirmar-lacos-entre-brasil-e-espanha-diz-lula.html"
+       "u": "https://www.opovo.com.br/noticias/politica/2026/11/16/lula-diz-que-voltara-ao-brasil-para-fazer-com-que-coisas-acontecam.html"
       },
       {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/politica/rouquidao-de-lula-leva-partido-de-sanchez-a-cancelar-evento-em-madri/"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/mercadante-diz-que-nao-esta-disputando-cargo-e-que-nao-tem-pretensao-de-assumir-ministerio-do-governo-lula-4-mlem/"
       },
       {
-       "n": "La Moncloa",
-       "u": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/161126-sanchez-encuentro-lula.aspx"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/lula-se-reune-com-pedro-sanchez-em-madri-e-inicia-retorno-ao-brasil"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Hoje",
+     "titulo": "Senado vota na terça os quatro destaques do ajuste fiscal; na Câmara, projeto ainda não tem data e governo procura Hugo Motta",
+     "resumo": "O texto-base foi aprovado por 45 a 31 na quinta (12), com impacto estimado entre R$ 56 bilhões, segundo o relator Eduardo Braga, e R$ 60 bilhões, segundo o ministro Bruno Moretti, em 2027. Os destaques, apresentados sobretudo por PL e Republicanos, tratam de compensações tributárias, do limite de gastos, da Lei Kandir e do controle do Orçamento; o governo quer votação imediata na Câmara, onde Hugo Motta ainda não fixou data.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
+      "credito": "Lula Marques/Agência Brasil"
+     },
+     "lados": [
+      {
+       "quem": "Governo",
+       "txt": "Diz que o projeto reduz benefícios tributários sem mexer em programas sociais e reforça o compromisso com a meta fiscal; o líder José Guimarães afirma que a Câmara votará logo após o Senado."
       },
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/politica/lula-encerra-viagem-a-asia-com-encontro-com-sanchez-na-espanha-e-volta-ao-brasil/"
+       "quem": "Oposição",
+       "txt": "Rogério Marinho (PL-RN) afirma que o texto aumenta impostos, não corta gastos, transfere custos aos estados e funciona como pedalada fiscal; senadores pediram mais tempo de análise."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/apos-senado-ajuste-fiscal-vira-incognita-na-camara-governo-busca-motta"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/"
+      },
+      {
+       "n": "Investing.com",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ibcbr-pacote-fiscal-e-discurso-de-warsh-no-radar-2127862"
+      },
+      {
+       "n": "Agência Pública",
+       "u": "https://apublica.org/nota/senado-fecha-ajuste-fiscal-que-chega-essa-semana-na-camara/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/moretti-se-reune-com-motta-para-alinhar-avanco-do-projeto-de-ajuste-fiscal"
+      }
+     ]
+    },
+    {
+     "kicker": "Polícia Federal",
+     "quando": "13/11",
+     "titulo": "Afastamento de delegados do caso Master abre crise na PF, e Senado ouve o diretor-geral na quarta (18)",
+     "resumo": "A direção da PF afastou dois delegados que assinaram relatórios com menções a ministros do STF nas investigações do Banco Master e mandou refazer os documentos. A Comissão de Segurança Pública do Senado convidou o diretor-geral Andrei Rodrigues, o ministro da Justiça e os delegados para audiência na quarta; aliados de Lula dão como provável a troca no comando com a criação do Ministério da Segurança Pública.",
+     "lados": [
+      {
+       "quem": "Direção da PF",
+       "txt": "Afirma que as mudanças foram administrativas e não interferiram no conteúdo das investigações."
+      },
+      {
+       "quem": "Associação dos Delegados (ADPF)",
+       "txt": "Diz que o diretor-geral não pode interferir em documentos de polícia judiciária e defende lista tríplice e mandato fixo para o cargo."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Rádio Pampa",
+       "u": "https://www.radiopampa.com.br/crise-na-policia-federal-saida-do-diretor-geral-e-dada-como-certa-por-aliados-de-lula/"
+      },
+      {
+       "n": "Imirante",
+       "u": "https://m.imirante.com/noticias/brasil/2026/11/12/ipolitica-crise-policia-federal-trava-novos-planos-lula"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria"
       }
      ]
     },
@@ -278,74 +345,6 @@
      ]
     },
     {
-     "kicker": "Ajuste fiscal",
-     "quando": "Hoje",
-     "titulo": "Senado vota na terça os quatro destaques do ajuste fiscal; na Câmara, projeto ainda não tem data e governo procura Hugo Motta",
-     "resumo": "O texto-base foi aprovado por 45 a 31 na quinta (12), com impacto estimado entre R$ 45 bilhões e R$ 56 bilhões em 2027. Os destaques, apresentados sobretudo por PL e Republicanos, tratam de compensações tributárias, do limite de gastos, da Lei Kandir e do controle do Orçamento.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
-      "credito": "Lula Marques/Agência Brasil"
-     },
-     "lados": [
-      {
-       "quem": "Governo",
-       "txt": "Diz que o projeto reduz benefícios tributários sem mexer em programas sociais e reforça o compromisso com a meta fiscal; o líder José Guimarães afirma que a Câmara votará logo após o Senado."
-      },
-      {
-       "quem": "Oposição",
-       "txt": "Rogério Marinho (PL-RN) afirma que o texto aumenta impostos, não corta gastos, transfere custos aos estados e funciona como pedalada fiscal; senadores pediram mais tempo de análise."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/apos-senado-ajuste-fiscal-vira-incognita-na-camara-governo-busca-motta"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/"
-      },
-      {
-       "n": "Investing.com",
-       "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ibcbr-pacote-fiscal-e-discurso-de-warsh-no-radar-2127862"
-      },
-      {
-       "n": "Agência Pública",
-       "u": "https://apublica.org/nota/senado-fecha-ajuste-fiscal-que-chega-essa-semana-na-camara/"
-      }
-     ]
-    },
-    {
-     "kicker": "Caso Master",
-     "quando": "Ontem",
-     "titulo": "Prazo dado por Fachin à PGR sobre o relatório da PF termina nesta semana, e denúncia contra Vorcaro e mais 14 é esperada",
-     "resumo": "A PGR pode denunciar os investigados ou pedir novas diligências; segundo a imprensa, a ideia é dividir as acusações em cinco núcleos. A PF aponta fraude de R$ 17,5 bilhões em ativos e carteiras envolvendo o Banco Master e o BRB.",
-     "lados": [
-      {
-       "quem": "PF",
-       "txt": "O relatório enviado ao STF em 28 de outubro descreve Daniel Vorcaro como centro de comando do esquema e indicia também o ex-presidente do BRB Paulo Henrique Costa."
-      },
-      {
-       "quem": "Defesa de Vorcaro",
-       "txt": "Afirma que não há prova técnica de fraude ou prejuízo, pede o arquivamento do inquérito e levou o caso à Comissão Interamericana de Direitos Humanos."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/noticias/noticia/2026/11/15/pgr-prepara-denuncia-vorcaro-mais-14-caso-master"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/fachin-da-15-dias-para-pgr-se-manifestar-sobre-indiciamentos-no-caso-master/"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/politica/pgr-prepara-primeira-denuncia-contra-daniel-vorcaro/"
-      }
-     ]
-    },
-    {
      "kicker": "Câmara",
      "quando": "Ontem",
      "titulo": "Hugo Motta reúne apoio de 15 partidos à reeleição, e PL decide apoio por consulta individual aos 121 deputados",
@@ -375,8 +374,28 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "IBC-Br, Focus e Morgan Stanley",
+   "nota": "Dólar a R$ 5,77 e queda em Nova York",
    "itens": [
+    {
+     "kicker": "Exterior",
+     "quando": "Hoje",
+     "titulo": "Bolsas de Nova York caem com venda de ações de tecnologia antes do balanço da Nvidia; Nasdaq recua 2,49%",
+     "resumo": "O Dow Jones caiu 1,37% e o S&P 500, 1,91%, com o juro do título de 10 anos dos EUA em torno de 5,15%. Bancos também recuaram depois de relatos de problemas técnicos em JPMorgan, Bank of America e Wells Fargo; a Nvidia publica os resultados na terça (17).",
+     "fontes": [
+      {
+       "n": "Bora Investir (B3)",
+       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-183-com-pressao-do-exterior-e-cautela-fiscal-dolar-sobe/"
+      },
+      {
+       "n": "The Motley Fool",
+       "u": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-midday-nov-16-stocks-slide-as-tech-selling-intensifies-across-the-market/"
+      },
+      {
+       "n": "MarketScreener",
+       "u": "https://www.marketscreener.com/news/s-p-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom-ce785eded080f124"
+      }
+     ]
+    },
     {
      "kicker": "Focus",
      "quando": "Hoje",
@@ -452,20 +471,20 @@
     {
      "kicker": "Criptomoedas",
      "quando": "Hoje",
-     "titulo": "Bitcoin cai 1,8% em 24 horas, para US$ 64,3 mil, e devolve a alta dos últimos três meses",
-     "resumo": "A moeda acumula seis semanas seguidas de queda, e fundos de bitcoin à vista nos EUA tiveram o sétimo pregão seguido de saques na sexta. Mais de US$ 2 bilhões em posições foram liquidados no fim de semana, e investidores aguardam o balanço da Nvidia e a ata do Fed.",
+     "titulo": "Bitcoin bate a menor cotação desde julho e oscila perto de US$ 65 mil, depois de seis semanas de perdas",
+     "resumo": "A criptomoeda chegou a ficar abaixo de US$ 62 mil no fim de semana, com saídas de fundos de índice e liquidações de posições alavancadas. Nesta segunda, as ações da Strategy, maior compradora corporativa de bitcoin, caíram cerca de 7%.",
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/future-of-money/bitcoin-hoje-16-11-2026/"
-      },
-      {
        "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/bitcoin-hoje-cai-a-us-64-mil-e-acumula-perdas-de-17-em-novembro-veja-analise/"
+       "u": "https://bpmoney.com.br/mercado/cripto/bitcoin-cai-abaixo-us-62-mil-sexta-semana-perdas-tenta-recuperacao/"
       },
       {
-       "n": "Bitcoin.com",
-       "u": "https://news.bitcoin.com/pt/market-updates/bitcoin-mantem-us-64-mil-apos-queda-no-fim-de-semana-pessimismo-segue/"
+       "n": "Investing.com",
+       "u": "https://br.investing.com/news/cryptocurrency-news/bitcoin-cai-em-direcao-a-us-60000-com-saidas-de-etfs-e-liquidacoes-2127420"
+      },
+      {
+       "n": "The Motley Fool",
+       "u": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-midday-nov-16-stocks-slide-as-tech-selling-intensifies-across-the-market/"
       }
      ]
     }
@@ -475,8 +494,32 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Tempestades, Bolsa Família e feriado",
+   "nota": "Operação na Maré e temporais",
    "itens": [
+    {
+     "kicker": "Segurança",
+     "quando": "Hoje",
+     "titulo": "Operação da PM no Complexo da Maré fecha 41 escolas e suspende atendimento em quatro postos de saúde",
+     "resumo": "Cerca de 200 policiais, com blindado e retroescavadeiras para remover barricadas, entraram em seis comunidades da Maré contra o Terceiro Comando Puro; houve barricadas incendiadas nos acessos. A PM também fez ações em ao menos outras dez favelas do Rio e da Baixada, e até a última atualização não havia balanço oficial de presos ou feridos.",
+     "fontes": [
+      {
+       "n": "Agenda do Poder",
+       "u": "https://agendadopoder.com.br/video-operacao-da-pm-na-mare-tem-tiroteio-barricada-em-chamas-e-41-escolas-fechadas/"
+      },
+      {
+       "n": "Voz das Comunidades",
+       "u": "https://vozdascomunidades.com.br/destaques/policia-militar-faz-operacoes-em-pelo-menos-10-favelas-do-rio-nesta-segunda-16/"
+      },
+      {
+       "n": "Sociedade Militar",
+       "u": "https://www.sociedademilitar.com.br/2026/11/policia-militar-mobiliza-200-agentes-e-blindados-em-operacao-na-mare-enfrenta-barricadas-incendiadas-e-afeta-43-escolas-e-quatro-unidades-de-saude-no-rio-de-janeiro-nbd.html"
+      },
+      {
+       "n": "Super Rádio Tupi",
+       "u": "https://www.tupi.fm/rio/tiroteio-entre-bope-e-criminosos-deixa-mortos-no-complexo-da-mare/"
+      }
+     ]
+    },
     {
      "kicker": "Clima",
      "quando": "Hoje",
@@ -502,6 +545,26 @@
       {
        "n": "IstoÉ",
        "u": "https://istoe.com.br/inmet-tempestades-chuva-forte-brasil-16-novembro-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Clima",
+     "quando": "Ontem",
+     "titulo": "Temporais com granizo atingem sete cidades da Bahia, e Santo Estêvão decreta situação de emergência",
+     "resumo": "As chuvas de sábado e domingo derrubaram postes e destelharam casas no Recôncavo, no Portal do Sertão e no Vale do Jiquiriçá. Em Santo Estêvão, 40 famílias ficaram desabrigadas; em Antônio Cardoso, mais de 200 foram cadastradas para receber ajuda.",
+     "fontes": [
+      {
+       "n": "Bahia Notícias",
+       "u": "https://www.bahianoticias.com.br/municipios/noticia/53388-temporais-com-granizo-atingem-cidades-da-bahia-derrubam-postes-e-deixam-familias-desabrigadas"
+      },
+      {
+       "n": "Bahia Recôncavo",
+       "u": "https://bahiareconcavo.com.br/2026/11/16/temporais-com-granizo-atingem-o-reconcavo-da-bahia-decretam-emergencia-em-santo-estevao-e-deixam-centenas-de-familias-afetadas/"
+      },
+      {
+       "n": "Correio",
+       "u": "https://www.correio24horas.com.br/minha-bahia/inmet-emite-alerta-de-chuva-forte-com-granizo-na-bahia-e-em-outros-17-estados-confira-previsao-1126"
       }
      ]
     },
@@ -536,42 +599,6 @@
        "u": "https://diariodocomercio.com.br/mix/brasil-tera-feriado-nacional-em-uma-sexta-feira-e-trabalhadores-ja-podem-se-preparar-para-um-fim-de-semana-de-3-dias/"
       }
      ]
-    },
-    {
-     "kicker": "Segurança",
-     "quando": "Ontem",
-     "titulo": "Soldado da PM morre baleado em Salvador, e operação policial na Zona Norte do Rio deixa um morto e sete presos",
-     "resumo": "Na Bahia, segundo a PM, o soldado Marco Antônio Ramos da Silva foi atingido no sábado no bairro de Nova Brasília, depois de suspeitos atacarem guarnições. No Rio, a PM diz ter apreendido dois fuzis e um revólver no Morro da Caixa d'Água, em Quintino, e moradores relataram tiros também em Piedade e Cascadura.",
-     "fontes": [
-      {
-       "n": "iBahia",
-       "u": "https://www.ibahia.com/noticias/seguranca/policial-militar-morre-apos-ser-baleado-durante-operacao-em-salvador-393357"
-      },
-      {
-       "n": "Bahia.ba",
-       "u": "https://bahia.ba/salvador/pm-morre-baleado-na-cabeca-em-salvador-comandante-promete-resposta/"
-      },
-      {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/operacao-da-pm-em-quintino-termina-com-um-morto-e-sete-presos-neste-domingo/"
-      }
-     ]
-    },
-    {
-     "kicker": "Segurança",
-     "quando": "13/11",
-     "titulo": "Operação Protetor reúne forças dos 26 estados e do DF por 30 dias contra crimes nas fronteiras e divisas",
-     "resumo": "Coordenada pelo Ministério da Justiça, a nova fase começou na sexta (13) e vai até 12 de dezembro, com foco em contrabando, tráfico de armas e crimes ambientais. No Maranhão, 175 policiais foram mobilizados para as divisas.",
-     "fontes": [
-      {
-       "n": "Sociedade Militar",
-       "u": "https://www.sociedademilitar.com.br/2026/11/brasil-inicia-operacao-nacional-de-seguranca-em-26-estados-por-30-dias-e-reforca-acoes-nas-fronteiras-com-paraguai-bolivia-venezuela-e-guiana-nbd.html"
-      },
-      {
-       "n": "Jornal Pequeno",
-       "u": "https://jornalpequeno.com.br/2026/11/16/operacao-protetor-mobiliza-175-policiais-para-atuar-nas-divisas-do-maranhao/"
-      }
-     ]
     }
    ]
   },
@@ -579,39 +606,73 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ormuz, papa no Peru e Ucrânia",
+   "nota": "Irã, Trump na Ásia e Ucrânia",
    "itens": [
     {
-     "kicker": "Golfo",
+     "kicker": "Oriente Médio",
      "quando": "Ontem",
-     "titulo": "Irã diz que dois petroleiros explodiram em minas em Ormuz e um afundou; EUA reforçam presença com terceiro porta-aviões",
-     "resumo": "Segundo a Guarda Revolucionária, um superpetroleiro com mais de 2 milhões de barris afundou no sul do Golfo; o Irã também lançou no domingo o segundo ataque com drones ao Bahrein em três dias. O New York Times informou que o USS Theodore Roosevelt se junta a outros dois porta-aviões na região, sem confirmação do Pentágono.",
-     "lados": [
-      {
-       "quem": "Irã",
-       "txt": "Diz que os navios usavam a rota sul sem autorização, com rastreadores desligados e apoio dos EUA, e que o estreito está fechado a quem não seguir as rotas indicadas por suas Forças Armadas."
-      },
-      {
-       "quem": "EUA",
-       "txt": "Afirmam que não há bloqueio, que a passagem segue aberta e que escoltam navios na parte externa do estreito para manter as exportações de petróleo."
-      }
-     ],
+     "titulo": "Irã diz ter atacado com drones radar dos EUA no Bahrein, e país do Golfo afirma ter interceptado os alvos",
+     "resumo": "A Guarda Revolucionária afirmou ter usado seis drones contra um radar de defesa aérea na base de Al-Riffa, sede de helicópteros americanos, e repetiu que o Estreito de Ormuz está fechado. A Defesa do Bahrein disse ter destruído vários alvos vindos do Irã; não houve confirmação independente de danos, e o ataque é o segundo em três dias.",
      "fontes": [
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/mundo/ira-diz-que-dois-petroleiros-afundaram-apos-atingir-minas-no-estreito-de-ormuz/"
+       "n": "CNN Brasil (Reuters)",
+       "u": "https://www.cnnbrasil.com.br/internacional/ira-diz-ter-atacado-base-militar-dos-eua-em-bahrein/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/ira-diz-ter-atacado-base-militar-dos-eua-em-bahrein/"
+       "n": "DN",
+       "u": "https://www.dn.pt/internacional/teero-reivindica-ataque-contra-base-militar-dos-eua-no-bahrein"
+      },
+      {
+       "n": "24 Notícias",
+       "u": "https://24noticias.sapo.pt/atualidade/artigos/irao-volta-a-atacar-base-militar-dos-eua-no-bahrein-tensao-aumenta-no-medio-oriente"
+      },
+      {
+       "n": "Repórter Capixaba",
+       "u": "https://www.reportercapixaba.com.br/drones-no-bahrein-ira-ataca-base-militar-dos-eua-pela-segunda-vez-em-tres-dias/"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Trump parte para a Ásia, diz que pode se encontrar com Kim Jong-un e terá reunião com Xi e Putin na quinta",
+     "resumo": "O presidente americano participa da cúpula da Asean em Manila a partir de terça (17) e segue para a Apec, em Shenzhen. Segundo a Casa Branca, a reunião trilateral de quinta (19) vai tratar de armas nucleares e da guerra com o Irã, e não da guerra na Ucrânia; a China diz que o encontro é inédito.",
+     "fontes": [
+      {
+       "n": "O Liberal",
+       "u": "https://www.oliberal.com/mundo/trump-diz-que-pode-se-reunir-com-kim-jong-un-durante-viagem-a-asia-1.1194785"
+      },
+      {
+       "n": "EFE (Infobae)",
+       "u": "https://www.infobae.com/america/agencias/2026/11/16/temas-del-dia-de-efe-internacional-del-lunes-16-de-noviembre-1200-gmt/"
+      },
+      {
+       "n": "White House Press Pool",
+       "u": "https://x.com/WHPressPool/status/2122183668739317957"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Rússia diz ter derrubado 1.336 drones ucranianos em 15 regiões, em um dos maiores ataques da guerra",
+     "resumo": "A ofensiva ocorre às vésperas da reunião de Putin, Trump e Xi na China. A Estônia anunciou que fechará todas as passagens de fronteira com a Rússia em 1º de dezembro, após uma tentativa de sabotagem, e o Kremlin chamou as acusações de infundadas. No mesmo dia, a União Europeia liberou mais 1,71 bilhão de euros à Ucrânia para drones, munição e defesa antiaérea.",
+     "fontes": [
+      {
+       "n": "EFE (Infobae)",
+       "u": "https://www.infobae.com/america/agencias/2026/11/16/temas-del-dia-de-efe-internacional-del-lunes-16-de-noviembre-1200-gmt/"
       },
       {
        "n": "Anadolu",
        "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
       },
       {
-       "n": "Jornal de Negócios",
-       "u": "https://www.jornaldenegocios.pt/economia/detalhe/irao-dois-petroleiros-afundam-se-no-estreito-de-ormuz-apos-colisao-com-minas-navais"
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/16/1022679-principais-noticias-do-mundo-na-manha-de-hoje-16"
+      },
+      {
+       "n": "EFE (Infobae)",
+       "u": "https://www.infobae.com/america/agencias/2026/11/16/temas-del-dia-de-efe-internacional-del-lunes-16-de-noviembre-1200-gmt/"
       }
      ]
     },
@@ -636,66 +697,14 @@
      ]
     },
     {
-     "kicker": "Ucrânia",
+     "kicker": "ONU",
      "quando": "Hoje",
-     "titulo": "Rússia diz ter derrubado 1.336 drones ucranianos em 15 regiões, em um dos maiores ataques da guerra",
-     "resumo": "A ofensiva ocorre às vésperas da reunião de Putin, Trump e Xi na China. A Estônia anunciou que fechará todas as passagens de fronteira com a Rússia em 1º de dezembro, após uma tentativa de sabotagem, e o Kremlin chamou as acusações de infundadas.",
+     "titulo": "Gilbert Houngbo é reeleito diretor-geral da OIT depois que a espanhola Yolanda Díaz retira a candidatura",
+     "resumo": "O ex-primeiro-ministro do Togo terá um segundo mandato à frente da Organização Internacional do Trabalho. A ministra do Trabalho da Espanha era a única concorrente.",
      "fontes": [
       {
        "n": "EFE (Infobae)",
        "u": "https://www.infobae.com/america/agencias/2026/11/16/temas-del-dia-de-efe-internacional-del-lunes-16-de-noviembre-1200-gmt/"
-      },
-      {
-       "n": "Anadolu",
-       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
-      },
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/geral/2026/11/16/1022679-principais-noticias-do-mundo-na-manha-de-hoje-16"
-      }
-     ]
-    },
-    {
-     "kicker": "Apec",
-     "quando": "Hoje",
-     "titulo": "China diz que Xi, Trump e Putin vão discutir a paz mundial na reunião trilateral de quinta (19), em Shenzhen",
-     "resumo": "O encontro, confirmado também pelo Kremlin, ocorre à margem da cúpula da Apec e será a primeira reunião dos três líderes juntos. A guerra entre EUA e Irã e a guerra na Ucrânia devem estar na pauta.",
-     "fontes": [
-      {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/noticias/mundo/china-diz-que-xi-trump-e-putin-falarao-sobre-a-paz-mundial-em-reuniao-trilateral/"
-      },
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/china-anuncia-reuniao-entre-xi-trump-e-putin-para-discutir-paz-mundial/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/kremlin-confirma-reuniao-entre-putin-trump-e-xi-em-19-de-novembro"
-      }
-     ]
-    },
-    {
-     "kicker": "Cabo Verde",
-     "quando": "Ontem",
-     "titulo": "José Maria Neves é reeleito presidente de Cabo Verde no primeiro turno, com 63,8% dos votos, segundo resultados provisórios",
-     "resumo": "Joana Rosa Amado, primeira mulher candidata à Presidência do país, teve 31,4%. A abstenção foi de 68%, e a Comissão Eleitoral ainda vai anunciar o resultado definitivo.",
-     "fontes": [
-      {
-       "n": "Swissinfo",
-       "u": "https://www.swissinfo.ch/por/cabo-verde-reelege-o-presidente-jos%C3%A9-maria-neves,-segundo-resultados-provis%C3%B3rios/92387034"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/15/cabo-verde-vai-hoje-a-votos-e-pode-ter-a-primeira-mulher-eleita-presidente-da-republica"
-      },
-      {
-       "n": "O País",
-       "u": "https://opais.co.mz/jose-maria-neves-reeleito-presidente-de-cabo-verde-com-639-dos-votos/"
-      },
-      {
-       "n": "ABC News",
-       "u": "https://abcnews.com/International/wireStory/cape-verdes-president-reelected-5-year-term-provisional-138170967"
       }
      ]
     }
@@ -705,41 +714,41 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Ronaldinho, Seleção e Liga das Nações",
+   "nota": "Alemanha 5 x 0 e Brasil às 7h",
    "itens": [
     {
-     "kicker": "Futebol",
-     "quando": "Ontem",
-     "titulo": "Aos 46 anos, Ronaldinho volta a jogar profissionalmente e participa de gol na vitória do Ravenna, na terceira divisão italiana",
-     "resumo": "Titular no clássico contra o Forlì, ele jogou todo o primeiro tempo, mais do que os 30 minutos previstos, e participou da jogada do primeiro gol, aos 35 minutos; o Ravenna venceu por 2 a 0. Foi a primeira partida oficial dele em mais de 11 anos.",
+     "kicker": "Liga das Nações",
+     "quando": "Hoje",
+     "titulo": "Alemanha goleia a Holanda por 5 a 0 em Berlim e avança às quartas da Liga das Nações como líder do grupo",
+     "resumo": "Florian Wirtz marcou duas vezes, e Scherhant, Schlotterbeck e Gruda completaram o placar no Estádio Olímpico. As duas seleções terminaram com 11 pontos e se classificaram, e a Grécia, também com 11, ficou fora pelos critérios de desempate; os confrontos das quartas, em março, serão sorteados.",
      "fontes": [
       {
+       "n": "Sportbuzz",
+       "u": "https://sportbuzz.com.br/futebol/2026/11/16/alemanha-goleia-holanda-por-5-a-0-e-avanca-as-quartas-da-liga-das-nacoes-como-lider/"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/alemanha-goleia-holanda-e-avanca-as-quartas-da-liga-das-nacoes-como-lider-do-grupo/"
+      },
+      {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/na-reestreia-profissional-ronaldinho-gaucho-participa-de-gol-do-ravenna"
+       "u": "https://www.metropoles.com/esportes/liga-das-nacoes-alemanha-goleia-a-holanda-e-assume-lideranca-do-grupo-a2"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/ronaldinho-gaucho-estreia-como-titular-pelo-ravenna-e-participa-de-gol,f337ef0127f0530e8ea657bf0e6b0db6eg200z9q.html"
-      },
-      {
-       "n": "Anadolu",
-       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
-      },
-      {
-       "n": "Sapo",
-       "u": "https://sapo.pt/artigo/ronaldinho-estreia-se-no-ravenna-aos-46-anos-em-italia-6a86ea5157746d4cd88fab93"
+       "n": "Jornal do Comércio",
+       "u": "https://www.jornaldocomercio.com/esportes/2026/11/1270740-alemanha-faz-5-na-holanda-e-garante-vaga-nas-quartas-de-final-da-liga-das-nacoes-da-uefa.html"
       }
      ]
     },
     {
      "kicker": "Seleção",
      "quando": "Hoje",
-     "titulo": "Brasil enfrenta Singapura amanhã às 7h, sem Ancelotti e Raphinha; chuva encurta treino e Endrick deve começar jogando",
-     "resumo": "O auxiliar Francesco Mauri comanda o time no Estádio Nacional de Singapura, com Bruno Guimarães como capitão; Rayan, recuperado de lesão, deve atuar no meio. Gabriel Magalhães e Bruno Guimarães treinaram normalmente, mas seguem sob observação; a Globo transmite.",
+     "titulo": "Brasil enfrenta Singapura às 7h desta terça, com Endrick e Rayan titulares e Bruno Guimarães de capitão",
+     "resumo": "Suspenso pela expulsão contra o Japão, Ancelotti será substituído no banco pelo auxiliar Francesco Mauri, e Raphinha, também suspenso, dá a braçadeira a Bruno Guimarães. É o primeiro jogo entre as seleções e o último do Brasil em 2026, com transmissão de TV Globo, sportv e ge tv; a provável escalação tem Lucas Perri; Vanderson, Jonathan Jesus, Gabriel Magalhães e Douglas Santos; João Gomes, Bruno Guimarães e Rayan; Estêvão, Endrick e Vini Jr.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/brasil-x-singapura-escalacao-horario-e-onde-assistir,cc73ed2b439fb090cf23938cba2cd4facxy96859.html"
+       "n": "CBF",
+       "u": "https://www.cbf.com.br/selecao-brasileira/noticias/noticias/selecao-masculina/brasil-fecha-2026-em-amistoso-com-singapura-nesta-terca"
       },
       {
        "n": "Lance!",
@@ -747,35 +756,11 @@
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-singapura-veja-a-provavel-escalacao-de-ancelotti-para-o-amistoso/"
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-singapura-horario-e-onde-assistir-ao-amistoso-da-selecao/"
       },
       {
-       "n": "Olympics.com",
-       "u": "https://www.olympics.com/pt/noticias/brasil-singapura-escalacoes-horario-assistir-amistoso-selecao-brasileira"
-      }
-     ]
-    },
-    {
-     "kicker": "Liga das Nações",
-     "quando": "Hoje",
-     "titulo": "Alemanha e Holanda decidem vaga nas quartas da Liga das Nações às 16h45, em Berlim",
-     "resumo": "A Holanda de Xavi lidera o grupo com 11 pontos, e a Alemanha tem 8. No domingo, a Inglaterra venceu a Espanha por 3 a 2 em Madri, mesmo com um a menos, e encerrou uma série de 43 jogos sem derrota dos espanhóis; a Bélgica goleou a Itália por 4 a 1.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/nations-league-com-alemanha-x-holanda-veja-agenda-desta-segunda-feira"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/alemanha-x-holanda-veja-provaveis-escalacoes-e-onde-assistir-ao-duelo-pela-liga-das-nacoes/"
-      },
-      {
-       "n": "Anadolu",
-       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/alemanha-x-holanda-onde-assistir-ao-vivo-horario-e-escalacoes-pela-liga-das-nacoes,2dfc0dd3adb4703835f1e2ac392d77e86n72iy7d.html"
+       "n": "Mais Minas",
+       "u": "https://maisminas.com.br/futebol/selecao-brasileira-tem-provavel-escalacao-definida-e-temporal-encerra-treino-em-singapura/"
       }
      ]
     },
@@ -818,6 +803,30 @@
        "u": "https://br.bolavip.com/atletico-mineiro/eduardo-dominguez-reconhece-favoritismo-do-boca-mas-confia-no-atletico-mg-para-conquistar-a-sul-americana"
       }
      ]
+    },
+    {
+     "kicker": "Futebol",
+     "quando": "Ontem",
+     "titulo": "Aos 46 anos, Ronaldinho volta a jogar profissionalmente e participa de gol na vitória do Ravenna, na terceira divisão italiana",
+     "resumo": "Titular no clássico contra o Forlì, ele jogou todo o primeiro tempo, mais do que os 30 minutos previstos, e participou da jogada do primeiro gol, aos 35 minutos; o Ravenna venceu por 2 a 0. Foi a primeira partida oficial dele em mais de 11 anos.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/na-reestreia-profissional-ronaldinho-gaucho-participa-de-gol-do-ravenna"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/ronaldinho-gaucho-estreia-como-titular-pelo-ravenna-e-participa-de-gol,f337ef0127f0530e8ea657bf0e6b0db6eg200z9q.html"
+      },
+      {
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+      },
+      {
+       "n": "Sapo",
+       "u": "https://sapo.pt/artigo/ronaldinho-estreia-se-no-ravenna-aos-46-anos-em-italia-6a86ea5157746d4cd88fab93"
+      }
+     ]
     }
    ]
   },
@@ -825,31 +834,35 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Mpox, planos de saúde e Anvisa",
+   "nota": "Mpox no Rio e planos de saúde",
    "itens": [
     {
      "kicker": "Mpox",
      "quando": "Hoje",
-     "titulo": "Rio confirma a primeira morte por mpox no país em 2026; estado soma 382 casos e 55 internações no ano",
-     "resumo": "A vítima morava na capital, que concentra 71% dos casos fluminenses. Dois terços dos registros do estado ocorreram depois de 12 de setembro, e o Brasil já soma 1.055 casos no ano.",
+     "titulo": "Com 396 casos de mpox e uma morte no ano, Rio passa a divulgar boletim diário da doença",
+     "resumo": "As notificações semanais no estado subiram de 13, em meados de setembro, para 206 na semana passada, e outros 281 casos estão em investigação; o país soma 1.099 confirmações em 2026. A vacina segue restrita a grupos de maior risco, como pessoas com HIV, usuários de PrEP, profissionais de laboratório e contatos de casos.",
      "fontes": [
       {
-       "n": "Tribuna de Minas",
-       "u": "https://tribunademinas.com.br/especiais/saude/16-11-2026/rio-de-janeiro-confirma-primeira-morte-por-mpox-em-2026-no-brasil.html"
+       "n": "Tribuna PR",
+       "u": "https://www.tribunapr.com.br/saude-e-bem-estar/rio-de-janeiro-registra-396-casos-de-mpox-e-uma-morte-em-2026/"
       },
       {
-       "n": "Diário da Guanabara",
-       "u": "https://dgrj.com.br/saude/rio-de-janeiro-registra-382-casos-de-mpox-e-confirma-primeira-morte-no-brasil"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/saude-e-bem-estar/2026/11/16/mpox-rio-passa-a-atualizar-diariamente-os-dados-da-doenca-que-tem-396-casos-confirmados-e-uma-morte"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/saude/casos-de-mpox-disparam-no-rio-e-estado-tera-boletim-diario"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/saude/brasil-tem-segundo-novembro-com-mais-casos-de-mpox-desde-2022/"
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/mpox-rio-396-casos-primeira-morte-2026"
       }
-     ]
+     ],
+     "foto": {
+      "src": "fotos/vacina.jpg",
+      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     }
     },
     {
      "kicker": "Planos de saúde",
@@ -872,30 +885,6 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/saude/anvisa-proibe-dois-tira-manchas-a-base-de-percarbonato-veja-marcas"
-      }
-     ]
-    },
-    {
-     "kicker": "Vacina",
-     "quando": "08/11",
-     "titulo": "Vacina contra mpox segue restrita a grupos de maior risco; estado do Rio já recebeu mais de 2 mil doses",
-     "resumo": "O ministério comprou 25 mil doses, com entrega prevista em cerca de três semanas, para pessoas com HIV em imunossupressão, profissionais de laboratório e contatos de casos. O esquema tem duas doses, com intervalo de 28 dias.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nao-ha-necessidade-de-vacinacao-da-populacao-contra-mpox"
-      },
-      {
-       "n": "CBN Recife",
-       "u": "https://www.cbnrecife.com/2026/11/15/ministerio-da-saude-confirma-primeira-morte-por-mpox-no-brasil-em-2026/"
       }
      ]
     },
@@ -933,7 +922,7 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Reaplicação do Enem e IA nas escolas",
+   "nota": "Gabarito do Enem e Fies",
    "itens": [
     {
      "kicker": "Reaplicação",
@@ -956,6 +945,30 @@
       {
        "n": "Folha do Leste",
        "u": "https://folhadoleste.com.br/gabarito-oficial-enem-2026-data-notas-reaplicacao/"
+      }
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/Z2mNsQ5lWQL4xHhftpdFlqEw8ws=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/15/pzzb0527.jpg?itok=LIjqokwH",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil"
+     }
+    },
+    {
+     "kicker": "Fies",
+     "quando": "Hoje",
+     "titulo": "MEC divulga resultado das 50 mil vagas remanescentes do Fies; pré-selecionados validam dados na terça e na quarta",
+     "resumo": "A lista está no Portal Único de Acesso ao Ensino Superior, com login Gov.br, e quem não foi pré-selecionado entra na lista de espera, com convocações de 25 a 30 de novembro. Metade das vagas é reservada a candidatos do CadÚnico com renda de até meio salário mínimo por pessoa, que podem financiar até 100% da mensalidade.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2026-chamada-para-vagas-remanescentes-sai-nesta-segunda-feira"
+      },
+      {
+       "n": "A Crítica",
+       "u": "https://acritica.net/noticias/fies-2026-divulga-resultado-de-vagas-remanescentes-veja-os-proximos-prazos/"
+      },
+      {
+       "n": "Massa News",
+       "u": "https://massa.com.br/servicos-informacoes-uteis/resultado-vagas-fies-2026"
       }
      ]
     },
@@ -986,22 +999,6 @@
        "u": "https://www.metropoles.com/brasil/ministro-atribui-alta-abstencao-do-enem-2026-ao-modelo-de-inscricao"
       }
      ]
-    },
-    {
-     "kicker": "Inteligência artificial",
-     "quando": "10/11",
-     "titulo": "Novas diretrizes do MEC proíbem IA na educação infantil e desaconselham ferramentas generativas até o 5º ano",
-     "resumo": "Do 6º ao 9º ano, o uso fica permitido com mediação do professor, e no ensino médio não há restrição específica. A IA pode ajudar a corrigir redações, mas não pode ser a única base para dar notas; as regras do Conselho Nacional de Educação foram homologadas pelo MEC.",
-     "foto": {
-      "src": "fotos/pedemeia.jpg",
-      "credito": "Antônio Cruz/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Cidades em Foco",
-       "u": "https://cidadesemfoco.com/mec-estabelece-limites-para-uso-de-ia-nas-escolas/"
-      }
-     ]
     }
    ]
   },
@@ -1009,13 +1006,37 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "COP31, Nvidia e Voyager 1",
+   "nota": "Chips de IA, COP31 e Nvidia",
    "itens": [
+    {
+     "kicker": "Tecnologia",
+     "quando": "Hoje",
+     "titulo": "EUA passam a exigir licença para venda de chips avançados de IA a data centers no Brasil e em quatro países asiáticos",
+     "resumo": "A regra provisória do Departamento de Comércio, que vale quando for publicada no Federal Register, atinge Brasil, Singapura, Malásia, Tailândia e Indonésia e busca impedir que a China use capacidade de computação no exterior; empresas americanas instaladas nesses países ficam isentas. A medida segue o escândalo que levou à saída de Jensen Huang da Nvidia, cujas ações chegaram a cair 2,9%.",
+     "fontes": [
+      {
+       "n": "InfoMoney (Bloomberg)",
+       "u": "https://www.infomoney.com.br/business/brasil-entra-na-mira-de-nova-restricao-dos-eua-para-chips-avancados-de-ia/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/eua-restringem-acesso-chines-a-chips-de-ia-e-incluem-brasil"
+      },
+      {
+       "n": "DCD",
+       "u": "https://www.datacenterdynamics.com/br/not%C3%ADcias/eua-passam-a-exigir-licen%C3%A7a-para-exporta%C3%A7%C3%A3o-de-chips-avan%C3%A7ados-de-ia-ao-brasil/"
+      },
+      {
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/global/trump-chips-avancados-de-ia/"
+      }
+     ]
+    },
     {
      "kicker": "COP31",
      "quando": "Hoje",
      "titulo": "COP31 entra na semana decisiva sem acordo sobre financiamento; rascunho inclui mapa do caminho contra fósseis liderado pelo Brasil",
-     "resumo": "O primeiro rascunho propõe elevar o financiamento climático a US$ 300 bilhões por ano, chegando a US$ 1,3 trilhão até 2035; Brasil, China e africanos querem doações, e União Europeia e Japão preferem empréstimos. Nesta segunda, o ministro João Paulo Capobianco pediu esforço conjunto dos países contra o fogo na Amazônia; a conferência termina na sexta (20).",
+     "resumo": "O primeiro rascunho propõe elevar o financiamento climático a US$ 300 bilhões por ano, chegando a US$ 1,3 trilhão até 2035, e inclui os mapas do caminho liderados pelo Brasil contra os combustíveis fósseis e o desmatamento. Brasil, China e africanos querem doações ao fundo de perdas e danos, e União Europeia e Japão preferem empréstimos; a conferência termina na sexta (20).",
      "fontes": [
       {
        "n": "TV Sim Brasil",
@@ -1064,26 +1085,6 @@
      ]
     },
     {
-     "kicker": "Espaço",
-     "quando": "Hoje",
-     "titulo": "Voyager 1 se torna na quarta (18) o primeiro objeto humano a um dia-luz da Terra",
-     "resumo": "Lançada em 1977, a sonda da Nasa estará a cerca de 25,9 bilhões de quilômetros; um sinal levará 24 horas para chegar, e uma mensagem e sua resposta, ao menos 48 horas.",
-     "fontes": [
-      {
-       "n": "Anadolu",
-       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
-      },
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/curiosidades/2026/06/21/e-oficial-a-voyager-1-vai-ultrapassar-a-marca-de-1-dia-luz-em-18-de-novembro-de-2026/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/voyager-1-chegara-um-dia-luz-terra-em-novembro/"
-      }
-     ]
-    },
-    {
      "kicker": "IPO",
      "quando": "Hoje",
      "titulo": "Anthropic, dona do Claude, fixa preço na quarta e estreia na Nasdaq na quinta (19), com faixa de US$ 70 a US$ 78 por ação",
@@ -1102,6 +1103,26 @@
        "u": "https://www.spacemoney.com.br/investimentos/acoes/radar-dos-ipos/ipo-anthropic-nasdaq-big-techs-2"
       }
      ]
+    },
+    {
+     "kicker": "Espaço",
+     "quando": "Hoje",
+     "titulo": "Voyager 1 se torna na quarta (18) o primeiro objeto humano a um dia-luz da Terra",
+     "resumo": "Lançada em 1977, a sonda da Nasa estará a cerca de 25,9 bilhões de quilômetros; um sinal levará 24 horas para chegar, e uma mensagem e sua resposta, ao menos 48 horas.",
+     "fontes": [
+      {
+       "n": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+      },
+      {
+       "n": "Olhar Digital",
+       "u": "https://olhardigital.com.br/curiosidades/2026/06/21/e-oficial-a-voyager-1-vai-ultrapassar-a-marca-de-1-dia-luz-em-18-de-novembro-de-2026/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/voyager-1-chegara-um-dia-luz-terra-em-novembro/"
+      }
+     ]
     }
    ]
   },
@@ -1109,29 +1130,53 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Grammy, Oscar honorário e luto no frevo",
+   "nota": "Anitta no Grammy e despedidas",
    "itens": [
     {
      "kicker": "Música",
      "quando": "Hoje",
-     "titulo": "Grammy anuncia indicados de 2027: Raye lidera, e Anitta concorre a Melhor Álbum de Música Global com 'Equilibrivm'",
-     "resumo": "A britânica Raye lidera a lista, seguida de Rosalía; Taylor Swift, Olivia Rodrigo e Bruno Mars estão entre os concorrentes a Álbum do Ano. É a terceira indicação de Anitta ao prêmio, que será entregue em 7 de fevereiro, em Los Angeles.",
+     "titulo": "Anitta comemora indicação ao Grammy por \"Equilibrivm\" e diz se sentir vencedora; Raye lidera a lista de 2027",
+     "resumo": "Em transmissão ao vivo, a cantora disse estar honrada com a terceira indicação ao prêmio, a segunda na categoria de álbum. A britânica Raye lidera a lista, seguida de Rosalía; Taylor Swift, Olivia Rodrigo e Bruno Mars estão entre os concorrentes a Álbum do Ano, e a cerimônia será em 7 de fevereiro, em Los Angeles.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/musica/grammy-2027-confira-a-lista-completa-de-indicados/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/2026/11/16/anitta-celebra-indicacao-no-grammy-americano-me-sinto-vencedora"
       },
       {
-       "n": "Omelete",
-       "u": "https://www.omelete.com.br/musica/grammy-2027-lista-indicados"
+       "n": "A Crítica",
+       "u": "https://acritica.net/entretenimento/grammy-2027-indicados-anitta-eliane-elias-taylor-swift-rosalia/"
       },
       {
-       "n": "Jornal do Comércio",
-       "u": "https://www.jornaldocomercio.com/cultura/2026/11/1270612-grammy-2027-anuncia-indicados.html"
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/cultura/anitta-indicada-grammy-2027/"
       },
       {
        "n": "POPLine",
-       "u": "https://portalpopline.com.br/grammy-2027-lista-completa-indicados/"
+       "u": "https://portalpopline.com.br/anitta-tem-compromisso-brasil-dia-grammy-2027/"
+      }
+     ]
+    },
+    {
+     "kicker": "Luto",
+     "quando": "Hoje",
+     "titulo": "Ator Rogério Fróes, de \"O Bem-Amado\" e \"Vale Tudo\", é velado no Rio em cerimônia reservada",
+     "resumo": "Fróes morreu na sexta (13), aos 92 anos, segundo a filha, a atriz Gisele Fróes; a causa não foi divulgada. Com carreira de seis décadas na TV, no teatro e no cinema, ele interpretou Getúlio Vargas no Palácio do Catete na peça \"O Tiro que Mudou a História\".",
+     "fontes": [
+      {
+       "n": "Agenda do Poder",
+       "u": "https://agendadopoder.com.br/ator-rogerio-froes-sera-velado-nesta-segunda-em-cerimonia-reservada-no-memorial-do-carmo-no-caju/"
+      },
+      {
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/11/15/velorio-de-rogerio-froes-no-rio/"
+      },
+      {
+       "n": "Portal de Prefeitura",
+       "u": "https://portaldeprefeitura.com.br/entretenimento/rogerio-froes-relembre-novelas-filmes-e-pecas-marcantes-da-carreira/636031/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/fabia-oliveira/edwin-luisi-destaca-legado-de-rogerio-froes-durante-velorio-do-ator"
       }
      ]
     },
@@ -1180,26 +1225,6 @@
       {
        "n": "Anadolu",
        "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
-      }
-     ]
-    },
-    {
-     "kicker": "Luto",
-     "quando": "13/11",
-     "titulo": "Ator Rogério Fróes, de \"O Bem-Amado\" e \"Vale Tudo\", é velado nesta segunda no Rio em cerimônia reservada",
-     "resumo": "Fróes morreu na sexta (13), aos 92 anos, segundo a filha, a atriz Gisele Fróes; a causa não foi divulgada. Com carreira de seis décadas na TV, no teatro e no cinema, ele interpretou Getúlio Vargas no Palácio do Catete na peça \"O Tiro que Mudou a História\".",
-     "fontes": [
-      {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/ator-rogerio-froes-sera-velado-nesta-segunda-em-cerimonia-reservada-no-memorial-do-carmo-no-caju/"
-      },
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/15/velorio-de-rogerio-froes-no-rio/"
-      },
-      {
-       "n": "Portal de Prefeitura",
-       "u": "https://portaldeprefeitura.com.br/entretenimento/rogerio-froes-relembre-novelas-filmes-e-pecas-marcantes-da-carreira/636031/"
       }
      ]
     },
