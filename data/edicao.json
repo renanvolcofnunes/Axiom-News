@@ -1,33 +1,33 @@
 {
- "data": "Terça-feira, 17 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "17/11/2026 · 19h04 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 18h05",
- "fontes": 94,
+ "data": "Quarta-feira, 18 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "18/11/2026 · 07h04 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de 06h50",
+ "fontes": 90,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento",
+   "nome": "Ibovespa · fechamento 17/11",
    "valor": "169.817 pts",
    "var": "+0,31%",
    "dir": "up"
   },
   {
-   "nome": "Dólar comercial · fechamento",
+   "nome": "Dólar comercial · fechamento 17/11",
    "valor": "R$ 5,78",
    "var": "+0,08%",
    "dir": "up"
   },
   {
-   "nome": "Petróleo Brent · fechamento",
-   "valor": "US$ 93,14",
-   "var": "+0,76%",
-   "dir": "up"
+   "nome": "Nasdaq · fechamento 17/11",
+   "valor": "24.328 pts",
+   "var": "-0,74%",
+   "dir": "down"
   },
   {
-   "nome": "Petróleo WTI · fechamento",
-   "valor": "US$ 86,01",
-   "var": "+0,34%",
+   "nome": "Kospi (Seul) · fechamento 18/11",
+   "valor": "5.067 pts",
+   "var": "+1,99%",
    "dir": "up"
   },
   {
@@ -39,28 +39,28 @@
  ],
  "agenda": [
   {
-   "hora": "Ter 17/11 · noite",
-   "txt": "Argentina enfrenta a Costa Rica às 20h, em Córdoba, sem Messi; Mariah Carey faz show de Natal às 21h no Nubank Parque, em São Paulo",
-   "cat": "esporte"
-  },
-  {
-   "hora": "Qua 18/11",
-   "txt": "Senado vota os quatro destaques do ajuste fiscal, e a Câmara pode votar o texto em seguida; Inep divulga o gabarito do Enem; Trump se reúne com Marcos Jr. em Manila; Flamengo x Athletico-PR e Cruzeiro x Palmeiras às 20h30",
+   "hora": "Qua 18/11 · 16h",
+   "txt": "Senado vota os quatro destaques do ajuste fiscal; Câmara pode analisar o texto em seguida. No mesmo horário, o Fed divulga a ata da última reunião",
    "cat": "politica"
   },
   {
+   "hora": "Qua 18/11 · noite",
+   "txt": "Brasileirão: Coritiba x Santos (19h30), Flamengo x Athletico-PR e Cruzeiro x Palmeiras (20h30), Corinthians x Botafogo e Grêmio x Bahia (21h30)",
+   "cat": "esporte"
+  },
+  {
    "hora": "Qui 19/11",
-   "txt": "Xi, Trump e Putin se reúnem em Shenzhen, à margem da Apec; ações da Anthropic estreiam na Nasdaq; \"Jogos Vorazes: Amanhecer na Colheita\" estreia nos cinemas",
-   "cat": "mundo"
+   "txt": "Ações da Anthropic estreiam na Nasdaq; Conselho Monetário Nacional se reúne às 9h; segundo dia da Apec em Shenzhen; \"Jogos Vorazes: Amanhecer na Colheita\" estreia nos cinemas",
+   "cat": "ciencia"
   },
   {
    "hora": "Sex 20/11",
-   "txt": "Feriado nacional da Consciência Negra, sem pregão na B3; votação final prevista na COP31; último dia para pedir a reaplicação do Enem; sorteio das quartas da Liga das Nações",
+   "txt": "Feriado nacional da Consciência Negra, sem pregão na B3; votação final prevista na COP31; último dia para pedir a reaplicação do Enem",
    "cat": "brasil"
   },
   {
-   "hora": "Sáb 21/11 · 19h30",
-   "txt": "Atlético-MG e Boca Juniors decidem a Copa Sul-Americana em Barranquilla; GP de Las Vegas de F1 é na madrugada de domingo",
+   "hora": "Sáb 21/11",
+   "txt": "Atlético-MG e Boca Juniors decidem a Copa Sul-Americana em Barranquilla; Palmeiras e Flamengo fazem o confronto direto no Nubank Parque; GP de Las Vegas de F1 é na madrugada de domingo",
    "cat": "esporte"
   }
  ],
@@ -158,43 +158,43 @@
  ],
  "manchete": {
   "kicker": "Política · Ajuste fiscal",
-  "titulo": "Sem acordo, Senado adia para quarta a votação dos destaques do ajuste fiscal, e Câmara encerra o dia sem votar o texto",
-  "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), atendeu a pedido do relator, Eduardo Braga (MDB-AM), que quer analisar novas emendas e buscar consenso com a oposição. Com o adiamento, Hugo Motta (Republicanos-PB) fechou a pauta da Câmara, que só vota o projeto depois do Senado.",
+  "titulo": "Senado retoma às 16h a votação dos destaques do ajuste fiscal, e governo tenta concluir o texto também na Câmara",
+  "resumo": "Davi Alcolumbre (União-AP) adiou a análise na terça a pedido do relator, Eduardo Braga (MDB-AM), por falta de acordo entre a base e a oposição. Se os quatro destaques forem rejeitados, o projeto segue para a Câmara, onde Hugo Motta (Republicanos-PB) indicou prioridade.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/TvOMb2Hb5US1-3Zj1B458fNfYng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/12/sessao_do_congresso_12-11-26-2_0.jpg?itok=-u9GH371",
+   "src": "https://imagens.ebc.com.br/92SOTb7KB2yZ5fwAsK9SXWXuvJo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/17/maioridade_12-11-26_0.jpg?itok=C7rNMz4F",
    "credito": "Lula Marques/Agência Brasil (arquivo)"
   },
-  "entenda": "O projeto de lei complementar do ajuste fiscal teve o texto-base aprovado por 45 votos a 31 na quinta (12). Ele reduz temporariamente o limite de crescimento real das despesas, corta benefícios tributários e amplia bloqueios de gastos; o governo calcula ganho de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado de 2027. Quatro destaques, de Rogério Marinho (PL-RN), Alan Rick (Republicanos-AC) e Izalci Lucas (PL-DF), podem mudar o texto: um tira o poder do governo de limitar o uso de créditos tributários, pedido também por 119 entidades empresariais; outro reduz de 2% para 0,6% o crescimento real permitido das despesas a partir de 2027. Estados e municípios contestam os cortes na Lei Kandir e nas compensações previdenciárias. O governo, que chegou a retirar a urgência do projeto das apostas on-line para liberar a pauta da Câmara, diz ter maioria para rejeitar as mudanças.",
+  "entenda": "O PLP 299/2026 teve o texto-base aprovado por 45 votos a 31 em 12 de novembro. Ele limita o crescimento real das despesas a 2% ao ano quando os mecanismos de contenção forem acionados, revê benefícios tributários e adia parte dos repasses da União a estados e municípios; a estimativa é de economia de R$ 50 bilhões a R$ 60 bilhões em 2027. Os destaques da oposição tiram do governo o poder de restringir compensações tributárias (que renderiam de R$ 12,8 bilhões a R$ 18,3 bilhões em 2027), derrubam a redução dos repasses da Lei Kandir de R$ 4 bilhões para R$ 1 bilhão por ano, retiram o teto de R$ 3 bilhões para compensações entre o INSS e os regimes de servidores e propõem regra mais dura, com limite de 0,6% de crescimento real dos gastos. Na esquerda, deputados eleitos do PT e do PSOL preparam emendas na Câmara para preservar verbas sociais.",
   "fatos": [
    "Texto-base aprovado por 45 a 31; cada trecho destacado precisa de 41 votos para ser mantido",
-   "Secretários estaduais de Fazenda estimam perda de R$ 3 bi em 2027 com a Lei Kandir; a CNM fala em R$ 5 bi por ano a menos para as prefeituras",
-   "Magno Malta (PL-ES) tentou barrar a votação com questão de ordem, rejeitada por Alcolumbre"
+   "Governo, pelo ministro José Guimarães, diz ter maioria para rejeitar as quatro mudanças",
+   "Magno Malta (PL-ES) apresentou questão de ordem para barrar a votação; Alcolumbre disse que o tema já foi superado"
   ],
   "fontes": [
    {
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal",
+    "d": "horário da votação"
+   },
+   {
     "n": "Gazeta do Povo",
     "u": "https://www.gazetadopovo.com.br/economia/senado-adia-votacao-de-destaques-que-podem-mudar-ajuste-fiscal-de-lula/",
-    "d": "adiamento e oposição"
+    "d": "destaques e oposição"
    },
    {
-    "n": "ND Mais",
-    "u": "https://ndmais.com.br/politica/senado-adia-ajuste-fiscal-e-camara-encerra-sessao",
-    "d": "Câmara sem votação"
-   },
-   {
-    "n": "Brasil 247 (g1)",
-    "u": "https://www.brasil247.com/economia/senado-adia-para-quarta-feira-18-votacao-de-destaques-ao-projeto-de-ajuste-fiscal/",
-    "d": "estados e municípios"
+    "n": "CartaCapital",
+    "u": "https://www.cartacapital.com.br/politica/senado-vota-destaques-do-ajuste-fiscal-esquerda-critica-cortes-e-restricoes-a-gastos-sociais/",
+    "d": "críticas na esquerda"
    },
    {
     "n": "O Povo",
-    "u": "https://www.opovo.com.br/noticias/economia/2026/11/17/alcolumbre-adia-votacao-de-destaques-do-plp-do-ajuste-fical-para-a-quarta-feira-18.html",
-    "d": "decisão de Alcolumbre"
+    "u": "https://mais.opovo.com.br/jornal/economia/2026/11/18/sem-acordo-senado-adia-votacao-dos-destaques-ao-projeto-do-ajuste-fiscal.html",
+    "d": "falta de acordo"
    },
    {
-    "n": "Forbes Brasil",
-    "u": "https://forbes.com.br/forbes-money/2026/11/ibovespa-fecha-em-alta-mas-reduz-o-folego-com-receitas-sobre-fiscal-e-equipe-de-lula/",
-    "d": "reação do mercado"
+    "n": "Tribuna do Norte",
+    "u": "https://tribunadonorte.com.br/politica/alcolumbre-adia-votacao-de-destaques-do-plp-do-ajuste-fiscal-esta-quarta-feira/",
+    "d": "decisão de Alcolumbre"
    }
   ]
  },
@@ -203,25 +203,21 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste fica para quarta e STF na escala 5x2",
+   "nota": "Destaques do ajuste no Senado e transição",
    "itens": [
     {
      "kicker": "Ajuste fiscal",
      "quando": "Hoje",
-     "titulo": "Governo diz ter maioria para derrubar os destaques; oposição tenta barrar votação pelo regimento",
-     "resumo": "O ministro José Guimarães (Relações Institucionais) afirmou que o Executivo esperava concluir a votação nas duas Casas nesta terça e que tem votos para rejeitar as mudanças. Na oposição, Magno Malta (PL-ES), com apoio de Esperidião Amin (PP-SC) e Carlos Portinho (PL-RJ), alegou descumprimento de prazo regimental, argumento recusado por Alcolumbre.",
+     "titulo": "Base e oposição chegam à votação dos destaques sem acordo sobre créditos tributários e repasses a estados",
+     "resumo": "Alan Rick (Republicanos-AC) quer retirar o trecho que limita compensações de débitos com créditos tributários, e Rogério Marinho (PL-RN) e Izalci Lucas (PL-DF) tentam derrubar os cortes na Lei Kandir e nas compensações previdenciárias. Estados e municípios apoiam as mudanças nos repasses.",
      "lados": [
       {
        "quem": "Governo",
-       "txt": "A líder Teresa Leitão (PT-PE) disse que críticas e sugestões são legítimas, mas que não se deve flexibilizar demais as medidas; ministros afirmam que o pacote melhora as contas de 2027 sem atingir os mais pobres."
+       "txt": "A líder Teresa Leitão (PT-PE) diz que as críticas são legítimas, mas que flexibilizar demais reduz o resultado fiscal e enfraquece a proposta."
       },
       {
        "quem": "Oposição",
-       "txt": "Rogério Marinho (PL-RN) quer limitar a 0,6% o crescimento real das despesas e obrigar cortes até o centro da meta; Alan Rick (Republicanos-AC) quer retirar o trecho sobre créditos tributários."
-      },
-      {
-       "quem": "Ala do PT e PSOL",
-       "txt": "Parlamentares da própria base criticam os efeitos das medidas sobre investimentos públicos e políticas sociais."
+       "txt": "Rogério Marinho afirma que o texto contém manobras contábeis e defende regra mais rígida, com gastos crescendo no máximo 0,6% acima da inflação."
       }
      ],
      "fontes": [
@@ -230,22 +226,22 @@
        "u": "https://www.gazetadopovo.com.br/economia/senado-adia-votacao-de-destaques-que-podem-mudar-ajuste-fiscal-de-lula/"
       },
       {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/politica/senado-adia-ajuste-fiscal-e-camara-encerra-sessao"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/governo-lula-deu-nova-pedalada-fiscal-diz-rogerio-marinho-sobre-ajuste-aprovado-no-senado/"
       },
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/economia/senado-adia-para-quarta-feira-18-votacao-de-destaques-ao-projeto-de-ajuste-fiscal/"
+       "n": "TMC",
+       "u": "https://tmc.com.br/politica/senado-vota-destaques-plp-ajuste-fiscal-impasse-oposicao/"
       },
       {
-       "n": "Canal Rural",
-       "u": "https://www.canalrural.com.br/politica/votacao-de-destaques-do-plp-do-ajuste-fiscal-e-adiada-no-senado/"
+       "n": "Conjur",
+       "u": "https://conjur.com.br/2026-nov-17/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal/"
       }
      ]
     },
     {
      "kicker": "STF",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Dino decide que as regras de transição para a escala 5x2 terão julgamento definitivo no plenário do STF",
      "resumo": "O relator converteu a análise da liminar em julgamento de mérito depois que Luiz Fux pediu destaque e interrompeu a votação virtual, que estava em 4 a 0 a favor da decisão de Dino. A liminar continua valendo, e a negociação coletiva entre sindicatos e empresas segue permitida; a data do julgamento depende de Fux liberar o caso e de Fachin pautá-lo.",
      "fontes": [
@@ -265,7 +261,7 @@
     },
     {
      "kicker": "Novo governo",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Mercadante descarta ir para a Fazenda, e Lula segue sem anunciar o comando da economia no quarto mandato",
      "resumo": "Em nota do BNDES, Aloizio Mercadante disse não ter pretensão de assumir ministério e que espera continuar no banco; a circulação do nome dele coincidiu com a alta de 2,15% do dólar na segunda. Geraldo Alckmin, Rafael Fonteles e a permanência de Dario Durigan seguem citados para o cargo.",
      "foto": {
@@ -292,29 +288,9 @@
      ]
     },
     {
-     "kicker": "Investigação",
-     "quando": "Hoje",
-     "titulo": "Polícia de SP faz operação contra advogadas suspeitas de desviar R$ 800 mil em acordo de separação de filho de Lula",
-     "resumo": "A Polícia Civil cumpriu 17 mandados de busca em São Paulo, São Carlos, Campinas, Itatiba e Ponta Grossa (PR) contra um escritório que teria recebido de Luís Cláudio Lula da Silva o valor do acordo e não repassado à ex-companheira dele. A polícia afirma que o filho do presidente não é investigado; ninguém foi preso, e a Justiça bloqueou R$ 800 mil.",
-     "fontes": [
-      {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/brasil/operacao-apura-desvio-de-r-800-mil-em-acordo-de-separacao-de-filho-de-lula/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/sao-paulo/advogadas-suspeitas-de-golpe-em-filho-de-lula-ja-foram-investigadas-pela-pf"
-      },
-      {
-       "n": "ICL Notícias",
-       "u": "https://iclnoticias.com.br/policia-investiga-golpe-contra-filho-de-lula/"
-      }
-     ]
-    },
-    {
      "kicker": "Protestos",
-     "quando": "Hoje",
-     "titulo": "UNE convoca atos em ao menos dez capitais contra o ajuste fiscal e os juros; centrais sindicais ficam de fora",
+     "quando": "Ontem",
+     "titulo": "UNE faz atos em ao menos dez capitais contra o ajuste fiscal e os juros; centrais sindicais ficam de fora",
      "resumo": "Os estudantes marcaram concentração em frente ao Congresso às 9h e, à tarde, na Candelária, no Rio, e na Avenida Faria Lima, em São Paulo, com apoio de movimentos sociais e do PSOL. As principais centrais disseram que o pacote não corta aposentadorias nem o salário mínimo e preferem um ato contra os juros em 8 de dezembro, em frente ao Banco Central, na Avenida Paulista.",
      "lados": [
       {
@@ -340,6 +316,26 @@
        "u": "https://vermelho.org.br/2026/11/13/o-mercado-nao-manda-no-brasil-une-convoca-atos-contra-ajuste-fiscal/"
       }
      ]
+    },
+    {
+     "kicker": "Investigação",
+     "quando": "Ontem",
+     "titulo": "Polícia de SP faz operação contra advogadas suspeitas de desviar R$ 800 mil em acordo de separação de filho de Lula",
+     "resumo": "A Polícia Civil cumpriu 17 mandados de busca em São Paulo, São Carlos, Campinas, Itatiba e Ponta Grossa (PR) contra um escritório que teria recebido de Luís Cláudio Lula da Silva o valor do acordo e não repassado à ex-companheira dele. A polícia afirma que o filho do presidente não é investigado; ninguém foi preso, e a Justiça bloqueou R$ 800 mil.",
+     "fontes": [
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/brasil/operacao-apura-desvio-de-r-800-mil-em-acordo-de-separacao-de-filho-de-lula/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/sao-paulo/advogadas-suspeitas-de-golpe-em-filho-de-lula-ja-foram-investigadas-pela-pf"
+      },
+      {
+       "n": "ICL Notícias",
+       "u": "https://iclnoticias.com.br/policia-investiga-golpe-contra-filho-de-lula/"
+      }
+     ]
     }
    ]
   },
@@ -347,24 +343,56 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Bolsa sobe pouco, PicPay desaba e petróleo avança",
+   "nota": "Wall Street em queda, Nvidia e ata do Fed",
    "itens": [
     {
-     "kicker": "Mercado",
+     "kicker": "Mercados",
      "quando": "Hoje",
+     "titulo": "Depois de queda forte em Nova York, bolsas da Ásia fecham mistas com balanço da Nvidia; ata do Fed sai às 16h",
+     "resumo": "Na terça, o Dow Jones caiu 1,64%, o S&P 500 recuou cerca de 1%, no menor fechamento desde julho, e a Nasdaq perdeu 0,74%, com venda de ações de chips antes do balanço. Nesta quarta, o Kospi, de Seul, subiu 1,99%, enquanto Hong Kong caiu 0,91%; no Brasil, o mercado acompanha a votação do ajuste no Senado.",
+     "fontes": [
+      {
+       "n": "Stock Titan",
+       "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-sem-direcao-unica-apos-balanco-e-projecoes-da-nvidia-fets/"
+      },
+      {
+       "n": "Times Brasil (CNBC)",
+       "u": "https://timesbrasil.com.br/investimentos/bolsa/bolsas-da-asia-fecham-mistas-apos-resultados-da-nvidia-coreia-do-sul-sobe-quase-2/"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/"
+      }
+     ]
+    },
+    {
+     "kicker": "Mercado",
+     "quando": "Ontem",
      "titulo": "Ibovespa fecha em alta de 0,31%, aos 169,8 mil pontos, e dólar termina estável em R$ 5,78",
-     "resumo": "A bolsa chegou a 171,7 mil pontos na máxima, mas perdeu força com a dúvida sobre o ajuste fiscal e a equipe econômica do próximo mandato; o volume, de R$ 27,5 bilhões, ficou abaixo da média do ano. Hapvida subiu 12,5% e Sabesp, 2,44%, enquanto Banco do Brasil caiu 2,21%; em Nova York, o S&P 500 recuou cerca de 1%.",
+     "resumo": "A bolsa chegou a 171,7 mil pontos na máxima, mas perdeu força com a dúvida sobre o ajuste fiscal e a equipe econômica do próximo mandato; o volume, de R$ 27,5 bilhões, ficou abaixo da média do ano. Hapvida subiu 12,5% e Sabesp, 2,44%, enquanto Banco do Brasil caiu 2,21%.",
      "fontes": [
       {
        "n": "Forbes Brasil",
        "u": "https://forbes.com.br/forbes-money/2026/11/ibovespa-fecha-em-alta-mas-reduz-o-folego-com-receitas-sobre-fiscal-e-equipe-de-lula/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/"
+      },
+      {
+       "n": "Suno",
+       "u": "https://www.suno.com.br/noticias/ibovespa-hoje-bancos-dolar-fiscal/"
       }
      ]
     },
     {
      "kicker": "Reforma tributária",
-     "quando": "Hoje",
-     "titulo": "Durigan vai à CAE do Senado discutir alíquota de 11,3% da CBS, acima dos 9,21% previstos pela Fazenda",
+     "quando": "Ontem",
+     "titulo": "Durigan defende na CAE do Senado a alíquota de referência de 11,3% da CBS, acima dos 9,21% previstos pela Fazenda",
      "resumo": "A taxa de referência foi calculada pelo TCU, e o Senado tem até 15 de dezembro para fixar a alíquota definitiva; sem isso, vale o índice do tribunal. O ministro foi ouvido ao lado do presidente do TCU e do secretário da Receita.",
      "lados": [
       {
@@ -396,8 +424,20 @@
      ]
     },
     {
+     "kicker": "Comércio exterior",
+     "quando": "Ontem",
+     "titulo": "Decreto simplifica exportação de cosméticos e produtos de higiene para sete países da América do Sul",
+     "resumo": "O texto internaliza acordo da Aladi com Argentina, Bolívia, Chile, Equador, Paraguai, Peru e Uruguai e dispensa o Certificado de Livre Venda, sem mudar tarifas. As regras passam a valer 60 dias depois que ao menos dois países concluírem seus trâmites; em 2025, o setor exportou US$ 1,06 bilhão.",
+     "fontes": [
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quarta-feira-18-de-novembro-de-2026/"
+      }
+     ]
+    },
+    {
      "kicker": "Empresas",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ações do PicPay chegam a cair 30% em Nova York após mudança na contabilização de calotes",
      "resumo": "O lucro ajustado do terceiro trimestre subiu 157%, para R$ 271 milhões, mas a inadimplência de 15 a 90 dias passou de 7,5% para 9,2%. A empresa vai lançar como perda em 120 dias, e não mais em 360, empréstimos pessoais sem garantia, o que deve tirar cerca de R$ 325 milhões do lucro do quarto trimestre; a previsão de lucro do ano caiu para R$ 733 milhões.",
      "fontes": [
@@ -414,50 +454,6 @@
        "u": "https://br.tradingview.com/news/reuters.com,2026:newsml_L6N46Y13C:0/"
       }
      ]
-    },
-    {
-     "kicker": "Commodities",
-     "quando": "Hoje",
-     "titulo": "Petróleo fecha em alta com novos ataques a navios no Estreito de Ormuz; Brent vai a US$ 93",
-     "resumo": "O Brent para janeiro subiu 0,76%, a US$ 93,14, e o WTI avançou 0,34%, a US$ 86,01. Analistas atribuem a alta ao risco para o transporte marítimo e às ameaças entre Washington e Teerã, que podem pressionar os combustíveis no Brasil.",
-     "fontes": [
-      {
-       "n": "DGABC (Estadão Conteúdo)",
-       "u": "https://www.dgabc.com.br/Noticia/4369347/petroleo-fecha-em-alta-com-ataques-crescentes-a-embarcacoes-no-estreito-de-ormuz"
-      },
-      {
-       "n": "Canal Rural",
-       "u": "https://www.canalrural.com.br/economia/petroleo-sobe-com-ataques-a-embarcacoes-no-estreito-de-ormuz/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/commodities/petroleo-sobe-ataques-navios-estreito-ormuz-tensao-eua-ira/"
-      }
-     ]
-    },
-    {
-     "kicker": "Focus",
-     "quando": "Ontem",
-     "titulo": "Mercado passa a prever inflação de 5% em 2027, acima do teto da meta, e Selic de 12,75% no fim daquele ano",
-     "resumo": "Para 2026, a projeção do IPCA caiu de 5,22% para 5,11%, e a Selic segue em 13,75%. A estimativa de crescimento recuou pela quinta semana, para 1,72% neste ano e 1,02% em 2027, e o dólar esperado no fim de 2026 subiu para R$ 5,40.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/economia/focus-mercado-eleva-previsoes-de-inflacao-e-selic-para-2027"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/focus-mercado-sobe-projecoes-para-juros-e-inflacao-em-2027"
-      },
-      {
-       "n": "Portal do Agronegócio",
-       "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/dolar-hoje-supera-r-5-72-com-piora-do-focus-para-2027-e-preocupacao-fiscal"
-      }
-     ]
     }
    ]
   },
@@ -465,11 +461,39 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Operação contra o BDM, Maré e chuva",
+   "nota": "Temporais, operações policiais e feriado",
    "itens": [
     {
-     "kicker": "Segurança",
+     "kicker": "Tempo",
      "quando": "Hoje",
+     "titulo": "Chuva forte atinge a Grande BH na madrugada, e Mato Grosso do Sul tem alerta de tempestade",
+     "resumo": "Contagem registrou chuva muito intensa desde as primeiras horas, e duas regiões de Belo Horizonte já passaram do volume esperado para todo o mês, segundo O Tempo; o Inmet prevê novas pancadas à noite. Em Mato Grosso do Sul e em Santa Catarina, há risco de raios, ventania e granizo à tarde.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/pMQu7ZGPr9aw8v36dbJy7-Pcv3k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_9230.jpg?itok=FoVvdnSa",
+      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://otempo.com.br/cidades/2026/11/18/chove-extremamente-forte-na-grande-bh-na-manha-desta-quarta-feira-18-11"
+      },
+      {
+       "n": "Campo Grande News",
+       "u": "https://campograndenews.com.br/meio-ambiente/apos-temporal-chuva-intensa-persiste-em-ms-nesta-quarta-feira"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://infomoney.com.br/brasil/vai-chover-na-sua-cidade-inmet-emite-alertas-para-tempestades-em-varias-regioes"
+      },
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quarta-feira-18-de-novembro-de-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Segurança",
+     "quando": "Ontem",
      "titulo": "Polícia da Bahia faz operação contra o Bonde do Maluco em cinco estados e no DF e pede bloqueio de R$ 84 milhões",
      "resumo": "A segunda fase da Operação Rainha Sul cumpriu 70 mandados na Bahia, em São Paulo, Santa Catarina, Rio Grande do Norte, Tocantins e no Distrito Federal, com foco na estrutura financeira da facção. A investigação apura tráfico, lavagem de dinheiro, venda ilegal de armas e homicídios; a polícia prevê bloquear bens de 28 pessoas e confiscar 12 veículos.",
      "fontes": [
@@ -489,7 +513,7 @@
     },
     {
      "kicker": "Segurança",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Segundo dia de operação da PM na Maré fecha 41 escolas e suspende quatro unidades de saúde",
      "resumo": "Agentes do Comando de Operações Especiais entraram no Morro do Timbau e na Fogo Cruzado, em ação contra o Terceiro Comando Puro; retroescavadeiras retiraram barricadas incendiadas nas entradas das comunidades. A Secretaria Municipal de Saúde suspendeu quatro unidades de atenção primária, e a PM ainda não divulgou balanço de prisões.",
      "fontes": [
@@ -504,50 +528,6 @@
       {
        "n": "TV Brasil",
        "u": "https://tvbrasilinternacional.ebc.com.br/programas/reporter-brasil-tarde/234164"
-      }
-     ]
-    },
-    {
-     "kicker": "Tempo",
-     "quando": "Hoje",
-     "titulo": "Corredor de umidade traz chuva forte à maior parte do país, com alerta laranja na Bahia, no Tocantins e no norte de Minas",
-     "resumo": "Segundo o Inmet, a terça tem tempestades previstas do Norte ao Sudeste, com alertas de perigo também no norte de Goiás. No Sul, há risco de granizo nos três estados e de ventos fortes no litoral gaúcho e no sul de Santa Catarina. O Inmet manteve avisos de tempestade com vento de até 100 km/h e granizo em diversos estados.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/pMQu7ZGPr9aw8v36dbJy7-Pcv3k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_9230.jpg?itok=FoVvdnSa",
-      "credito": "Fernando Frazão/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/terca-feira-sera-de-chuva-intensa-na-maior-parte-do-pais"
-      },
-      {
-       "n": "Defesa Civil RS",
-       "u": "https://www.defesacivil.rs.gov.br/defesa-civil-alerta-condicao-de-alerta-para-chuva-intensa-e-volumosa-que-atua-nas-proximidades-de-tres-de-maio"
-      },
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/tempo/tempestades-sul-risco-granizo-vendaval-terca-feira-17-alerta-chuva/"
-      }
-     ]
-    },
-    {
-     "kicker": "São Paulo",
-     "quando": "Hoje",
-     "titulo": "Bombeiros levam quatro horas para controlar incêndio em prédio comercial no Bom Retiro, sem feridos",
-     "resumo": "O fogo começou na madrugada em um imóvel de três andares na Rua da Graça, que abrigava loja de importados e depósito de vendedores online, e foi controlado por volta das 6h20. Uma equipe ficou no local para evitar que as chamas voltassem, e os danos ainda são avaliados.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/sao-paulo/incendio-de-grandes-proporcoes-atinge-predio-comercial-no-bom-retiro"
-      },
-      {
-       "n": "Urgente News",
-       "u": "https://urgentenews.org/sao-paulo/2026/11/17/incendio-atinge-predio-comercial-no-bom-retiro-e-bombeiros-controlam-chamas-apos-quatro-horas.html"
-      },
-      {
-       "n": "TMC",
-       "u": "https://tmc.com.br/brasil/incendio-deposito-bom-retiro-avcb-rua-graca/"
       }
      ]
     },
@@ -577,25 +557,69 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ormuz, Ucrânia e Trump na Ásia",
+   "nota": "Trump na China e nas Filipinas",
    "itens": [
     {
-     "kicker": "Oriente Médio",
+     "kicker": "Apec",
      "quando": "Hoje",
+     "titulo": "Trump chega a Shenzhen, é recebido por Xi no aeroporto e se prepara para encontro a três com Xi e Putin",
+     "resumo": "A cúpula da Apec ocorre nesta quarta e quinta, e a reunião trilateral deve tratar das guerras no Irã e na Ucrânia, de controle de armas nucleares, de comércio e de inteligência artificial. Antes, Xi e Putin se reuniram à margem do evento; o líder chinês disse que a relação com Moscou é estável e defendeu o comércio aberto.",
+     "fontes": [
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/mundo/trump-chega-a-china-para-reuniao-trilateral-com-xi-e-putin"
+      },
+      {
+       "n": "EFE (Unitel)",
+       "u": "https://unitel.bo/noticias/agencias/miercoles-18-de-noviembre-de-2026-0800-gmt-IJ24874408"
+      },
+      {
+       "n": "The Tribune",
+       "u": "https://www.tribuneindia.com/news/apec-summit-2026/trump-arrives-in-shenzhen-for-apec-summit-and-trilateral-meet-with-xi-putin"
+      },
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/11/16/mexico-peru-e-chile-buscam-acordos-em-encontros-com-xi-jinping-durante-cupula-da-apec-na-china/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ásia",
+     "quando": "Hoje",
+     "titulo": "Em Manila, Trump anuncia ampliação da cooperação militar com as Filipinas e acena com projeto nuclear",
+     "resumo": "No encontro com Ferdinand Marcos Jr., o americano citou mais de US$ 5 bilhões em vendas de armas aprovadas e possível parceria num projeto de energia nuclear civil e no gás do Alasca. Protestos contra a visita continuaram na capital filipina.",
+     "fontes": [
+      {
+       "n": "Yahoo News (Reuters)",
+       "u": "https://sg.news.yahoo.com/trump-says-us-expanding-defence-043228472.html"
+      },
+      {
+       "n": "The Star",
+       "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/18/always-been-the-most-beautiful-trump-reunites-with-imelda-marcos-in-manila"
+      },
+      {
+       "n": "EFE (Unitel)",
+       "u": "https://unitel.bo/noticias/agencias/miercoles-18-de-noviembre-de-2026-0800-gmt-IJ24874408"
+      }
+     ]
+    },
+    {
+     "kicker": "Oriente Médio",
+     "quando": "Ontem",
      "titulo": "Petroleiro atingido duas vezes em dois dias pega fogo em Ormuz, e tripulação está desaparecida",
-     "resumo": "Segundo a agência britânica UKMTO, o navio bateu numa mina ao norte de Khasab, em Omã, numa área que o Irã considera restrita; a Guarda Revolucionária atribui os incêndios a minas, versão sem confirmação independente. A Euronews contabiliza sete petroleiros atingidos em 72 horas, e Trump disse que o Irã pagará um preço alto se ameaçar os EUA.",
+     "resumo": "Segundo a agência britânica UKMTO, o navio bateu numa mina ao norte de Khasab, em Omã; agências portuguesas relatam um desaparecido e 11 feridos no ataque. A Guarda Revolucionária iraniana atribui os incêndios a minas, versão sem confirmação independente, e Trump disse que o Irã pagará um preço alto se ameaçar os EUA.",
      "fontes": [
       {
        "n": "TV Sim Brasil",
        "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/17/tripulacao-petroleiro-desaparecida-ataque-ormuz"
       },
       {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/mundo/petroleiro-atinge-mina-naval-em-ormuz-e-tripulacao-desaparece-apos-incendio/"
+       "n": "Notícias ao Minuto",
+       "u": "https://www.noticiasaominuto.com/mundo/3085928/irao-ataque-a-petroleiro-no-estreito-de-ormuz-fez-um-desaparecido-e-11-feridos"
       },
       {
-       "n": "DGABC (Estadão Conteúdo)",
-       "u": "https://www.dgabc.com.br/Noticia/4369347/petroleo-fecha-em-alta-com-ataques-crescentes-a-embarcacoes-no-estreito-de-ormuz"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/mundo/petroleiro-atinge-mina-naval-em-ormuz-e-tripulacao-desaparece-apos-incendio/"
       },
       {
        "n": "IstoÉ",
@@ -605,7 +629,7 @@
     },
     {
      "kicker": "Ucrânia",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Kremlin diz que a Europa dificilmente terá papel nas negociações de paz, enquanto Kiev pede trégua de inverno",
      "resumo": "O porta-voz Dmitri Peskov afirmou que a postura europeia é contrária à paz, e o assessor Yuri Ushakov negou que a participação do bloco esteja acertada; os enviados americanos Steve Witkoff e Jared Kushner dizem esperar os europeus nas próximas rodadas em Abu Dhabi. Os ataques continuam: na segunda, mísseis russos atingiram pontes em Kiev, e a Ucrânia voltou a mirar a ponte da Crimeia.",
      "lados": [
@@ -639,31 +663,7 @@
     },
     {
      "kicker": "Ásia",
-     "quando": "Hoje",
-     "titulo": "Trump chega a Manila sob protestos e reforça laços com Quad e Asean antes de encontrar Xi e Putin na China",
-     "resumo": "Manifestantes entraram em choque com a polícia em Manila e Cebu, e mais de 200 pessoas foram presas no domingo. O encontro com o presidente filipino está marcado para quarta; depois, Trump vai à reunião da Apec em Shenzhen, onde deve ver Xi Jinping e Vladimir Putin.",
-     "fontes": [
-      {
-       "n": "Time",
-       "u": "https://time.com/article/2026/11/17/trump-philippines-marcos-manila-asean-protests-pax-silica/"
-      },
-      {
-       "n": "KPBS (NPR)",
-       "u": "https://www.kpbs.org/news/international/2026/11/17/trump-arrives-in-philippines-to-kick-off-asia-trip"
-      },
-      {
-       "n": "CBS News",
-       "u": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mundo/trump-chega-as-filipinas-para-viagem-a-asia-com-foco-em-comercio-e-seguranca-regional/"
-      }
-     ]
-    },
-    {
-     "kicker": "Ásia",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Presidente da Mongólia, Ukhnaa Khurelsukh, anuncia renúncia um dia após acusações de corrupção",
      "resumo": "A oposição o acusou de envolvimento em irregularidades num projeto ferroviário e ameaçou abrir processo de impeachment; ele nega e diz que deixa o cargo para limpar o nome. O presidente do Parlamento assume interinamente, e a nova eleição deve ocorrer em até quatro meses.",
      "fontes": [
@@ -680,26 +680,6 @@
        "u": "https://biobiochile.cl/noticias/internacional/asia/2026/11/17/dimite-el-presidente-de-mongolia-tras-acusaciones-de-supuesta-corrupcion-por-un-proyecto-ferroviario.shtml"
       }
      ]
-    },
-    {
-     "kicker": "Vaticano",
-     "quando": "Ontem",
-     "titulo": "Papa Leão XIV encerra no Peru a primeira viagem à América do Sul e volta a Roma",
-     "resumo": "Em 12 dias por Uruguai, Argentina e Peru, os eventos reuniram cerca de 12 milhões de pessoas, segundo a CNN. O papa, que viveu duas décadas no Peru, celebra missa em Lima antes de embarcar; na Amazônia peruana, criticou o desmatamento ligado à extração de ouro e petróleo.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/papa-leao-encerra-viagem-a-america-do-sul-apos-reunir-12-milhoes-de-fieis/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/leao-xiv-peru-viagem-mais-longa-papado"
-      },
-      {
-       "n": "EFE (Infobae)",
-       "u": "https://www.infobae.com/america/agencias/2026/11/16/temas-del-dia-de-efe-internacional-del-lunes-16-de-noviembre-1200-gmt/"
-      }
-     ]
     }
    ]
   },
@@ -707,11 +687,55 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Portugal e Noruega nas quartas, Brasileirão amanhã",
+   "nota": "Rodada decisiva e goleada argentina",
    "itens": [
     {
-     "kicker": "Seleção",
+     "kicker": "Brasileirão",
      "quando": "Hoje",
+     "titulo": "Flamengo pode ficar a uma vitória do título se vencer o Athletico-PR; Palmeiras visita o Cruzeiro no mesmo horário",
+     "resumo": "Os dois jogos da 35ª rodada começam às 20h30. Líder com 76 pontos, o Flamengo terá força máxima no Maracanã, e o técnico Leonardo Jardim diz que não vai poupar ninguém apesar de oito pendurados; se o Palmeiras, com 73, perder no Mineirão, um empate no confronto direto de sábado garante o título rubro-negro.",
+     "fontes": [
+      {
+       "n": "Mais Minas",
+       "u": "https://maisminas.com.br/futebol/flamengo-recebe-athletico-para-ficar-perto-do-titulo/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/flamengo/flamengo-tera-forca-maxima-contra-o-athletico-pelo-brasileirao-veja-escalacao,06193e721b0079fe380163bd423ec8b8b948szqn.html"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-x-palmeiras-pelo-brasileirao-tudo-sobre-35-rodada"
+      },
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-quarta-feira-18-11-2026.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Amistoso",
+     "quando": "Ontem",
+     "titulo": "Argentina goleia a Costa Rica por 7 a 0 em Córdoba no último jogo do ano",
+     "resumo": "Nico Paz, Julián Álvarez e Mastantuono marcaram dois gols cada, e Mac Allister fez o outro no Estádio Mario Kempes. A seleção vinha de derrota por 2 a 1 para o Uruguai, no sábado, na Bombonera.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/argentina-goleia-costa-rica-em-cordoba-no-ultimo-amistoso-da-temporada"
+      },
+      {
+       "n": "La Nación",
+       "u": "https://www.lanacion.com.ar/deportes/canchallena/argentina-vencio-7-0-a-costa-rica-en-un-amistoso-internacional-nid17112026/"
+      },
+      {
+       "n": "ESPN",
+       "u": "https://www.espn.com/soccer/match/_/gameId/401930895/costa-rica-argentina"
+      }
+     ]
+    },
+    {
+     "kicker": "Seleção",
+     "quando": "Ontem",
      "titulo": "Com três gols de Vini Jr., Brasil goleia Singapura por 7 a 0 e fecha 2026 com a maior vitória desde 2012",
      "resumo": "Endrick, Estêvão, Rayan e o estreante Allan completaram o placar no Estádio Nacional de Singapura, com Ancelotti suspenso fora do banco. Os jogadores usaram faixa preta em homenagem a Dino Sani, campeão do mundo em 1958; a Seleção só volta a campo na Data Fifa de 22 a 30 de março de 2027, e a CBF busca um rival europeu.",
      "fontes": [
@@ -734,54 +758,10 @@
      ]
     },
     {
-     "kicker": "Liga das Nações",
-     "quando": "Hoje",
-     "titulo": "Portugal vence Gales por 3 a 2 e Noruega vira sobre a Dinamarca com dois de Haaland; os dois vão às quartas",
-     "resumo": "Em Cardiff, Bruno Fernandes, Pedro Neto e Carlos Forbs marcaram para Portugal, que fechou o grupo em primeiro, com 15 pontos. Em Copenhague, a Noruega perdia por 2 a 0, empatou com Haaland e Ødegaard e venceu com pênalti de Haaland nos acréscimos, eliminando a Dinamarca no confronto direto; à noite, a Argentina enfrenta a Costa Rica em Córdoba, às 20h, sem Messi.",
-     "fontes": [
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/portugal-vence-gales-e-avanca-as-quartas-liderando-grupo-da-liga-das-nacoes/"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/uefa-nations-league/haaland-faz-dois-noruega-vira-sobre-dinamarca-no-fim-e-vai-as-quartas-da-liga-das-nacoes/"
-      },
-      {
-       "n": "24 Notícias",
-       "u": "https://24noticias.sapo.pt/desporto/artigos/portugal-garante-1-o-lugar-do-grupo-na-liga-das-nacoes-apos-vencer-pais-de-gales"
-      },
-      {
-       "n": "Diário do Pará",
-       "u": "https://diariodopara.com.br/ao-vivo/argentina-costa-rica-amistoso-onde-assistir/"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Hoje",
-     "titulo": "Líder com 76 pontos, Flamengo recebe o Athletico-PR na quarta; Palmeiras, com 73, visita o Cruzeiro",
-     "resumo": "Os dois jogos da 35ª rodada começam às 20h30: no Maracanã, o Athletico não terá o artilheiro Kevin Viveros, suspenso pelo STJD, e o Flamengo tem oito jogadores pendurados antes do confronto direto com o Palmeiras. O Cruzeiro, terceiro colocado com 60 pontos, recebe o Palmeiras no Mineirão; a Chapecoense já está rebaixada.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/onde-assistir/2026/11/17/flamengo-x-athletico-pr-onde-assistir-horario-e-escalacoes-pelo-brasileirao"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/cruzeiro-x-palmeiras-retrospecto-provaveis-escalacoes-e-onde-assistir-pelo-campeonato-brasileiro,61201f2ffd61f416620dd872007e0951d5ovl7x3.html"
-      },
-      {
-       "n": "Coluna do Fla",
-       "u": "https://colunadofla.com/2026/11/brasileirao-cbf-escala-klein-e-daronco-para-jogos-flamengo-x-athletico-pr-e-cruzeiro-x-palmeiras/"
-      }
-     ]
-    },
-    {
      "kicker": "Sul-Americana",
      "quando": "Ontem",
-     "titulo": "Atlético-MG treina até quarta antes de viajar para a final contra o Boca Juniors, no sábado (21), em Barranquilla",
-     "resumo": "A decisão em jogo único será às 19h30 de Brasília, no Estádio Roberto Meléndez. Vice na temporada passada, o Atlético busca o primeiro título da competição e pode ter de volta Maycon, Victor Hugo e Thiago Borbas.",
+     "titulo": "Atlético-MG faz último treino antes de viajar para a final da Sul-Americana contra o Boca Juniors, no sábado (21)",
+     "resumo": "A decisão em jogo único será no Estádio Roberto Meléndez, em Barranquilla, na Colômbia. Vice na temporada passada, o Atlético busca o primeiro título da competição e pode ter de volta Maycon, Victor Hugo e Thiago Borbas.",
      "fontes": [
       {
        "n": "Itatiaia",
@@ -799,7 +779,7 @@
     },
     {
      "kicker": "Fórmula 1",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Mercedes leva motor atualizado só para o carro de Antonelli em Las Vegas; Bortoleto projeta reação",
      "resumo": "A equipe confirmou que a nova versão do motor estreia apenas no carro do italiano, já campeão, na corrida da madrugada de domingo. Bortoleto, da Audi, admitiu que o GP de São Paulo não saiu como queria e diz confiar numa pista bem diferente.",
      "fontes": [
@@ -823,16 +803,44 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Pesquisa no SUS, vacinas e seleção",
+   "nota": "Sarampo nas Américas e vacinas",
    "itens": [
     {
-     "kicker": "Covid-19",
-     "quando": "Hoje",
-     "titulo": "Ministério da Saúde envia doses extras de vacina contra a covid a dez estados",
-     "resumo": "São Paulo recebe mais de 500 mil doses, Rio 350 mil e Minas 290 mil, para repor estoques e seguir vacinando crianças, gestantes e idosos. O reforço chega depois de a Fiocruz apontar alta de casos graves em alguns estados.",
+     "kicker": "Sarampo",
+     "quando": "Ontem",
+     "titulo": "Opas retira de EUA, México e Bolívia o status de países que eliminaram o sarampo",
+     "resumo": "Os três tiveram mais de 12 meses de transmissão contínua do vírus; os EUA mantinham o certificado havia 26 anos e somam mais de 5,4 mil casos em 2026, a maioria em pessoas não vacinadas. Para recuperar o status, precisam apresentar plano de ação e comprovar um ano sem circulação; o Brasil mantém a certificação e recebe apoio técnico da Opas para reforçar a vigilância.",
      "foto": {
       "src": "fotos/vacina.jpg",
       "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eua-perdem-status-de-eliminacao-do-sarampo-apos-quase-tres-decadas"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/mundo/america-latina/sarampo-avanca-nas-americas-e-eua-perdem-certificacao-de-eliminacao-da-doenca-apos-26-anos,accbcf445e0b507c97a7c7d690273eb8up50641o.html"
+      },
+      {
+       "n": "A Gazeta",
+       "u": "https://www.agazeta.com.br/mundo/por-que-eua-perderam-certificado-de-eliminacao-do-sarampo-apos-26-anos-1126"
+      },
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quarta-feira-18-de-novembro-de-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Covid-19",
+     "quando": "Ontem",
+     "titulo": "Ministério da Saúde envia doses extras de vacina contra a covid a dez estados",
+     "resumo": "São Paulo recebe mais de 500 mil doses, Rio 350 mil e Minas 290 mil, para repor estoques e seguir vacinando crianças, gestantes e idosos. O reforço chega depois de a Fiocruz apontar alta de casos graves em alguns estados.",
+     "foto": {
+      "src": "fotos/sarampo.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
@@ -851,7 +859,7 @@
     },
     {
      "kicker": "Pesquisa",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ministério da Saúde lança os quatro primeiros projetos do Acelera SUS, com R$ 67 milhões para novas terapias",
      "resumo": "Entre eles estão um biossensor portátil que identifica pela saliva sinais de metástase do câncer de boca e uma tecnologia para eliminar proteínas ligadas ao câncer e ao Alzheimer. Os anúncios foram feitos no CNPEM, em Campinas; depois dos testes, as tecnologias ainda precisam passar pela Anvisa antes de chegar ao SUS.",
      "fontes": [
@@ -862,48 +870,8 @@
      ]
     },
     {
-     "kicker": "Mpox",
-     "quando": "Ontem",
-     "titulo": "Rio confirma a primeira morte por mpox do país em 2026, e ministério diz ter comprado 25 mil doses de vacina",
-     "resumo": "A vítima morava na capital; o estado tem cerca de 400 casos no ano, dois terços deles desde meados de setembro, e passou a divulgar boletim diário. A vacina, em duas doses com intervalo de 28 dias, segue restrita a grupos de maior risco, como pessoas com HIV, profissionais de laboratório e contatos de casos.",
-     "fontes": [
-      {
-       "n": "Tribuna de Minas (Agência Brasil)",
-       "u": "https://tribunademinas.com.br/especiais/saude/16-11-2026/rio-de-janeiro-confirma-primeira-morte-por-mpox-em-2026-no-brasil.html"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox"
-      },
-      {
-       "n": "Tribuna PR",
-       "u": "https://www.tribunapr.com.br/saude-e-bem-estar/rio-de-janeiro-registra-396-casos-de-mpox-e-uma-morte-em-2026/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/saude-e-bem-estar/2026/11/16/mpox-rio-passa-a-atualizar-diariamente-os-dados-da-doenca-que-tem-396-casos-confirmados-e-uma-morte"
-      }
-     ],
-     "foto": {
-      "src": "fotos/sarampo.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     }
-    },
-    {
-     "kicker": "Planos de saúde",
-     "quando": "Ontem",
-     "titulo": "ANS inclui exame genético e remédio oral para câncer de pulmão na cobertura obrigatória dos planos",
-     "resumo": "A resolução publicada no Diário Oficial inclui o painel genético NGS para casos avançados de câncer de pulmão de não pequenas células e o medicamento tepotinibe, para pacientes com uma mutação específica. As coberturas passam a valer em fevereiro de 2027.",
-     "fontes": [
-      {
-       "n": "SC Real (Agência Brasil)",
-       "u": "https://www.screal.tv.br/noticia/31920/noticias-do-brasil/noticias-do-brasil/ans-amplia-cobertura-obrigatoria-para-tratamento-de-cancer-de-pulmao.html"
-      }
-     ]
-    },
-    {
      "kicker": "Concurso",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ministério da Saúde abre seleção temporária com 759 vagas e salários de até R$ 10,3 mil",
      "resumo": "São 300 vagas imediatas e 459 de cadastro reserva, todas de nível superior, em Brasília e outras seis capitais. As inscrições vão até 14 de dezembro, com taxa de R$ 60, e a prova está marcada para 17 de janeiro.",
      "fontes": [
@@ -927,40 +895,40 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Gabarito do Enem e Fies",
+   "nota": "Gabarito do Enem e prazo do Fies",
    "itens": [
     {
-     "kicker": "Reaplicação",
+     "kicker": "Enem",
      "quando": "Hoje",
-     "titulo": "Gabarito oficial do Enem sai nesta quarta (18); pedidos de reaplicação vão até sexta (20)",
-     "resumo": "Podem pedir quem teve problema logístico no local de prova ou doença infectocontagiosa prevista no edital, pela Página do Participante; as provas extras serão em 15 e 16 de dezembro. As notas individuais saem em 18 de janeiro e valem para Sisu, Prouni e Fies.",
+     "titulo": "Inep divulga nesta quarta o gabarito oficial do Enem; notas saem em 18 de janeiro",
+     "resumo": "As respostas ficam disponíveis no site do Inep e no aplicativo do exame. Os pedidos de reaplicação, para quem teve problema logístico ou doença prevista no edital, vão até sexta (20), e as provas extras serão em 15 e 16 de dezembro, incluindo participantes afetados pela queda de energia em 11 locais.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/Knn4ZnRpdtilHhzFmdV6ItFbNQY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/15/pzzb0368.jpg?itok=tr3TFdVu",
+      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil"
+     },
      "fontes": [
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/gabarito-do-enem-sai-na-quarta-feira-e-resultado-em-18-de-janeiro"
       },
       {
-       "n": "Sou Brasília",
-       "u": "https://soubrasilia.com/reaplicacao-enem-2026-pedido-16-a-20-novembro-provas-15-16-dezembro/"
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/enem-2026-gabarito-oficial-sai-hoje-veja-como-consultar"
       },
       {
-       "n": "News Rondônia",
-       "u": "https://newsrondonia.com.br/educacao/2026/11/10/inep-abre-prazo-para-pedido-de-reaplicacao-do-enem-2026-a-partir-do-dia-16-de-novembro"
+       "n": "Diario de Pernambuco",
+       "u": "https://www.diariodepernambuco.com.br/brasil/2026/11/11729405-gabarito-do-enem-e-divulgado-nesta-quarta-feira-18-saiba-como-acessar.html"
       },
       {
-       "n": "Folha do Leste",
-       "u": "https://folhadoleste.com.br/gabarito-oficial-enem-2026-data-notas-reaplicacao/"
+       "n": "TechTudo",
+       "u": "https://www.techtudo.com.br/dicas-e-tutoriais/2026/11/gabarito-oficial-do-enem-2026-sai-quarta-feira-veja-onde-consultar-edsoftwares.ghtml"
       }
-     ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/Z2mNsQ5lWQL4xHhftpdFlqEw8ws=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/15/pzzb0527.jpg?itok=LIjqokwH",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil"
-     }
+     ]
     },
     {
      "kicker": "Fies",
      "quando": "Hoje",
-     "titulo": "Pré-selecionados para as 50 mil vagas remanescentes do Fies têm até quarta (18) para validar dados",
+     "titulo": "Termina nesta quarta (18) o prazo para pré-selecionados do Fies validarem os dados na faculdade",
      "resumo": "A validação é feita na comissão do Fies da faculdade em que o estudante foi pré-selecionado; metade das vagas é do Fies Social, que pode financiar até 100% da mensalidade. Quem não foi chamado entra na lista de espera, com convocações de 25 a 30 de novembro.",
      "fontes": [
       {
@@ -979,7 +947,7 @@
     },
     {
      "kicker": "Ensino superior",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Hospitais privados como Einstein e Rede D'Or abrem cursos de medicina com vagas para 2027",
      "resumo": "O curso do instituto da Rede D'Or foi autorizado pelo MEC em 5 de novembro e oferece 50 vagas no Rio, com inscrições até 30 de novembro. O número de cursos de medicina no país passou de 181 em 2010 para 467 em 2025.",
      "fontes": [
@@ -1003,13 +971,57 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Balanço da Nvidia e reta final da COP31",
+   "nota": "IPO da Anthropic, Nvidia e Voyager 1",
    "itens": [
     {
-     "kicker": "Inteligência artificial",
+     "kicker": "IPO",
      "quando": "Hoje",
+     "titulo": "Anthropic, dona do Claude, define nesta quarta o preço das ações que estreiam na Nasdaq na quinta (19)",
+     "resumo": "A faixa indicativa é de US$ 70 a US$ 78 por ação, com 825 milhões de papéis e o código ANT; somada a aportes de US$ 26 bilhões de empresas como Google, Nvidia e Microsoft, a operação pode render cerca de US$ 84,6 bilhões líquidos, segundo a Exame. A avaliação fica entre US$ 916 bilhões e US$ 1,02 trilhão, e especialistas divergem sobre o preço.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/inteligencia-artificial/ipo-anthropic-nasdaq-19-de-novembro/"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/investimentos/acoes/radar-dos-ipos/ipo-anthropic-nasdaq-valuation-especialistas"
+      },
+      {
+       "n": "KuCoin News",
+       "u": "https://kucoin.com/pt/news/flash/anthropic-to-list-on-nasdaq-with-70-78-ipo-price-and-84-6b-expected-raise"
+      }
+     ]
+    },
+    {
+     "kicker": "Espaço",
+     "quando": "Hoje",
+     "titulo": "Voyager 1 chega nesta quarta a um dia-luz da Terra, quase 50 anos após o lançamento",
+     "resumo": "A sonda da Nasa estará a cerca de 25,9 bilhões de quilômetros, e um sinal levará 24 horas para alcançá-la. Com a energia em queda, a equipe desliga instrumentos para prolongar a missão, que em 2012 levou o primeiro objeto humano ao espaço interestelar.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/ciencia/2026/11/18/voyager-1-se-aproxima-de-marca-historica-apos-quase-50-anos-no-espaco"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/tecnologia/voyager-1-deve-atingir-marco-historico-no-espaco-o-que-isso-significa/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/mundo/voyager-1-chegara-um-dia-luz-terra-em-novembro/"
+      },
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/16/um-dia-luz-49-anos-apos-o-lancamento-voyager-1-vai-atingir-marco-inedito-na-exploracao-espacial/"
+      }
+     ]
+    },
+    {
+     "kicker": "Inteligência artificial",
+     "quando": "Ontem",
      "titulo": "Nvidia fatura US$ 115,8 bilhões no trimestre, o dobro de um ano atrás, e ações sobem após o balanço",
-     "resumo": "O lucro foi de US$ 65,3 bilhões, e a receita de data centers cresceu 110%, puxada pelo novo chip Vera Rubin; para o próximo trimestre, a empresa prevê US$ 130 bilhões. Foi o primeiro resultado desde a saída de Jensen Huang, em 12 de novembro; Colette Kress é a CEO interina, e as ações subiram mais de 3% no pós-mercado.",
+     "resumo": "O lucro foi de US$ 65,3 bilhões, e a receita de data centers cresceu 110%; para o próximo trimestre, a empresa prevê cerca de US$ 130 bilhões. Foi o primeiro resultado desde a saída de Jensen Huang; as ações subiram quase 5% no pós-mercado, e o Kospi, de Seul, avançou 1,99% nesta quarta.",
      "fontes": [
       {
        "n": "Exame",
@@ -1020,16 +1032,20 @@
        "u": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
       },
       {
-       "n": "Notibrasil",
-       "u": "https://www.notibrasil.com.br/economia/noticia-nvidia-supera-as-expectativas-lucra-59335-milhes-no-terceiro-trimestre-um-aumento-105-20261117223947.html"
+       "n": "Stock Titan",
+       "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-sem-direcao-unica-apos-balanco-e-projecoes-da-nvidia-fets/"
       }
      ]
     },
     {
      "kicker": "COP31",
      "quando": "Hoje",
-     "titulo": "COP31 entra na reta final dividida sobre combustíveis fósseis e financiamento, depois da recusa europeia ao rascunho",
-     "resumo": "Faltando três dias para o encerramento em Antália, na Turquia, os negociadores ainda divergem sobre o abandono dos combustíveis fósseis, que o primeiro texto propõe sem data, e sobre o dinheiro para países pobres. A proteção dos oceanos dominou o dia, com novos compromissos anunciados; a votação final está prevista para sexta (20).",
+     "titulo": "COP31 espera novo rascunho do acordo depois da recusa europeia; votação final está prevista para sexta (20)",
+     "resumo": "A União Europeia rejeitou o primeiro texto, que propõe o abandono gradual dos combustíveis fósseis sem data, e cobra mais ambição; os negociadores em Antália, na Turquia, também divergem sobre o financiamento a países pobres. O Brasil apresentou na conferência um marco de financiamento para a área da saúde.",
      "fontes": [
       {
        "n": "DN",
@@ -1052,70 +1068,6 @@
       "src": "https://imagens.ebc.com.br/94SQjjcu4cTte9q4jZB3BziTpsI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/floresta-211016ebc0489.jpg?itok=raMYT_E0",
       "credito": "Valter Campanato/Agência Brasil (arquivo)"
      }
-    },
-    {
-     "kicker": "Espaço",
-     "quando": "Hoje",
-     "titulo": "Voyager 1 se torna na quarta (18) o primeiro objeto humano a um dia-luz da Terra",
-     "resumo": "Lançada em 1977, a sonda da Nasa estará a cerca de 25,9 bilhões de quilômetros; um sinal levará 24 horas para chegar, e uma mensagem e sua resposta, ao menos 48 horas.",
-     "fontes": [
-      {
-       "n": "Anadolu",
-       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
-      },
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/curiosidades/2026/06/21/e-oficial-a-voyager-1-vai-ultrapassar-a-marca-de-1-dia-luz-em-18-de-novembro-de-2026/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/mundo/voyager-1-chegara-um-dia-luz-terra-em-novembro/"
-      }
-     ]
-    },
-    {
-     "kicker": "IPO",
-     "quando": "Ontem",
-     "titulo": "Anthropic, dona do Claude, fixa preço na quarta e estreia na Nasdaq na quinta (19), com faixa de US$ 70 a US$ 78 por ação",
-     "resumo": "A oferta de 825 milhões de ações pode levantar cerca de US$ 64 bilhões no topo da faixa, segundo a Exame; Google, Nvidia, Microsoft e outras quatro empresas se comprometeram a investir mais US$ 26 bilhões. Especialistas divergem sobre o preço pedido.",
-     "fontes": [
-      {
-       "n": "Exame",
-       "u": "https://exame.com/inteligencia-artificial/ipo-anthropic-nasdaq-19-de-novembro/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/"
-      },
-      {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/investimentos/acoes/radar-dos-ipos/ipo-anthropic-nasdaq-big-techs-2"
-      }
-     ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "Ontem",
-     "titulo": "EUA passam a exigir licença para venda de chips avançados de IA a data centers no Brasil e em quatro países asiáticos",
-     "resumo": "A regra provisória do Departamento de Comércio, que vale quando for publicada no Federal Register, atinge Brasil, Singapura, Malásia, Tailândia e Indonésia e busca impedir que a China use capacidade de computação no exterior; empresas americanas instaladas nesses países ficam isentas. A medida segue o escândalo que levou à saída de Jensen Huang da Nvidia, cujas ações chegaram a cair 2,9%.",
-     "fontes": [
-      {
-       "n": "InfoMoney (Bloomberg)",
-       "u": "https://www.infomoney.com.br/business/brasil-entra-na-mira-de-nova-restricao-dos-eua-para-chips-avancados-de-ia/"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/mundo/eua-restringem-acesso-chines-a-chips-de-ia-e-incluem-brasil"
-      },
-      {
-       "n": "DCD",
-       "u": "https://www.datacenterdynamics.com/br/not%C3%ADcias/eua-passam-a-exigir-licen%C3%A7a-para-exporta%C3%A7%C3%A3o-de-chips-avan%C3%A7ados-de-ia-ao-brasil/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/global/trump-chips-avancados-de-ia/"
-      }
-     ]
     }
    ]
   },
@@ -1127,19 +1079,27 @@
    "itens": [
     {
      "kicker": "Música",
-     "quando": "Hoje",
-     "titulo": "Mariah Carey apresenta show de Natal nesta terça em São Paulo",
-     "resumo": "O espetáculo \"Christmas Time\" começa às 21h no Nubank Parque, na zona oeste, com portões abertos desde as 16h. Menores de 5 a 15 anos só entram acompanhados dos pais ou responsáveis.",
+     "quando": "Ontem",
+     "titulo": "Mariah Carey estreia no Brasil o show de Natal com clássicos natalinos e sucessos da carreira",
+     "resumo": "No Nubank Parque, em São Paulo, a cantora abriu com \"Hark! The Herald Angels Sing\", desejou feliz Natal em português e incluiu \"Fantasy\", \"Always Be My Baby\" e \"We Belong Together\". O encerramento, com \"All I Want for Christmas Is You\", teve confete e fogos; a turnê segue para o Rio nos próximos dias.",
      "fontes": [
       {
-       "n": "Expresso Carioca",
-       "u": "https://www.expressocarioca.com.br/mariah-carey-chega-hoje17-a-sao-paulo-com-seu-espetaculo-especial-de-natal/"
+       "n": "Rádio Mix FM",
+       "u": "https://radiomixfm.com.br/mariah-carey-traz-magia-do-natal-para-sao-paulo-e-presenteia-fas-de-pop-com-show-empolgante/"
+      },
+      {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/musica/mariah-carey-turne-natalina-brasil-shows-sp-rj/"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/pop/mariah-carey-em-sp-horario-como-chegar-e-possivel-setlist-desta-terca-feira/"
       }
      ]
     },
     {
      "kicker": "Cinema",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "\"Jogos Vorazes: Amanhecer na Colheita\" lidera as 15 estreias que chegam aos cinemas na quinta (19)",
      "resumo": "Além do novo filme da franquia, a semana traz o brasileiro \"Camisas Negras\", o documentário \"As Travessias de Letieres Leitte\" e a reestreia de \"Malês\", entre outros. As datas podem mudar conforme a programação das salas.",
      "fontes": [
@@ -1154,8 +1114,28 @@
      ]
     },
     {
+     "kicker": "Polícia",
+     "quando": "16/11",
+     "titulo": "Vocalistas gêmeos do grupo Vou Zuar são presos em Barbacena (MG) suspeitos de estupro após show",
+     "resumo": "Bruno e Thiago Paiva foram levados do hotel à delegacia após denúncia de uma mulher que diz ter perdido a consciência numa van e sido vítima de relações sem consentimento; exames apontaram lesões, segundo o registro policial. Thiago disse à polícia que a relação foi consensual, e Bruno negou ter tido contato com ela; a banda pediu respeito à presunção de inocência.",
+     "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/diversao/gente/dupla-de-pagodeiros-e-presa-apos-denuncia-de-grave-crime-sexual,f0dcb6ba5e96045246a76c7bef589b1ela26i9su.html"
+      },
+      {
+       "n": "Diário do Pará",
+       "u": "https://diariodopara.com.br/noticias/brasil/quem-sao-os-gemeos-pagodeiros-presos-suspeitos-de-estuprar-mulher-em-hotel-apos-show/"
+      },
+      {
+       "n": "BNews",
+       "u": "https://bnews.com.br/noticias/entretenimento/posicionamento-de-grupo-de-pagode-sobre-caso-de-estupro-revolta-internautas-culpando-a-vitima.html"
+      }
+     ]
+    },
+    {
      "kicker": "Despedida",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Salvador se despede do guitarrista Aroldo Macêdo, herdeiro da tradição do trio elétrico",
      "resumo": "O músico morreu no domingo, aos 68 anos, e foi velado nesta terça no Bosque da Paz, com apresentação em sua homenagem. Ele tinha sido diagnosticado com uma doença neurodegenerativa rara; a família não informou a causa da morte.",
      "fontes": [
@@ -1166,54 +1146,6 @@
       {
        "n": "A Tarde",
        "u": "https://atarde.com.br/musica/aroldo-macedo-e-homenageado-com-musica-e-axe-durante-despedida-1409731"
-      }
-     ]
-    },
-    {
-     "kicker": "Luto",
-     "quando": "Ontem",
-     "titulo": "Ator Rogério Fróes, de \"O Bem-Amado\" e \"Vale Tudo\", é velado no Rio em cerimônia reservada",
-     "resumo": "Fróes morreu na sexta (13), aos 92 anos, segundo a filha, a atriz Gisele Fróes; a causa não foi divulgada. Com carreira de seis décadas na TV, no teatro e no cinema, ele interpretou Getúlio Vargas no Palácio do Catete na peça \"O Tiro que Mudou a História\".",
-     "fontes": [
-      {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/ator-rogerio-froes-sera-velado-nesta-segunda-em-cerimonia-reservada-no-memorial-do-carmo-no-caju/"
-      },
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/15/velorio-de-rogerio-froes-no-rio/"
-      },
-      {
-       "n": "Portal de Prefeitura",
-       "u": "https://portaldeprefeitura.com.br/entretenimento/rogerio-froes-relembre-novelas-filmes-e-pecas-marcantes-da-carreira/636031/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/fabia-oliveira/edwin-luisi-destaca-legado-de-rogerio-froes-durante-velorio-do-ator"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "Ontem",
-     "titulo": "Anitta comemora indicação ao Grammy por \"Equilibrivm\" e diz se sentir vencedora; Raye lidera a lista de 2027",
-     "resumo": "Em transmissão ao vivo, a cantora disse estar honrada com a terceira indicação ao prêmio, a segunda na categoria de álbum. A britânica Raye lidera a lista, seguida de Rosalía; Taylor Swift, Olivia Rodrigo e Bruno Mars estão entre os concorrentes a Álbum do Ano, e a cerimônia será em 7 de fevereiro, em Los Angeles.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/2026/11/16/anitta-celebra-indicacao-no-grammy-americano-me-sinto-vencedora"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/entretenimento/grammy-2027-indicados-anitta-eliane-elias-taylor-swift-rosalia/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/cultura/anitta-indicada-grammy-2027/"
-      },
-      {
-       "n": "POPLine",
-       "u": "https://portalpopline.com.br/anitta-tem-compromisso-brasil-dia-grammy-2027/"
       }
      ]
     }
