@@ -1,34 +1,34 @@
 {
  "data": "Quarta-feira, 18 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "18/11/2026 · 12h33 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 11h00",
- "fontes": 76,
+ "edicao": "Edição da noite",
+ "atualizado": "18/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 17h30",
+ "fontes": 85,
  "mercado": [
   {
-   "nome": "Ibovespa · 11h",
-   "valor": "169.675 pts",
-   "var": "-0,08%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "167.538 pts",
+   "var": "-1,34%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · 10h40",
-   "valor": "R$ 5,82",
-   "var": "+0,57%",
+   "nome": "Dólar comercial · fechamento",
+   "valor": "R$ 5,87",
+   "var": "+1,46%",
    "dir": "up"
   },
   {
-   "nome": "DI jan/2029 · 11h",
-   "valor": "14,91%",
-   "var": "+0,08 p.p.",
-   "dir": "up"
-  },
-  {
-   "nome": "Petróleo Brent · 11h",
-   "valor": "US$ 92,65",
-   "var": "-0,53%",
+   "nome": "Petróleo Brent · 17h30",
+   "valor": "US$ 91,95",
+   "var": "-1,28%",
    "dir": "down"
+  },
+  {
+   "nome": "Juros nos EUA · Fed",
+   "valor": "3,75% a 4%",
+   "var": "ata vê novas altas",
+   "dir": ""
   },
   {
    "nome": "Selic · Copom",
@@ -39,34 +39,34 @@
  ],
  "agenda": [
   {
-   "hora": "Qua 18/11 · 16h",
-   "txt": "Senado vota os quatro destaques do ajuste fiscal; no mesmo horário, o Fed divulga a ata da última reunião",
-   "cat": "politica"
-  },
-  {
    "hora": "Qua 18/11 · noite",
    "txt": "Brasileirão: Coritiba x Santos (19h30), Remo x Chapecoense (20h), Flamengo x Athletico-PR e Cruzeiro x Palmeiras (20h30), Corinthians x Botafogo e Grêmio x Bahia (21h30)",
    "cat": "esporte"
   },
   {
    "hora": "Qui 19/11",
-   "txt": "Trump, Xi e Putin fazem reunião a três em Shenzhen no fim da Apec; ações da Anthropic estreiam na Nasdaq; Conselho Monetário Nacional se reúne às 9h; Fluminense x São Paulo às 21h30",
+   "txt": "Trump tem reunião a sós com Putin e encontro a três com Xi em Shenzhen; ações da Anthropic estreiam na Nasdaq; CMN se reúne às 9h; PRF começa operação do feriado",
    "cat": "mundo"
   },
   {
    "hora": "Sex 20/11",
-   "txt": "Feriado nacional da Consciência Negra, sem pregão na B3; prazo final de negociação na COP31; alerta de risco geológico em BH vale até este dia",
+   "txt": "Feriado nacional da Consciência Negra, sem pregão na B3; prazo final de negociação na COP31",
    "cat": "brasil"
   },
   {
    "hora": "Sáb 21/11",
-   "txt": "Atlético-MG e Boca Juniors decidem a Sul-Americana em Barranquilla (19h30); Palmeiras x Flamengo no Nubank Parque (16h30); Roger Daltrey canta no Ibirapuera",
+   "txt": "Atlético-MG x Boca Juniors na final da Sul-Americana, em Barranquilla (19h30); Palmeiras x Flamengo (16h30); Mariah Carey canta no Rio",
    "cat": "esporte"
   },
   {
-   "hora": "Ter 24/11",
-   "txt": "Câmara deve votar o projeto de ajuste fiscal, se o Senado concluir a análise nesta semana",
+   "hora": "Próxima semana",
+   "txt": "Senado faz o turno suplementar do ajuste fiscal, e o texto segue para a Câmara; o Planalto quer a sanção na semana que vem",
    "cat": "politica"
+  },
+  {
+   "hora": "Sáb 28/11 · 17h",
+   "txt": "Palmeiras x Estudiantes decidem a Libertadores no Estádio Centenário, em Montevidéu",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Economia · Ajuste fiscal",
-  "titulo": "Dólar passa de R$ 5,81 e juros futuros sobem à espera da votação dos destaques do ajuste fiscal no Senado",
-  "resumo": "O Ibovespa oscilava perto da estabilidade no fim da manhã, aos 169,7 mil pontos, enquanto investidores aguardavam a sessão das 16h e a ata do Fed, divulgada no mesmo horário. O governo diz que não aceita mudanças que reduzam o alcance do texto, e a oposição insiste em rever as compensações tributárias.",
+  "kicker": "Política · Ajuste fiscal",
+  "titulo": "Senado rejeita três destaques e mantém o núcleo do ajuste fiscal; dólar fecha a R$ 5,87, maior valor desde abril de 2025",
+  "resumo": "Os senadores derrubaram as mudanças propostas por PL e Republicanos, e o destaque sobre a Lei Kandir foi retirado após acordo; o texto ainda passa por turno suplementar antes de ir à Câmara. No mercado, a incerteza fiscal e a ata do Fed levaram o dólar a subir 1,46% e o Ibovespa a cair 1,34%.",
   "foto": {
    "src": "https://imagens.ebc.com.br/92SOTb7KB2yZ5fwAsK9SXWXuvJo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/17/maioridade_12-11-26_0.jpg?itok=C7rNMz4F",
    "credito": "Lula Marques/Agência Brasil (arquivo)"
   },
-  "entenda": "O PLP 299/2026 teve o texto-base aprovado por 45 votos a 31 em 12 de novembro e prevê economia de R$ 50 bilhões a R$ 60 bilhões em 2027, com limite menor para o crescimento real das despesas, corte de benefícios tributários e adiamento de repasses da Lei Kandir. Quatro destaques ainda podem mudar o texto: um retira do governo o poder de limitar compensações de créditos tributários (até R$ 18,3 bilhões em 2027), outro impede o adiamento dos repasses da Lei Kandir, e uma proposta de Rogério Marinho (PL-RN) reduz para 0,6% o crescimento real de parte dos gastos. Para manter cada trecho, o governo precisa de 41 votos. No mercado, a alta do dólar e dos juros futuros reflete a dúvida sobre o resultado; o Banco Central fez dois leilões de linha, com venda de até US$ 1 bilhão com compromisso de recompra.",
+  "entenda": "O PLP 299/2026 teve o texto-base aprovado em 12 de novembro. Segundo o relator, Eduardo Braga (MDB-AM), as medidas podem melhorar as contas em até R$ 56,1 bilhões em 2027: o limite de crescimento real das despesas cai de 2,5% para 2% nos anos de contenção, o corte de benefícios fiscais sobe de 10% para 20% e o governo ganha poder para limitar compensações de créditos tributários. A meta de 2027 é um superávit de R$ 73,2 bilhões (0,5% do PIB). Como o Senado aprovou um substitutivo, o regimento exige turno suplementar, no qual podem surgir novas emendas. Na Câmara, o relator Mauro Benevides Filho (União-CE) sinalizou que pretende manter a versão do Senado. A oposição afirma que o pacote se apoia em mecanismos contábeis e propôs um limite de gastos de 0,6%, rejeitado.",
   "fatos": [
-   "Dólar comercial subia 0,57%, a R$ 5,817, por volta das 10h40; na véspera fechou a R$ 5,78",
-   "Taxa do DI para janeiro de 2029 avançava para 14,91%",
-   "Na Câmara, a votação deve ficar para terça (24), segundo a CNN Brasil"
+   "Destaque de Rogério Marinho (PL-RN) com limite de 0,6% caiu por 47 a 30; o das compensações tributárias, por 49 a 31; o da compensação previdenciária, por 45 a 32, segundo a Exame",
+   "Com o acordo da Lei Kandir, o repasse anual aos estados sobe de R$ 1 bilhão para R$ 2 bilhões entre 2027 e 2030",
+   "Dólar fechou a R$ 5,867 e o Ibovespa a 167.538 pontos; o BC vendeu US$ 1 bilhão em dois leilões de linha"
   ],
   "fontes": [
    {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/",
-    "d": "abertura do mercado"
-   },
-   {
     "n": "Exame",
-    "u": "https://exame.com/invest/mercados/ibovespa-perde-forca-e-dolar-avanca-para-r-580-com-ajuste-fiscal-no-radar/",
-    "d": "dólar e juros futuros"
+    "u": "https://exame.com/brasil/senado-rejeita-mudancas-propostas-pela-oposicao-a-pacote-fiscal-de-lula/",
+    "d": "placares dos destaques"
    },
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/apos-falta-de-acordo-senado-tenta-concluir-hoje-votacao-do-ajuste-fiscal/",
-    "d": "posições no Senado"
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/senado-pacote-fiscal-lula",
+    "d": "o que muda no texto"
    },
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal",
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/politica/senado-rejeita-destaques-e-avanca-com-pacote-fiscal-proposto-pelo-governo-lula/",
+    "d": "acordo da Lei Kandir"
+   },
+   {
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/republica/lider-da-oposicao-diz-que-governo-lula-rejeitou-contraproposta-de-ajuste-fiscal/",
+    "d": "contraproposta da oposição"
+   },
+   {
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/politica/senado-votacao-destaques-ajuste-fiscal",
     "d": "conteúdo dos destaques"
    },
    {
     "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/dolar-abre-nesta-quarta-18-11",
-    "d": "abertura do dólar"
-   },
-   {
-    "n": "Senado Notícias",
-    "u": "https://www12.senado.leg.br/noticias/materias/2026/11/17/votacao-de-destaques-ao-ajuste-fiscal-e-remarcada-na-quarta-feira",
-    "d": "horário da sessão"
+    "u": "https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-fechamento-18-novembro",
+    "d": "fechamento do dólar"
    }
   ]
  },
@@ -213,71 +213,83 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste no Senado, ministério e STF",
+   "nota": "Ajuste avança no Senado, ministério e STF",
    "itens": [
     {
      "kicker": "Senado",
      "quando": "Hoje",
-     "titulo": "Governo descarta ceder no destaque das compensações tributárias e só aceita negociar a Lei Kandir antes da votação das 16h",
-     "resumo": "Segundo a CNN Brasil, o Planalto avalia que é melhor não aprovar o projeto do que aceitar mudanças que reduzam seu alcance. Três governistas faltaram na terça, e o apoio de Damares Alves e Izalci Lucas, que votaram pelo texto-base, é incerto nos destaques.",
+     "titulo": "Senado rejeita três destaques ao ajuste fiscal, e PL retira o da Lei Kandir após acordo",
+     "resumo": "Caíram as propostas de limite de gastos de 0,6%, de retirada do poder de limitar compensações tributárias e de fim do teto de R$ 3 bilhões para a compensação previdenciária. O texto vai a turno suplementar antes de seguir para a Câmara, onde o governo quer votar na próxima semana.",
      "lados": [
       {
        "quem": "Governo",
-       "txt": "Randolfe Rodrigues afirma que há votos para derrubar os destaques; o Planalto diz que a limitação de compensações é central para o resultado fiscal de 2027."
+       "txt": "Randolfe Rodrigues disse que as negociações estavam encerradas e que a base enfrentaria os destaques no voto; o relator Eduardo Braga estima melhora de até R$ 56,1 bilhões nas contas de 2027."
       },
       {
        "quem": "Oposição",
-       "txt": "PL e Republicanos querem retirar o poder de limitar créditos tributários, contestado por empresas, manter os repasses da Lei Kandir e adotar um limite de gastos mais rígido, de 0,6%."
+       "txt": "Rogério Marinho afirma que o governo recusou uma contraproposta de R$ 75 bilhões sem aumento de impostos e chama de pedalada a exclusão de R$ 10,5 bilhões do diesel da meta de 2026."
       }
      ],
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/apos-falta-de-acordo-senado-tenta-concluir-hoje-votacao-do-ajuste-fiscal/"
+       "n": "Exame",
+       "u": "https://exame.com/brasil/senado-rejeita-mudancas-propostas-pela-oposicao-a-pacote-fiscal-de-lula/"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/lider-da-oposicao-diz-que-governo-lula-rejeitou-contraproposta-de-ajuste-fiscal/"
       },
       {
-       "n": "Ric",
-       "u": "https://ric.com.br/politica/senado-retoma-votacao-de-destaques-do-ajuste-fiscal-nesta-quarta-feira-18/"
+       "n": "Blog do BG",
+       "u": "https://www.blogdobg.com.br/senado-conclui-1o-turno-do-pacote-fiscal-de-lula-emendas-vao-a-votacao/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/senado-votacao-destaques-ajuste-fiscal"
       }
      ]
     },
     {
      "kicker": "Novo governo",
-     "quando": "Ontem",
-     "titulo": "Lula passa mais de quatro horas com aliados no Alvorada para montar o ministério do quarto mandato",
-     "resumo": "Participaram Rui Costa, Camilo Santana, o governador do Piauí, Rafael Fonteles, e o presidente do PT, Edinho Silva. Camilo é apontado para a Casa Civil; para a Fazenda, são citados Geraldo Alckmin, Dario Durigan e Fernando Haddad, e os primeiros nomes devem sair nos próximos dias.",
+     "quando": "Hoje",
+     "titulo": "Aliados apontam Camilo Santana como favorito para a Casa Civil; Lula deve anunciar os primeiros ministros até o fim do mês",
+     "resumo": "Segundo O Globo, Lula pediu a Camilo uma lista de grandes projetos para o quarto mandato, apresentada na reunião de terça no Alvorada com Rui Costa, Rafael Fonteles e Edinho Silva. Para a Fazenda, são citados Fonteles, Geraldo Alckmin e Dario Durigan.",
      "foto": {
       "src": "fotos/lideres.jpg",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Tribuna do Sertão/O Globo",
+       "u": "https://www.tribunadosertao.com.br/poder-e-governo/2026/11/18/1024392-aliados-de-lula-veem-camilo-como-favorito-para-a-casa-civil-apos-missoes-e-contato-constante-com-presidente"
+      },
+      {
        "n": "TV Sim Brasil",
        "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/lula-reune-aliados-alvorada-montar-ministerio"
       },
       {
-       "n": "Rádio Pampa",
-       "u": "https://www.radiopampa.com.br/o-novo-ministerio-de-lula-e-os-favoritos-para-a-fazenda/"
+       "n": "Imirante",
+       "u": "https://m.imirante.com/noticias/brasil/2026/11/18/ipolitica-aliados-lula-veem-camilo-santana-como-favorito-assumir-casa-civil"
       }
      ]
     },
     {
      "kicker": "STF",
      "quando": "Hoje",
-     "titulo": "STF define nesta quarta se fim do perdão a furto entre parentes vale para casos anteriores",
-     "resumo": "Em 12 de novembro, o tribunal decidiu por 11 a 0 afastar a regra do Código Penal que isentava de pena furtos e estelionatos sem violência entre cônjuges, pais e filhos. Falta definir se a mudança alcança fatos anteriores e se vale para todos os crimes patrimoniais entre familiares.",
+     "titulo": "STF retoma julgamento sobre nepotismo em cargos políticos, com placar de 5 a 3 a favor das nomeações",
+     "resumo": "O caso decide se a proibição de nomear parentes vale também para ministérios e secretarias; o relator, Luiz Fux, mudou o voto e passou a defender a restrição, acompanhado por Flávio Dino e Cármen Lúcia. Faltam Edson Fachin e Gilmar Mendes. Na mesma sessão, a Corte discute se o fim do perdão a furto entre parentes alcança fatos anteriores.",
      "fontes": [
       {
        "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/stf-acaba-escusa-absolutoria-furto-entre-parentes"
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/relator-muda-voto-stf-reabre-julgamento-nepotismo-politico"
       },
       {
-       "n": "A Crítica",
-       "u": "https://acritica.net/politica/stf-decide-quando-passa-valer-fim-isencao-pena-crimes-entre-familiares/"
+       "n": "STF",
+       "u": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-18-2/"
+      },
+      {
+       "n": "Migalhas",
+       "u": "https://www.migalhas.com.br/quentes/468861/ao-vivo-stf-discute-fim-da-isencao-de-pena-por-crimes-patrimoniais"
       }
      ]
     },
@@ -337,29 +349,53 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Dólar em alta, desemprego e Fed",
+   "nota": "Dólar no maior valor desde 2025 e ata do Fed",
    "itens": [
     {
      "kicker": "Mercado",
      "quando": "Hoje",
-     "titulo": "Ibovespa perde força pela manhã, dólar chega a R$ 5,81 e juros futuros sobem antes do Senado e da ata do Fed",
-     "resumo": "Por volta das 11h, o índice caía 0,08%, aos 169.675 pontos, com Vale em baixa e frigoríficos e siderúrgicas em alta. Nos EUA, os futuros da Nasdaq subiam após o balanço da Nvidia, enquanto o diretor do Fed Christopher Waller disse à CNBC que uma alta de 0,5 ponto em dezembro tende a ser necessária.",
+     "titulo": "Dólar sobe 1,46% e fecha a R$ 5,87, maior valor desde abril de 2025; Ibovespa cai 1,34%",
+     "resumo": "A bolsa terminou aos 167.538 pontos, com volume de R$ 20,7 bilhões e queda das petroleiras, acompanhando o recuo do Brent. Analistas atribuem o movimento à dúvida sobre o alcance do ajuste fiscal e à ata do Fed; dois leilões de linha do BC, de US$ 1 bilhão, não seguraram a moeda.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/ibovespa-perde-forca-e-dolar-avanca-para-r-580-com-ajuste-fiscal-no-radar/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-fechamento-18-novembro"
       },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/dolar-abre-nesta-quarta-18-11"
+       "u": "https://www.metropoles.com/brasil/bolsa-fecha-em-queda-com-incertezas-sobre-pacote-de-ajuste-fiscal"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-cai-128-e-fecha-aos-1676-mil-sob-pressao-fiscal/"
+      },
+      {
+       "n": "ADVFN",
+       "u": "https://br.advfn.com/jornal/2026/11/ibovespa-cai-com-incertezas-fiscais-no-brasil-enquanto-ata-do-fed-pressiona-mercados-globais"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Ata do Fed mostra que quase todos os dirigentes defendem novas altas de juros, e dois admitem alta maior que 0,25 ponto",
+     "resumo": "Na reunião de outubro, o Fed manteve os juros entre 3,75% e 4% por 10 votos a 2. A inflação medida pelo PCE chegou a 3,6% em 12 meses, e o documento cita o risco de retorno abaixo do esperado dos investimentos em inteligência artificial; a próxima reunião é em 8 e 9 de dezembro.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/ata-do-fed-abre-porta-para-alta-acima-de-025-ponto-em-dezembro-se-a-inflacao-piorar/"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/ata-do-fed-comite-considera-alta-de-juros-superior-a-025-ponto-em-dezembro-veja-detalhes/"
+      },
+      {
+       "n": "Safras & Mercado",
+       "u": "https://safras.com.br/maioria-dos-dirigentes-previa-novas-altas-de-juros-apos-pausa-em-outubro-aponta-ata-do-fed"
       }
      ]
     },
@@ -428,18 +464,6 @@
        "u": "https://www.brasil247.com/economia/durigan-vai-ao-senado-explicar-aliquota-de-113-da-cbs/"
       }
      ]
-    },
-    {
-     "kicker": "Comércio exterior",
-     "quando": "Ontem",
-     "titulo": "Decreto simplifica exportação de cosméticos e produtos de higiene para sete países da América do Sul",
-     "resumo": "O texto internaliza acordo da Aladi com Argentina, Bolívia, Chile, Equador, Paraguai, Peru e Uruguai e dispensa o Certificado de Livre Venda, sem mudar tarifas. As regras passam a valer 60 dias depois que ao menos dois países concluírem seus trâmites; em 2025, o setor exportou US$ 1,06 bilhão.",
-     "fontes": [
-      {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quarta-feira-18-de-novembro-de-2026/"
-      }
-     ]
     }
    ]
   },
@@ -447,7 +471,7 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Operação contra bets e chuva",
+   "nota": "Operação contra bets, chuva e feriado",
    "itens": [
     {
      "kicker": "Polícia Federal",
@@ -466,6 +490,26 @@
       {
        "n": "Máquina do Esporte",
        "u": "https://maquinadoesporte.com.br/apostas/operacao-da-policia-federal-contra-dono-do-esportes-da-sorte-bloqueia-r-23-bilhoes-em-ativos-financeiros"
+      }
+     ]
+    },
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "Defesa Civil emite alerta severo de chuva para São Paulo, e capital entra em estado de atenção para alagamentos",
+     "resumo": "O CGE pôs todas as regiões da cidade e as marginais em atenção a partir das 16h, com chuva forte nas zonas Leste, Oeste, Norte e Centro. O Inmet prevê tempestades com ventos de até 100 km/h em 20 estados e no DF.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-emite-alerta-severo-de-chuva-para-sao-paulo/"
+      },
+      {
+       "n": "Diário do Transporte",
+       "u": "https://diariodotransporte.com.br/2026/11/18/cidade-de-sao-paulo-entra-em-estado-de-atencao-para-alagamentos-e-defesa-civil-emite-alerta-severo-nesta-quarta-feira-18/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/defesa-civil-emite-alerta-severo-de-chuva-forte-em-sao-paulo"
       }
      ]
     },
@@ -494,6 +538,26 @@
      ]
     },
     {
+     "kicker": "Serviço",
+     "quando": "Hoje",
+     "titulo": "Consciência Negra é feriado nacional nesta sexta (20); PRF reforça fiscalização nas rodovias de quinta a domingo",
+     "resumo": "A data cai numa sexta-feira, sem pregão na B3 e com mudança no funcionamento de bancos e serviços. A operação da PRF nas rodovias federais vai de quinta (19) a domingo (22), com foco em excesso de velocidade, ultrapassagens proibidas e álcool ao volante.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/prf-inicia-operacao-para-garantir-seguranca-nas-estradas-no-feriadao"
+      },
+      {
+       "n": "Contábeis",
+       "u": "https://www.contabeis.com.br/noticias/80547/consciencia-negra-sera-proximo-feriado-nacional-em-novembro/"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/06/feriado-da-consciencia-negra-2026-cai-numa-sexta-feira-em-20-de/"
+      }
+     ]
+    },
+    {
      "kicker": "Segurança",
      "quando": "Ontem",
      "titulo": "Polícia da Bahia faz operação contra o Bonde do Maluco em cinco estados e no DF e pede bloqueio de R$ 84 milhões",
@@ -512,46 +576,6 @@
        "u": "https://simnoticias.com.br/cnn-brasil/pastor-esta-entre-presos-da-operacao-contra-faccao-baiana-em-cinco-estados/"
       }
      ]
-    },
-    {
-     "kicker": "Segurança",
-     "quando": "Ontem",
-     "titulo": "Segundo dia de operação da PM na Maré fecha 41 escolas e suspende quatro unidades de saúde",
-     "resumo": "Agentes do Comando de Operações Especiais entraram no Morro do Timbau e na Fogo Cruzado, em ação contra o Terceiro Comando Puro; retroescavadeiras retiraram barricadas incendiadas nas entradas das comunidades. A Secretaria Municipal de Saúde suspendeu quatro unidades de atenção primária, e a PM ainda não divulgou balanço de prisões.",
-     "fontes": [
-      {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/video-pm-faz-operacao-contra-o-tcp-na-mare-pelo-segundo-dia-consecutivo-41-escolas-sao-fechadas/"
-      },
-      {
-       "n": "Diário do Rio",
-       "u": "https://diariodorio.com/seguranca/2026/11/17/mare-tem-nova-operacao-da-pm-nesta-terca-acao-chega-ao-segundo-dia-seguido.html"
-      },
-      {
-       "n": "TV Brasil",
-       "u": "https://tvbrasilinternacional.ebc.com.br/programas/reporter-brasil-tarde/234164"
-      }
-     ]
-    },
-    {
-     "kicker": "Serviço",
-     "quando": "Hoje",
-     "titulo": "Consciência Negra é feriado nacional nesta sexta (20) e forma fim de semana prolongado",
-     "resumo": "A data cai numa sexta-feira, sem pregão na B3 e com mudança no funcionamento de bancos e serviços. Cidades preparam programação cultural, e a TV Brasil dedica a semana ao tema.",
-     "fontes": [
-      {
-       "n": "Contábeis",
-       "u": "https://www.contabeis.com.br/noticias/80547/consciencia-negra-sera-proximo-feriado-nacional-em-novembro/"
-      },
-      {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/06/feriado-da-consciencia-negra-2026-cai-numa-sexta-feira-em-20-de/"
-      },
-      {
-       "n": "EBC",
-       "u": "https://www.ebc.com.br/imprensa/2026/semana-da-consciencia-negra-pauta-sem-censura-de-terca-17-11-a-sexta-feira-20-11"
-      }
-     ]
     }
    ]
   },
@@ -559,65 +583,77 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Irã ataca bases dos EUA; Trump na China",
+   "nota": "Trump, Xi e Putin em Shenzhen; tensão com o Irã",
    "itens": [
-    {
-     "kicker": "Oriente Médio",
-     "quando": "Hoje",
-     "titulo": "Irã ataca base aérea dos EUA no Kuwait e instalações no Barein, primeira ofensiva do tipo em cerca de dois meses",
-     "resumo": "Segundo a AP, Teerã respondeu a um bombardeio americano de terça contra um ponto de lançamento de mísseis da Guarda Revolucionária na ilha de Qeshm, em Ormuz. Não há balanço de vítimas; Trump disse que Israel e a região estão protegidos.",
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://gazetadopovo.com.br/mundo/ira-ataca-bases-eua-antes-cupula-trump-putin-xi"
-      },
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/mundo/ira-amplia-ataques-no-golfo-e-mira-base-dos-eua-no-kuwait-e-instalacoes-no-bahrein-1.1195479"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/"
-      }
-     ]
-    },
     {
      "kicker": "Apec",
      "quando": "Hoje",
-     "titulo": "Xi recebe Trump com abraço em Shenzhen; reunião inédita a três com Putin fica para quinta",
-     "resumo": "Putin chegou mais cedo e se reuniu com Xi. Trump disse que está perto de um acordo para encerrar a guerra na Ucrânia e que não pretende tratar de Taiwan; restrições americanas a chips seguem como ponto de atrito.",
+     "titulo": "Trump, Xi e Putin se cumprimentam em Shenzhen; americano terá reunião a sós com Putin antes do encontro a três",
+     "resumo": "O aperto de mãos entre Trump e Putin ocorreu antes da foto oficial da Apec, na noite desta quarta. Para quinta (19), estão previstos o encontro bilateral com Putin, uma reunião com Xi e a cúpula a três; o chanceler ucraniano pediu que nada sobre o país seja decidido sem Kiev.",
      "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/trump-tera-reuniao-a-sos-com-putin-durante-cupula-na-china/"
+      },
       {
        "n": "Euronews",
        "u": "https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin"
       },
       {
-       "n": "CNBC",
-       "u": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html"
+       "n": "Renascença",
+       "u": "https://rr.pt/noticia/mundo/2026/11/18/trump-xi-e-putin-reunem-se-em-shenzhen-ucrania-irao-e-inteligencia-artificial-na-agenda/494071/"
       },
       {
-       "n": "Fox News",
-       "u": "https://www.foxnews.com/politics/chinas-xi-surprises-trump-tarmac-reciprocating-gesture-shown-months-ago"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/internacional/trump-xi-putin-apertos-mao-encontro-lideres-china/"
+      }
+     ]
+    },
+    {
+     "kicker": "Oriente Médio",
+     "quando": "Hoje",
+     "titulo": "Irã ataca base dos EUA no Kuwait após bombardeio americano em Qeshm; Trump diz que não precisa mais de acordo",
+     "resumo": "Kuwait e Barein afirmam ter interceptado os drones, sem relato de vítimas; o chefe do Exército iraniano promete reação sem limite geográfico se houver novo ataque. Trump escreveu que os EUA já controlam o dinheiro e o estreito do Irã e tirou o vice JD Vance das conversas com Teerã; a Casa Branca não confirmou o fim das negociações.",
+     "fontes": [
+      {
+       "n": "HNGN",
+       "u": "https://www.hngn.com/articles/273810/20261118/trump-says-no-iran-deal-needed-pulls-vance-talks.htm"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/ira-amplia-ataques-golfo-atinge-base-eua-kuwait"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://gazetadopovo.com.br/mundo/ira-ataca-bases-eua-antes-cupula-trump-putin-xi"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/ira-diz-ter-atacado-bases-dos-eua-no-kuwait-apos-ofensiva-em-qeshm/"
       }
      ]
     },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Bombardeio russo no centro de Odessa deixa quatro mortos na véspera de reunião de aliados de Kiev em Berlim",
-     "resumo": "Um prédio residencial e uma instituição de ensino foram atingidos, e o governador regional fala em 13 vítimas nos ataques da manhã. A coalizão de países que apoiam a Ucrânia discute em Berlim garantias de segurança após a guerra.",
+     "titulo": "Enviados de Trump se reúnem com aliados de Kiev em Berlim no dia em que ataque russo mata quatro em Odessa",
+     "resumo": "Steve Witkoff e Jared Kushner encontram o chanceler alemão, Friedrich Merz, e a coalizão de países que apoiam a Ucrânia, organizada por Alemanha, França e Reino Unido. Em Odessa, um prédio residencial e uma instituição de ensino foram atingidos; Zelensky chamou a ofensiva de brutal.",
      "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/com-trump-e-putin-na-china-enviados-dos-eua-negociam-guerra-na-ucrania"
+      },
       {
        "n": "O Povo/AFP",
        "u": "https://www.opovo.com.br/noticias/mundo/2026/11/18/quatro-mortos-em-ataques-russos-na-cidade-ucraniana-de-odessa.html"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/ataques-russos-a-ucrania-deixam-mortos-dizem-autoridades/"
+       "n": "Infobae/EFE",
+       "u": "https://www.infobae.com/america/agencias/2026/11/18/los-aliados-de-ucrania-se-coordinaran-en-berlin-ante-negociaciones-directas-con-rusia/"
       },
       {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/18/zelensky-propoe-cessar-fogo-humanitario-em-mais-dez-locais-ocupados-pela-russia-em-kherson-e-zaporijia/"
+       "n": "DN",
+       "u": "https://www.dn.pt/internacional/ataque-a-odessa-faz-quatro-mortos-dizem-autoridades-ucranianas-ofensiva-brutal-classifica-zelensky"
       }
      ]
     },
@@ -671,25 +707,49 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Rodada do Brasileirão e final da Sul-Americana",
+   "nota": "Rodada decisiva do Brasileirão e finais continentais",
    "itens": [
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Brasileirão volta da data Fifa com Flamengo x Athletico-PR e Cruzeiro x Palmeiras às 20h30; Remo pode ser rebaixado",
-     "resumo": "A 35ª rodada tem seis jogos nesta quarta, antes do confronto direto entre Palmeiras e Flamengo no sábado (21). Lanterna com 29 pontos, o Remo recebe a Chapecoense às 20h e pode cair dependendo dos resultados; Corinthians e Grêmio, com 37, também jogam.",
+     "titulo": "Flamengo, com 76 pontos, e Palmeiras, com 73, entram em campo às 20h30; Remo pode ser rebaixado nesta noite",
+     "resumo": "O Flamengo recebe o Athletico-PR no Maracanã e o Palmeiras visita o Cruzeiro no Mineirão, antes do confronto direto de sábado (21). O Remo, com 29 pontos, cai se perder para a Chapecoense e o Internacional pontuar; o Corinthians, 17º com 37, recebe o Botafogo, e Neymar volta ao Santos contra o Coritiba.",
+     "fontes": [
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/esporte/brasileirao-2026-35-rodada-jogos-onde-assistir-classificacao"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/coritiba-x-santos-onde-assistir-escalacoes-brasileirao-2026/"
+      },
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/esportes/2026/11/18/1024522-rodada-decisiva-quarta-feira-pode-encaminhar-titulo-do-flamengo-ou-deixar-disputa-aberta-para-confronto-com-palmeiras"
+      },
+      {
+       "n": "Diário do Pará",
+       "u": "https://diariodopara.com.br/bola/remo-joga-contra-a-lanterna-para-tentar-adiar-rebaixamento-na-serie-a/"
+      }
+     ]
+    },
+    {
+     "kicker": "Libertadores",
+     "quando": "Hoje",
+     "titulo": "Conmebol escala o venezuelano Jesús Valenzuela para apitar a final entre Palmeiras e Estudiantes",
+     "resumo": "A decisão será no sábado, 28 de novembro, às 17h, no Estádio Centenário, em Montevidéu. O também venezuelano Juan Soto comandará o VAR.",
      "fontes": [
       {
        "n": "Vavel",
-       "u": "https://www.vavel.com/br/futebol/2026/11/18/serie-a/1279693-brasileirao-2026-retorna-apos-data-fifa-com-reta-final-eletrizante-e-disputas-decisivas-na-tabela.html"
+       "u": "https://vavel.com/br/futebol/2026/11/18/1279653-conmebol-define-arbitragem-para-a-final-da-libertadores.html"
       },
       {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-18-11-2026-futebol-na-tv"
+       "n": "Portal Hortolândia",
+       "u": "https://portalhortolandia.com.br/noticias/esporte/final-da-libertadores-2026-conheca-os-arbitros-da-partida-245480/"
       },
       {
-       "n": "Jornal Grande Bahia",
-       "u": "https://jornalgrandebahia.com.br/2026/11/brasileirao-2026-flamengo-defende-lideranca-contra-athletico-pr-palmeiras-enfrenta-cruzeiro-e-corinthians-recebe-botafogo-na-35a-rodada/"
+       "n": "Diario Primicia",
+       "u": "https://primicia.com.ve/deportes/jesus-valenzuela-pitara-la-final-de-la-copa-libertadores/"
       }
      ]
     },
@@ -734,26 +794,6 @@
      ]
     },
     {
-     "kicker": "Amistoso",
-     "quando": "Ontem",
-     "titulo": "Argentina goleia a Costa Rica por 7 a 0 em Córdoba no último jogo do ano",
-     "resumo": "Nico Paz, Julián Álvarez e Mastantuono marcaram dois gols cada, e Mac Allister fez o outro no Estádio Mario Kempes. A seleção vinha de derrota por 2 a 1 para o Uruguai, no sábado, na Bombonera.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/argentina-goleia-costa-rica-em-cordoba-no-ultimo-amistoso-da-temporada"
-      },
-      {
-       "n": "La Nación",
-       "u": "https://www.lanacion.com.ar/deportes/canchallena/argentina-vencio-7-0-a-costa-rica-en-un-amistoso-internacional-nid17112026/"
-      },
-      {
-       "n": "ESPN",
-       "u": "https://www.espn.com/soccer/match/_/gameId/401930895/costa-rica-argentina"
-      }
-     ]
-    },
-    {
      "kicker": "Fórmula 1",
      "quando": "Ontem",
      "titulo": "Mercedes leva motor atualizado só para o carro de Antonelli em Las Vegas; Bortoleto projeta reação",
@@ -779,8 +819,28 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Butantan, sarampo e vacinas",
+   "nota": "Mpox, Butantan e vacinas",
    "itens": [
+    {
+     "kicker": "Mpox",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde envia mais de mil frascos de vacina contra mpox ao Rio, que tem 396 casos no ano",
+     "resumo": "Com a aplicação intradérmica, cada frasco rende até cinco doses, o que permite chegar a cerca de 5 mil aplicações em grupos prioritários. A vacina é escassa no mundo, e o governo negociou 25 mil doses pelo fundo rotatório da Opas.",
+     "fontes": [
+      {
+       "n": "Manchete Rio",
+       "u": "https://mancheterio.com.br/ministerio-da-saude-anuncia-envio-de-mais-de-mil-frascos-de-vacina-contra-mpox-ao-municipio-do-rio/"
+      },
+      {
+       "n": "Agenda do Poder",
+       "u": "https://agendadopoder.com.br/rio-recebe-mais-de-mil-frascos-de-vacina-contra-mpox-e-podera-ampliar-imunizacao-em-ate-5-mil-aplicacoes/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/casos-de-mpox-ultrapassam-mil-em-2026-e-se-concentram-em-seis-estados"
+      }
+     ]
+    },
     {
      "kicker": "Pesquisa",
      "quando": "Hoje",
@@ -873,7 +933,7 @@
      "kicker": "Enem",
      "quando": "Hoje",
      "titulo": "Inep divulga gabarito oficial do Enem e anula uma questão de matemática",
-     "resumo": "A questão 159 da prova azul (153 na amarela, 164 na branca e 158 na verde) foi anulada; professores apontaram que a tabela de gols do enunciado tinha dados incompatíveis. As notas saem em 18 de janeiro.",
+     "resumo": "A questão 159 da prova azul (153 na amarela, 164 na branca e 158 na verde) foi anulada; professores apontaram que a tabela de gols do enunciado tinha dados incompatíveis. Segundo o MEC, as notas individuais saem em 18 de janeiro de 2027, na Página do Participante.",
      "foto": {
       "src": "https://imagens.ebc.com.br/Knn4ZnRpdtilHhzFmdV6ItFbNQY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/15/pzzb0368.jpg?itok=tr3TFdVu",
       "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
@@ -890,6 +950,10 @@
       {
        "n": "O Liberal",
        "u": "https://www.oliberal.com/brasil/gabarito-oficial-do-enem-2026-e-divulgado-uma-questao-e-anulada-1.1195557"
+      },
+      {
+       "n": "Quero Bolsa",
+       "u": "https://querobolsa.com.br/revista/mec-anuncia-datas-oficiais-gabarito-e-resultado-enem-2026"
       }
      ]
     },
@@ -944,40 +1008,24 @@
     {
      "kicker": "Inteligência artificial",
      "quando": "Hoje",
-     "titulo": "Com demanda forte, Anthropic, dona do Claude, pode fixar preço das ações acima da faixa antes da estreia na Nasdaq",
-     "resumo": "A faixa inicial era de US$ 70 a US$ 78 por ação, e o Wall Street Journal relata que o preço pode passar de US$ 80. A estreia, com o código ANT, está marcada para quinta (19).",
+     "titulo": "Anthropic, dona do Claude, fixa preço das ações em US$ 83, acima da faixa, e estreia na Nasdaq nesta quinta",
+     "resumo": "A faixa indicada era de US$ 70 a US$ 78. Segundo fonte ouvida pela CNBC, a oferta de 825 milhões de ações pode levantar até cerca de US$ 68,5 bilhões, com avaliação acima de US$ 1,4 trilhão; o código será ANT.",
      "fontes": [
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/18/pro/anthropic-pode-elevar-preco-de-acoes-em-ipo-apos-forte-demanda"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/inteligencia-artificial/ipo-anthropic-nasdaq-19-de-novembro/"
-      },
       {
        "n": "CNBC",
-       "u": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Chips",
-     "quando": "Ontem",
-     "titulo": "Nvidia para de enviar à China chips de IA licenciados pelos EUA e tira o país da previsão de receita",
-     "resumo": "A informação foi dada na teleconferência do balanço, em que a empresa relatou faturamento recorde. Pequim vinha restringindo a importação do H200, e o futuro do acordo de licenciamento entre os dois países ficou incerto.",
-     "fontes": [
+       "u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/empresas-e-negocios/anthropic-precifica-ipo-em-us-83-por-acao-acima-da-faixa-esperada-segundo-fonte-da-cnbc/"
+      },
+      {
+       "n": "Jornal Económico",
+       "u": "https://jornaleconomico.sapo.pt/noticias/anthropic-fixa-preco-do-ipo-em-83-dolares-por-acao-acima-da-faixa-prevista/"
+      },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/negocios/nvidia-suspende-envio-de-chips-de-ia-aprovados-pelos-eua-para-china/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/business/nvidia-suspende-envio-de-chips-de-ia-aprovados-pelos-eua-para-china/"
-      },
-      {
-       "n": "Tecnoblog",
-       "u": "https://tecnoblog.net/noticias/nvidia-nao-vendera-mais-chips-de-ia-para-a-china/"
+       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/estreia-da-anthropic-em-wall-street-abre-novo-capitulo-para-a-ia/"
       }
      ]
     },
@@ -1004,6 +1052,26 @@
       "src": "https://imagens.ebc.com.br/94SQjjcu4cTte9q4jZB3BziTpsI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/floresta-211016ebc0489.jpg?itok=raMYT_E0",
       "credito": "Valter Campanato/Agência Brasil (arquivo)"
      }
+    },
+    {
+     "kicker": "Chips",
+     "quando": "Ontem",
+     "titulo": "Nvidia para de enviar à China chips de IA licenciados pelos EUA e tira o país da previsão de receita",
+     "resumo": "A informação foi dada na teleconferência do balanço, em que a empresa relatou faturamento recorde. Pequim vinha restringindo a importação do H200, e o futuro do acordo de licenciamento entre os dois países ficou incerto.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/negocios/nvidia-suspende-envio-de-chips-de-ia-aprovados-pelos-eua-para-china/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/business/nvidia-suspende-envio-de-chips-de-ia-aprovados-pelos-eua-para-china/"
+      },
+      {
+       "n": "Tecnoblog",
+       "u": "https://tecnoblog.net/noticias/nvidia-nao-vendera-mais-chips-de-ia-para-a-china/"
+      }
+     ]
     },
     {
      "kicker": "Espaço",
@@ -1035,7 +1103,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Shows e estreias da semana",
+   "nota": "Shows, streaming e estreias da semana",
    "itens": [
     {
      "kicker": "Música",
@@ -1054,10 +1122,26 @@
      ]
     },
     {
+     "kicker": "Streaming",
+     "quando": "Hoje",
+     "titulo": "Série brasileira \"Os 12 Signos de Valentina\", com Giovanna Grigio, está entre as sete estreias da Netflix nesta quarta",
+     "resumo": "A comédia romântica é baseada no livro de Ray Tavares. A lista do dia inclui ainda a minissérie argentina \"Gordon\", com Rodrigo de la Serna, e a série polonesa de suspense \"A Lei dos Monstros\".",
+     "fontes": [
+      {
+       "n": "Trecobox",
+       "u": "https://trecobox.com.br/netflix-7-estreias-quarta-feira-18-novembro/"
+      },
+      {
+       "n": "Showmetech",
+       "u": "https://www.showmetech.com.br/lancamentos-do-cinema-em-novembro-de-2026/"
+      }
+     ]
+    },
+    {
      "kicker": "Música",
      "quando": "Ontem",
      "titulo": "Mariah Carey estreia no Brasil o show de Natal com clássicos natalinos e sucessos da carreira",
-     "resumo": "No Nubank Parque, em São Paulo, a cantora abriu com \"Hark! The Herald Angels Sing\", desejou feliz Natal em português e incluiu \"Fantasy\", \"Always Be My Baby\" e \"We Belong Together\". O encerramento, com \"All I Want for Christmas Is You\", teve confete e fogos; a turnê segue para o Rio nos próximos dias.",
+     "resumo": "No Nubank Parque, em São Paulo, a cantora abriu com \"Hark! The Herald Angels Sing\", desejou feliz Natal em português e incluiu \"Fantasy\", \"Always Be My Baby\" e \"We Belong Together\". O encerramento, com \"All I Want for Christmas Is You\", teve confete e fogos; a turnê segue para o Rio, onde ela canta no sábado (21).",
      "fontes": [
       {
        "n": "Rádio Mix FM",
