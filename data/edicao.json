@@ -1,33 +1,33 @@
 {
  "data": "Quinta-feira, 19 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "19/11/2026 · 12h40 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 12h30",
- "fontes": 66,
+ "edicao": "Edição da noite",
+ "atualizado": "19/11/2026 · 19h25 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h30",
+ "fontes": 69,
  "mercado": [
   {
-   "nome": "Ibovespa · 12h30",
-   "valor": "167.404 pts",
-   "var": "-0,08%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "166.376 pts",
+   "var": "-0,69%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · 12h30",
-   "valor": "R$ 5,90",
-   "var": "+0,27%",
+   "nome": "Dólar comercial · fechamento",
+   "valor": "R$ 5,93",
+   "var": "+1,15%",
    "dir": "up"
   },
   {
-   "nome": "Nasdaq · 11h35",
-   "valor": "Em alta",
-   "var": "+1,9%",
-   "dir": "up"
+   "nome": "Dow Jones · fechamento",
+   "valor": "49.097 pts",
+   "var": "-2,19%",
+   "dir": "down"
   },
   {
-   "nome": "DI jan/2029 · 9h38",
-   "valor": "14,97%",
-   "var": "-0,005 ponto",
+   "nome": "Nasdaq · fechamento",
+   "valor": "23.879 pts",
+   "var": "-2,25%",
    "dir": "down"
   },
   {
@@ -39,13 +39,8 @@
  ],
  "agenda": [
   {
-   "hora": "Qui 19/11 · tarde",
-   "txt": "Reunião do Conselho Monetário Nacional (CMN); ações da Anthropic em primeiro dia de negociação na Nasdaq",
-   "cat": "economia"
-  },
-  {
    "hora": "Qui 19/11 · noite",
-   "txt": "Brasileirão: Vitória x Bragantino e Vasco x Internacional (19h30), São Paulo x Fluminense (21h30); 1º treino livre da F1 em Las Vegas (21h30)",
+   "txt": "Brasileirão: Vasco x Internacional e Vitória x Bragantino (19h30), São Paulo x Fluminense (21h30); 1º treino livre da F1 em Las Vegas (21h30)",
    "cat": "esporte"
   },
   {
@@ -54,18 +49,23 @@
    "cat": "brasil"
   },
   {
+   "hora": "Sex 20/11 a seg 30/11",
+   "txt": "1ª Turma do STF analisa em plenário virtual a denúncia contra o deputado Marcel van Hattem",
+   "cat": "politica"
+  },
+  {
    "hora": "Sáb 21/11",
    "txt": "Palmeiras x Flamengo (16h30), que pode decidir o Brasileirão; Atlético-MG x Boca Juniors na final da Sul-Americana, em Barranquilla (19h30)",
    "cat": "esporte"
   },
   {
-   "hora": "Seg 23/11",
-   "txt": "Câmara deve votar o projeto de ajuste fiscal aprovado pelo Senado",
-   "cat": "politica"
+   "hora": "Dom 22/11 · 1h",
+   "txt": "GP de Las Vegas de Fórmula 1, com Bortoleto (Audi) e Rafael Câmara (Haas)",
+   "cat": "esporte"
   },
   {
-   "hora": "Qua 16/12",
-   "txt": "Começa a valer a jornada de 42 horas semanais com duas folgas, prevista no decreto do fim da escala 6x1",
+   "hora": "Seg 23/11",
+   "txt": "Câmara deve votar o ajuste fiscal aprovado pelo Senado; começa a Semana Nacional de Ciência e Tecnologia, em Brasília",
    "cat": "politica"
   }
  ],
@@ -162,44 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Trabalho · Fim da escala 6x1",
-  "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1; jornada de 42 horas com duas folgas começa em 16 de dezembro",
-  "resumo": "O texto, assinado na manhã desta quinta no Palácio do Planalto, orienta empresas e trabalhadores na transição para o modelo de cinco dias de trabalho e dois de descanso, sem redução de salário. A semana de 40 horas passa a valer em dezembro de 2027.",
+  "kicker": "Mercado · Fechamento",
+  "titulo": "Dólar fecha a R$ 5,93, maior nível em 19 meses, mesmo após o Banco Central vender US$ 1 bilhão; Ibovespa cai 0,69%",
+  "resumo": "A moeda americana subiu 1,15% e teve a sexta alta seguida, acumulando 4,88% na semana. A Bolsa fechou aos 166.376 pontos, num dia de queda de mais de 2% em Nova York após a estreia da Anthropic na Nasdaq.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/j6MlqslJj-HX446LhcxnuS9Na04=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/13/pzzb9979.jpg?itok=p3I6iNsF",
-   "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
+   "src": "fotos/openfinance.jpg",
+   "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
   },
-  "entenda": "A mudança vem da Emenda Constitucional 141, aprovada pelo Congresso em outubro e promulgada no dia 16 daquele mês. O decreto trata da transição, de categorias com escalas especiais e do papel das convenções coletivas; portarias do Ministério do Trabalho poderão detalhar casos específicos. Segundo o ministério, cerca de 14,9 milhões dos 44,7 milhões de trabalhadores formais estão hoje na escala 6x1. Confederações do comércio (CNC) e da indústria (CNI) questionam os prazos no STF: em 12 de novembro, o ministro Flávio Dino manteve a data de início, mas flexibilizou regras de compensação, e o mérito será julgado pelo plenário presencial, ainda sem data.",
+  "entenda": "O real perde valor desde a semana passada, em meio a dúvidas sobre quem comandará a equipe econômica no próximo mandato de Lula e sobre o alcance do ajuste fiscal de 2027, aprovado pelo Senado na quarta (18) e que vai à Câmara na segunda (23). Lula disse que não tem pressa para anunciar os ministros. No início da tarde, o Banco Central fez um leilão extraordinário de US$ 1 bilhão no mercado à vista; a cotação recuou para perto de R$ 5,85, mas voltou a superar R$ 5,90. A B3 não abre na sexta (20), feriado da Consciência Negra, e o mercado volta a operar na segunda.",
   "fatos": [
-   "Primeira etapa, a partir de 16/12/2026: limite cai de 44 para 42 horas semanais, com duas folgas remuneradas",
-   "Sem acordo coletivo até 15/12, as 42 horas podem ser distribuídas em cinco dias de até 8h24, conforme a liminar de Dino",
-   "O ministro Luiz Marinho diz que o governo fez reuniões com mais de 70 setores; a CNI estima impacto de R$ 11 bilhões para a indústria em 2027"
+   "Dólar comercial fechou a R$ 5,934 (+1,15%), maior nível desde abril de 2025; a Ptax do dia ficou em R$ 5,8889",
+   "Ibovespa caiu 0,69%, aos 166.376 pontos, e oscilou entre 165,8 mil e 168,5 mil pontos",
+   "Em Nova York, Dow Jones (-2,19%), S&P 500 (-2,02%) e Nasdaq (-2,25%) fecharam em queda"
   ],
   "fontes": [
    {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/brasil/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1/",
-    "d": "regras e liminar no STF"
-   },
-   {
-    "n": "Agência Gov",
-    "u": "https://agenciagov.ebc.com.br/noticias/202611/lula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe",
-    "d": "assinatura e trabalhadores afetados"
+    "n": "BPMoney",
+    "u": "https://bpmoney.com.br/mercado/ibovespa-cai-dolar-renova-maxima-19-meses-r-593/",
+    "d": "fechamento e leilão do BC"
    },
    {
     "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/governo-assina-hoje-decreto-que-regulamenta-fim-da-escala-de-trabalho-6x1/",
-    "d": "críticas de CNC e CNI"
+    "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-19-novembro-2026/",
+    "d": "intervenção do BC"
    },
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/decreto-que-regulamenta-escala-5x2-sera-assinado-quinta-feira",
-    "d": "data de início"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/",
+    "d": "pregão e juros futuros"
    },
    {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/economia/comercio-critica-fim-escala-6x1-aponta-lacunas-nova-regra-trabalhista/",
-    "d": "lacunas apontadas pelo comércio"
+    "n": "Money Times",
+    "u": "https://www.moneytimes.com.br/ibovespa-19-11-2026-davs/",
+    "d": "incerteza fiscal e política"
+   },
+   {
+    "n": "EFE / ABC Color",
+    "u": "https://www.abc.com.py/internacionales/2026/11/19/wall-street-cierra-en-rojo-y-el-nasdaq-baja-un-225-tras-la-salida-a-bolsa-de-anthropic/",
+    "d": "queda em Wall Street"
    }
   ]
  },
@@ -208,44 +208,51 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Decreto da 6x1, Fazenda e PGR",
+   "nota": "Reação à 6x1, Fazenda e STF",
    "itens": [
     {
      "kicker": "Escala 6x1",
      "quando": "Hoje",
-     "titulo": "Decreto do fim da 6x1 sai enquanto STF ainda vai julgar as regras de transição contestadas por empresários",
-     "resumo": "A liminar de Flávio Dino segue valendo até a decisão do plenário presencial, pedida após um pedido de vista de Luiz Fux. O decreto não muda a data de início, 16 de dezembro, e dá papel central às negociações coletivas.",
+     "titulo": "Após decreto do fim da 6x1, Lula chama resistência empresarial de ingratidão; indústria e construção pedem ajustes",
+     "resumo": "Na assinatura do decreto, Lula disse que a modernização das empresas permite reduzir a jornada sem prejuízo e que os ganhos não chegaram aos trabalhadores. O texto define novos divisores para o cálculo da hora extra, e o Ministério do Trabalho deve editar portarias para categorias especiais a partir de segunda (23). A liminar de Flávio Dino segue valendo até o julgamento no plenário do STF.",
      "lados": [
       {
        "quem": "Governo",
-       "txt": "Afirma que o decreto orienta a transição sem corte de salário, depois de reuniões com mais de 70 setores, e que as convenções coletivas devem buscar o arranjo mais adequado a cada categoria."
+       "txt": "Diz que a jornada cai para 42 horas em 16 de dezembro e para 40 horas em dezembro de 2027 sem corte de salário, e que as convenções coletivas vão ajustar cada categoria."
       },
       {
-       "quem": "Comércio e indústria",
-       "txt": "CNC e CNI pediram ao STF mais prazo, dizendo que o início coincide com o pico de vendas de fim de ano e que faltam regras para pequenas empresas e escalas contínuas."
+       "quem": "Entidades empresariais",
+       "txt": "CNC pede adaptação por setor; Fiemg diz que os divisores 210 e 200 encarecem a hora extra e a folha; CBIC afirma que o prazo curto pode desorganizar obras e havia proposto transição de cinco anos."
       }
      ],
      "fontes": [
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/brasil/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1/"
+       "n": "O Tempo",
+       "u": "https://otempo.com.br/economia/2026/11/19/apos-publicacao-de-decreto-setor-produtivo-continua-questionando-regras-do-fim-da-escala-6x1"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/governo-assina-hoje-decreto-que-regulamenta-fim-da-escala-de-trabalho-6x1/"
+       "n": "JOTA",
+       "u": "https://www.jota.info/trabalho/decreto-que-regulamenta-o-fim-da-escala-6x1-traz-flexibilizacao-para-descanso-semanal-e-divisor-de-horas-extras"
       },
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/economia/comercio-critica-fim-escala-6x1-aponta-lacunas-nova-regra-trabalhista/"
+       "n": "O Jornalismo",
+       "u": "https://ojornalismo.com.br/noticia/220136/lula-critica-empresarios-contrarios-ao-fim-da-escala-6x1-e-classifica-resistencia-como-ingratidao/"
+      },
+      {
+       "n": "Folha Vitória",
+       "u": "https://www.folhavitoria.com.br/economia/lula-assina-decreto-para-o-fim-da-escala-6x1-anuncia-regras-para-empresas-e-preve-mudanca-ja-em-dezembro/"
       }
      ],
-     "destaque": false
+     "foto": {
+      "src": "fotos/lula.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     }
     },
     {
      "kicker": "Novo governo",
      "quando": "Hoje",
      "titulo": "Moretti ganha força na disputa pela Fazenda após articular o ajuste no Senado; Lula diz que não tem pressa para indicar ministros",
-     "resumo": "O ministro do Planejamento, Bruno Moretti, é avaliado por Lula para o comando da Fazenda, hoje com Dario Durigan. Os dois deram sinais diferentes: Durigan falou em novas medidas fiscais imediatas, e Moretti disse que ainda não é o momento.",
+     "resumo": "O ministro do Planejamento, Bruno Moretti, é avaliado por Lula para o comando da Fazenda, hoje com Dario Durigan. Moretti disse nesta quinta que ainda não é o momento de novas medidas fiscais, um dia depois de Durigan falar em novidades imediatas; a indefinição foi citada por analistas como fator de pressão sobre o dólar.",
      "fontes": [
       {
        "n": "TV Sim Brasil",
@@ -254,76 +261,92 @@
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/politica/lula-diz-que-nao-tem-pressa-e-que-vai-indicar-ministros-quando-quiser/"
-      }
-     ]
-    },
-    {
-     "kicker": "Ajuste fiscal",
-     "quando": "Ontem",
-     "titulo": "Motta marca para segunda (23) a votação do ajuste na Câmara; governo tenta aprovar o texto sem mudanças",
-     "resumo": "O anúncio foi feito em Buenos Aires, logo após o Senado concluir a votação. O relator, Mauro Benevides Filho (União-CE), já conversa com as bancadas; a aprovação depende de maioria simples dos deputados.",
-     "lados": [
-      {
-       "quem": "Governo e relator no Senado",
-       "txt": "Dizem que o projeto abre espaço fiscal de forma responsável, preserva programas sociais e pode melhorar as contas de 2027 em até R$ 56,1 bilhões."
       },
       {
-       "quem": "Oposição e críticos",
-       "txt": "Rogério Marinho (PL-RN) chama o pacote de nova pedalada, por elevar tributos e adiar repasses a estados; setores empresariais e parte da esquerda também têm ressalvas."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/blogs/julliana-lopes/politica/motta-anuncia-votacao-do-ajuste-fiscal-na-camara-para-segunda-feira-23/"
-      },
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/politica/motta-anuncia-sessao-para-votar-ajuste-fiscal-na-proxima-segunda-feira-apos-aprovacao-no-senado/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/"
-      }
-     ]
-    },
-    {
-     "kicker": "PGR",
-     "quando": "Ontem",
-     "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula e oferece acordo de não persecução penal",
-     "resumo": "A denúncia foi apresentada ao STF na quarta-feira (18). A Procuradoria propôs um acordo que encerraria o caso caso o senador aceite as condições; as reportagens consultadas não trazem manifestação da defesa.",
-     "fontes": [
-      {
-       "n": "Jota",
-       "u": "https://www.jota.info/stf/do-supremo/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/grande-angular/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/politica/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-dolar-renova-maxima-19-meses-r-593/"
       }
      ]
     },
     {
      "kicker": "STF",
-     "quando": "Ontem",
-     "titulo": "STF retoma julgamento sobre nepotismo em cargos políticos; placar está em 5 a 3 a favor das nomeações",
-     "resumo": "O caso decide se a proibição de nomear parentes vale também para ministérios e secretarias, com efeito para todo o país. Luiz Fux, Flávio Dino e Cármen Lúcia defendem a restrição; Zanin, Mendonça, Nunes Marques, Moraes e Toffoli, a permissão. Faltam os votos de Edson Fachin e Gilmar Mendes, sem data para a conclusão.",
+     "quando": "Hoje",
+     "titulo": "1ª Turma do STF começa a julgar na sexta (20) denúncia contra Van Hattem por discurso na tribuna da Câmara",
+     "resumo": "A PGR acusa o deputado do Novo-RS de calúnia e difamação por ter dito, em agosto de 2024, que um delegado da PF produziu laudos fraudulentos. O julgamento, relatado por Flávio Dino, será no plenário virtual até 30 de novembro; se a denúncia for aceita, ele vira réu.",
+     "lados": [
+      {
+       "quem": "Defesa e Novo",
+       "txt": "Sustentam que a fala está protegida pela imunidade parlamentar prevista no artigo 53 da Constituição, pedem julgamento presencial com sustentação oral e falam em perseguição política."
+      },
+      {
+       "quem": "Acusação",
+       "txt": "A PGR denunciou o deputado em abril após indiciamento pela PF, por entender que as declarações atribuíram crime a um servidor público; até a publicação, delegado, PGR e STF não haviam comentado o pedido da defesa."
+      }
+     ],
      "fontes": [
       {
        "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/relator-muda-voto-stf-reabre-julgamento-nepotismo-politico"
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/19/van-hattem-pode-virar-reu-no-stf-por-discurso-na-camara"
       },
       {
-       "n": "STF",
-       "u": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-18-2/"
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/11/7541114-van-hattem-pede-ajuda-posso-pegar-quatro-anos-de-prisao.html"
       },
       {
-       "n": "Migalhas",
-       "u": "https://www.migalhas.com.br/quentes/468861/ao-vivo-stf-discute-fim-da-isencao-de-pena-por-crimes-patrimoniais"
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/van-hattem-acusa-dino-de-negar-direito-a-defesa-oral-no-stf/"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "1ª Turma do STF começa a julgar na sexta (20) denúncia contra Van Hattem por discurso na tribuna da Câmara",
+     "resumo": "A PGR acusa o deputado do Novo-RS de calúnia e difamação por ter dito, em agosto de 2024, que um delegado da PF produziu laudos fraudulentos. O julgamento, relatado por Flávio Dino, será no plenário virtual até 30 de novembro; se a denúncia for aceita, ele vira réu.",
+     "lados": [
+      {
+       "quem": "Defesa e Novo",
+       "txt": "Sustentam que a fala está protegida pela imunidade parlamentar prevista no artigo 53 da Constituição, pedem julgamento presencial com sustentação oral e falam em perseguição política."
+      },
+      {
+       "quem": "Acusação",
+       "txt": "A PGR denunciou o deputado em abril após indiciamento pela PF, por entender que as declarações atribuíram crime a um servidor público; até a publicação, delegado, PGR e STF não haviam comentado o pedido da defesa."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/19/van-hattem-pode-virar-reu-no-stf-por-discurso-na-camara"
+      },
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/11/7541114-van-hattem-pede-ajuda-posso-pegar-quatro-anos-de-prisao.html"
+      },
+      {
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/van-hattem-acusa-dino-de-negar-direito-a-defesa-oral-no-stf/"
+      }
+     ]
+    },
+    {
+     "kicker": "Foro especial",
+     "quando": "Hoje",
+     "titulo": "PEC apresentada no Senado transfere do STF para o STJ o julgamento de presidente, parlamentares e ministros",
+     "resumo": "A proposta do senador Marcos Pontes (PL-SP) tem 28 assinaturas e aguarda despacho para a CCJ. Precisa de apoio de três quintos em dois turnos na Câmara e no Senado.",
+     "lados": [
+      {
+       "quem": "Autores",
+       "txt": "Dizem que o STF deve se concentrar na guarda da Constituição e que o STJ está mais preparado para julgar crimes comuns de autoridades."
+      },
+      {
+       "quem": "Governo e aliados",
+       "txt": "O líder do governo no Congresso, Randolfe Rodrigues (PT-AP), chama a proposta de casuísmo e lembra que os autores não a apresentaram quando estavam no governo."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/19/pec-tira-stf-julgamento-autoridades-manda-stj"
       }
      ]
     }
@@ -333,37 +356,41 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Dólar a R$ 5,91, BB e CMN",
+   "nota": "Dólar a R$ 5,93 e Anthropic",
    "itens": [
     {
-     "kicker": "Mercado",
+     "kicker": "Bolsa americana",
      "quando": "Hoje",
-     "titulo": "Dólar renova a máxima desde abril de 2025 e chega a R$ 5,91 pela manhã; Ibovespa oscila perto da estabilidade",
-     "resumo": "A moeda americana tocou R$ 5,91 por volta das 9h20 e, no fim da manhã, rondava R$ 5,90, a caminho da sexta alta seguida; a bolsa abriu em alta puxada por Vale e Petrobras, mas perdeu força e operava perto de 167,4 mil pontos às 12h30. Analistas citam a dúvida sobre o alcance do ajuste fiscal, a perspectiva de alta de juros nos EUA e o rebaixamento do Brasil em carteiras de BTG, Itaú BBA, Morgan Stanley e Goldman Sachs.",
-     "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     },
+     "titulo": "Ações da Anthropic fecham a estreia na Nasdaq com alta de 17%, a US$ 97,17; Wall Street cai mais de 2%",
+     "resumo": "Os papéis abriram a US$ 111,50, 34% acima do preço do IPO, de US$ 83, mas perderam força ao longo do dia. No fechamento, a empresa valia cerca de US$ 1,75 trilhão; Dow Jones, S&P 500 e Nasdaq recuaram, num movimento de realização de lucros em ações de tecnologia.",
      "fontes": [
       {
-       "n": "O Repórter",
-       "u": "https://oreporter.com/economia/dolar-se-aproxima-5-90-ibovespa-ensaia-recuperacao-19-novembro"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/empresas-e-negocios/anthropic-fecha-primeiro-dia-a-us-9717-por-acao-em-momento-historico-para-a-ia/"
       },
       {
-       "n": "Gazeta do Paraná",
-       "u": "https://gazetadoparana.com.br/publico/dolar-dispara-e-chega-a-r-591-com-pressao-do-pacote-fiscal-e-estreia-da-anthropic-na-bolsa"
+       "n": "EFE / ABC Color",
+       "u": "https://www.abc.com.py/internacionales/2026/11/19/wall-street-cierra-en-rojo-y-el-nasdaq-baja-un-225-tras-la-salida-a-bolsa-de-anthropic/"
       },
+      {
+       "n": "CBS News",
+       "u": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+      }
+     ]
+    },
+    {
+     "kicker": "Feriado",
+     "quando": "Hoje",
+     "titulo": "CMN se reúne às 18h na véspera do feriado; B3 fica fechada na sexta (20) e mercado volta na segunda",
+     "resumo": "A reunião do Conselho Monetário Nacional estava na agenda do fim da tarde, sem pauta divulgada previamente. Com o feriado da Consciência Negra, a próxima sessão da Bolsa e do câmbio será na segunda-feira (23), dia em que a Câmara deve votar o ajuste fiscal.",
+     "fontes": [
       {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/"
+       "u": "https://www.infomoney.com.br/mercados/anthropic-pacote-fiscal-cupula-trump-xi-putin-agenda-19112026/"
       },
       {
        "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/tempo-real-19-11-2026-davs/"
-      },
-      {
-       "n": "Investing.com",
-       "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ajuste-avanca-no-senado-anthropic-estreia-na-nasdaq-2132473"
+       "u": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem-3/"
       }
      ]
     },
@@ -388,22 +415,6 @@
      ]
     },
     {
-     "kicker": "Agenda",
-     "quando": "Hoje",
-     "titulo": "CMN se reúne na véspera do feriado; B3 não abre na sexta (20) e mercado volta a operar na segunda",
-     "resumo": "O Conselho Monetário Nacional tem reunião mensal nesta quinta, sem pauta divulgada com antecedência. Nos EUA, investidores acompanham os pedidos de seguro-desemprego e a estreia da Anthropic, depois de a ata do Fed indicar novas altas de juros.",
-     "fontes": [
-      {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/ibovespa-hoje-19-11-2026/"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ibovespa-tenta-recuperar-os-169-mil-pontos-de-olho-no-fiscal-5-coisas-para-saber-antes-de-investir-hoje-19-davs/"
-      }
-     ]
-    },
-    {
      "kicker": "Estados Unidos",
      "quando": "Ontem",
      "titulo": "Ata do Fed mostra que quase todos os dirigentes defendem novas altas de juros, e dois admitem alta maior que 0,25 ponto",
@@ -421,7 +432,8 @@
        "n": "Safras & Mercado",
        "u": "https://safras.com.br/maioria-dos-dirigentes-previa-novas-altas-de-juros-apos-pausa-em-outubro-aponta-ata-do-fed"
       }
-     ]
+     ],
+     "destaque": false
     },
     {
      "kicker": "Emprego",
@@ -449,45 +461,33 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Tempestades, PF no RS e feriado",
+   "nota": "Tempestades, feriado e PF no RS",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Inmet mantém alerta de tempestade em quase todo o país; Centro-Oeste inteiro e maior parte do Sudeste estão na lista",
-     "resumo": "O aviso amarelo cobre também áreas do Norte, do Nordeste e do Sul, com previsão de chuva forte, raios e ventania; as capitais paulista e fluminense ficam fora do alerta. As máximas chegam a 37 °C em Teresina e 36 °C em Rio Branco.",
+     "titulo": "Inmet mantém alerta de tempestade em grande parte do país; todo o Mato Grosso do Sul está em alerta laranja",
+     "resumo": "Os 79 municípios sul-mato-grossenses estão sob aviso de chuva de até 100 mm no dia, ventos de até 100 km/h e granizo até o fim desta quinta; no feriado, o alerta laranja continua em 32 cidades do sul e do leste do estado. Há avisos também em Minas Gerais, no Paraná, em Rondônia e no Amazonas.",
      "foto": {
       "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
       "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/quinta-feira-sera-de-calor-e-chuva-em-quase-todo-o-pais"
+       "n": "Hora MS",
+       "u": "https://horams.com.br/alerta-laranja-tempestade-inmet-todo-ms-quinta-19/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/chuva-e-tempestades-devem-atingir-quase-todo-o-brasil-nesta-quinta-19-11"
+       "n": "BH 24 Horas",
+       "u": "https://bh24horas.com.br/minas-gerais/alerta-laranja-de-tempestade-atinge-376-cidades-de-minas-gerais-nesta-quinta-feira/"
       },
       {
        "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/11/19/tempestade-com-ventos-de-ate-100-km-h-e-granizo-poe-montes-claros-em-alerta-laranja-diz-inmet"
-      }
-     ]
-    },
-    {
-     "kicker": "Polícia Federal",
-     "quando": "Hoje",
-     "titulo": "PF faz buscas na casa do vice-presidente do TCE-RS e apreende cerca de R$ 72 mil em dinheiro",
-     "resumo": "A Operação Circuito Paralelo cumpriu seis mandados autorizados pelo STJ em Porto Alegre, Lajeado e Guaporé e investiga suspeita de corrupção e tráfico de influência envolvendo o conselheiro Edson Brum. A defesa diz que ele está à disposição das autoridades e que não há acusação formal contra ele.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-encontra-r-72-mil-em-dinheiro-vivo-na-casa-de-vice-presidente-do-tce-rs"
+       "u": "https://www.otempo.com.br/tempo/2026/11/19/inmet-poe-porto-velho-em-alerta-amarelo-de-tempestade-ventos-de-60-km-h-granizo-e-queda-de-galhos"
       },
       {
-       "n": "Portal 364",
-       "u": "https://www.portal364.com/2026/11/policia-federal-realiza-operacao-para.html"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/quinta-feira-sera-de-calor-e-chuva-em-quase-todo-o-pais"
       }
      ]
     },
@@ -512,6 +512,22 @@
       {
        "n": "O Povo",
        "u": "https://www.opovo.com.br/noticias/curiosidades/2026/11/19/hoje-19-de-novembro-e-feriado-veja-onde-e-quem-folga-nesta-quinta-feira.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Polícia Federal",
+     "quando": "Hoje",
+     "titulo": "PF faz buscas na casa do vice-presidente do TCE-RS e apreende cerca de R$ 72 mil em dinheiro",
+     "resumo": "A Operação Circuito Paralelo cumpriu seis mandados autorizados pelo STJ em Porto Alegre, Lajeado e Guaporé e investiga suspeita de corrupção e tráfico de influência envolvendo o conselheiro Edson Brum. A defesa diz que ele está à disposição das autoridades e que não há acusação formal contra ele.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-encontra-r-72-mil-em-dinheiro-vivo-na-casa-de-vice-presidente-do-tce-rs"
+      },
+      {
+       "n": "Portal 364",
+       "u": "https://www.portal364.com/2026/11/policia-federal-realiza-operacao-para.html"
       }
      ]
     },
@@ -545,25 +561,25 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Fim da trilateral, Berlim e CIJ",
+   "nota": "Shenzhen, COP31 e Irã",
    "itens": [
     {
      "kicker": "Cúpula em Shenzhen",
      "quando": "Hoje",
-     "titulo": "Trump, Xi e Putin encerram reunião trilateral de cerca de 1h20 sem anunciar acordos",
-     "resumo": "Trump chamou o encontro de histórico e falou em reduzir arsenais nucleares; Xi defendeu a eliminação dessas armas e propôs canais permanentes de comunicação entre os três países; Putin citou interesses comuns na solução de conflitos, incluindo a Ucrânia. Trump disse ainda que ele e Xi defendem a reabertura do fluxo de petróleo pelo Estreito de Ormuz.",
+     "titulo": "Trump, Xi e Putin encerram reunião em Shenzhen sem cessar-fogo na Ucrânia; texto conjunto fala em risco nuclear",
+     "resumo": "O encontro de cerca de 1h20, à margem da cúpula da Apec, terminou com uma declaração sobre ONU, energia e proliferação nuclear que não cita a guerra. Putin descartou uma trégua parcial após o ataque ucraniano à ponte da Crimeia, e o Kremlin disse que a Ucrânia não foi o tema central; Trump afirmou ver avanços, sem detalhar.",
      "fontes": [
       {
-       "n": "Carta Capital",
-       "u": "https://www.cartacapital.com.br/mundo/putin-trump-e-xi-jinping-encerram-primeira-reuniao-trilateral-sem-anunciar-acordos/"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/mundo/reuniao-entre-trump-putin-e-xi-termina-sem-proposta-de-cessar-fogo-na-ucrania/"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/trump-xi-e-putin-encerram-reuniao-historica-na-china"
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/mundo/apos-encontro-com-putin-e-xi-trump-pressiona-europa-por-gastos-com-ucrania/"
       },
       {
-       "n": "CBS News",
-       "u": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/mundo/reuniao-de-trump-xi-e-putin-em-shenzhen-rende-foto-e-dialogo-nuclear-mas-nenhum-anuncio-sobre-a-ucrania-quem-saiu-ganhando/"
       }
      ]
     },
@@ -584,6 +600,22 @@
       {
        "n": "Euronews",
        "u": "https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin"
+      }
+     ]
+    },
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "COP31 entra na reta final sem menção a combustíveis fósseis no rascunho e com cortes nos fundos de adaptação",
+     "resumo": "A nova versão do texto em Antalya, na Turquia, excluiu a transição para longe dos fósseis e a meta de US$ 120 bilhões por ano para adaptação, mas manteve a eletrificação de 35% até 2035. O Fundo de Adaptação recebeu US$ 50 milhões em promessas, ante US$ 135 milhões na COP30; o encerramento está previsto para sexta (20).",
+     "fontes": [
+      {
+       "n": "Forbes Brasil",
+       "u": "https://forbes.com.br/forbes-esg/2026/11/cop31-retira-combustiveis-fosseis-da-minuta-e-negocia-acordo-final/"
+      },
+      {
+       "n": "Vatican News",
+       "u": "https://www.vaticannews.va/pt/mundo/news/2026-11/turquia-cop31-financiamento-climatico-combustiveis-fosseis.html"
       }
      ]
     },
@@ -621,21 +653,25 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Rodada à noite, título e F1",
+   "nota": "Rodada à noite, F1 e finais",
    "itens": [
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Rodada tem três jogos nesta noite, com Internacional e Vitória tentando se afastar do rebaixamento",
-     "resumo": "Vitória x Bragantino e Vasco x Internacional começam às 19h30; São Paulo x Fluminense, às 21h30, no Morumbis. Inter e Vitória têm 38 pontos, e o Fluminense, quarto colocado, defende vaga direta na Libertadores.",
+     "titulo": "Vasco recebe o Internacional, que está na zona de rebaixamento; São Paulo enfrenta o Fluminense às 21h30",
+     "resumo": "O Inter é o 16º, com 38 pontos, um a mais que Corinthians e Grêmio, e joga em São Januário às 19h30 contra o Vasco, 11º. No Morumbis, o São Paulo tem cinco lesionados e três suspensos; o Fluminense termina a rodada em 4º com qualquer resultado. Vitória e Bragantino também jogam às 19h30.",
      "fontes": [
       {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/esportes/brasileirao-tera-3-jogos-nesta-noite-com-disputa-contra-o-rebaixamento"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/vasco/ao-vivo-siga-vasco-x-internacional-pelo-brasileirao.html"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-quinta-feira-19-11-2026-2.html"
+       "n": "VAVEL",
+       "u": "https://www.vavel.com/br/futebol/2026/11/19/sao-paulo/1279772-sao-paulo-recebe-o-fluminense-em-seu-retorno-ao-morumbis.html"
+      },
+      {
+       "n": "O Paraná",
+       "u": "https://oparana.com.br/esportes/sao-paulo-x-fluminense-vasco-x-internacional-e-vitoria-x-bragantino-movimentam-o-brasileirao-nesta-quinta-feira-19/"
       }
      ]
     },
@@ -662,48 +698,40 @@
     {
      "kicker": "Fórmula 1",
      "quando": "Hoje",
-     "titulo": "GP de Las Vegas começa às 21h30 com Antonelli já campeão; Bortoleto busca pontos para a Audi",
-     "resumo": "Com o título de pilotos definido, a disputa é pelo vice, com Verstappen à frente de Russell e Hamilton. A Audi está três pontos atrás da Haas entre os construtores; a corrida será na madrugada de domingo, à 1h.",
+     "titulo": "F1 abre o GP de Las Vegas às 21h30; Bortoleto e Rafael Câmara disputam posições que valem dinheiro para Audi e Haas",
+     "resumo": "Antonelli já é campeão com 390 pontos. Bortoleto tem 14 pontos e foi 16º em Interlagos; Câmara estreou com o 20º lugar. No Mundial de Construtores, a Haas é 7ª, com 31 pontos, e a Audi, 8ª, com 28; a corrida é na madrugada de domingo, à 1h.",
      "fontes": [
       {
        "n": "F1Mania",
        "u": "https://www.f1mania.net/f1/f1-gp-de-las-vegas-comeca-hoje-veja-o-que-esperar-dos-primeiros-treinos/"
       },
       {
-       "n": "Gazeta Web",
-       "u": "https://www.gazetaweb.com/noticias/esportes/internacional/f1-horarios-e-onde-assistir-ao-gp-de-las-vegas-2026-949853"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-confira-horarios-e-onde-assistir-ao-gp-de-las-vegas-com-gabriel-bortoleto-e-rafa-camara,d9cd99a144183f65602c255662cfe224bn1ifmp3.html"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/19/f1-disputa-entre-gabriel-bortoleto-e-rafael-camara-no-gp-de-las-vegas-vale-milhoes-para-audi-e-haas/"
       }
      ]
     },
     {
      "kicker": "Sul-Americana",
      "quando": "Hoje",
-     "titulo": "Atlético-MG chega a Barranquilla e treina fechado para a final contra o Boca Juniors no sábado",
-     "resumo": "A decisão, em jogo único às 19h30, terá arbitragem do uruguaio Andrés Matonte; o campeão garante vaga na fase de grupos da Libertadores de 2027 e na Recopa. O Boca prevê mais de 30 mil torcedores no estádio.",
+     "titulo": "Atlético-MG, sem vencer há sete jogos, encara Boca embalado por seis vitórias na final da Sul-Americana",
+     "resumo": "A decisão em jogo único é no sábado (21), às 19h30, no Estádio Metropolitano de Barranquilla, com arbitragem do uruguaio Andrés Matonte. O campeão garante vaga na fase de grupos da Libertadores de 2027 e na Recopa; o Boca relacionou 33 jogadores.",
      "fontes": [
       {
-       "n": "Rede Hoje",
-       "u": "https://redehoje.com.br/2026/11/19/e-sula-barranquilla-recebe-neste-sabado-final-entre-atletico-e-boca-juniors-que-vale-vaga-na-libertadores-de-2027/"
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4369756/atletico-mg-x-boca-juniors-veja-onde-assistir-e-as-provaveis-escalacoes"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/boca-juniors-projeta-invasao-em-final-da-sul-americana-contra-atletico-mg/"
-      }
-     ]
-    },
-    {
-     "kicker": "Seleção",
-     "quando": "17/11",
-     "titulo": "Seleção fecha 2026 com 7 a 0 sobre Singapura e saldo de nove vitórias em 14 jogos",
-     "resumo": "Vini Jr. marcou três gols no último amistoso do ano. A equipe de Ancelotti teve três derrotas e dois empates no ano, incluindo a eliminação nas oitavas da Copa para a Noruega; a próxima data Fifa é em março de 2027.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/selecao-termina-2026-com-mais-vitorias-que-derrotas-mas-devendo-futebol"
+       "n": "Manchete Esportiva",
+       "u": "https://mancheteesportiva.com.br/competicoes/atletico-mg-boca-final-sul-americana-sabado/4104/"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/esportes/selecao-brasileira-vence-singapura/"
+       "n": "Fato Amazônico",
+       "u": "https://fatoamazonico.com.br/sul-americana-boca-divulga-relacionados-para-final-contra-o-atletico-mg/"
       }
      ]
     }
@@ -713,7 +741,7 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Dengue, mpox e covid",
+   "nota": "Dengue, brucelose e mpox",
    "itens": [
     {
      "kicker": "Dengue",
@@ -728,6 +756,22 @@
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-11/dia-nacional-de-combate-dengue-mobiliza-municipios-hoje-19"
+      }
+     ]
+    },
+    {
+     "kicker": "Vigilância",
+     "quando": "Hoje",
+     "titulo": "Brucelose humana passa a ser doença de notificação compulsória no país",
+     "resumo": "Portaria do Ministério da Saúde obriga hospitais e clínicas a informar os casos semanalmente. A infecção é transmitida sobretudo por leite e derivados não pasteurizados e por carne crua ou malpassada, e atinge mais trabalhadores rurais, veterinários e funcionários de frigoríficos; o tratamento com antibióticos é oferecido pelo SUS.",
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/19/brucelose-notificacao-compulsoria-brasil"
+      },
+      {
+       "n": "Ministério da Saúde",
+       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026"
       }
      ]
     },
@@ -766,26 +810,6 @@
        "u": "https://spdiario.com.br/noticias/saude/butantan-inaugura-centro-sequelas-cronicas-chikungunya-dengue-zika.html"
       }
      ]
-    },
-    {
-     "kicker": "Covid-19",
-     "quando": "16/11",
-     "titulo": "Ministério da Saúde envia 1,4 milhão de doses extras de vacina contra a covid a dez estados",
-     "resumo": "São Paulo, Rio e Minas recebem a maior parte. Idosos e imunocomprometidos devem tomar uma dose a cada seis meses; em 2026, o país soma 445 mortes por covid, cerca de 70% a menos que no mesmo período de 2025.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Cidades",
-       "u": "https://www.agenciacidades.com.br/reportagens/2026/11/17/com-3641-casos-graves-e-445-mortes-em-2026-governo-reforca-vacinacao-contra-a-covid-19.html"
-      },
-      {
-       "n": "Agência GBC",
-       "u": "https://agenciagbc.com/2026/11/18/covid-19-ministerio-envia-14-milhao-de-doses-extras-veja-quem-deve-se-vacinar/"
-      }
-     ]
     }
    ]
   },
@@ -799,7 +823,7 @@
      "kicker": "Enem",
      "quando": "Hoje",
      "titulo": "Prazo para pedir a reaplicação do Enem termina nesta sexta (20); novas provas serão em 15 e 16 de dezembro",
-     "resumo": "Podem pedir participantes afetados por problemas logísticos, como as quedas de energia em 50 locais nos dois domingos, ou por doenças infectocontagiosas previstas no edital. O pedido é feito na Página do Participante, e as notas saem em 18 de janeiro.",
+     "resumo": "Quem faltou por falta de energia no local de prova ou por doença infectocontagiosa deve fazer o pedido na Página do Participante, um para cada domingo. As provas serão em 15 e 16 de dezembro; a abstenção nesta edição foi de 32% no primeiro dia e 36% no segundo, e o resultado sai em 18 de janeiro.",
      "foto": {
       "src": "https://imagens.ebc.com.br/Q7BgPCRhxf_HiZDekpjkd2-JBUA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/_int4931.jpg?itok=upOndC78",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
@@ -812,6 +836,18 @@
       {
        "n": "Agência Gov",
        "u": "https://agenciagov.ebc.com.br/noticias/202611/nota-do-enem-pode-ser-usada-para-concorrer-a-1-5-milhao-de-vagas-no-sisu-prouni-e-fies"
+      }
+     ]
+    },
+    {
+     "kicker": "Concurso",
+     "quando": "Hoje",
+     "titulo": "São Paulo anuncia para hoje edital de concurso com 5 mil vagas para professores da rede estadual",
+     "resumo": "A seleção, organizada pela FGV, prevê 3 mil vagas de 40 horas e 2 mil de 25 horas, com salário inicial de referência de R$ 5.565 na jornada maior. Datas de inscrição e provas dependem da publicação do edital.",
+     "fontes": [
+      {
+       "n": "Nova Concursos",
+       "u": "https://novaconcursos.com.br/portal/noticias/concurso-see-sp-edital-publicacao-19-11"
       }
      ]
     },
@@ -836,18 +872,6 @@
       {
        "n": "Quero Bolsa",
        "u": "https://querobolsa.com.br/revista/mec-anuncia-datas-oficiais-gabarito-e-resultado-enem-2026"
-      }
-     ]
-    },
-    {
-     "kicker": "Concurso",
-     "quando": "Hoje",
-     "titulo": "São Paulo anuncia para hoje edital de concurso com 5 mil vagas para professores da rede estadual",
-     "resumo": "A seleção, organizada pela FGV, prevê 3 mil vagas de 40 horas e 2 mil de 25 horas, com salário inicial de referência de R$ 5.565 na jornada maior. Datas de inscrição e provas dependem da publicação do edital.",
-     "fontes": [
-      {
-       "n": "Nova Concursos",
-       "u": "https://novaconcursos.com.br/portal/noticias/concurso-see-sp-edital-publicacao-19-11"
       }
      ]
     },
@@ -901,51 +925,40 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Estreia da Anthropic e COP31",
+   "nota": "Anthropic, IA na escola e espaço",
    "itens": [
     {
      "kicker": "Inteligência artificial",
      "quando": "Hoje",
-     "titulo": "Anthropic, dona do Claude, estreia na Nasdaq após levantar US$ 81,3 bilhões, o maior IPO da história",
-     "resumo": "As ações, com o código ANT, foram precificadas a US$ 83, acima da faixa inicial de US$ 70 a US$ 78, o que avalia a empresa em cerca de US$ 1,5 trilhão. A expectativa pela estreia levou a Nasdaq a subir perto de 1,9% no fim da manhã; investidores brasileiros podem comprar BDRs.",
+     "titulo": "Anthropic, dona do Claude, estreia na Nasdaq após o maior IPO da história; empresa diz que modelo ajudou a revelar estrutura molecular",
+     "resumo": "A empresa levantou US$ 81,3 bilhões e fechou o primeiro dia avaliada em cerca de US$ 1,75 trilhão. Na véspera, anunciou um estudo preliminar, ainda sem revisão por pares, em que o Claude ajudou cientistas a reconstruir em 3D uma partícula parecida com as vaults das células humanas; a empresa relata que o modelo também cometeu erros que atrasaram a pesquisa.",
      "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/claude-ajudou-a-revelar-estrutura-molecular-inedita-entenda/"
+      },
+      {
+       "n": "CBS News",
+       "u": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+      },
       {
        "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/mundo/anthropic-estreia-na-bolsa-dos-eua-apos-levantar-us-813-bilhoes-em-ipo-historico/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/internacional-economia/nasdaq-sobe-estreia-acoes-anthropic-ipo/"
-      },
-      {
-       "n": "Yahoo Finance",
-       "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
-      }
-     ]
-    },
-    {
-     "kicker": "COP31",
-     "quando": "Hoje",
-     "titulo": "Nova minuta da COP31 retira todas as menções a combustíveis fósseis, a um dia do fim da conferência",
-     "resumo": "O texto anterior, de três dias atrás, pedia o abandono gradual dos fósseis; a nova versão fala em sistemas de energia limpos e acessíveis e em acelerar renováveis e eletrificação. A decisão final precisa ser aprovada sem objeções na plenária de encerramento, em Antália.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/nova-minuta-de-documento-final-da-cop31-tira-mencao-a-combustiveis-fosseis"
-      },
-      {
-       "n": "Observador",
-       "u": "https://observador.pt/2026/11/19/combustiveis-fosseis-desaparecem-do-projeto-de-texto-final-da-cop31/"
-      },
-      {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-esg/2026/11/cop31-retira-combustiveis-fosseis-da-minuta-e-negocia-acordo-final/"
+       "u": "https://timesbrasil.com.br/empresas-e-negocios/anthropic-fecha-primeiro-dia-a-us-9717-por-acao-em-momento-historico-para-a-ia/"
       }
      ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/94SQjjcu4cTte9q4jZB3BziTpsI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/floresta-211016ebc0489.jpg?itok=raMYT_E0",
-      "credito": "Valter Campanato/Agência Brasil (arquivo)"
-     }
+     "destaque": false
+    },
+    {
+     "kicker": "Divulgação científica",
+     "quando": "Hoje",
+     "titulo": "Semana Nacional de Ciência e Tecnologia ocupa a Esplanada, em Brasília, de 23 a 29 de novembro",
+     "resumo": "O evento gratuito terá como tema “Ciência Delas” e reunirá robôs, drones, um simulador sobre os rios voadores da Amazônia e projeções do experimento AmazonFace. A abertura oficial está marcada para segunda (23).",
+     "fontes": [
+      {
+       "n": "Correio Braziliense",
+       "u": "https://correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
+      }
+     ]
     },
     {
      "kicker": "Espaço",
@@ -1009,25 +1022,45 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Jogos Vorazes e shows",
+   "nota": "Jogos Vorazes e mortes",
    "itens": [
     {
      "kicker": "Cinema",
      "quando": "Hoje",
-     "titulo": "“Jogos Vorazes: Amanhecer na Colheita” estreia com mais de 160 mil ingressos vendidos antecipadamente no Brasil",
-     "resumo": "O sexto filme da saga se passa 24 anos antes do primeiro e acompanha o jovem Haymitch; é uma das 13 estreias da semana, que inclui seis filmes brasileiros. Nos EUA, o lançamento é na sexta.",
+     "titulo": "“Jogos Vorazes: Amanhecer na Colheita” estreia com crítica dividida e mais de 2 mil sessões no feriado",
+     "resumo": "O filme sobre a juventude de Haymitch tinha 75% de aprovação no Rotten Tomatoes e nota 56 no Metacritic na véspera da estreia. A pré-venda passou de 112 mil ingressos, o dobro do longa anterior no mesmo ponto, e o feriado terá 2.165 sessões em 237 cinemas.",
      "fontes": [
+      {
+       "n": "Partiu Cinema",
+       "u": "https://www.partiucinema.com.br/noticias/2026/jogos-vorazes-amanhecer-na-colheita-pre-estreia-18-novembro-sessoes-precos"
+      },
+      {
+       "n": "Carta Capital",
+       "u": "https://www.cartacapital.com.br/cartalab/jogos-vorazes-amanhecer-na-colheita-leva-haymitch-a-arena-mais-cruel-da-saga/"
+      },
       {
        "n": "TV Sim Brasil",
        "u": "https://tvsimbrasil.com.br/brasil/pop/noticia/2026/11/18/jogos-vorazes-amanhecer-na-colheita-estreia-160-mil-ingressos"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Alexander Haskin, ator de “Você” e “The Rookie”, morre aos 38 anos após pular de píer em Santa Monica",
+     "resumo": "O corpo foi retirado do mar cerca de 50 minutos após o chamado de socorro, na segunda (16). O instituto médico-legal de Los Angeles confirmou a identidade, mas não divulgou a causa; relatos iniciais de que ele teria agredido uma mulher antes foram contestados pela polícia, segundo a Band.",
+     "fontes": [
+      {
+       "n": "A Gazeta / Estadão Conteúdo",
+       "u": "https://agazeta.com.br/hz/filmes-e-series/ator-de-serie-da-netflix-morre-aos-38-anos-veja-o-que-se-sabe-sobre-o-caso-1126"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/filmes-e-series/2026/11/18/jogos-vorazes-amanhecer-na-colheita-estreia-nos-cinemas-veja-o-que-ja-sabemos-sobre-o-filme"
+       "n": "Band",
+       "u": "https://band.com.br/entretenimento/celebridades/ator-de-you-morre-no-mar-e-policia-desmente-relato-de-agressao"
       },
       {
-       "n": "Espaço do Povo",
-       "u": "https://espacodopovo.com.br/estreias-cinema-19-novembro-2026-guia/"
+       "n": "Correio Braziliense",
+       "u": "https://tvprime.correiobraziliense.com.br/noticia/414477/filmes-e-series/ator-da-serie-you-morre-afogado-aos-38-anos-apos-agredir-mulher-e-se-jogar-no-mar-19112026"
       }
      ]
     },
@@ -1062,6 +1095,18 @@
      ]
     },
     {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre aos 91 anos o jornalista e escritor italiano Corrado Augias; Senado faz minuto de silêncio",
+     "resumo": "Augias apresentou o programa “Telefono Giallo” na Rai e colaborava com o jornal La Repubblica desde a fundação. Senadores do governo e da oposição o homenagearam com aplausos em Roma.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/19/italia-morre-aos-91-anos-corrado-augias-aplausos-e-minuto-de-silencio-no-senado"
+      }
+     ]
+    },
+    {
      "kicker": "Música",
      "quando": "Ontem",
      "titulo": "Aos 82 anos, Roger Daltrey, vocalista do The Who, faz show solo em São Paulo no sábado",
@@ -1074,38 +1119,6 @@
       {
        "n": "Conexão Pop",
        "u": "https://conexaopop.com.br/agenda-de-shows-de-novembro-de-2026-mariah-carey-hayley-williams-e-muito-mais/"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "Hoje",
-     "titulo": "Gilsons fazem show em Curitiba na véspera do feriado com a turnê “Eu Vejo Luz”",
-     "resumo": "O trio formado por filho e netos de Gilberto Gil se apresenta nesta quinta no Cine Lido. A turnê tem 11 datas anunciadas.",
-     "fontes": [
-      {
-       "n": "Tribuna PR",
-       "u": "https://www.tribunapr.com.br/viva/gilsons-embalam-a-vespera-de-feriado-cinemas-tem-estreias/"
-      },
-      {
-       "n": "Paraná Portal",
-       "u": "https://www.paranaportal.com/agenda-cultural/gilsons-trazem-nova-turne-a-curitiba-em-novembro/"
-      }
-     ]
-    },
-    {
-     "kicker": "Streaming",
-     "quando": "Ontem",
-     "titulo": "Série brasileira \"Os 12 Signos de Valentina\", com Giovanna Grigio, está entre as sete estreias da Netflix desta semana",
-     "resumo": "A comédia romântica, que estreou na quarta, é baseada no livro de Ray Tavares. A lista inclui ainda a minissérie argentina \"Gordon\", com Rodrigo de la Serna, e a série polonesa de suspense \"A Lei dos Monstros\".",
-     "fontes": [
-      {
-       "n": "Trecobox",
-       "u": "https://trecobox.com.br/netflix-7-estreias-quarta-feira-18-novembro/"
-      },
-      {
-       "n": "Showmetech",
-       "u": "https://www.showmetech.com.br/lancamentos-do-cinema-em-novembro-de-2026/"
       }
      ]
     }
