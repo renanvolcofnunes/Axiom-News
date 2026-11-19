@@ -1,33 +1,33 @@
 {
  "data": "Quinta-feira, 19 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "19/11/2026 · 07h20 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 17h30",
- "fontes": 75,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "19/11/2026 · 12h40 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 12h30",
+ "fontes": 66,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 18/11",
-   "valor": "167.538 pts",
-   "var": "-1,34%",
+   "nome": "Ibovespa · 12h30",
+   "valor": "167.404 pts",
+   "var": "-0,08%",
    "dir": "down"
   },
   {
-   "nome": "Dólar comercial · fechamento 18/11",
-   "valor": "R$ 5,87",
-   "var": "+1,46%",
+   "nome": "Dólar comercial · 12h30",
+   "valor": "R$ 5,90",
+   "var": "+0,27%",
    "dir": "up"
   },
   {
-   "nome": "Nasdaq · fechamento 18/11",
-   "valor": "24.429 pts",
-   "var": "+0,42%",
+   "nome": "Nasdaq · 11h35",
+   "valor": "Em alta",
+   "var": "+1,9%",
    "dir": "up"
   },
   {
-   "nome": "Dow Jones · fechamento 18/11",
-   "valor": "50.198 pts",
-   "var": "-1,11%",
+   "nome": "DI jan/2029 · 9h38",
+   "valor": "14,97%",
+   "var": "-0,005 ponto",
    "dir": "down"
   },
   {
@@ -39,9 +39,9 @@
  ],
  "agenda": [
   {
-   "hora": "Qui 19/11 · manhã",
-   "txt": "Trilateral Trump, Xi e Putin em Shenzhen; europeus, Zelensky e enviados dos EUA se reúnem em Berlim; CMN se reúne às 9h; ações da Anthropic estreiam na Nasdaq",
-   "cat": "mundo"
+   "hora": "Qui 19/11 · tarde",
+   "txt": "Reunião do Conselho Monetário Nacional (CMN); ações da Anthropic em primeiro dia de negociação na Nasdaq",
+   "cat": "economia"
   },
   {
    "hora": "Qui 19/11 · noite",
@@ -50,23 +50,23 @@
   },
   {
    "hora": "Sex 20/11",
-   "txt": "Feriado nacional da Consciência Negra: sem pregão na B3 e agências bancárias fechadas; último dia previsto da COP31",
+   "txt": "Feriado da Consciência Negra, sem pregão na B3; último dia para pedir a reaplicação do Enem; encerramento previsto da COP31",
    "cat": "brasil"
   },
   {
    "hora": "Sáb 21/11",
-   "txt": "Palmeiras x Flamengo (16h30), que pode decidir o Brasileirão; Atlético-MG x Boca Juniors na final da Sul-Americana, em Barranquilla (19h30); Roger Daltrey em São Paulo",
+   "txt": "Palmeiras x Flamengo (16h30), que pode decidir o Brasileirão; Atlético-MG x Boca Juniors na final da Sul-Americana, em Barranquilla (19h30)",
    "cat": "esporte"
   },
   {
    "hora": "Seg 23/11",
-   "txt": "Câmara deve votar o projeto de ajuste fiscal aprovado pelo Senado, segundo Hugo Motta",
+   "txt": "Câmara deve votar o projeto de ajuste fiscal aprovado pelo Senado",
    "cat": "politica"
   },
   {
-   "hora": "Sáb 28/11 · 17h",
-   "txt": "Palmeiras x Estudiantes decidem a Libertadores no Estádio Centenário, em Montevidéu",
-   "cat": "esporte"
+   "hora": "Qua 16/12",
+   "txt": "Começa a valer a jornada de 42 horas semanais com duas folgas, prevista no decreto do fim da escala 6x1",
+   "cat": "politica"
   }
  ],
  "acervo": [
@@ -162,49 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Política · Ajuste fiscal",
-  "titulo": "Senado conclui votação do ajuste fiscal por 69 a 2, e Câmara deve analisar o texto na segunda (23)",
-  "resumo": "No turno suplementar, os senadores aprovaram quatro emendas aceitas pelo relator, Eduardo Braga (MDB-AM), entre elas a que eleva para R$ 2 bilhões por ano o repasse da Lei Kandir aos estados. O presidente da Câmara, Hugo Motta, disse que os deputados devem votar o projeto no início da próxima semana.",
+  "kicker": "Trabalho · Fim da escala 6x1",
+  "titulo": "Lula assina decreto que regulamenta o fim da escala 6x1; jornada de 42 horas com duas folgas começa em 16 de dezembro",
+  "resumo": "O texto, assinado na manhã desta quinta no Palácio do Planalto, orienta empresas e trabalhadores na transição para o modelo de cinco dias de trabalho e dois de descanso, sem redução de salário. A semana de 40 horas passa a valer em dezembro de 2027.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/92SOTb7KB2yZ5fwAsK9SXWXuvJo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/17/maioridade_12-11-26_0.jpg?itok=C7rNMz4F",
-   "credito": "Lula Marques/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/j6MlqslJj-HX446LhcxnuS9Na04=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/13/pzzb9979.jpg?itok=p3I6iNsF",
+   "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
   },
-  "entenda": "O PLP 299/2026, de autoria de Jaques Wagner (PT-BA), teve o texto-base aprovado em 12 de novembro por 45 a 31, e os destaques da oposição foram rejeitados nesta semana. O projeto limita a 2% o crescimento real das despesas nos anos de contenção, contra 2,5% no arcabouço atual, amplia o corte de benefícios fiscais e restringe compensações de créditos tributários; o governo estima melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado de 2027. O texto também abre espaço de até R$ 10,5 bilhões fora da meta de 2026 para o subsídio ao diesel. A oposição, liderada no Senado por Rogério Marinho (PL-RN), afirma que o pacote aumenta impostos e transfere custos aos estados, e defendeu um limite de gastos de 0,6%. Na Câmara, o relator será Mauro Benevides Filho (União-CE); o governo quer evitar mudanças que obriguem o projeto a voltar ao Senado.",
+  "entenda": "A mudança vem da Emenda Constitucional 141, aprovada pelo Congresso em outubro e promulgada no dia 16 daquele mês. O decreto trata da transição, de categorias com escalas especiais e do papel das convenções coletivas; portarias do Ministério do Trabalho poderão detalhar casos específicos. Segundo o ministério, cerca de 14,9 milhões dos 44,7 milhões de trabalhadores formais estão hoje na escala 6x1. Confederações do comércio (CNC) e da indústria (CNI) questionam os prazos no STF: em 12 de novembro, o ministro Flávio Dino manteve a data de início, mas flexibilizou regras de compensação, e o mérito será julgado pelo plenário presencial, ainda sem data.",
   "fatos": [
-   "Emendas aprovadas reduzem de 120 para 60 dias o prazo para o Congresso definir o que fica fora do teto salarial e obrigam o governo a explicar em audiência pública resultados primários abaixo de 0,5% do PIB",
-   "Outra emenda, de Tereza Cristina (PP-MS), exclui da trava de compensações os créditos de PIS/Pasep e Cofins",
-   "O dólar teve a quinta alta seguida na quarta e fechou a R$ 5,87; o Ibovespa caiu 1,34%, aos 167.538 pontos"
+   "Primeira etapa, a partir de 16/12/2026: limite cai de 44 para 42 horas semanais, com duas folgas remuneradas",
+   "Sem acordo coletivo até 15/12, as 42 horas podem ser distribuídas em cinco dias de até 8h24, conforme a liminar de Dino",
+   "O ministro Luiz Marinho diz que o governo fez reuniões com mais de 70 setores; a CNI estima impacto de R$ 11 bilhões para a indústria em 2027"
   ],
   "fontes": [
    {
-    "n": "Diário do Nordeste",
-    "u": "https://diariodonordeste.verdesmares.com.br/pontopoder/senado-conclui-votacao-e-aprova-quatro-emendas-ao-plp-do-ajuste-fiscal-1.3806935",
-    "d": "as quatro emendas"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/brasil/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1/",
+    "d": "regras e liminar no STF"
    },
    {
-    "n": "Jornal do Brasil",
-    "u": "https://www.jb.com.br/brasil/politica/2026/11/1061592-senado-aprova-plp-299-2026-e-envia-ajuste-fiscal-a-camara.html",
-    "d": "placar e meta de gastos"
+    "n": "Agência Gov",
+    "u": "https://agenciagov.ebc.com.br/noticias/202611/lula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe",
+    "d": "assinatura e trabalhadores afetados"
    },
    {
     "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/blogs/julliana-lopes/politica/motta-anuncia-votacao-do-ajuste-fiscal-na-camara-para-segunda-feira-23/",
-    "d": "votação na Câmara"
+    "u": "https://www.cnnbrasil.com.br/politica/governo-assina-hoje-decreto-que-regulamenta-fim-da-escala-de-trabalho-6x1/",
+    "d": "críticas de CNC e CNI"
+   },
+   {
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/decreto-que-regulamenta-escala-5x2-sera-assinado-quinta-feira",
+    "d": "data de início"
    },
    {
     "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/republica/hugo-motta-se-reune-com-ministros-de-lula-e-alcolumbre-para-discutir-ajuste-fiscal/",
-    "d": "críticas da oposição"
-   },
-   {
-    "n": "Carta Capital",
-    "u": "https://www.cartacapital.com.br/economia/senado-conclui-votacao-do-ajuste-fiscal-que-pode-gerar-economia-de-ate-r-60-bi-texto-vai-a-camara/",
-    "d": "texto vai à Câmara"
-   },
-   {
-    "n": "Itabira Online",
-    "u": "https://itabiraonline.com.br/2026/11/18/dolar-sobe-pela-quinta-vez-consecutiva-e-fecha-a-r-587-ibovespa-cai-134/",
-    "d": "fechamento do mercado"
+    "u": "https://www.gazetadopovo.com.br/economia/comercio-critica-fim-escala-6x1-aponta-lacunas-nova-regra-trabalhista/",
+    "d": "lacunas apontadas pelo comércio"
    }
   ]
  },
@@ -213,8 +208,55 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste vai à Câmara, STF e ministério",
+   "nota": "Decreto da 6x1, Fazenda e PGR",
    "itens": [
+    {
+     "kicker": "Escala 6x1",
+     "quando": "Hoje",
+     "titulo": "Decreto do fim da 6x1 sai enquanto STF ainda vai julgar as regras de transição contestadas por empresários",
+     "resumo": "A liminar de Flávio Dino segue valendo até a decisão do plenário presencial, pedida após um pedido de vista de Luiz Fux. O decreto não muda a data de início, 16 de dezembro, e dá papel central às negociações coletivas.",
+     "lados": [
+      {
+       "quem": "Governo",
+       "txt": "Afirma que o decreto orienta a transição sem corte de salário, depois de reuniões com mais de 70 setores, e que as convenções coletivas devem buscar o arranjo mais adequado a cada categoria."
+      },
+      {
+       "quem": "Comércio e indústria",
+       "txt": "CNC e CNI pediram ao STF mais prazo, dizendo que o início coincide com o pico de vendas de fim de ano e que faltam regras para pequenas empresas e escalas contínuas."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/brasil/lula-assina-decreto-que-regulamenta-fim-da-escala-6x1/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/governo-assina-hoje-decreto-que-regulamenta-fim-da-escala-de-trabalho-6x1/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/comercio-critica-fim-escala-6x1-aponta-lacunas-nova-regra-trabalhista/"
+      }
+     ],
+     "destaque": false
+    },
+    {
+     "kicker": "Novo governo",
+     "quando": "Hoje",
+     "titulo": "Moretti ganha força na disputa pela Fazenda após articular o ajuste no Senado; Lula diz que não tem pressa para indicar ministros",
+     "resumo": "O ministro do Planejamento, Bruno Moretti, é avaliado por Lula para o comando da Fazenda, hoje com Dario Durigan. Os dois deram sinais diferentes: Durigan falou em novas medidas fiscais imediatas, e Moretti disse que ainda não é o momento.",
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/19/por-que-moretti-durigan-divergem-ajuste-fiscal"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/lula-diz-que-nao-tem-pressa-e-que-vai-indicar-ministros-quando-quiser/"
+      }
+     ]
+    },
     {
      "kicker": "Ajuste fiscal",
      "quando": "Ontem",
@@ -246,6 +288,26 @@
      ]
     },
     {
+     "kicker": "PGR",
+     "quando": "Ontem",
+     "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula e oferece acordo de não persecução penal",
+     "resumo": "A denúncia foi apresentada ao STF na quarta-feira (18). A Procuradoria propôs um acordo que encerraria o caso caso o senador aceite as condições; as reportagens consultadas não trazem manifestação da defesa.",
+     "fontes": [
+      {
+       "n": "Jota",
+       "u": "https://www.jota.info/stf/do-supremo/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/grande-angular/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula"
+      }
+     ]
+    },
+    {
      "kicker": "STF",
      "quando": "Ontem",
      "titulo": "STF retoma julgamento sobre nepotismo em cargos políticos; placar está em 5 a 3 a favor das nomeações",
@@ -264,26 +326,6 @@
        "u": "https://www.migalhas.com.br/quentes/468861/ao-vivo-stf-discute-fim-da-isencao-de-pena-por-crimes-patrimoniais"
       }
      ]
-    },
-    {
-     "kicker": "Novo governo",
-     "quando": "Ontem",
-     "titulo": "Aliados apontam Camilo Santana como favorito para a Casa Civil; Lula deve anunciar os primeiros ministros até o fim do mês",
-     "resumo": "Segundo O Globo, Lula pediu a Camilo uma lista de grandes projetos para o quarto mandato, apresentada na reunião de terça no Alvorada com Rui Costa, Rafael Fonteles e Edinho Silva. Para a Fazenda, são citados Fonteles, Geraldo Alckmin e Dario Durigan.",
-     "fontes": [
-      {
-       "n": "Tribuna do Sertão/O Globo",
-       "u": "https://www.tribunadosertao.com.br/poder-e-governo/2026/11/18/1024392-aliados-de-lula-veem-camilo-como-favorito-para-a-casa-civil-apos-missoes-e-contato-constante-com-presidente"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/lula-reune-aliados-alvorada-montar-ministerio"
-      },
-      {
-       "n": "Imirante",
-       "u": "https://m.imirante.com/noticias/brasil/2026/11/18/ipolitica-aliados-lula-veem-camilo-santana-como-favorito-assumir-casa-civil"
-      }
-     ]
     }
    ]
   },
@@ -291,69 +333,73 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Dólar em alta, emprego e agenda",
+   "nota": "Dólar a R$ 5,91, BB e CMN",
    "itens": [
     {
      "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Dólar tem a quinta alta seguida e fecha a R$ 5,87, maior valor desde abril de 2025; Ibovespa cai 1,34%",
-     "resumo": "A bolsa terminou aos 167.538 pontos, com volume de R$ 20,7 bilhões e queda das petroleiras, acompanhando o recuo do Brent. Analistas atribuem o movimento à dúvida sobre o alcance do ajuste fiscal e à ata do Fed; dois leilões de linha do BC, de US$ 1 bilhão, não seguraram a moeda.",
+     "quando": "Hoje",
+     "titulo": "Dólar renova a máxima desde abril de 2025 e chega a R$ 5,91 pela manhã; Ibovespa oscila perto da estabilidade",
+     "resumo": "A moeda americana tocou R$ 5,91 por volta das 9h20 e, no fim da manhã, rondava R$ 5,90, a caminho da sexta alta seguida; a bolsa abriu em alta puxada por Vale e Petrobras, mas perdeu força e operava perto de 167,4 mil pontos às 12h30. Analistas citam a dúvida sobre o alcance do ajuste fiscal, a perspectiva de alta de juros nos EUA e o rebaixamento do Brasil em carteiras de BTG, Itaú BBA, Morgan Stanley e Goldman Sachs.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/dolar-ibovespa-bolsa-fechamento-18-novembro"
+       "n": "O Repórter",
+       "u": "https://oreporter.com/economia/dolar-se-aproxima-5-90-ibovespa-ensaia-recuperacao-19-novembro"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/bolsa-fecha-em-queda-com-incertezas-sobre-pacote-de-ajuste-fiscal"
+       "n": "Gazeta do Paraná",
+       "u": "https://gazetadoparana.com.br/publico/dolar-dispara-e-chega-a-r-591-com-pressao-do-pacote-fiscal-e-estreia-da-anthropic-na-bolsa"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-cai-128-e-fecha-aos-1676-mil-sob-pressao-fiscal/"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/"
       },
       {
-       "n": "ADVFN",
-       "u": "https://br.advfn.com/jornal/2026/11/ibovespa-cai-com-incertezas-fiscais-no-brasil-enquanto-ata-do-fed-pressiona-mercados-globais"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/tempo-real-19-11-2026-davs/"
+      },
+      {
+       "n": "Investing.com",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-ajuste-avanca-no-senado-anthropic-estreia-na-nasdaq-2132473"
       }
      ]
     },
     {
-     "kicker": "Emprego",
+     "kicker": "Bancos",
      "quando": "Ontem",
-     "titulo": "Desemprego de longa duração cai ao menor nível da série do IBGE, com 971 mil pessoas",
-     "resumo": "Segundo a Pnad Contínua, o número de quem procura trabalho há dois anos ou mais caiu 17,6% em um ano no terceiro trimestre. Esse grupo representa 17,2% dos cerca de 5,6 milhões de desempregados; em 2021 eram 3,8 milhões.",
+     "titulo": "Banco do Brasil informa acesso indevido a dados de clientes e alerta para risco de golpes",
+     "resumo": "Segundo o banco, um terceiro usou de forma irregular uma credencial válida, já revogada, e teve acesso a nome, CPF, e-mail, agência e, em alguns casos, número da conta. O BB diz que senhas e tokens não foram expostos e que não identificou transações ligadas ao incidente, detectado em 12 de novembro.",
      "fontes": [
       {
-       "n": "TN Sul",
-       "u": "https://tnsul.com/2026/11/18/desemprego-longa-duracao-menor-nivel-14-anos-ibge/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/tecnologia/banco-do-brasil-comunica-clientes-sobre-vazamento-de-dados/"
       },
       {
-       "n": "Tribuna Online",
-       "u": "https://tribunaonline.com.br/economia/desemprego-longo-prazo-menor-numero-em-14-anos-segundo-ibge/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/banco-do-brasil-alerta-clientes-sobre-vazamento-de-dados-pessoais"
       },
       {
-       "n": "Paraíba Online",
-       "u": "https://paraibaonline.com.br/paraiba/2026/11/18/desemprego-de-longa-duracao-atinge-o-menor-nivel-da-serie-historica/"
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/banco-do-brasil-identifica-vazamento-de-dados-de-clientes-veja-como-nao-cair-em-golpes/"
       }
      ]
     },
     {
      "kicker": "Agenda",
      "quando": "Hoje",
-     "titulo": "Na véspera do feriado, mercado acompanha reunião do CMN e dados dos EUA após ata do Fed",
-     "resumo": "O Conselho Monetário Nacional se reúne às 9h. Nos EUA saem os pedidos de seguro-desemprego e o índice industrial da Filadélfia às 10h30; a B3 não abre na sexta, feriado da Consciência Negra.",
+     "titulo": "CMN se reúne na véspera do feriado; B3 não abre na sexta (20) e mercado volta a operar na segunda",
+     "resumo": "O Conselho Monetário Nacional tem reunião mensal nesta quinta, sem pauta divulgada com antecedência. Nos EUA, investidores acompanham os pedidos de seguro-desemprego e a estreia da Anthropic, depois de a ata do Fed indicar novas altas de juros.",
      "fontes": [
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem-3/"
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/ibovespa-hoje-19-11-2026/"
       },
       {
-       "n": "Investing.com",
-       "u": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-pacote-fiscal-leiloes-do-bc-e-ata-do-fed-no-radar-2130993"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/ibovespa-tenta-recuperar-os-169-mil-pontos-de-olho-no-fiscal-5-coisas-para-saber-antes-de-investir-hoje-19-davs/"
       }
      ]
     },
@@ -378,14 +424,22 @@
      ]
     },
     {
-     "kicker": "Empresas",
+     "kicker": "Emprego",
      "quando": "Ontem",
-     "titulo": "Rede D'Or vende a SulAmérica Investimentos para a BlackRock por cerca de R$ 850 milhões",
-     "resumo": "Do total, R$ 700 milhões serão pagos à vista, segundo o fato relevante citado pelo InfoMoney. No mesmo dia, estudo do MBC com a Deloitte estimou o Custo Brasil de 2025 em R$ 3,5 trilhões, o equivalente a 27,5% do PIB.",
+     "titulo": "Desemprego de longa duração cai ao menor nível da série do IBGE, com 971 mil pessoas",
+     "resumo": "Segundo a Pnad Contínua, o número de quem procura trabalho há dois anos ou mais caiu 17,6% em um ano no terceiro trimestre. Esse grupo representa 17,2% dos cerca de 5,6 milhões de desempregados; em 2021 eram 3,8 milhões.",
      "fontes": [
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-18112026/"
+       "n": "TN Sul",
+       "u": "https://tnsul.com/2026/11/18/desemprego-longa-duracao-menor-nivel-14-anos-ibge/"
+      },
+      {
+       "n": "Tribuna Online",
+       "u": "https://tribunaonline.com.br/economia/desemprego-longo-prazo-menor-numero-em-14-anos-segundo-ibge/"
+      },
+      {
+       "n": "Paraíba Online",
+       "u": "https://paraibaonline.com.br/paraiba/2026/11/18/desemprego-de-longa-duracao-atinge-o-menor-nivel-da-serie-historica/"
       }
      ]
     }
@@ -395,53 +449,45 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Chuvas, desigualdade racial e feriado",
+   "nota": "Tempestades, PF no RS e feriado",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Inmet põe quase todo o país em alerta de tempestade; em Minas, chuvas já afetam 289 mil pessoas e 28 cidades decretam emergência",
-     "resumo": "A chuva mais forte nesta quinta deve atingir o Matopiba, Goiás, o Distrito Federal, o norte de Minas e o Espírito Santo; as capitais paulista e fluminense ficam fora do aviso amarelo. Em Minas, a Defesa Civil contabiliza duas mortes desde o fim de outubro e 1,5 mil desalojados.",
+     "titulo": "Inmet mantém alerta de tempestade em quase todo o país; Centro-Oeste inteiro e maior parte do Sudeste estão na lista",
+     "resumo": "O aviso amarelo cobre também áreas do Norte, do Nordeste e do Sul, com previsão de chuva forte, raios e ventania; as capitais paulista e fluminense ficam fora do alerta. As máximas chegam a 37 °C em Teresina e 36 °C em Rio Branco.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
+      "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
+     },
      "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/quinta-feira-sera-de-calor-e-chuva-em-quase-todo-o-pais"
+      },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/brasil/chuva-e-tempestades-devem-atingir-quase-todo-o-brasil-nesta-quinta-19-11"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/minas-gerais/chuvas-em-mg-deixam-dois-mortos-e-fazem-28-cidades-decretar-emergencia"
-      },
-      {
        "n": "O Tempo",
-       "u": "https://www.otempo.com.br/cidades/2026/11/18/periodo-chuvoso-ja-afeta-289-mil-pessoas-e-deixa-28-cidades-em-emergencia-em-minas-gerais"
-      },
-      {
-       "n": "Hoje em Dia",
-       "u": "https://www.hojeemdia.com.br/minas/chuvas-afetam-quase-300-mil-pessoas-e-levam-28-cidades-de-minas-a-decretar-emergencia-1.1141303"
+       "u": "https://www.otempo.com.br/tempo/2026/11/19/tempestade-com-ventos-de-ate-100-km-h-e-granizo-poe-montes-claros-em-alerta-laranja-diz-inmet"
       }
      ]
     },
     {
-     "kicker": "Desigualdade",
-     "quando": "Ontem",
-     "titulo": "IBGE: pretos e pardos são 55% dos trabalhadores, mas ocupam 30,7% dos cargos de gerência",
-     "resumo": "O estudo sobre desigualdades por cor ou raça mostra que a pobreza atinge 31,5% da população negra e 16,1% da branca, e que a hora trabalhada rende R$ 16,6 aos negros e R$ 27,2 aos brancos. A taxa de homicídios entre jovens negros de 15 a 29 anos é 3,2 vezes a dos brancos.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/ypgQzdejDeB8y8P6ZmntyHfwldU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr9995.jpg?itok=ygTHB3Oh",
-      "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
-     },
+     "kicker": "Polícia Federal",
+     "quando": "Hoje",
+     "titulo": "PF faz buscas na casa do vice-presidente do TCE-RS e apreende cerca de R$ 72 mil em dinheiro",
+     "resumo": "A Operação Circuito Paralelo cumpriu seis mandados autorizados pelo STJ em Porto Alegre, Lajeado e Guaporé e investiga suspeita de corrupção e tráfico de influência envolvendo o conselheiro Edson Brum. A defesa diz que ele está à disposição das autoridades e que não há acusação formal contra ele.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-encontra-r-72-mil-em-dinheiro-vivo-na-casa-de-vice-presidente-do-tce-rs"
       },
       {
-       "n": "Folha BV",
-       "u": "https://www.folhabv.com.br/cotidiano/ibge-pobreza-atinge-315-da-populacao-negra-e-161-dos-brancos/"
-      },
-      {
-       "n": "A Gazeta de Dourados",
-       "u": "https://www.agazetadedourados.com.br/noticias/brasil/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge/18/11/2026/"
+       "n": "Portal 364",
+       "u": "https://www.portal364.com/2026/11/policia-federal-realiza-operacao-para.html"
       }
      ]
     },
@@ -470,22 +516,26 @@
      ]
     },
     {
-     "kicker": "Polícia Federal",
+     "kicker": "Desigualdade",
      "quando": "Ontem",
-     "titulo": "Operação Cash Out bloqueia R$ 2,3 bilhões de grupo suspeito de explorar apostas ilegalmente",
-     "resumo": "PF, MPF e Receita cumpriram 59 mandados de busca em cinco estados contra plataformas ligadas a uma empresa sediada em Curaçao, que operaram entre 2020 e 2024. Foram apreendidos cinco aviões, um iate avaliado em R$ 40 milhões e 14 veículos; reportagens apontam o dono da Esportes da Sorte como alvo.",
+     "titulo": "IBGE: pretos e pardos são 55% dos trabalhadores, mas ocupam 30,7% dos cargos de gerência",
+     "resumo": "O estudo sobre desigualdades por cor ou raça mostra que a pobreza atinge 31,5% da população negra e 16,1% da branca, e que a hora trabalhada rende R$ 16,6 aos negros e R$ 27,2 aos brancos. A taxa de homicídios entre jovens negros de 15 a 29 anos é 3,2 vezes a dos brancos.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/ypgQzdejDeB8y8P6ZmntyHfwldU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr9995.jpg?itok=ygTHB3Oh",
+      "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/operacao-cash-out-investiga-esquema-de-bets-e-bloqueia-r-23-bilhoes"
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-apreende-aeronaves-iate-e-carroes-em-operacao-contra-apostas-ilegais"
+       "n": "Folha BV",
+       "u": "https://www.folhabv.com.br/cotidiano/ibge-pobreza-atinge-315-da-populacao-negra-e-161-dos-brancos/"
       },
       {
-       "n": "Máquina do Esporte",
-       "u": "https://maquinadoesporte.com.br/apostas/operacao-da-policia-federal-contra-dono-do-esportes-da-sorte-bloqueia-r-23-bilhoes-em-ativos-financeiros"
+       "n": "A Gazeta de Dourados",
+       "u": "https://www.agazetadedourados.com.br/noticias/brasil/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge/18/11/2026/"
       }
      ]
     }
@@ -495,93 +545,73 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Cúpula na China, Ucrânia e Irã",
+   "nota": "Fim da trilateral, Berlim e CIJ",
    "itens": [
     {
      "kicker": "Cúpula em Shenzhen",
      "quando": "Hoje",
-     "titulo": "Trump, Xi e Putin fazem reunião trilateral inédita na China, depois de encontro de 40 minutos entre o americano e o russo",
-     "resumo": "A reunião, à margem da cúpula da Apec, teve a guerra na Ucrânia e o controle de armas nucleares como temas centrais, já que o tratado Novo Start expirou em fevereiro. Segundo o assessor do Kremlin Yuri Ushakov, a conversa com Trump foi positiva; antes, Trump disse que EUA e China querem ajudar a encerrar a guerra.",
+     "titulo": "Trump, Xi e Putin encerram reunião trilateral de cerca de 1h20 sem anunciar acordos",
+     "resumo": "Trump chamou o encontro de histórico e falou em reduzir arsenais nucleares; Xi defendeu a eliminação dessas armas e propôs canais permanentes de comunicação entre os três países; Putin citou interesses comuns na solução de conflitos, incluindo a Ucrânia. Trump disse ainda que ele e Xi defendem a reabertura do fluxo de petróleo pelo Estreito de Ormuz.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/comeca-reuniao-trilateral-entre-trump-putin-e-xi-jinping-na-china/"
+       "n": "Carta Capital",
+       "u": "https://www.cartacapital.com.br/mundo/putin-trump-e-xi-jinping-encerram-primeira-reuniao-trilateral-sem-anunciar-acordos/"
       },
       {
-       "n": "DN",
-       "u": "https://www.dn.pt/internacional/trump-e-xi-querem-contribuir-para-o-fim-da-guerra-na-ucrnia-expectativas-centradas-agora-na-cimeira-tripartida-com-putin"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/trump-xi-e-putin-encerram-reuniao-historica-na-china"
       },
       {
-       "n": "ABC News",
-       "u": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://infomoney.com.br/mundo/eua-e-china-podem-ajudar-a-por-fim-a-guerra-na-ucrania-diz-trump-a-xi-jinping"
+       "n": "CBS News",
+       "u": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
       }
      ]
     },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Mais de 30 líderes europeus, Zelensky e enviados de Trump se reúnem em Berlim após a cúpula na China",
-     "resumo": "Steve Witkoff e Jared Kushner devem relatar a Kiev o que foi discutido em Shenzhen. Zelensky diz que temas da Ucrânia devem ser decididos com a Ucrânia; na madrugada, drones russos atingiram um prédio na região de Kharkiv, e Kiev atacou duas refinarias no sul da Rússia.",
+     "titulo": "Em Berlim, aliados de Kiev cobram participação nas negociações; premiê polonês critica Trump por chamar Putin de amigo",
+     "resumo": "Representantes de 36 países da Coalizão dos Dispostos, Zelensky e os enviados americanos Steve Witkoff e Jared Kushner discutem financiamento da defesa ucraniana em 2027 e garantias de segurança após um eventual cessar-fogo. Donald Tusk reagiu às falas de Trump em Shenzhen com a frase “Deus nos proteja de amigos assim”.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/19/ucrania-zelenskyy-espera-relatorio-dos-enviados-dos-eua-sobre-negociacoes-de-trump-com-xi-"
-      },
-      {
-       "n": "US News (Reuters)",
-       "u": "https://www.usnews.com/news/world/articles/2026-11-18/trump-envoys-witkoff-and-kushner-expected-in-berlin-for-ukraine-talks-says-us"
-      },
-      {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/com-trump-e-putin-na-china-enviados-dos-eua-negociam-guerra-na-ucrania"
+       "u": "https://www.metropoles.com/mundo/aliados-da-ucrania-se-reunem-para-cobrar-participacao-em-negociacoes-de-paz"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/putin-nao-e-nosso-amigo-diz-premie-polones-apos-fala-de-trump/"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin"
+      }
+     ]
+    },
+    {
+     "kicker": "Justiça internacional",
+     "quando": "Hoje",
+     "titulo": "Corte Internacional de Justiça conclui que Mianmar cometeu genocídio contra os rohingyas",
+     "resumo": "É a primeira vez que a CIJ responsabiliza um Estado por genocídio, em ação movida pela Gâmbia sobre a violência de 2017 no estado de Rakhine. A decisão não cabe recurso; Mianmar nega as acusações e não comentou de imediato.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/tribunal-da-onu-conclui-que-mianmar-cometeu-genocidio"
       }
      ]
     },
     {
      "kicker": "Oriente Médio",
      "quando": "Ontem",
-     "titulo": "Chefe do Exército do Irã promete resposta sem limite geográfico a novo ataque; EUA levam terceiro porta-aviões à região",
-     "resumo": "A declaração de Amir Hatami veio depois de o Irã dizer ter atacado bases americanas no Kuwait, em resposta ao bombardeio dos EUA à ilha de Qeshm; Kuwait e Bahrein emitiram alertas à população. Washington afirma que vai proteger suas forças e aliados, e Trump disse em Shenzhen que quer manter aberto o Estreito de Ormuz.",
+     "titulo": "Irã põe Forças Armadas em alerta máximo e diz ter atacado base americana no Kuwait; EUA já têm três porta-aviões na região",
+     "resumo": "O chefe do Exército iraniano, Amir Hatami, disse que o país responderá sem limite geográfico a novos ataques. A troca de ofensivas desde o início de novembro encerrou cerca de dois meses de relativa calma, com ataques americanos à ilha de Qeshm e iranianos contra um radar no Bahrein, que o Centcom diz não ter tido sucesso.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/18/irans-army-chief-vows-more-crushing-response-if-us-attacks-again"
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/iro-em-alerta-mximo-aps-chegada-de-terceiro-porta-avies-norte-americano-ao-mdio-oriente"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/ira-diz-ter-atacado-bases-dos-eua-no-kuwait-apos-ofensiva-em-qeshm/"
-      },
-      {
-       "n": "Times of Israel",
-       "u": "https://www.timesofisrael.com/liveblog-november-18-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Ásia",
-     "quando": "Ontem",
-     "titulo": "Em Manila, Trump anuncia ampliação da cooperação militar com as Filipinas e acena com projeto nuclear",
-     "resumo": "No encontro com Ferdinand Marcos Jr., o americano citou mais de US$ 5 bilhões em vendas de armas aprovadas e acenou com parceria em energia nuclear civil. A Casa Branca anunciou ainda a venda de até 20 Boeing 787 à Philippine Airlines, por US$ 12 bilhões, e um acordo comercial em negociação com a Tailândia.",
-     "fontes": [
-      {
-       "n": "Yahoo News (Reuters)",
-       "u": "https://sg.news.yahoo.com/trump-says-us-expanding-defence-043228472.html"
-      },
-      {
-       "n": "The Star",
-       "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/18/always-been-the-most-beautiful-trump-reunites-with-imelda-marcos-in-manila"
-      },
-      {
-       "n": "EFE (Unitel)",
-       "u": "https://unitel.bo/noticias/agencias/miercoles-18-de-noviembre-de-2026-0800-gmt-IJ24874408"
-      },
-      {
-       "n": "ABC News",
-       "u": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+       "n": "Jornal de Notícias",
+       "u": "https://www.jn.pt/mundo/artigo/irao-em-alerta-maximo-apos-chegada-de-porta-avioes-norte-americano/18149440"
       }
      ]
     }
@@ -591,109 +621,89 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Flamengo perto do título e F1 em Las Vegas",
+   "nota": "Rodada à noite, título e F1",
    "itens": [
     {
      "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Flamengo vence o Athletico, Palmeiras perde para o Cruzeiro, e rubro-negro pode ser campeão com um empate no sábado",
-     "resumo": "No Maracanã, o Flamengo virou para 2 a 1 com gols de Carrascal e Jorginho, de pênalti, e chegou a 79 pontos. Em Belo Horizonte, o Cruzeiro também virou, 2 a 1, e deixou o Palmeiras seis pontos atrás; os dois se enfrentam no sábado (21), às 16h30, no Nubank Parque.",
+     "quando": "Hoje",
+     "titulo": "Rodada tem três jogos nesta noite, com Internacional e Vitória tentando se afastar do rebaixamento",
+     "resumo": "Vitória x Bragantino e Vasco x Internacional começam às 19h30; São Paulo x Fluminense, às 21h30, no Morumbis. Inter e Vitória têm 38 pontos, e o Fluminense, quarto colocado, defende vaga direta na Libertadores.",
      "fontes": [
       {
-       "n": "GPS Brasília",
-       "u": "https://gpsbrasilia.com.br/flamengo-vence-athletico-pr-seca-palmeiras-e-fica-a-um-empate-do-titulo-brasileiro/"
+       "n": "Campo Grande News",
+       "u": "https://www.campograndenews.com.br/esportes/brasileirao-tera-3-jogos-nesta-noite-com-disputa-contra-o-rebaixamento"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/flamengo-pode-ser-campeao-do-brasileirao-com-um-empate-diante-do-palmeiras"
-      },
-      {
-       "n": "Futebol Interior",
-       "u": "https://www.futebolinterior.com.br/jogos-da-35-rodada-brasileirao-quarta/"
-      },
-      {
-       "n": "Sportbuzz",
-       "u": "https://sportbuzz.com.br/futebol/2026/11/18/flamengo-vence-athletico-pr-e-pode-ser-campeao-contra-o-palmeiras/"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-quinta-feira-19-11-2026-2.html"
       }
      ]
     },
     {
-     "kicker": "Rebaixamento",
+     "kicker": "Título",
      "quando": "Ontem",
-     "titulo": "Corinthians goleia o Botafogo por 4 a 0 e sai da zona de rebaixamento; Grêmio empata e cai para o Z4",
-     "resumo": "O Grêmio ficou no 0 a 0 com o Bahia e é o 18º, com 38 pontos. O Remo bateu a já rebaixada Chapecoense por 2 a 0 e segue com chance matemática, e o Santos venceu o Coritiba por 1 a 0, gol de Gabigol nos acréscimos. A rodada termina hoje com Vitória x Bragantino, Vasco x Internacional e São Paulo x Fluminense.",
+     "titulo": "Após perder para o Cruzeiro, Abel diz que o título está entregue ao Flamengo, que pode ser campeão no sábado",
+     "resumo": "O técnico do Palmeiras não confirmou se vai poupar titulares no confronto direto e citou a sequência apertada até a final da Libertadores, dia 28, e a da Copa do Brasil, contra o Grêmio, em 6 de dezembro. Um empate no sábado garante o título ao rubro-negro.",
      "fontes": [
       {
-       "n": "Piauí Hoje",
-       "u": "https://piauihoje.com/noticias/esportes/flamengo-dispara-na-lideranca-palmeiras-perde-e-corinthians-goleia-no-brasileirao-471649.html"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/futebol-nacional/2026/11/19/abel-fala-em-titulo-entregue-apos-derrota-para-o-cruzeiro-e-revela-se-poupara-titulares-contra-o-fla"
       },
       {
-       "n": "Futebol Interior",
-       "u": "https://www.futebolinterior.com.br/jogos-da-35-rodada-brasileirao-quarta/"
+       "n": "Placar",
+       "u": "https://placar.com.br/brasileirao/abel-entrega-titulo-do-brasileirao-e-admite-que-palmeiras-sera-vice-para-o-flamengo/?media=tv&content=geral"
       },
       {
-       "n": "e-Limeira",
-       "u": "https://elimeira.com.br/esportes/brasileiro/flamengo-dispara-na-lideranca-palmeiras-tropeca-e-corinthians-deixa-o-z4/"
-      },
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-19-11-2026-futebol-na-tv"
+       "n": "Goal",
+       "u": "https://goal.com/br/not%C3%ADcias/abel-reconhece-vantagem-flamengo-descarta-reacao-palmeiras-brasileirao/blt3ed9ef2b2bbc9a5b"
       }
      ]
     },
     {
      "kicker": "Fórmula 1",
      "quando": "Hoje",
-     "titulo": "GP de Las Vegas começa nesta noite; Bortoleto prevê fim de semana difícil com frio e pneus",
-     "resumo": "O primeiro treino livre é às 21h30 (de Brasília), a classificação na madrugada de sábado e a corrida à 1h de domingo (22). Bortoleto disse que os carros de 2026 serão lentos na reta e que aquecer os pneus será o maior desafio.",
+     "titulo": "GP de Las Vegas começa às 21h30 com Antonelli já campeão; Bortoleto busca pontos para a Audi",
+     "resumo": "Com o título de pilotos definido, a disputa é pelo vice, com Verstappen à frente de Russell e Hamilton. A Audi está três pontos atrás da Haas entre os construtores; a corrida será na madrugada de domingo, à 1h.",
      "fontes": [
       {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/f1-lenta-nas-retas-e-dificuldades-com-pneus-bortoleto-projeta-dificuldades-no-gp-de-las-vegas/"
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-gp-de-las-vegas-comeca-hoje-veja-o-que-esperar-dos-primeiros-treinos/"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-confira-horarios-e-onde-assistir-ao-gp-de-las-vegas-com-gabriel-bortoleto-e-rafa-camara,d9cd99a144183f65602c255662cfe224bn1ifmp3.html"
-      },
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/formula-1/f1-gp-las-vegas-2026-onde-assistir-horarios"
+       "n": "Gazeta Web",
+       "u": "https://www.gazetaweb.com/noticias/esportes/internacional/f1-horarios-e-onde-assistir-ao-gp-de-las-vegas-2026-949853"
       }
      ]
     },
     {
      "kicker": "Sul-Americana",
-     "quando": "17/11",
-     "titulo": "Boca Juniors prevê mais de 30 mil torcedores em Barranquilla para a final contra o Atlético-MG",
-     "resumo": "A Conmebol destinou 12 mil ingressos a cada finalista; o Boca esgotou seu setor, e o Atlético havia vendido entre 7 mil e 8 mil. O estádio, ampliado para 65 mil lugares, recebe a decisão no sábado (21), às 19h30.",
+     "quando": "Hoje",
+     "titulo": "Atlético-MG chega a Barranquilla e treina fechado para a final contra o Boca Juniors no sábado",
+     "resumo": "A decisão, em jogo único às 19h30, terá arbitragem do uruguaio Andrés Matonte; o campeão garante vaga na fase de grupos da Libertadores de 2027 e na Recopa. O Boca prevê mais de 30 mil torcedores no estádio.",
      "fontes": [
+      {
+       "n": "Rede Hoje",
+       "u": "https://redehoje.com.br/2026/11/19/e-sula-barranquilla-recebe-neste-sabado-final-entre-atletico-e-boca-juniors-que-vale-vaga-na-libertadores-de-2027/"
+      },
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/boca-juniors-projeta-invasao-em-final-da-sul-americana-contra-atletico-mg/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/atletico-mg/atletico-mg-define-viagem-a-colombia-para-final-da-copa-sul-americana,586bc9d35a807bc8c8dbfeb586b056a20caid1ur.html"
       }
      ]
     },
     {
-     "kicker": "Libertadores",
-     "quando": "Ontem",
-     "titulo": "Conmebol escala o venezuelano Jesús Valenzuela para apitar a final entre Palmeiras e Estudiantes",
-     "resumo": "A decisão será no sábado, 28 de novembro, às 17h, no Estádio Centenário, em Montevidéu. O também venezuelano Juan Soto comandará o VAR.",
+     "kicker": "Seleção",
+     "quando": "17/11",
+     "titulo": "Seleção fecha 2026 com 7 a 0 sobre Singapura e saldo de nove vitórias em 14 jogos",
+     "resumo": "Vini Jr. marcou três gols no último amistoso do ano. A equipe de Ancelotti teve três derrotas e dois empates no ano, incluindo a eliminação nas oitavas da Copa para a Noruega; a próxima data Fifa é em março de 2027.",
      "fontes": [
       {
-       "n": "Vavel",
-       "u": "https://vavel.com/br/futebol/2026/11/18/1279653-conmebol-define-arbitragem-para-a-final-da-libertadores.html"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/selecao-termina-2026-com-mais-vitorias-que-derrotas-mas-devendo-futebol"
       },
       {
-       "n": "Portal Hortolândia",
-       "u": "https://portalhortolandia.com.br/noticias/esporte/final-da-libertadores-2026-conheca-os-arbitros-da-partida-245480/"
-      },
-      {
-       "n": "Diario Primicia",
-       "u": "https://primicia.com.ve/deportes/jesus-valenzuela-pitara-la-final-de-la-copa-libertadores/"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/esportes/selecao-brasileira-vence-singapura/"
       }
      ]
     }
@@ -703,8 +713,24 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Mpox e pesquisa",
+   "nota": "Dengue, mpox e covid",
    "itens": [
+    {
+     "kicker": "Dengue",
+     "quando": "Hoje",
+     "titulo": "No Dia Nacional de Combate à Dengue, Fiocruz projeta cerca de 866 mil casos em 2027, com pico em abril",
+     "resumo": "De janeiro a outubro de 2026, o país registrou mais de 374 mil casos prováveis e 371 mortes, segundo o Instituto Todos pela Saúde. Municípios fazem mutirões contra criadouros; a vacina do SUS é aplicada em duas doses em jovens de 10 a 14 anos.",
+     "fontes": [
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/bem-viver/2026/11/7540762-dia-nacional-de-combate-a-dengue-projecao-aponta-866-mil-casos-para-2027.html"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-11/dia-nacional-de-combate-dengue-mobiliza-municipios-hoje-19"
+      }
+     ]
+    },
     {
      "kicker": "Mpox",
      "quando": "Ontem",
@@ -742,30 +768,22 @@
      ]
     },
     {
-     "kicker": "Sarampo",
-     "quando": "17/11",
-     "titulo": "Opas retira de EUA, México e Bolívia o status de países que eliminaram o sarampo",
-     "resumo": "Os três tiveram mais de 12 meses de transmissão contínua do vírus; os EUA mantinham o certificado havia 26 anos e somam mais de 5,4 mil casos em 2026, a maioria em pessoas não vacinadas. Para recuperar o status, precisam apresentar plano de ação e comprovar um ano sem circulação; o Brasil mantém a certificação e recebe apoio técnico da Opas para reforçar a vigilância.",
+     "kicker": "Covid-19",
+     "quando": "16/11",
+     "titulo": "Ministério da Saúde envia 1,4 milhão de doses extras de vacina contra a covid a dez estados",
+     "resumo": "São Paulo, Rio e Minas recebem a maior parte. Idosos e imunocomprometidos devem tomar uma dose a cada seis meses; em 2026, o país soma 445 mortes por covid, cerca de 70% a menos que no mesmo período de 2025.",
      "foto": {
       "src": "fotos/vacina.jpg",
       "credito": "Tomaz Silva/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eua-perdem-status-de-eliminacao-do-sarampo-apos-quase-tres-decadas"
+       "n": "Agência Cidades",
+       "u": "https://www.agenciacidades.com.br/reportagens/2026/11/17/com-3641-casos-graves-e-445-mortes-em-2026-governo-reforca-vacinacao-contra-a-covid-19.html"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/mundo/america-latina/sarampo-avanca-nas-americas-e-eua-perdem-certificacao-de-eliminacao-da-doenca-apos-26-anos,accbcf445e0b507c97a7c7d690273eb8up50641o.html"
-      },
-      {
-       "n": "A Gazeta",
-       "u": "https://www.agazeta.com.br/mundo/por-que-eua-perderam-certificado-de-eliminacao-do-sarampo-apos-26-anos-1126"
-      },
-      {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quarta-feira-18-de-novembro-de-2026/"
+       "n": "Agência GBC",
+       "u": "https://agenciagbc.com/2026/11/18/covid-19-ministerio-envia-14-milhao-de-doses-extras-veja-quem-deve-se-vacinar/"
       }
      ]
     }
@@ -775,17 +793,33 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Enem, desigualdade e Pé-de-Meia",
+   "nota": "Reaplicação do Enem e concurso",
    "itens": [
+    {
+     "kicker": "Enem",
+     "quando": "Hoje",
+     "titulo": "Prazo para pedir a reaplicação do Enem termina nesta sexta (20); novas provas serão em 15 e 16 de dezembro",
+     "resumo": "Podem pedir participantes afetados por problemas logísticos, como as quedas de energia em 50 locais nos dois domingos, ou por doenças infectocontagiosas previstas no edital. O pedido é feito na Página do Participante, e as notas saem em 18 de janeiro.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/Q7BgPCRhxf_HiZDekpjkd2-JBUA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/_int4931.jpg?itok=upOndC78",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-em-um-dia-prazo-para-pedir-reaplicacao-do-enem-2026"
+      },
+      {
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202611/nota-do-enem-pode-ser-usada-para-concorrer-a-1-5-milhao-de-vagas-no-sisu-prouni-e-fies"
+      }
+     ]
+    },
     {
      "kicker": "Enem",
      "quando": "Ontem",
      "titulo": "Inep divulga gabarito oficial do Enem e anula uma questão de matemática",
      "resumo": "A questão 159 da prova azul (153 na amarela, 164 na branca e 158 na verde) foi anulada; professores apontaram que a tabela de gols do enunciado tinha dados incompatíveis. Segundo o MEC, as notas individuais saem em 18 de janeiro de 2027, na Página do Participante.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/Knn4ZnRpdtilHhzFmdV6ItFbNQY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/15/pzzb0368.jpg?itok=tr3TFdVu",
-      "credito": "Fabio Rodrigues-Pozzebom/Agência Brasil (arquivo)"
-     },
      "fontes": [
       {
        "n": "CNN Brasil",
@@ -802,6 +836,18 @@
       {
        "n": "Quero Bolsa",
        "u": "https://querobolsa.com.br/revista/mec-anuncia-datas-oficiais-gabarito-e-resultado-enem-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Concurso",
+     "quando": "Hoje",
+     "titulo": "São Paulo anuncia para hoje edital de concurso com 5 mil vagas para professores da rede estadual",
+     "resumo": "A seleção, organizada pela FGV, prevê 3 mil vagas de 40 horas e 2 mil de 25 horas, com salário inicial de referência de R$ 5.565 na jornada maior. Datas de inscrição e provas dependem da publicação do edital.",
+     "fontes": [
+      {
+       "n": "Nova Concursos",
+       "u": "https://novaconcursos.com.br/portal/noticias/concurso-see-sp-edital-publicacao-19-11"
       }
      ]
     },
@@ -855,29 +901,61 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Estreia da Anthropic, Nvidia e COP31",
+   "nota": "Estreia da Anthropic e COP31",
    "itens": [
     {
      "kicker": "Inteligência artificial",
      "quando": "Hoje",
-     "titulo": "Ações da Anthropic, dona do Claude, estreiam hoje na Nasdaq após oferta de mais de US$ 68 bilhões",
-     "resumo": "O preço foi fixado em US$ 83, acima da faixa de US$ 70 a US$ 78, e a empresa é avaliada em cerca de US$ 1,5 trilhão contando todos os papéis; o código é ANT. Na B3, investidores brasileiros poderão comprar recibos (BDRs) da empresa.",
+     "titulo": "Anthropic, dona do Claude, estreia na Nasdaq após levantar US$ 81,3 bilhões, o maior IPO da história",
+     "resumo": "As ações, com o código ANT, foram precificadas a US$ 83, acima da faixa inicial de US$ 70 a US$ 78, o que avalia a empresa em cerca de US$ 1,5 trilhão. A expectativa pela estreia levou a Nasdaq a subir perto de 1,9% no fim da manhã; investidores brasileiros podem comprar BDRs.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/19/anthropic-estreia-se-em-wall-street-com-ipo-historica-enquanto-nvidia-afunda"
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/mundo/anthropic-estreia-na-bolsa-dos-eua-apos-levantar-us-813-bilhoes-em-ipo-historico/"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/dona-do-claude-cobra-us-83-por-acao-acima-do-previsto-em-ipo-de-us-68-bilhoes/"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/internacional-economia/nasdaq-sobe-estreia-acoes-anthropic-ipo/"
       },
       {
-       "n": "CNBC",
-       "u": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+       "n": "Yahoo Finance",
+       "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
+      }
+     ]
+    },
+    {
+     "kicker": "COP31",
+     "quando": "Hoje",
+     "titulo": "Nova minuta da COP31 retira todas as menções a combustíveis fósseis, a um dia do fim da conferência",
+     "resumo": "O texto anterior, de três dias atrás, pedia o abandono gradual dos fósseis; a nova versão fala em sistemas de energia limpos e acessíveis e em acelerar renováveis e eletrificação. A decisão final precisa ser aprovada sem objeções na plenária de encerramento, em Antália.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/nova-minuta-de-documento-final-da-cop31-tira-mencao-a-combustiveis-fosseis"
       },
       {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/19/videos/confira-o-olhar-digital-news-na-integra-18-11-2026"
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/19/combustiveis-fosseis-desaparecem-do-projeto-de-texto-final-da-cop31/"
+      },
+      {
+       "n": "Forbes Brasil",
+       "u": "https://forbes.com.br/forbes-esg/2026/11/cop31-retira-combustiveis-fosseis-da-minuta-e-negocia-acordo-final/"
+      }
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/94SQjjcu4cTte9q4jZB3BziTpsI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/floresta-211016ebc0489.jpg?itok=raMYT_E0",
+      "credito": "Valter Campanato/Agência Brasil (arquivo)"
+     }
+    },
+    {
+     "kicker": "Espaço",
+     "quando": "Hoje",
+     "titulo": "Força Espacial dos EUA estuda rede de até cinco satélites militares entre a Terra e a Lua até 2029",
+     "resumo": "O projeto, chamado Cislunar Space System, está em fase preliminar e começou com um pedido de informações a empresas aeroespaciais. O governo não detalhou as funções dos equipamentos.",
+     "fontes": [
+      {
+       "n": "Gizmodo Brasil",
+       "u": "https://gizmodo.com.br/os-estados-unidos-querem-instalar-satelites-militares-entre-a-terra-e-a-lua-ate-2029-75987"
       }
      ]
     },
@@ -900,38 +978,6 @@
        "u": "https://br.investing.com/news/transcripts/nvidia-corporation-supera-estimativas-do-3o-tri-de-2026-e-eleva-perspectivas-93CH-2130528"
       }
      ]
-    },
-    {
-     "kicker": "COP31",
-     "quando": "Ontem",
-     "titulo": "COP31 entra nos dois últimos dias com impasse sobre financiamento e combustíveis fósseis",
-     "resumo": "O rascunho de 144 parágrafos pede US$ 120 bilhões por ano para adaptação até 2035, mas enfrenta resistência de Rússia e países árabes, e a União Europeia rejeitou a primeira versão. O encerramento está previsto para sexta (20); foram anunciados US$ 505 milhões para reduzir o metano.",
-     "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/ciencia-e-saude/2026/11/7540073-cop31-impasses-trancam-as-negociacoes-a-tres-dias-do-encerramento.html"
-      },
-      {
-       "n": "Neo Mondo",
-       "u": "https://neomondo.org.br/clima/rascunho-de-144-paragrafos-abre-a-semana-final-da-cop31-e-poe-os-fosseis-no-centro-da-disputa"
-      },
-      {
-       "n": "DN",
-       "u": "https://www.dn.pt/sociedade/cop31-entra-na-reta-final-entre-divergncias-no-acordo-e-novos-compromissos-para-proteger-os-oceanos"
-      },
-      {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-esg/2026/11/cop31-anuncia-us-505-milhoes-para-reduzir-metano-mas-financiamento-climatico-segue-em-negociacao/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/18/com-negociacoes-intensas-e-divergencias-profundas-cop31-entra-na-reta-final"
-      }
-     ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/94SQjjcu4cTte9q4jZB3BziTpsI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/floresta-211016ebc0489.jpg?itok=raMYT_E0",
-      "credito": "Valter Campanato/Agência Brasil (arquivo)"
-     }
     },
     {
      "kicker": "Espaço",
@@ -963,21 +1009,25 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Estreias, Julio Iglesias e shows",
+   "nota": "Jogos Vorazes e shows",
    "itens": [
     {
      "kicker": "Cinema",
      "quando": "Hoje",
-     "titulo": "\"Jogos Vorazes: Amanhecer na Colheita\" e seis filmes brasileiros estão entre as 13 estreias desta quinta",
-     "resumo": "Entre os nacionais estão o docudrama \"Camisas Negras\", sobre o título carioca do Vasco em 1923, e a versão restaurada de \"Malês\", de Antônio Pitanga, sobre a revolta de escravizados na Bahia. Também chegam \"Fogaréu\", de Flávia Neves, e a cinebiografia \"Eu sou o Rocky\".",
+     "titulo": "“Jogos Vorazes: Amanhecer na Colheita” estreia com mais de 160 mil ingressos vendidos antecipadamente no Brasil",
+     "resumo": "O sexto filme da saga se passa 24 anos antes do primeiro e acompanha o jovem Haymitch; é uma das 13 estreias da semana, que inclui seis filmes brasileiros. Nos EUA, o lançamento é na sexta.",
      "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/pop/noticia/2026/11/18/jogos-vorazes-amanhecer-na-colheita-estreia-160-mil-ingressos"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/filmes-e-series/2026/11/18/jogos-vorazes-amanhecer-na-colheita-estreia-nos-cinemas-veja-o-que-ja-sabemos-sobre-o-filme"
+      },
       {
        "n": "Espaço do Povo",
        "u": "https://espacodopovo.com.br/estreias-cinema-19-novembro-2026-guia/"
-      },
-      {
-       "n": "Cinema e Afins",
-       "u": "https://cinemaeafins.com.br/cinema-19-de-novembro-de-2026/"
       }
      ]
     },
@@ -1024,6 +1074,22 @@
       {
        "n": "Conexão Pop",
        "u": "https://conexaopop.com.br/agenda-de-shows-de-novembro-de-2026-mariah-carey-hayley-williams-e-muito-mais/"
+      }
+     ]
+    },
+    {
+     "kicker": "Música",
+     "quando": "Hoje",
+     "titulo": "Gilsons fazem show em Curitiba na véspera do feriado com a turnê “Eu Vejo Luz”",
+     "resumo": "O trio formado por filho e netos de Gilberto Gil se apresenta nesta quinta no Cine Lido. A turnê tem 11 datas anunciadas.",
+     "fontes": [
+      {
+       "n": "Tribuna PR",
+       "u": "https://www.tribunapr.com.br/viva/gilsons-embalam-a-vespera-de-feriado-cinemas-tem-estreias/"
+      },
+      {
+       "n": "Paraná Portal",
+       "u": "https://www.paranaportal.com/agenda-cultural/gilsons-trazem-nova-turne-a-curitiba-em-novembro/"
       }
      ]
     },
