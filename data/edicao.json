@@ -1,13 +1,13 @@
 {
  "data": "Sexta-feira, 20 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "20/11/2026 · 07h40 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 06h30",
- "fontes": 68,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "20/11/2026 · 12h45 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 11h45",
+ "fontes": 69,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento de quinta",
+   "nome": "Ibovespa · fechamento de quinta (B3 fechada hoje)",
    "valor": "166.376 pts",
    "var": "-0,69%",
    "dir": "down"
@@ -15,19 +15,19 @@
   {
    "nome": "Dólar comercial · fechamento de quinta",
    "valor": "R$ 5,93",
-   "var": "+1,15%",
+   "var": "+4,95% na semana",
    "dir": "up"
   },
   {
-   "nome": "Nikkei 225 · Tóquio, sexta",
-   "valor": "Queda forte",
-   "var": "-4,7%",
+   "nome": "Nasdaq · abertura, 11h45",
+   "valor": "23.577 pts",
+   "var": "-1,27%",
    "dir": "down"
   },
   {
-   "nome": "Bitcoin · 06h30",
-   "valor": "US$ 61,5 mil",
-   "var": "menor nível desde julho",
+   "nome": "Anthropic (ANT) · 11h35",
+   "valor": "US$ 89,92",
+   "var": "-7,5%",
    "dir": "down"
   },
   {
@@ -39,23 +39,18 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 20/11",
-   "txt": "Feriado da Consciência Negra, sem pregão na B3; marchas em várias capitais (em São Paulo, a partir das 10h no Masp); último dia para pedir a reaplicação do Enem, até 23h59",
+   "hora": "Sex 20/11 · 13h",
+   "txt": "23ª Marcha da Consciência Negra se concentra no Masp, na Avenida Paulista, e segue às 15h para o Theatro Municipal; prazo da reaplicação do Enem vai até 23h59",
    "cat": "brasil"
   },
   {
    "hora": "Sex 20/11 a seg 30/11",
-   "txt": "1ª Turma do STF analisa em plenário virtual a denúncia contra o deputado Marcel van Hattem",
+   "txt": "1ª Turma do STF julga no plenário virtual o recurso de Flávio Bolsonaro sobre os passaportes e a denúncia contra Marcel van Hattem",
    "cat": "politica"
   },
   {
-   "hora": "Sex 20/11 · fim de semana",
-   "txt": "Encerramento previsto da COP31, em Antália (Turquia); negociadores admitem prorrogação",
-   "cat": "mundo"
-  },
-  {
    "hora": "Sáb 21/11",
-   "txt": "Palmeiras x Flamengo (16h30), que pode decidir o Brasileirão; Atlético-MG x Boca Juniors na final da Sul-Americana, em Barranquilla (19h30)",
+   "txt": "COP31 segue em prorrogação em Antália; Palmeiras x Flamengo (16h30) pode decidir o Brasileirão; Atlético-MG x Boca na final da Sul-Americana (19h30)",
    "cat": "esporte"
   },
   {
@@ -65,8 +60,13 @@
   },
   {
    "hora": "Seg 23/11",
-   "txt": "Câmara deve votar o ajuste fiscal aprovado pelo Senado; começa a Semana Nacional de Ciência e Tecnologia, em Brasília",
-   "cat": "politica"
+   "txt": "B3 volta a operar após o feriado; Câmara deve votar o ajuste fiscal aprovado pelo Senado",
+   "cat": "economia"
+  },
+  {
+   "hora": "Sáb 28/11",
+   "txt": "Palmeiras x Estudiantes na final da Libertadores, em Montevidéu",
+   "cat": "esporte"
   }
  ],
  "acervo": [
@@ -162,40 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Guerra na Ucrânia",
-  "titulo": "Rússia faz ataque em massa contra Kiev durante a madrugada, atinge pontes sobre o rio Dnipro e deixa ao menos três mortos",
-  "resumo": "Mísseis e drones danificaram três pontes da capital e cortaram luz, água e aquecimento em parte da cidade. O ataque ocorre um dia depois de destroços de drones atingirem as embaixadas do Brasil, da Áustria e dos Países Baixos.",
-  "entenda": "A ofensiva veio depois de Vladimir Putin prometer represálias pelo ataque ucraniano à ponte da Crimeia, que Volodymyr Zelensky defendeu em Berlim ao dizer que a estrutura fica em território ucraniano. Na quinta (19), uma onda de drones sobre Kiev matou uma pessoa e danificou a catedral de São Vladimir e três missões diplomáticas; diplomatas brasileiros disseram que a equipe estava no prédio e foi para o abrigo, sem feridos. No mesmo dia, em Berlim, o enviado americano Jared Kushner afirmou que Donald Trump admite oferecer a Kiev uma garantia de segurança parecida com a cláusula de defesa mútua da Otan, depois da cúpula de Shenzhen com Xi Jinping e Putin, que terminou sem cessar-fogo.",
+  "kicker": "Temporal no RS",
+  "titulo": "Temporal com suspeita de tornado devasta Tupanciretã (RS), deixa ao menos um morto e atinge quase todas as casas da cidade",
+  "resumo": "A prefeitura estima que cerca de 8 mil das 8,6 mil residências foram destelhadas ou derrubadas na madrugada desta sexta (20). O vice-governador fala em cerca de 20 feridos, e a Defesa Civil investiga uma segunda morte.",
+  "foto": {
+   "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
+   "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
+  },
+  "entenda": "O temporal atingiu o município de cerca de 20 mil habitantes, a 383 km de Porto Alegre, entre 3h e 3h40, com granizo, vento forte e queda de árvores. A cidade ficou sem luz e sem água, e o único hospital foi atingido; feridos foram levados para Santa Maria, Júlio de Castilhos e Passo Fundo. O governador Eduardo Leite (PSD) disse que a suspeita é de tornado e acionou o Comando Militar do Sul; a Defesa Civil ainda analisa o fenômeno. O episódio ocorre em meio a alertas de tempestade do Inmet para boa parte do Sul e do Sudeste no feriado.",
   "fatos": [
-   "Segundo o prefeito Vitali Klitschko, foram danificadas as pontes Podilsko-Voskresenskyi, Darnytskyi e uma terceira travessia do Dnipro",
-   "Na quinta (19), destroços de drones atingiram as embaixadas do Brasil, da Áustria e dos Países Baixos; ninguém se feriu nas missões",
-   "Kushner disse em Berlim que Trump aceitaria uma garantia ao estilo do Artigo 5º da Otan, desde que atenda aos interesses dos EUA"
+   "O prefeito Gustavo Herter Terra (PP) resumiu o cenário com a frase “a cidade acabou”",
+   "Defesa Civil, Bombeiros e Brigada Militar foram enviados; o vice-governador Gabriel Souza seguiu para o município",
+   "Na quinta (19), a Defesa Civil gaúcha já havia emitido alertas vermelhos para 22 cidades da Grande Porto Alegre"
   ],
   "fontes": [
    {
-    "n": "Infobae",
-    "u": "https://www.infobae.com/america/mundo/2026/11/20/rusia-lanzo-un-ataque-con-misiles-contra-ucrania-y-bombardeo-puentes-e-infraestructura-critica-de-kiev-al-menos-tres-muertos/",
-    "d": "ataque às pontes"
+    "n": "Brasil de Fato",
+    "u": "https://www.brasildefato.com.br/2026/11/20/a-cidade-acabou-diz-prefeito-de-tupancireta-rs-apos-temporal-com-suspeita-de-tornado/",
+    "d": "casas atingidas"
    },
    {
-    "n": "The Washington Post",
-    "u": "https://www.washingtonpost.com/world/2026/11/20/ukraine-russia-war-kyiv-attacks-putin-crimea/ee65f864-e4bc-11f1-a99e-b3e3805c6b8b_story.html",
-    "d": "mortos e apagões"
+    "n": "ND Mais",
+    "u": "https://ndmais.com.br/tempo/temporal-em-tupancireta-mata-uma-pessoa-rastro-destruicao/",
+    "d": "suspeita de tornado"
    },
    {
-    "n": "Cidade a Cidade",
-    "u": "https://www.cidadeacidade.com.br/noticia/destrocos-de-drones-russos-atingem-embaixada-do-brasil-na-ucrania-durante-ataque-em-kiev",
-    "d": "embaixada do Brasil"
+    "n": "Agora RS",
+    "u": "https://agorars.com/agora-no-tempo/temporal-causa-morte-deixa-feridos-e-devasta-municipio-de-tupancireta/",
+    "d": "mortos e feridos"
    },
    {
-    "n": "Jornal de Brasília / AFP",
-    "u": "https://jornaldebrasilia.com.br/noticias/mundo/kushner-diz-que-trump-estaria-disposto-a-estender-a-ucrania-a-clausula-de-defesa-da-otan/",
-    "d": "garantias de segurança"
+    "n": "Clic Portela",
+    "u": "https://www.clicportela.com.br/noticia/182846/possivel-tornado-provoca-destruicao-generalizada-e-deixa-tupancireta-em-situacao-de-emergencia",
+    "d": "situação de emergência"
    },
    {
-    "n": "TV Sim Brasil",
-    "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/20/misseis-russos-atingem-pontes-kiev-matam-tres-pessoas",
-    "d": "balanço do ataque"
+    "n": "Jornal Razão",
+    "u": "https://jornalrazao.com/meio-ambiente/tornado-tupancireta-rs-mata-ex-vereador",
+    "d": "vítima identificada"
    }
   ]
  },
@@ -204,8 +208,62 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Van Hattem no STF, terra Kayapó e 6x1",
+   "nota": "Passaportes de Flávio, STF e ajuste fiscal",
    "itens": [
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "Moraes vota para manter retidos os passaportes de Flávio Bolsonaro; 1ª Turma decide até 30 de novembro",
+     "resumo": "O relator negou o recurso da defesa e manteve também a proibição de contato do senador com o advogado Willer Tomaz, investigado no mesmo inquérito sobre lavagem de dinheiro ligada a apostas. A PGR defendeu a manutenção das medidas. Os outros ministros da Primeira Turma votam no plenário virtual até o dia 30.",
+     "lados": [
+      {
+       "quem": "Alexandre de Moraes e PGR",
+       "txt": "Afirmam que a viagem do senador aos EUA, sem entregar os documentos no prazo, podia atrapalhar a investigação, e citam poder econômico e estruturas no exterior."
+      },
+      {
+       "quem": "Defesa de Flávio Bolsonaro",
+       "txt": "Diz que o Santander informou que ele não é titular das contas citadas, que a PF não apontou atos dele no mercado de apostas e pede que Moraes seja afastado do caso."
+      }
+     ],
+     "foto": {
+      "src": "fotos/flavio.jpg",
+      "credito": "Joédson Alves/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/20/moraes-vota-manter-passaportes-flavio-bolsonaro-retidos"
+      },
+      {
+       "n": "Super Rádio Tupi",
+       "u": "https://tupi.fm/brasil/moraes-vota-no-stf-para-manter-passaporte-de-flavio-bolsonaro-retido"
+      },
+      {
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/defesa-de-flavio-tenta-derrubar-ordem-sobre-passaportes-e-afastar-moraes-do-caso/"
+      },
+      {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/politica/passaportes-de-flavio-bolsonaro-julgamento-stf-novembro/"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "No Dia da Consciência Negra, cerca de 40 entidades pedem que Lula indique a primeira mulher negra ao Supremo",
+     "resumo": "A campanha Mulheres no STF quer que as próximas quatro vagas da Corte fiquem com mulheres, ao menos duas negras; há hoje uma vaga aberta com a aposentadoria de Luís Roberto Barroso. A ministra Anielle Franco lembrou que a escolha é prerrogativa do presidente, e não há indicação oficial até agora.",
+     "fontes": [
+      {
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/movimentos-cobram-lula-primeira-mulher-negra-stfv"
+      },
+      {
+       "n": "Vermelho",
+       "u": "https://vermelho.org.br/2026/11/19/dia-da-consciencia-negra-tera-atos-contra-ajuste-fiscal-e-reducao-da-maioridade-penal/"
+      }
+     ]
+    },
     {
      "kicker": "STF",
      "quando": "Hoje",
@@ -237,26 +295,18 @@
      ]
     },
     {
-     "kicker": "Terras indígenas",
+     "kicker": "Governo",
      "quando": "Ontem",
-     "titulo": "Lula visita Raoni em Mato Grosso e assina portaria que reconhece terra Kayapó de 362 mil hectares",
-     "resumo": "A Terra Indígena Kapôt Nhĩnore, onde nasceu o cacique de 94 anos, fica entre Vila Rica e Santa Cruz do Xingu (MT) e São Félix do Xingu (PA). A portaria declaratória é uma etapa intermediária: a demarcação ainda depende de homologação presidencial e registro, e cerca de 200 propriedades da área são alvo de disputa no STF.",
+     "titulo": "Lula pede pacote fiscal de quatro anos com novas travas de gastos; Moretti ganha força para a Fazenda",
+     "resumo": "Segundo a CNN Brasil, a ideia é apresentar o plano ao Congresso em fevereiro e preparar antes uma PEC com impacto estimado de R$ 20 bilhões em 2027, como segunda etapa do ajuste aprovado no Senado. O ministro do Planejamento, Bruno Moretti, conduz a proposta com Geraldo Alckmin; a Coluna do Estadão avalia, porém, que sua ida para a Fazenda é improvável.",
      "fontes": [
       {
-       "n": "A Crítica",
-       "u": "https://acritica.net/nacional/governo-reconhece-terra-indigena-de-362-mil-hectares-onde-nasceu-cacique-raoni/"
+       "n": "CNN Brasil",
+       "u": "https://cnnbrasil.com.br/politica/apos-avanco-do-plano-moretti-lula-planeja-novo-pacote-de-ajuste-fiscal"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/lula-regulariza-terra-do-povo-kayapo-e-promete-dignidade-aos-indigenas"
-      },
-      {
-       "n": "Hora do Povo",
-       "u": "https://horadopovo.com.br/lula-visita-cacique-raoni-e-anuncia-demarcacao-de-territorio-ancestral-dos-kayapo/"
-      },
-      {
-       "n": "TMC",
-       "u": "https://tmc.com.br/politica/lula-raoni-portaria-terra-indigena-kapot-nhinore/"
+       "n": "O Liberal / Estadão",
+       "u": "https://www.oliberal.com/cultura/coluna-do-estadao-bruno-moretti-ganha-forca-no-planalto-mas-comando-da-fazenda-e-improvavel-1.1196401"
       }
      ]
     },
@@ -297,46 +347,6 @@
       "src": "fotos/lula.jpg",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
      }
-    },
-    {
-     "kicker": "8 de janeiro",
-     "quando": "Ontem",
-     "titulo": "Moraes marca para 4 de dezembro o julgamento da Lei da Dosimetria no STF",
-     "resumo": "A lei aprovada pelo Congresso pode reduzir penas de condenados pelos atos de 8 de janeiro e pela trama golpista, mas está suspensa por decisão do ministro desde maio. Os presidentes da Câmara, Hugo Motta, e do Senado, Davi Alcolumbre, haviam pedido que o tema fosse julgado ainda em 2026.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro"
-      },
-      {
-       "n": "Jornal do Brasil",
-       "u": "https://www.jb.com.br/brasil/justica/2026/11/1061578-motta-e-alcolumbre-discutem-com-moraes-julgamento-da-lei-da-dosimetria.html"
-      },
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/politica/fachin-sinaliza-que-stf-pode-julgar-lei-da-dosimetria-ainda-neste-ano-1.1195509"
-      }
-     ]
-    },
-    {
-     "kicker": "Novo governo",
-     "quando": "Ontem",
-     "titulo": "Moretti ganha força na disputa pela Fazenda após articular o ajuste no Senado; Lula diz que não tem pressa para indicar ministros",
-     "resumo": "O ministro do Planejamento, Bruno Moretti, é avaliado por Lula para o comando da Fazenda, hoje com Dario Durigan. Moretti disse nesta quinta que ainda não é o momento de novas medidas fiscais, um dia depois de Durigan falar em novidades imediatas; a indefinição foi citada por analistas como fator de pressão sobre o dólar.",
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/19/por-que-moretti-durigan-divergem-ajuste-fiscal"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/lula-diz-que-nao-tem-pressa-e-que-vai-indicar-ministros-quando-quiser/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-dolar-renova-maxima-19-meses-r-593/"
-      }
-     ]
     }
    ]
   },
@@ -344,49 +354,73 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Ásia em queda, Anthropic e bitcoin",
+   "nota": "Sexta sem B3 e mais um dia de venda de IA",
    "itens": [
     {
      "kicker": "Mercados",
      "quando": "Hoje",
-     "titulo": "Bolsas da Ásia despencam com venda de ações de IA; Nikkei cai 4,7% e Kospi perde mais de 5%",
-     "resumo": "A onda de vendas seguiu a queda de mais de 2% em Nova York na quinta e deixa as bolsas globais perto da maior sequência de baixas em mais de três anos. Os índices futuros americanos e o ouro também recuam, e investidores passaram a apostar em alta de juros nos EUA em dezembro. A B3 não abre hoje por causa do feriado.",
+     "titulo": "Wall Street abre mista e Nasdaq cai 1,27%; ações da Anthropic recuam 7,5% no segundo pregão",
+     "resumo": "Na abertura, o S&P 500 caía 0,49% e o Dow Jones subia 0,19%; se fechar em queda, o S&P 500 terá sete baixas seguidas, a maior série em três anos. A Anthropic, que subiu 17% na estreia de quinta, era negociada a US$ 89,92 perto das 11h35, ainda acima do preço do IPO, de US$ 83. Pesam a expectativa de alta de juros nos EUA e sinais de desaceleração nos gastos com data centers.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/20/bolsas-asiaticas-afundam-com-venda-de-acoes-de-ia-apesar-de-estreia-forte-da-anthropic"
+       "n": "Jornal Económico",
+       "u": "https://jornaleconomico.sapo.pt/noticias/wall-street-abre-em-terreno-misto-num-contexto-de-crescente-aversao-ao-risco/"
       },
       {
-       "n": "XTB",
-       "u": "https://www.xtb.com/int/market-analysis/news-and-research/morning-wrap-stock-indices-and-metals-extend-their-declines-20-11-2026"
+       "n": "InvestNews / Barron's",
+       "u": "https://investnews.com.br/negocios/anthropic-acoes-queda-pos-ipo/"
       },
       {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/mundo/bolsas-asiaticas-despencam-com-onda-de-vendas-de-acoes-ligadas-a-inteligencia-artificial/"
+       "n": "AP",
+       "u": "https://www.messenger-inquirer.com/ap/elections/us-stocks-open-lower-as-tech-sell-off-continues-and-anthropic-falls-9/article_e24bb216-f842-5e5a-b4cb-7c762109119b.html"
       },
       {
-       "n": "Diário Económico",
-       "u": "https://www.diarioeconomico.co.mz/2026/11/20/mercados/mercados-mercados/bolsas-asiaticas-afundam-com-a-ia-no-centro-das-vendas/"
+       "n": "IstoÉ Dinheiro",
+       "u": "https://istoedinheiro.com.br/acoes-anthropic-queda-pre-mercado-apos-ipo"
       }
      ]
     },
     {
-     "kicker": "IPO",
+     "kicker": "Bolsas",
      "quando": "Hoje",
-     "titulo": "Ações da Anthropic recuam cerca de 6% no pré-mercado, um dia após subir 17% na estreia",
-     "resumo": "O papel fechou a US$ 97,17 na quinta, acima do preço de oferta de US$ 83, e passou a cair no after-hours depois de a Bloomberg noticiar que a Apple prepara um assistente de IA autônomo. Com a colocação privada, a oferta somou cerca de US$ 107 bilhões, segundo a CNBC.",
+     "titulo": "Taiwan cai 6,2%, Coreia 5,2% e Japão 5,1%; na Europa, Frankfurt perde mais de 2% e ouro e prata recuam",
+     "resumo": "A venda de ações ligadas à inteligência artificial se espalhou da Ásia para a Europa, com temor sobre o endividamento das empresas do setor. O Nikkei foi ao menor nível desde abril. O ouro caiu cerca de 2,7% e a prata 3,5%, com o dólar perto da máxima em 19 meses.",
      "fontes": [
       {
-       "n": "Times Brasil / CNBC",
-       "u": "https://timesbrasil.com.br/empresas-e-negocios/anthropic-cai-6-apos-estreia-historica-na-nasdaq-nvidia-e-amd-tambem-recuam"
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/20/asia-e-europa-caem-com-medo-da-divida-bilionaria-da-ia"
       },
       {
-       "n": "Kotak Neo",
-       "u": "https://www.kotakneo.com/news/global-markets/anthropic-shares-fall-after-hours-as-apples-reported-ai-agent-plans-raise-competition-concerns/"
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/20/stocks-gold-and-silver-fall-after-blockbuster-anthropic-ipo"
       },
       {
-       "n": "Yahoo Finance",
-       "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-slips-hours-blockbuster-015552218.html"
+       "n": "Euronews Brasil",
+       "u": "https://pt.euronews.com/2026/11/20/bolsas-asiaticas-afundam-com-venda-de-acoes-de-ia-apesar-de-estreia-forte-da-anthropic"
+      }
+     ]
+    },
+    {
+     "kicker": "Feriado",
+     "quando": "Hoje",
+     "titulo": "Com a B3 fechada, ETF de ações brasileiras cai 1,3% em Nova York; dólar acumulou alta de quase 5% na semana",
+     "resumo": "No pré-mercado americano, o EWZ recuava para US$ 29,13, e os recibos de Petrobras, Vale e Itaú também caíam. Na quinta, o Ibovespa fechou em 166.376 pontos e o dólar terminou a R$ 5,935, maior nível desde abril de 2025. A bolsa brasileira volta a operar na segunda (23).",
+     "foto": {
+      "src": "fotos/real.jpg",
+      "credito": "José Cruz/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/ewz-cai-em-dia-de-feriado-no-brasil-veja-como-operam-as-acoes-brasileiras-no-exterior-igdl/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/"
+      },
+      {
+       "n": "AVNews",
+       "u": "https://www.ativovirtual.com.br/avnews/artigos/b3-fechada-eua-e-bce-antecipam-o-tom-da-segunda"
       }
      ]
     },
@@ -409,50 +443,6 @@
        "u": "https://www.kucoin.com/news/flash/bitcoin-drops-near-61-300-after-anthropic-ipo-triggering-660m-liquidations"
       }
      ]
-    },
-    {
-     "kicker": "Câmbio",
-     "quando": "Ontem",
-     "titulo": "Dólar fecha a R$ 5,93, maior nível desde abril de 2025, mesmo após o BC vender US$ 1 bilhão",
-     "resumo": "Foi a sexta alta seguida da moeda, que acumulou 4,88% na semana, em meio a dúvidas sobre o comando da Fazenda e o alcance do ajuste fiscal. O Ibovespa caiu 0,69%, aos 166.376 pontos; o mercado volta a operar na segunda (23).",
-     "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/mercado/ibovespa-cai-dolar-renova-maxima-19-meses-r-593/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Bancos",
-     "quando": "18/11",
-     "titulo": "Banco do Brasil informa acesso indevido a dados de clientes e alerta para risco de golpes",
-     "resumo": "Segundo o banco, um terceiro usou de forma irregular uma credencial válida, já revogada, e teve acesso a nome, CPF, e-mail, agência e, em alguns casos, número da conta. O BB diz que senhas e tokens não foram expostos e que não identificou transações ligadas ao incidente, detectado em 12 de novembro.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/tecnologia/banco-do-brasil-comunica-clientes-sobre-vazamento-de-dados/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/banco-do-brasil-alerta-clientes-sobre-vazamento-de-dados-pessoais"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/banco-do-brasil-identifica-vazamento-de-dados-de-clientes-veja-como-nao-cair-em-golpes/"
-      }
-     ]
     }
    ]
   },
@@ -460,53 +450,49 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Tempestades, Consciência Negra e estradas",
+   "nota": "Tornado no RS, alertas e Consciência Negra",
    "itens": [
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Inmet tem aviso de tempestade para quase 4 mil cidades no feriado; Paraná, Santa Catarina e Espírito Santo estão inteiros em alerta laranja",
-     "resumo": "O alerta cobre 17 estados e o Distrito Federal, com previsão de até 100 mm de chuva no dia, ventos de até 100 km/h e granizo nas áreas em laranja. No Norte e no Nordeste, o calor deve chegar a 38 °C em Teresina; o aviso amarelo continua no sábado e no domingo.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
-      "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
-     },
+     "titulo": "Inmet mantém alerta de tempestade com granizo para o feriado; Santa Catarina tem previsão de vento de até 100 km/h",
+     "resumo": "O aviso laranja vale até 23h59 em todo o território catarinense, com chuva de 50 a 100 mm e risco de alagamentos, queda de árvores e falta de energia; Paraná e Espírito Santo também estão em alerta. No Rio Grande do Sul, a Defesa Civil emitiu na quinta alertas vermelhos para 22 cidades da região metropolitana. Em emergência, o telefone é 199.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/tempo/2026/11/19/temporal-tem-data-para-castigar-17-estados-no-feriado-e-mira-lavouras-de-r-189-bilhoes"
+       "n": "TN Sul",
+       "u": "https://tnsul.com/2026/11/20/feriado-tem-alerta-de-tempestade-com-granizo-e-vento-de-ate-100-km-h-em-sc/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/feriado-da-consciencia-negra-tera-chuva-e-tempestades-em-todo-o-brasil"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/temporal-em-tupancireta-mata-uma-pessoa-rastro-destruicao/"
       },
       {
-       "n": "Folha de Curitiba",
-       "u": "https://folhadecuritiba.com.br/alerta-tempestade-curitiba-20-novembro-2026/"
-      },
-      {
-       "n": "Inmet",
-       "u": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-quinta-feira-19-e-sexta-feira-20"
+       "n": "Click Guarulhos",
+       "u": "https://www.clickguarulhos.com.br/2026/11/20/feriado-prolongado-tem-alerta-de-chuvas-fortes/"
       }
      ]
     },
     {
      "kicker": "Consciência Negra",
      "quando": "Hoje",
-     "titulo": "Feriado da Consciência Negra tem marchas e atos em várias cidades; em São Paulo, concentração é às 10h no Masp",
-     "resumo": "A 23ª Marcha da Consciência Negra de São Paulo segue para ato na Avenida Paulista às 14h. Organizadores levam pautas como a PEC da Reparação, a indicação de uma mulher negra ao STF e a oposição à redução da maioridade penal e ao ajuste fiscal; Salvador e Porto Alegre também têm programação.",
+     "titulo": "Feriado tem marcha na Paulista, feira de empreendedores negros e shows no centro de São Paulo",
+     "resumo": "A 23ª Marcha da Consciência Negra, que homenageia os 60 anos dos Panteras Negras, se concentra no Masp e segue às 15h para o Theatro Municipal; organizadores levam pautas como a PEC da Reparação e críticas ao ajuste fiscal. No Viaduto do Chá e na Praça do Patriarca, 120 empreendedores negros e indígenas expõem até sábado, das 10h às 22h.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/UJ_lTb4ybAWGOFg1qIlMkyVsx7k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/20/0g0a6563.jpg?itok=PSkQY5Ux",
+      "credito": "Rovena Rosa/Agência Brasil (arquivo)"
+     },
      "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/sp-empreendedorismo-marcha-e-musica-marcam-dia-da-consciencia-negra"
+      },
+      {
+       "n": "CTB",
+       "u": "https://www.ctb.org.br/2026/11/19/23a-marcha-da-consciencia-negra-de-sao-paulo-homenageia-60-anos-dos-panteras-negras/"
+      },
       {
        "n": "Vermelho",
        "u": "https://vermelho.org.br/2026/11/19/dia-da-consciencia-negra-tera-atos-contra-ajuste-fiscal-e-reducao-da-maioridade-penal/"
-      },
-      {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/11/18/marcha-zumbi-e-dandara-debates-e-programacao-cultural-marcam-a-semana-da-consciencia-negra-no-rs/"
-      },
-      {
-       "n": "Alô Alô Bahia",
-       "u": "https://aloalobahia.com/noticias/2026/11/17/dia-da-consciencia-negra-tera-marchas-caminhadas-e-eventos-gratuitos-em-salvador-veja-programacao/"
       }
      ]
     },
@@ -535,30 +521,6 @@
      ]
     },
     {
-     "kicker": "Desigualdade",
-     "quando": "18/11",
-     "titulo": "IBGE: pretos e pardos são 55% dos trabalhadores, mas ocupam 30,7% dos cargos de gerência",
-     "resumo": "O estudo sobre desigualdades por cor ou raça mostra que a pobreza atinge 31,5% da população negra e 16,1% da branca, e que a hora trabalhada rende R$ 16,6 aos negros e R$ 27,2 aos brancos. A taxa de homicídios entre jovens negros de 15 a 29 anos é 3,2 vezes a dos brancos.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/ypgQzdejDeB8y8P6ZmntyHfwldU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr9995.jpg?itok=ygTHB3Oh",
-      "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge"
-      },
-      {
-       "n": "Folha BV",
-       "u": "https://www.folhabv.com.br/cotidiano/ibge-pobreza-atinge-315-da-populacao-negra-e-161-dos-brancos/"
-      },
-      {
-       "n": "A Gazeta de Dourados",
-       "u": "https://www.agazetadedourados.com.br/noticias/brasil/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge/18/11/2026/"
-      }
-     ]
-    },
-    {
      "kicker": "Polícia Federal",
      "quando": "Ontem",
      "titulo": "PF faz buscas na casa do vice-presidente do TCE-RS e apreende cerca de R$ 72 mil em dinheiro",
@@ -580,45 +542,49 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "COP31, Ucrânia e EUA",
+   "nota": "Ataque a Kiev, COP31 e EUA",
    "itens": [
     {
-     "kicker": "COP31",
+     "kicker": "Guerra na Ucrânia",
      "quando": "Hoje",
-     "titulo": "COP31 chega ao último dia previsto sem acordo sobre combustíveis fósseis, e Panamá ameaça bloquear consenso",
-     "resumo": "O rascunho apresentado na quinta tirou o trecho sobre abandonar os fósseis e cortou uma proposta brasileira contra o desmatamento, mas manteve a meta de 1,5 °C e um fundo de US$ 120 bilhões por ano até 2035. Negociadores falam em estender a conferência de Antália até o fim de semana.",
+     "titulo": "Ataque russo em massa atinge três pontes de Kiev e deixa ao menos nove mortos na Ucrânia",
+     "resumo": "Em Kiev, três funcionários da companhia de água morreram e partes da cidade ficaram sem luz, água e aquecimento; em Lviv, um ataque a uma estação de trem matou duas pessoas. Zelensky disse que foram usados 110 mísseis e cerca de 400 drones. Moscou afirma ter mirado alvos militares e de energia, e Putin descartou negociar um cessar-fogo parcial.",
      "fontes": [
       {
-       "n": "Agora Litoral",
-       "u": "https://agoralitoral.com.br/2026/11/20/cop31-chega-ao-ultimo-dia-na-turquia-sem-acordo-sobre-fosseis/"
+       "n": "Kyiv Independent",
+       "u": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
       },
       {
-       "n": "Diário de Notícias",
-       "u": "https://www.dn.pt/sociedade/cop31-chega-ao-fim-previsto-sob-crticas-de-falta-de-ambio-e-ameaa-de-bloqueio"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/20/ataques-aereos-russos-em-kiev-matam-tres-pessoas-e-danificam-duas-pontes"
       },
       {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-esg/2026/11/cop31-retira-combustiveis-fosseis-da-minuta-e-negocia-acordo-final/"
+       "n": "CNN Portugal",
+       "u": "https://cnnportugal.iol.pt/guerra/ucrania/tres-pontes-em-menos-de-24-horas-porque-e-que-a-russia-esta-a-atacar-as-travessias-de-kiev/20261120/6b0037490cf2c0fc744b6f29"
+      },
+      {
+       "n": "Observador / Lusa",
+       "u": "https://observador.pt/2026/11/20/zelensky-ve-ataques-na-crimeia-como-ato-deliberado-contra-propriedade-ucraniana/"
       }
      ]
     },
     {
-     "kicker": "Ucrânia",
-     "quando": "Ontem",
-     "titulo": "Em Berlim, Kushner diz que Trump admite dar à Ucrânia garantia de segurança nos moldes da Otan",
-     "resumo": "O enviado americano falou após reunião da Coalizão dos Voluntários e disse que os russos aceitaram o conceito. Emmanuel Macron pediu para reabrir o debate sobre a entrada da Ucrânia na Otan, e Friedrich Merz disse esperar novas negociações com a Europa à mesa.",
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "COP31 passa do prazo sem acordo e negociações em Antália continuam no sábado",
+     "resumo": "O encerramento estava previsto para 12h de Brasília, mas cerca de 200 delegações seguem sem consenso sobre financiamento climático e o futuro dos combustíveis fósseis. O último rascunho retirou referências às propostas do Brasil sobre fósseis e desmatamento, e o mecanismo de transição justa criado na COP30 segue sem regras.",
      "fontes": [
       {
-       "n": "Jornal de Brasília / AFP",
-       "u": "https://jornaldebrasilia.com.br/noticias/mundo/kushner-diz-que-trump-estaria-disposto-a-estender-a-ucrania-a-clausula-de-defesa-da-otan/"
+       "n": "O Povo / AFP",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/20/cop31-prolonga-suas-negociacoes-em-meio-a-um-embate-sobre-os-combustiveis-fosseis.html"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/19/trump-estaria-disposto-a-estender-a-ucrania-a-clausula-de-defesa-da-otan-diz-emissario-dos-eua"
+       "n": "A Crítica",
+       "u": "https://acritica.net/noticias/cop31-pode-ser-prorrogada-ate-domingo-apos-impasse-sobre-financiamento-climatico/"
       },
       {
-       "n": "Kyiv Post",
-       "u": "https://www.kyivpost.com/post/90644"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mundo/cop31-entra-na-reta-final-sem-consenso-sobre-combustiveis-fosseis-e-financiamento/"
       }
      ]
     },
@@ -639,6 +605,18 @@
      ]
     },
     {
+     "kicker": "Justiça internacional",
+     "quando": "Ontem",
+     "titulo": "Corte Internacional de Justiça conclui que Mianmar cometeu genocídio contra os rohingyas",
+     "resumo": "É a primeira vez que a CIJ responsabiliza um Estado por genocídio, em ação movida pela Gâmbia sobre a violência de 2017 no estado de Rakhine. A decisão não cabe recurso; Mianmar nega as acusações e não comentou de imediato.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/tribunal-da-onu-conclui-que-mianmar-cometeu-genocidio"
+      }
+     ]
+    },
+    {
      "kicker": "Colômbia",
      "quando": "Ontem",
      "titulo": "Ataques com drones no conflito interno da Colômbia quase dobram em 2026, sob o governo De La Espriella",
@@ -653,18 +631,6 @@
        "u": "https://newscura.com/global/timeline/2026-11-20"
       }
      ]
-    },
-    {
-     "kicker": "Justiça internacional",
-     "quando": "Ontem",
-     "titulo": "Corte Internacional de Justiça conclui que Mianmar cometeu genocídio contra os rohingyas",
-     "resumo": "É a primeira vez que a CIJ responsabiliza um Estado por genocídio, em ação movida pela Gâmbia sobre a violência de 2017 no estado de Rakhine. A decisão não cabe recurso; Mianmar nega as acusações e não comentou de imediato.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/tribunal-da-onu-conclui-que-mianmar-cometeu-genocidio"
-      }
-     ]
     }
    ]
   },
@@ -672,65 +638,25 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Rodada de quinta, F1 e decisões",
+   "nota": "Decisão no sábado e F1 em Las Vegas",
    "itens": [
     {
      "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Vasco vence o Internacional por 2 a 1 e empurra o time gaúcho para a zona de rebaixamento",
-     "resumo": "Thiago Mendes e Colidio marcaram em São Januário; Juninho descontou. O Vasco chegou a 47 pontos, em 10º, e o Inter ficou em 17º, com 38, a três rodadas do fim; o time gaúcho recebe o Vitória na segunda (23).",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-bate-internacional-e-empurra-equipe-gaucha-para-zona-de-rebaixamento/"
-      },
-      {
-       "n": "VAVEL",
-       "u": "https://www.vavel.com/br/futebol/2026/11/19/1279712-vasco-x-sc-internacional-ao-vivo-brasileirao-serie-a.html"
-      },
-      {
-       "n": "Folha do Leste",
-       "u": "https://folhadoleste.com.br/vasco-vence-internacional-2-a-1-brasileirao-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Fluminense bate o São Paulo no MorumBIS e se firma em 3º; Vitória vence o Bragantino e sobe para 14º",
-     "resumo": "Hércules fez o único gol do Fluminense, que chegou a 60 pontos, seis à frente do Athletico-PR. Em Salvador, Brítez e Renê marcaram no primeiro tempo e o Vitória venceu por 2 a 1, chegando a 41 pontos.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-com-gol-de-hercules-fluminense-bate-o-sao-paulo-no-morumbis"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/futebol/vitoria-bate-o-bragantino-por-2-a-1-no-barradao/"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/ba/salvador/esportes/noticia/2026/11/19/vitoria-vence-bragantino-estreia-lacerda-fora-z4"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Flamengo pode ser campeão no sábado: empate ou vitória contra o Palmeiras garante o título",
-     "resumo": "O líder tem 79 pontos, seis a mais que o Palmeiras, com três rodadas por jogar. O confronto direto é às 16h30, no Nubank Parque, em São Paulo.",
+     "titulo": "Palmeiras perde Barboza para o jogo que pode dar o título ao Flamengo; Abel diz que a taça “está entregue”",
+     "resumo": "O zagueiro cumpre suspensão por cartões no duelo de sábado, às 16h30, no Nubank Parque. O Flamengo tem 79 pontos, seis a mais que o Palmeiras, e fica com o título se empatar ou vencer. Abel Ferreira não descarta poupar titulares por causa das finais da Libertadores (28/11) e da Copa do Brasil (6/12).",
      "fontes": [
       {
-       "n": "Diário do Rio",
-       "u": "https://diariodorio.com/esporte/2026/11/19/brasileirao-2026-saiba-do-que-o-flamengo-precisa-contra-o-palmeiras-para-ser-campeao.html"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/palmeiras/palmeiras-perde-titular-para-confronto-contra-o-flamengo-pelo-brasileirao,970a7c6db1fb4b3e903a39bd65f19b1cupbmgizf.html"
+      },
+      {
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/palmeiras-flamengo-empate-titulo-brasileirao-2026-onde-assistir"
       },
       {
        "n": "Lance!",
-       "u": "https://www.lance.com.br/flamengo/o-que-o-flamengo-precisa-para-ser-campeao-contra-o-palmeiras-veja-cenario.html"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/o-que-o-flamengo-precisa-fazer-para-ser-campeao-do-brasileirao-contra-o-palmeiras,a35da76cbb0584ab1cc6976b6c7690e2ef1t0xpt.html"
+       "u": "https://www.lance.com.br/flamengo/lamengo-chega-invicto-em-gramados-sinteticos-para-enfrentar-o-palmeiras-veja-os-numeros.html"
       }
      ]
     },
@@ -771,6 +697,46 @@
       {
        "n": "Olympics.com",
        "u": "https://www.olympics.com/pt/noticias/copa-sul-americana-2026-final-atletico-mg-boca-juniors"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Vasco vence o Internacional por 2 a 1 e empurra o time gaúcho para a zona de rebaixamento",
+     "resumo": "Thiago Mendes e Colidio marcaram em São Januário; Juninho descontou. O Vasco chegou a 47 pontos, em 10º, e o Inter ficou em 17º, com 38, a três rodadas do fim; o time gaúcho recebe o Vitória na segunda (23).",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-bate-internacional-e-empurra-equipe-gaucha-para-zona-de-rebaixamento/"
+      },
+      {
+       "n": "VAVEL",
+       "u": "https://www.vavel.com/br/futebol/2026/11/19/1279712-vasco-x-sc-internacional-ao-vivo-brasileirao-serie-a.html"
+      },
+      {
+       "n": "Folha do Leste",
+       "u": "https://folhadoleste.com.br/vasco-vence-internacional-2-a-1-brasileirao-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Fluminense bate o São Paulo no MorumBIS e se firma em 3º; Vitória vence o Bragantino e sobe para 14º",
+     "resumo": "Hércules fez o único gol do Fluminense, que chegou a 60 pontos, seis à frente do Athletico-PR. Em Salvador, Brítez e Renê marcaram no primeiro tempo e o Vitória venceu por 2 a 1, chegando a 41 pontos.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/brasileirao-com-gol-de-hercules-fluminense-bate-o-sao-paulo-no-morumbis"
+      },
+      {
+       "n": "Revista Fórum",
+       "u": "https://revistaforum.com.br/futebol/vitoria-bate-o-bragantino-por-2-a-1-no-barradao/"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/ba/salvador/esportes/noticia/2026/11/19/vitoria-vence-bragantino-estreia-lacerda-fora-z4"
       }
      ]
     }
@@ -893,26 +859,6 @@
        "u": "https://novaconcursos.com.br/portal/noticias/concurso-see-sp-edital-publicacao-19-11"
       }
      ]
-    },
-    {
-     "kicker": "Desigualdade",
-     "quando": "18/11",
-     "titulo": "IBGE: proporção de negros com ensino superior é metade da de brancos, e diploma não fecha a diferença de renda",
-     "resumo": "O dado faz parte do estudo sobre desigualdades por cor ou raça divulgado na véspera do Dia da Consciência Negra. Mesmo com curso superior, a hora trabalhada rende R$ 33 aos negros e R$ 46,1 aos brancos.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ibge-percentual-de-negros-com-ensino-superior-e-metade-da-de-brancos"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/geral/ibge-desigualdade-racial-pretos-pardos-renda-homicidio-ms-desemprego/"
-      }
-     ]
     }
    ]
   },
@@ -940,6 +886,18 @@
       {
        "n": "Investing.com",
        "u": "https://www.investing.com/news/economy-news/anthropic-dips-afterhours-as-ai-jitters-persist--whats-moving-markets-5040999"
+      }
+     ]
+    },
+    {
+     "kicker": "Pesquisa",
+     "quando": "Ontem",
+     "titulo": "Anthropic diz que o Claude ajudou cientistas a reconstruir em 3D uma estrutura molecular inédita",
+     "resumo": "Segundo a empresa, a busca analisou cerca de 15 bilhões de proteínas e encontrou estruturas semelhantes às “vaults”, partículas descritas em 1986 cuja função ainda é desconhecida; quatro tiveram o formato confirmado por microscopia. O estudo é preliminar, não passou por revisão de pares e a estrutura foi produzida em bactérias.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/claude-ajudou-a-revelar-estrutura-molecular-inedita-entenda/"
       }
      ]
     },
@@ -985,8 +943,24 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Falas Negras, Jogos Vorazes e mortes",
+   "nota": "Feriado, estreias e mortes",
    "itens": [
+    {
+     "kicker": "Música",
+     "quando": "Hoje",
+     "titulo": "Seu Jorge e Jota.Pê lideram shows gratuitos do Festival da Consciência Negra no centro de São Paulo",
+     "resumo": "São dez palcos espalhados pelo centro, com programação a partir das 11h; o principal fica na Avenida São João. A Feira Preta reúne cerca de cem barracas no Viaduto do Chá, e o Museu das Favelas recebe debates gratuitos.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/sp-empreendedorismo-marcha-e-musica-marcam-dia-da-consciencia-negra"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/pop/consciencia-negra-veja-7-programas-gratuitos-para-aproveitar-o-feriado-em-sao-paulo/"
+      }
+     ]
+    },
     {
      "kicker": "TV",
      "quando": "Hoje",
@@ -1000,6 +974,18 @@
       {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/opiniao/thiaggo-camilo/2026/11/15/o-que-assistir-na-tv-globo-nesta-semana-de-15-a-20-de-novembro"
+      }
+     ]
+    },
+    {
+     "kicker": "Luto",
+     "quando": "Hoje",
+     "titulo": "Influenciador Gabriel Félix morre aos 29 anos; causa não foi divulgada",
+     "resumo": "A morte, na noite de quinta (19), foi anunciada nesta sexta pela companheira, a influenciadora Isabelle Abreu. Ele tinha mais de 1 milhão de seguidores no Instagram e deixa uma filha.",
+     "fontes": [
+      {
+       "n": "Jornal Opção",
+       "u": "https://jornalopcao.com.br/luto/influenciador-gabriel-felix-morre-aos-29-anos-898538"
       }
      ]
     },
@@ -1040,34 +1026,6 @@
       {
        "n": "Correio Braziliense",
        "u": "https://tvprime.correiobraziliense.com.br/noticia/414477/filmes-e-series/ator-da-serie-you-morre-afogado-aos-38-anos-apos-agredir-mulher-e-se-jogar-no-mar-19112026"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Morre aos 91 anos o jornalista e escritor italiano Corrado Augias; Senado faz minuto de silêncio",
-     "resumo": "Augias apresentou o programa “Telefono Giallo” na Rai e colaborava com o jornal La Repubblica desde a fundação. Senadores do governo e da oposição o homenagearam com aplausos em Roma.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/19/italia-morre-aos-91-anos-corrado-augias-aplausos-e-minuto-de-silencio-no-senado"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "18/11",
-     "titulo": "Aos 82 anos, Roger Daltrey, vocalista do The Who, faz show solo em São Paulo no sábado",
-     "resumo": "A apresentação no Best of Blues and Rock, no Ibirapuera, terá foco nos discos solo recentes e menos canções do The Who. Daltrey disse que a banda atual lhe permite fazer algo diferente do que já fez no palco.",
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/sp/sao-paulo/pop/noticia/2026/11/18/roger-daltrey-82-anos-show-solo-sao-paulo"
-      },
-      {
-       "n": "Conexão Pop",
-       "u": "https://conexaopop.com.br/agenda-de-shows-de-novembro-de-2026-mariah-carey-hayley-williams-e-muito-mais/"
       }
      ]
     }
