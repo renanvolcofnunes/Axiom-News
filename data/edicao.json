@@ -1,33 +1,33 @@
 {
  "data": "Sexta-feira, 20 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "20/11/2026 · 12h45 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 11h45",
- "fontes": 69,
+ "edicao": "Edição da noite",
+ "atualizado": "20/11/2026 · 19h05 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h10",
+ "fontes": 71,
  "mercado": [
+  {
+   "nome": "Nasdaq · fechamento, 18h",
+   "valor": "22.617 pts",
+   "var": "-5,28%",
+   "dir": "down"
+  },
+  {
+   "nome": "S&P 500 · fechamento, 18h",
+   "valor": "6.910 pts",
+   "var": "-3,70%",
+   "dir": "down"
+  },
+  {
+   "nome": "Dow Jones · fechamento, 18h",
+   "valor": "48.147 pts",
+   "var": "-1,93%",
+   "dir": "down"
+  },
   {
    "nome": "Ibovespa · fechamento de quinta (B3 fechada hoje)",
    "valor": "166.376 pts",
    "var": "-0,69%",
-   "dir": "down"
-  },
-  {
-   "nome": "Dólar comercial · fechamento de quinta",
-   "valor": "R$ 5,93",
-   "var": "+4,95% na semana",
-   "dir": "up"
-  },
-  {
-   "nome": "Nasdaq · abertura, 11h45",
-   "valor": "23.577 pts",
-   "var": "-1,27%",
-   "dir": "down"
-  },
-  {
-   "nome": "Anthropic (ANT) · 11h35",
-   "valor": "US$ 89,92",
-   "var": "-7,5%",
    "dir": "down"
   },
   {
@@ -39,34 +39,34 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 20/11 · 13h",
-   "txt": "23ª Marcha da Consciência Negra se concentra no Masp, na Avenida Paulista, e segue às 15h para o Theatro Municipal; prazo da reaplicação do Enem vai até 23h59",
-   "cat": "brasil"
-  },
-  {
-   "hora": "Sex 20/11 a seg 30/11",
-   "txt": "1ª Turma do STF julga no plenário virtual o recurso de Flávio Bolsonaro sobre os passaportes e a denúncia contra Marcel van Hattem",
-   "cat": "politica"
-  },
-  {
-   "hora": "Sáb 21/11",
-   "txt": "COP31 segue em prorrogação em Antália; Palmeiras x Flamengo (16h30) pode decidir o Brasileirão; Atlético-MG x Boca na final da Sul-Americana (19h30)",
+   "hora": "Sex 20/11 · 21h30",
+   "txt": "Treino livre 3 do GP de Las Vegas; classificação à 1h de sábado",
    "cat": "esporte"
   },
   {
-   "hora": "Dom 22/11 · madrugada",
+   "hora": "Sáb 21/11",
+   "txt": "COP31 tenta fechar acordo em Antália; ministro Waldez Góes visita Tupanciretã (RS)",
+   "cat": "mundo"
+  },
+  {
+   "hora": "Sáb 21/11 · 16h30 e 19h30",
+   "txt": "Palmeiras x Flamengo pode decidir o Brasileirão; Atlético-MG x Boca na final da Sul-Americana, em Barranquilla",
+   "cat": "esporte"
+  },
+  {
+   "hora": "Dom 22/11 · 1h",
    "txt": "GP de Las Vegas de Fórmula 1, com Bortoleto (Audi) e Rafael Câmara (Haas)",
    "cat": "esporte"
   },
   {
    "hora": "Seg 23/11",
-   "txt": "B3 volta a operar após o feriado; Câmara deve votar o ajuste fiscal aprovado pelo Senado",
+   "txt": "B3 reabre após a queda em Nova York; Câmara pode votar o ajuste fiscal na sessão das 18h",
    "cat": "economia"
   },
   {
-   "hora": "Sáb 28/11",
-   "txt": "Palmeiras x Estudiantes na final da Libertadores, em Montevidéu",
-   "cat": "esporte"
+   "hora": "Até seg 30/11",
+   "txt": "1ª Turma do STF julga no plenário virtual o recurso de Flávio Bolsonaro e a denúncia contra Marcel van Hattem",
+   "cat": "politica"
   }
  ],
  "acervo": [
@@ -162,44 +162,45 @@
   }
  ],
  "manchete": {
-  "kicker": "Temporal no RS",
-  "titulo": "Temporal com suspeita de tornado devasta Tupanciretã (RS), deixa ao menos um morto e atinge quase todas as casas da cidade",
-  "resumo": "A prefeitura estima que cerca de 8 mil das 8,6 mil residências foram destelhadas ou derrubadas na madrugada desta sexta (20). O vice-governador fala em cerca de 20 feridos, e a Defesa Civil investiga uma segunda morte.",
-  "foto": {
-   "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
-   "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
-  },
-  "entenda": "O temporal atingiu o município de cerca de 20 mil habitantes, a 383 km de Porto Alegre, entre 3h e 3h40, com granizo, vento forte e queda de árvores. A cidade ficou sem luz e sem água, e o único hospital foi atingido; feridos foram levados para Santa Maria, Júlio de Castilhos e Passo Fundo. O governador Eduardo Leite (PSD) disse que a suspeita é de tornado e acionou o Comando Militar do Sul; a Defesa Civil ainda analisa o fenômeno. O episódio ocorre em meio a alertas de tempestade do Inmet para boa parte do Sul e do Sudeste no feriado.",
+  "kicker": "Mercados",
+  "titulo": "Venda de ações de IA se aprofunda: Nasdaq cai 5,3%, Nvidia perde 14% e Dow Jones e S&P 500 entram em correção",
+  "resumo": "As bolsas de Nova York tiveram nesta sexta (20) o pior dia em meses, com a Nvidia pressionada por relatos de que a SEC examina sua contabilidade. A Anthropic, que estreou na quinta, fechou em queda de 8,5%.",
+  "entenda": "A queda começou na Ásia e na Europa e ganhou força à tarde em Wall Street. Segundo a Reuters, a SEC, órgão regulador do mercado americano, investiga possíveis irregularidades contábeis da Nvidia; a empresa e a SEC não comentaram. A fabricante de chips já vinha de sete pregões de baixa, acumulando perda de cerca de 44% e US$ 2,5 trilhões em valor de mercado, desde a saída de Jensen Huang do comando, em 12 de novembro, após revelações sobre sua vida pessoal. Na semana, o Nasdaq recuou cerca de 10%, e o índice de volatilidade VIX chegou a 40 pontos, maior nível desde abril de 2025. A B3 não abriu por causa do feriado e volta a operar na segunda (23).",
   "fatos": [
-   "O prefeito Gustavo Herter Terra (PP) resumiu o cenário com a frase “a cidade acabou”",
-   "Defesa Civil, Bombeiros e Brigada Militar foram enviados; o vice-governador Gabriel Souza seguiu para o município",
-   "Na quinta (19), a Defesa Civil gaúcha já havia emitido alertas vermelhos para 22 cidades da Grande Porto Alegre"
+   "Na semana, o Dow Jones caiu 8%, o S&P 500, 8,6% e o Nasdaq, 10%",
+   "O bitcoin ficou abaixo de US$ 60 mil, e a Europa fechou com o DAX, de Frankfurt, em queda de 2,45%",
+   "Trump disse que “adoraria ver” Jensen Huang de volta à Nvidia e ameaçou taxar empresas que construírem data centers fora dos EUA"
   ],
   "fontes": [
    {
-    "n": "Brasil de Fato",
-    "u": "https://www.brasildefato.com.br/2026/11/20/a-cidade-acabou-diz-prefeito-de-tupancireta-rs-apos-temporal-com-suspeita-de-tornado/",
-    "d": "casas atingidas"
+    "n": "Seu Dinheiro",
+    "u": "https://www.seudinheiro.com/2026/internacional/nvidia-cai-14-e-vive-a-pior-sequencia-desde-2008-a-ex-queridinha-de-wall-street-vai-ter-que-desatar-mais-um-no/",
+    "d": "Nvidia e SEC"
    },
    {
-    "n": "ND Mais",
-    "u": "https://ndmais.com.br/tempo/temporal-em-tupancireta-mata-uma-pessoa-rastro-destruicao/",
-    "d": "suspeita de tornado"
+    "n": "Tribuna do Sertão / Estadão Conteúdo",
+    "u": "https://www.tribunadosertao.com.br/geral/2026/11/20/1026711-bolsas-de-ny-fecham-em-forte-queda-e-poem-indices-em-correcao-com-tombo-de-anthropic-e-nvidia",
+    "d": "fechamento em Nova York"
    },
    {
-    "n": "Agora RS",
-    "u": "https://agorars.com/agora-no-tempo/temporal-causa-morte-deixa-feridos-e-devasta-municipio-de-tupancireta/",
-    "d": "mortos e feridos"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/mercados/nasdaq-registra-queda-seguindo-baixa-de-acoes-da-anthropic/",
+    "d": "queda da Anthropic"
    },
    {
-    "n": "Clic Portela",
-    "u": "https://www.clicportela.com.br/noticia/182846/possivel-tornado-provoca-destruicao-generalizada-e-deixa-tupancireta-em-situacao-de-emergencia",
-    "d": "situação de emergência"
+    "n": "Eco",
+    "u": "https://eco.sapo.pt/2026/11/20/arrastado-pela-inteligencia-artificial-nasdaq-apaga-todos-os-ganhos-e-ja-recua-269-no-ano/",
+    "d": "Nasdaq no ano"
    },
    {
-    "n": "Jornal Razão",
-    "u": "https://jornalrazao.com/meio-ambiente/tornado-tupancireta-rs-mata-ex-vereador",
-    "d": "vítima identificada"
+    "n": "Decrypt",
+    "u": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+    "d": "investigação da SEC"
+   },
+   {
+    "n": "O Tempo / AFP",
+    "u": "https://www.otempo.com.br/mundo/2026/11/20/trump-diz-que-nao-permitira-a-empresas-construir-data-centers-fora-dos-eua",
+    "d": "declarações de Trump"
    }
   ]
  },
@@ -208,13 +209,13 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Passaportes de Flávio, STF e ajuste fiscal",
+   "nota": "Passaportes de Flávio, ajuste na Câmara e STF",
    "itens": [
     {
      "kicker": "STF",
      "quando": "Hoje",
      "titulo": "Moraes vota para manter retidos os passaportes de Flávio Bolsonaro; 1ª Turma decide até 30 de novembro",
-     "resumo": "O relator negou o recurso da defesa e manteve também a proibição de contato do senador com o advogado Willer Tomaz, investigado no mesmo inquérito sobre lavagem de dinheiro ligada a apostas. A PGR defendeu a manutenção das medidas. Os outros ministros da Primeira Turma votam no plenário virtual até o dia 30.",
+     "resumo": "O relator negou o recurso da defesa e manteve a proibição de deixar o país e de contato com o advogado Willer Tomaz, investigado no mesmo inquérito sobre lavagem de dinheiro ligada a apostas. A PGR defendeu a manutenção das medidas. Faltam os votos de Flávio Dino, Cristiano Zanin e Cármen Lúcia, no plenário virtual, até o dia 30.",
      "lados": [
       {
        "quem": "Alexandre de Moraes e PGR",
@@ -231,6 +232,10 @@
      },
      "fontes": [
       {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro"
+      },
+      {
        "n": "TV Sim Brasil",
        "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/20/moraes-vota-manter-passaportes-flavio-bolsonaro-retidos"
       },
@@ -245,22 +250,56 @@
       {
        "n": "ND Mais",
        "u": "https://ndmais.com.br/politica/passaportes-de-flavio-bolsonaro-julgamento-stf-novembro/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/moraes-vota-para-manter-passaportes-cancelados-e-restricoes-a-flavio-bolsonaro/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Hoje",
+     "titulo": "Ajuste fiscal aprovado no Senado chega à Câmara, e Hugo Motta sinaliza votação na segunda (23)",
+     "resumo": "O relator, Mauro Benevides Filho (União-CE), apresentou parecer sem mudanças de mérito para que o texto não volte ao Senado; a votação depende de urgência e de quórum de 257 deputados. O projeto reduz de 2,5% para 2% o limite de crescimento das despesas e amplia o corte de benefícios fiscais, com efeito estimado de R$ 45 bilhões a R$ 50 bilhões em 2027.",
+     "lados": [
+      {
+       "quem": "Governo e relator",
+       "txt": "Defendem aprovar o texto do Senado sem alterações para garantir o ajuste já no Orçamento de 2027."
+      },
+      {
+       "quem": "Críticos",
+       "txt": "A oposição, com Rogério Marinho (PL-RN), compara a mudança na Lei Kandir a uma pedalada; parte do PT critica a nova base do piso da saúde, e agentes de mercado consideram o valor insuficiente."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "CNN Brasil / ac24horas",
+       "u": "https://ac24horas.com/2026/11/20/ajuste-fiscal-chega-a-camara-sob-pressao-apos-resistencias-no-senado/"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/senado-vota-5-destaques-ajuste-fiscal-camara-espera"
       }
      ]
     },
     {
      "kicker": "STF",
      "quando": "Hoje",
-     "titulo": "No Dia da Consciência Negra, cerca de 40 entidades pedem que Lula indique a primeira mulher negra ao Supremo",
-     "resumo": "A campanha Mulheres no STF quer que as próximas quatro vagas da Corte fiquem com mulheres, ao menos duas negras; há hoje uma vaga aberta com a aposentadoria de Luís Roberto Barroso. A ministra Anielle Franco lembrou que a escolha é prerrogativa do presidente, e não há indicação oficial até agora.",
+     "titulo": "Marcha na Paulista e abaixo-assinado de 45 entidades pedem que Lula indique a primeira mulher negra ao STF",
+     "resumo": "A 23ª Marcha da Consciência Negra levou a reivindicação à Avenida Paulista nesta sexta, e as entidades lançaram um abaixo-assinado com meta de 1 milhão de assinaturas. A vaga de Luís Roberto Barroso está aberta há mais de um ano; segundo O Tempo, Lula não dá sinais de mudar de rumo e ainda tem preferência por Jorge Messias, rejeitado pelo Senado em abril. Em 135 anos, o STF nunca teve uma ministra negra.",
      "fontes": [
       {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/movimentos-cobram-lula-primeira-mulher-negra-stfv"
+       "n": "Alma Preta",
+       "u": "https://almapreta.com.br/sessao/cotidiano/marcha-consciencia-negra-ministra-stf-sp/"
       },
       {
-       "n": "Vermelho",
-       "u": "https://vermelho.org.br/2026/11/19/dia-da-consciencia-negra-tera-atos-contra-ajuste-fiscal-e-reducao-da-maioridade-penal/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/11/20/apesar-de-pressoes-lula-nao-da-sinais-de-que-deve-indicar-uma-mulher-negra-ao-stf"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/brasil/movimento-reune-45-entidades-e-cobra-indicacao-de-mulher-negra-ao-stf/"
       }
      ]
     },
@@ -291,22 +330,6 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/colunas/manoela-alcantara/stf-decide-se-van-hattem-vira-reu-por-chamar-delegado-da-pf-de-bandido"
-      }
-     ]
-    },
-    {
-     "kicker": "Governo",
-     "quando": "Ontem",
-     "titulo": "Lula pede pacote fiscal de quatro anos com novas travas de gastos; Moretti ganha força para a Fazenda",
-     "resumo": "Segundo a CNN Brasil, a ideia é apresentar o plano ao Congresso em fevereiro e preparar antes uma PEC com impacto estimado de R$ 20 bilhões em 2027, como segunda etapa do ajuste aprovado no Senado. O ministro do Planejamento, Bruno Moretti, conduz a proposta com Geraldo Alckmin; a Coluna do Estadão avalia, porém, que sua ida para a Fazenda é improvável.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://cnnbrasil.com.br/politica/apos-avanco-do-plano-moretti-lula-planeja-novo-pacote-de-ajuste-fiscal"
-      },
-      {
-       "n": "O Liberal / Estadão",
-       "u": "https://www.oliberal.com/cultura/coluna-do-estadao-bruno-moretti-ganha-forca-no-planalto-mas-comando-da-fazenda-e-improvavel-1.1196401"
       }
      ]
     },
@@ -354,37 +377,33 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Sexta sem B3 e mais um dia de venda de IA",
+   "nota": "Nova York em correção e B3 fechada",
    "itens": [
     {
-     "kicker": "Mercados",
+     "kicker": "Nvidia",
      "quando": "Hoje",
-     "titulo": "Wall Street abre mista e Nasdaq cai 1,27%; ações da Anthropic recuam 7,5% no segundo pregão",
-     "resumo": "Na abertura, o S&P 500 caía 0,49% e o Dow Jones subia 0,19%; se fechar em queda, o S&P 500 terá sete baixas seguidas, a maior série em três anos. A Anthropic, que subiu 17% na estreia de quinta, era negociada a US$ 89,92 perto das 11h35, ainda acima do preço do IPO, de US$ 83. Pesam a expectativa de alta de juros nos EUA e sinais de desaceleração nos gastos com data centers.",
+     "titulo": "Nvidia cai 14% após relato de investigação da SEC e tem a pior sequência de baixas desde 2008",
+     "resumo": "Segundo a Reuters, a SEC examina possíveis irregularidades contábeis da empresa, que já é alvo de análise antitruste do Departamento de Justiça; Nvidia e SEC não comentaram. Foram sete pregões seguidos de queda, com perda de cerca de US$ 2,5 trilhões em valor de mercado desde a saída de Jensen Huang do comando, em 12 de novembro. A Anthropic recuou 8,5% no segundo dia na bolsa.",
      "fontes": [
       {
-       "n": "Jornal Económico",
-       "u": "https://jornaleconomico.sapo.pt/noticias/wall-street-abre-em-terreno-misto-num-contexto-de-crescente-aversao-ao-risco/"
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/internacional/nvidia-cai-14-e-vive-a-pior-sequencia-desde-2008-a-ex-queridinha-de-wall-street-vai-ter-que-desatar-mais-um-no/"
       },
       {
-       "n": "InvestNews / Barron's",
-       "u": "https://investnews.com.br/negocios/anthropic-acoes-queda-pos-ipo/"
+       "n": "Decrypt",
+       "u": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
       },
       {
-       "n": "AP",
-       "u": "https://www.messenger-inquirer.com/ap/elections/us-stocks-open-lower-as-tech-sell-off-continues-and-anthropic-falls-9/article_e24bb216-f842-5e5a-b4cb-7c762109119b.html"
-      },
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/acoes-anthropic-queda-pre-mercado-apos-ipo"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/apos-fechar-em-alta-acoes-da-anthropic-tem-baixa-de-9-nos-eua"
       }
      ]
     },
     {
      "kicker": "Bolsas",
      "quando": "Hoje",
-     "titulo": "Taiwan cai 6,2%, Coreia 5,2% e Japão 5,1%; na Europa, Frankfurt perde mais de 2% e ouro e prata recuam",
-     "resumo": "A venda de ações ligadas à inteligência artificial se espalhou da Ásia para a Europa, com temor sobre o endividamento das empresas do setor. O Nikkei foi ao menor nível desde abril. O ouro caiu cerca de 2,7% e a prata 3,5%, com o dólar perto da máxima em 19 meses.",
+     "titulo": "Venda de ações de IA atravessa Ásia e Europa: Taiwan cai 6,2%, Japão 5,1% e Frankfurt fecha em baixa de 2,45%",
+     "resumo": "Na Europa, Paris recuou 1,89%, Milão 2,48% e Londres 1,02%, com a holandesa ASML, fornecedora de máquinas para chips, em queda de 8,3%. Pesa o temor sobre o endividamento das empresas de IA; o ouro caiu cerca de 2,7%, com o dólar perto da máxima em 19 meses.",
      "fontes": [
       {
        "n": "TV Sim Brasil",
@@ -397,6 +416,10 @@
       {
        "n": "Euronews Brasil",
        "u": "https://pt.euronews.com/2026/11/20/bolsas-asiaticas-afundam-com-venda-de-acoes-de-ia-apesar-de-estreia-forte-da-anthropic"
+      },
+      {
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/bolsa-dolar/onda-de-caos-da-ia-derruba-bolsas-no-exterior-anthropic-despenca-13-e-wall-entra-em-correcao-ccgg/"
       }
      ]
     },
@@ -427,20 +450,36 @@
     {
      "kicker": "Criptomoedas",
      "quando": "Hoje",
-     "titulo": "Bitcoin cai para perto de US$ 61 mil, menor nível desde julho, e ETFs registram saída de US$ 1,1 bilhão",
-     "resumo": "A queda acompanhou a venda de ações de tecnologia após a estreia da Anthropic e provocou a liquidação de mais de US$ 600 milhões em posições alavancadas, segundo plataformas do setor.",
+     "titulo": "Bitcoin fica abaixo de US$ 60 mil e caminha para a sétima semana seguida de queda",
+     "resumo": "Às 14h, a moeda valia cerca de US$ 59,4 mil, queda de 5,3% em 24 horas e de 13,6% em sete dias; o ether recuava 7,2%. Se a semana fechar no vermelho no domingo, será a maior série negativa desde 2022, com saída de recursos de fundos de bitcoin nos EUA.",
      "fontes": [
       {
-       "n": "Bitnotícias",
-       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-20-de-novembro-de-2026"
+       "n": "Economic News Brasil",
+       "u": "https://economicnewsbrasil.com.br/2026/11/20/bitcoin-hoje-sete-semanas-queda/"
       },
       {
        "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/investimentos/bitcoin-hoje/bitcoin-cai-apos-ipo-da-anthropic"
+       "u": "https://www.spacemoney.com.br/investimentos/bitcoin-hoje/bitcoin-cai-abaixo-de-59-mil-fuga-para-caixa"
       },
       {
-       "n": "KuCoin News",
-       "u": "https://www.kucoin.com/news/flash/bitcoin-drops-near-61-300-after-anthropic-ipo-triggering-660m-liquidations"
+       "n": "Bitnotícias",
+       "u": "https://bitnoticias.com.br/mercado/liquidacoes-153-bilhao-bitcoin-recua-6"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Trump ameaça impor taxas a empresas de tecnologia que construírem data centers fora dos EUA",
+     "resumo": "Na Casa Branca, o presidente disse que não vai permitir esses centros em outros países e falou em sanções e em um imposto elevado. Ele também afirmou que gostaria de ver Jensen Huang de volta à Nvidia.",
+     "fontes": [
+      {
+       "n": "O Tempo / AFP",
+       "u": "https://www.otempo.com.br/mundo/2026/11/20/trump-diz-que-nao-permitira-a-empresas-construir-data-centers-fora-dos-eua"
+      },
+      {
+       "n": "Renascença",
+       "u": "https://rr.pt/noticia/mundo/2026/11/20/trump-ameaca-gigantes-tecnologicas-com-taxas-enormes-caso-construam-centros-de-dados-fora-dos-eua/494455/"
       }
      ]
     }
@@ -450,8 +489,32 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Tornado no RS, alertas e Consciência Negra",
+   "nota": "Mortes em Tupanciretã, alertas e Consciência Negra",
    "itens": [
+    {
+     "kicker": "Temporal no RS",
+     "quando": "Hoje",
+     "titulo": "Temporal em Tupanciretã (RS) deixa três mortos e 60 feridos; governo federal envia equipes e ministro visita a cidade no sábado",
+     "resumo": "A Defesa Civil gaúcha fala em cerca de 5 mil casas destelhadas, e a prefeitura estima que 8 mil das 8,6 mil residências foram atingidas; uma estação do Inmet registrou rajadas de 114 km/h. O tornado não foi confirmado nem descartado. O estado liberou R$ 2 milhões, a Força Nacional do SUS foi acionada e o ministro Waldez Góes vai ao município neste sábado (21).",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
+      "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporal-no-rs-governo-envia-equipes-da-defesa-civil-para-tupancireta"
+      },
+      {
+       "n": "Agora RS",
+       "u": "https://agorars.com/agora-no-tempo/confirmadas-tres-mortes-apos-temporal-que-devastou-tupancireta/"
+      },
+      {
+       "n": "98 FM Natal / CNN Brasil",
+       "u": "https://98fmnatal.com.br/ultimas/tempestade-deixa-ao-menos-tres-mortos-60-feridos-e-destroi-mais-de-5-mil-casas-no-rs/418212/"
+      }
+     ]
+    },
     {
      "kicker": "Tempo",
      "quando": "Hoje",
@@ -475,13 +538,17 @@
     {
      "kicker": "Consciência Negra",
      "quando": "Hoje",
-     "titulo": "Feriado tem marcha na Paulista, feira de empreendedores negros e shows no centro de São Paulo",
-     "resumo": "A 23ª Marcha da Consciência Negra, que homenageia os 60 anos dos Panteras Negras, se concentra no Masp e segue às 15h para o Theatro Municipal; organizadores levam pautas como a PEC da Reparação e críticas ao ajuste fiscal. No Viaduto do Chá e na Praça do Patriarca, 120 empreendedores negros e indígenas expõem até sábado, das 10h às 22h.",
+     "titulo": "Marcha da Consciência Negra reúne manifestantes na Paulista e cobra ministra negra no STF e reparação histórica",
+     "resumo": "Organizada por MNU, Uneafro, Unegro e Coalizão Negra por Direitos, a 23ª edição homenageou os 60 anos dos Panteras Negras e levou pautas contra a violência policial e a redução da maioridade penal. No centro, a feira com 120 empreendedores negros e indígenas segue até sábado, das 10h às 22h.",
      "foto": {
       "src": "https://imagens.ebc.com.br/UJ_lTb4ybAWGOFg1qIlMkyVsx7k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/20/0g0a6563.jpg?itok=PSkQY5Ux",
       "credito": "Rovena Rosa/Agência Brasil (arquivo)"
      },
      "fontes": [
+      {
+       "n": "Alma Preta",
+       "u": "https://almapreta.com.br/sessao/cotidiano/marcha-consciencia-negra-ministra-stf-sp/"
+      },
       {
        "n": "Agência Brasil",
        "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/sp-empreendedorismo-marcha-e-musica-marcam-dia-da-consciencia-negra"
@@ -542,13 +609,13 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ataque a Kiev, COP31 e EUA",
+   "nota": "Ucrânia, COP31 prorrogada e Trump",
    "itens": [
     {
      "kicker": "Guerra na Ucrânia",
      "quando": "Hoje",
-     "titulo": "Ataque russo em massa atinge três pontes de Kiev e deixa ao menos nove mortos na Ucrânia",
-     "resumo": "Em Kiev, três funcionários da companhia de água morreram e partes da cidade ficaram sem luz, água e aquecimento; em Lviv, um ataque a uma estação de trem matou duas pessoas. Zelensky disse que foram usados 110 mísseis e cerca de 400 drones. Moscou afirma ter mirado alvos militares e de energia, e Putin descartou negociar um cessar-fogo parcial.",
+     "titulo": "Ataque russo com mísseis e drones atinge pontes de Kiev e mata ao menos oito; Polônia diz que míssil caiu em seu território",
+     "resumo": "Foram seis mortos em Kiev e dois em uma estação de trem em Lviv, com apagões na capital e em outras dez regiões. Moscou apresentou o ataque como resposta aos golpes ucranianos à ponte da Crimeia; o premiê polonês, Donald Tusk, chamou o episódio de provocação. A Estônia anunciou que fechará a fronteira com a Rússia por pelo menos seis meses a partir de 1º de dezembro.",
      "fontes": [
       {
        "n": "Kyiv Independent",
@@ -565,14 +632,18 @@
       {
        "n": "Observador / Lusa",
        "u": "https://observador.pt/2026/11/20/zelensky-ve-ataques-na-crimeia-como-ato-deliberado-contra-propriedade-ucraniana/"
+      },
+      {
+       "n": "Estado de Minas / Folhapress",
+       "u": "https://www.em.com.br/internacional/2026/11/7541746-russia-mata-8-em-ataques-a-ucrania-apos-putin-prometer-retaliacao-por-ponte-da-crimeia.html"
       }
      ]
     },
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "COP31 passa do prazo sem acordo e negociações em Antália continuam no sábado",
-     "resumo": "O encerramento estava previsto para 12h de Brasília, mas cerca de 200 delegações seguem sem consenso sobre financiamento climático e o futuro dos combustíveis fósseis. O último rascunho retirou referências às propostas do Brasil sobre fósseis e desmatamento, e o mecanismo de transição justa criado na COP30 segue sem regras.",
+     "titulo": "COP31 é prorrogada até sábado sem acordo sobre combustíveis fósseis e financiamento",
+     "resumo": "A plenária em Antália aprovou apenas os textos de consenso fácil; seguem em aberto mitigação, adaptação, transição justa e financiamento climático. O Panamá ameaçou bloquear qualquer pacto sem limite à produção de petróleo, e a minuta prevê elevar a eletricidade a 35% da demanda final de energia até 2035.",
      "fontes": [
       {
        "n": "O Povo / AFP",
@@ -585,6 +656,26 @@
       {
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/mundo/cop31-entra-na-reta-final-sem-consenso-sobre-combustiveis-fosseis-e-financiamento/"
+      },
+      {
+       "n": "ANSA Brasil",
+       "u": "https://ansabrasil.com.br/brasil/noticias/agenda_verde/2026/11/20/cop31-prorroga-negociacoes-em-meio-a-impasses-por-acordo-final_4dc34fbf-5bdb-42d9-9660-5708a0006ffd.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Trump diz que o Irã quer encerrar a guerra, mas não aceita um acordo que ele considere satisfatório",
+     "resumo": "Em entrevista na Casa Branca após a cúpula com Xi Jinping e Vladimir Putin na China, o presidente repetiu que o Irã não terá arma nuclear e disse que Putin busca uma saída diplomática para a Ucrânia. Ele também afirmou que os EUA fecharão mais de dez novos acordos comerciais após a viagem à Ásia.",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC / Estadão Conteúdo",
+       "u": "https://www.dgabc.com.br/Noticia/4369925/trump-ira-quer-acordo-mas-nao-quer-um-acordo-aceitavel-para-mim"
+      },
+      {
+       "n": "O Tempo / AFP",
+       "u": "https://www.otempo.com.br/mundo/2026/11/20/trump-diz-que-nao-permitira-a-empresas-construir-data-centers-fora-dos-eua"
       }
      ]
     },
@@ -615,22 +706,6 @@
        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/tribunal-da-onu-conclui-que-mianmar-cometeu-genocidio"
       }
      ]
-    },
-    {
-     "kicker": "Colômbia",
-     "quando": "Ontem",
-     "titulo": "Ataques com drones no conflito interno da Colômbia quase dobram em 2026, sob o governo De La Espriella",
-     "resumo": "Levantamento da Fundação Ideias para a Paz contou 323 ataques nos nove primeiros meses do ano, alta de 95%; em 12 de novembro, quatro militares morreram em Tibú. O Indepaz registrou 26 massacres e 45 lideranças assassinadas nos primeiros 100 dias do governo.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/uso-de-drones-em-guerra-interna-da-colombia-cresce-132-sob-espriella"
-      },
-      {
-       "n": "Newscura / Al Jazeera",
-       "u": "https://newscura.com/global/timeline/2026-11-20"
-      }
-     ]
     }
    ]
   },
@@ -638,13 +713,13 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Decisão no sábado e F1 em Las Vegas",
+   "nota": "Decisão do Brasileirão e final da Sul-Americana no sábado",
    "itens": [
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Palmeiras perde Barboza para o jogo que pode dar o título ao Flamengo; Abel diz que a taça “está entregue”",
-     "resumo": "O zagueiro cumpre suspensão por cartões no duelo de sábado, às 16h30, no Nubank Parque. O Flamengo tem 79 pontos, seis a mais que o Palmeiras, e fica com o título se empatar ou vencer. Abel Ferreira não descarta poupar titulares por causa das finais da Libertadores (28/11) e da Copa do Brasil (6/12).",
+     "titulo": "Palmeiras terá quatro desfalques contra o Flamengo, que é campeão brasileiro com um empate no sábado",
+     "resumo": "Além de Barboza, suspenso, Murilo, Paulinho e Piquerez estão lesionados; o Flamengo não terá Léo Pereira e Pulgar, suspensos. O jogo é às 16h30, no Nubank Parque, com o Flamengo seis pontos à frente (79 a 73) e três rodadas por disputar. Abel Ferreira pode poupar titulares por causa da final da Libertadores, no dia 28.",
      "fontes": [
       {
        "n": "Terra",
@@ -657,6 +732,10 @@
       {
        "n": "Lance!",
        "u": "https://www.lance.com.br/flamengo/lamengo-chega-invicto-em-gramados-sinteticos-para-enfrentar-o-palmeiras-veja-os-numeros.html"
+      },
+      {
+       "n": "Canal GOAT",
+       "u": "https://canalgoat.com.br/noticias/brasileirao-serie-a/palmeiras-x-flamengo-um-empate-no-nubank-parque-da-o-titulo-ao-flamengo-neste-sabado.html"
       }
      ]
     },
@@ -664,7 +743,7 @@
      "kicker": "Fórmula 1",
      "quando": "Hoje",
      "titulo": "Chuva marca os treinos em Las Vegas; Russell lidera o TL2, Bortoleto é 20º com problema no câmbio e Câmara fica em 22º",
-     "resumo": "O primeiro treino terminou sem tempos válidos por causa da pista encharcada. A Audi vai investigar a falha no carro de Bortoleto no fim da segunda sessão; a corrida é na madrugada de domingo.",
+     "resumo": "O primeiro treino terminou sem nenhuma volta cronometrada por causa da pista encharcada, e Russell fez 1min47s272 no segundo, à frente de Gasly. O treino livre 3 é às 21h30 de Brasília; a classificação, à 1h de sábado, e a corrida, à 1h de domingo.",
      "fontes": [
       {
        "n": "TV Sim Brasil",
@@ -677,6 +756,10 @@
       {
        "n": "Tomada de Tempo",
        "u": "https://www.tomadadetempo.com.br/2026/11/19/gp-de-las-vegas-de-f1-2026-pista-encharcada-deixa-primeiro-treino-livre-sem-tempos-registrados/"
+      },
+      {
+       "n": "Grande Prêmio",
+       "u": "https://grandepremio.com/br/f1/camara-bortoleto-e-russell-o-que-disseram-os-pilotos-apos-sexta-feira-do-gp-de-las-vegas/"
       }
      ]
     },
@@ -684,7 +767,7 @@
      "kicker": "Sul-Americana",
      "quando": "Hoje",
      "titulo": "Atlético-MG e Boca Juniors fazem a final da Sul-Americana no sábado, às 19h30, em Barranquilla",
-     "resumo": "O Boca não terá Alan Franco, suspenso, nem Reinier, lesionado, e deve levar cerca de 30 mil torcedores ao Estádio Metropolitano. O campeão garante vaga na fase de grupos da Libertadores de 2027.",
+     "resumo": "Os dois times fizeram nesta sexta o último treino em Barranquilla; o Atlético, de Eduardo Domínguez, busca o título inédito, e o Boca, de Rodolfo Arruabarrena, não terá Alan Franco, suspenso, nem Reinier, lesionado. O campeão garante vaga na fase de grupos da Libertadores de 2027.",
      "fontes": [
       {
        "n": "TV Sim Brasil",
@@ -697,6 +780,10 @@
       {
        "n": "Olympics.com",
        "u": "https://www.olympics.com/pt/noticias/copa-sul-americana-2026-final-atletico-mg-boca-juniors"
+      },
+      {
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-sul-americana/atletico-x-boca-juniors-saiba-programacao-dos-clubes-na-vespera-da-final-da-sul-americana/"
       }
      ]
     },
@@ -866,26 +953,38 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "IA em queda, Nasa e espaço",
+   "nota": "Estrela escondida, chips em queda e espaço",
    "itens": [
+    {
+     "kicker": "Astronomia",
+     "quando": "Hoje",
+     "titulo": "Astrônomos procuravam um planeta a 28 anos-luz e acharam uma anã branca escondida num sistema triplo",
+     "resumo": "A estrela oculta foi detectada pela oscilação da anã vermelha que ela acompanha e confirmada em imagens do telescópio Gemini North; o sistema, chamado Welopōʻai, tem duas anãs brancas e é o mais próximo desse tipo conhecido. A anã branca interna tem cerca de 62% da massa do Sol e completa a órbita em quase dez anos.",
+     "fontes": [
+      {
+       "n": "Gizmodo Brasil",
+       "u": "https://gizmodo.com.br/astronomos-procuravam-um-planeta-a-28-anos-luz-da-terra-e-encontraram-uma-estrela-escondida-76177"
+      },
+      {
+       "n": "Tek Notícias",
+       "u": "https://tek.sapo.pt/noticias/ciencia/artigos/welopo%CA%BBai-sistema-de-tres-estrelas-perto-da-terra-desafia-modelos-de-evolucao-estelar"
+      }
+     ]
+    },
     {
      "kicker": "Inteligência artificial",
      "quando": "Hoje",
-     "titulo": "Venda de ações de IA se espalha pelo mundo um dia após a estreia recorde da Anthropic, dona do Claude",
-     "resumo": "Nvidia e AMD recuavam no pré-mercado e a japonesa SoftBank, investidora da OpenAI, liderou as perdas em Tóquio. Analistas citam dúvidas sobre o valor das empresas do setor e a notícia de que a Apple prepara um agente de IA próprio.",
+     "titulo": "Fabricantes de chips lideram as perdas no segundo dia de venda de ações de IA; AMD cai cerca de 11% e Micron mais de 12%",
+     "resumo": "Investidores questionam o valor das empresas do setor e o ritmo dos gastos com data centers, um dia após a estreia recorde da Anthropic, dona do Claude. Na Nvidia, pesa ainda o relato de que a SEC examina sua contabilidade.",
      "destaque": false,
      "fontes": [
       {
-       "n": "Yahoo Finance",
-       "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stock-slips-hours-blockbuster-015552218.html"
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/bolsa-dolar/onda-de-caos-da-ia-derruba-bolsas-no-exterior-anthropic-despenca-13-e-wall-entra-em-correcao-ccgg/"
       },
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/20/bolsas-asiaticas-afundam-com-venda-de-acoes-de-ia-apesar-de-estreia-forte-da-anthropic"
-      },
-      {
-       "n": "Investing.com",
-       "u": "https://www.investing.com/news/economy-news/anthropic-dips-afterhours-as-ai-jitters-persist--whats-moving-markets-5040999"
+       "n": "Monitor Mercantil",
+       "u": "https://monitormercantil.com.br/acoes-despencam-nas-bolsas-com-temor-de-fim-da-bolha-de-ia/"
       }
      ]
     },
@@ -898,18 +997,6 @@
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/claude-ajudou-a-revelar-estrutura-molecular-inedita-entenda/"
-      }
-     ]
-    },
-    {
-     "kicker": "Inovação",
-     "quando": "Ontem",
-     "titulo": "Competição internacional da Nasa reúne 15 equipes em Vilhena, em Rondônia",
-     "resumo": "O evento faz parte do desafio de inovação da agência espacial americana, em que estudantes e profissionais criam soluções a partir de dados abertos.",
-     "fontes": [
-      {
-       "n": "Rondoniaovivo",
-       "u": "https://rondoniaovivo.com/noticia/interior/2026/11/19/inovacao-competicao-internacional-da-nasa-reune-15-equipes-em-vilhena.html"
       }
      ]
     },
@@ -943,7 +1030,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Feriado, estreias e mortes",
+   "nota": "Feriado e mortes de famosos",
    "itens": [
     {
      "kicker": "Música",
@@ -962,22 +1049,6 @@
      ]
     },
     {
-     "kicker": "TV",
-     "quando": "Hoje",
-     "titulo": "Globo exibe o documentário “Chic Show” no especial Falas Negras, na noite do feriado",
-     "resumo": "A produção do Globoplay sobre os bailes black de São Paulo vai à TV aberta dentro da programação do Novembro Negro, que também ocupa streaming e canais pagos.",
-     "fontes": [
-      {
-       "n": "Revista Empreende",
-       "u": "https://revistaempreende.com.br/globo-chic-show-falas-negras-20-novembro-2026/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/opiniao/thiaggo-camilo/2026/11/15/o-que-assistir-na-tv-globo-nesta-semana-de-15-a-20-de-novembro"
-      }
-     ]
-    },
-    {
      "kicker": "Luto",
      "quando": "Hoje",
      "titulo": "Influenciador Gabriel Félix morre aos 29 anos; causa não foi divulgada",
@@ -990,42 +1061,46 @@
      ]
     },
     {
-     "kicker": "Cinema",
-     "quando": "Ontem",
-     "titulo": "“Jogos Vorazes: Amanhecer na Colheita” estreia com crítica dividida e mais de 2 mil sessões no feriado",
-     "resumo": "O filme sobre a juventude de Haymitch tinha 75% de aprovação no Rotten Tomatoes e nota 56 no Metacritic na véspera da estreia. A pré-venda passou de 112 mil ingressos, o dobro do longa anterior no mesmo ponto, e o feriado terá 2.165 sessões em 237 cinemas.",
+     "kicker": "Luto",
+     "quando": "Hoje",
+     "titulo": "Fisiculturista maranhense Itemberg Nunes morre aos 31 anos",
+     "resumo": "A morte foi anunciada nesta sexta pela marca de suplementos que o patrocinava; a causa não foi divulgada. Profissional da IFBB Pro League desde 2021, ele competia na categoria Men's Physique e deixa um filho.",
      "fontes": [
       {
-       "n": "Partiu Cinema",
-       "u": "https://www.partiucinema.com.br/noticias/2026/jogos-vorazes-amanhecer-na-colheita-pre-estreia-18-novembro-sessoes-precos"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/fisiculturista-maranhense-itemberg-nunes-morre-aos-31-anos/"
       },
       {
-       "n": "Carta Capital",
-       "u": "https://www.cartacapital.com.br/cartalab/jogos-vorazes-amanhecer-na-colheita-leva-haymitch-a-arena-mais-cruel-da-saga/"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/pop/noticia/2026/11/18/jogos-vorazes-amanhecer-na-colheita-estreia-160-mil-ingressos"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/brasil/2026/11/20/morre-itemberg-nunes-fisiculturista-maranhense-aos-31-anos"
       }
      ]
     },
     {
      "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Alexander Haskin, ator de “Você” e “The Rookie”, morre aos 38 anos após pular de píer em Santa Monica",
-     "resumo": "O corpo foi retirado do mar cerca de 50 minutos após o chamado de socorro, na segunda (16). O instituto médico-legal de Los Angeles confirmou a identidade, mas não divulgou a causa; relatos iniciais de que ele teria agredido uma mulher antes foram contestados pela polícia, segundo a Band.",
+     "quando": "Hoje",
+     "titulo": "Lance Broadway, ator de “Invasão à Casa Branca” e ex-jogador de beisebol, morre aos 43 anos",
+     "resumo": "Ele foi encontrado sem vida na escadaria de um prédio em Dallas, no Texas, segundo o instituto médico-legal do condado, que não divulgou a causa. Antes da carreira na TV, com papéis em “Agents of S.H.I.E.L.D.” e “Lucifer”, jogou pelo Chicago White Sox e pelo New York Mets.",
      "fontes": [
       {
-       "n": "A Gazeta / Estadão Conteúdo",
-       "u": "https://agazeta.com.br/hz/filmes-e-series/ator-de-serie-da-netflix-morre-aos-38-anos-veja-o-que-se-sabe-sobre-o-caso-1126"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/obituario/lance-broadway-morre-aos-43-anos/"
       },
       {
-       "n": "Band",
-       "u": "https://band.com.br/entretenimento/celebridades/ator-de-you-morre-no-mar-e-policia-desmente-relato-de-agressao"
-      },
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/pop/celebridades/lance-broadway-busca-pelo-ator-na-internet-sobe-5000-apos-morte-anunciada/"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Larry Poindexter, ator de “SWAT” e “Sobrenatural”, morre aos 66 anos após ser atropelado em Los Angeles",
+     "resumo": "Segundo o Deadline, ele foi atingido por um carro em 11 de novembro, perto de casa, em Studio City, e estava internado com costelas quebradas. Teve mais de 170 trabalhos no cinema e na TV, incluindo “17 Outra Vez” e participações em “Friends” e “CSI”.",
+     "fontes": [
       {
-       "n": "Correio Braziliense",
-       "u": "https://tvprime.correiobraziliense.com.br/noticia/414477/filmes-e-series/ator-da-serie-you-morre-afogado-aos-38-anos-apos-agredir-mulher-e-se-jogar-no-mar-19112026"
+       "n": "Área VIP",
+       "u": "https://www.areavip.com.br/famosos/morre-larry-poindexter-ator-de-swat-e-sobrenatural-aos-66-anos/"
       }
      ]
     }
