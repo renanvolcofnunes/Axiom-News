@@ -1,34 +1,34 @@
 {
  "data": "Sábado, 21 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "21/11/2026 · 07h20 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de sexta (20), 18h10",
+ "edicao": "Edição do meio-dia",
+ "atualizado": "21/11/2026 · 12h40 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 07h09 (bitcoin) e de fechamento de sexta (20) em Nova York; B3 reabre na segunda (23)",
  "fontes": 71,
  "mercado": [
   {
-   "nome": "Nasdaq · fechamento, 18h",
+   "nome": "Bitcoin · 07h09 de sábado",
+   "valor": "US$ 58 mil",
+   "var": "-5,9% em 24h",
+   "dir": "down"
+  },
+  {
+   "nome": "Nvidia · fechamento de sexta (20)",
+   "valor": "US$ 125,53",
+   "var": "-14,01%",
+   "dir": "down"
+  },
+  {
+   "nome": "Nasdaq · fechamento de sexta (20)",
    "valor": "22.617 pts",
    "var": "-5,28%",
    "dir": "down"
   },
   {
-   "nome": "S&P 500 · fechamento, 18h",
-   "valor": "6.910 pts",
-   "var": "-3,70%",
-   "dir": "down"
-  },
-  {
-   "nome": "Dow Jones · fechamento, 18h",
-   "valor": "48.147 pts",
-   "var": "-1,93%",
-   "dir": "down"
-  },
-  {
-   "nome": "Ibovespa · fechamento de quinta (19); B3 reabre na segunda",
-   "valor": "166.376 pts",
-   "var": "-0,69%",
-   "dir": "down"
+   "nome": "Dólar · fechamento de quinta (19)",
+   "valor": "R$ 5,932",
+   "var": "+1,10%",
+   "dir": "up"
   },
   {
    "nome": "Selic · Copom",
@@ -39,19 +39,19 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 21/11",
-   "txt": "Ministro Waldez Góes visita Tupanciretã (RS); Inmet mantém alerta de tempestade em 19 UFs",
-   "cat": "brasil"
-  },
-  {
-   "hora": "Sáb 21/11",
-   "txt": "Último dia da COP31, em Antália, com votação do texto final",
-   "cat": "mundo"
-  },
-  {
-   "hora": "Sáb 21/11 · 16h30 e 19h30",
-   "txt": "Palmeiras x Flamengo pode decidir o Brasileirão; Atlético-MG x Boca na final da Sul-Americana",
+   "hora": "Sáb 21/11 · 16h30",
+   "txt": "Palmeiras x Flamengo: empate dá o título brasileiro ao Flamengo",
    "cat": "esporte"
+  },
+  {
+   "hora": "Sáb 21/11 · 19h30",
+   "txt": "Atlético-MG x Boca Juniors, final da Sul-Americana em Barranquilla",
+   "cat": "esporte"
+  },
+  {
+   "hora": "Sáb 21/11",
+   "txt": "COP31 retoma negociações em Antália com novo rascunho do texto final",
+   "cat": "mundo"
   },
   {
    "hora": "Dom 22/11 · 1h",
@@ -60,7 +60,7 @@
   },
   {
    "hora": "Seg 23/11",
-   "txt": "B3 reabre após a queda em Nova York; Câmara pode votar o ajuste fiscal",
+   "txt": "B3 reabre após a queda em Nova York; Câmara vota o ajuste fiscal à noite",
    "cat": "economia"
   },
   {
@@ -162,44 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Temporal no RS",
-  "titulo": "Tupanciretã tem cerca de 5 mil casas destelhadas após microexplosão; ministro visita a cidade neste sábado",
-  "resumo": "A Defesa Civil do Rio Grande do Sul atribui a destruição a uma supercélula com microexplosão que atingiu a região central do estado na madrugada de sexta (20), com três mortos e 60 feridos. O Inmet mantém alerta de tempestade para 19 unidades da federação neste sábado.",
-  "entenda": "O temporal chegou a Tupanciretã por volta das 3h20 de sexta. Uma estação do Inmet na cidade registrou rajadas de 114 km/h, e a Defesa Civil não descarta a ocorrência de um tornado, mas avalia que ele sozinho não explicaria a extensão dos estragos. Segundo a prefeitura, quase todas as cerca de 8,6 mil casas do município sofreram algum dano; o hospital municipal perdeu o telhado e pacientes foram levados para Santa Maria e Júlio de Castilhos. A cidade ficou sem luz e sem água. O governo federal enviou equipes da Defesa Civil Nacional para acelerar o reconhecimento da emergência e a liberação de recursos, e o ministro da Integração, Waldez Góes, é esperado no município neste sábado (21).",
-  "fatos": [
-   "Boletim estadual de sexta à noite: 4.022 pessoas afetadas e 74 desalojadas no RS",
-   "Em Tupanciretã, foram 5.101 registros de danos materiais e cerca de 100 árvores derrubadas",
-   "Inmet prevê para sábado chuva de até 50 mm, ventos de 40 a 60 km/h e granizo em 18 estados e no DF"
-  ],
+  "kicker": "Saúde de Bolsonaro",
+  "titulo": "Bolsonaro segue internado em Brasília com obstrução intestinal, e família fala em possível nova cirurgia",
+  "resumo": "O ex-presidente deu entrada no hospital DF Star na sexta (20) com dor e distensão abdominal, e exames apontaram obstrução parcial do intestino delgado. Carlos Bolsonaro relatou piora na madrugada de sábado; o cardiologista da equipe descreve o quadro como estável.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
-   "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
+   "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
   },
+  "entenda": "Bolsonaro cumpre em casa, em Brasília, a pena de 27 anos e três meses a que foi condenado no processo da trama golpista; a prisão domiciliar humanitária foi concedida em março, depois de internações por problemas de saúde. Na sexta, com fortes dores abdominais, ele foi levado ao hospital por recomendação do médico particular, com escolta da Polícia Militar. Segundo a reportagem do G1, a obstrução está ligada a aderências na parede abdominal, sequelas das cirurgias feitas desde o atentado a faca de 2018. Na manhã de sábado, Carlos Bolsonaro disse nas redes que os médicos recolocaram a sonda nasogástrica e que uma nova operação, que seria a décima desde 2018, pode ser necessária se outras hipóteses forem descartadas. O cardiologista Brasil Caiado afirmou que o paciente está consciente e recebe tratamento com medicamentos. Até o fim da manhã, o hospital não havia divulgado novo boletim.",
+  "fatos": [
+   "Boletim de sexta: internação para exames e investigação de dor e distensão abdominal",
+   "Sonda nasogástrica retirou quase 1 litro de resíduos na madrugada, segundo Carlos Bolsonaro",
+   "Defesa pediu a Alexandre de Moraes, com urgência, visitas diárias dos filhos no hospital"
+  ],
   "fontes": [
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-apura-microexplosao-apos-estragos-em-cidade-do-rs/",
-    "d": "microexplosão e balanço"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
+    "d": "internação e boletim"
    },
    {
-    "n": "O Liberal / Estadão Conteúdo",
-    "u": "https://www.oliberal.com/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas-1.1196574",
-    "d": "casas atingidas"
+    "n": "Terra",
+    "u": "https://www.terra.com.br/noticias/brasil/bolsonaro-tem-piora-no-estado-de-saude-e-pode-passar-por-cirurgia-diz-carlos,a41074cb77e68d594436991ea451d4149pcnifve.html",
+    "d": "relato de piora"
    },
    {
-    "n": "CartaCapital",
-    "u": "https://www.cartacapital.com.br/sociedade/lula-mobiliza-equipes-federais-para-atender-vitimas-de-temporal-no-rs/",
-    "d": "equipes federais"
+    "n": "Imirante / G1",
+    "u": "https://imirante.com/noticias/brasil/2026/11/21/ipolitica-defesa-bolsonaro-pede-moraes-visitas-diarias-filhos",
+    "d": "pedido de visitas"
    },
    {
-    "n": "ND Mais",
-    "u": "https://ndmais.com.br/tempo/inmet-alerta-ocorrencia-tempestades-19-estados-apos-feriado/",
-    "d": "alerta do Inmet"
+    "n": "Exame",
+    "u": "https://exame.com/brasil/bolsonaro-pode-passar-por-nova-cirurgia-apos-piora-no-estado-de-saude-diz-carlos/",
+    "d": "possível cirurgia"
    },
    {
-    "n": "Inmet",
-    "u": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-sexta-feira-20-s%C3%A1bado-21-domingo-22-e-segunda-feira-23",
-    "d": "previsão do fim de semana"
+    "n": "O Antagonista",
+    "u": "https://oantagonista.com.br/brasil/carlos-relata-piora-na-saude-de-bolsonaro-e-preve-nova-cirurgia/",
+    "d": "estado de saúde"
    }
   ]
  },
@@ -208,8 +208,58 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Passaportes de Flávio, ajuste na Câmara e STF",
+   "nota": "Bolsonaro internado, caso Master e STF",
    "itens": [
+    {
+     "kicker": "Bolsonaro",
+     "quando": "Hoje",
+     "titulo": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias dos filhos durante a internação",
+     "resumo": "O pedido, feito com urgência, inclui Carlos, Jair Renan e a filha mais nova do ex-presidente e argumenta que a internação é um fato novo em relação às regras da prisão domiciliar. Até a manhã de sábado, Moraes não havia decidido.",
+     "fontes": [
+      {
+       "n": "Imirante / G1",
+       "u": "https://imirante.com/noticias/brasil/2026/11/21/ipolitica-defesa-bolsonaro-pede-moraes-visitas-diarias-filhos"
+      },
+      {
+       "n": "Rede Onda Digital",
+       "u": "https://redeondadigital.com.br/politica/bolsonaro-pede-a-moraes-visita-diaria-dos-filhos-durante-internacao"
+      }
+     ]
+    },
+    {
+     "kicker": "Caso Master",
+     "quando": "Ontem",
+     "titulo": "PF diz ao STF que não encontrou conversas diretas entre André Mendonça e Daniel Vorcaro",
+     "resumo": "O relatório de 35 páginas, tornado público por Edson Fachin a pedido do próprio Mendonça, lista menções ao ministro em diálogos do banqueiro com terceiros entre 2024 e 2025, incluindo um encontro que Mendonça confirmou e diz ter tratado de precatórios. Fachin enviou à PGR os relatórios sobre Mendonça, Moraes, Nunes Marques e Toffoli e arquivou os que citavam outros cinco ministros.",
+     "lados": [
+      {
+       "quem": "André Mendonça",
+       "txt": "Pediu a retirada do sigilo e a divulgação integral do relatório; afirma que o único encontro com Vorcaro tratou de uma ação sobre precatórios."
+      },
+      {
+       "quem": "Polícia Federal",
+       "txt": "Registra 303 ocorrências do nome do ministro nos celulares do banqueiro, mas diz não haver registro de conversa direta entre os dois."
+      }
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/Iez1JX-lCwCWAruHzHAs9hrtVmA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_numero_de_serie_de_4_digitos_090620_7.jpg?itok=av6AQ5Kg",
+      "credito": "Marcello Casal jr/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/caso-master-veja-o-que-mensagens-apreendidas-pela-pf-dizem-sobre-mendonca/"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/caso-master-pf-nao-encontra-conversas-diretas-entre-vorcaro-e-andre-mendonca/"
+      }
+     ]
+    },
     {
      "kicker": "STF",
      "quando": "Hoje",
@@ -237,36 +287,40 @@
       {
        "n": "Rádio Pampa",
        "u": "https://www.radiopampa.com.br/lula-quer-indicar-ministro-do-supremo-antes-do-fim-do-ano/"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/df/brasilia/politica/noticia/2026/11/21/lula-indicar-ministro-stf-antes-senado-conservador"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/lula-busca-acordo-com-alcolumbre-para-evitar-nova-derrota-na-indicacao-ao-stf/"
       }
      ]
     },
     {
-     "kicker": "Governo",
-     "quando": "Hoje",
-     "titulo": "Lula confirma ministério para pessoas idosas, e Esplanada pode chegar a 40 pastas em 2027",
-     "resumo": "O presidente disse que a nova pasta, promessa de campanha, será criada no próximo mandato, sem definir ainda o nome oficial. Com ela, o número de ministérios passaria de 38 para 40; os nomes da equipe devem sair perto da posse, em 5 de janeiro.",
+     "kicker": "Ajuste fiscal",
+     "quando": "Ontem",
+     "titulo": "Ajuste fiscal aprovado no Senado chega à Câmara, e Hugo Motta sinaliza votação na segunda (23)",
+     "resumo": "O relator, Mauro Benevides Filho (União-CE), apresentou parecer sem mudanças de mérito para que o texto não volte ao Senado; a votação depende de urgência e de quórum de 257 deputados. O projeto reduz de 2,5% para 2% o limite de crescimento das despesas e amplia o corte de benefícios fiscais, com efeito estimado de R$ 45 bilhões a R$ 50 bilhões em 2027.",
      "lados": [
       {
-       "quem": "Governo",
-       "txt": "Afirma que a pasta atende a uma população crescente, de cerca de 16% dos brasileiros com 60 anos ou mais."
+       "quem": "Governo e relator",
+       "txt": "Defendem aprovar o texto do Senado sem alterações para garantir o ajuste já no Orçamento de 2027."
       },
       {
-       "quem": "Oposição",
-       "txt": "Critica o aumento do número de ministérios e diz que a medida serve para acomodar aliados no Congresso."
+       "quem": "Críticos",
+       "txt": "A oposição, com Rogério Marinho (PL-RN), compara a mudança na Lei Kandir a uma pedalada; parte do PT critica a nova base do piso da saúde, e agentes de mercado consideram o valor insuficiente."
       }
      ],
      "fontes": [
       {
+       "n": "CNN Brasil / ac24horas",
+       "u": "https://ac24horas.com/2026/11/20/ajuste-fiscal-chega-a-camara-sob-pressao-apos-resistencias-no-senado/"
+      },
+      {
        "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/21/lula-confirma-ministerio-dos-idosos-mira-40-ministerios"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7541470-lula-anuncia-criacao-de-ministerio-para-pessoas-idosas-no-proximo-governo.html"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/lula-confirma-que-vai-criar-ministerio-voltado-para-idosos"
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/senado-vota-5-destaques-ajuste-fiscal-camara-espera"
       }
      ]
     },
@@ -315,62 +369,6 @@
        "u": "https://www.gazetadopovo.com.br/republica/moraes-vota-para-manter-passaportes-cancelados-e-restricoes-a-flavio-bolsonaro/"
       }
      ]
-    },
-    {
-     "kicker": "Ajuste fiscal",
-     "quando": "Ontem",
-     "titulo": "Ajuste fiscal aprovado no Senado chega à Câmara, e Hugo Motta sinaliza votação na segunda (23)",
-     "resumo": "O relator, Mauro Benevides Filho (União-CE), apresentou parecer sem mudanças de mérito para que o texto não volte ao Senado; a votação depende de urgência e de quórum de 257 deputados. O projeto reduz de 2,5% para 2% o limite de crescimento das despesas e amplia o corte de benefícios fiscais, com efeito estimado de R$ 45 bilhões a R$ 50 bilhões em 2027.",
-     "lados": [
-      {
-       "quem": "Governo e relator",
-       "txt": "Defendem aprovar o texto do Senado sem alterações para garantir o ajuste já no Orçamento de 2027."
-      },
-      {
-       "quem": "Críticos",
-       "txt": "A oposição, com Rogério Marinho (PL-RN), compara a mudança na Lei Kandir a uma pedalada; parte do PT critica a nova base do piso da saúde, e agentes de mercado consideram o valor insuficiente."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "CNN Brasil / ac24horas",
-       "u": "https://ac24horas.com/2026/11/20/ajuste-fiscal-chega-a-camara-sob-pressao-apos-resistencias-no-senado/"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/senado-vota-5-destaques-ajuste-fiscal-camara-espera"
-      }
-     ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Ontem",
-     "titulo": "1ª Turma do STF começa a julgar se Van Hattem vira réu por discurso contra delegado da PF",
-     "resumo": "A análise no plenário virtual vai até 30 de novembro, com relatoria de Flávio Dino. A PGR denunciou o deputado do Novo-RS por calúnia e injúria por um discurso de agosto de 2024 na Câmara; receber a denúncia não significa condenação. O julgamento só vai para sessão presencial se algum ministro pedir destaque.",
-     "lados": [
-      {
-       "quem": "Defesa de Van Hattem",
-       "txt": "Invoca a imunidade parlamentar por opiniões ditas na tribuna, pediu julgamento presencial com sustentação oral e diz que o deputado é alvo de perseguição."
-      },
-      {
-       "quem": "PGR",
-       "txt": "Sustenta que o deputado acusou sem provas o delegado Fábio Shor de forjar relatórios e que a imunidade não cobre ofensas pessoais."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/vida-e-cidadania/stf-inicia-julgamento-criminal-contra-o-deputado-marcel-van-hattem/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/politica/marcel-van-hattem-reu-stf/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/manoela-alcantara/stf-decide-se-van-hattem-vira-reu-por-chamar-delegado-da-pf-de-bandido"
-      }
-     ]
     }
    ]
   },
@@ -378,14 +376,42 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Nova York em correção e B3 fechada",
+   "nota": "Bitcoin em queda e B3 fechada até segunda",
    "itens": [
+    {
+     "kicker": "Criptomoedas",
+     "quando": "Hoje",
+     "titulo": "Bitcoin chega a US$ 55,1 mil na madrugada, menor nível desde setembro de 2024, e opera perto de US$ 58 mil",
+     "resumo": "Às 7h, a criptomoeda caía cerca de 5,9% em 24 horas, e o índice de medo e ganância do setor marcava 12, faixa de medo extremo. A CoinGlass contabilizou cerca de US$ 1,16 bilhão em liquidações no período, quase todas de apostas na alta; na quinta, os fundos de bitcoin nos EUA tiveram saída líquida de US$ 582 milhões.",
+     "fontes": [
+      {
+       "n": "Bitnotícias",
+       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-21-de-novembro-de-2026/"
+      },
+      {
+       "n": "KuCoin News",
+       "u": "https://www.kucoin.com/pt/news/flash/bitcoin-plummets-to-55k-crypto-fear-index-hits-extreme-levels"
+      },
+      {
+       "n": "Bitcoin.com News",
+       "u": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/"
+      }
+     ]
+    },
     {
      "kicker": "Nvidia",
      "quando": "Ontem",
      "titulo": "Nvidia cai 14% após relato de investigação da SEC e tem a pior sequência de baixas desde 2008",
-     "resumo": "Segundo a Reuters, a SEC examina possíveis irregularidades contábeis da empresa, que já é alvo de análise antitruste do Departamento de Justiça; Nvidia e SEC não comentaram. Foram sete pregões seguidos de queda, com perda de cerca de US$ 2,5 trilhões em valor de mercado desde a saída de Jensen Huang do comando, em 12 de novembro. A Anthropic recuou 8,5% no segundo dia na bolsa.",
+     "resumo": "A ação fechou a US$ 125,53 na sexta, sétima semana seguida de queda, com recuo acumulado de 46% e perda de cerca de US$ 2,6 trilhões em valor de mercado. Segundo a Reuters, a SEC examina práticas contábeis da empresa; Nvidia e SEC não comentaram, e uma investigação não significa que haja irregularidade.",
      "fontes": [
+      {
+       "n": "IstoÉ Dinheiro",
+       "u": "https://istoedinheiro.com.br/acoes-nvidia-queda-investigacao-sec"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/investimentos/acoes/nvidia-cai-14-com-investigacao-da-sec-e-completa-setima-queda-semanal"
+      },
       {
        "n": "Seu Dinheiro",
        "u": "https://www.seudinheiro.com/2026/internacional/nvidia-cai-14-e-vive-a-pior-sequencia-desde-2008-a-ex-queridinha-de-wall-street-vai-ter-que-desatar-mais-um-no/"
@@ -393,18 +419,30 @@
       {
        "n": "Decrypt",
        "u": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
+      }
+     ]
+    },
+    {
+     "kicker": "Feriado",
+     "quando": "Ontem",
+     "titulo": "Com a B3 fechada, ETF de ações brasileiras cai 1,3% em Nova York; dólar acumulou alta de quase 5% na semana",
+     "resumo": "No pré-mercado americano, o EWZ recuava para US$ 29,13, e os recibos de Petrobras, Vale e Itaú também caíam. Na quinta, o Ibovespa fechou em 166.376 pontos e o dólar terminou a R$ 5,935, maior nível desde abril de 2025. A bolsa brasileira volta a operar na segunda (23).",
+     "foto": {
+      "src": "fotos/real.jpg",
+      "credito": "José Cruz/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/ewz-cai-em-dia-de-feriado-no-brasil-veja-como-operam-as-acoes-brasileiras-no-exterior-igdl/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/apos-fechar-em-alta-acoes-da-anthropic-tem-baixa-de-9-nos-eua"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/"
       },
       {
-       "n": "The Motley Fool",
-       "u": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
-      },
-      {
-       "n": "Investing.com",
-       "u": "https://br.investing.com/news/stock-market-news/acoes-da-nvidia-caem-10-com-investigacao-contabil-da-sec-2134439"
+       "n": "AVNews",
+       "u": "https://www.ativovirtual.com.br/avnews/artigos/b3-fechada-eua-e-bce-antecipam-o-tom-da-segunda"
       }
      ]
     },
@@ -447,50 +485,6 @@
        "u": "https://www.seudinheiro.com/2026/bolsa-dolar/onda-de-caos-da-ia-derruba-bolsas-no-exterior-anthropic-despenca-13-e-wall-entra-em-correcao-ccgg/"
       }
      ]
-    },
-    {
-     "kicker": "Feriado",
-     "quando": "Ontem",
-     "titulo": "Com a B3 fechada, ETF de ações brasileiras cai 1,3% em Nova York; dólar acumulou alta de quase 5% na semana",
-     "resumo": "No pré-mercado americano, o EWZ recuava para US$ 29,13, e os recibos de Petrobras, Vale e Itaú também caíam. Na quinta, o Ibovespa fechou em 166.376 pontos e o dólar terminou a R$ 5,935, maior nível desde abril de 2025. A bolsa brasileira volta a operar na segunda (23).",
-     "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ewz-cai-em-dia-de-feriado-no-brasil-veja-como-operam-as-acoes-brasileiras-no-exterior-igdl/"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/"
-      },
-      {
-       "n": "AVNews",
-       "u": "https://www.ativovirtual.com.br/avnews/artigos/b3-fechada-eua-e-bce-antecipam-o-tom-da-segunda"
-      }
-     ]
-    },
-    {
-     "kicker": "Criptomoedas",
-     "quando": "Ontem",
-     "titulo": "Bitcoin fica abaixo de US$ 60 mil e caminha para a sétima semana seguida de queda",
-     "resumo": "Às 14h, a moeda valia cerca de US$ 59,4 mil, queda de 5,3% em 24 horas e de 13,6% em sete dias; o ether recuava 7,2%. Se a semana fechar no vermelho no domingo, será a maior série negativa desde 2022, com saída de recursos de fundos de bitcoin nos EUA.",
-     "fontes": [
-      {
-       "n": "Economic News Brasil",
-       "u": "https://economicnewsbrasil.com.br/2026/11/20/bitcoin-hoje-sete-semanas-queda/"
-      },
-      {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/investimentos/bitcoin-hoje/bitcoin-cai-abaixo-de-59-mil-fuga-para-caixa"
-      },
-      {
-       "n": "Bitnotícias",
-       "u": "https://bitnoticias.com.br/mercado/liquidacoes-153-bilhao-bitcoin-recua-6"
-      }
-     ]
     }
    ]
   },
@@ -498,29 +492,33 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Mortes em Tupanciretã, alertas e Consciência Negra",
+   "nota": "Temporais no RS, alertas e Consciência Negra",
    "itens": [
     {
      "kicker": "Rio Grande do Sul",
      "quando": "Hoje",
-     "titulo": "Defesa Civil aponta microexplosão em Tupanciretã; cidade tem cerca de 5 mil casas destelhadas e ministro chega hoje",
-     "resumo": "A Defesa Civil gaúcha atribui os estragos a uma supercélula com microexplosão, com rajadas de 114 km/h medidas pelo Inmet. O temporal deixou três mortos e 60 feridos, e o hospital municipal perdeu o telhado. O ministro da Integração, Waldez Góes, visita o município neste sábado.",
+     "titulo": "Temporais afetam 19,6 mil pessoas em 33 cidades do RS; ministro da Integração visita Tupanciretã",
+     "resumo": "Segundo a Defesa Civil gaúcha, Tupanciretã concentra mais de 15 mil afetados, cerca de 7 mil casas destelhadas, 20 escolas danificadas e os três mortos, entre eles um ex-vereador. O ministro Waldez Góes e o secretário nacional de Defesa Civil, Wolnei Wolff, foram à cidade, que foi orientada a decretar situação de emergência para receber recursos federais.",
      "foto": {
       "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
       "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-no-rio-grande-do-sul-afeta-196-mil-pessoas-em-33-cidades"
+      },
+      {
+       "n": "Jornal O Sul",
+       "u": "https://www.osul.com.br/ministro-da-integracao-visita-tupancireta-para-avaliar-danos-causados-pelos-temporais-2/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/ministro-de-lula-vai-a-rio-grande-do-sul-apos-temporal"
+      },
+      {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-apura-microexplosao-apos-estragos-em-cidade-do-rs/"
-      },
-      {
-       "n": "O Liberal / Estadão Conteúdo",
-       "u": "https://www.oliberal.com/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas-1.1196574"
-      },
-      {
-       "n": "Rádio Mirador",
-       "u": "https://radiomirador.com.br/governo-federal-envia-equipes-e-ajuda-humanitaria-a-tupancireta-apos-temporal-que-deixou-tres-mortos/"
       }
      ],
      "destaque": false
@@ -572,30 +570,6 @@
        "u": "https://vermelho.org.br/2026/11/19/dia-da-consciencia-negra-tera-atos-contra-ajuste-fiscal-e-reducao-da-maioridade-penal/"
       }
      ]
-    },
-    {
-     "kicker": "Feriado",
-     "quando": "19/11",
-     "titulo": "PRF inicia operação nas rodovias para o feriado da Consciência Negra; bancos fecham na sexta (20)",
-     "resumo": "A fiscalização reforçada segue até domingo, com foco em ultrapassagens, alcoolemia e excesso de velocidade. As agências bancárias não abrem para atendimento presencial na sexta, e boletos vencidos no feriado podem ser pagos no dia útil seguinte sem multa.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/prf-inicia-operacao-para-garantir-seguranca-nas-estradas-no-feriadao"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/agencias-bancarias-fecham-para-atendimento-presencial-nesta-sexta-20"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/brasil/prf-operacao-rodovias-feriado-consciencia-negra-2026/"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/curiosidades/2026/11/19/hoje-19-de-novembro-e-feriado-veja-onde-e-quem-folga-nesta-quinta-feira.html"
-      }
-     ]
     }
    ]
   },
@@ -603,14 +577,46 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ucrânia, COP31 prorrogada e Trump",
+   "nota": "COP31 prorrogada, Ucrânia e Irã",
    "itens": [
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "COP31 passa do prazo sem acordo; União Europeia ameaça bloquear texto que não cite combustíveis fósseis",
+     "resumo": "As negociações em Antália foram retomadas na manhã deste sábado, à espera de um terceiro rascunho, depois que a plenária de sexta aprovou só decisões de procedimento. Um grupo de 23 países liderado por França e Panamá cobra a volta da menção à transição para longe dos fósseis, e o Panamá enviou carta com oito exigências e ameaça de objeção formal; o Brasil também perdeu o parágrafo sobre os mapas do caminho.",
+     "fontes": [
+      {
+       "n": "Notícias ao Minuto / Lusa",
+       "u": "https://www.noticiasaominuto.com/mundo/3087789/cop31-impasse-mantem-se-na-sessao-de-encerramento-e-negociacoes-vao-prosseguir-atualizada"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/planeta/meio-ambiente/cop31-prorroga-negociacoes-em-meio-a-impasses-por-acordo-final,9d685fbcd8d892196d252376a574c206pxrt6zqx.html"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/impasses-entre-paises-podem-atrasar-documento-final-da-cop31"
+      }
+     ]
+    },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Ataque noturno russo a Kryvyi Rih mata uma criança e uma mulher e deixa 52 feridos",
-     "resumo": "Segundo o governo regional de Dnipropetrovsk, mísseis balísticos atingiram prédios residenciais, um hospital e um restaurante; 25 feridos estão em estado grave. A Força Aérea ucraniana diz ter derrubado ou neutralizado 117 drones durante a madrugada. O ataque ocorre um dia depois da ofensiva que matou oito pessoas em Kiev.",
+     "titulo": "Ataque russo a Kryvyi Rih, cidade natal de Zelensky, mata um menino de 7 anos e uma mulher e fere 60",
+     "resumo": "Segundo autoridades locais, mísseis atingiram cerca de 25 prédios residenciais, um hospital, escolas e uma instalação industrial; seis crianças estão entre os feridos. Em Kharkiv, um drone russo feriu 11 pessoas, e autoridades russas relataram três feridos por drones ucranianos em Bryansk e Belgorod.",
      "fontes": [
+      {
+       "n": "Tribuna do Sertão / AP",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/21/1026934-ataque-com-missil-a-cidade-natal-de-zelensky-mata-2-e-deixa-dezenas-de-feridos"
+      },
+      {
+       "n": "ES Brasil",
+       "u": "https://esbrasil.com.br/kryvyi-rih-ataque-russo-cidade-zelensky/"
+      },
       {
        "n": "Observador",
        "u": "https://observador.pt/liveblogs/ataque-noturno-da-russia-faz-dois-mortos-e-52-feridos-no-sul-da-ucrania/"
@@ -618,6 +624,26 @@
       {
        "n": "The Objective",
        "u": "https://theobjective.com/internacional/2026-11-21/ataque-ruso-ucrania-muertos-heridos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Trump diz que Putin quer a paz e acusa o Irã de enganar nas negociações; Teerã diz ter derrubado drone dos EUA",
+     "resumo": "Em entrevista na Casa Branca, Trump defendeu suas relações com Putin e Xi Jinping e afirmou que o Irã ainda não apresentou condições aceitáveis para um acordo. A agência oficial iraniana IRNA informou que a Guarda Revolucionária abateu um drone MQ-9 americano sobre o estreito de Ormuz; os EUA não confirmaram. O chanceler Abbas Araghchi disse que Teerã busca um acordo.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/21/donald-trump-defende-relacoes-com-putin-e-acusa-irao-de-enganar-nas-negociacoes"
+      },
+      {
+       "n": "Demócrata",
+       "u": "https://democrata.es/pt/internacional/o-ira-derruba-um-drone-militar-dos-eua-mq-9-no-estreito-de-ormuz"
+      },
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/liveblogs/ataque-noturno-da-russia-faz-dois-mortos-e-52-feridos-no-sul-da-ucrania/"
       }
      ]
     },
@@ -646,50 +672,6 @@
       {
        "n": "Estado de Minas / Folhapress",
        "u": "https://www.em.com.br/internacional/2026/11/7541746-russia-mata-8-em-ataques-a-ucrania-apos-putin-prometer-retaliacao-por-ponte-da-crimeia.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Clima",
-     "quando": "Hoje",
-     "titulo": "COP31 entra no último dia sem acordo; rascunho deixa de citar combustíveis fósseis e Panamá ameaça vetar",
-     "resumo": "A plenária de sexta à noite aprovou apenas decisões de procedimento, como a escolha de Adis Abeba, na Etiópia, para sediar a conferência de 2027. Adaptação, transição justa e financiamento seguem sem consenso, e a decisão principal ficou para este sábado. Organizações como a Climate Action Network e o Observatório do Clima dizem que a cúpula pode ter o pior resultado da história.",
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/mundo/cop31-declara-fracasso-em-acordo-sobre-combustiveis-fosseis-sob-protestos-e-atraso"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/"
-      },
-      {
-       "n": "Público",
-       "u": "https://www.publico.pt/2026/11/20/azul/noticia/cop31-entra-prolongamento-texto-acordo-vista-2195745"
-      },
-      {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/11/20/sociedade-civil-diz-que-cop31-podera-ser-a-pior-da-historia/"
-      }
-     ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Hoje",
-     "titulo": "Trump diz que Putin quer a paz e acusa o Irã de enganar nas negociações; Teerã diz ter derrubado drone dos EUA",
-     "resumo": "Em entrevista na Casa Branca, Trump defendeu suas relações com Putin e Xi Jinping e afirmou que o Irã ainda não apresentou condições aceitáveis para um acordo. A agência oficial iraniana IRNA informou que a Guarda Revolucionária abateu um drone MQ-9 americano sobre o estreito de Ormuz; os EUA não confirmaram. O chanceler Abbas Araghchi disse que Teerã busca um acordo.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/21/donald-trump-defende-relacoes-com-putin-e-acusa-irao-de-enganar-nas-negociacoes"
-      },
-      {
-       "n": "Demócrata",
-       "u": "https://democrata.es/pt/internacional/o-ira-derruba-um-drone-militar-dos-eua-mq-9-no-estreito-de-ormuz"
-      },
-      {
-       "n": "Observador",
-       "u": "https://observador.pt/liveblogs/ataque-noturno-da-russia-faz-dois-mortos-e-52-feridos-no-sul-da-ucrania/"
       }
      ]
     },
@@ -725,19 +707,19 @@
      "kicker": "Brasileirão",
      "quando": "Hoje",
      "titulo": "Flamengo pode ser campeão brasileiro hoje, às 16h30, contra o Palmeiras no Nubank Parque",
-     "resumo": "Líder com 79 pontos, seis à frente do Palmeiras, o Flamengo garante o título com vitória ou empate. O Palmeiras, que vem de duas derrotas, não terá Barboza, Murilo, Piquerez, Paulinho e Jefté, mas recupera Gustavo Gómez; o Flamengo perde Léo Pereira e Pulgar, suspensos. A partida tem transmissão da TV Globo e do Premiere.",
+     "resumo": "Líder com seis pontos de vantagem e 13 jogos sem perder, o Flamengo fica com o título se empatar no Nubank Parque; o Palmeiras, que perdeu para o Cruzeiro na quarta, precisa vencer. O Flamengo não terá Léo Pereira e Pulgar, suspensos, nem De la Cruz, poupado do gramado sintético; no Palmeiras, Gustavo Gómez volta e Barboza cumpre suspensão.",
      "fontes": [
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-tudo-sobre-36-rodada-brasileirao-21-11-2026/"
-      },
-      {
-       "n": "ESPN",
-       "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17535977/palmeiras-x-flamengo-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao"
+       "n": "Campo Grande News",
+       "u": "https://www.campograndenews.com.br/esportes/flamengo-pode-conquistar-titulo-brasileiro-hoje-diante-do-palmeiras"
       },
       {
        "n": "Band",
        "u": "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/palmeiras-x-flamengo-fazem-final-do-brasileiro-escalacoes-e-onde-assistir"
+      },
+      {
+       "n": "Diário do Nordeste",
+       "u": "https://diariodonordeste.verdesmares.com.br/jogada/palmeiras-x-flamengo-confronto-direto-pode-definir-titulo-do-brasileirao-de-2026-1.3807400"
       }
      ]
     },
@@ -745,19 +727,19 @@
      "kicker": "Sul-Americana",
      "quando": "Hoje",
      "titulo": "Atlético-MG enfrenta o Boca Juniors às 19h30 em Barranquilla em busca do primeiro título da Sul-Americana",
-     "resumo": "É a terceira final continental seguida do Galo, que perdeu a Libertadores de 2024 e a Sul-Americana de 2025. O zagueiro Alan Franco está suspenso. O campeão recebe US$ 10 milhões, e o jogo passa no SBT, na ESPN, no Paramount+ e no Disney+.",
+     "resumo": "O jogo único é no estádio Roberto Meléndez, na Colômbia, e o campeão leva US$ 10 milhões. O Atlético disputa a terceira final continental seguida, mas chega com sete jogos sem vencer e sem o zagueiro Alan Franco, suspenso; o Boca busca o terceiro título do torneio, depois de 2004 e 2005. Transmissão do SBT, ESPN e Disney+.",
      "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/atletico-mg-enfrenta-boca-juniors-em-busca-do-titulo-da-copa-sul-americana"
-      },
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-x-boca-horario-e-onde-assistir-a-final-da-sul-americana/"
       },
       {
-       "n": "Placar",
-       "u": "https://placar.com.br/copa-sul-americana/atletico-mg-x-boca-juniors-tudo-sobre-a-final-da-sul-americana/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/atletico-mg-enfrenta-boca-juniors-em-busca-do-titulo-da-copa-sul-americana"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/esporte/atletico-mg-x-boca-juniors-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes/"
       }
      ]
     },
@@ -768,36 +750,32 @@
      "resumo": "Kimi Antonelli fez o melhor tempo, mas perdeu cinco posições por troca de componentes do motor e larga em sexto. Russell e Norris completam as primeiras posições do grid. A corrida começa à 1h de domingo, horário de Brasília.",
      "fontes": [
       {
+       "n": "Gazeta Esportiva / AFP",
+       "u": "https://www.gazetaesportiva.com/motor/formula-1/verstappen-pole-gp-las-vegas-antonelli-bortoleto/"
+      },
+      {
+       "n": "Mais Goiás",
+       "u": "https://www.maisgoias.com.br/esportes/automobilismo/verstappen-larga-na-frente-no-gp-de-las-vegas-bortoleto-e-13o-e-camara-15o-veja-o-grid-completo/"
+      },
+      {
        "n": "Grande Prêmio",
        "u": "https://grandepremio.com/br/f1/verstappen-se-vale-de-punicao-a-antonelli-e-fica-com-pole-do-gp-de-las-vegas-bortoleto-e-14o/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/formula-1/gp-de-las-vegas-saiba-como-ficou-o-grid-de-largada-da-corrida-na-f1.html"
-      },
-      {
-       "n": "TMC",
-       "u": "https://tmc.com.br/esporte/grid-largada-gp-las-vegas-f1/"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
-     "quando": "19/11",
-     "titulo": "Vasco vence o Internacional por 2 a 1 e empurra o time gaúcho para a zona de rebaixamento",
-     "resumo": "Thiago Mendes e Colidio marcaram em São Januário; Juninho descontou. O Vasco chegou a 47 pontos, em 10º, e o Inter ficou em 17º, com 38, a três rodadas do fim; o time gaúcho recebe o Vitória na segunda (23).",
+     "quando": "Hoje",
+     "titulo": "Rodada de sábado tem ainda Bahia x Coritiba, às 17h30, e Chapecoense x Cruzeiro, às 21h",
+     "resumo": "Os três jogos abrem a 36ª rodada da Série A, a três rodadas do fim do campeonato. O Cruzeiro chega embalado pela vitória sobre o Palmeiras na quarta-feira.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-bate-internacional-e-empurra-equipe-gaucha-para-zona-de-rebaixamento/"
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/todos-os-jogos-deste-sabado-21-pelo-campeonato-brasileiro/"
       },
       {
-       "n": "VAVEL",
-       "u": "https://www.vavel.com/br/futebol/2026/11/19/1279712-vasco-x-sc-internacional-ao-vivo-brasileirao-serie-a.html"
-      },
-      {
-       "n": "Folha do Leste",
-       "u": "https://folhadoleste.com.br/vasco-vence-internacional-2-a-1-brasileirao-2026/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/campeao-do-brasileirao-2026-pode-ser-definido-neste-fim-de-semana-veja-horarios-e-onde-assistir-aos-jogos-da-36-rodada,52d3ffc04dbd609a5457538bca0fd19eos4kfnef.html"
       }
      ]
     }
@@ -807,7 +785,7 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Wolbachia, enxaqueca e dengue",
+   "nota": "Atendimento no RS, antibióticos e dengue",
    "itens": [
     {
      "kicker": "SUS",
@@ -826,6 +804,18 @@
      ]
     },
     {
+     "kicker": "Pesquisa",
+     "quando": "Hoje",
+     "titulo": "Compostos de ouro mostram ação contra bactérias multirresistentes em testes de laboratório",
+     "resumo": "Pesquisadores da Universidade de Oviedo e do ISGlobal, de Barcelona, relatam que cerca de 84% dos complexos testados tiveram alta atividade antibacteriana, inclusive contra cepas da lista de patógenos prioritários da OMS. Ainda faltam testes de toxicidade e de eficácia em infecções, e não há previsão de uso em pacientes.",
+     "fontes": [
+      {
+       "n": "Gizmodo Brasil",
+       "u": "https://www.gizmodo.com.br/estudo-com-compostos-de-ouro-apresenta-resultados-animadores-contra-bacterias-multirresistentes-76138"
+      }
+     ]
+    },
+    {
      "kicker": "Dengue",
      "quando": "Ontem",
      "titulo": "Anvisa autoriza venda do método Wolbachia diretamente a estados e prefeituras",
@@ -836,18 +826,6 @@
        "u": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/20/anvisa-libera-venda-direta-metodo-wolbachia-prefeituras"
       }
      ]
-    },
-    {
-     "kicker": "Medicamentos",
-     "quando": "19/11",
-     "titulo": "Anvisa aprova o primeiro comprimido diário para prevenir enxaqueca crônica",
-     "resumo": "O atogepante é indicado para adultos com quatro ou mais crises por mês e é o primeiro bloqueador de CGRP por via oral no país; os anteriores eram injetáveis. Ainda não há preço nem previsão de oferta pelo SUS.",
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/19/anvisa-aprova-comprimido-diario-enxaqueca-cronica"
-      }
-     ]
     }
    ]
   },
@@ -855,7 +833,7 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Reaplicação do Enem e professores",
+   "nota": "Enem, ciência nas escolas e cursos de medicina",
    "itens": [
     {
      "kicker": "Enem",
@@ -878,26 +856,10 @@
       {
        "n": "Agência Gov",
        "u": "https://agenciagov.ebc.com.br/noticias/202611/nota-do-enem-pode-ser-usada-para-concorrer-a-1-5-milhao-de-vagas-no-sisu-prouni-e-fies"
-      }
-     ]
-    },
-    {
-     "kicker": "Concurso",
-     "quando": "19/11",
-     "titulo": "São Paulo publica edital de concurso com 5 mil vagas para professores da rede estadual",
-     "resumo": "O edital da Secretaria da Educação foi publicado na quinta (19) e prevê salários de até cerca de R$ 5,5 mil. As vagas são efetivas e voltadas a professores de ensino fundamental e médio.",
-     "fontes": [
-      {
-       "n": "Agência SP",
-       "u": "https://www.agenciasp.sp.gov.br/educacao/concurso-para-professores-educacao-publica-edital-para-5-000-vagas-nesta-quinta-feira-19/"
       },
       {
-       "n": "Focus Concursos",
-       "u": "https://noticias.focusconcursos.com.br/noticias/concurso-see-sp-edital-publicado-com-5-mil-vagas-e-salarios-de-ate-r-55-mil"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/sp/sao-paulo/concursos/noticia/2026/11/19/concurso-seduc-sp-abre-5-mil-vagas-efetivas-professor"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/educacao/enem/enem-2026-como-pedir-a-reaplicacao-quando-sai-o-gabarito-e-o-resultado-tire-duvidas-sobre-o-exame,48d6e348ff3168425167e0d8bad992cd4bpysfnr.html"
       }
      ]
     },
@@ -912,6 +874,18 @@
        "u": "https://correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
       }
      ]
+    },
+    {
+     "kicker": "Medicina",
+     "quando": "17/11",
+     "titulo": "Hospitais privados abrem turmas de medicina para 2027; Idor, da Rede D'Or, recebe inscrições até 30 de novembro",
+     "resumo": "Pelo programa Mais Médicos, redes como Moinhos de Vento, Beneficência Portuguesa e Rede D'Or podem oferecer o curso. O Idor, autorizado pelo MEC em 5 de novembro, terá 50 vagas no Rio, 10% com bolsa integral; o país passou de 181 cursos de medicina em 2010 para 467 em 2025.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/hospitais-privados-oferecem-vagas-em-cursos-de-medicina-em-2027"
+      }
+     ]
     }
    ]
   },
@@ -919,8 +893,20 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Estrela escondida, chips em queda e espaço",
+   "nota": "Genética antiga, estrelas e chips",
    "itens": [
+    {
+     "kicker": "Genética",
+     "quando": "Hoje",
+     "titulo": "DNA de quase 16 mil pessoas antigas mostra como a seleção natural agiu desde o início da agricultura",
+     "resumo": "O estudo, publicado na Nature, analisou genomas de 15.836 indivíduos do oeste da Eurásia ao longo de cerca de 10 mil anos, mais de 10 mil deles inéditos, e identificou centenas de variantes com sinais de seleção. Os autores advertem que as pontuações ligadas a traços como gordura corporal vêm de populações atuais, o que limita a interpretação.",
+     "fontes": [
+      {
+       "n": "Gizmodo Brasil",
+       "u": "https://www.gizmodo.com.br/o-dna-de-quase-16-mil-pessoas-revelou-quanto-a-selecao-natural-moldou-populacoes-humanas-desde-o-inicio-da-agricultura-76195"
+      }
+     ]
+    },
     {
      "kicker": "Astronomia",
      "quando": "Ontem",
@@ -934,18 +920,6 @@
       {
        "n": "Tek Notícias",
        "u": "https://tek.sapo.pt/noticias/ciencia/artigos/welopo%CA%BBai-sistema-de-tres-estrelas-perto-da-terra-desafia-modelos-de-evolucao-estelar"
-      }
-     ]
-    },
-    {
-     "kicker": "Biologia",
-     "quando": "Ontem",
-     "titulo": "Estudo em camundongos liga testosterona à preferência de machos e fêmeas por ambientes mais quentes",
-     "resumo": "Pesquisadores do King's College London observaram que fêmeas preferem superfícies perto de 36 °C, e machos, em torno de 32 °C. Ao alterar os níveis do hormônio, o comportamento se inverteu; os autores ressaltam que o resultado vale para roedores e não se aplica diretamente a humanos.",
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/tendencias/2026/11/20/pesquisadores-identificam-em-camundongos-o-mecanismo-biologico-que-explica-por-que-machos-e-femeas-escolhem-locais-aquecidos-de-maneiras-diferentes/"
       }
      ]
     },
@@ -967,14 +941,14 @@
      ]
     },
     {
-     "kicker": "Pesquisa",
-     "quando": "19/11",
-     "titulo": "Anthropic diz que o Claude ajudou cientistas a reconstruir em 3D uma estrutura molecular inédita",
-     "resumo": "Segundo a empresa, a busca analisou cerca de 15 bilhões de proteínas e encontrou estruturas semelhantes às “vaults”, partículas descritas em 1986 cuja função ainda é desconhecida; quatro tiveram o formato confirmado por microscopia. O estudo é preliminar, não passou por revisão de pares e a estrutura foi produzida em bactérias.",
+     "kicker": "Biologia",
+     "quando": "Ontem",
+     "titulo": "Estudo em camundongos liga testosterona à preferência de machos e fêmeas por ambientes mais quentes",
+     "resumo": "Pesquisadores do King's College London observaram que fêmeas preferem superfícies perto de 36 °C, e machos, em torno de 32 °C. Ao alterar os níveis do hormônio, o comportamento se inverteu; os autores ressaltam que o resultado vale para roedores e não se aplica diretamente a humanos.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/claude-ajudou-a-revelar-estrutura-molecular-inedita-entenda/"
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/tendencias/2026/11/20/pesquisadores-identificam-em-camundongos-o-mecanismo-biologico-que-explica-por-que-machos-e-femeas-escolhem-locais-aquecidos-de-maneiras-diferentes/"
       }
      ]
     }
@@ -984,7 +958,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Feriado e mortes de famosos",
+   "nota": "Festival, mortes de famosos",
    "itens": [
     {
      "kicker": "Música",
@@ -1007,6 +981,26 @@
      ]
     },
     {
+     "kicker": "Morte",
+     "quando": "Ontem",
+     "titulo": "E.J. Carroll, ator de “The Deuce” e “Lei & Ordem”, morre aos 66 anos",
+     "resumo": "A morte, ocorrida na quinta (19), foi confirmada por um representante à revista Variety, sem divulgação da causa. Carroll interpretou Fat Mooney na série da HBO, teve papéis em “Blue Bloods” e “Boardwalk Empire” e dublou personagens do jogo GTA V.",
+     "fontes": [
+      {
+       "n": "Diário da Manhã",
+       "u": "https://www.dm.com.br/entretenimento/ator-de-the-deuce-e-lei-ordem-morre-aos-66-anos/"
+      },
+      {
+       "n": "Bem Paraná",
+       "u": "https://www.bemparana.com.br/televisao-gente/morre-aos-66-anos-e-j-carroll-ator-de-series-iconicas-da-tv/"
+      },
+      {
+       "n": "Máquina Nerd",
+       "u": "https://www.maquinanerd.com.br/series-e-tv/e-j-carroll-ator-de-law-order-e-gta-v-morre-aos-66-anos"
+      }
+     ]
+    },
+    {
      "kicker": "Luto",
      "quando": "Ontem",
      "titulo": "Influenciador Gabriel Félix morre aos 29 anos depois de passar mal durante partida de futebol",
@@ -1019,22 +1013,6 @@
       {
        "n": "Folha Vitória",
        "u": "https://www.folhavitoria.com.br/cultura/famosos/gabriel-felix-morreu-apos-passar-mal-no-futebol-veja-o-que-se-sabe/"
-      }
-     ]
-    },
-    {
-     "kicker": "Luto",
-     "quando": "Ontem",
-     "titulo": "Fisiculturista maranhense Itemberg Nunes morre aos 31 anos",
-     "resumo": "A morte foi anunciada nesta sexta pela marca de suplementos que o patrocinava; a causa não foi divulgada. Profissional da IFBB Pro League desde 2021, ele competia na categoria Men's Physique e deixa um filho.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/fisiculturista-maranhense-itemberg-nunes-morre-aos-31-anos/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/brasil/2026/11/20/morre-itemberg-nunes-fisiculturista-maranhense-aos-31-anos"
       }
      ]
     },
