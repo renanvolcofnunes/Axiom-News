@@ -1,9 +1,9 @@
 {
- "data": "Sexta-feira, 20 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "20/11/2026 · 19h05 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 18h10",
+ "data": "Sábado, 21 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "21/11/2026 · 07h20 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de sexta (20), 18h10",
  "fontes": 71,
  "mercado": [
   {
@@ -25,7 +25,7 @@
    "dir": "down"
   },
   {
-   "nome": "Ibovespa · fechamento de quinta (B3 fechada hoje)",
+   "nome": "Ibovespa · fechamento de quinta (19); B3 reabre na segunda",
    "valor": "166.376 pts",
    "var": "-0,69%",
    "dir": "down"
@@ -39,33 +39,33 @@
  ],
  "agenda": [
   {
-   "hora": "Sex 20/11 · 21h30",
-   "txt": "Treino livre 3 do GP de Las Vegas; classificação à 1h de sábado",
-   "cat": "esporte"
+   "hora": "Sáb 21/11",
+   "txt": "Ministro Waldez Góes visita Tupanciretã (RS); Inmet mantém alerta de tempestade em 19 UFs",
+   "cat": "brasil"
   },
   {
    "hora": "Sáb 21/11",
-   "txt": "COP31 tenta fechar acordo em Antália; ministro Waldez Góes visita Tupanciretã (RS)",
+   "txt": "Último dia da COP31, em Antália, com votação do texto final",
    "cat": "mundo"
   },
   {
    "hora": "Sáb 21/11 · 16h30 e 19h30",
-   "txt": "Palmeiras x Flamengo pode decidir o Brasileirão; Atlético-MG x Boca na final da Sul-Americana, em Barranquilla",
+   "txt": "Palmeiras x Flamengo pode decidir o Brasileirão; Atlético-MG x Boca na final da Sul-Americana",
    "cat": "esporte"
   },
   {
    "hora": "Dom 22/11 · 1h",
-   "txt": "GP de Las Vegas de Fórmula 1, com Bortoleto (Audi) e Rafael Câmara (Haas)",
+   "txt": "GP de Las Vegas de Fórmula 1: Verstappen larga na pole, Bortoleto em 13º",
    "cat": "esporte"
   },
   {
    "hora": "Seg 23/11",
-   "txt": "B3 reabre após a queda em Nova York; Câmara pode votar o ajuste fiscal na sessão das 18h",
+   "txt": "B3 reabre após a queda em Nova York; Câmara pode votar o ajuste fiscal",
    "cat": "economia"
   },
   {
    "hora": "Até seg 30/11",
-   "txt": "1ª Turma do STF julga no plenário virtual o recurso de Flávio Bolsonaro e a denúncia contra Marcel van Hattem",
+   "txt": "1ª Turma do STF julga recurso de Flávio Bolsonaro e denúncia contra Van Hattem",
    "cat": "politica"
   }
  ],
@@ -162,45 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercados",
-  "titulo": "Venda de ações de IA se aprofunda: Nasdaq cai 5,3%, Nvidia perde 14% e Dow Jones e S&P 500 entram em correção",
-  "resumo": "As bolsas de Nova York tiveram nesta sexta (20) o pior dia em meses, com a Nvidia pressionada por relatos de que a SEC examina sua contabilidade. A Anthropic, que estreou na quinta, fechou em queda de 8,5%.",
-  "entenda": "A queda começou na Ásia e na Europa e ganhou força à tarde em Wall Street. Segundo a Reuters, a SEC, órgão regulador do mercado americano, investiga possíveis irregularidades contábeis da Nvidia; a empresa e a SEC não comentaram. A fabricante de chips já vinha de sete pregões de baixa, acumulando perda de cerca de 44% e US$ 2,5 trilhões em valor de mercado, desde a saída de Jensen Huang do comando, em 12 de novembro, após revelações sobre sua vida pessoal. Na semana, o Nasdaq recuou cerca de 10%, e o índice de volatilidade VIX chegou a 40 pontos, maior nível desde abril de 2025. A B3 não abriu por causa do feriado e volta a operar na segunda (23).",
+  "kicker": "Temporal no RS",
+  "titulo": "Tupanciretã tem cerca de 5 mil casas destelhadas após microexplosão; ministro visita a cidade neste sábado",
+  "resumo": "A Defesa Civil do Rio Grande do Sul atribui a destruição a uma supercélula com microexplosão que atingiu a região central do estado na madrugada de sexta (20), com três mortos e 60 feridos. O Inmet mantém alerta de tempestade para 19 unidades da federação neste sábado.",
+  "entenda": "O temporal chegou a Tupanciretã por volta das 3h20 de sexta. Uma estação do Inmet na cidade registrou rajadas de 114 km/h, e a Defesa Civil não descarta a ocorrência de um tornado, mas avalia que ele sozinho não explicaria a extensão dos estragos. Segundo a prefeitura, quase todas as cerca de 8,6 mil casas do município sofreram algum dano; o hospital municipal perdeu o telhado e pacientes foram levados para Santa Maria e Júlio de Castilhos. A cidade ficou sem luz e sem água. O governo federal enviou equipes da Defesa Civil Nacional para acelerar o reconhecimento da emergência e a liberação de recursos, e o ministro da Integração, Waldez Góes, é esperado no município neste sábado (21).",
   "fatos": [
-   "Na semana, o Dow Jones caiu 8%, o S&P 500, 8,6% e o Nasdaq, 10%",
-   "O bitcoin ficou abaixo de US$ 60 mil, e a Europa fechou com o DAX, de Frankfurt, em queda de 2,45%",
-   "Trump disse que “adoraria ver” Jensen Huang de volta à Nvidia e ameaçou taxar empresas que construírem data centers fora dos EUA"
+   "Boletim estadual de sexta à noite: 4.022 pessoas afetadas e 74 desalojadas no RS",
+   "Em Tupanciretã, foram 5.101 registros de danos materiais e cerca de 100 árvores derrubadas",
+   "Inmet prevê para sábado chuva de até 50 mm, ventos de 40 a 60 km/h e granizo em 18 estados e no DF"
   ],
+  "foto": {
+   "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
+   "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
+  },
   "fontes": [
    {
-    "n": "Seu Dinheiro",
-    "u": "https://www.seudinheiro.com/2026/internacional/nvidia-cai-14-e-vive-a-pior-sequencia-desde-2008-a-ex-queridinha-de-wall-street-vai-ter-que-desatar-mais-um-no/",
-    "d": "Nvidia e SEC"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-apura-microexplosao-apos-estragos-em-cidade-do-rs/",
+    "d": "microexplosão e balanço"
    },
    {
-    "n": "Tribuna do Sertão / Estadão Conteúdo",
-    "u": "https://www.tribunadosertao.com.br/geral/2026/11/20/1026711-bolsas-de-ny-fecham-em-forte-queda-e-poem-indices-em-correcao-com-tombo-de-anthropic-e-nvidia",
-    "d": "fechamento em Nova York"
+    "n": "O Liberal / Estadão Conteúdo",
+    "u": "https://www.oliberal.com/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas-1.1196574",
+    "d": "casas atingidas"
    },
    {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/nasdaq-registra-queda-seguindo-baixa-de-acoes-da-anthropic/",
-    "d": "queda da Anthropic"
+    "n": "CartaCapital",
+    "u": "https://www.cartacapital.com.br/sociedade/lula-mobiliza-equipes-federais-para-atender-vitimas-de-temporal-no-rs/",
+    "d": "equipes federais"
    },
    {
-    "n": "Eco",
-    "u": "https://eco.sapo.pt/2026/11/20/arrastado-pela-inteligencia-artificial-nasdaq-apaga-todos-os-ganhos-e-ja-recua-269-no-ano/",
-    "d": "Nasdaq no ano"
+    "n": "ND Mais",
+    "u": "https://ndmais.com.br/tempo/inmet-alerta-ocorrencia-tempestades-19-estados-apos-feriado/",
+    "d": "alerta do Inmet"
    },
    {
-    "n": "Decrypt",
-    "u": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
-    "d": "investigação da SEC"
-   },
-   {
-    "n": "O Tempo / AFP",
-    "u": "https://www.otempo.com.br/mundo/2026/11/20/trump-diz-que-nao-permitira-a-empresas-construir-data-centers-fora-dos-eua",
-    "d": "declarações de Trump"
+    "n": "Inmet",
+    "u": "https://portal.inmet.gov.br/noticias/previs%C3%A3o-para-sexta-feira-20-s%C3%A1bado-21-domingo-22-e-segunda-feira-23",
+    "d": "previsão do fim de semana"
    }
   ]
  },
@@ -214,6 +213,66 @@
     {
      "kicker": "STF",
      "quando": "Hoje",
+     "titulo": "Lula quer enviar ao Senado indicação para o STF antes da posse do novo Congresso, em fevereiro",
+     "resumo": "Segundo relatos de bastidores, o presidente pretende escolher nos próximos dias o nome para a vaga aberta com a aposentadoria de Luís Roberto Barroso, antes do recesso de dezembro. Davi Alcolumbre prefere o ministro do TCU Rodrigo Pacheco, enquanto uma ala do PT defende uma mulher, com a ministra do STJ Daniela Teixeira entre as mais citadas. Em abril, o Senado rejeitou a indicação de Jorge Messias.",
+     "lados": [
+      {
+       "quem": "Governistas",
+       "txt": "Defendem concluir a indicação com o Senado atual e veem na escolha de uma mulher uma resposta a pedidos de movimentos sociais."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "Críticos afirmam que a pressa busca evitar o Senado eleito em outubro, de perfil mais conservador, e cobram que a decisão espere a nova legislatura."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/df/brasilia/politica/noticia/2026/11/21/lula-indicar-ministro-stf-antes-senado-conservador"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/lula-quer-indicar-ministro-do-stf-antes-da-posse-do-novo-senado/"
+      },
+      {
+       "n": "Rádio Pampa",
+       "u": "https://www.radiopampa.com.br/lula-quer-indicar-ministro-do-supremo-antes-do-fim-do-ano/"
+      }
+     ]
+    },
+    {
+     "kicker": "Governo",
+     "quando": "Hoje",
+     "titulo": "Lula confirma ministério para pessoas idosas, e Esplanada pode chegar a 40 pastas em 2027",
+     "resumo": "O presidente disse que a nova pasta, promessa de campanha, será criada no próximo mandato, sem definir ainda o nome oficial. Com ela, o número de ministérios passaria de 38 para 40; os nomes da equipe devem sair perto da posse, em 5 de janeiro.",
+     "lados": [
+      {
+       "quem": "Governo",
+       "txt": "Afirma que a pasta atende a uma população crescente, de cerca de 16% dos brasileiros com 60 anos ou mais."
+      },
+      {
+       "quem": "Oposição",
+       "txt": "Critica o aumento do número de ministérios e diz que a medida serve para acomodar aliados no Congresso."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/21/lula-confirma-ministerio-dos-idosos-mira-40-ministerios"
+      },
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7541470-lula-anuncia-criacao-de-ministerio-para-pessoas-idosas-no-proximo-governo.html"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/lula-confirma-que-vai-criar-ministerio-voltado-para-idosos"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Ontem",
      "titulo": "Moraes vota para manter retidos os passaportes de Flávio Bolsonaro; 1ª Turma decide até 30 de novembro",
      "resumo": "O relator negou o recurso da defesa e manteve a proibição de deixar o país e de contato com o advogado Willer Tomaz, investigado no mesmo inquérito sobre lavagem de dinheiro ligada a apostas. A PGR defendeu a manutenção das medidas. Faltam os votos de Flávio Dino, Cristiano Zanin e Cármen Lúcia, no plenário virtual, até o dia 30.",
      "lados": [
@@ -259,7 +318,7 @@
     },
     {
      "kicker": "Ajuste fiscal",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ajuste fiscal aprovado no Senado chega à Câmara, e Hugo Motta sinaliza votação na segunda (23)",
      "resumo": "O relator, Mauro Benevides Filho (União-CE), apresentou parecer sem mudanças de mérito para que o texto não volte ao Senado; a votação depende de urgência e de quórum de 257 deputados. O projeto reduz de 2,5% para 2% o limite de crescimento das despesas e amplia o corte de benefícios fiscais, com efeito estimado de R$ 45 bilhões a R$ 50 bilhões em 2027.",
      "lados": [
@@ -285,27 +344,7 @@
     },
     {
      "kicker": "STF",
-     "quando": "Hoje",
-     "titulo": "Marcha na Paulista e abaixo-assinado de 45 entidades pedem que Lula indique a primeira mulher negra ao STF",
-     "resumo": "A 23ª Marcha da Consciência Negra levou a reivindicação à Avenida Paulista nesta sexta, e as entidades lançaram um abaixo-assinado com meta de 1 milhão de assinaturas. A vaga de Luís Roberto Barroso está aberta há mais de um ano; segundo O Tempo, Lula não dá sinais de mudar de rumo e ainda tem preferência por Jorge Messias, rejeitado pelo Senado em abril. Em 135 anos, o STF nunca teve uma ministra negra.",
-     "fontes": [
-      {
-       "n": "Alma Preta",
-       "u": "https://almapreta.com.br/sessao/cotidiano/marcha-consciencia-negra-ministra-stf-sp/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/governo/2026/11/20/apesar-de-pressoes-lula-nao-da-sinais-de-que-deve-indicar-uma-mulher-negra-ao-stf"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/brasil/movimento-reune-45-entidades-e-cobra-indicacao-de-mulher-negra-ao-stf/"
-      }
-     ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "1ª Turma do STF começa a julgar se Van Hattem vira réu por discurso contra delegado da PF",
      "resumo": "A análise no plenário virtual vai até 30 de novembro, com relatoria de Flávio Dino. A PGR denunciou o deputado do Novo-RS por calúnia e injúria por um discurso de agosto de 2024 na Câmara; receber a denúncia não significa condenação. O julgamento só vai para sessão presencial se algum ministro pedir destaque.",
      "lados": [
@@ -332,44 +371,6 @@
        "u": "https://www.metropoles.com/colunas/manoela-alcantara/stf-decide-se-van-hattem-vira-reu-por-chamar-delegado-da-pf-de-bandido"
       }
      ]
-    },
-    {
-     "kicker": "Escala 6x1",
-     "quando": "Ontem",
-     "titulo": "Após decreto do fim da 6x1, Lula chama resistência empresarial de ingratidão; indústria e construção pedem ajustes",
-     "resumo": "Na assinatura do decreto, Lula disse que a modernização das empresas permite reduzir a jornada sem prejuízo e que os ganhos não chegaram aos trabalhadores. O texto define novos divisores para o cálculo da hora extra, e o Ministério do Trabalho deve editar portarias para categorias especiais a partir de segunda (23). A liminar de Flávio Dino segue valendo até o julgamento no plenário do STF. No mesmo ato, o presidente disse que não haverá retirada de direitos e que o controle fiscal é prioridade do novo mandato.",
-     "lados": [
-      {
-       "quem": "Governo",
-       "txt": "Diz que a jornada cai para 42 horas em 16 de dezembro e para 40 horas em dezembro de 2027 sem corte de salário, e que as convenções coletivas vão ajustar cada categoria."
-      },
-      {
-       "quem": "Entidades empresariais",
-       "txt": "CNC pede adaptação por setor; Fiemg diz que os divisores 210 e 200 encarecem a hora extra e a folha; CBIC afirma que o prazo curto pode desorganizar obras e havia proposto transição de cinco anos."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/economia/2026/11/19/apos-publicacao-de-decreto-setor-produtivo-continua-questionando-regras-do-fim-da-escala-6x1"
-      },
-      {
-       "n": "JOTA",
-       "u": "https://www.jota.info/trabalho/decreto-que-regulamenta-o-fim-da-escala-6x1-traz-flexibilizacao-para-descanso-semanal-e-divisor-de-horas-extras"
-      },
-      {
-       "n": "O Jornalismo",
-       "u": "https://ojornalismo.com.br/noticia/220136/lula-critica-empresarios-contrarios-ao-fim-da-escala-6x1-e-classifica-resistencia-como-ingratidao/"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-promete-manter-direitos-e-diz-que-controle-fiscal-e-prioridade"
-      }
-     ],
-     "foto": {
-      "src": "fotos/lula.jpg",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     }
     }
    ]
   },
@@ -381,7 +382,7 @@
    "itens": [
     {
      "kicker": "Nvidia",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Nvidia cai 14% após relato de investigação da SEC e tem a pior sequência de baixas desde 2008",
      "resumo": "Segundo a Reuters, a SEC examina possíveis irregularidades contábeis da empresa, que já é alvo de análise antitruste do Departamento de Justiça; Nvidia e SEC não comentaram. Foram sete pregões seguidos de queda, com perda de cerca de US$ 2,5 trilhões em valor de mercado desde a saída de Jensen Huang do comando, em 12 de novembro. A Anthropic recuou 8,5% no segundo dia na bolsa.",
      "fontes": [
@@ -396,12 +397,36 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/mundo/apos-fechar-em-alta-acoes-da-anthropic-tem-baixa-de-9-nos-eua"
+      },
+      {
+       "n": "The Motley Fool",
+       "u": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
+      },
+      {
+       "n": "Investing.com",
+       "u": "https://br.investing.com/news/stock-market-news/acoes-da-nvidia-caem-10-com-investigacao-contabil-da-sec-2134439"
+      }
+     ]
+    },
+    {
+     "kicker": "Guerra",
+     "quando": "Hoje",
+     "titulo": "Pentágono calcula em US$ 48 bilhões o custo da guerra contra o Irã até 13 de novembro",
+     "resumo": "O valor, apresentado em audiência no Senado americano, inclui munições, reposição de equipamentos e operações, mas não os danos a bases atingidas por mísseis e drones iranianos. Democratas cobram a conta completa, e o tema pesa na discussão de um orçamento de defesa de US$ 1,5 trilhão.",
+     "fontes": [
+      {
+       "n": "O Povo / DW",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/21/gasto-dos-eua-na-guerra-contra-ira-chega-a-uss-48-bilhoes-e-amplia-pressao-sobre-o-pentagono.html"
+      },
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/21/1026851-eua-consomem-estoques-de-misseis-e-relatorio-alerta-para-risco-em-eventual-guerra-com-china"
       }
      ]
     },
     {
      "kicker": "Bolsas",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Venda de ações de IA atravessa Ásia e Europa: Taiwan cai 6,2%, Japão 5,1% e Frankfurt fecha em baixa de 2,45%",
      "resumo": "Na Europa, Paris recuou 1,89%, Milão 2,48% e Londres 1,02%, com a holandesa ASML, fornecedora de máquinas para chips, em queda de 8,3%. Pesa o temor sobre o endividamento das empresas de IA; o ouro caiu cerca de 2,7%, com o dólar perto da máxima em 19 meses.",
      "fontes": [
@@ -425,7 +450,7 @@
     },
     {
      "kicker": "Feriado",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Com a B3 fechada, ETF de ações brasileiras cai 1,3% em Nova York; dólar acumulou alta de quase 5% na semana",
      "resumo": "No pré-mercado americano, o EWZ recuava para US$ 29,13, e os recibos de Petrobras, Vale e Itaú também caíam. Na quinta, o Ibovespa fechou em 166.376 pontos e o dólar terminou a R$ 5,935, maior nível desde abril de 2025. A bolsa brasileira volta a operar na segunda (23).",
      "foto": {
@@ -449,7 +474,7 @@
     },
     {
      "kicker": "Criptomoedas",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Bitcoin fica abaixo de US$ 60 mil e caminha para a sétima semana seguida de queda",
      "resumo": "Às 14h, a moeda valia cerca de US$ 59,4 mil, queda de 5,3% em 24 horas e de 13,6% em sete dias; o ether recuava 7,2%. Se a semana fechar no vermelho no domingo, será a maior série negativa desde 2022, com saída de recursos de fundos de bitcoin nos EUA.",
      "fontes": [
@@ -466,22 +491,6 @@
        "u": "https://bitnoticias.com.br/mercado/liquidacoes-153-bilhao-bitcoin-recua-6"
       }
      ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Hoje",
-     "titulo": "Trump ameaça impor taxas a empresas de tecnologia que construírem data centers fora dos EUA",
-     "resumo": "Na Casa Branca, o presidente disse que não vai permitir esses centros em outros países e falou em sanções e em um imposto elevado. Ele também afirmou que gostaria de ver Jensen Huang de volta à Nvidia.",
-     "fontes": [
-      {
-       "n": "O Tempo / AFP",
-       "u": "https://www.otempo.com.br/mundo/2026/11/20/trump-diz-que-nao-permitira-a-empresas-construir-data-centers-fora-dos-eua"
-      },
-      {
-       "n": "Renascença",
-       "u": "https://rr.pt/noticia/mundo/2026/11/20/trump-ameaca-gigantes-tecnologicas-com-taxas-enormes-caso-construam-centros-de-dados-fora-dos-eua/494455/"
-      }
-     ]
     }
    ]
   },
@@ -492,52 +501,53 @@
    "nota": "Mortes em Tupanciretã, alertas e Consciência Negra",
    "itens": [
     {
-     "kicker": "Temporal no RS",
+     "kicker": "Rio Grande do Sul",
      "quando": "Hoje",
-     "titulo": "Temporal em Tupanciretã (RS) deixa três mortos e 60 feridos; governo federal envia equipes e ministro visita a cidade no sábado",
-     "resumo": "A Defesa Civil gaúcha fala em cerca de 5 mil casas destelhadas, e a prefeitura estima que 8 mil das 8,6 mil residências foram atingidas; uma estação do Inmet registrou rajadas de 114 km/h. O tornado não foi confirmado nem descartado. O estado liberou R$ 2 milhões, a Força Nacional do SUS foi acionada e o ministro Waldez Góes vai ao município neste sábado (21).",
+     "titulo": "Defesa Civil aponta microexplosão em Tupanciretã; cidade tem cerca de 5 mil casas destelhadas e ministro chega hoje",
+     "resumo": "A Defesa Civil gaúcha atribui os estragos a uma supercélula com microexplosão, com rajadas de 114 km/h medidas pelo Inmet. O temporal deixou três mortos e 60 feridos, e o hospital municipal perdeu o telhado. O ministro da Integração, Waldez Góes, visita o município neste sábado.",
      "foto": {
       "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
       "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporal-no-rs-governo-envia-equipes-da-defesa-civil-para-tupancireta"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-apura-microexplosao-apos-estragos-em-cidade-do-rs/"
       },
       {
-       "n": "Agora RS",
-       "u": "https://agorars.com/agora-no-tempo/confirmadas-tres-mortes-apos-temporal-que-devastou-tupancireta/"
+       "n": "O Liberal / Estadão Conteúdo",
+       "u": "https://www.oliberal.com/brasil/governo-federal-envia-equipe-a-tupancireta-rs-apos-temporal-destruir-8-mil-casas-1.1196574"
       },
       {
-       "n": "98 FM Natal / CNN Brasil",
-       "u": "https://98fmnatal.com.br/ultimas/tempestade-deixa-ao-menos-tres-mortos-60-feridos-e-destroi-mais-de-5-mil-casas-no-rs/418212/"
+       "n": "Rádio Mirador",
+       "u": "https://radiomirador.com.br/governo-federal-envia-equipes-e-ajuda-humanitaria-a-tupancireta-apos-temporal-que-deixou-tres-mortos/"
       }
-     ]
+     ],
+     "destaque": false
     },
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Inmet mantém alerta de tempestade com granizo para o feriado; Santa Catarina tem previsão de vento de até 100 km/h",
-     "resumo": "O aviso laranja vale até 23h59 em todo o território catarinense, com chuva de 50 a 100 mm e risco de alagamentos, queda de árvores e falta de energia; Paraná e Espírito Santo também estão em alerta. No Rio Grande do Sul, a Defesa Civil emitiu na quinta alertas vermelhos para 22 cidades da região metropolitana. Em emergência, o telefone é 199.",
+     "titulo": "Inmet emite alerta amarelo de tempestade para 18 estados e o DF neste sábado",
+     "resumo": "O aviso vale das 0h às 23h59 e prevê chuva de 20 a 30 mm por hora, ventos de 40 a 60 km/h e possibilidade de granizo. Estão na lista estados do Sul, do Sudeste, do Centro-Oeste e parte do Norte e do Nordeste. A orientação é não se abrigar sob árvores e acionar a Defesa Civil pelo 199 em caso de emergência.",
      "fontes": [
       {
-       "n": "TN Sul",
-       "u": "https://tnsul.com/2026/11/20/feriado-tem-alerta-de-tempestade-com-granizo-e-vento-de-ate-100-km-h-em-sc/"
-      },
-      {
        "n": "ND Mais",
-       "u": "https://ndmais.com.br/tempo/temporal-em-tupancireta-mata-uma-pessoa-rastro-destruicao/"
+       "u": "https://ndmais.com.br/tempo/inmet-alerta-ocorrencia-tempestades-19-estados-apos-feriado/"
       },
       {
-       "n": "Click Guarulhos",
-       "u": "https://www.clickguarulhos.com.br/2026/11/20/feriado-prolongado-tem-alerta-de-chuvas-fortes/"
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/20/inmet-emite-alerta-amarelo-para-tempestades-em-19-unidades-da-federacao"
+      },
+      {
+       "n": "Folha de Curitiba",
+       "u": "https://folhadecuritiba.com.br/alerta-tempestade-curitiba-21-novembro-2026/"
       }
      ]
     },
     {
      "kicker": "Consciência Negra",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Marcha da Consciência Negra reúne manifestantes na Paulista e cobra ministra negra no STF e reparação histórica",
      "resumo": "Organizada por MNU, Uneafro, Unegro e Coalizão Negra por Direitos, a 23ª edição homenageou os 60 anos dos Panteras Negras e levou pautas contra a violência policial e a redução da maioridade penal. No centro, a feira com 120 empreendedores negros e indígenas segue até sábado, das 10h às 22h.",
      "foto": {
@@ -565,7 +575,7 @@
     },
     {
      "kicker": "Feriado",
-     "quando": "Ontem",
+     "quando": "19/11",
      "titulo": "PRF inicia operação nas rodovias para o feriado da Consciência Negra; bancos fecham na sexta (20)",
      "resumo": "A fiscalização reforçada segue até domingo, com foco em ultrapassagens, alcoolemia e excesso de velocidade. As agências bancárias não abrem para atendimento presencial na sexta, e boletos vencidos no feriado podem ser pagos no dia útil seguinte sem multa.",
      "fontes": [
@@ -586,22 +596,6 @@
        "u": "https://www.opovo.com.br/noticias/curiosidades/2026/11/19/hoje-19-de-novembro-e-feriado-veja-onde-e-quem-folga-nesta-quinta-feira.html"
       }
      ]
-    },
-    {
-     "kicker": "Polícia Federal",
-     "quando": "Ontem",
-     "titulo": "PF faz buscas na casa do vice-presidente do TCE-RS e apreende cerca de R$ 72 mil em dinheiro",
-     "resumo": "A Operação Circuito Paralelo cumpriu seis mandados autorizados pelo STJ em Porto Alegre, Lajeado e Guaporé e investiga suspeita de corrupção e tráfico de influência envolvendo o conselheiro Edson Brum. A defesa diz que ele está à disposição das autoridades e que não há acusação formal contra ele.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-encontra-r-72-mil-em-dinheiro-vivo-na-casa-de-vice-presidente-do-tce-rs"
-      },
-      {
-       "n": "Portal 364",
-       "u": "https://www.portal364.com/2026/11/policia-federal-realiza-operacao-para.html"
-      }
-     ]
     }
    ]
   },
@@ -612,8 +606,24 @@
    "nota": "Ucrânia, COP31 prorrogada e Trump",
    "itens": [
     {
-     "kicker": "Guerra na Ucrânia",
+     "kicker": "Ucrânia",
      "quando": "Hoje",
+     "titulo": "Ataque noturno russo a Kryvyi Rih mata uma criança e uma mulher e deixa 52 feridos",
+     "resumo": "Segundo o governo regional de Dnipropetrovsk, mísseis balísticos atingiram prédios residenciais, um hospital e um restaurante; 25 feridos estão em estado grave. A Força Aérea ucraniana diz ter derrubado ou neutralizado 117 drones durante a madrugada. O ataque ocorre um dia depois da ofensiva que matou oito pessoas em Kiev.",
+     "fontes": [
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/liveblogs/ataque-noturno-da-russia-faz-dois-mortos-e-52-feridos-no-sul-da-ucrania/"
+      },
+      {
+       "n": "The Objective",
+       "u": "https://theobjective.com/internacional/2026-11-21/ataque-ruso-ucrania-muertos-heridos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Guerra na Ucrânia",
+     "quando": "Ontem",
      "titulo": "Ataque russo com mísseis e drones atinge pontes de Kiev e mata ao menos oito; Polônia diz que míssil caiu em seu território",
      "resumo": "Foram seis mortos em Kiev e dois em uma estação de trem em Lviv, com apagões na capital e em outras dez regiões. Moscou apresentou o ataque como resposta aos golpes ucranianos à ponte da Crimeia; o premiê polonês, Donald Tusk, chamou o episódio de provocação. A Estônia anunciou que fechará a fronteira com a Rússia por pelo menos seis meses a partir de 1º de dezembro.",
      "fontes": [
@@ -642,68 +652,64 @@
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "COP31 é prorrogada até sábado sem acordo sobre combustíveis fósseis e financiamento",
-     "resumo": "A plenária em Antália aprovou apenas os textos de consenso fácil; seguem em aberto mitigação, adaptação, transição justa e financiamento climático. O Panamá ameaçou bloquear qualquer pacto sem limite à produção de petróleo, e a minuta prevê elevar a eletricidade a 35% da demanda final de energia até 2035.",
+     "titulo": "COP31 entra no último dia sem acordo; rascunho deixa de citar combustíveis fósseis e Panamá ameaça vetar",
+     "resumo": "A plenária de sexta à noite aprovou apenas decisões de procedimento, como a escolha de Adis Abeba, na Etiópia, para sediar a conferência de 2027. Adaptação, transição justa e financiamento seguem sem consenso, e a decisão principal ficou para este sábado. Organizações como a Climate Action Network e o Observatório do Clima dizem que a cúpula pode ter o pior resultado da história.",
      "fontes": [
       {
-       "n": "O Povo / AFP",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/20/cop31-prolonga-suas-negociacoes-em-meio-a-um-embate-sobre-os-combustiveis-fosseis.html"
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/mundo/cop31-declara-fracasso-em-acordo-sobre-combustiveis-fosseis-sob-protestos-e-atraso"
       },
       {
-       "n": "A Crítica",
-       "u": "https://acritica.net/noticias/cop31-pode-ser-prorrogada-ate-domingo-apos-impasse-sobre-financiamento-climatico/"
+       "n": "Exame",
+       "u": "https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/"
       },
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mundo/cop31-entra-na-reta-final-sem-consenso-sobre-combustiveis-fosseis-e-financiamento/"
+       "n": "Público",
+       "u": "https://www.publico.pt/2026/11/20/azul/noticia/cop31-entra-prolongamento-texto-acordo-vista-2195745"
       },
       {
-       "n": "ANSA Brasil",
-       "u": "https://ansabrasil.com.br/brasil/noticias/agenda_verde/2026/11/20/cop31-prorroga-negociacoes-em-meio-a-impasses-por-acordo-final_4dc34fbf-5bdb-42d9-9660-5708a0006ffd.html"
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/11/20/sociedade-civil-diz-que-cop31-podera-ser-a-pior-da-historia/"
       }
      ]
     },
     {
      "kicker": "Estados Unidos",
      "quando": "Hoje",
-     "titulo": "Trump diz que o Irã quer encerrar a guerra, mas não aceita um acordo que ele considere satisfatório",
-     "resumo": "Em entrevista na Casa Branca após a cúpula com Xi Jinping e Vladimir Putin na China, o presidente repetiu que o Irã não terá arma nuclear e disse que Putin busca uma saída diplomática para a Ucrânia. Ele também afirmou que os EUA fecharão mais de dez novos acordos comerciais após a viagem à Ásia.",
+     "titulo": "Trump diz que Putin quer a paz e acusa o Irã de enganar nas negociações; Teerã diz ter derrubado drone dos EUA",
+     "resumo": "Em entrevista na Casa Branca, Trump defendeu suas relações com Putin e Xi Jinping e afirmou que o Irã ainda não apresentou condições aceitáveis para um acordo. A agência oficial iraniana IRNA informou que a Guarda Revolucionária abateu um drone MQ-9 americano sobre o estreito de Ormuz; os EUA não confirmaram. O chanceler Abbas Araghchi disse que Teerã busca um acordo.",
      "fontes": [
       {
-       "n": "Diário do Grande ABC / Estadão Conteúdo",
-       "u": "https://www.dgabc.com.br/Noticia/4369925/trump-ira-quer-acordo-mas-nao-quer-um-acordo-aceitavel-para-mim"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/21/donald-trump-defende-relacoes-com-putin-e-acusa-irao-de-enganar-nas-negociacoes"
       },
       {
-       "n": "O Tempo / AFP",
-       "u": "https://www.otempo.com.br/mundo/2026/11/20/trump-diz-que-nao-permitira-a-empresas-construir-data-centers-fora-dos-eua"
+       "n": "Demócrata",
+       "u": "https://democrata.es/pt/internacional/o-ira-derruba-um-drone-militar-dos-eua-mq-9-no-estreito-de-ormuz"
+      },
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/liveblogs/ataque-noturno-da-russia-faz-dois-mortos-e-52-feridos-no-sul-da-ucrania/"
       }
      ]
     },
     {
-     "kicker": "Estados Unidos",
-     "quando": "Hoje",
-     "titulo": "Casa Branca demite diretor nacional de cibersegurança após falhas tecnológicas em série no país",
-     "resumo": "Sean Cairncross deixa o cargo depois de interrupções que afetaram transportes, comunicações e comércio eletrônico; a diretora de TI do Pentágono, Kirsten Davies, assume interinamente. Chefes de inteligência e segurança disseram ao Congresso que as falhas não estão ligadas entre si nem foram causadas por ataque.",
-     "fontes": [
-      {
-       "n": "TRT Português",
-       "u": "https://www.trtportugues.com/article/54e1ada0ad9c"
-      },
-      {
-       "n": "Newscura / France 24",
-       "u": "https://newscura.com/global/timeline/2026-11-20"
-      }
-     ]
-    },
-    {
-     "kicker": "Justiça internacional",
+     "kicker": "Peru",
      "quando": "Ontem",
-     "titulo": "Corte Internacional de Justiça conclui que Mianmar cometeu genocídio contra os rohingyas",
-     "resumo": "É a primeira vez que a CIJ responsabiliza um Estado por genocídio, em ação movida pela Gâmbia sobre a violência de 2017 no estado de Rakhine. A decisão não cabe recurso; Mianmar nega as acusações e não comentou de imediato.",
+     "titulo": "Terremoto de magnitude 6,9 atinge os Andes peruanos e é sentido em Lima, sem vítimas",
+     "resumo": "O tremor ocorreu às 19h09 de sexta, com epicentro a 34 km de Junín e a 108 km de profundidade, segundo o Serviço Geológico dos EUA. O Instituto Geofísico do Peru não registrou danos nem feridos, mas moradores de Lima deixaram os prédios.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/tribunal-da-onu-conclui-que-mianmar-cometeu-genocidio"
+       "n": "Korea JoongAng Daily / AP",
+       "u": "https://www.koreajoongangdaily.com/world/peru-hit-by-69magnitude-earthquake-no-casualties-or-damage-reported/12983748"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-69-atinge-lima-capital-do-peru/"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/20/terremoto-de-magnitude-69-abala-os-andes-do-peru-e-e-sentido-em-lima/"
       }
      ]
     }
@@ -718,78 +724,66 @@
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Palmeiras terá quatro desfalques contra o Flamengo, que é campeão brasileiro com um empate no sábado",
-     "resumo": "Além de Barboza, suspenso, Murilo, Paulinho e Piquerez estão lesionados; o Flamengo não terá Léo Pereira e Pulgar, suspensos. O jogo é às 16h30, no Nubank Parque, com o Flamengo seis pontos à frente (79 a 73) e três rodadas por disputar. Abel Ferreira pode poupar titulares por causa da final da Libertadores, no dia 28.",
+     "titulo": "Flamengo pode ser campeão brasileiro hoje, às 16h30, contra o Palmeiras no Nubank Parque",
+     "resumo": "Líder com 79 pontos, seis à frente do Palmeiras, o Flamengo garante o título com vitória ou empate. O Palmeiras, que vem de duas derrotas, não terá Barboza, Murilo, Piquerez, Paulinho e Jefté, mas recupera Gustavo Gómez; o Flamengo perde Léo Pereira e Pulgar, suspensos. A partida tem transmissão da TV Globo e do Premiere.",
      "fontes": [
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/palmeiras/palmeiras-perde-titular-para-confronto-contra-o-flamengo-pelo-brasileirao,970a7c6db1fb4b3e903a39bd65f19b1cupbmgizf.html"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-tudo-sobre-36-rodada-brasileirao-21-11-2026/"
       },
       {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/palmeiras-flamengo-empate-titulo-brasileirao-2026-onde-assistir"
+       "n": "ESPN",
+       "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17535977/palmeiras-x-flamengo-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/flamengo/lamengo-chega-invicto-em-gramados-sinteticos-para-enfrentar-o-palmeiras-veja-os-numeros.html"
-      },
-      {
-       "n": "Canal GOAT",
-       "u": "https://canalgoat.com.br/noticias/brasileirao-serie-a/palmeiras-x-flamengo-um-empate-no-nubank-parque-da-o-titulo-ao-flamengo-neste-sabado.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "Chuva marca os treinos em Las Vegas; Russell lidera o TL2, Bortoleto é 20º com problema no câmbio e Câmara fica em 22º",
-     "resumo": "O primeiro treino terminou sem nenhuma volta cronometrada por causa da pista encharcada, e Russell fez 1min47s272 no segundo, à frente de Gasly. O treino livre 3 é às 21h30 de Brasília; a classificação, à 1h de sábado, e a corrida, à 1h de domingo.",
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/automobilismo/noticia/2026/11/20/chuva-marca-treinos-f1-las-vegas-bortoleto-camara"
-      },
-      {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-bortoleto-termina-em-20o-e-apresenta-problema-no-carro-no-fim-do-tl2-do-gp-de-las-vegas/"
-      },
-      {
-       "n": "Tomada de Tempo",
-       "u": "https://www.tomadadetempo.com.br/2026/11/19/gp-de-las-vegas-de-f1-2026-pista-encharcada-deixa-primeiro-treino-livre-sem-tempos-registrados/"
-      },
-      {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/camara-bortoleto-e-russell-o-que-disseram-os-pilotos-apos-sexta-feira-do-gp-de-las-vegas/"
+       "n": "Band",
+       "u": "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/palmeiras-x-flamengo-fazem-final-do-brasileiro-escalacoes-e-onde-assistir"
       }
      ]
     },
     {
      "kicker": "Sul-Americana",
      "quando": "Hoje",
-     "titulo": "Atlético-MG e Boca Juniors fazem a final da Sul-Americana no sábado, às 19h30, em Barranquilla",
-     "resumo": "Os dois times fizeram nesta sexta o último treino em Barranquilla; o Atlético, de Eduardo Domínguez, busca o título inédito, e o Boca, de Rodolfo Arruabarrena, não terá Alan Franco, suspenso, nem Reinier, lesionado. O campeão garante vaga na fase de grupos da Libertadores de 2027.",
+     "titulo": "Atlético-MG enfrenta o Boca Juniors às 19h30 em Barranquilla em busca do primeiro título da Sul-Americana",
+     "resumo": "É a terceira final continental seguida do Galo, que perdeu a Libertadores de 2024 e a Sul-Americana de 2025. O zagueiro Alan Franco está suspenso. O campeão recebe US$ 10 milhões, e o jogo passa no SBT, na ESPN, no Paramount+ e no Disney+.",
      "fontes": [
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/mg/minas-gerais/esportes/noticia/2026/11/20/atletico-mg-boca-juniors-15-jogadores-comum"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/atletico-mg-enfrenta-boca-juniors-em-busca-do-titulo-da-copa-sul-americana"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/final-da-sul-americana-entre-atletico-mg-x-boca-tem-horario-definido-veja/"
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-x-boca-horario-e-onde-assistir-a-final-da-sul-americana/"
       },
       {
-       "n": "Olympics.com",
-       "u": "https://www.olympics.com/pt/noticias/copa-sul-americana-2026-final-atletico-mg-boca-juniors"
+       "n": "Placar",
+       "u": "https://placar.com.br/copa-sul-americana/atletico-mg-x-boca-juniors-tudo-sobre-a-final-da-sul-americana/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "Verstappen herda a pole em Las Vegas após punição a Antonelli; Bortoleto larga em 13º e Câmara em 15º",
+     "resumo": "Kimi Antonelli fez o melhor tempo, mas perdeu cinco posições por troca de componentes do motor e larga em sexto. Russell e Norris completam as primeiras posições do grid. A corrida começa à 1h de domingo, horário de Brasília.",
+     "fontes": [
+      {
+       "n": "Grande Prêmio",
+       "u": "https://grandepremio.com/br/f1/verstappen-se-vale-de-punicao-a-antonelli-e-fica-com-pole-do-gp-de-las-vegas-bortoleto-e-14o/"
       },
       {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-sul-americana/atletico-x-boca-juniors-saiba-programacao-dos-clubes-na-vespera-da-final-da-sul-americana/"
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/formula-1/gp-de-las-vegas-saiba-como-ficou-o-grid-de-largada-da-corrida-na-f1.html"
+      },
+      {
+       "n": "TMC",
+       "u": "https://tmc.com.br/esporte/grid-largada-gp-las-vegas-f1/"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
-     "quando": "Ontem",
+     "quando": "19/11",
      "titulo": "Vasco vence o Internacional por 2 a 1 e empurra o time gaúcho para a zona de rebaixamento",
      "resumo": "Thiago Mendes e Colidio marcaram em São Januário; Juninho descontou. O Vasco chegou a 47 pontos, em 10º, e o Inter ficou em 17º, com 38, a três rodadas do fim; o time gaúcho recebe o Vitória na segunda (23).",
      "fontes": [
@@ -806,26 +800,6 @@
        "u": "https://folhadoleste.com.br/vasco-vence-internacional-2-a-1-brasileirao-2026/"
       }
      ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Fluminense bate o São Paulo no MorumBIS e se firma em 3º; Vitória vence o Bragantino e sobe para 14º",
-     "resumo": "Hércules fez o único gol do Fluminense, que chegou a 60 pontos, seis à frente do Athletico-PR. Em Salvador, Brítez e Renê marcaram no primeiro tempo e o Vitória venceu por 2 a 1, chegando a 41 pontos.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-com-gol-de-hercules-fluminense-bate-o-sao-paulo-no-morumbis"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/futebol/vitoria-bate-o-bragantino-por-2-a-1-no-barradao/"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/ba/salvador/esportes/noticia/2026/11/19/vitoria-vence-bragantino-estreia-lacerda-fora-z4"
-      }
-     ]
     }
    ]
   },
@@ -836,8 +810,24 @@
    "nota": "Wolbachia, enxaqueca e dengue",
    "itens": [
     {
-     "kicker": "Dengue",
+     "kicker": "SUS",
      "quando": "Hoje",
+     "titulo": "Força Nacional do SUS segue para Tupanciretã para atender feridos do temporal",
+     "resumo": "O Ministério da Saúde enviou equipes da Força Nacional do SUS ao município gaúcho, onde o hospital municipal perdeu o telhado e pacientes foram transferidos para cidades vizinhas. O temporal deixou 60 feridos, segundo a Defesa Civil.",
+     "fontes": [
+      {
+       "n": "Rádio Progresso",
+       "u": "https://radioprogresso.com.br/forca-nacional-do-sus-segue-para-tupancireta-rs-para-assistencia-a-populacao-atingida-por-tempestade/"
+      },
+      {
+       "n": "O Cafezinho",
+       "u": "https://www.ocafezinho.com/2026-11-21/padilha-envia-forca-nacional-do-sus-para-atender-60-feridos-no-rs"
+      }
+     ]
+    },
+    {
+     "kicker": "Dengue",
+     "quando": "Ontem",
      "titulo": "Anvisa autoriza venda do método Wolbachia diretamente a estados e prefeituras",
      "resumo": "Até agora, só o Ministério da Saúde decidia onde soltar os mosquitos com a bactéria, que reduz a transmissão da dengue. O método já está em 16 cidades, e dezenas de municípios procuraram a empresa responsável.",
      "fontes": [
@@ -849,45 +839,13 @@
     },
     {
      "kicker": "Medicamentos",
-     "quando": "Ontem",
+     "quando": "19/11",
      "titulo": "Anvisa aprova o primeiro comprimido diário para prevenir enxaqueca crônica",
      "resumo": "O atogepante é indicado para adultos com quatro ou mais crises por mês e é o primeiro bloqueador de CGRP por via oral no país; os anteriores eram injetáveis. Ainda não há preço nem previsão de oferta pelo SUS.",
      "fontes": [
       {
        "n": "TV Sim Brasil",
        "u": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/19/anvisa-aprova-comprimido-diario-enxaqueca-cronica"
-      }
-     ]
-    },
-    {
-     "kicker": "Dengue",
-     "quando": "Ontem",
-     "titulo": "No Dia Nacional de Combate à Dengue, Fiocruz projeta cerca de 866 mil casos em 2027, com pico em abril",
-     "resumo": "De janeiro a outubro de 2026, o país registrou mais de 374 mil casos prováveis e 371 mortes, segundo o Instituto Todos pela Saúde. Municípios fazem mutirões contra criadouros; a vacina do SUS é aplicada em duas doses em jovens de 10 a 14 anos.",
-     "fontes": [
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/bem-viver/2026/11/7540762-dia-nacional-de-combate-a-dengue-projecao-aponta-866-mil-casos-para-2027.html"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-11/dia-nacional-de-combate-dengue-mobiliza-municipios-hoje-19"
-      }
-     ]
-    },
-    {
-     "kicker": "Vigilância",
-     "quando": "Ontem",
-     "titulo": "Brucelose humana passa a ser doença de notificação compulsória no país",
-     "resumo": "Portaria do Ministério da Saúde obriga hospitais e clínicas a informar os casos semanalmente. A infecção é transmitida sobretudo por leite e derivados não pasteurizados e por carne crua ou malpassada, e atinge mais trabalhadores rurais, veterinários e funcionários de frigoríficos; o tratamento com antibióticos é oferecido pelo SUS.",
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/19/brucelose-notificacao-compulsoria-brasil"
-      },
-      {
-       "n": "Ministério da Saúde",
-       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026"
       }
      ]
     }
@@ -901,9 +859,9 @@
    "itens": [
     {
      "kicker": "Enem",
-     "quando": "Hoje",
-     "titulo": "Prazo para pedir a reaplicação do Enem termina hoje, às 23h59; novas provas serão em 15 e 16 de dezembro",
-     "resumo": "Quem faltou por falta de energia no local de prova ou por doença infectocontagiosa deve fazer o pedido na Página do Participante, um para cada domingo. As provas serão em 15 e 16 de dezembro; a abstenção nesta edição foi de 32% no primeiro dia e 36% no segundo, e o resultado sai em 18 de janeiro.",
+     "quando": "Ontem",
+     "titulo": "Terminou na sexta o prazo para pedir a reaplicação do Enem; provas serão em 15 e 16 de dezembro",
+     "resumo": "O Inep recebeu até as 23h59 de sexta (20) os pedidos de quem faltou por problemas de logística, doença ou outras situações previstas no edital. O resultado das solicitações será divulgado pelo instituto na Página do Participante.",
      "foto": {
       "src": "https://imagens.ebc.com.br/Q7BgPCRhxf_HiZDekpjkd2-JBUA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/_int4931.jpg?itok=upOndC78",
       "credito": "Paulo Pinto/Agência Brasil (arquivo)"
@@ -924,26 +882,34 @@
      ]
     },
     {
-     "kicker": "Minas Gerais",
-     "quando": "Ontem",
-     "titulo": "Fim da antiguidade como critério para escolha de turmas na rede estadual de MG vira debate na Assembleia",
-     "resumo": "A resolução da Secretaria de Educação, publicada em 11 de novembro, vale para 2027 e foi criticada pelo sindicato dos professores. O sistema de designações será reaberto de 30 de novembro a 9 de dezembro para correção de dados.",
+     "kicker": "Concurso",
+     "quando": "19/11",
+     "titulo": "São Paulo publica edital de concurso com 5 mil vagas para professores da rede estadual",
+     "resumo": "O edital da Secretaria da Educação foi publicado na quinta (19) e prevê salários de até cerca de R$ 5,5 mil. As vagas são efetivas e voltadas a professores de ensino fundamental e médio.",
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/2026/11/19/fim-do-criterio-de-antiguidade-para-escolha-de-turmas-na-educacao-de-mg-vira-pauta-na-assembleia"
+       "n": "Agência SP",
+       "u": "https://www.agenciasp.sp.gov.br/educacao/concurso-para-professores-educacao-publica-edital-para-5-000-vagas-nesta-quinta-feira-19/"
+      },
+      {
+       "n": "Focus Concursos",
+       "u": "https://noticias.focusconcursos.com.br/noticias/concurso-see-sp-edital-publicado-com-5-mil-vagas-e-salarios-de-ate-r-55-mil"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/sp/sao-paulo/concursos/noticia/2026/11/19/concurso-seduc-sp-abre-5-mil-vagas-efetivas-professor"
       }
      ]
     },
     {
-     "kicker": "Concurso",
+     "kicker": "Agenda",
      "quando": "Ontem",
-     "titulo": "São Paulo anuncia para hoje edital de concurso com 5 mil vagas para professores da rede estadual",
-     "resumo": "A seleção, organizada pela FGV, prevê 3 mil vagas de 40 horas e 2 mil de 25 horas, com salário inicial de referência de R$ 5.565 na jornada maior. Datas de inscrição e provas dependem da publicação do edital.",
+     "titulo": "Semana Nacional de Ciência e Tecnologia leva atividades para estudantes na Esplanada a partir de segunda",
+     "resumo": "O evento ocupa a Esplanada dos Ministérios, em Brasília, de 23 a 29 de novembro, com exposições e oficinas abertas a escolas e ao público. A programação é organizada pelo Ministério da Ciência, Tecnologia e Inovação.",
      "fontes": [
       {
-       "n": "Nova Concursos",
-       "u": "https://novaconcursos.com.br/portal/noticias/concurso-see-sp-edital-publicacao-19-11"
+       "n": "Correio Braziliense",
+       "u": "https://correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
       }
      ]
     }
@@ -957,7 +923,7 @@
    "itens": [
     {
      "kicker": "Astronomia",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Astrônomos procuravam um planeta a 28 anos-luz e acharam uma anã branca escondida num sistema triplo",
      "resumo": "A estrela oculta foi detectada pela oscilação da anã vermelha que ela acompanha e confirmada em imagens do telescópio Gemini North; o sistema, chamado Welopōʻai, tem duas anãs brancas e é o mais próximo desse tipo conhecido. A anã branca interna tem cerca de 62% da massa do Sol e completa a órbita em quase dez anos.",
      "fontes": [
@@ -972,8 +938,20 @@
      ]
     },
     {
+     "kicker": "Biologia",
+     "quando": "Ontem",
+     "titulo": "Estudo em camundongos liga testosterona à preferência de machos e fêmeas por ambientes mais quentes",
+     "resumo": "Pesquisadores do King's College London observaram que fêmeas preferem superfícies perto de 36 °C, e machos, em torno de 32 °C. Ao alterar os níveis do hormônio, o comportamento se inverteu; os autores ressaltam que o resultado vale para roedores e não se aplica diretamente a humanos.",
+     "fontes": [
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/tendencias/2026/11/20/pesquisadores-identificam-em-camundongos-o-mecanismo-biologico-que-explica-por-que-machos-e-femeas-escolhem-locais-aquecidos-de-maneiras-diferentes/"
+      }
+     ]
+    },
+    {
      "kicker": "Inteligência artificial",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Fabricantes de chips lideram as perdas no segundo dia de venda de ações de IA; AMD cai cerca de 11% e Micron mais de 12%",
      "resumo": "Investidores questionam o valor das empresas do setor e o ritmo dos gastos com data centers, um dia após a estreia recorde da Anthropic, dona do Claude. Na Nvidia, pesa ainda o relato de que a SEC examina sua contabilidade.",
      "destaque": false,
@@ -990,37 +968,13 @@
     },
     {
      "kicker": "Pesquisa",
-     "quando": "Ontem",
+     "quando": "19/11",
      "titulo": "Anthropic diz que o Claude ajudou cientistas a reconstruir em 3D uma estrutura molecular inédita",
      "resumo": "Segundo a empresa, a busca analisou cerca de 15 bilhões de proteínas e encontrou estruturas semelhantes às “vaults”, partículas descritas em 1986 cuja função ainda é desconhecida; quatro tiveram o formato confirmado por microscopia. O estudo é preliminar, não passou por revisão de pares e a estrutura foi produzida em bactérias.",
      "fontes": [
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/claude-ajudou-a-revelar-estrutura-molecular-inedita-entenda/"
-      }
-     ]
-    },
-    {
-     "kicker": "Divulgação científica",
-     "quando": "Ontem",
-     "titulo": "Semana Nacional de Ciência e Tecnologia ocupa a Esplanada, em Brasília, de 23 a 29 de novembro",
-     "resumo": "O evento gratuito terá como tema “Ciência Delas” e reunirá robôs, drones, um simulador sobre os rios voadores da Amazônia e projeções do experimento AmazonFace. A abertura oficial está marcada para segunda (23).",
-     "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Espaço",
-     "quando": "Ontem",
-     "titulo": "Força Espacial dos EUA estuda rede de até cinco satélites militares entre a Terra e a Lua até 2029",
-     "resumo": "O projeto, chamado Cislunar Space System, está em fase preliminar e começou com um pedido de informações a empresas aeroespaciais. O governo não detalhou as funções dos equipamentos.",
-     "fontes": [
-      {
-       "n": "Gizmodo Brasil",
-       "u": "https://gizmodo.com.br/os-estados-unidos-querem-instalar-satelites-militares-entre-a-terra-e-a-lua-ate-2029-75987"
       }
      ]
     }
@@ -1035,34 +989,42 @@
     {
      "kicker": "Música",
      "quando": "Hoje",
-     "titulo": "Seu Jorge e Jota.Pê lideram shows gratuitos do Festival da Consciência Negra no centro de São Paulo",
-     "resumo": "São dez palcos espalhados pelo centro, com programação a partir das 11h; o principal fica na Avenida São João. A Feira Preta reúne cerca de cem barracas no Viaduto do Chá, e o Museu das Favelas recebe debates gratuitos.",
+     "titulo": "Festival da Consciência Negra segue no fim de semana em São Paulo, com mais de 300 atrações gratuitas",
+     "resumo": "A programação da prefeitura reúne shows de Seu Jorge, Jota.Pê, Tasha e Tracie e Dudu Nobre, além de oficinas e feiras no centro da cidade. A agenda completa está no site oficial do festival.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/sp-empreendedorismo-marcha-e-musica-marcam-dia-da-consciencia-negra"
+       "n": "Prefeitura de São Paulo",
+       "u": "https://consciencianegra.prefeitura.sp.gov.br/"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/pop/consciencia-negra-veja-7-programas-gratuitos-para-aproveitar-o-feriado-em-sao-paulo/"
+       "n": "Espaço do Povo",
+       "u": "https://espacodopovo.com.br/consciencia-negra-tera-seu-jorge-dudu-nobre-e-mais-de-300-atracoes-gratuitas-em-sp/"
+      },
+      {
+       "n": "TMC",
+       "u": "https://tmc.com.br/entretenimento/festival-consciencia-negra-sp-seu-jorge-jota-pe-shows-horarios-datas/"
       }
      ]
     },
     {
      "kicker": "Luto",
-     "quando": "Hoje",
-     "titulo": "Influenciador Gabriel Félix morre aos 29 anos; causa não foi divulgada",
-     "resumo": "A morte, na noite de quinta (19), foi anunciada nesta sexta pela companheira, a influenciadora Isabelle Abreu. Ele tinha mais de 1 milhão de seguidores no Instagram e deixa uma filha.",
+     "quando": "Ontem",
+     "titulo": "Influenciador Gabriel Félix morre aos 29 anos depois de passar mal durante partida de futebol",
+     "resumo": "A morte foi confirmada na sexta pela noiva, a influenciadora Isabelle Abreu, conhecida como Xsbel, com quem ele tinha uma filha de 3 anos. Ele chegou a ser socorrido, mas não resistiu; a causa médica não foi divulgada oficialmente, e a família pediu privacidade.",
      "fontes": [
       {
-       "n": "Jornal Opção",
-       "u": "https://jornalopcao.com.br/luto/influenciador-gabriel-felix-morre-aos-29-anos-898538"
+       "n": "Terra / Estadão Conteúdo",
+       "u": "https://www.terra.com.br/diversao/gente/gabriel-felix-morre-aos-29-anos-causa-da-morte-de-noivo-da-influenciadora-xsbel-e-confirmada,3be02990de5e5cb7da8a4d428c358e5e6dr8sitn.html"
+      },
+      {
+       "n": "Folha Vitória",
+       "u": "https://www.folhavitoria.com.br/cultura/famosos/gabriel-felix-morreu-apos-passar-mal-no-futebol-veja-o-que-se-sabe/"
       }
      ]
     },
     {
      "kicker": "Luto",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Fisiculturista maranhense Itemberg Nunes morre aos 31 anos",
      "resumo": "A morte foi anunciada nesta sexta pela marca de suplementos que o patrocinava; a causa não foi divulgada. Profissional da IFBB Pro League desde 2021, ele competia na categoria Men's Physique e deixa um filho.",
      "fontes": [
@@ -1078,7 +1040,7 @@
     },
     {
      "kicker": "Morte",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Lance Broadway, ator de “Invasão à Casa Branca” e ex-jogador de beisebol, morre aos 43 anos",
      "resumo": "Ele foi encontrado sem vida na escadaria de um prédio em Dallas, no Texas, segundo o instituto médico-legal do condado, que não divulgou a causa. Antes da carreira na TV, com papéis em “Agents of S.H.I.E.L.D.” e “Lucifer”, jogou pelo Chicago White Sox e pelo New York Mets.",
      "fontes": [
@@ -1094,7 +1056,7 @@
     },
     {
      "kicker": "Morte",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Larry Poindexter, ator de “SWAT” e “Sobrenatural”, morre aos 66 anos após ser atropelado em Los Angeles",
      "resumo": "Segundo o Deadline, ele foi atingido por um carro em 11 de novembro, perto de casa, em Studio City, e estava internado com costelas quebradas. Teve mais de 170 trabalhos no cinema e na TV, incluindo “17 Outra Vez” e participações em “Friends” e “CSI”.",
      "fontes": [
