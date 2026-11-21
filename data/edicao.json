@@ -1,10 +1,10 @@
 {
  "data": "Sábado, 21 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "21/11/2026 · 12h40 (Brasília)",
- "proxima": "Próxima atualização: 19h",
+ "edicao": "Edição da noite",
+ "atualizado": "21/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
  "mercado_hora": "Cotações de 07h09 (bitcoin) e de fechamento de sexta (20) em Nova York; B3 reabre na segunda (23)",
- "fontes": 71,
+ "fontes": 75,
  "mercado": [
   {
    "nome": "Bitcoin · 07h09 de sábado",
@@ -13,9 +13,9 @@
    "dir": "down"
   },
   {
-   "nome": "Nvidia · fechamento de sexta (20)",
-   "valor": "US$ 125,53",
-   "var": "-14,01%",
+   "nome": "S&P 500 · fechamento de sexta (20)",
+   "valor": "6.910 pts",
+   "var": "-3,70%",
    "dir": "down"
   },
   {
@@ -39,19 +39,14 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 21/11 · 16h30",
-   "txt": "Palmeiras x Flamengo: empate dá o título brasileiro ao Flamengo",
-   "cat": "esporte"
-  },
-  {
    "hora": "Sáb 21/11 · 19h30",
    "txt": "Atlético-MG x Boca Juniors, final da Sul-Americana em Barranquilla",
    "cat": "esporte"
   },
   {
-   "hora": "Sáb 21/11",
-   "txt": "COP31 retoma negociações em Antália com novo rascunho do texto final",
-   "cat": "mundo"
+   "hora": "Sáb 21/11 · 21h",
+   "txt": "Chapecoense x Cruzeiro fecha o sábado da 36ª rodada do Brasileirão",
+   "cat": "esporte"
   },
   {
    "hora": "Dom 22/11 · 1h",
@@ -60,12 +55,17 @@
   },
   {
    "hora": "Seg 23/11",
-   "txt": "B3 reabre após a queda em Nova York; Câmara vota o ajuste fiscal à noite",
+   "txt": "B3 reabre após a semana de queda em Nova York; Câmara deve analisar o ajuste fiscal",
    "cat": "economia"
   },
   {
+   "hora": "Sáb 28/11 · 17h",
+   "txt": "Palmeiras x Estudiantes, final da Libertadores em Montevidéu",
+   "cat": "esporte"
+  },
+  {
    "hora": "Até seg 30/11",
-   "txt": "1ª Turma do STF julga recurso de Flávio Bolsonaro e denúncia contra Van Hattem",
+   "txt": "1ª Turma do STF julga recurso de Flávio Bolsonaro sobre passaportes",
    "cat": "politica"
   }
  ],
@@ -162,44 +162,45 @@
   }
  ],
  "manchete": {
-  "kicker": "Saúde de Bolsonaro",
-  "titulo": "Bolsonaro segue internado em Brasília com obstrução intestinal, e família fala em possível nova cirurgia",
-  "resumo": "O ex-presidente deu entrada no hospital DF Star na sexta (20) com dor e distensão abdominal, e exames apontaram obstrução parcial do intestino delgado. Carlos Bolsonaro relatou piora na madrugada de sábado; o cardiologista da equipe descreve o quadro como estável.",
-  "foto": {
-   "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
-   "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
-  },
-  "entenda": "Bolsonaro cumpre em casa, em Brasília, a pena de 27 anos e três meses a que foi condenado no processo da trama golpista; a prisão domiciliar humanitária foi concedida em março, depois de internações por problemas de saúde. Na sexta, com fortes dores abdominais, ele foi levado ao hospital por recomendação do médico particular, com escolta da Polícia Militar. Segundo a reportagem do G1, a obstrução está ligada a aderências na parede abdominal, sequelas das cirurgias feitas desde o atentado a faca de 2018. Na manhã de sábado, Carlos Bolsonaro disse nas redes que os médicos recolocaram a sonda nasogástrica e que uma nova operação, que seria a décima desde 2018, pode ser necessária se outras hipóteses forem descartadas. O cardiologista Brasil Caiado afirmou que o paciente está consciente e recebe tratamento com medicamentos. Até o fim da manhã, o hospital não havia divulgado novo boletim.",
+  "kicker": "Brasileirão",
+  "titulo": "Flamengo empata com o Palmeiras em São Paulo e é campeão brasileiro pelo segundo ano seguido",
+  "resumo": "Jhon Arias abriu o placar para o Palmeiras no primeiro tempo, e Samuel Lino empatou aos 30 minutos da etapa final no Nubank Parque. Com 80 pontos, seis à frente do vice, o Flamengo garantiu o título com duas rodadas de antecedência.",
+  "entenda": "O Flamengo chegou à 36ª rodada precisando só de um empate no confronto direto com o vice-líder. O time comandado por Leonardo Jardim termina a rodada com 24 vitórias, contra 21 do Palmeiras, o que impede a ultrapassagem mesmo em caso de igualdade de pontos. A contagem de títulos varia: a Agência Brasil registra nove conquistas oficiais pela CBF (1980, 1982, 1983, 1992, 2009, 2019, 2020, 2025 e 2026), enquanto o clube e outros veículos, como ESPN e Gazeta Esportiva, somam também a Copa União de 1987, que a CBF atribui ao Sport, e falam no décimo título. O Palmeiras, de Abel Ferreira, garante o vice e agora volta a atenção para a final da Libertadores, no dia 28, contra o Estudiantes.",
   "fatos": [
-   "Boletim de sexta: internação para exames e investigação de dor e distensão abdominal",
-   "Sonda nasogástrica retirou quase 1 litro de resíduos na madrugada, segundo Carlos Bolsonaro",
-   "Defesa pediu a Alexandre de Moraes, com urgência, visitas diárias dos filhos no hospital"
+   "Placar: Palmeiras 1 x 1 Flamengo, gols de Jhon Arias (11' do 1º tempo) e Samuel Lino (30' do 2º tempo)",
+   "Flamengo tem 80 pontos; Palmeiras, 74, com duas rodadas a jogar",
+   "Próximo jogo do Flamengo: Coritiba x Flamengo, domingo (29), no Couto Pereira"
   ],
   "fontes": [
    {
     "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
-    "d": "internação e boletim"
+    "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/flamengo-empata-com-palmeiras-e-e-campeao-brasileiro-de-2026",
+    "d": "jogo e títulos oficiais"
    },
    {
-    "n": "Terra",
-    "u": "https://www.terra.com.br/noticias/brasil/bolsonaro-tem-piora-no-estado-de-saude-e-pode-passar-por-cirurgia-diz-carlos,a41074cb77e68d594436991ea451d4149pcnifve.html",
-    "d": "relato de piora"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-empata-com-o-palmeiras-e-e-campeao-brasileiro-pelo-2o-ano-seguido/",
+    "d": "tabela e campanha"
    },
    {
-    "n": "Imirante / G1",
-    "u": "https://imirante.com/noticias/brasil/2026/11/21/ipolitica-defesa-bolsonaro-pede-moraes-visitas-diarias-filhos",
-    "d": "pedido de visitas"
+    "n": "ESPN",
+    "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17544359/flamengo-empata-palmeiras-e-campeao-brasileiro-no-nubank-parque",
+    "d": "critério de desempate"
    },
    {
-    "n": "Exame",
-    "u": "https://exame.com/brasil/bolsonaro-pode-passar-por-nova-cirurgia-apos-piora-no-estado-de-saude-diz-carlos/",
-    "d": "possível cirurgia"
+    "n": "Gazeta Esportiva",
+    "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/",
+    "d": "visão do Palmeiras"
    },
    {
-    "n": "O Antagonista",
-    "u": "https://oantagonista.com.br/brasil/carlos-relata-piora-na-saude-de-bolsonaro-e-preve-nova-cirurgia/",
-    "d": "estado de saúde"
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/esportes/flamengo-empata-com-palmeiras-e-conquista-brasileirao-de-forma-antecipada",
+    "d": "título antecipado"
+   },
+   {
+    "n": "Itatiaia",
+    "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-carioca/flamengo/flamengo-e-campeao-brasileiro-pela-decima-vez-na-historia-veja-ranking/",
+    "d": "ranking de títulos"
    }
   ]
  },
@@ -208,21 +209,67 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Bolsonaro internado, caso Master e STF",
+   "nota": "Bolsonaro na UTI, ajuste fiscal e STF",
    "itens": [
     {
-     "kicker": "Bolsonaro",
+     "kicker": "Saúde de Bolsonaro",
      "quando": "Hoje",
-     "titulo": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias dos filhos durante a internação",
-     "resumo": "O pedido, feito com urgência, inclui Carlos, Jair Renan e a filha mais nova do ex-presidente e argumenta que a internação é um fato novo em relação às regras da prisão domiciliar. Até a manhã de sábado, Moraes não havia decidido.",
+     "titulo": "Bolsonaro vai para a UTI com obstrução intestinal; boletim diz que ele está estável e sem previsão de alta",
+     "resumo": "Internado desde sexta (20) no DF Star, em Brasília, o ex-presidente recebe hidratação e nutrição por sonda e está consciente, segundo o boletim do início da tarde. Os médicos dizem que não há cirurgia marcada, mas não descartam uma se o quadro não melhorar; Alexandre de Moraes autorizou visitas de Carlos, Jair Renan, Laura e da enteada Letícia, sem celulares no quarto.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
-       "n": "Imirante / G1",
-       "u": "https://imirante.com/noticias/brasil/2026/11/21/ipolitica-defesa-bolsonaro-pede-moraes-visitas-diarias-filhos"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/sem-previsao-de-alta-bolsonaro-esta-na-uti-e-e-alimentado-por-sonda"
       },
       {
-       "n": "Rede Onda Digital",
-       "u": "https://redeondadigital.com.br/politica/bolsonaro-pede-a-moraes-visita-diaria-dos-filhos-durante-internacao"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/bolsonaro-esta-internado-em-uti-com-abdomen-agudo-obstrutivo-diz-boletim/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/bolsonaro-uti-quadro-estavel-boletim/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ex-presidente-jair-bolsonaro-esta-internado-em-uti-no-distrito-federal"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Hoje",
+     "titulo": "Em live com Janones, Lula defende o ajuste fiscal e rebate críticas da esquerda e do mercado",
+     "resumo": "O presidente disse que o projeto não corta recursos de saúde, educação e salário mínimo, negou mudança na idade de aposentadoria e defendeu o ministro do Planejamento, Bruno Moretti. O texto, aprovado no Senado, prevê melhora de R$ 45 bilhões a R$ 56 bilhões nas contas de 2027 e deve ser analisado pela Câmara na próxima semana.",
+     "lados": [
+      {
+       "quem": "Governo",
+       "txt": "Lula afirma que o pacote atinge benefícios tributários de empresas, não os mais pobres, e diz que o mercado financeiro não vai ditar como governar."
+      },
+      {
+       "quem": "Críticos",
+       "txt": "Parlamentares do PT e do PSOL, como Lindbergh Farias e Glauber Braga, veem risco a políticas sociais; a oposição, com Rogério Marinho, diz que o texto transfere custos a estados e ao setor produtivo e propõe alternativa de R$ 75 bilhões."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Jovem Pan / Estadão Conteúdo",
+       "u": "https://jovempan.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/lula-reage-a-criticas-da-esquerda-ao-ajuste-fiscal-e-ataca-yuppies-da-faria-lima/"
+      },
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/11/7542094-lula-reune-exercito-em-live-com-janones-e-revela-bastidores-da-cop-31.html"
+      },
+      {
+       "n": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/video-nao-vou-tirar-um-centavo-dos-pobres-diz-lula-sobre-criticas-ao-ajuste-fiscal/"
       }
      ]
     },
@@ -299,32 +346,6 @@
      ]
     },
     {
-     "kicker": "Ajuste fiscal",
-     "quando": "Ontem",
-     "titulo": "Ajuste fiscal aprovado no Senado chega à Câmara, e Hugo Motta sinaliza votação na segunda (23)",
-     "resumo": "O relator, Mauro Benevides Filho (União-CE), apresentou parecer sem mudanças de mérito para que o texto não volte ao Senado; a votação depende de urgência e de quórum de 257 deputados. O projeto reduz de 2,5% para 2% o limite de crescimento das despesas e amplia o corte de benefícios fiscais, com efeito estimado de R$ 45 bilhões a R$ 50 bilhões em 2027.",
-     "lados": [
-      {
-       "quem": "Governo e relator",
-       "txt": "Defendem aprovar o texto do Senado sem alterações para garantir o ajuste já no Orçamento de 2027."
-      },
-      {
-       "quem": "Críticos",
-       "txt": "A oposição, com Rogério Marinho (PL-RN), compara a mudança na Lei Kandir a uma pedalada; parte do PT critica a nova base do piso da saúde, e agentes de mercado consideram o valor insuficiente."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "CNN Brasil / ac24horas",
-       "u": "https://ac24horas.com/2026/11/20/ajuste-fiscal-chega-a-camara-sob-pressao-apos-resistencias-no-senado/"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/18/senado-vota-5-destaques-ajuste-fiscal-camara-espera"
-      }
-     ]
-    },
-    {
      "kicker": "STF",
      "quando": "Ontem",
      "titulo": "Moraes vota para manter retidos os passaportes de Flávio Bolsonaro; 1ª Turma decide até 30 de novembro",
@@ -376,7 +397,7 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Bitcoin em queda e B3 fechada até segunda",
+   "nota": "Bolsas em correção e bitcoin em queda",
    "itens": [
     {
      "kicker": "Criptomoedas",
@@ -401,24 +422,20 @@
     {
      "kicker": "Nvidia",
      "quando": "Ontem",
-     "titulo": "Nvidia cai 14% após relato de investigação da SEC e tem a pior sequência de baixas desde 2008",
-     "resumo": "A ação fechou a US$ 125,53 na sexta, sétima semana seguida de queda, com recuo acumulado de 46% e perda de cerca de US$ 2,6 trilhões em valor de mercado. Segundo a Reuters, a SEC examina práticas contábeis da empresa; Nvidia e SEC não comentaram, e uma investigação não significa que haja irregularidade.",
+     "titulo": "Nvidia cai 14% após relato de investigação da SEC, e S&P 500 e Dow Jones entram em correção",
+     "resumo": "Na sexta, o S&P 500 recuou 3,70% e o Nasdaq 5,28%; na semana, as perdas foram de 8,6% e 10%, e o índice de volatilidade VIX chegou a 40 pontos, o maior desde abril de 2025. A Nvidia fechou a US$ 125,53, na sétima semana seguida de baixa, depois de a Reuters relatar que a SEC examina suas práticas contábeis; a Anthropic caiu 8,5% um dia após a estreia na bolsa.",
      "fontes": [
+      {
+       "n": "Diário do Grande ABC / Estadão Conteúdo",
+       "u": "https://www.dgabc.com.br/Noticia/4369948/bolsas-de-ny-fecham-em-forte-queda-com-tombo-de-anthropic-e-nvidia"
+      },
+      {
+       "n": "Forbes Brasil",
+       "u": "https://forbes.com.br/forbes-money/2026/11/sec-investiga-contabilidade-nvidia/"
+      },
       {
        "n": "IstoÉ Dinheiro",
        "u": "https://istoedinheiro.com.br/acoes-nvidia-queda-investigacao-sec"
-      },
-      {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/investimentos/acoes/nvidia-cai-14-com-investigacao-da-sec-e-completa-setima-queda-semanal"
-      },
-      {
-       "n": "Seu Dinheiro",
-       "u": "https://www.seudinheiro.com/2026/internacional/nvidia-cai-14-e-vive-a-pior-sequencia-desde-2008-a-ex-queridinha-de-wall-street-vai-ter-que-desatar-mais-um-no/"
-      },
-      {
-       "n": "Decrypt",
-       "u": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
       }
      ]
     },
@@ -461,30 +478,6 @@
        "u": "https://www.tribunadosertao.com.br/geral/2026/11/21/1026851-eua-consomem-estoques-de-misseis-e-relatorio-alerta-para-risco-em-eventual-guerra-com-china"
       }
      ]
-    },
-    {
-     "kicker": "Bolsas",
-     "quando": "Ontem",
-     "titulo": "Venda de ações de IA atravessa Ásia e Europa: Taiwan cai 6,2%, Japão 5,1% e Frankfurt fecha em baixa de 2,45%",
-     "resumo": "Na Europa, Paris recuou 1,89%, Milão 2,48% e Londres 1,02%, com a holandesa ASML, fornecedora de máquinas para chips, em queda de 8,3%. Pesa o temor sobre o endividamento das empresas de IA; o ouro caiu cerca de 2,7%, com o dólar perto da máxima em 19 meses.",
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/20/asia-e-europa-caem-com-medo-da-divida-bilionaria-da-ia"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/20/stocks-gold-and-silver-fall-after-blockbuster-anthropic-ipo"
-      },
-      {
-       "n": "Euronews Brasil",
-       "u": "https://pt.euronews.com/2026/11/20/bolsas-asiaticas-afundam-com-venda-de-acoes-de-ia-apesar-de-estreia-forte-da-anthropic"
-      },
-      {
-       "n": "Seu Dinheiro",
-       "u": "https://www.seudinheiro.com/2026/bolsa-dolar/onda-de-caos-da-ia-derruba-bolsas-no-exterior-anthropic-despenca-13-e-wall-entra-em-correcao-ccgg/"
-      }
-     ]
     }
    ]
   },
@@ -492,33 +485,37 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporais no RS, alertas e Consciência Negra",
+   "nota": "Temporal no RS, alertas e Consciência Negra",
    "itens": [
     {
      "kicker": "Rio Grande do Sul",
      "quando": "Hoje",
-     "titulo": "Temporais afetam 19,6 mil pessoas em 33 cidades do RS; ministro da Integração visita Tupanciretã",
-     "resumo": "Segundo a Defesa Civil gaúcha, Tupanciretã concentra mais de 15 mil afetados, cerca de 7 mil casas destelhadas, 20 escolas danificadas e os três mortos, entre eles um ex-vereador. O ministro Waldez Góes e o secretário nacional de Defesa Civil, Wolnei Wolff, foram à cidade, que foi orientada a decretar situação de emergência para receber recursos federais.",
+     "titulo": "Mortes no temporal de Tupanciretã sobem para quatro; quase 20 mil pessoas foram afetadas no RS",
+     "resumo": "Um idoso transferido para o hospital universitário de Santa Maria morreu na madrugada de sábado, segundo o balanço estadual, que soma 19.663 afetados em 36 municípios, 50 desabrigados e 74 desalojados. O governo gaúcho liberou R$ 2 milhões emergenciais e montou gabinete de crise na cidade, onde milhares de casas ficaram sem telhado; a Defesa Civil investiga se houve tornado ou microexplosão.",
      "foto": {
       "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
       "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-no-rio-grande-do-sul-afeta-196-mil-pessoas-em-33-cidades"
-      },
-      {
-       "n": "Jornal O Sul",
-       "u": "https://www.osul.com.br/ministro-da-integracao-visita-tupancireta-para-avaliar-danos-causados-pelos-temporais-2/"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/brasil/ministro-de-lula-vai-a-rio-grande-do-sul-apos-temporal"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/brasil/2026/11/21/sobe-para-quatro-o-numero-de-mortos-apos-temporal-em-tupancireta-rs"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-apura-microexplosao-apos-estragos-em-cidade-do-rs/"
+       "u": "https://www.cnnbrasil.com.br/nacional/sul/rs/cidade-mais-assolada-que-ja-vi-diz-bombeiro-sobre-tupancireta-no-rs/"
+      },
+      {
+       "n": "Canal Rural",
+       "u": "https://www.canalrural.com.br/nacional/rio-grande-do-sul/tupancireta-registra-tres-mortes-apos-temporal-governo-estadual-destina-r-2-milhoes-a-cidade/"
+      },
+      {
+       "n": "Jornal do Comércio",
+       "u": "https://www.jornaldocomercio.com/geral/2026/11/1271272-sobe-para-quatro-o-numero-de-mortos-devido-ao-temporal-em-tupancireta.html"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/rs-ex-vereador-esta-entre-vitimas-da-tempestade-em-tupancireta"
       }
      ],
      "destaque": false
@@ -526,12 +523,12 @@
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Inmet emite alerta amarelo de tempestade para 18 estados e o DF neste sábado",
-     "resumo": "O aviso vale das 0h às 23h59 e prevê chuva de 20 a 30 mm por hora, ventos de 40 a 60 km/h e possibilidade de granizo. Estão na lista estados do Sul, do Sudeste, do Centro-Oeste e parte do Norte e do Nordeste. A orientação é não se abrigar sob árvores e acionar a Defesa Civil pelo 199 em caso de emergência.",
+     "titulo": "RS tem novo alerta de tempestade com granizo e rajadas acima de 80 km/h no norte e no noroeste",
+     "resumo": "O risco é maior à tarde e à noite deste sábado, enquanto o sul gaúcho deve ter chuva fraca a moderada. O Inmet mantém aviso amarelo de tempestade para 18 estados e o Distrito Federal até as 23h59.",
      "fontes": [
       {
        "n": "ND Mais",
-       "u": "https://ndmais.com.br/tempo/inmet-alerta-ocorrencia-tempestades-19-estados-apos-feriado/"
+       "u": "https://ndmais.com.br/tempo/alerta-temporal-rs-granizo-ventos-80-km-h/"
       },
       {
        "n": "Mix Vale",
@@ -577,25 +574,25 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "COP31 prorrogada, Ucrânia e Irã",
+   "nota": "COP31 na prorrogação, Ucrânia e Irã",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "COP31 passa do prazo sem acordo; União Europeia ameaça bloquear texto que não cite combustíveis fósseis",
-     "resumo": "As negociações em Antália foram retomadas na manhã deste sábado, à espera de um terceiro rascunho, depois que a plenária de sexta aprovou só decisões de procedimento. Um grupo de 23 países liderado por França e Panamá cobra a volta da menção à transição para longe dos fósseis, e o Panamá enviou carta com oito exigências e ameaça de objeção formal; o Brasil também perdeu o parágrafo sobre os mapas do caminho.",
+     "titulo": "COP31 entra na prorrogação sem acordo; Panamá ameaça bloquear texto que não cite os combustíveis fósseis",
+     "resumo": "Cerca de 200 países seguiam negociando em Antália neste sábado, e vários ministros já deixaram a Turquia. A minuta de quinta retirou a menção ao abandono de petróleo, gás e carvão e a meta de US$ 120 bilhões para adaptação; o comissário europeu Wopke Hoekstra disse preferir nenhum acordo a um acordo ruim, enquanto Arábia Saudita e outros produtores rejeitam citar os fósseis.",
      "fontes": [
       {
-       "n": "Notícias ao Minuto / Lusa",
-       "u": "https://www.noticiasaominuto.com/mundo/3087789/cop31-impasse-mantem-se-na-sessao-de-encerramento-e-negociacoes-vao-prosseguir-atualizada"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/cop31-passa-do-prazo-e-termina-sem-acordo-sobre-combustiveis-fosseis"
+      },
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/11/21/cop31-avanca-para-prorrogacao-sem-consenso-sobre-combustiveis-fosseis/"
       },
       {
        "n": "Exame",
        "u": "https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/planeta/meio-ambiente/cop31-prorroga-negociacoes-em-meio-a-impasses-por-acordo-final,9d685fbcd8d892196d252376a574c206pxrt6zqx.html"
       },
       {
        "n": "Agência Brasil",
@@ -609,6 +606,10 @@
      "titulo": "Ataque russo a Kryvyi Rih, cidade natal de Zelensky, mata um menino de 7 anos e uma mulher e fere 60",
      "resumo": "Segundo autoridades locais, mísseis atingiram cerca de 25 prédios residenciais, um hospital, escolas e uma instalação industrial; seis crianças estão entre os feridos. Em Kharkiv, um drone russo feriu 11 pessoas, e autoridades russas relataram três feridos por drones ucranianos em Bryansk e Belgorod.",
      "fontes": [
+      {
+       "n": "Diário do Grande ABC / Estadão Conteúdo",
+       "u": "https://www.dgabc.com.br/Noticia/4369997/ataque-com-missil-a-cidade-natal-de-zelensky-mata-2-e-deixa-dezenas-de-feridos"
+      },
       {
        "n": "Tribuna do Sertão / AP",
        "u": "https://www.tribunadosertao.com.br/geral/2026/11/21/1026934-ataque-com-missil-a-cidade-natal-de-zelensky-mata-2-e-deixa-dezenas-de-feridos"
@@ -628,22 +629,22 @@
      ]
     },
     {
-     "kicker": "Estados Unidos",
+     "kicker": "Irã",
      "quando": "Hoje",
-     "titulo": "Trump diz que Putin quer a paz e acusa o Irã de enganar nas negociações; Teerã diz ter derrubado drone dos EUA",
-     "resumo": "Em entrevista na Casa Branca, Trump defendeu suas relações com Putin e Xi Jinping e afirmou que o Irã ainda não apresentou condições aceitáveis para um acordo. A agência oficial iraniana IRNA informou que a Guarda Revolucionária abateu um drone MQ-9 americano sobre o estreito de Ormuz; os EUA não confirmaram. O chanceler Abbas Araghchi disse que Teerã busca um acordo.",
+     "titulo": "Trump diz buscar acordo permanente que impeça o Irã de ter arma nuclear; Teerã condiciona reabertura de Ormuz",
+     "resumo": "Em entrevista à Fox News, o presidente americano disse negociar com um novo grupo de lideranças iranianas, com mediação do Catar e do Paquistão. O chanceler Abbas Araghchi afirmou na sexta que o Irã pode reabrir o Estreito de Ormuz em 48 horas se os EUA cumprirem antes suas exigências, mas descartou enviar ao exterior o urânio enriquecido a 60%.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/21/donald-trump-defende-relacoes-com-putin-e-acusa-irao-de-enganar-nas-negociacoes"
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/mundo/2026/11/21/trump-diz-buscar-acordo-permanente-que-impeca-o-ira-de-obter-arma-nuclear/"
       },
       {
-       "n": "Demócrata",
-       "u": "https://democrata.es/pt/internacional/o-ira-derruba-um-drone-militar-dos-eua-mq-9-no-estreito-de-ormuz"
+       "n": "Vero Notícias / CNN",
+       "u": "https://veronoticias.com/mundo/representantes-dos-eua-e-do-catar-discutem-acordo-para-encerrar-guerra-com-ira/"
       },
       {
-       "n": "Observador",
-       "u": "https://observador.pt/liveblogs/ataque-noturno-da-russia-faz-dois-mortos-e-52-feridos-no-sul-da-ucrania/"
+       "n": "Diário da Guanabara",
+       "u": "https://dgrj.com.br/internacional/trump-defende-acordo-nuclear-permanente-com-o-ira"
       }
      ]
     },
@@ -701,25 +702,21 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Decisão do Brasileirão e final da Sul-Americana no sábado",
+   "nota": "Flamengo campeão e final da Sul-Americana",
    "itens": [
     {
-     "kicker": "Brasileirão",
+     "kicker": "Libertadores",
      "quando": "Hoje",
-     "titulo": "Flamengo pode ser campeão brasileiro hoje, às 16h30, contra o Palmeiras no Nubank Parque",
-     "resumo": "Líder com seis pontos de vantagem e 13 jogos sem perder, o Flamengo fica com o título se empatar no Nubank Parque; o Palmeiras, que perdeu para o Cruzeiro na quarta, precisa vencer. O Flamengo não terá Léo Pereira e Pulgar, suspensos, nem De la Cruz, poupado do gramado sintético; no Palmeiras, Gustavo Gómez volta e Barboza cumpre suspensão.",
+     "titulo": "Vice garantido no Brasileirão, Palmeiras foca na final da Libertadores contra o Estudiantes, no dia 28",
+     "resumo": "A decisão, em jogo único, será no Estádio Centenário, em Montevidéu, às 17h de sábado (28). Antes, o time de Abel Ferreira visita a Chapecoense na terça (24), pela 37ª rodada.",
      "fontes": [
       {
-       "n": "Campo Grande News",
-       "u": "https://www.campograndenews.com.br/esportes/flamengo-pode-conquistar-titulo-brasileiro-hoje-diante-do-palmeiras"
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4366193/palmeiras-x-estudiantes-conmebol-define-horario-da-final-da-libertadores-veja-detalhes"
       },
       {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/palmeiras-x-flamengo-fazem-final-do-brasileiro-escalacoes-e-onde-assistir"
-      },
-      {
-       "n": "Diário do Nordeste",
-       "u": "https://diariodonordeste.verdesmares.com.br/jogada/palmeiras-x-flamengo-confronto-direto-pode-definir-titulo-do-brasileirao-de-2026-1.3807400"
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/"
       }
      ]
     },
@@ -766,16 +763,16 @@
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Rodada de sábado tem ainda Bahia x Coritiba, às 17h30, e Chapecoense x Cruzeiro, às 21h",
-     "resumo": "Os três jogos abrem a 36ª rodada da Série A, a três rodadas do fim do campeonato. O Cruzeiro chega embalado pela vitória sobre o Palmeiras na quarta-feira.",
+     "titulo": "Cruzeiro visita a rebaixada Chapecoense às 21h em busca da sexta vitória seguida",
+     "resumo": "Já classificado para a fase de grupos da Libertadores, o time mineiro tenta consolidar o terceiro lugar, mas tem desfalques como Kaio Jorge e Gerson, suspensos. A Chapecoense, lanterna com 21 pontos, faz o segundo jogo com o técnico Vinícius Bergantin.",
      "fontes": [
       {
        "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/todos-os-jogos-deste-sabado-21-pelo-campeonato-brasileiro/"
+       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/desfalcado-cruzeiro-visita-rebaixada-chapecoense-por-6a-vitoria-seguida-no-brasileirao/"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/campeao-do-brasileirao-2026-pode-ser-definido-neste-fim-de-semana-veja-horarios-e-onde-assistir-aos-jogos-da-36-rodada,52d3ffc04dbd609a5457538bca0fd19eos4kfnef.html"
+       "n": "Flashscore",
+       "u": "https://www.flashscore.com.br/noticias/futebol-brasileirao-serie-a-chapecoense-x-cruzeiro-onde-assistir-times-e-tudo-sobre-jogo-do-brasileirao/Yw4oxznm/"
       }
      ]
     }
@@ -791,7 +788,7 @@
      "kicker": "SUS",
      "quando": "Hoje",
      "titulo": "Força Nacional do SUS segue para Tupanciretã para atender feridos do temporal",
-     "resumo": "O Ministério da Saúde enviou equipes da Força Nacional do SUS ao município gaúcho, onde o hospital municipal perdeu o telhado e pacientes foram transferidos para cidades vizinhas. O temporal deixou 60 feridos, segundo a Defesa Civil.",
+     "resumo": "Equipes do Ministério da Saúde reforçam o atendimento no município gaúcho, onde o hospital teve o telhado danificado e 11 pacientes foram levados a cidades vizinhas. O Samu montou base avançada de triagem em Santa Maria, e o temporal deixou dezenas de feridos.",
      "fontes": [
       {
        "n": "Rádio Progresso",
@@ -800,6 +797,10 @@
       {
        "n": "O Cafezinho",
        "u": "https://www.ocafezinho.com/2026-11-21/padilha-envia-forca-nacional-do-sus-para-atender-60-feridos-no-rs"
+      },
+      {
+       "n": "Canal Rural",
+       "u": "https://www.canalrural.com.br/nacional/rio-grande-do-sul/tupancireta-registra-tres-mortes-apos-temporal-governo-estadual-destina-r-2-milhoes-a-cidade/"
       }
      ]
     },
@@ -982,21 +983,13 @@
     },
     {
      "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "E.J. Carroll, ator de “The Deuce” e “Lei & Ordem”, morre aos 66 anos",
-     "resumo": "A morte, ocorrida na quinta (19), foi confirmada por um representante à revista Variety, sem divulgação da causa. Carroll interpretou Fat Mooney na série da HBO, teve papéis em “Blue Bloods” e “Boardwalk Empire” e dublou personagens do jogo GTA V.",
+     "quando": "Hoje",
+     "titulo": "Paolo Bulgari, que presidiu a joalheria italiana por quatro décadas, morre aos 89 anos em Roma",
+     "resumo": "Neto do fundador da marca, ele entrou na empresa em 1960 e a presidia desde 1984; em 2011, a família vendeu o controle ao grupo LVMH. A morte foi anunciada pela família neste sábado, e o funeral será na segunda (23), em Roma.",
      "fontes": [
       {
-       "n": "Diário da Manhã",
-       "u": "https://www.dm.com.br/entretenimento/ator-de-the-deuce-e-lei-ordem-morre-aos-66-anos/"
-      },
-      {
-       "n": "Bem Paraná",
-       "u": "https://www.bemparana.com.br/televisao-gente/morre-aos-66-anos-e-j-carroll-ator-de-series-iconicas-da-tv/"
-      },
-      {
-       "n": "Máquina Nerd",
-       "u": "https://www.maquinanerd.com.br/series-e-tv/e-j-carroll-ator-de-law-order-e-gta-v-morre-aos-66-anos"
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/21/italia-morre-paolo-bulgari-magnata-da-joalharia-aos-89-anos"
       }
      ]
     },
@@ -1019,6 +1012,26 @@
     {
      "kicker": "Morte",
      "quando": "Ontem",
+     "titulo": "E.J. Carroll, ator de “The Deuce” e “Lei & Ordem”, morre aos 66 anos",
+     "resumo": "A morte, ocorrida na quinta (19), foi confirmada por um representante à revista Variety, sem divulgação da causa. Carroll interpretou Fat Mooney na série da HBO, teve papéis em “Blue Bloods” e “Boardwalk Empire” e dublou personagens do jogo GTA V.",
+     "fontes": [
+      {
+       "n": "Diário da Manhã",
+       "u": "https://www.dm.com.br/entretenimento/ator-de-the-deuce-e-lei-ordem-morre-aos-66-anos/"
+      },
+      {
+       "n": "Bem Paraná",
+       "u": "https://www.bemparana.com.br/televisao-gente/morre-aos-66-anos-e-j-carroll-ator-de-series-iconicas-da-tv/"
+      },
+      {
+       "n": "Máquina Nerd",
+       "u": "https://www.maquinanerd.com.br/series-e-tv/e-j-carroll-ator-de-law-order-e-gta-v-morre-aos-66-anos"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Ontem",
      "titulo": "Lance Broadway, ator de “Invasão à Casa Branca” e ex-jogador de beisebol, morre aos 43 anos",
      "resumo": "Ele foi encontrado sem vida na escadaria de um prédio em Dallas, no Texas, segundo o instituto médico-legal do condado, que não divulgou a causa. Antes da carreira na TV, com papéis em “Agents of S.H.I.E.L.D.” e “Lucifer”, jogou pelo Chicago White Sox e pelo New York Mets.",
      "fontes": [
@@ -1029,18 +1042,6 @@
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/pop/celebridades/lance-broadway-busca-pelo-ator-na-internet-sobe-5000-apos-morte-anunciada/"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Larry Poindexter, ator de “SWAT” e “Sobrenatural”, morre aos 66 anos após ser atropelado em Los Angeles",
-     "resumo": "Segundo o Deadline, ele foi atingido por um carro em 11 de novembro, perto de casa, em Studio City, e estava internado com costelas quebradas. Teve mais de 170 trabalhos no cinema e na TV, incluindo “17 Outra Vez” e participações em “Friends” e “CSI”.",
-     "fontes": [
-      {
-       "n": "Área VIP",
-       "u": "https://www.areavip.com.br/famosos/morre-larry-poindexter-ator-de-swat-e-sobrenatural-aos-66-anos/"
       }
      ]
     }
