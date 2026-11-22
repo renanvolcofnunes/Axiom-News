@@ -1,34 +1,34 @@
 {
  "data": "Domingo, 22 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "22/11/2026 · 07h20 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 06h40 (bitcoin) e de fechamento de sexta (20) em Nova York; B3 reabre na segunda (23)",
- "fontes": 77,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "22/11/2026 · 12h50 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 12h30 (bitcoin) e de fechamento; B3 e bolsas de Nova York reabrem na segunda (23)",
+ "fontes": 76,
  "mercado": [
   {
-   "nome": "Bitcoin · 06h40 de domingo",
-   "valor": "US$ 60,1 mil",
-   "var": "+3,9% em 24h",
+   "nome": "Bitcoin · 12h30 de domingo",
+   "valor": "US$ 60,9 mil",
+   "var": "mínima de US$ 55,1 mil no sábado",
    "dir": "up"
   },
   {
-   "nome": "S&P 500 · fechamento de sexta (20)",
-   "valor": "6.910 pts",
-   "var": "-3,70%",
-   "dir": "down"
-  },
-  {
-   "nome": "Nasdaq · fechamento de sexta (20)",
-   "valor": "22.617 pts",
-   "var": "-5,28%",
-   "dir": "down"
+   "nome": "Dólar · fechamento de quinta (19)",
+   "valor": "R$ 5,935",
+   "var": "maior nível desde abril de 2025",
+   "dir": "up"
   },
   {
    "nome": "Ibovespa · fechamento de quinta (19)",
    "valor": "166.376 pts",
    "var": "B3 reabre na segunda (23)",
    "dir": ""
+  },
+  {
+   "nome": "S&P 500 · fechamento de sexta (20)",
+   "valor": "6.910 pts",
+   "var": "-3,70%",
+   "dir": "down"
   },
   {
    "nome": "Selic · Copom",
@@ -39,8 +39,8 @@
  ],
  "agenda": [
   {
-   "hora": "Dom 22/11 · 13h",
-   "txt": "1ª fase do vestibular Unesp 2027, com 65,7 mil inscritos; portões fecham às 12h30",
+   "hora": "Dom 22/11 · 19h",
+   "txt": "Vunesp divulga gabarito e caderno de questões da 1ª fase do vestibular Unesp 2027",
    "cat": "educacao"
   },
   {
@@ -54,8 +54,8 @@
    "cat": "economia"
   },
   {
-   "hora": "Ter 24/11",
-   "txt": "Câmara deve votar o projeto de ajuste fiscal aprovado pelo Senado",
+   "hora": "Seg 23/11 · noite",
+   "txt": "Câmara vota urgência e mérito do projeto de ajuste fiscal aprovado pelo Senado",
    "cat": "politica"
   },
   {
@@ -162,40 +162,40 @@
   }
  ],
  "manchete": {
-  "kicker": "Sul-Americana",
-  "titulo": "Boca Juniors vence o Atlético-MG por 2 a 0 na final em Barranquilla e conquista a Sul-Americana pela terceira vez",
-  "resumo": "Santiago Ascacíbar marcou no primeiro tempo e Miguel Merentiel ampliou logo no início da etapa final, no sábado (21), na Colômbia. O Atlético-MG fica com o vice do torneio pelo segundo ano seguido.",
-  "entenda": "A final foi em jogo único, em campo neutro. Com o título, o Boca passa a ser o maior vencedor da Sul-Americana, com três conquistas, e volta a ganhar um torneio internacional depois de anos de jejum. Para o Atlético-MG, é a terceira final continental perdida em três temporadas: a Libertadores de 2024 e as Sul-Americanas de 2025 e 2026. O time mineiro soma oito jogos sem vencer e volta agora ao Brasileirão, em que ocupa o 7º lugar, com 51 pontos.",
+  "kicker": "COP31",
+  "titulo": "COP31 termina sem acordo político em Antália, depois de impasse sobre a menção aos combustíveis fósseis",
+  "resumo": "União Europeia, Panamá e Ilhas Marshall rejeitaram neste domingo (22) o texto final, e o presidente da conferência, Murat Kurum, declarou que não houve consenso sobre o chamado Pacto de Antália. Algumas decisões técnicas foram aprovadas em separado, mas o documento central caiu.",
+  "entenda": "A conferência do clima da ONU, na Turquia, deveria ter terminado na sexta (20) e passou mais de 44 horas do prazo, tornando-se a mais longa da história. Os rascunhos das presidências turca e australiana deixaram de citar de forma explícita petróleo, carvão e gás, por resistência de países produtores, enquanto europeus e nações insulares exigiam a menção. Ficaram de fora também o mapa do caminho para reduzir os fósseis, proposta levada pelo Brasil desde a COP30, em Belém, e uma meta de US$ 120 bilhões para adaptação climática. A próxima conferência, a COP32, está prevista para novembro de 2027 em Adis Abeba, na Etiópia.",
   "fatos": [
-   "Placar: Boca Juniors 2 x 0 Atlético-MG, gols de Ascacíbar (1º tempo) e Merentiel (início do 2º tempo)",
-   "Boca chega ao terceiro título e passa a liderar o ranking de campeões do torneio",
-   "Próximo jogo do Atlético-MG: Corinthians, na quarta (25), na Arena MRV, pelo Brasileirão"
+   "Texto rejeitado por União Europeia, Panamá e Ilhas Marshall; Reino Unido e Noruega também criticaram a falta de metas",
+   "Proposta brasileira do mapa do caminho dos fósseis, herdada de Belém, ficou fora dos textos",
+   "COP32 está marcada para novembro de 2027, em Adis Abeba (Etiópia)"
   ],
   "fontes": [
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-perde-para-o-boca-e-amarga-mais-um-vice-da-sul-americana/",
-    "d": "jogo e próximos jogos"
+    "n": "O Liberal",
+    "u": "https://www.oliberal.com/mundo/cop31-termina-sem-acordo-e-deixa-de-fora-proposta-defendida-em-belem-1.1197009",
+    "d": "fim sem acordo"
    },
    {
-    "n": "VAVEL Brasil",
-    "u": "https://www.vavel.com/br/futebol/2026/11/22/atletico-mg/1280231-boca-juniors-vence-o-atletico-mg-e-conquista-o-titulo-da-copa-sul-americana-de-2026.html",
-    "d": "gols e histórico"
+    "n": "IstoÉ",
+    "u": "https://istoe.com.br/cop31-termina-sem-acordo-final-combustiveis-fosseis",
+    "d": "Pacto de Antália"
    },
    {
-    "n": "Bolavip",
-    "u": "https://br.bolavip.com/atletico-mineiro/atletico-mg-perde-boca-juniors-sul-americana",
-    "d": "visão do Galo"
+    "n": "Exame",
+    "u": "https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/",
+    "d": "atraso e perdas do Brasil"
    },
    {
-    "n": "Brasil 247",
-    "u": "https://www.brasil247.com/esporte/boca-juniors-vence-atletico-mg-por-2-a-0-na-final-da-sul-americana/",
-    "d": "placar da final"
+    "n": "24 Notícias (SAPO)",
+    "u": "https://24noticias.sapo.pt/atualidade/artigos/cop31-termina-sem-acordo-sobre-pacto-de-antalia-apos-rejeicao-da-uniao-europeia-e-de-outros-paises",
+    "d": "rejeição europeia"
    },
    {
-    "n": "VAVEL USA",
-    "u": "https://www.vavel.com/en-us/soccer/2026/11/21/1279756-atletico-mg-vs-boca-juniors-live-latest-score-goals-and-copa-sudamericana-updates.html",
-    "d": "lances da partida"
+    "n": "Vozpópuli",
+    "u": "https://vozpopuli.com/internacional/la-cop31-termina-sin-consenso-por-la-disputa-sobre-el-abandono-de-los-combustibles-fosiles.html",
+    "d": "disputa sobre fósseis"
    }
   ]
  },
@@ -209,66 +209,58 @@
     {
      "kicker": "Bolsonaro",
      "quando": "Hoje",
-     "titulo": "Bolsonaro completa um ano preso internado na UTI; Michelle volta de Israel e visita o ex-presidente",
-     "resumo": "Preso preventivamente em 22 de novembro de 2025, depois de danificar a tornozeleira eletrônica, o ex-presidente cumpre pena de 27 anos e 3 meses e está na UTI do DF Star desde sexta (20), com obstrução no intestino delgado. O boletim de sábado o descreve como consciente, estável e respirando sem aparelhos, sem previsão de alta e sem cirurgia descartada; a ex-primeira-dama chegou ao hospital na noite de sábado.",
+     "titulo": "Bolsonaro segue na UTI com quadro estável e faz novos exames neste domingo; equipe não descarta cirurgia",
+     "resumo": "Internado desde sexta (20) no DF Star, em Brasília, com obstrução no intestino delgado, o ex-presidente, que completa hoje um ano preso, está consciente e respira sem aparelhos, segundo o médico Brasil Caiado. Ele recebe hidratação e nutrição por sonda, não tem previsão de alta e é acompanhado por Michelle Bolsonaro, que voltou de Israel no sábado.",
      "foto": {
       "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/michelle-chega-a-brasilia-apos-viagem-e-visita-jair-bolsonaro-em-hospital"
-      },
-      {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/michelle-chega-a-brasilia-e-vai-ao-hospital-encontrar-bolsonaro/"
+       "u": "https://www.cnnbrasil.com.br/politica/bolsonaro-apresenta-quadro-clinicamente-estavel-diz-medico/"
       },
       {
        "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/df/brasilia/politica/noticia/2026/11/22/bolsonaro-completa-1-ano-preso-segue-uti-sem-previsao-alta"
+       "u": "https://tvsimbrasil.com.br/df/brasilia/politica/noticia/2026/11/22/michelle-visita-bolsonaro-uti-boletim-quadro-estavel"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/prisao-de-bolsonaro-por-tentar-romper-tornozeleira-com-solda-completa-1-ano"
+       "n": "Correio",
+       "u": "https://www.correio24horas.com.br/brasil/bolsonaro-segue-internado-na-uti-com-obstrucao-intestinal-e-sem-previsao-de-alta-1126"
       }
      ]
     },
     {
      "kicker": "Ajuste fiscal",
      "quando": "Ontem",
-     "titulo": "Lula defende o ajuste fiscal antes da votação na Câmara, prevista para terça (24)",
-     "resumo": "Em live com André Janones, o presidente disse que o projeto não corta recursos de saúde, educação e salário mínimo e negou mudança na idade de aposentadoria. Aprovado pelo Senado, o texto reduz de 2,5% para 2% o teto de alta real das despesas e amplia o corte de benefícios tributários; o governo diz que a Câmara deve votá-lo sem mudanças.",
+     "titulo": "Câmara marca para segunda (23) à noite a votação do ajuste fiscal aprovado pelo Senado",
+     "resumo": "O presidente da Câmara, Hugo Motta, convocou sessão para votar primeiro a urgência e depois o mérito do PLP 299/2026, relatado por Mauro Benevides Filho (União-CE). O Senado aprovou o texto por 69 a 2 e elevou para R$ 2 bilhões o piso de repasses da Lei Kandir aos estados; o governo estima efeito de cerca de R$ 50 bilhões em 2027.",
      "lados": [
       {
        "quem": "Governo",
-       "txt": "Lula afirma que o pacote atinge benefícios tributários de empresas, não os mais pobres, e diz que o mercado financeiro não vai ditar como governar."
+       "txt": "Lula e o ministro Bruno Moretti dizem que o pacote cobra mais de quem pode pagar, atinge benefícios tributários de empresas e não reduz direitos sociais."
       },
       {
        "quem": "Críticos",
-       "txt": "Parlamentares do PT e do PSOL, como Lindbergh Farias e Glauber Braga, veem risco a políticas sociais; a oposição, com Rogério Marinho, diz que o texto transfere custos a estados e ao setor produtivo e propõe alternativa de R$ 75 bilhões."
+       "txt": "Parte do mercado considera o texto insuficiente para conter a dívida, setores produtivos contestam o limite às compensações tributárias e parlamentares do PT e do PSOL veem risco a políticas sociais."
       }
      ],
      "fontes": [
       {
-       "n": "Jovem Pan / Estadão Conteúdo",
-       "u": "https://jovempan.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/lula-critica-aliados-mercado-financeiro-confusao-ajuste-fiscal/"
+      },
+      {
+       "n": "O Povo / Estadão Conteúdo",
+       "u": "https://mais.opovo.com.br/jornal/economia/2026/11/20/camara-dos-deputados-divulga-pauta-com-votacao-do-ajuste-fiscal-para-a-segunda-feira-dia-23.html"
       },
       {
        "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/economia/lula-reage-a-criticas-da-esquerda-ao-ajuste-fiscal-e-ataca-yuppies-da-faria-lima/"
+       "u": "https://www.gazetadopovo.com.br/republica/resumo-da-semana-ajuste-fiscal-de-lula-gera-racha-na-base-do-governo-e-protestos-nas-ruas/"
       },
       {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/politica/2026/11/7542094-lula-reune-exercito-em-live-com-janones-e-revela-bastidores-da-cop-31.html"
-      },
-      {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://www.diariodocentrodomundo.com.br/video-nao-vou-tirar-um-centavo-dos-pobres-diz-lula-sobre-criticas-ao-ajuste-fiscal/"
-      },
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/governo/2026/11/18/camara-vota-projeto-de-ajuste-fiscal-do-governo-na-proxima-terca-feira-24-11-diz-ministro-de-lula"
+       "n": "Jovem Pan / Estadão Conteúdo",
+       "u": "https://jovempan.com.br/politica/lula-defende-pacote-fiscal-sistema-financeiro-nao-me-ensinara-a-dirigir-o-pais/"
       }
      ]
     },
@@ -307,40 +299,6 @@
       {
        "n": "Gazeta do Povo",
        "u": "https://www.gazetadopovo.com.br/republica/lula-busca-acordo-com-alcolumbre-para-evitar-nova-derrota-na-indicacao-ao-stf/"
-      }
-     ]
-    },
-    {
-     "kicker": "Caso Master",
-     "quando": "20/11",
-     "titulo": "PF diz ao STF que não encontrou conversas diretas entre André Mendonça e Daniel Vorcaro",
-     "resumo": "O relatório de 35 páginas, tornado público por Edson Fachin a pedido do próprio Mendonça, lista menções ao ministro em diálogos do banqueiro com terceiros entre 2024 e 2025, incluindo um encontro que Mendonça confirmou e diz ter tratado de precatórios. Fachin enviou à PGR os relatórios sobre Mendonça, Moraes, Nunes Marques e Toffoli e arquivou os que citavam outros cinco ministros.",
-     "lados": [
-      {
-       "quem": "André Mendonça",
-       "txt": "Pediu a retirada do sigilo e a divulgação integral do relatório; afirma que o único encontro com Vorcaro tratou de uma ação sobre precatórios."
-      },
-      {
-       "quem": "Polícia Federal",
-       "txt": "Registra 303 ocorrências do nome do ministro nos celulares do banqueiro, mas diz não haver registro de conversa direta entre os dois."
-      }
-     ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/Iez1JX-lCwCWAruHzHAs9hrtVmA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_numero_de_serie_de_4_digitos_090620_7.jpg?itok=av6AQ5Kg",
-      "credito": "Marcello Casal jr/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/caso-master-veja-o-que-mensagens-apreendidas-pela-pf-dizem-sobre-mendonca/"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/caso-master-pf-nao-encontra-conversas-diretas-entre-vorcaro-e-andre-mendonca/"
       }
      ]
     },
@@ -401,24 +359,28 @@
     {
      "kicker": "Criptomoedas",
      "quando": "Hoje",
-     "titulo": "Bitcoin volta a US$ 60 mil depois de cair a US$ 55,1 mil no sábado, menor nível desde 2024",
-     "resumo": "Às 6h40, a criptomoeda subia cerca de 3,9% em 24 horas, mas ainda acumulava queda de 8,5% em sete dias, e o índice de medo e ganância do setor marcava 11, faixa de medo extremo. Em novembro, a desvalorização passa de 20%, com saída de recursos de fundos de bitcoin nos EUA e a correção das bolsas americanas.",
+     "titulo": "Bitcoin se recupera para perto de US$ 61 mil depois de cair a US$ 55,1 mil no sábado, menor nível desde 2024",
+     "resumo": "A criptomoeda chegou ao domingo ainda mais de 50% abaixo do recorde de US$ 126 mil e pode fechar a sétima semana seguida de perdas; o índice de medo e ganância do setor marcava 11, faixa de medo extremo. Analistas citam saídas de mais de US$ 1 bilhão dos fundos de bitcoin nos EUA e a expectativa de alta de juros pelo Fed.",
      "fontes": [
       {
        "n": "Bitnotícias",
        "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-22-de-novembro-de-2026/"
       },
       {
-       "n": "Seu Dinheiro",
-       "u": "https://www.seudinheiro.com/2026/criptomoedas/maior-tombo-mensal-desde-2022-bitcoin-btc-fura-o-piso-cai-abaixo-de-us-60-mil-e-arrasta-outras-criptomoedas-ccgg/"
+       "n": "Bitcoin.com News",
+       "u": "https://news.bitcoin.com/pt/market-updates/bitcoin-cai-abaixo-de-us-56-mil-arthur-hayes-recomenda-esperar-resgate/"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/22/bitcoin-cai-abaixo-56-mil-minima-2-anos"
       }
      ]
     },
     {
      "kicker": "Mercado",
      "quando": "Hoje",
-     "titulo": "B3 reabre na segunda após o feriado, com o dólar no maior nível desde abril de 2025 e o ajuste fiscal na pauta",
-     "resumo": "O Ibovespa fechou a quinta (19) em 166.376 pontos, e o dólar terminou a R$ 5,935, depois de uma semana de saída de estrangeiros e de adiamentos na votação do pacote fiscal. Na segunda, o mercado recebe o Boletim Focus e reage às quedas de Nova York na sexta, quando a bolsa brasileira não abriu.",
+     "titulo": "B3 reabre na segunda com o dólar no maior nível desde abril de 2025 e a votação do ajuste fiscal na Câmara à noite",
+     "resumo": "O Ibovespa fechou a quinta (19) em 166.376 pontos, e o dólar terminou a R$ 5,935, depois de uma semana de saída de estrangeiros. Na segunda, o mercado recebe o Boletim Focus, reage às quedas de Nova York na sexta, quando a bolsa brasileira não abriu, e acompanha a sessão da Câmara sobre o pacote fiscal.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
@@ -433,12 +395,28 @@
        "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-19112026/"
       },
       {
-       "n": "AVNews",
-       "u": "https://www.ativovirtual.com.br/avnews/artigos/b3-fechada-eua-e-bce-antecipam-o-tom-da-segunda"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025"
       },
       {
-       "n": "Paraná Shop",
-       "u": "https://www.paranashop.com.br/post/bolsa-na-semana-19-11-2026"
+       "n": "O Povo / Estadão Conteúdo",
+       "u": "https://mais.opovo.com.br/jornal/economia/2026/11/20/camara-dos-deputados-divulga-pauta-com-votacao-do-ajuste-fiscal-para-a-segunda-feira-dia-23.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Guerra",
+     "quando": "Ontem",
+     "titulo": "Pentágono calcula em US$ 48 bilhões o custo da guerra contra o Irã até 13 de novembro",
+     "resumo": "O valor, apresentado em audiência no Senado americano, inclui munições, reposição de equipamentos e operações, mas não os danos a bases atingidas por mísseis e drones iranianos. Democratas cobram a conta completa, e o tema pesa na discussão de um orçamento de defesa de US$ 1,5 trilhão.",
+     "fontes": [
+      {
+       "n": "O Povo / DW",
+       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/21/gasto-dos-eua-na-guerra-contra-ira-chega-a-uss-48-bilhoes-e-amplia-pressao-sobre-o-pentagono.html"
+      },
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/21/1026851-eua-consomem-estoques-de-misseis-e-relatorio-alerta-para-risco-em-eventual-guerra-com-china"
       }
      ]
     },
@@ -469,22 +447,6 @@
        "u": "https://www.infomoney.com.br/mercados/acoes-da-nvidia-desabam-noticia-sobre-investigacao-da-sec-sobre-companhia/"
       }
      ]
-    },
-    {
-     "kicker": "Guerra",
-     "quando": "Ontem",
-     "titulo": "Pentágono calcula em US$ 48 bilhões o custo da guerra contra o Irã até 13 de novembro",
-     "resumo": "O valor, apresentado em audiência no Senado americano, inclui munições, reposição de equipamentos e operações, mas não os danos a bases atingidas por mísseis e drones iranianos. Democratas cobram a conta completa, e o tema pesa na discussão de um orçamento de defesa de US$ 1,5 trilhão.",
-     "fontes": [
-      {
-       "n": "O Povo / DW",
-       "u": "https://www.opovo.com.br/noticias/mundo/2026/11/21/gasto-dos-eua-na-guerra-contra-ira-chega-a-uss-48-bilhoes-e-amplia-pressao-sobre-o-pentagono.html"
-      },
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/geral/2026/11/21/1026851-eua-consomem-estoques-de-misseis-e-relatorio-alerta-para-risco-em-eventual-guerra-com-china"
-      }
-     ]
     }
    ]
   },
@@ -492,7 +454,7 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporal no RS, alertas e direitos",
+   "nota": "Temporais no Sul, alertas e Consciência Negra",
    "itens": [
     {
      "kicker": "Rio Grande do Sul",
@@ -522,20 +484,20 @@
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Inmet mantém alerta de tempestade para áreas das cinco regiões do país neste domingo",
-     "resumo": "O aviso prevê chuva forte, raios e ventos de até 60 km/h em estados do Sul, Sudeste, Centro-Oeste, Norte e Nordeste, com alerta amarelo para a capital fluminense.",
+     "titulo": "Inmet mantém aviso de tempestade para 18 estados; Paraná tem alerta laranja com ventos de até 100 km/h",
+     "resumo": "O aviso amarelo vale até as 23h59 deste domingo para 3.717 municípios, com chuva de até 50 mm, ventos de 40 a 60 km/h e granizo. No Paraná, dez regiões estão em alerta laranja, e a Copel ainda trabalhava para religar 28 mil imóveis sem luz desde as tempestades de sexta (20); Santa Catarina alerta para cheia de rios no Alto Vale do Itajaí.",
      "fontes": [
       {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/tempestades-sul-defesa-civil-chuva-intensa-granizo-domingo-22/"
+      },
+      {
+       "n": "Blog do Esmael",
+       "u": "https://www.esmaelmorais.com.br/alerta-laranja-parana-100-kmh-28-mil-sem-luz/"
+      },
+      {
        "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/20/alerta-de-tempestade-do-inmet-atinge-cinco-regioes-do-brasil-no-domingo-22-com-ventos-de-60-km-h/"
-      },
-      {
-       "n": "Agência GBC",
-       "u": "https://agenciagbc.com/2026/11/20/inmet-emite-alerta-de-tempestade-para-cinco-regioes-do-brasil-neste-domingo/"
-      },
-      {
-       "n": "TMC",
-       "u": "https://tmc.com.br/brasil/previsao-do-tempo-rio-de-janeiro-22-11-2026/"
+       "u": "https://www.mixvale.com.br/2026/11/22/inmet-emite-aviso-laranja-de-tempestades-para-santa-catarina/"
       }
      ]
     },
@@ -566,18 +528,6 @@
        "u": "https://vermelho.org.br/2026/11/19/dia-da-consciencia-negra-tera-atos-contra-ajuste-fiscal-e-reducao-da-maioridade-penal/"
       }
      ]
-    },
-    {
-     "kicker": "Direitos humanos",
-     "quando": "18/11",
-     "titulo": "Governo prepara protocolo nacional contra o casamento infantil; IBGE conta mais de 34 mil crianças de 10 a 14 anos em uniões",
-     "resumo": "As diretrizes, apresentadas pela ministra Janine Mello, preveem ações em escolas e unidades de saúde e a capacitação de 10 mil profissionais até 2028; 77% das crianças em uniões são meninas. O casamento antes dos 16 anos é proibido desde 2019, e um projeto na Câmara quer tornar essas uniões nulas.",
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/22/governo-mira-34-mil-casos-casamento-infantil-protocolo"
-      }
-     ]
     }
    ]
   },
@@ -585,59 +535,45 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "COP31, Ucrânia e Irã",
+   "nota": "Ucrânia, Israel e Irã",
    "itens": [
-    {
-     "kicker": "Clima",
-     "quando": "Hoje",
-     "titulo": "COP31 chega ao domingo sem acordo; novo rascunho continua sem citar os combustíveis fósseis",
-     "resumo": "O texto das presidências turca e australiana, divulgado na madrugada, fala em eletrificação e em captura de carbono e só alude ao compromisso da COP28; a plenária estava prevista para a manhã deste domingo em Antália. Produtores liderados pela Arábia Saudita rejeitam nova referência aos fósseis, enquanto países do Pacífico, da Europa e da América Latina pedem menção explícita.",
-     "fontes": [
-      {
-       "n": "Notícias ao Minuto / Lusa",
-       "u": "https://www.noticiasaominuto.com/mundo/3088239/cop31-novo-projeto-de-decisao-final-continua-sem-referencias-as-energias-fosseis"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/nova-minuta-de-documento-final-da-cop31-tira-mencao-a-combustiveis-fosseis"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/"
-      },
-      {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-esg/2026/11/cop31-retira-combustiveis-fosseis-da-minuta-e-negocia-acordo-final/"
-      }
-     ],
-     "lados": [
-      {
-       "quem": "Defensores da menção",
-       "txt": "Cerca de 23 países, a União Europeia e o Panamá pedem que o texto cite a saída dos combustíveis fósseis e ameaçam não aprovar uma decisão sem isso."
-      },
-      {
-       "quem": "Produtores e presidência",
-       "txt": "Arábia Saudita e outros exportadores rejeitam a referência; a presidência defende focar em energia limpa, eletrificação e captura de carbono para obter consenso."
-      }
-     ]
-    },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Drone russo derruba parte de prédio na região de Kiev; Zelensky diz que até 14 pessoas podem estar sob os escombros",
-     "resumo": "O ataque atingiu na madrugada um edifício residencial de cinco andares em Dimer; nove moradores foram retirados e duas pessoas ficaram feridas, entre elas um adolescente. Zelensky disse que a Rússia lançou cerca de 2.700 drones e 165 mísseis na última semana e pediu aos EUA que autorizem a transferência de sistemas Patriot já pagos por aliados.",
+     "titulo": "Drone russo atinge prédio na região de Kiev; dois morrem e 11 estão desaparecidos sob os escombros",
+     "resumo": "O ataque derrubou parte de um edifício residencial de cinco andares em Dimer, ao norte da capital; entre os mortos há um jovem de 18 anos, e quatro pessoas ficaram feridas, incluindo uma criança. Zelensky disse que a Rússia lançou cerca de 2.700 drones e 165 mísseis na última semana e pediu aos EUA a liberação de sistemas Patriot pagos por aliados.",
      "fontes": [
+      {
+       "n": "DNoticias / Lusa",
+       "u": "https://www.dnoticias.pt/2026/11/22/513939-ataque-russo-contra-predio-residencial-perto-de-kiev-faz-dois-mortos/"
+      },
       {
        "n": "CNN Brasil / Reuters",
        "u": "https://www.cnnbrasil.com.br/internacional/drone-atinge-predio-na-regiao-de-kiev/"
       },
       {
        "n": "Infobae / EFE",
-       "u": "https://www.infobae.com/america/agencias/2026/11/22/zelenski-dice-que-14-victimas-podrian-estar-bajo-escombros-de-edificio-atacado-por-rusia/"
+       "u": "https://www.infobae.com/america/agencias/2026/11/22/un-muerto-tres-heridos-y-varios-desaparecidos-en-ataque-ruso-a-edificio-en-region-de-kiev/"
+      }
+     ]
+    },
+    {
+     "kicker": "Israel",
+     "quando": "Hoje",
+     "titulo": "Eisenkot convida o Likud de Netanyahu para negociar um governo de unidade em Israel",
+     "resumo": "Encarregado de formar o governo até o início de dezembro, o líder do partido centrista Yashar chamou o Likud para rodadas intensivas de conversas, que recomeçaram neste domingo. Nenhum bloco tem maioria no Parlamento de 120 cadeiras: os aliados de Netanyahu somam 53, e a oposição liderada pelo Yashar, 48.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/22/gadi-eisenkot-invites-netanyahus-likud-party-for-marathon-coalition-talks"
       },
       {
-       "n": "Observador",
-       "u": "https://observador.pt/liveblogs/ucrania-denuncia-ataque-russo-em-kiev-ha-14-pessoas-desaparecidas/"
+       "n": "Haaretz",
+       "u": "https://www.haaretz.com/israel-news/israel-politics/2026-11-22/ty-article/.premium/members-of-eisenkots-yashar-netanyahus-likud-meet-for-coalition-talks/000001a2-030b-d175-abf6-1f3f54b90000"
+      },
+      {
+       "n": "Jornal Económico / Lusa",
+       "u": "https://jornaleconomico.sapo.pt/noticias/israel-eleicoes-eisenkot-convida-partido-de-netanyahu-para-negociacoes-de-coligacao/"
       }
      ]
     },
@@ -702,6 +638,37 @@
        "u": "https://theobjective.com/internacional/2026-11-21/ataque-ruso-ucrania-muertos-heridos/"
       }
      ]
+    },
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "Sem acordo na COP31, países europeus e insulares culpam a falta de metas para os combustíveis fósseis",
+     "resumo": "A União Europeia disse que não poderia aprovar um texto sem metas de descarbonização, e o Panamá e as Ilhas Marshall acompanharam a rejeição. A presidência turca afirmou que algumas decisões técnicas foram mantidas e que o tema volta à mesa na COP32, em 2027.",
+     "lados": [
+      {
+       "quem": "Defensores da menção",
+       "txt": "Europeus e países insulares afirmam que um acordo sem citar petróleo, carvão e gás seria um recuo em relação à COP28."
+      },
+      {
+       "quem": "Produtores e presidência",
+       "txt": "Exportadores de petróleo rejeitavam a referência, e a presidência defendia focar em eletrificação e energia limpa para obter consenso."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/cop31-vai-terminar-sem-acordo-unio-europeia-contesta-falta-de-metas-de-descarbonizao"
+      },
+      {
+       "n": "MVS Noticias",
+       "u": "https://mvsnoticias.com/mundo/2026/11/22/cop31-en-antalya-termina-sin-consenso-politico-tras-rechazo-de-la-ue-754325.html"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/meio-ambiente/conferencia-climatica-cop31-termina-sem-acordo-apos-rejeicao-de-texto/"
+      }
+     ],
+     "destaque": false
     }
    ]
   },
@@ -709,7 +676,7 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Boca campeão, Flamengo e F1",
+   "nota": "F1, Boca campeão e rodada de domingo",
    "itens": [
     {
      "kicker": "Fórmula 1",
@@ -717,6 +684,10 @@
      "titulo": "Verstappen vence o GP de Las Vegas à frente de Norris e Piastri; Bortoleto termina em 12º",
      "resumo": "O holandês da Red Bull, que herdou a pole, segurou os pilotos da McLaren até a última volta na madrugada deste domingo (horário de Brasília). Rafael Câmara, da Haas, foi 16º depois de se envolver em batida com Sergio Pérez, que abandonou; faltam as etapas do Catar e de Abu Dhabi.",
      "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-verstappen-vence-o-gp-de-las-vegas-2026-bortoleto-e-12-e-camara-e-16,9450961abd813a86d89789368c0a766fw066t757.html"
+      },
       {
        "n": "F1Mania",
        "u": "https://www.f1mania.net/f1/f1-verstappen-vence-batalha-eletrizante-em-las-vegas-apos-duelos-ate-a-ultima-volta/"
@@ -728,6 +699,26 @@
       {
        "n": "ESPN",
        "u": "https://espndeportes.espn.com/deporte-motor/f1/nota/_/id/17547049/f1-max-verstappen-gana-gp-las-vegas"
+      }
+     ]
+    },
+    {
+     "kicker": "Sul-Americana",
+     "quando": "Ontem",
+     "titulo": "Boca Juniors vence o Atlético-MG por 2 a 0 na final em Barranquilla e conquista a Sul-Americana pela terceira vez",
+     "resumo": "Santiago Ascacíbar marcou no primeiro tempo e Miguel Merentiel ampliou logo no início da etapa final, no sábado (21), na Colômbia. O Atlético-MG fica com o vice do torneio pelo segundo ano seguido. Com o título, o Boca passa a ser o maior campeão do torneio.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-perde-para-o-boca-e-amarga-mais-um-vice-da-sul-americana/"
+      },
+      {
+       "n": "VAVEL Brasil",
+       "u": "https://www.vavel.com/br/futebol/2026/11/22/atletico-mg/1280231-boca-juniors-vence-o-atletico-mg-e-conquista-o-titulo-da-copa-sul-americana-de-2026.html"
+      },
+      {
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/atletico-mineiro/atletico-mg-perde-boca-juniors-sul-americana"
       }
      ]
     },
@@ -752,22 +743,6 @@
       {
        "n": "Gazeta Esportiva",
        "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Cruzeiro vence a rebaixada Chapecoense por 2 a 1 e chega à sexta vitória seguida",
-     "resumo": "Matheus Pereira abriu o placar no início do segundo tempo, Kauan empatou e Wesley fez o gol da vitória aos 43 minutos, na Arena Condá. O Cruzeiro soma 66 pontos e segue em 3º, seis à frente do Fluminense.",
-     "fontes": [
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-chapecoense-sexta-vitoria-seguida-brasileirao/"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/futebol/times/cruzeiro/cruzeiro-bate-chapecoense-e-conquista-sexta-vitoria-seguida-no-brasileirao"
       }
      ]
     },
@@ -882,13 +857,17 @@
     {
      "kicker": "Vestibular",
      "quando": "Hoje",
-     "titulo": "Unesp aplica hoje a 1ª fase do vestibular 2027 para 65,7 mil candidatos",
-     "resumo": "A prova tem 90 questões objetivas, começa às 13h e dura cinco horas; os portões fecham às 12h30. São 5.850 vagas, com medicina, direito e psicologia entre os cursos mais procurados, e o resultado da primeira fase sai em 7 de dezembro.",
+     "titulo": "Unesp aplica hoje a 1ª fase do vestibular 2027 para mais de 65 mil candidatos; gabarito sai às 19h",
+     "resumo": "A prova tem 90 questões objetivas, começa às 13h e dura cinco horas, em 24 cidades paulistas. São 5.850 vagas em 137 cursos; a lista de aprovados para a 2ª fase sai em 7 de dezembro, a segunda etapa é em 13 e 14 de dezembro e o resultado final está previsto para 27 de janeiro.",
      "foto": {
       "src": "fotos/enamed.jpg",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
+      {
+       "n": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4370117/vestibular-na-unesp-primeira-fase-e-aplicada-neste-domingo-22-"
+      },
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/sao-paulo/unesp-2027-1a-fase-do-vestibular-acontece-neste-domingo-veja-orientacoes"
@@ -958,8 +937,32 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Genética antiga, estrelas e chips",
+   "nota": "Riemann, genética antiga e física do tempo",
    "itens": [
+    {
+     "kicker": "Matemática",
+     "quando": "Ontem",
+     "titulo": "Matemático da Anthropic diz ter provado a hipótese de Riemann com ajuda de IA; resultado ainda não foi verificado",
+     "resumo": "Levent Alpöge publicou na sexta (20) uma nota de quatro páginas com a suposta prova do problema, proposto em 1859, e um código no verificador formal Lean, feito com o auxílio do modelo Claude. Especialistas ouvidos pela imprensa dizem que, se confirmada, seria um dos maiores avanços da matemática em dois séculos, mas a demonstração ainda precisa passar pela análise de outros pesquisadores.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/21/anthropic-worker-claims-to-have-solved-famed-167-year-old-maths-problem-with-help-of-ai"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/funcionario-da-anthropic-diz-que-ia-ajudou-a-resolver-problema-matematico-de-167-anos/"
+      },
+      {
+       "n": "Gizmodo Brasil",
+       "u": "https://www.gizmodo.com.br/inteligencia-artificial-afirma-ter-resolvido-um-dos-maiores-enigmas-da-matematica-apos-167-anos-76203"
+      },
+      {
+       "n": "IBM Think",
+       "u": "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof"
+      }
+     ]
+    },
     {
      "kicker": "Genética",
      "quando": "Ontem",
@@ -973,18 +976,14 @@
      ]
     },
     {
-     "kicker": "Astronomia",
-     "quando": "20/11",
-     "titulo": "Astrônomos procuravam um planeta a 28 anos-luz e acharam uma anã branca escondida num sistema triplo",
-     "resumo": "A estrela oculta foi detectada pela oscilação da anã vermelha que ela acompanha e confirmada em imagens do telescópio Gemini North; o sistema, chamado Welopōʻai, tem duas anãs brancas e é o mais próximo desse tipo conhecido. A anã branca interna tem cerca de 62% da massa do Sol e completa a órbita em quase dez anos.",
+     "kicker": "Física",
+     "quando": "Ontem",
+     "titulo": "Físicos propõem usar relógios atômicos para testar se o tempo pode passar em ritmos diferentes ao mesmo tempo",
+     "resumo": "O estudo teórico, publicado na Physical Review Letters por grupos do Japão, dos EUA, do Canadá e da Suécia, sugere medir uma superposição quântica de tempos em relógios de íons aprisionados. Segundo os autores, um novo controle do movimento do relógio aumentaria a sensibilidade de 100 a 1.000 vezes; o próximo passo é montar o experimento.",
      "fontes": [
       {
-       "n": "Gizmodo Brasil",
-       "u": "https://gizmodo.com.br/astronomos-procuravam-um-planeta-a-28-anos-luz-da-terra-e-encontraram-uma-estrela-escondida-76177"
-      },
-      {
-       "n": "Tek Notícias",
-       "u": "https://tek.sapo.pt/noticias/ciencia/artigos/welopo%CA%BBai-sistema-de-tres-estrelas-perto-da-terra-desafia-modelos-de-evolucao-estelar"
+       "n": "ScienceDaily / Universidade de Kyushu",
+       "u": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
       }
      ]
     },
@@ -1002,18 +1001,6 @@
       {
        "n": "Monitor Mercantil",
        "u": "https://monitormercantil.com.br/acoes-despencam-nas-bolsas-com-temor-de-fim-da-bolha-de-ia/"
-      }
-     ]
-    },
-    {
-     "kicker": "Biologia",
-     "quando": "20/11",
-     "titulo": "Estudo em camundongos liga testosterona à preferência de machos e fêmeas por ambientes mais quentes",
-     "resumo": "Pesquisadores do King's College London observaram que fêmeas preferem superfícies perto de 36 °C, e machos, em torno de 32 °C. Ao alterar os níveis do hormônio, o comportamento se inverteu; os autores ressaltam que o resultado vale para roedores e não se aplica diretamente a humanos.",
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/tendencias/2026/11/20/pesquisadores-identificam-em-camundongos-o-mecanismo-biologico-que-explica-por-que-machos-e-femeas-escolhem-locais-aquecidos-de-maneiras-diferentes/"
       }
      ]
     }
@@ -1082,26 +1069,6 @@
       {
        "n": "Folha Vitória",
        "u": "https://www.folhavitoria.com.br/cultura/famosos/gabriel-felix-morreu-apos-passar-mal-no-futebol-veja-o-que-se-sabe/"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "20/11",
-     "titulo": "E.J. Carroll, ator de “The Deuce” e “Lei & Ordem”, morre aos 66 anos",
-     "resumo": "A morte, ocorrida na quinta (19), foi confirmada por um representante à revista Variety, sem divulgação da causa. Carroll interpretou Fat Mooney na série da HBO, teve papéis em “Blue Bloods” e “Boardwalk Empire” e dublou personagens do jogo GTA V.",
-     "fontes": [
-      {
-       "n": "Diário da Manhã",
-       "u": "https://www.dm.com.br/entretenimento/ator-de-the-deuce-e-lei-ordem-morre-aos-66-anos/"
-      },
-      {
-       "n": "Bem Paraná",
-       "u": "https://www.bemparana.com.br/televisao-gente/morre-aos-66-anos-e-j-carroll-ator-de-series-iconicas-da-tv/"
-      },
-      {
-       "n": "Máquina Nerd",
-       "u": "https://www.maquinanerd.com.br/series-e-tv/e-j-carroll-ator-de-law-order-e-gta-v-morre-aos-66-anos"
       }
      ]
     }
