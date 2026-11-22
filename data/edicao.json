@@ -1,16 +1,16 @@
 {
- "data": "Sábado, 21 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "21/11/2026 · 19h20 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
- "mercado_hora": "Cotações de 07h09 (bitcoin) e de fechamento de sexta (20) em Nova York; B3 reabre na segunda (23)",
- "fontes": 75,
+ "data": "Domingo, 22 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "22/11/2026 · 07h20 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
+ "mercado_hora": "Cotações de 06h40 (bitcoin) e de fechamento de sexta (20) em Nova York; B3 reabre na segunda (23)",
+ "fontes": 77,
  "mercado": [
   {
-   "nome": "Bitcoin · 07h09 de sábado",
-   "valor": "US$ 58 mil",
-   "var": "-5,9% em 24h",
-   "dir": "down"
+   "nome": "Bitcoin · 06h40 de domingo",
+   "valor": "US$ 60,1 mil",
+   "var": "+3,9% em 24h",
+   "dir": "up"
   },
   {
    "nome": "S&P 500 · fechamento de sexta (20)",
@@ -25,10 +25,10 @@
    "dir": "down"
   },
   {
-   "nome": "Dólar · fechamento de quinta (19)",
-   "valor": "R$ 5,932",
-   "var": "+1,10%",
-   "dir": "up"
+   "nome": "Ibovespa · fechamento de quinta (19)",
+   "valor": "166.376 pts",
+   "var": "B3 reabre na segunda (23)",
+   "dir": ""
   },
   {
    "nome": "Selic · Copom",
@@ -39,24 +39,24 @@
  ],
  "agenda": [
   {
-   "hora": "Sáb 21/11 · 19h30",
-   "txt": "Atlético-MG x Boca Juniors, final da Sul-Americana em Barranquilla",
-   "cat": "esporte"
+   "hora": "Dom 22/11 · 13h",
+   "txt": "1ª fase do vestibular Unesp 2027, com 65,7 mil inscritos; portões fecham às 12h30",
+   "cat": "educacao"
   },
   {
-   "hora": "Sáb 21/11 · 21h",
-   "txt": "Chapecoense x Cruzeiro fecha o sábado da 36ª rodada do Brasileirão",
-   "cat": "esporte"
-  },
-  {
-   "hora": "Dom 22/11 · 1h",
-   "txt": "GP de Las Vegas de Fórmula 1: Verstappen larga na pole, Bortoleto em 13º",
+   "hora": "Dom 22/11 · 16h a 19h30",
+   "txt": "Brasileirão: Athletico-PR x Remo, Fluminense x Mirassol e Bragantino x Vasco",
    "cat": "esporte"
   },
   {
    "hora": "Seg 23/11",
-   "txt": "B3 reabre após a semana de queda em Nova York; Câmara deve analisar o ajuste fiscal",
+   "txt": "B3 reabre após o feriado; Banco Central divulga o Boletim Focus",
    "cat": "economia"
+  },
+  {
+   "hora": "Ter 24/11",
+   "txt": "Câmara deve votar o projeto de ajuste fiscal aprovado pelo Senado",
+   "cat": "politica"
   },
   {
    "hora": "Sáb 28/11 · 17h",
@@ -162,45 +162,40 @@
   }
  ],
  "manchete": {
-  "kicker": "Brasileirão",
-  "titulo": "Flamengo empata com o Palmeiras em São Paulo e é campeão brasileiro pelo segundo ano seguido",
-  "resumo": "Jhon Arias abriu o placar para o Palmeiras no primeiro tempo, e Samuel Lino empatou aos 30 minutos da etapa final no Nubank Parque. Com 80 pontos, seis à frente do vice, o Flamengo garantiu o título com duas rodadas de antecedência.",
-  "entenda": "O Flamengo chegou à 36ª rodada precisando só de um empate no confronto direto com o vice-líder. O time comandado por Leonardo Jardim termina a rodada com 24 vitórias, contra 21 do Palmeiras, o que impede a ultrapassagem mesmo em caso de igualdade de pontos. A contagem de títulos varia: a Agência Brasil registra nove conquistas oficiais pela CBF (1980, 1982, 1983, 1992, 2009, 2019, 2020, 2025 e 2026), enquanto o clube e outros veículos, como ESPN e Gazeta Esportiva, somam também a Copa União de 1987, que a CBF atribui ao Sport, e falam no décimo título. O Palmeiras, de Abel Ferreira, garante o vice e agora volta a atenção para a final da Libertadores, no dia 28, contra o Estudiantes.",
+  "kicker": "Sul-Americana",
+  "titulo": "Boca Juniors vence o Atlético-MG por 2 a 0 na final em Barranquilla e conquista a Sul-Americana pela terceira vez",
+  "resumo": "Santiago Ascacíbar marcou no primeiro tempo e Miguel Merentiel ampliou logo no início da etapa final, no sábado (21), na Colômbia. O Atlético-MG fica com o vice do torneio pelo segundo ano seguido.",
+  "entenda": "A final foi em jogo único, em campo neutro. Com o título, o Boca passa a ser o maior vencedor da Sul-Americana, com três conquistas, e volta a ganhar um torneio internacional depois de anos de jejum. Para o Atlético-MG, é a terceira final continental perdida em três temporadas: a Libertadores de 2024 e as Sul-Americanas de 2025 e 2026. O time mineiro soma oito jogos sem vencer e volta agora ao Brasileirão, em que ocupa o 7º lugar, com 51 pontos.",
   "fatos": [
-   "Placar: Palmeiras 1 x 1 Flamengo, gols de Jhon Arias (11' do 1º tempo) e Samuel Lino (30' do 2º tempo)",
-   "Flamengo tem 80 pontos; Palmeiras, 74, com duas rodadas a jogar",
-   "Próximo jogo do Flamengo: Coritiba x Flamengo, domingo (29), no Couto Pereira"
+   "Placar: Boca Juniors 2 x 0 Atlético-MG, gols de Ascacíbar (1º tempo) e Merentiel (início do 2º tempo)",
+   "Boca chega ao terceiro título e passa a liderar o ranking de campeões do torneio",
+   "Próximo jogo do Atlético-MG: Corinthians, na quarta (25), na Arena MRV, pelo Brasileirão"
   ],
   "fontes": [
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/flamengo-empata-com-palmeiras-e-e-campeao-brasileiro-de-2026",
-    "d": "jogo e títulos oficiais"
-   },
-   {
     "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-empata-com-o-palmeiras-e-e-campeao-brasileiro-pelo-2o-ano-seguido/",
-    "d": "tabela e campanha"
+    "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-perde-para-o-boca-e-amarga-mais-um-vice-da-sul-americana/",
+    "d": "jogo e próximos jogos"
    },
    {
-    "n": "ESPN",
-    "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17544359/flamengo-empata-palmeiras-e-campeao-brasileiro-no-nubank-parque",
-    "d": "critério de desempate"
+    "n": "VAVEL Brasil",
+    "u": "https://www.vavel.com/br/futebol/2026/11/22/atletico-mg/1280231-boca-juniors-vence-o-atletico-mg-e-conquista-o-titulo-da-copa-sul-americana-de-2026.html",
+    "d": "gols e histórico"
    },
    {
-    "n": "Gazeta Esportiva",
-    "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/",
-    "d": "visão do Palmeiras"
+    "n": "Bolavip",
+    "u": "https://br.bolavip.com/atletico-mineiro/atletico-mg-perde-boca-juniors-sul-americana",
+    "d": "visão do Galo"
    },
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/esportes/flamengo-empata-com-palmeiras-e-conquista-brasileirao-de-forma-antecipada",
-    "d": "título antecipado"
+    "n": "Brasil 247",
+    "u": "https://www.brasil247.com/esporte/boca-juniors-vence-atletico-mg-por-2-a-0-na-final-da-sul-americana/",
+    "d": "placar da final"
    },
    {
-    "n": "Itatiaia",
-    "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-carioca/flamengo/flamengo-e-campeao-brasileiro-pela-decima-vez-na-historia-veja-ranking/",
-    "d": "ranking de títulos"
+    "n": "VAVEL USA",
+    "u": "https://www.vavel.com/en-us/soccer/2026/11/21/1279756-atletico-mg-vs-boca-juniors-live-latest-score-goals-and-copa-sudamericana-updates.html",
+    "d": "lances da partida"
    }
   ]
  },
@@ -212,10 +207,10 @@
    "nota": "Bolsonaro na UTI, ajuste fiscal e STF",
    "itens": [
     {
-     "kicker": "Saúde de Bolsonaro",
+     "kicker": "Bolsonaro",
      "quando": "Hoje",
-     "titulo": "Bolsonaro vai para a UTI com obstrução intestinal; boletim diz que ele está estável e sem previsão de alta",
-     "resumo": "Internado desde sexta (20) no DF Star, em Brasília, o ex-presidente recebe hidratação e nutrição por sonda e está consciente, segundo o boletim do início da tarde. Os médicos dizem que não há cirurgia marcada, mas não descartam uma se o quadro não melhorar; Alexandre de Moraes autorizou visitas de Carlos, Jair Renan, Laura e da enteada Letícia, sem celulares no quarto.",
+     "titulo": "Bolsonaro completa um ano preso internado na UTI; Michelle volta de Israel e visita o ex-presidente",
+     "resumo": "Preso preventivamente em 22 de novembro de 2025, depois de danificar a tornozeleira eletrônica, o ex-presidente cumpre pena de 27 anos e 3 meses e está na UTI do DF Star desde sexta (20), com obstrução no intestino delgado. O boletim de sábado o descreve como consciente, estável e respirando sem aparelhos, sem previsão de alta e sem cirurgia descartada; a ex-primeira-dama chegou ao hospital na noite de sábado.",
      "foto": {
       "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
@@ -223,27 +218,27 @@
      "fontes": [
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/sem-previsao-de-alta-bolsonaro-esta-na-uti-e-e-alimentado-por-sonda"
+       "u": "https://www.metropoles.com/brasil/michelle-chega-a-brasilia-apos-viagem-e-visita-jair-bolsonaro-em-hospital"
       },
       {
        "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/bolsonaro-esta-internado-em-uti-com-abdomen-agudo-obstrutivo-diz-boletim/"
+       "u": "https://www.cnnbrasil.com.br/politica/michelle-chega-a-brasilia-e-vai-ao-hospital-encontrar-bolsonaro/"
       },
       {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/bolsonaro-uti-quadro-estavel-boletim/"
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/df/brasilia/politica/noticia/2026/11/22/bolsonaro-completa-1-ano-preso-segue-uti-sem-previsao-alta"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ex-presidente-jair-bolsonaro-esta-internado-em-uti-no-distrito-federal"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/prisao-de-bolsonaro-por-tentar-romper-tornozeleira-com-solda-completa-1-ano"
       }
      ]
     },
     {
      "kicker": "Ajuste fiscal",
-     "quando": "Hoje",
-     "titulo": "Em live com Janones, Lula defende o ajuste fiscal e rebate críticas da esquerda e do mercado",
-     "resumo": "O presidente disse que o projeto não corta recursos de saúde, educação e salário mínimo, negou mudança na idade de aposentadoria e defendeu o ministro do Planejamento, Bruno Moretti. O texto, aprovado no Senado, prevê melhora de R$ 45 bilhões a R$ 56 bilhões nas contas de 2027 e deve ser analisado pela Câmara na próxima semana.",
+     "quando": "Ontem",
+     "titulo": "Lula defende o ajuste fiscal antes da votação na Câmara, prevista para terça (24)",
+     "resumo": "Em live com André Janones, o presidente disse que o projeto não corta recursos de saúde, educação e salário mínimo e negou mudança na idade de aposentadoria. Aprovado pelo Senado, o texto reduz de 2,5% para 2% o teto de alta real das despesas e amplia o corte de benefícios tributários; o governo diz que a Câmara deve votá-lo sem mudanças.",
      "lados": [
       {
        "quem": "Governo",
@@ -270,46 +265,16 @@
       {
        "n": "Diário do Centro do Mundo",
        "u": "https://www.diariodocentrodomundo.com.br/video-nao-vou-tirar-um-centavo-dos-pobres-diz-lula-sobre-criticas-ao-ajuste-fiscal/"
-      }
-     ]
-    },
-    {
-     "kicker": "Caso Master",
-     "quando": "Ontem",
-     "titulo": "PF diz ao STF que não encontrou conversas diretas entre André Mendonça e Daniel Vorcaro",
-     "resumo": "O relatório de 35 páginas, tornado público por Edson Fachin a pedido do próprio Mendonça, lista menções ao ministro em diálogos do banqueiro com terceiros entre 2024 e 2025, incluindo um encontro que Mendonça confirmou e diz ter tratado de precatórios. Fachin enviou à PGR os relatórios sobre Mendonça, Moraes, Nunes Marques e Toffoli e arquivou os que citavam outros cinco ministros.",
-     "lados": [
-      {
-       "quem": "André Mendonça",
-       "txt": "Pediu a retirada do sigilo e a divulgação integral do relatório; afirma que o único encontro com Vorcaro tratou de uma ação sobre precatórios."
       },
       {
-       "quem": "Polícia Federal",
-       "txt": "Registra 303 ocorrências do nome do ministro nos celulares do banqueiro, mas diz não haver registro de conversa direta entre os dois."
-      }
-     ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/Iez1JX-lCwCWAruHzHAs9hrtVmA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_numero_de_serie_de_4_digitos_090620_7.jpg?itok=av6AQ5Kg",
-      "credito": "Marcello Casal jr/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/caso-master-veja-o-que-mensagens-apreendidas-pela-pf-dizem-sobre-mendonca/"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/brasil/caso-master-pf-nao-encontra-conversas-diretas-entre-vorcaro-e-andre-mendonca/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/11/18/camara-vota-projeto-de-ajuste-fiscal-do-governo-na-proxima-terca-feira-24-11-diz-ministro-de-lula"
       }
      ]
     },
     {
      "kicker": "STF",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Lula quer enviar ao Senado indicação para o STF antes da posse do novo Congresso, em fevereiro",
      "resumo": "Segundo relatos de bastidores, o presidente pretende escolher nos próximos dias o nome para a vaga aberta com a aposentadoria de Luís Roberto Barroso, antes do recesso de dezembro. Davi Alcolumbre prefere o ministro do TCU Rodrigo Pacheco, enquanto uma ala do PT defende uma mulher, com a ministra do STJ Daniela Teixeira entre as mais citadas. Em abril, o Senado rejeitou a indicação de Jorge Messias.",
      "lados": [
@@ -346,8 +311,42 @@
      ]
     },
     {
+     "kicker": "Caso Master",
+     "quando": "20/11",
+     "titulo": "PF diz ao STF que não encontrou conversas diretas entre André Mendonça e Daniel Vorcaro",
+     "resumo": "O relatório de 35 páginas, tornado público por Edson Fachin a pedido do próprio Mendonça, lista menções ao ministro em diálogos do banqueiro com terceiros entre 2024 e 2025, incluindo um encontro que Mendonça confirmou e diz ter tratado de precatórios. Fachin enviou à PGR os relatórios sobre Mendonça, Moraes, Nunes Marques e Toffoli e arquivou os que citavam outros cinco ministros.",
+     "lados": [
+      {
+       "quem": "André Mendonça",
+       "txt": "Pediu a retirada do sigilo e a divulgação integral do relatório; afirma que o único encontro com Vorcaro tratou de uma ação sobre precatórios."
+      },
+      {
+       "quem": "Polícia Federal",
+       "txt": "Registra 303 ocorrências do nome do ministro nos celulares do banqueiro, mas diz não haver registro de conversa direta entre os dois."
+      }
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/Iez1JX-lCwCWAruHzHAs9hrtVmA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_numero_de_serie_de_4_digitos_090620_7.jpg?itok=av6AQ5Kg",
+      "credito": "Marcello Casal jr/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/caso-master-veja-o-que-mensagens-apreendidas-pela-pf-dizem-sobre-mendonca/"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/caso-master-pf-nao-encontra-conversas-diretas-entre-vorcaro-e-andre-mendonca/"
+      }
+     ]
+    },
+    {
      "kicker": "STF",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Moraes vota para manter retidos os passaportes de Flávio Bolsonaro; 1ª Turma decide até 30 de novembro",
      "resumo": "O relator negou o recurso da defesa e manteve a proibição de deixar o país e de contato com o advogado Willer Tomaz, investigado no mesmo inquérito sobre lavagem de dinheiro ligada a apostas. A PGR defendeu a manutenção das medidas. Faltam os votos de Flávio Dino, Cristiano Zanin e Cármen Lúcia, no plenário virtual, até o dia 30.",
      "lados": [
@@ -397,53 +396,29 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Bolsas em correção e bitcoin em queda",
+   "nota": "Bolsas em correção e bitcoin em recuperação",
    "itens": [
     {
      "kicker": "Criptomoedas",
      "quando": "Hoje",
-     "titulo": "Bitcoin chega a US$ 55,1 mil na madrugada, menor nível desde setembro de 2024, e opera perto de US$ 58 mil",
-     "resumo": "Às 7h, a criptomoeda caía cerca de 5,9% em 24 horas, e o índice de medo e ganância do setor marcava 12, faixa de medo extremo. A CoinGlass contabilizou cerca de US$ 1,16 bilhão em liquidações no período, quase todas de apostas na alta; na quinta, os fundos de bitcoin nos EUA tiveram saída líquida de US$ 582 milhões.",
+     "titulo": "Bitcoin volta a US$ 60 mil depois de cair a US$ 55,1 mil no sábado, menor nível desde 2024",
+     "resumo": "Às 6h40, a criptomoeda subia cerca de 3,9% em 24 horas, mas ainda acumulava queda de 8,5% em sete dias, e o índice de medo e ganância do setor marcava 11, faixa de medo extremo. Em novembro, a desvalorização passa de 20%, com saída de recursos de fundos de bitcoin nos EUA e a correção das bolsas americanas.",
      "fontes": [
       {
        "n": "Bitnotícias",
-       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-21-de-novembro-de-2026/"
+       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-22-de-novembro-de-2026/"
       },
       {
-       "n": "KuCoin News",
-       "u": "https://www.kucoin.com/pt/news/flash/bitcoin-plummets-to-55k-crypto-fear-index-hits-extreme-levels"
-      },
-      {
-       "n": "Bitcoin.com News",
-       "u": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/"
+       "n": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/criptomoedas/maior-tombo-mensal-desde-2022-bitcoin-btc-fura-o-piso-cai-abaixo-de-us-60-mil-e-arrasta-outras-criptomoedas-ccgg/"
       }
      ]
     },
     {
-     "kicker": "Nvidia",
-     "quando": "Ontem",
-     "titulo": "Nvidia cai 14% após relato de investigação da SEC, e S&P 500 e Dow Jones entram em correção",
-     "resumo": "Na sexta, o S&P 500 recuou 3,70% e o Nasdaq 5,28%; na semana, as perdas foram de 8,6% e 10%, e o índice de volatilidade VIX chegou a 40 pontos, o maior desde abril de 2025. A Nvidia fechou a US$ 125,53, na sétima semana seguida de baixa, depois de a Reuters relatar que a SEC examina suas práticas contábeis; a Anthropic caiu 8,5% um dia após a estreia na bolsa.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC / Estadão Conteúdo",
-       "u": "https://www.dgabc.com.br/Noticia/4369948/bolsas-de-ny-fecham-em-forte-queda-com-tombo-de-anthropic-e-nvidia"
-      },
-      {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-money/2026/11/sec-investiga-contabilidade-nvidia/"
-      },
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/acoes-nvidia-queda-investigacao-sec"
-      }
-     ]
-    },
-    {
-     "kicker": "Feriado",
-     "quando": "Ontem",
-     "titulo": "Com a B3 fechada, ETF de ações brasileiras cai 1,3% em Nova York; dólar acumulou alta de quase 5% na semana",
-     "resumo": "No pré-mercado americano, o EWZ recuava para US$ 29,13, e os recibos de Petrobras, Vale e Itaú também caíam. Na quinta, o Ibovespa fechou em 166.376 pontos e o dólar terminou a R$ 5,935, maior nível desde abril de 2025. A bolsa brasileira volta a operar na segunda (23).",
+     "kicker": "Mercado",
+     "quando": "Hoje",
+     "titulo": "B3 reabre na segunda após o feriado, com o dólar no maior nível desde abril de 2025 e o ajuste fiscal na pauta",
+     "resumo": "O Ibovespa fechou a quinta (19) em 166.376 pontos, e o dólar terminou a R$ 5,935, depois de uma semana de saída de estrangeiros e de adiamentos na votação do pacote fiscal. Na segunda, o mercado recebe o Boletim Focus e reage às quedas de Nova York na sexta, quando a bolsa brasileira não abriu.",
      "foto": {
       "src": "fotos/real.jpg",
       "credito": "José Cruz/Agência Brasil (arquivo)"
@@ -460,12 +435,44 @@
       {
        "n": "AVNews",
        "u": "https://www.ativovirtual.com.br/avnews/artigos/b3-fechada-eua-e-bce-antecipam-o-tom-da-segunda"
+      },
+      {
+       "n": "Paraná Shop",
+       "u": "https://www.paranashop.com.br/post/bolsa-na-semana-19-11-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Nvidia",
+     "quando": "20/11",
+     "titulo": "Nvidia tem a pior semana desde 2008, com queda de 23%, e S&P 500 e Dow Jones entram em correção",
+     "resumo": "A ação caiu 14% na sexta e fechou a US$ 125,53, depois de a Reuters relatar que a SEC examina as práticas contábeis da empresa; na semana, a fabricante perdeu cerca de US$ 1 trilhão em valor de mercado. O S&P 500 recuou 3,70% e o Nasdaq 5,28% no dia.",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC / Estadão Conteúdo",
+       "u": "https://www.dgabc.com.br/Noticia/4369948/bolsas-de-ny-fecham-em-forte-queda-com-tombo-de-anthropic-e-nvidia"
+      },
+      {
+       "n": "Forbes Brasil",
+       "u": "https://forbes.com.br/forbes-money/2026/11/sec-investiga-contabilidade-nvidia/"
+      },
+      {
+       "n": "IstoÉ Dinheiro",
+       "u": "https://istoedinheiro.com.br/acoes-nvidia-queda-investigacao-sec"
+      },
+      {
+       "n": "Motley Fool",
+       "u": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/acoes-da-nvidia-desabam-noticia-sobre-investigacao-da-sec-sobre-companhia/"
       }
      ]
     },
     {
      "kicker": "Guerra",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Pentágono calcula em US$ 48 bilhões o custo da guerra contra o Irã até 13 de novembro",
      "resumo": "O valor, apresentado em audiência no Senado americano, inclui munições, reposição de equipamentos e operações, mas não os danos a bases atingidas por mísseis e drones iranianos. Democratas cobram a conta completa, e o tema pesa na discussão de um orçamento de defesa de US$ 1,5 trilhão.",
      "fontes": [
@@ -485,37 +492,29 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Temporal no RS, alertas e Consciência Negra",
+   "nota": "Temporal no RS, alertas e direitos",
    "itens": [
     {
      "kicker": "Rio Grande do Sul",
      "quando": "Hoje",
-     "titulo": "Mortes no temporal de Tupanciretã sobem para quatro; quase 20 mil pessoas foram afetadas no RS",
-     "resumo": "Um idoso transferido para o hospital universitário de Santa Maria morreu na madrugada de sábado, segundo o balanço estadual, que soma 19.663 afetados em 36 municípios, 50 desabrigados e 74 desalojados. O governo gaúcho liberou R$ 2 milhões emergenciais e montou gabinete de crise na cidade, onde milhares de casas ficaram sem telhado; a Defesa Civil investiga se houve tornado ou microexplosão.",
+     "titulo": "Mortes no temporal de Tupanciretã sobem para cinco; feridos passam de 260 e calamidade é homologada",
+     "resumo": "A Defesa Civil gaúcha confirmou no sábado a morte de um homem de 65 anos que estava internado em Cruz Alta; os feridos chegam a 265. O temporal atingiu cerca de 20 mil pessoas, destelhou quase 7,8 mil casas, danificou 20 escolas e derrubou cerca de mil árvores, e o estado de calamidade pública no município foi homologado.",
      "foto": {
       "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
       "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Agora no Vale",
+       "u": "https://agoranovale.com.br/noticias/riograndedosul/temporal-em-tupancireta-deixou-cinco-mortos-e-265-feridos/"
+      },
+      {
+       "n": "Bem Paraná",
+       "u": "https://www.bemparana.com.br/noticias/brasil/atualizacao-numero-de-mortos-em-temporal-no-rs-sobe-para-cinco/"
+      },
+      {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/brasil/2026/11/21/sobe-para-quatro-o-numero-de-mortos-apos-temporal-em-tupancireta-rs"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sul/rs/cidade-mais-assolada-que-ja-vi-diz-bombeiro-sobre-tupancireta-no-rs/"
-      },
-      {
-       "n": "Canal Rural",
-       "u": "https://www.canalrural.com.br/nacional/rio-grande-do-sul/tupancireta-registra-tres-mortes-apos-temporal-governo-estadual-destina-r-2-milhoes-a-cidade/"
-      },
-      {
-       "n": "Jornal do Comércio",
-       "u": "https://www.jornaldocomercio.com/geral/2026/11/1271272-sobe-para-quatro-o-numero-de-mortos-devido-ao-temporal-em-tupancireta.html"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/rs-ex-vereador-esta-entre-vitimas-da-tempestade-em-tupancireta"
       }
      ],
      "destaque": false
@@ -523,26 +522,26 @@
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "RS tem novo alerta de tempestade com granizo e rajadas acima de 80 km/h no norte e no noroeste",
-     "resumo": "O risco é maior à tarde e à noite deste sábado, enquanto o sul gaúcho deve ter chuva fraca a moderada. O Inmet mantém aviso amarelo de tempestade para 18 estados e o Distrito Federal até as 23h59.",
+     "titulo": "Inmet mantém alerta de tempestade para áreas das cinco regiões do país neste domingo",
+     "resumo": "O aviso prevê chuva forte, raios e ventos de até 60 km/h em estados do Sul, Sudeste, Centro-Oeste, Norte e Nordeste, com alerta amarelo para a capital fluminense.",
      "fontes": [
       {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/tempo/alerta-temporal-rs-granizo-ventos-80-km-h/"
-      },
-      {
        "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/20/inmet-emite-alerta-amarelo-para-tempestades-em-19-unidades-da-federacao"
+       "u": "https://www.mixvale.com.br/2026/11/20/alerta-de-tempestade-do-inmet-atinge-cinco-regioes-do-brasil-no-domingo-22-com-ventos-de-60-km-h/"
       },
       {
-       "n": "Folha de Curitiba",
-       "u": "https://folhadecuritiba.com.br/alerta-tempestade-curitiba-21-novembro-2026/"
+       "n": "Agência GBC",
+       "u": "https://agenciagbc.com/2026/11/20/inmet-emite-alerta-de-tempestade-para-cinco-regioes-do-brasil-neste-domingo/"
+      },
+      {
+       "n": "TMC",
+       "u": "https://tmc.com.br/brasil/previsao-do-tempo-rio-de-janeiro-22-11-2026/"
       }
      ]
     },
     {
      "kicker": "Consciência Negra",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Marcha da Consciência Negra reúne manifestantes na Paulista e cobra ministra negra no STF e reparação histórica",
      "resumo": "Organizada por MNU, Uneafro, Unegro e Coalizão Negra por Direitos, a 23ª edição homenageou os 60 anos dos Panteras Negras e levou pautas contra a violência policial e a redução da maioridade penal. No centro, a feira com 120 empreendedores negros e indígenas segue até sábado, das 10h às 22h.",
      "foto": {
@@ -567,6 +566,18 @@
        "u": "https://vermelho.org.br/2026/11/19/dia-da-consciencia-negra-tera-atos-contra-ajuste-fiscal-e-reducao-da-maioridade-penal/"
       }
      ]
+    },
+    {
+     "kicker": "Direitos humanos",
+     "quando": "18/11",
+     "titulo": "Governo prepara protocolo nacional contra o casamento infantil; IBGE conta mais de 34 mil crianças de 10 a 14 anos em uniões",
+     "resumo": "As diretrizes, apresentadas pela ministra Janine Mello, preveem ações em escolas e unidades de saúde e a capacitação de 10 mil profissionais até 2028; 77% das crianças em uniões são meninas. O casamento antes dos 16 anos é proibido desde 2019, e um projeto na Câmara quer tornar essas uniões nulas.",
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/22/governo-mira-34-mil-casos-casamento-infantil-protocolo"
+      }
+     ]
     }
    ]
   },
@@ -574,35 +585,99 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "COP31 na prorrogação, Ucrânia e Irã",
+   "nota": "COP31, Ucrânia e Irã",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "COP31 entra na prorrogação sem acordo; Panamá ameaça bloquear texto que não cite os combustíveis fósseis",
-     "resumo": "Cerca de 200 países seguiam negociando em Antália neste sábado, e vários ministros já deixaram a Turquia. A minuta de quinta retirou a menção ao abandono de petróleo, gás e carvão e a meta de US$ 120 bilhões para adaptação; o comissário europeu Wopke Hoekstra disse preferir nenhum acordo a um acordo ruim, enquanto Arábia Saudita e outros produtores rejeitam citar os fósseis.",
+     "titulo": "COP31 chega ao domingo sem acordo; novo rascunho continua sem citar os combustíveis fósseis",
+     "resumo": "O texto das presidências turca e australiana, divulgado na madrugada, fala em eletrificação e em captura de carbono e só alude ao compromisso da COP28; a plenária estava prevista para a manhã deste domingo em Antália. Produtores liderados pela Arábia Saudita rejeitam nova referência aos fósseis, enquanto países do Pacífico, da Europa e da América Latina pedem menção explícita.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/cop31-passa-do-prazo-e-termina-sem-acordo-sobre-combustiveis-fosseis"
+       "n": "Notícias ao Minuto / Lusa",
+       "u": "https://www.noticiasaominuto.com/mundo/3088239/cop31-novo-projeto-de-decisao-final-continua-sem-referencias-as-energias-fosseis"
       },
       {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/11/21/cop31-avanca-para-prorrogacao-sem-consenso-sobre-combustiveis-fosseis/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/nova-minuta-de-documento-final-da-cop31-tira-mencao-a-combustiveis-fosseis"
       },
       {
        "n": "Exame",
        "u": "https://exame.com/esg/sem-acordo-em-antalia-cop31-passa-do-prazo-e-expoe-o-desafio-de-repensar-a-propria-cop/"
       },
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/impasses-entre-paises-podem-atrasar-documento-final-da-cop31"
+       "n": "Forbes Brasil",
+       "u": "https://forbes.com.br/forbes-esg/2026/11/cop31-retira-combustiveis-fosseis-da-minuta-e-negocia-acordo-final/"
+      }
+     ],
+     "lados": [
+      {
+       "quem": "Defensores da menção",
+       "txt": "Cerca de 23 países, a União Europeia e o Panamá pedem que o texto cite a saída dos combustíveis fósseis e ameaçam não aprovar uma decisão sem isso."
+      },
+      {
+       "quem": "Produtores e presidência",
+       "txt": "Arábia Saudita e outros exportadores rejeitam a referência; a presidência defende focar em energia limpa, eletrificação e captura de carbono para obter consenso."
       }
      ]
     },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
+     "titulo": "Drone russo derruba parte de prédio na região de Kiev; Zelensky diz que até 14 pessoas podem estar sob os escombros",
+     "resumo": "O ataque atingiu na madrugada um edifício residencial de cinco andares em Dimer; nove moradores foram retirados e duas pessoas ficaram feridas, entre elas um adolescente. Zelensky disse que a Rússia lançou cerca de 2.700 drones e 165 mísseis na última semana e pediu aos EUA que autorizem a transferência de sistemas Patriot já pagos por aliados.",
+     "fontes": [
+      {
+       "n": "CNN Brasil / Reuters",
+       "u": "https://www.cnnbrasil.com.br/internacional/drone-atinge-predio-na-regiao-de-kiev/"
+      },
+      {
+       "n": "Infobae / EFE",
+       "u": "https://www.infobae.com/america/agencias/2026/11/22/zelenski-dice-que-14-victimas-podrian-estar-bajo-escombros-de-edificio-atacado-por-rusia/"
+      },
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/liveblogs/ucrania-denuncia-ataque-russo-em-kiev-ha-14-pessoas-desaparecidas/"
+      }
+     ]
+    },
+    {
+     "kicker": "Irã",
+     "quando": "Ontem",
+     "titulo": "Irã diz buscar acordo com os EUA e admite reabrir Ormuz em até duas horas se suas exigências forem atendidas",
+     "resumo": "O chanceler Abbas Araghchi afirmou que Teerã quer o fim da guerra na região, o levantamento do bloqueio naval e das sanções e o descongelamento de ativos, e manteve a recusa em enviar ao exterior o urânio enriquecido a 60%. Na sexta, Donald Trump disse que o Irã quer um acordo, mas não um que ele considere aceitável, e que busca um entendimento permanente contra a arma nuclear.",
+     "fontes": [
+      {
+       "n": "Público / Lusa",
+       "u": "https://www.publico.pt/2026/11/21/mundo/noticia/teerao-procura-acordo-conflito-admite-acelerar-reabertura-ormuz-2195814"
+      },
+      {
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/internacional/teero-procura-acordo-e-admite-acelerar-reabertura-de-ormuz"
+      },
+      {
+       "n": "Gazeta Brasil",
+       "u": "https://gazetabrasil.com.br/mundo/2026/11/21/trump-diz-buscar-acordo-permanente-que-impeca-o-ira-de-obter-arma-nuclear/"
+      },
+      {
+       "n": "Vero Notícias / CNN",
+       "u": "https://veronoticias.com/mundo/representantes-dos-eua-e-do-catar-discutem-acordo-para-encerrar-guerra-com-ira/"
+      }
+     ],
+     "lados": [
+      {
+       "quem": "Irã",
+       "txt": "Propõe que os EUA cumpram as exigências no primeiro dia e que Ormuz seja reaberto no segundo, com início das negociações; diz que a doutrina nuclear não mudou."
+      },
+      {
+       "quem": "Estados Unidos",
+       "txt": "Trump afirma buscar um acordo permanente que impeça o Irã de ter arma nuclear e diz que a proposta iraniana ainda não é aceitável."
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Ontem",
      "titulo": "Ataque russo a Kryvyi Rih, cidade natal de Zelensky, mata um menino de 7 anos e uma mulher e fere 60",
      "resumo": "Segundo autoridades locais, mísseis atingiram cerca de 25 prédios residenciais, um hospital, escolas e uma instalação industrial; seis crianças estão entre os feridos. Em Kharkiv, um drone russo feriu 11 pessoas, e autoridades russas relataram três feridos por drones ucranianos em Bryansk e Belgorod.",
      "fontes": [
@@ -627,74 +702,6 @@
        "u": "https://theobjective.com/internacional/2026-11-21/ataque-ruso-ucrania-muertos-heridos/"
       }
      ]
-    },
-    {
-     "kicker": "Irã",
-     "quando": "Hoje",
-     "titulo": "Trump diz buscar acordo permanente que impeça o Irã de ter arma nuclear; Teerã condiciona reabertura de Ormuz",
-     "resumo": "Em entrevista à Fox News, o presidente americano disse negociar com um novo grupo de lideranças iranianas, com mediação do Catar e do Paquistão. O chanceler Abbas Araghchi afirmou na sexta que o Irã pode reabrir o Estreito de Ormuz em 48 horas se os EUA cumprirem antes suas exigências, mas descartou enviar ao exterior o urânio enriquecido a 60%.",
-     "fontes": [
-      {
-       "n": "Gazeta Brasil",
-       "u": "https://gazetabrasil.com.br/mundo/2026/11/21/trump-diz-buscar-acordo-permanente-que-impeca-o-ira-de-obter-arma-nuclear/"
-      },
-      {
-       "n": "Vero Notícias / CNN",
-       "u": "https://veronoticias.com/mundo/representantes-dos-eua-e-do-catar-discutem-acordo-para-encerrar-guerra-com-ira/"
-      },
-      {
-       "n": "Diário da Guanabara",
-       "u": "https://dgrj.com.br/internacional/trump-defende-acordo-nuclear-permanente-com-o-ira"
-      }
-     ]
-    },
-    {
-     "kicker": "Guerra na Ucrânia",
-     "quando": "Ontem",
-     "titulo": "Ataque russo com mísseis e drones atinge pontes de Kiev e mata ao menos oito; Polônia diz que míssil caiu em seu território",
-     "resumo": "Foram seis mortos em Kiev e dois em uma estação de trem em Lviv, com apagões na capital e em outras dez regiões. Moscou apresentou o ataque como resposta aos golpes ucranianos à ponte da Crimeia; o premiê polonês, Donald Tusk, chamou o episódio de provocação. A Estônia anunciou que fechará a fronteira com a Rússia por pelo menos seis meses a partir de 1º de dezembro.",
-     "fontes": [
-      {
-       "n": "Kyiv Independent",
-       "u": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/20/ataques-aereos-russos-em-kiev-matam-tres-pessoas-e-danificam-duas-pontes"
-      },
-      {
-       "n": "CNN Portugal",
-       "u": "https://cnnportugal.iol.pt/guerra/ucrania/tres-pontes-em-menos-de-24-horas-porque-e-que-a-russia-esta-a-atacar-as-travessias-de-kiev/20261120/6b0037490cf2c0fc744b6f29"
-      },
-      {
-       "n": "Observador / Lusa",
-       "u": "https://observador.pt/2026/11/20/zelensky-ve-ataques-na-crimeia-como-ato-deliberado-contra-propriedade-ucraniana/"
-      },
-      {
-       "n": "Estado de Minas / Folhapress",
-       "u": "https://www.em.com.br/internacional/2026/11/7541746-russia-mata-8-em-ataques-a-ucrania-apos-putin-prometer-retaliacao-por-ponte-da-crimeia.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Peru",
-     "quando": "Ontem",
-     "titulo": "Terremoto de magnitude 6,9 atinge os Andes peruanos e é sentido em Lima, sem vítimas",
-     "resumo": "O tremor ocorreu às 19h09 de sexta, com epicentro a 34 km de Junín e a 108 km de profundidade, segundo o Serviço Geológico dos EUA. O Instituto Geofísico do Peru não registrou danos nem feridos, mas moradores de Lima deixaram os prédios.",
-     "fontes": [
-      {
-       "n": "Korea JoongAng Daily / AP",
-       "u": "https://www.koreajoongangdaily.com/world/peru-hit-by-69magnitude-earthquake-no-casualties-or-damage-reported/12983748"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-69-atinge-lima-capital-do-peru/"
-      },
-      {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/20/terremoto-de-magnitude-69-abala-os-andes-do-peru-e-e-sentido-em-lima/"
-      }
-     ]
     }
    ]
   },
@@ -702,11 +709,87 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Flamengo campeão e final da Sul-Americana",
+   "nota": "Boca campeão, Flamengo e F1",
    "itens": [
     {
-     "kicker": "Libertadores",
+     "kicker": "Fórmula 1",
      "quando": "Hoje",
+     "titulo": "Verstappen vence o GP de Las Vegas à frente de Norris e Piastri; Bortoleto termina em 12º",
+     "resumo": "O holandês da Red Bull, que herdou a pole, segurou os pilotos da McLaren até a última volta na madrugada deste domingo (horário de Brasília). Rafael Câmara, da Haas, foi 16º depois de se envolver em batida com Sergio Pérez, que abandonou; faltam as etapas do Catar e de Abu Dhabi.",
+     "fontes": [
+      {
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-verstappen-vence-batalha-eletrizante-em-las-vegas-apos-duelos-ate-a-ultima-volta/"
+      },
+      {
+       "n": "The Race",
+       "u": "https://www.the-race.com/formula-1/f1-2026-las-vegas-grand-prix-race-result/"
+      },
+      {
+       "n": "ESPN",
+       "u": "https://espndeportes.espn.com/deporte-motor/f1/nota/_/id/17547049/f1-max-verstappen-gana-gp-las-vegas"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Flamengo empata com o Palmeiras em São Paulo e é campeão brasileiro pelo segundo ano seguido",
+     "resumo": "Jhon Arias abriu o placar para o Palmeiras no primeiro tempo, e Samuel Lino empatou aos 30 minutos da etapa final no Nubank Parque. Com 80 pontos, seis à frente do vice, o Flamengo garantiu o título com duas rodadas de antecedência.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/flamengo-empata-com-palmeiras-e-e-campeao-brasileiro-de-2026"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-empata-com-o-palmeiras-e-e-campeao-brasileiro-pelo-2o-ano-seguido/"
+      },
+      {
+       "n": "ESPN",
+       "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17544359/flamengo-empata-palmeiras-e-campeao-brasileiro-no-nubank-parque"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Ontem",
+     "titulo": "Cruzeiro vence a rebaixada Chapecoense por 2 a 1 e chega à sexta vitória seguida",
+     "resumo": "Matheus Pereira abriu o placar no início do segundo tempo, Kauan empatou e Wesley fez o gol da vitória aos 43 minutos, na Arena Condá. O Cruzeiro soma 66 pontos e segue em 3º, seis à frente do Fluminense.",
+     "fontes": [
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-chapecoense-sexta-vitoria-seguida-brasileirao/"
+      },
+      {
+       "n": "Band",
+       "u": "https://www.band.com.br/esportes/futebol/times/cruzeiro/cruzeiro-bate-chapecoense-e-conquista-sexta-vitoria-seguida-no-brasileirao"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Domingo tem Fluminense x Mirassol e Bragantino x Vasco, em duelo direto por vaga na Libertadores",
+     "resumo": "Athletico-PR e Remo abrem a rodada às 16h; o Fluminense recebe o Mirassol às 18h30, e Bragantino e Vasco, empatados com 47 pontos, jogam às 19h30 em Bragança Paulista. Na Inglaterra, Liverpool e Manchester United se enfrentam às 13h30.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/vasco-e-rb-bragantino-duelam-neste-domingo-em-busca-de-vaga-na-libertadores"
+      },
+      {
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-22-11-2026-futebol-na-tv"
+      }
+     ]
+    },
+    {
+     "kicker": "Libertadores",
+     "quando": "Ontem",
      "titulo": "Vice garantido no Brasileirão, Palmeiras foca na final da Libertadores contra o Estudiantes, no dia 28",
      "resumo": "A decisão, em jogo único, será no Estádio Centenário, em Montevidéu, às 17h de sábado (28). Antes, o time de Abel Ferreira visita a Chapecoense na terça (24), pela 37ª rodada.",
      "fontes": [
@@ -719,62 +802,6 @@
        "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/"
       }
      ]
-    },
-    {
-     "kicker": "Sul-Americana",
-     "quando": "Hoje",
-     "titulo": "Atlético-MG enfrenta o Boca Juniors às 19h30 em Barranquilla em busca do primeiro título da Sul-Americana",
-     "resumo": "O jogo único é no estádio Roberto Meléndez, na Colômbia, e o campeão leva US$ 10 milhões. O Atlético disputa a terceira final continental seguida, mas chega com sete jogos sem vencer e sem o zagueiro Alan Franco, suspenso; o Boca busca o terceiro título do torneio, depois de 2004 e 2005. Transmissão do SBT, ESPN e Disney+.",
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/atletico-mg-x-boca-horario-e-onde-assistir-a-final-da-sul-americana/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/atletico-mg-enfrenta-boca-juniors-em-busca-do-titulo-da-copa-sul-americana"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/esporte/atletico-mg-x-boca-juniors-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes/"
-      }
-     ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "Verstappen herda a pole em Las Vegas após punição a Antonelli; Bortoleto larga em 13º e Câmara em 15º",
-     "resumo": "Kimi Antonelli fez o melhor tempo, mas perdeu cinco posições por troca de componentes do motor e larga em sexto. Russell e Norris completam as primeiras posições do grid. A corrida começa à 1h de domingo, horário de Brasília.",
-     "fontes": [
-      {
-       "n": "Gazeta Esportiva / AFP",
-       "u": "https://www.gazetaesportiva.com/motor/formula-1/verstappen-pole-gp-las-vegas-antonelli-bortoleto/"
-      },
-      {
-       "n": "Mais Goiás",
-       "u": "https://www.maisgoias.com.br/esportes/automobilismo/verstappen-larga-na-frente-no-gp-de-las-vegas-bortoleto-e-13o-e-camara-15o-veja-o-grid-completo/"
-      },
-      {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/verstappen-se-vale-de-punicao-a-antonelli-e-fica-com-pole-do-gp-de-las-vegas-bortoleto-e-14o/"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Hoje",
-     "titulo": "Cruzeiro visita a rebaixada Chapecoense às 21h em busca da sexta vitória seguida",
-     "resumo": "Já classificado para a fase de grupos da Libertadores, o time mineiro tenta consolidar o terceiro lugar, mas tem desfalques como Kaio Jorge e Gerson, suspensos. A Chapecoense, lanterna com 21 pontos, faz o segundo jogo com o técnico Vinícius Bergantin.",
-     "fontes": [
-      {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/desfalcado-cruzeiro-visita-rebaixada-chapecoense-por-6a-vitoria-seguida-no-brasileirao/"
-      },
-      {
-       "n": "Flashscore",
-       "u": "https://www.flashscore.com.br/noticias/futebol-brasileirao-serie-a-chapecoense-x-cruzeiro-onde-assistir-times-e-tudo-sobre-jogo-do-brasileirao/Yw4oxznm/"
-      }
-     ]
     }
    ]
   },
@@ -782,11 +809,11 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Atendimento no RS, antibióticos e dengue",
+   "nota": "Atendimento no RS, concurso e pesquisa",
    "itens": [
     {
      "kicker": "SUS",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Força Nacional do SUS segue para Tupanciretã para atender feridos do temporal",
      "resumo": "Equipes do Ministério da Saúde reforçam o atendimento no município gaúcho, onde o hospital teve o telhado danificado e 11 pacientes foram levados a cidades vizinhas. O Samu montou base avançada de triagem em Santa Maria, e o temporal deixou dezenas de feridos.",
      "fontes": [
@@ -805,8 +832,24 @@
      ]
     },
     {
+     "kicker": "Concurso",
+     "quando": "Ontem",
+     "titulo": "Ministério da Saúde recebe inscrições até 14 de dezembro para 300 vagas temporárias de nível superior",
+     "resumo": "Os salários vão de R$ 4.740,51 a R$ 10.354,29, mais auxílio-alimentação, em contratos de um ano que podem ser prorrogados; a maior parte das vagas é em Brasília. A prova objetiva está marcada para 17 de janeiro, e a taxa de inscrição é de R$ 60.",
+     "fontes": [
+      {
+       "n": "Correio de Minas",
+       "u": "https://correiodeminas.com.br/2026/11/21/ministerio-da-saude-abre-300-vagas-temporarias-de-nivel-superior-com-salarios-de-r-4-74051-a-r-10-35429-e-auxilio-alimentacao-de-r-1-192-em-sete-capitais-mas-o-contrato-e-de-um-ano-e-o-trabalho"
+      },
+      {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/empregos-e-concursos/ministerio-saude-300-vagas-temporarias-salarios-10-mil/"
+      }
+     ]
+    },
+    {
      "kicker": "Pesquisa",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Compostos de ouro mostram ação contra bactérias multirresistentes em testes de laboratório",
      "resumo": "Pesquisadores da Universidade de Oviedo e do ISGlobal, de Barcelona, relatam que cerca de 84% dos complexos testados tiveram alta atividade antibacteriana, inclusive contra cepas da lista de patógenos prioritários da OMS. Ainda faltam testes de toxicidade e de eficácia em infecções, e não há previsão de uso em pacientes.",
      "fontes": [
@@ -818,7 +861,7 @@
     },
     {
      "kicker": "Dengue",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Anvisa autoriza venda do método Wolbachia diretamente a estados e prefeituras",
      "resumo": "Até agora, só o Ministério da Saúde decidia onde soltar os mosquitos com a bactéria, que reduz a transmissão da dengue. O método já está em 16 cidades, e dezenas de municípios procuraram a empresa responsável.",
      "fontes": [
@@ -834,11 +877,31 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Enem, ciência nas escolas e cursos de medicina",
+   "nota": "Unesp, Enem e cursos de medicina",
    "itens": [
     {
+     "kicker": "Vestibular",
+     "quando": "Hoje",
+     "titulo": "Unesp aplica hoje a 1ª fase do vestibular 2027 para 65,7 mil candidatos",
+     "resumo": "A prova tem 90 questões objetivas, começa às 13h e dura cinco horas; os portões fecham às 12h30. São 5.850 vagas, com medicina, direito e psicologia entre os cursos mais procurados, e o resultado da primeira fase sai em 7 de dezembro.",
+     "foto": {
+      "src": "fotos/enamed.jpg",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/sao-paulo/unesp-2027-1a-fase-do-vestibular-acontece-neste-domingo-veja-orientacoes"
+      },
+      {
+       "n": "Urgente News",
+       "u": "https://urgentenews.org/sao-paulo/2026/11/21/unesp-aplica-primeira-fase-do-vestibular-2027-com-mais-de-65-mil-inscritos-e-5-850-vagas-em-disputa.html"
+      }
+     ]
+    },
+    {
      "kicker": "Enem",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Terminou na sexta o prazo para pedir a reaplicação do Enem; provas serão em 15 e 16 de dezembro",
      "resumo": "O Inep recebeu até as 23h59 de sexta (20) os pedidos de quem faltou por problemas de logística, doença ou outras situações previstas no edital. O resultado das solicitações será divulgado pelo instituto na Página do Participante.",
      "foto": {
@@ -862,11 +925,12 @@
        "n": "Terra",
        "u": "https://www.terra.com.br/noticias/educacao/enem/enem-2026-como-pedir-a-reaplicacao-quando-sai-o-gabarito-e-o-resultado-tire-duvidas-sobre-o-exame,48d6e348ff3168425167e0d8bad992cd4bpysfnr.html"
       }
-     ]
+     ],
+     "destaque": false
     },
     {
      "kicker": "Agenda",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Semana Nacional de Ciência e Tecnologia leva atividades para estudantes na Esplanada a partir de segunda",
      "resumo": "O evento ocupa a Esplanada dos Ministérios, em Brasília, de 23 a 29 de novembro, com exposições e oficinas abertas a escolas e ao público. A programação é organizada pelo Ministério da Ciência, Tecnologia e Inovação.",
      "fontes": [
@@ -898,7 +962,7 @@
    "itens": [
     {
      "kicker": "Genética",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "DNA de quase 16 mil pessoas antigas mostra como a seleção natural agiu desde o início da agricultura",
      "resumo": "O estudo, publicado na Nature, analisou genomas de 15.836 indivíduos do oeste da Eurásia ao longo de cerca de 10 mil anos, mais de 10 mil deles inéditos, e identificou centenas de variantes com sinais de seleção. Os autores advertem que as pontuações ligadas a traços como gordura corporal vêm de populações atuais, o que limita a interpretação.",
      "fontes": [
@@ -910,7 +974,7 @@
     },
     {
      "kicker": "Astronomia",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Astrônomos procuravam um planeta a 28 anos-luz e acharam uma anã branca escondida num sistema triplo",
      "resumo": "A estrela oculta foi detectada pela oscilação da anã vermelha que ela acompanha e confirmada em imagens do telescópio Gemini North; o sistema, chamado Welopōʻai, tem duas anãs brancas e é o mais próximo desse tipo conhecido. A anã branca interna tem cerca de 62% da massa do Sol e completa a órbita em quase dez anos.",
      "fontes": [
@@ -926,7 +990,7 @@
     },
     {
      "kicker": "Inteligência artificial",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Fabricantes de chips lideram as perdas no segundo dia de venda de ações de IA; AMD cai cerca de 11% e Micron mais de 12%",
      "resumo": "Investidores questionam o valor das empresas do setor e o ritmo dos gastos com data centers, um dia após a estreia recorde da Anthropic, dona do Claude. Na Nvidia, pesa ainda o relato de que a SEC examina sua contabilidade.",
      "destaque": false,
@@ -943,7 +1007,7 @@
     },
     {
      "kicker": "Biologia",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Estudo em camundongos liga testosterona à preferência de machos e fêmeas por ambientes mais quentes",
      "resumo": "Pesquisadores do King's College London observaram que fêmeas preferem superfícies perto de 36 °C, e machos, em torno de 32 °C. Ao alterar os níveis do hormônio, o comportamento se inverteu; os autores ressaltam que o resultado vale para roedores e não se aplica diretamente a humanos.",
      "fontes": [
@@ -959,12 +1023,24 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Festival, mortes de famosos",
+   "nota": "Dona Flor, festival e mortes",
    "itens": [
+    {
+     "kicker": "Cinema",
+     "quando": "Hoje",
+     "titulo": "“Dona Flor e Seus Dois Maridos” completa 50 anos; filme teve o maior público do cinema nacional até 2010",
+     "resumo": "O longa de Bruno Barreto, com Sônia Braga e José Wilker, estreou em 22 de novembro de 1976 e vendeu mais de 10,7 milhões de ingressos, segundo a Ancine. A marca só foi superada em dezembro de 2010 por “Tropa de Elite 2”, por pouco mais de mil espectadores.",
+     "fontes": [
+      {
+       "n": "Foyer",
+       "u": "https://foyer.digital/post-dona-flor-e-seus-dois-maridos-50-anos-recorde-de-publico.html"
+      }
+     ]
+    },
     {
      "kicker": "Música",
      "quando": "Hoje",
-     "titulo": "Festival da Consciência Negra segue no fim de semana em São Paulo, com mais de 300 atrações gratuitas",
+     "titulo": "Festival da Consciência Negra tem o último dia em São Paulo, com shows gratuitos no centro",
      "resumo": "A programação da prefeitura reúne shows de Seu Jorge, Jota.Pê, Tasha e Tracie e Dudu Nobre, além de oficinas e feiras no centro da cidade. A agenda completa está no site oficial do festival.",
      "fontes": [
       {
@@ -983,7 +1059,7 @@
     },
     {
      "kicker": "Morte",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Paolo Bulgari, que presidiu a joalheria italiana por quatro décadas, morre aos 89 anos em Roma",
      "resumo": "Neto do fundador da marca, ele entrou na empresa em 1960 e a presidia desde 1984; em 2011, a família vendeu o controle ao grupo LVMH. A morte foi anunciada pela família neste sábado, e o funeral será na segunda (23), em Roma.",
      "fontes": [
@@ -995,7 +1071,7 @@
     },
     {
      "kicker": "Luto",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "Influenciador Gabriel Félix morre aos 29 anos depois de passar mal durante partida de futebol",
      "resumo": "A morte foi confirmada na sexta pela noiva, a influenciadora Isabelle Abreu, conhecida como Xsbel, com quem ele tinha uma filha de 3 anos. Ele chegou a ser socorrido, mas não resistiu; a causa médica não foi divulgada oficialmente, e a família pediu privacidade.",
      "fontes": [
@@ -1011,7 +1087,7 @@
     },
     {
      "kicker": "Morte",
-     "quando": "Ontem",
+     "quando": "20/11",
      "titulo": "E.J. Carroll, ator de “The Deuce” e “Lei & Ordem”, morre aos 66 anos",
      "resumo": "A morte, ocorrida na quinta (19), foi confirmada por um representante à revista Variety, sem divulgação da causa. Carroll interpretou Fat Mooney na série da HBO, teve papéis em “Blue Bloods” e “Boardwalk Empire” e dublou personagens do jogo GTA V.",
      "fontes": [
@@ -1026,22 +1102,6 @@
       {
        "n": "Máquina Nerd",
        "u": "https://www.maquinanerd.com.br/series-e-tv/e-j-carroll-ator-de-law-order-e-gta-v-morre-aos-66-anos"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Lance Broadway, ator de “Invasão à Casa Branca” e ex-jogador de beisebol, morre aos 43 anos",
-     "resumo": "Ele foi encontrado sem vida na escadaria de um prédio em Dallas, no Texas, segundo o instituto médico-legal do condado, que não divulgou a causa. Antes da carreira na TV, com papéis em “Agents of S.H.I.E.L.D.” e “Lucifer”, jogou pelo Chicago White Sox e pelo New York Mets.",
-     "fontes": [
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/obituario/lance-broadway-morre-aos-43-anos/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/pop/celebridades/lance-broadway-busca-pelo-ator-na-internet-sobe-5000-apos-morte-anunciada/"
       }
      ]
     }
