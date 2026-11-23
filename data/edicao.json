@@ -1,51 +1,62 @@
 {
  "data": "Segunda-feira, 23 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "23/11/2026 · 07h20 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de fechamento e da Ásia (07h); B3 abre às 10h",
- "fontes": 71,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "23/11/2026 · 12h31 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 10h50",
+ "fontes": 78,
  "mercado": [
   {
-   "nome": "Dólar · fechamento de quinta (19)",
-   "valor": "R$ 5,935",
-   "var": "maior nível desde abril de 2025",
-   "dir": "up"
-  },
-  {
-   "nome": "Ibovespa · fechamento de quinta (19)",
-   "valor": "166.376 pts",
-   "var": "B3 reabre hoje às 10h",
-   "dir": ""
-  },
-  {
-   "nome": "Kospi (Seul) · fechamento de hoje",
-   "valor": "4.708 pts",
-   "var": "-3,31%",
+   "nome": "Ibovespa · 10h50",
+   "valor": "164.691 pts",
+   "var": "-1,01%",
    "dir": "down"
   },
   {
-   "nome": "Selic · Copom",
-   "valor": "13,75%",
-   "var": "Focus sai às 8h30",
-   "dir": ""
+   "nome": "Dólar · máxima às 10h20",
+   "valor": "R$ 6,00",
+   "var": "1ª vez desde abr/2025",
+   "dir": "up"
+  },
+  {
+   "nome": "DI jan/2027 · fechamento de quinta",
+   "valor": "13,72%",
+   "var": "+0,03 p.p.",
+   "dir": "up"
+  },
+  {
+   "nome": "IPCA 2026 · Focus",
+   "valor": "5,15%",
+   "var": "antes 5,11%",
+   "dir": "up"
+  },
+  {
+   "nome": "Selic · Focus fim de 2027",
+   "valor": "13,00%",
+   "var": "antes 12,75%",
+   "dir": "up"
   }
  ],
  "agenda": [
-  {
-   "hora": "Seg 23/11 · 11h",
-   "txt": "Lula recebe o ministro da Defesa e os comandantes das Forças Armadas",
-   "cat": "politica"
-  },
   {
    "hora": "Seg 23/11 · 18h",
    "txt": "Câmara começa a votar o ajuste fiscal aprovado pelo Senado",
    "cat": "politica"
   },
   {
-   "hora": "Seg 23/11 · 20h e 21h",
-   "txt": "Botafogo x São Paulo e Santos x Grêmio fecham a 36ª rodada",
+   "hora": "Seg 23/11 · após 18h",
+   "txt": "Petrobras divulga o plano de negócios 2027-2031",
+   "cat": "economia"
+  },
+  {
+   "hora": "Seg 23/11 · 19h30 a 21h",
+   "txt": "Inter x Vitória, Botafogo x São Paulo e Santos x Grêmio pelo Brasileirão",
    "cat": "esporte"
+  },
+  {
+   "hora": "Ter 24/11 · dia todo",
+   "txt": "Alerta vermelho do Inmet para tempestades em 642 cidades do Sul e de MS",
+   "cat": "brasil"
   },
   {
    "hora": "25 e 26/11",
@@ -56,11 +67,6 @@
    "hora": "Sáb 28/11 · 17h",
    "txt": "Palmeiras x Estudiantes, final da Libertadores em Montevidéu",
    "cat": "esporte"
-  },
-  {
-   "hora": "Até seg 30/11",
-   "txt": "1ª Turma do STF julga recurso de Flávio Bolsonaro sobre passaportes",
-   "cat": "politica"
   }
  ],
  "acervo": [
@@ -156,45 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Ajuste fiscal",
-  "titulo": "Câmara vota hoje o plano de ajuste fiscal do governo, no dia em que a B3 reabre com o dólar no maior nível desde 2025",
-  "resumo": "A sessão convocada por Hugo Motta para as 18h analisa o projeto aprovado pelo Senado por 69 a 2, e o relator manteve o texto para evitar que ele volte aos senadores. São necessários ao menos 257 votos.",
-  "entenda": "O PLP 299/2026, chamado de plano Moretti em referência ao ministro do Planejamento, Bruno Moretti, cria gatilhos para bloquear despesas, reduz benefícios tributários e, em certas condições, baixa de 2,5% para 2% o teto de crescimento real dos gastos federais. O governo estima melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado de 2027 e afirma que saúde, educação e Bolsa Família não serão cortados. A oposição compara a medida a uma pedalada fiscal, o mercado a considera insuficiente e parte da bancada do PT defende focar em aumento de impostos sobre rendas altas. A votação ocorre depois de uma semana de forte queda das ações de tecnologia em Nova York e de alta do dólar, que fechou a quinta (19) a R$ 5,935.",
+  "kicker": "Mercado e ajuste fiscal",
+  "titulo": "Dólar chega a R$ 6 pela primeira vez desde abril de 2025 e Ibovespa cai 1% no dia em que a Câmara vota o ajuste fiscal",
+  "resumo": "A moeda americana bateu R$ 6,00 por volta das 10h20, mesmo com atuação do Banco Central, e a bolsa recuava a 164,7 mil pontos no fim da manhã. A Câmara abre às 18h a análise do plano de ajuste aprovado pelo Senado.",
+  "foto": {
+   "src": "fotos/real.jpg",
+   "credito": "José Cruz/Agência Brasil (arquivo)"
+  },
+  "entenda": "A B3 reabriu depois do feriado de quinta e sexta e teve de absorver a forte queda das ações de tecnologia em Nova York na sexta-feira. O Boletim Focus, divulgado pela manhã, elevou as projeções de inflação para 2026 (5,15%) e 2027 (5,12%), do dólar no fim de 2026 (de R$ 5,40 para R$ 5,55) e da Selic no fim de 2027 (de 12,75% para 13%). O projeto em votação, chamado de plano Moretti, cria gatilhos de contenção de gastos e corta benefícios tributários; o governo estima melhora de R$ 45 bilhões a R$ 56 bilhões no resultado de 2027, enquanto parte do mercado avalia que a maior parte vem de arrecadação e considera a medida insuficiente. Depois do fechamento, a Petrobras divulga seu plano de investimentos para 2027-2031.",
   "fatos": [
-   "Sessão semipresencial começa às 18h com o pedido de urgência; o mérito exige maioria absoluta (257 deputados)",
-   "Relator Mauro Benevides Filho (União-CE) manteve o texto do Senado e prepara novas propostas para dezembro",
-   "Qualquer mudança de conteúdo faria o projeto voltar ao Senado, onde foi aprovado em 18 de novembro"
+   "Ibovespa marcava 164.691 pontos (-1,01%) às 10h50; Petrobras PN caía 2,34% e Embraer, 3,95%",
+   "Focus: PIB de 2026 recuou para 1,70% e o de 2027 para 1,00%",
+   "Aprovar o ajuste exige 257 votos; Novo fechou contra e o PL tentará retomar mudanças rejeitadas no Senado"
   ],
   "fontes": [
    {
-    "n": "CNN Brasil",
-    "u": "https://www.cnnbrasil.com.br/politica/camara-inicia-hoje-analise-do-ajuste-fiscal-apos-resistencias-no-senado/",
-    "d": "início da análise"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23112026/",
+    "d": "pregão ao vivo"
    },
    {
-    "n": "Revista Fórum",
-    "u": "https://revistaforum.com.br/politica/ajuste-fiscal-vai-a-votacao-na-camara-mesmo-com-mau-humor-do-mercado-e-da-oposicao",
-    "d": "quórum e impacto"
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/bolsa-de-valores-ibovespa-hoje",
+    "d": "dólar a R$ 6"
    },
    {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/republica/ministro-de-lula-rebate-criticas-ao-ajuste-fiscal-e-dispara-contra-esquerda-sectaria/",
-    "d": "defesa do ministro"
+    "n": "Investing.com / Reuters",
+    "u": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-com-ajustes-2135608",
+    "d": "ações em destaque"
    },
    {
-    "n": "Agência Pública",
-    "u": "https://apublica.org/nota/agenda-da-semana-camara-vota-ajuste-fiscal-de-lula-e-stf-debate-direitos-indigenas/",
-    "d": "agenda da semana"
+    "n": "Mercado&Consumo",
+    "u": "https://mercadoeconsumo.com.br/23/11/2026/economia/boletim-focus-projecao-para-o-dolar-no-fim-de-2026-avanca-de-r-540-para-r-555/",
+    "d": "Boletim Focus"
    },
    {
-    "n": "Brasil 247 / Folha",
-    "u": "https://www.brasil247.com/economia/relator-do-plano-moretti-prepara-novas-propostas-fiscais-para-apresentar-ao-governo-lula/",
-    "d": "planos do relator"
+    "n": "Exame",
+    "u": "https://exame.com/brasil/camara-deve-votar-hoje-o-ajuste-fiscal-entenda-a-proposta-do-governo-lula/",
+    "d": "proposta em votação"
    },
    {
-    "n": "Revista Oeste",
-    "u": "https://revistaoeste.com/politica/motta-convoca-sessao-para-votar-ajuste-fiscal-na-segunda-feira/",
-    "d": "convocação da sessão"
+    "n": "A Gazeta / Folhapress",
+    "u": "https://www.agazeta.com.br/brasil/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda-23-1126",
+    "d": "rito na Câmara"
    }
   ]
  },
@@ -203,39 +213,39 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste fiscal na Câmara, Bolsonaro e STF",
+   "nota": "Ajuste na Câmara, STF e Forças Armadas",
    "itens": [
     {
      "kicker": "Ajuste fiscal",
      "quando": "Hoje",
-     "titulo": "Câmara abre às 18h a votação do plano Moretti; relator mantém o texto aprovado pelo Senado",
-     "resumo": "Hugo Motta convocou sessão semipresencial para analisar o PLP 299/2026, que cria gatilhos de contenção e, em certas condições, reduz de 2,5% para 2% o limite de crescimento real das despesas. O mérito exige ao menos 257 votos, e qualquer mudança no conteúdo devolveria o projeto ao Senado, onde passou por 69 a 2.",
+     "titulo": "Câmara abre às 18h a votação do plano Moretti; Novo fecha contra e PL tenta retomar mudanças",
+     "resumo": "Hugo Motta convocou sessão extraordinária em que a urgência e depois o mérito precisam de 257 votos. O relator Mauro Benevides Filho (União-CE) manteve o texto do Senado, aprovado por 69 a 2, para que ele siga à sanção; União Brasil e Republicanos apoiam.",
      "lados": [
       {
-       "quem": "Governo e relator",
-       "txt": "O ministro Bruno Moretti e o relator Mauro Benevides Filho (União-CE) dizem que o pacote melhora as contas de 2027 em R$ 45,1 bilhões a R$ 56,1 bilhões sem cortar saúde, educação ou Bolsa Família, e que é condição para a queda dos juros."
+       "quem": "Governo",
+       "txt": "Lula e o ministro Dario Durigan dizem que o pacote é o primeiro passo de um ajuste gradual e não corta saúde, educação nem Bolsa Família."
       },
       {
-       "quem": "Críticos",
-       "txt": "O líder da oposição no Senado, Rogério Marinho (PL-RN), compara a medida a uma pedalada fiscal e o mercado a considera insuficiente; parte do PT, liderada por Lindbergh Farias, contesta mudanças nas regras e defende taxar rendas altas."
+       "quem": "Oposição e críticos",
+       "txt": "PL e Novo querem alterar o texto; parte do mercado vê o ajuste como insuficiente e baseado sobretudo em arrecadação."
       }
      ],
      "fontes": [
       {
+       "n": "A Gazeta / Folhapress",
+       "u": "https://www.agazeta.com.br/brasil/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda-23-1126"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/economia/apos-passar-pelo-senado-camara-vota-hoje-pacote-de-ajuste-fiscal-do-governo-lula,64c5228004998edd6538aa61b0f74472fzrb4x15.html"
+      },
+      {
+       "n": "Exame",
+       "u": "https://exame.com/brasil/camara-deve-votar-hoje-o-ajuste-fiscal-entenda-a-proposta-do-governo-lula/"
+      },
+      {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/politica/camara-inicia-hoje-analise-do-ajuste-fiscal-apos-resistencias-no-senado/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/politica/ajuste-fiscal-vai-a-votacao-na-camara-mesmo-com-mau-humor-do-mercado-e-da-oposicao"
-      },
-      {
-       "n": "Agência Pública",
-       "u": "https://apublica.org/nota/agenda-da-semana-camara-vota-ajuste-fiscal-de-lula-e-stf-debate-direitos-indigenas/"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/politica/motta-convoca-sessao-para-votar-ajuste-fiscal-na-segunda-feira/"
       }
      ]
     },
@@ -243,23 +253,19 @@
      "kicker": "Bolsonaro",
      "quando": "Hoje",
      "titulo": "Bolsonaro segue na UTI, estável e sem previsão de alta; Michelle diz que endoscopia teve resultado positivo",
-     "resumo": "Boletim do hospital DF Star divulgado na noite de domingo (22) informa que o ex-presidente continua em tratamento clínico do abdômen agudo obstrutivo, em jejum e com suporte nutricional. Michelle Bolsonaro, senadora eleita pelo PL, afirmou nas redes sociais que o resultado da endoscopia foi muito positivo. Por decisão de Alexandre de Moraes, a tornozeleira fica retirada durante a internação e deve ser recolocada na alta.",
+     "resumo": "Jair Bolsonaro continua na UTI do Hospital DF Star, em Brasília, clinicamente estável e em tratamento para abdômen agudo obstrutivo, segundo o boletim mais recente. Ele passou mal na sexta (20) e também se recupera de uma pneumonia; cumpre prisão domiciliar e Moraes autorizou visitas dos filhos e da enteada.",
      "foto": {
       "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Gazeta Brasil",
-       "u": "https://gazetabrasil.com.br/brasil/2026/11/23/jair-bolsonaro-segue-na-uti-em-brasilia-com-quadro-estavel-diz-boletim/"
+       "n": "Jornal Pequeno / Agência Brasil",
+       "u": "https://jornalpequeno.com.br/2026/11/23/bolsonaro-permanece-na-uti-e-segue-sem-previsao-de-alta/"
       },
       {
-       "n": "Folha de Curitiba",
-       "u": "https://folhadecuritiba.com.br/michelle-bolsonaro-diz-que-endoscopia-de-jair-bolsonaro-teve-resultado-muito-positivo/"
-      },
-      {
-       "n": "Jornal do Brasil",
-       "u": "https://jb.com.br/brasil/2026/11/1061623-bolsonaro-continua-internado-sem-previsao-de-alta-diz-df-star.html"
+       "n": "DOL",
+       "u": "https://dol.com.br/noticias/brasil/969146/bolsonaro-segue-na-uti-e-sem-previsao-de-alta-veja-o-que-diz-o-boletim-medico"
       },
       {
        "n": "Agência Brasil",
@@ -270,48 +276,52 @@
     {
      "kicker": "Defesa",
      "quando": "Hoje",
-     "titulo": "Lula recebe Múcio e os comandantes das Forças Armadas no Planalto às 11h",
-     "resumo": "Participam o ministro da Defesa, José Múcio, e os comandantes Marcos Olsen (Marinha), Tomás Paiva (Exército) e Marcelo Damasceno (Aeronáutica); a pauta não foi divulgada. Interlocutores de Múcio avaliam que ele deve deixar o cargo ao fim do atual mandato, e o sucessor no novo governo, que toma posse em 5 de janeiro, ainda não foi definido.",
+     "titulo": "Lula reúne Múcio e os três comandantes militares no Planalto; pauta não foi divulgada",
+     "resumo": "O encontro das 11h ocorre em meio à expectativa de saída do ministro da Defesa no início de dezembro. Entre os nomes citados para a sucessão estão a secretária-geral da pasta, Cinara Wagner Fredo, e outras mulheres civis, perfil que Lula avalia.",
      "fontes": [
+      {
+       "n": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/lula-reune-cupula-das-forcas-armadas-em-meio-a-possivel-saida-de-mucio"
+      },
       {
        "n": "Brasil 247",
        "u": "https://www.brasil247.com/brasil/lula-convoca-reuniao-com-mucio-e-comandantes-das-forcas-armadas-no-palacio-do-planalto/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/igor-gadelha/lula-recebe-mucio-e-comandantes-militares-saiba-o-tema"
+       "n": "Plantão Brasil",
+       "u": "https://www.plantaobrasil.net/noticias/164928-lula-reune-cupula-militar-no-planalto-em-meio-a-expectativas-sobre-transicao-ministerial"
       }
      ]
     },
     {
      "kicker": "STF",
      "quando": "Hoje",
-     "titulo": "Lula e Alcolumbre negociam a vaga no STF e o espaço do grupo do senador no próximo governo",
-     "resumo": "Lula prefere o advogado-geral da União, Jorge Messias, rejeitado pelo Senado em abril, enquanto Alcolumbre defende o senador Rodrigo Pacheco (PSD-MG). O encontro previsto para 18 de novembro não aconteceu, e o Planalto quer aprovar um nome antes da posse dos novos senadores, em 2027; não há acordo confirmado.",
+     "titulo": "Lula mantém Messias como favorito à vaga de Barroso, mas aceita outros nomes; Alcolumbre defende Pacheco",
+     "resumo": "Jorge Messias foi rejeitado pelo Senado em abril, e uma regra interna impede nova votação dele neste ano legislativo. Segundo os relatos, Lula admite outros perfis, inclusive mulheres, para garantir 41 votos, e negocia com Alcolumbre também espaço no ministério de 2027; não há acordo confirmado.",
      "fontes": [
       {
        "n": "NC News",
        "u": "https://ncnews.com.br/2026/11/23/lula-negocia-com-alcolumbre-indicacao-stf/"
       },
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/df/brasilia/politica/noticia/2026/11/21/lula-indicar-ministro-stf-antes-senado-conservador"
+       "n": "Plantão Brasil / O Globo",
+       "u": "https://www.plantaobrasil.net/noticias/164983-lula-avalia-alternativas-para-o-stf-mas-mantem-messias-como-favorito"
       },
       {
-       "n": "Metro 1",
-       "u": "https://www.metro1.com.br/noticias/politica/191645,lula-e-alcolumbre-preparam-reuniao-para-tratar-de-vaga-no-stf-e-ministerios"
+       "n": "IstoÉ Dinheiro",
+       "u": "https://istoedinheiro.com.br/lula-alcolumbre-vaga-stf-formacao-governo"
       }
      ]
     },
     {
-     "kicker": "Serviço público",
-     "quando": "Ontem",
-     "titulo": "Governo prepara projeto próprio para limitar supersalários de servidores",
-     "resumo": "A proposta, revelada pela Folha neste domingo, mira verbas extras que levam salários acima do teto de R$ 46.366,19 e, em alguns casos, a mais de R$ 100 mil por mês. A equipe econômica estima economia de R$ 2 bilhões a R$ 3 bilhões por ano; o texto ainda está em elaboração na Casa Civil e na Gestão e depende do aval de Lula.",
+     "kicker": "Eleição",
+     "quando": "Hoje",
+     "titulo": "Lula e Flávio Bolsonaro trocaram 999 ações no TSE durante a campanha, aponta levantamento",
+     "resumo": "Segundo dados reunidos pela Folha, 529 ações foram no segundo turno; Flávio teve 78 decisões favoráveis em 286 processos e Lula, 75 em 243. Dos 190 pedidos de direito de resposta, 3 foram aceitos; a defesa de Flávio pede a cassação da chapa Lula-Alckmin, e a de Lula acusa a Meta de reduzir o alcance de suas publicações.",
      "fontes": [
       {
-       "n": "Transmissão Política / Folha",
-       "u": "https://transmissaopolitica.com.br/politica-nacional/2026/11/22/governo-lula-projeto-supersalarios-servidores/"
+       "n": "JD1 Notícias / Folha",
+       "u": "https://www.jd1noticias.com/politica/2026/11/23/lula-e-flavio-bolsonaro-travaram-disputa-com-quase-mil-acoes-no-tse-durante-eleicao-.html"
       }
      ]
     }
@@ -321,33 +331,69 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "B3 reabre com ajuste fiscal no radar",
+   "nota": "Dólar a R$ 6, Focus e Nvidia",
    "itens": [
     {
-     "kicker": "Mercados",
+     "kicker": "Boletim Focus",
      "quando": "Hoje",
-     "titulo": "B3 reabre depois do feriado com votação do ajuste à noite; Ásia fecha mista e futuros de Nova York sobem",
-     "resumo": "O Kospi, da Coreia do Sul, caiu 3,31%, enquanto Taiwan subiu 2,16% e Xangai 0,15%; China, Coreia e Taiwan reforçaram medidas contra a volatilidade ligada às ações de IA, e Tóquio não abriu por feriado. Na sexta, Nvidia (-13,8%) e Anthropic (-9,1% no segundo pregão após a estreia) puxaram a pior semana do Nasdaq desde março de 2020. O dólar fechou a quinta (19) a R$ 5,935, maior nível desde abril de 2025, e o Banco Central divulga o Boletim Focus pela manhã.",
+     "titulo": "Focus eleva inflação, dólar e Selic de 2027 e reduz crescimento do PIB",
+     "resumo": "Os analistas ouvidos pelo Banco Central passaram a prever IPCA de 5,15% em 2026 e 5,12% em 2027, dólar a R$ 5,55 no fim deste ano e Selic de 13% no fim de 2027. A projeção do PIB caiu para 1,70% em 2026 e 1,00% em 2027.",
      "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
+      "src": "fotos/openfinance.jpg",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Diário do Grande ABC / Estadão Conteúdo",
-       "u": "https://www.dgabc.com.br/Noticia/4370182/bolsas-da-asia-fecham-mistas-apos-novas-medidas-para-conter-turbulencia-ligada-a-ia"
+       "n": "Mercado&Consumo",
+       "u": "https://mercadoeconsumo.com.br/23/11/2026/economia/boletim-focus-projecao-para-o-dolar-no-fim-de-2026-avanca-de-r-540-para-r-555/"
       },
       {
-       "n": "CNN Brasil / Reuters",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/anthropic-cai-9-um-dia-apos-estreia-de-acoes-nos-eua/"
+       "n": "Central do Varejo",
+       "u": "https://centraldovarejo.com.br/boletim-focus-eleva-inflacao-para-515-em-2026-e-512-em-2027/"
       },
       {
-       "n": "Diário Económico",
-       "u": "https://www.diarioeconomico.co.mz/2026/11/23/mercados/mercados-mercados/asia-ainda-recua-apos-sell-off-de-sexta-feira-europa-e-eua-recuperam/"
+       "n": "Investing.com / Reuters",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-com-ajustes-2135608"
+      }
+     ]
+    },
+    {
+     "kicker": "Bolsa",
+     "quando": "Hoje",
+     "titulo": "Ibovespa perde 1% na volta do feriado; B3 cai após rebaixamento do UBS BB e Petrobras recua antes do plano 2027-2031",
+     "resumo": "A bolsa ajustou-se às perdas de Wall Street na sexta, quando a B3 estava fechada, e chegou à mínima de 164,1 mil pontos. As ações da B3 recuavam 1,33% depois de o UBS BB cortar a recomendação para neutra, e a RD Saúde subia 3,5% com recompra de até R$ 600 milhões.",
+     "fontes": [
+      {
+       "n": "Investing.com / Reuters",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-com-ajustes-2135608"
       },
       {
-       "n": "Space Money",
-       "u": "https://www.spacemoney.com.br/economia/exterior/futuros-nova-york-avancam-selloff-ia"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/bolsa-de-valores-ibovespa-hoje"
+      },
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/tempo-real-23-11-2026-davs/"
+      }
+     ]
+    },
+    {
+     "kicker": "Tecnologia",
+     "quando": "Hoje",
+     "titulo": "Nvidia reintegra Jensen Huang como CEO 11 dias após a renúncia, e ações sobem cerca de 30%",
+     "resumo": "O conselho reconduziu Huang por unanimidade e disse ter ouvido o governo dos EUA, que não vê risco à segurança nacional; Trump havia defendido a volta dele no domingo. A empresa criou comitês independentes para apurar suspeitas de contato de uma familiar com autoridades chinesas, e Huang deve responder a comissões da Câmara americana em 1º de dezembro.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/nvidia-reintegra-jensen-huang-ao-cargo-de-ceo"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/23/nvidia-reinstaura-jensen-huang-como-ceo-11-dias-apos-a-sua-renuncia"
+      },
+      {
+       "n": "CNN",
+       "u": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia"
       }
      ]
     },
@@ -386,27 +432,6 @@
        "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/22/bitcoin-cai-abaixo-56-mil-minima-2-anos"
       }
      ]
-    },
-    {
-     "kicker": "Inteligência artificial",
-     "quando": "20/11",
-     "titulo": "Anthropic cai 9,1% no segundo dia na bolsa e Nvidia perde 13,8%, em semana de correção em Nova York",
-     "resumo": "A empresa de IA estreou na quinta (19) com alta de 17,1% sobre o preço de oferta de US$ 83, mas devolveu parte do ganho na sexta. Analistas ouvidos pela Reuters atribuem a queda à avaliação elevada, de cerca de 40 vezes as vendas, e a dúvidas sobre os gastos do setor; o mercado agora observa um possível IPO da OpenAI no próximo ano.",
-     "destaque": false,
-     "fontes": [
-      {
-       "n": "CNN Brasil / Reuters",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/anthropic-cai-9-um-dia-apos-estreia-de-acoes-nos-eua/"
-      },
-      {
-       "n": "Investing.com / Reuters",
-       "u": "https://br.investing.com/news/economy-news/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia-2133827"
-      },
-      {
-       "n": "Times Brasil",
-       "u": "https://timesbrasil.com.br/empresas-e-negocios/acoes-da-anthropic-caem-mais-de-13-apos-estreia-na-nasdaq-e-se-aproximam-do-preco-do-ipo/"
-      }
-     ]
     }
    ]
   },
@@ -414,8 +439,28 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Calamidade no RS e alerta de tempestades",
+   "nota": "Alerta vermelho no Sul e apreensão recorde",
    "itens": [
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "Inmet emite alerta vermelho para tempestades em 642 cidades do Sul e de MS nesta terça",
+     "resumo": "O aviso de grande perigo vale para todo o dia 24 em municípios de RS, SC, PR e MS, com previsão de chuva acima de 100 mm em um dia, ventos que podem passar de 100 km/h e granizo. O Rio Grande do Sul ainda contabiliza os estragos dos temporais da semana passada.",
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/brasil/2026/11/23/alerta-vermelho-inmet-coloca-642-cidades-em-atencao-maxima-para-tempestade-e-ventos-de-ate-100-km-h"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/alerta-vermelho-regiao-sul-esta-sob-risco-de-novas-tempestades-diz-inmet"
+      },
+      {
+       "n": "Governo do RS",
+       "u": "https://estado.rs.gov.br/tempestades-com-chuva-intensa-granizo-e-rajadas-de-vento-atingem-o-rs-durante-a-semana"
+      }
+     ]
+    },
     {
      "kicker": "Rio Grande do Sul",
      "quando": "Ontem",
@@ -445,6 +490,18 @@
      ]
     },
     {
+     "kicker": "Segurança",
+     "quando": "Ontem",
+     "titulo": "PRF e Polícia Civil apreendem 6 toneladas de skunk no DF, segunda maior apreensão da história da PRF",
+     "resumo": "A droga, avaliada em até R$ 180 milhões, estava escondida em dois semirreboques na BR-020 e vinha do Amazonas. Com o motorista, que disse receber R$ 12 mil pelo frete, foram achados um fuzil 7,62 e dez placas balísticas.",
+     "fontes": [
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/geral/policiais-interceptam-no-df-seis-toneladas-de-skunk-na-segunda-maior-apreensao-da-historia-da-prf/"
+      }
+     ]
+    },
+    {
      "kicker": "Clima",
      "quando": "Hoje",
      "titulo": "Inmet mantém alerta de tempestade no Sudeste e no DF; Nordeste tem aviso de baixa umidade e calor de até 40 °C",
@@ -463,22 +520,6 @@
        "u": "https://www.comprerural.com/previsao-do-tempo-alerta-inmet-23-novembro/"
       }
      ]
-    },
-    {
-     "kicker": "São Paulo",
-     "quando": "Ontem",
-     "titulo": "Defesa Civil de SP emite 41 alertas por chuva no domingo e mantém aviso até terça",
-     "resumo": "Foram 18 alertas por Cell Broadcast e 23 por SMS; os maiores acumulados em 72 horas foram em Aparecida (88 mm), Salesópolis (75 mm) e Lorena (63 mm). A previsão inclui chuva forte nas regiões de Campinas, Sorocaba, São José dos Campos, Registro e na Grande São Paulo.",
-     "fontes": [
-      {
-       "n": "Chumbo Grosso",
-       "u": "https://chumbogrossomanaus.com.br/destaques/defesa-civil-monitora-ocorrencias-provocadas-por-chuvas-em-municipios-de-sp-e-emite-41-alertas-neste-domingo-22/"
-      },
-      {
-       "n": "Mix Vale",
-       "u": "https://mixvale.com.br/2026/11/23/jundiai-tera-instabilidade-chuva-e-temporal-nesta-segunda-feira"
-      }
-     ]
     }
    ]
   },
@@ -486,25 +527,61 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ucrânia, COP31, Israel e EUA",
+   "nota": "Ucrânia, Israel e EUA",
    "itens": [
     {
      "kicker": "Ucrânia",
-     "quando": "Ontem",
-     "titulo": "Drone russo destrói parte de prédio em Dymer, perto de Kiev; 15 pessoas seguem desaparecidas",
-     "resumo": "Dois corpos foram retirados dos escombros do edifício de cinco andares e ao menos quatro pessoas ficaram feridas, segundo autoridades regionais; há duas crianças entre os desaparecidos. O ataque fez parte de uma ofensiva com mais de 400 drones e 110 mísseis, e Zelensky pediu entregas mais rápidas de interceptadores.",
+     "quando": "Hoje",
+     "titulo": "Ataques russos deixam ao menos 20 civis mortos na Ucrânia; prédio em Dymer tem 11 mortes confirmadas",
+     "resumo": "Na noite de domingo para segunda, a Rússia lançou 153 drones, e a Força Aérea ucraniana diz ter neutralizado 134. Em Vyshneve, também na região de Kiev, um supermercado foi atingido, com ao menos dois mortos e oito feridos.",
      "fontes": [
+      {
+       "n": "Vatican News",
+       "u": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-ataques-russos-22-23-novembro-mortos-feridos.html"
+      },
       {
        "n": "Euronews / AP",
        "u": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/internacional/drone-atinge-predio-na-regiao-de-kiev/"
+       "n": "CNN Portugal",
+       "u": "https://cnnportugal.iol.pt/aominuto/6207bf6c0cf2cc58e7e276ff"
+      }
+     ]
+    },
+    {
+     "kicker": "Israel",
+     "quando": "Hoje",
+     "titulo": "Likud e Yashar terminam nova rodada sem acordo; Herzog condena violência de colonos na Cisjordânia",
+     "resumo": "Os partidos de Netanyahu e de Gadi Eisenkot não chegaram a um entendimento sobre um governo de união nacional, mas mantêm as negociações abertas. O presidente Isaac Herzog classificou de desprezíveis os ataques de colonos do fim de semana, e a polícia ainda não anunciou prisões.",
+     "fontes": [
+      {
+       "n": "Renascença",
+       "u": "https://rr.pt/noticia/mundo/2026/11/23/israel-falhou-nova-tentativa-de-formar-governo-de-uniao-nacional/494720/"
       },
       {
-       "n": "Diário de Notícias",
-       "u": "https://www.dn.pt/internacional/zelensky-diz-que-14-pessoas-podero-estar-em-edifcio-atingido-por-ataque-russo"
+       "n": "The Japan Times",
+       "u": "https://www.japantimes.co.jp/news/2026/11/23/world/politics/netanyahu-eisenkot-talks-israel-government/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/presidente-de-israel-condena-violencia-de-colonos-na-cisjordania/"
+      }
+     ]
+    },
+    {
+     "kicker": "EUA",
+     "quando": "Hoje",
+     "titulo": "Deputada democrata diz que partido vai investigar o papel do governo Trump na saída de Flávio Bolsonaro do Brasil",
+     "resumo": "Pramila Jayapal afirmou que a apuração será feita quando a nova legislatura, de maioria democrata, assumir em 2027. O secretário de Estado, Marco Rubio, nega participação de Washington; por ora, trata-se de uma intenção declarada, não de um inquérito aberto.",
+     "fontes": [
+      {
+       "n": "Diário do RN / ICL",
+       "u": "https://diariodorn.com.br/com-maioria-no-congresso-democratas-abrirao-inquerito-sobre-flavio-bolsonaro-nos-eua/"
+      },
+      {
+       "n": "RED",
+       "u": "https://red.org.br/noticias/democratas-investigar-apoio-trump-flavio-bolsonaro/"
       }
      ]
     },
@@ -543,26 +620,6 @@
      ]
     },
     {
-     "kicker": "Israel",
-     "quando": "Ontem",
-     "titulo": "Likud e Yashar encerram quatro horas de conversa sem acordo sobre governo de unidade",
-     "resumo": "Os partidos de Benjamin Netanyahu e de Gadi Eisenkot dizem que haverá nova reunião, ainda sem data; o Likud pede, entre outras condições, a exclusão de partidos árabes e a rejeição de um Estado palestino. Eisenkot, cujo bloco tem 48 das 61 cadeiras necessárias, tem até 6 de dezembro para formar governo e cogita uma coalizão minoritária.",
-     "fontes": [
-      {
-       "n": "Malay Mail / AFP",
-       "u": "https://www.malaymail.com/news/world/2026/11/23/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-govt/244368"
-      },
-      {
-       "n": "Infobae",
-       "u": "https://www.infobae.com/america/agencias/2026/11/23/el-likud-de-netanyahu-y-el-partido-yashar-de-eisenkot-seguiran-negociando-un-gobierno-de-unidad-en-israel/"
-      },
-      {
-       "n": "Teleprensa",
-       "u": "https://www.teleprensa.com/internacional/likud-netanyahu-partido-yashar-eisenkot-seguiran-negociando-gobierno-unidad-israel/202611230112182564772.html"
-      }
-     ]
-    },
-    {
      "kicker": "Estados Unidos",
      "quando": "Ontem",
      "titulo": "Após 19 dias de apuração, democratas chegam a 258 cadeiras na Câmara, maior bancada desde 1992",
@@ -588,25 +645,81 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Fim da 36ª rodada e semana de final",
+   "nota": "Flamengo campeão, rodada de hoje e final da Libertadores",
    "itens": [
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Botafogo recebe o São Paulo às 20h e Santos enfrenta o Grêmio às 21h, no Morumbis, e fecham a 36ª rodada",
-     "resumo": "O jogo do Santos foi levado ao estádio do São Paulo por causa das obras na Vila Belmiro. Botafogo e Grêmio ainda estão na briga contra o rebaixamento, a duas rodadas do fim.",
+     "titulo": "Inter x Vitória, Botafogo x São Paulo e Santos x Grêmio fecham hoje a 36ª rodada, com Inter e Grêmio no Z4",
+     "resumo": "Internacional e Grêmio, ambos com 38 pontos, abrem a noite na zona de rebaixamento; o Inter recebe o Vitória às 19h30 no Beira-Rio, e o Grêmio visita o Santos às 21h. No Nilton Santos, às 20h, o Botafogo de Tite (42 pontos) enfrenta o São Paulo de Dorival Júnior (44), há quatro jogos sem vencer.",
      "fontes": [
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/santos/cbf-confirma-santos-x-gremio-no-morumbis-pela-36a-rodada-do-brasileirao/"
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/esportes/2026/11/22/1027575-luta-contra-o-rebaixamento-esquenta-a-36a-rodada-do-brasileirao-gremio-e-internacional-entram-em-campo-pressionados"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/onde-assistir/2026/11/22/botafogo-x-sao-paulo-onde-assistir-horario-e-escalacoes"
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/por-fim-de-jejum-sao-paulo-e-botafogo-se-enfrentam-pelo-campeonato-brasileiro/"
       },
       {
        "n": "Bolavip",
        "u": "https://br.bolavip.com/futebol/jogos-de-hoje-23-11-2026-futebol-na-tv"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "21/11",
+     "titulo": "Flamengo garante o título brasileiro com empate por 1 a 1 diante do Palmeiras",
+     "resumo": "Com 80 pontos, o Flamengo não pode mais ser alcançado pelo Palmeiras, segundo colocado com 74, a três rodadas do fim. O Palmeiras agora concentra as atenções na final da Libertadores.",
+     "fontes": [
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/esportes/2026/11/22/1027575-luta-contra-o-rebaixamento-esquenta-a-36a-rodada-do-brasileirao-gremio-e-internacional-entram-em-campo-pressionados"
+      },
+      {
+       "n": "B News",
+       "u": "https://www.bnewssaopaulo.com.br/noticias/esportes/palmeiras-deixa-vice-brasileiro-foco-final-libertadores.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Libertadores",
+     "quando": "Hoje",
+     "titulo": "Palmeiras começa a preparação para a final contra o Estudiantes, no sábado, em Montevidéu",
+     "resumo": "A final será no sábado (28), às 17h, no Estádio Centenário. O Palmeiras busca o quarto título continental e o Estudiantes, o quinto; o clube argentino esgotou 121 micro-ônibus para levar torcedores a Montevidéu.",
+     "fontes": [
+      {
+       "n": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-paulista/palmeiras/palmeiras-na-final-da-libertadores-estudiantes-faz-anuncio-impactante-sobre-torcida/"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/"
+      },
+      {
+       "n": "Jornal Grande Bahia",
+       "u": "https://jornalgrandebahia.com.br/2026/11/palmeiras-e-estudiantes-decidem-a-libertadores-2026-em-montevideu-final-coloca-brasil-e-argentina-em-disputa-por-lideranca-historica-de-titulos/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "22/11",
+     "titulo": "Verstappen vence o GP de Las Vegas por 0s639 sobre Norris; Bortoleto é 12º e Rafael Câmara, 16º",
+     "resumo": "O holandês largou na pole e conquistou a 75ª vitória na carreira, com Piastri completando o pódio. Hamilton e Leclerc foram punidos após nova colisão entre os pilotos da Ferrari.",
+     "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-verstappen-vence-o-gp-de-las-vegas-2026-bortoleto-e-12-e-camara-e-16,9450961abd813a86d89789368c0a766fw066t757.html"
+      },
+      {
+       "n": "Fórmula 1",
+       "u": "https://www.formula1.com/en/latest/article/las-vegas-lowdown-all-the-key-moments-as-verstappen-wins-remarkable-race-and-ferraris-drivers-collide-again.62D9SeuQXSboAspMm7N0pN"
+      },
+      {
+       "n": "A Crítica",
+       "u": "https://acritica.net/esportes/automobilismo/gp-las-vegas-2026-resultado/"
       }
      ]
     },
@@ -629,66 +742,6 @@
        "u": "https://www.lance.com.br/fluminense/veja-gol-da-vitoria-do-fluminense-sobre-o-mirassol-no-brasileirao.html"
       }
      ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Bragantino bate o Vasco por 1 a 0 em confronto direto e segue na briga por vaga na Libertadores",
-     "resumo": "Eduardo Sasha marcou aos 20 minutos do segundo tempo em Bragança Paulista, e o zagueiro Robert Renan, do Vasco, foi expulso no fim. O Bragantino vai a 50 pontos, em 8º, e o Vasco fica com 47, em 10º.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-bragantino-supera-o-vasco-e-segue-na-briga-pela-libertadores"
-      },
-      {
-       "n": "Flashscore",
-       "u": "https://www.flashscore.pt/noticias/brasileirao-bragantino-bate-vasco-em-duelo-direto-e-mantem-vivo-o-sonho-da-libertadores/OhGMbEc2/"
-      },
-      {
-       "n": "VAVEL",
-       "u": "https://www.vavel.com/br/futebol/2026/11/22/1280365-bragantino-x-vasco-da-gama-ao-vivo-onde-assistir-escalacoes-e-tempo-real-pelo-brasileirao.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Athletico-PR vence o Remo por 4 a 2 na Baixada e rebaixa o clube paraense à Série B",
-     "resumo": "Vargas, Leozinho, Gilberto e Mendoza marcaram para o Athletico; David Braga e Galeano descontaram. O Remo, 19º com 32 pontos, se junta à Chapecoense entre os rebaixados, e Botafogo, Vitória, Mirassol, Corinthians, Internacional e Grêmio ainda brigam para não cair a duas rodadas do fim.",
-     "fontes": [
-      {
-       "n": "Lance!",
-       "u": "https://lance.com.br/futebol-nacional/remo-perde-para-o-athletico-pr-e-e-rebaixado-no-brasileirao.html"
-      },
-      {
-       "n": "Placar",
-       "u": "https://placar.com.br/brasileirao/athletico-pr-vence-na-arena-da-baixada-e-decreta-o-rebaixamento-do-remo-no-brasileirao/?media=tv&content=geral"
-      },
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/esporte/athletico-pr-vence-remo-por-4-a-2-paraenses-sao-rebaixados/"
-      }
-     ]
-    },
-    {
-     "kicker": "Libertadores",
-     "quando": "Hoje",
-     "titulo": "Palmeiras começa a preparação para a final contra o Estudiantes, no sábado, em Montevidéu",
-     "resumo": "Antes da decisão no Estádio Centenário, às 17h de sábado (28), o time enfrenta a Chapecoense na terça (24) e deve poupar titulares, já garantido em 2º no Brasileirão. A final da Copa do Brasil contra o Grêmio está marcada para 6 de dezembro, em Brasília.",
-     "fontes": [
-      {
-       "n": "Sergipe News",
-       "u": "https://www.sergipenewsoficial.com/noticia/palmeiras-inicia-preparacao-para-a-final-da-libertadores-contra-o-estudiantes"
-      },
-      {
-       "n": "Nosso Palestra",
-       "u": "https://nossopalestra.com.br/noticias/palmeiras-chapecoense-libertadores-copa-do-brasil"
-      },
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/palmeiras/andreas-pereira-perde-espaco-e-abel-encaminha-os-11-titulares-do-palmeiras-para-final-da-libertadores"
-      }
-     ]
     }
    ]
   },
@@ -696,18 +749,22 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Covid, pesquisa e concurso",
+   "nota": "Covid, biotecnologia e terapia genética",
    "itens": [
     {
      "kicker": "Covid-19",
      "quando": "Ontem",
      "titulo": "Com alta de casos leves, estados reforçam vacinação contra a covid para crianças, gestantes, idosos e imunossuprimidos",
-     "resumo": "Em Minas Gerais, a positividade dos testes subiu de 1,05% para 6% entre setembro e outubro, embora o total de casos no ano seja cerca de 68% menor que o de 2025. O Ministério da Saúde enviou 1,4 milhão de doses extras a dez estados depois do aumento de casos leves em 18 unidades da federação; os casos graves seguem abaixo dos de 2025.",
+     "resumo": "O Ministério da Saúde enviou doses extras aos estados, como mais de 500 mil para SP e 350 mil para o RJ. Em 2026, o país teve 3.641 casos graves e 445 mortes por covid, quedas de 62% e 70% frente a 2025; crianças, gestantes, idosos e imunossuprimidos são prioridade.",
      "foto": {
       "src": "fotos/vacina.jpg",
       "credito": "Tomaz Silva/Agência Brasil (arquivo)"
      },
      "fontes": [
+      {
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados"
+      },
       {
        "n": "Poços Já / Agência Minas",
        "u": "https://pocosja.com.br/noticia/saude/2026/11/22/saiba-quem-deve-se-vacinar-contra-covid-19"
@@ -715,22 +772,34 @@
       {
        "n": "Estado de Minas",
        "u": "https://www.em.com.br/nacional/2026/11/7539895-ministerio-da-saude-envia-14-milhao-de-doses-contra-a-covid-19-a-dez-estados.html"
-      },
+      }
+     ]
+    },
+    {
+     "kicker": "SUS",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde marca para 8 de dezembro audiência pública sobre PPPs do complexo de biotecnologia",
+     "resumo": "O aviso publicado no Diário Oficial trata de duas parcerias, de infraestrutura e de operação produtiva, para o Complexo Industrial de Biotecnologia em Saúde. A audiência será híbrida, no BNDES, no Rio, e o regulamento sai em 25 de novembro.",
+     "fontes": [
       {
-       "n": "Agência GBC",
-       "u": "https://agenciagbc.com/2026/11/18/covid-19-ministerio-envia-14-milhao-de-doses-extras-veja-quem-deve-se-vacinar/"
+       "n": "Atlas Público / DOU",
+       "u": "https://atlaspublico.com.br/noticias/ministerio-da-saude-convoca-audiencia-publica-em-8-de-104122"
       }
      ]
     },
     {
      "kicker": "Pesquisa",
-     "quando": "Ontem",
-     "titulo": "Estudo da USP e da Unicamp mostra que treino até a exaustão altera a dopamina no cérebro de camundongos",
-     "resumo": "Uma única sessão extenuante elevou a dopamina no hipocampo dos animais, e oito semanas de corrida com carga progressiva deixaram os níveis mais altos também em repouso. Os autores ressaltam que ainda não se sabe se o efeito se repete em humanos.",
+     "quando": "Hoje",
+     "titulo": "Terapia experimental com CRISPR reduz colesterol ruim em 52% com dose única em pequeno estudo",
+     "resumo": "No grupo de maior dose do ensaio da Cleveland Clinic, com 15 adultos, o LDL caiu em média 52,5% e os triglicerídeos 47,8%, com efeito mantido por um ano. O tratamento, financiado pela fabricante, ainda não foi aprovado e não tem previsão para o Brasil.",
      "fontes": [
       {
-       "n": "Gizmodo Brasil",
-       "u": "https://www.gizmodo.com.br/treino-ate-a-exaustao-altera-a-dopamina-no-cerebro-mostra-estudo-da-usp-e-da-unicamp-76372"
+       "n": "Só Notícia Boa",
+       "u": "https://www.sonoticiaboa.com.br/2026/11/23/nova-terapia-reduz-colesterol-ruim-dose-unica"
+      },
+      {
+       "n": "Rádio Capital FM",
+       "u": "https://capitalfmradio.com.br/nova-terapia-reduz-colesterol-ruim-em-52-com-dose-unica-e-mantem-efeito-por-um-ano-estudo/"
       }
      ]
     },
@@ -756,8 +825,44 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Unesp, IA na escola e semana da ciência",
+   "nota": "Pé-de-Meia, Celpe-Bras e Enem",
    "itens": [
+    {
+     "kicker": "Pé-de-Meia",
+     "quando": "Hoje",
+     "titulo": "Caixa começa a pagar a parcela de novembro do Pé-de-Meia; calendário vai até dia 30",
+     "resumo": "Hoje recebem os nascidos em janeiro e fevereiro, e o pagamento segue por mês de nascimento até 30 de novembro. A parcela é de R$ 200 no ensino regular e R$ 225 na EJA, para quem teve ao menos 80% de frequência em setembro.",
+     "foto": {
+      "src": "fotos/pedemeia.jpg",
+      "credito": "Antônio Cruz/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/pe-de-meia-pagamentos-de-novembro-comecam-nesta-segunda-feira-23-11"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/parcela-do-pe-de-meia-de-novembro-comeca-a-ser-paga-nesta-segunda-feira-23"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/23/pagamentos-do-pe-de-meia-de-novembro-comecam-em-23-de-novembro-e-vao-ate-o-dia-30/"
+      }
+     ]
+    },
+    {
+     "kicker": "Celpe-Bras",
+     "quando": "Hoje",
+     "titulo": "Exame de proficiência em português para estrangeiros é aplicado no exterior de terça a sexta",
+     "resumo": "A segunda edição de 2026 do Celpe-Bras, aplicada pelo Inep, ocorre de 24 a 27 de novembro em universidades, consulados e centros culturais. A prova tem parte escrita de 3 horas e entrevista oral de 20 minutos.",
+     "fontes": [
+      {
+       "n": "Panorama Inconfidentes / Agência Brasil",
+       "u": "https://panoramainconfidentes.com.br/noticia/celpe-bras-provas-serao-aplicadas-no-exterior-a-partir-desta-terca"
+      }
+     ]
+    },
     {
      "kicker": "Vestibular",
      "quando": "Ontem",
@@ -779,34 +884,6 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/sao-paulo/unesp-2027-1a-fase-do-vestibular-acontece-neste-domingo-veja-orientacoes"
-      }
-     ]
-    },
-    {
-     "kicker": "Inteligência artificial",
-     "quando": "Ontem",
-     "titulo": "Uso de IA nas escolas exige formação de professores, dizem especialistas em simpósio de matemática",
-     "resumo": "No encontro nacional de formação de professores de matemática, em São Luís, o diretor do Impa, Marcelo Viana, defendeu ações do poder público para preparar redes de ensino. Docentes relataram casos de plágio e trabalhos terceirizados com IA, e o MEC defendeu o uso mediado pelos professores.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ia-na-educacao-exige-capacitacao-de-professores-dizem-especial"
-      }
-     ]
-    },
-    {
-     "kicker": "Ciência na escola",
-     "quando": "Hoje",
-     "titulo": "Semana Nacional de Ciência e Tecnologia abre hoje na Esplanada com o tema “Ciência Delas”",
-     "resumo": "A 23ª edição vai até domingo (29), com entrada gratuita e foco em meninas e mulheres na ciência; a programação para o público começa na terça (24). Escolas podem visitar estandes com robôs humanoides, drones, um simulador de barco voador e a maquete do Micro Lançador Brasileiro.",
-     "fontes": [
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
-      },
-      {
-       "n": "MCTI",
-       "u": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/ciencia-na-pratica-descobertas-e-experiencias-interativas-integram-programacao-da-snct-2026"
       }
      ]
     },
@@ -845,8 +922,36 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Panes digitais e semana da ciência",
+   "nota": "Semana da ciência, Nvidia e panes digitais",
    "itens": [
+    {
+     "kicker": "Ciência na escola",
+     "quando": "Hoje",
+     "titulo": "Semana Nacional de Ciência e Tecnologia abre hoje na Esplanada com o tema “Ciência Delas”",
+     "resumo": "A 23ª SNCT ocupa o gramado central da Esplanada, em Brasília, até 29 de novembro, com entrada gratuita e programação a partir de terça. Entre as atrações estão robôs humanoides, simulador de barco voador e a maquete do Micro Lançador Brasileiro.",
+     "fontes": [
+      {
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Chips",
+     "quando": "Hoje",
+     "titulo": "Conselho da Nvidia cria comitês de segurança nacional e controle de exportações ao reconduzir Huang",
+     "resumo": "As novas instâncias vão apurar relatos do New York Times sobre contato de uma familiar do executivo com o serviço de segurança chinês. Uma petição pela volta de Huang reuniu mais de 206 mil assinaturas, mais de 10 mil de funcionários.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/nvidia-reintegra-jensen-huang-ao-cargo-de-ceo"
+      },
+      {
+       "n": "Euronews",
+       "u": "https://pt.euronews.com/2026/11/23/estados-unidos-trump-pede-ao-conselho-da-nvidia-que-reintegre-jensen-huang"
+      }
+     ]
+    },
     {
      "kicker": "Tecnologia",
      "quando": "Hoje",
@@ -870,30 +975,6 @@
        "u": "https://www.gizmodo.com.br/mercurio-pode-ter-encolhido-23-quilometros-duas-sondas-vao-investigar-o-que-aconteceu-76351"
       }
      ]
-    },
-    {
-     "kicker": "Matemática",
-     "quando": "20/11",
-     "titulo": "Matemático da Anthropic diz ter provado a hipótese de Riemann com ajuda de IA; resultado ainda não foi verificado",
-     "resumo": "Levent Alpöge publicou na sexta (20) uma nota de quatro páginas com a suposta prova do problema, proposto em 1859, e um código no verificador formal Lean, feito com o auxílio do modelo Claude. Especialistas ouvidos pela imprensa dizem que, se confirmada, seria um dos maiores avanços da matemática em dois séculos, mas a demonstração ainda precisa passar pela análise de outros pesquisadores.",
-     "fontes": [
-      {
-       "n": "Euronews",
-       "u": "https://www.euronews.com/2026/11/21/anthropic-worker-claims-to-have-solved-famed-167-year-old-maths-problem-with-help-of-ai"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/funcionario-da-anthropic-diz-que-ia-ajudou-a-resolver-problema-matematico-de-167-anos/"
-      },
-      {
-       "n": "Gizmodo Brasil",
-       "u": "https://www.gizmodo.com.br/inteligencia-artificial-afirma-ter-resolvido-um-dos-maiores-enigmas-da-matematica-apos-167-anos-76203"
-      },
-      {
-       "n": "IBM Think",
-       "u": "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof"
-      }
-     ]
     }
    ]
   },
@@ -901,8 +982,20 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Jogos Vorazes, Dança dos Famosos e GTA VI",
+   "nota": "Estreias da semana, bilheteria e Dança dos Famosos",
    "itens": [
+    {
+     "kicker": "Streaming",
+     "quando": "Hoje",
+     "titulo": "Semana tem ‘Blade Runner 2099’, novo episódio de ‘Cidade de Deus’ e documentário de Tyson Fury",
+     "resumo": "O Prime Video lança a série derivada de Blade Runner na terça (24), e a HBO Max exibe o quarto episódio de ‘Cidade de Deus: A Luta Não Para’ no domingo (29). Na Netflix, chegam o documentário sobre o boxeador Tyson Fury e a animação ‘O Homem-Cão’ na sexta (27).",
+     "fontes": [
+      {
+       "n": "Oficina da Net",
+       "u": "https://www.oficinadanet.com.br/entretenimento/74356-lancamentos-netflix-hbo-max-prime-video-disney-plus-23-a-29-novembro-2026"
+      }
+     ]
+    },
     {
      "kicker": "Cinema",
      "quando": "Ontem",
@@ -936,38 +1029,6 @@
       {
        "n": "Observatório da TV",
        "u": "https://observatoriodatv.com.br/colunistas/diego-laureano/quem-saiu-da-danca-dos-famosos-eliminacao-surpreende-em-disputa-acirrada-no-domingao"
-      }
-     ]
-    },
-    {
-     "kicker": "Games",
-     "quando": "20/11",
-     "titulo": "GTA VI fatura US$ 3,79 bilhões no primeiro dia, segundo a Rockstar, e supera as projeções",
-     "resumo": "O valor divulgado pela empresa fica bem acima da estimativa de US$ 2,36 bilhões da Sensor Tower e dos cerca de US$ 800 milhões do GTA V em 2013. Sites especializados citam 32,5 milhões de cópias vendidas; os números não têm verificação independente.",
-     "fontes": [
-      {
-       "n": "Olhar Digital",
-       "u": "https://olhardigital.com.br/2026/11/20/games-e-consoles/gta-6-supera-projecao-e-bate-recorde-de-vendas-no-lancamento/"
-      },
-      {
-       "n": "Forbes Brasil",
-       "u": "https://forbes.com.br/forbes-tech/2026/11/gta-6-registra-venda-recorde-de-us-379-bilhoes-no-dia-do-lancamento/"
-      },
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/gta-6-vendas-lancamento-recorde"
-      }
-     ]
-    },
-    {
-     "kicker": "Cinema",
-     "quando": "Ontem",
-     "titulo": "“Dona Flor e Seus Dois Maridos” completa 50 anos; filme teve o maior público do cinema nacional até 2010",
-     "resumo": "O longa de Bruno Barreto, com Sônia Braga e José Wilker, estreou em 22 de novembro de 1976 e vendeu mais de 10,7 milhões de ingressos, segundo a Ancine. A marca só foi superada em dezembro de 2010 por “Tropa de Elite 2”, por pouco mais de mil espectadores.",
-     "fontes": [
-      {
-       "n": "Foyer",
-       "u": "https://foyer.digital/post-dona-flor-e-seus-dois-maridos-50-anos-recorde-de-publico.html"
       }
      ]
     }
