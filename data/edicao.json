@@ -1,34 +1,34 @@
 {
  "data": "Segunda-feira, 23 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "23/11/2026 · 12h31 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 10h50",
- "fontes": 78,
+ "edicao": "Edição da noite",
+ "atualizado": "23/11/2026 · 19h25 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h30",
+ "fontes": 81,
  "mercado": [
   {
-   "nome": "Ibovespa · 10h50",
-   "valor": "164.691 pts",
-   "var": "-1,01%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "164.796 pts",
+   "var": "-0,95%",
    "dir": "down"
   },
   {
-   "nome": "Dólar · máxima às 10h20",
-   "valor": "R$ 6,00",
-   "var": "1ª vez desde abr/2025",
+   "nome": "Dólar · fechamento",
+   "valor": "R$ 5,926",
+   "var": "-0,15%",
+   "dir": "down"
+  },
+  {
+   "nome": "Nasdaq · fechamento",
+   "valor": "+6,5%",
+   "var": "Nvidia +31%",
    "dir": "up"
   },
   {
-   "nome": "DI jan/2027 · fechamento de quinta",
-   "valor": "13,72%",
-   "var": "+0,03 p.p.",
-   "dir": "up"
-  },
-  {
-   "nome": "IPCA 2026 · Focus",
-   "valor": "5,15%",
-   "var": "antes 5,11%",
-   "dir": "up"
+   "nome": "DI jan/2027 · 17h02",
+   "valor": "13,70%",
+   "var": "estável",
+   "dir": ""
   },
   {
    "nome": "Selic · Focus fim de 2027",
@@ -39,14 +39,9 @@
  ],
  "agenda": [
   {
-   "hora": "Seg 23/11 · 18h",
-   "txt": "Câmara começa a votar o ajuste fiscal aprovado pelo Senado",
+   "hora": "Seg 23/11 · noite",
+   "txt": "Câmara vota urgência, texto-base e destaques do ajuste fiscal",
    "cat": "politica"
-  },
-  {
-   "hora": "Seg 23/11 · após 18h",
-   "txt": "Petrobras divulga o plano de negócios 2027-2031",
-   "cat": "economia"
   },
   {
    "hora": "Seg 23/11 · 19h30 a 21h",
@@ -57,6 +52,11 @@
    "hora": "Ter 24/11 · dia todo",
    "txt": "Alerta vermelho do Inmet para tempestades em 642 cidades do Sul e de MS",
    "cat": "brasil"
+  },
+  {
+   "hora": "Ter 24/11",
+   "txt": "Petrobras detalha em coletiva o plano de negócios 2027-2031",
+   "cat": "economia"
   },
   {
    "hora": "25 e 26/11",
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercado e ajuste fiscal",
-  "titulo": "Dólar chega a R$ 6 pela primeira vez desde abril de 2025 e Ibovespa cai 1% no dia em que a Câmara vota o ajuste fiscal",
-  "resumo": "A moeda americana bateu R$ 6,00 por volta das 10h20, mesmo com atuação do Banco Central, e a bolsa recuava a 164,7 mil pontos no fim da manhã. A Câmara abre às 18h a análise do plano de ajuste aprovado pelo Senado.",
+  "kicker": "Ajuste fiscal",
+  "titulo": "Câmara vota à noite o plano de ajuste fiscal; dólar recua após tocar R$ 6 e Ibovespa tem a terceira queda seguida",
+  "resumo": "A sessão extraordinária começou no início da noite, e o governo diz contar com sete partidos que somam 278 deputados para aprovar o texto do Senado sem mudanças. No mercado, o dólar fechou a R$ 5,926 (-0,15%) e a bolsa caiu 0,95%, enquanto Nova York disparou com a volta de Jensen Huang à Nvidia.",
   "foto": {
-   "src": "fotos/real.jpg",
-   "credito": "José Cruz/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/d4K9Xc9PqV-22wdKpLg10RvLBK0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/19/0d9a9165.jpg?itok=2GfbeiHU",
+   "credito": "Lula Marques/Agência Brasil (arquivo)"
   },
-  "entenda": "A B3 reabriu depois do feriado de quinta e sexta e teve de absorver a forte queda das ações de tecnologia em Nova York na sexta-feira. O Boletim Focus, divulgado pela manhã, elevou as projeções de inflação para 2026 (5,15%) e 2027 (5,12%), do dólar no fim de 2026 (de R$ 5,40 para R$ 5,55) e da Selic no fim de 2027 (de 12,75% para 13%). O projeto em votação, chamado de plano Moretti, cria gatilhos de contenção de gastos e corta benefícios tributários; o governo estima melhora de R$ 45 bilhões a R$ 56 bilhões no resultado de 2027, enquanto parte do mercado avalia que a maior parte vem de arrecadação e considera a medida insuficiente. Depois do fechamento, a Petrobras divulga seu plano de investimentos para 2027-2031.",
+  "entenda": "O projeto (PLP 299/2026), conhecido como plano Moretti, foi aprovado pelo Senado na quarta (18) e reduz de 2,5% para 2% o crescimento real dos gastos em anos de contenção, corta 10% dos benefícios fiscais, limita o uso de créditos tributários para quitar impostos e adia parte dos repasses da Lei Kandir. O governo estima melhora de R$ 45 bilhões a R$ 56 bilhões nas contas de 2027. O relator, Mauro Benevides Filho (União-CE), manteve o texto do Senado para que siga à sanção; o líder do governo, José Guimarães (PT-CE), deixou a SRI para votar e disse que os destaques serão derrubados um a um, mesmo que a sessão vá à madrugada. PL e PSOL votam contra, por motivos opostos.",
   "fatos": [
-   "Ibovespa marcava 164.691 pontos (-1,01%) às 10h50; Petrobras PN caía 2,34% e Embraer, 3,95%",
-   "Focus: PIB de 2026 recuou para 1,70% e o de 2027 para 1,00%",
-   "Aprovar o ajuste exige 257 votos; Novo fechou contra e o PL tentará retomar mudanças rejeitadas no Senado"
+   "São necessários 257 votos; até o fim da tarde havia seis destaques e 31 emendas, a maioria da oposição",
+   "O principal destaque da oposição mira o limite à compensação de créditos, estimado em R$ 12,8 bi a R$ 18,3 bi em 2027",
+   "Ibovespa fechou a 164.796 pontos; Nasdaq subiu 6,5% e Nvidia, 31%, maior alta desde 2003"
   ],
   "fontes": [
    {
-    "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23112026/",
-    "d": "pregão ao vivo"
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
+    "d": "texto em votação"
+   },
+   {
+    "n": "O Tempo",
+    "u": "https://www.otempo.com.br/politica/2026/11/23/camara-vota-ajuste-e-todos-os-destaques-nem-que-va-a-madrugada-diz-guimaraes",
+    "d": "estratégia do governo"
    },
    {
     "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/bolsa-de-valores-ibovespa-hoje",
-    "d": "dólar a R$ 6"
+    "u": "https://www.metropoles.com/brasil/sem-pl-e-psol-relator-diz-ter-acordo-com-sete-partidos-pelo-ajuste-fiscal",
+    "d": "apoio dos partidos"
    },
    {
-    "n": "Investing.com / Reuters",
-    "u": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-com-ajustes-2135608",
-    "d": "ações em destaque"
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/republica/camara-vota-ajuste-fiscal-lula-nesta-segunda-ritmo-acelerado/",
+    "d": "medidas do pacote"
    },
    {
-    "n": "Mercado&Consumo",
-    "u": "https://mercadoeconsumo.com.br/23/11/2026/economia/boletim-focus-projecao-para-o-dolar-no-fim-de-2026-avanca-de-r-540-para-r-555/",
-    "d": "Boletim Focus"
+    "n": "Mix Vale",
+    "u": "https://www.mixvale.com.br/2026/11/23/dolar-recua-015-e-fecha-a-r-59262-apos-bater-r-6-ibovespa-cai-na-contramao/",
+    "d": "fechamento do câmbio"
    },
    {
-    "n": "Exame",
-    "u": "https://exame.com/brasil/camara-deve-votar-hoje-o-ajuste-fiscal-entenda-a-proposta-do-governo-lula/",
-    "d": "proposta em votação"
-   },
-   {
-    "n": "A Gazeta / Folhapress",
-    "u": "https://www.agazeta.com.br/brasil/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda-23-1126",
-    "d": "rito na Câmara"
+    "n": "TradeMap",
+    "u": "https://trademap.com.br/noticias/news-8632330",
+    "d": "fechamento da bolsa"
    }
   ]
  },
@@ -213,39 +213,79 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste na Câmara, STF e Forças Armadas",
+   "nota": "Ajuste na Câmara, Flávio e vaga no STF",
    "itens": [
     {
      "kicker": "Ajuste fiscal",
      "quando": "Hoje",
-     "titulo": "Câmara abre às 18h a votação do plano Moretti; Novo fecha contra e PL tenta retomar mudanças",
-     "resumo": "Hugo Motta convocou sessão extraordinária em que a urgência e depois o mérito precisam de 257 votos. O relator Mauro Benevides Filho (União-CE) manteve o texto do Senado, aprovado por 69 a 2, para que ele siga à sanção; União Brasil e Republicanos apoiam.",
+     "titulo": "PL anuncia voto contra todo o ajuste e PSOL também resiste; governo tenta derrubar destaques um a um",
+     "resumo": "O líder do PL, Sóstenes Cavalcante (RJ), disse que o partido votará contra inclusive o texto-base e reapresentará destaques parecidos com os rejeitados no Senado, onde a emenda de Rogério Marinho caiu por 47 a 30. O relator afirma ter acordo com PT, União Brasil, MDB, PP, PSD, PSB e PCdoB.",
      "lados": [
       {
-       "quem": "Governo",
-       "txt": "Lula e o ministro Dario Durigan dizem que o pacote é o primeiro passo de um ajuste gradual e não corta saúde, educação nem Bolsa Família."
+       "quem": "Governo e relator",
+       "txt": "Dizem que o pacote reequilibra as contas sem cortar saúde, educação e Bolsa Família, e que o contingenciamento será maior se o texto não passar."
       },
       {
-       "quem": "Oposição e críticos",
-       "txt": "PL e Novo querem alterar o texto; parte do mercado vê o ajuste como insuficiente e baseado sobretudo em arrecadação."
+       "quem": "PL",
+       "txt": "Afirma que o projeto aumenta a carga tributária, sobretudo ao limitar a compensação de créditos, e não corta despesas de fato."
+      },
+      {
+       "quem": "PSOL",
+       "txt": "Critica a possibilidade de contenção de gastos em saúde, educação e assistência e levou propostas de mudança ao ministro."
       }
      ],
      "fontes": [
       {
-       "n": "A Gazeta / Folhapress",
-       "u": "https://www.agazeta.com.br/brasil/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda-23-1126"
+       "n": "Brasil 247 / O Globo",
+       "u": "https://www.brasil247.com/economia/pl-anuncia-voto-contrario-a-tudo-do-ajuste-fiscal-e-tenta-mudar-projeto-na-camara/"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/economia/apos-passar-pelo-senado-camara-vota-hoje-pacote-de-ajuste-fiscal-do-governo-lula,64c5228004998edd6538aa61b0f74472fzrb4x15.html"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/sem-pl-e-psol-relator-diz-ter-acordo-com-sete-partidos-pelo-ajuste-fiscal"
       },
       {
-       "n": "Exame",
-       "u": "https://exame.com/brasil/camara-deve-votar-hoje-o-ajuste-fiscal-entenda-a-proposta-do-governo-lula/"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/lula-ajuste-fiscal-tributaco-aumento-impostos/"
       },
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/politica/camara-inicia-hoje-analise-do-ajuste-fiscal-apos-resistencias-no-senado/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/2026/11/23/camara-vota-ajuste-e-todos-os-destaques-nem-que-va-a-madrugada-diz-guimaraes"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "Moraes manda notificar Flávio Bolsonaro por edital para responder a denúncia de calúnia contra Lula",
+     "resumo": "Na decisão, de sexta (20) e divulgada hoje, o ministro afirma que o senador está nos EUA em local incerto apesar do bloqueio do passaporte; ele tem 15 dias para apresentar defesa. A denúncia da PGR trata de uma publicação de janeiro no X; a defesa de Flávio não se manifestou sobre a decisão até a publicação das reportagens.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-notifica-flavio-calunia-lula"
+      },
+      {
+       "n": "SP Diário",
+       "u": "https://spdiario.com.br/noticias/politica/moraes-da-15-dias-para-flavio-bolsonaro-apresentar-defesa-por-acusacao-de-calunia-contra-lula.html"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "Em jantar com ministros do STF e cúpula do Congresso, Lula reafirma preferência por Messias, mas aceita outros nomes",
+     "resumo": "O encontro no Alvorada reuniu Alcolumbre, Hugo Motta, Gilmar Mendes, Moraes, Zanin e Dino. Segundo a Folha, ministros do STF resistem a Jorge Messias, rejeitado pelo Senado em abril, e Rodrigo Pacheco ganha apoio, inclusive de Alcolumbre; Lula quer indicar até o fim do ano.",
+     "fontes": [
+      {
+       "n": "O Tempo / Folha",
+       "u": "https://www.otempo.com.br/politica/judiciario/2026/11/23/lula-discute-vaga-no-stf-com-cupula-do-congresso-e-enfrenta-resistencia-a-messias"
+      },
+      {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/politica/lula-reafirma-preferencia-por-jorge-messias-stf/"
+      },
+      {
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/politica/lula-reafirma-messias-ao-stf-em-jantar-com-ministros/"
       }
      ]
     },
@@ -292,38 +332,6 @@
        "u": "https://www.plantaobrasil.net/noticias/164928-lula-reune-cupula-militar-no-planalto-em-meio-a-expectativas-sobre-transicao-ministerial"
       }
      ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Hoje",
-     "titulo": "Lula mantém Messias como favorito à vaga de Barroso, mas aceita outros nomes; Alcolumbre defende Pacheco",
-     "resumo": "Jorge Messias foi rejeitado pelo Senado em abril, e uma regra interna impede nova votação dele neste ano legislativo. Segundo os relatos, Lula admite outros perfis, inclusive mulheres, para garantir 41 votos, e negocia com Alcolumbre também espaço no ministério de 2027; não há acordo confirmado.",
-     "fontes": [
-      {
-       "n": "NC News",
-       "u": "https://ncnews.com.br/2026/11/23/lula-negocia-com-alcolumbre-indicacao-stf/"
-      },
-      {
-       "n": "Plantão Brasil / O Globo",
-       "u": "https://www.plantaobrasil.net/noticias/164983-lula-avalia-alternativas-para-o-stf-mas-mantem-messias-como-favorito"
-      },
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/lula-alcolumbre-vaga-stf-formacao-governo"
-      }
-     ]
-    },
-    {
-     "kicker": "Eleição",
-     "quando": "Hoje",
-     "titulo": "Lula e Flávio Bolsonaro trocaram 999 ações no TSE durante a campanha, aponta levantamento",
-     "resumo": "Segundo dados reunidos pela Folha, 529 ações foram no segundo turno; Flávio teve 78 decisões favoráveis em 286 processos e Lula, 75 em 243. Dos 190 pedidos de direito de resposta, 3 foram aceitos; a defesa de Flávio pede a cassação da chapa Lula-Alckmin, e a de Lula acusa a Meta de reduzir o alcance de suas publicações.",
-     "fontes": [
-      {
-       "n": "JD1 Notícias / Folha",
-       "u": "https://www.jd1noticias.com/politica/2026/11/23/lula-e-flavio-bolsonaro-travaram-disputa-com-quase-mil-acoes-no-tse-durante-eleicao-.html"
-      }
-     ]
     }
    ]
   },
@@ -331,8 +339,64 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Dólar a R$ 6, Focus e Nvidia",
+   "nota": "Bolsa em queda, Nvidia e Petrobras",
    "itens": [
+    {
+     "kicker": "Bolsa",
+     "quando": "Hoje",
+     "titulo": "Ibovespa cai 0,95% e tem a terceira queda seguida; dólar fecha em leve baixa após tocar R$ 6",
+     "resumo": "A bolsa terminou a 164.796 pontos, pressionada pelo Focus com inflação e juros maiores e pela espera da votação do ajuste. O dólar fechou a R$ 5,926, com recuo de 0,15%; Petrobras ON perdeu cerca de 3% antes do plano de negócios, e Magazine Luiza subiu perto de 9%.",
+     "fontes": [
+      {
+       "n": "TradeMap",
+       "u": "https://trademap.com.br/noticias/news-8632330"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/23/dolar-recua-015-e-fecha-a-r-59262-apos-bater-r-6-ibovespa-cai-na-contramao/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23112026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Wall Street",
+     "quando": "Hoje",
+     "titulo": "Nvidia sobe 31%, maior alta desde 2003, e Nasdaq avança 6,5% com a volta de Jensen Huang",
+     "resumo": "A empresa ganhou perto de US$ 950 bilhões em valor de mercado em um dia, segundo a Bloomberg; o S&P 500 subiu cerca de 4,7% e o Dow Jones, 3%. Trump disse à CNBC que conversou direta e indiretamente com o conselho antes da recondução e afirmou não ver risco à segurança nacional.",
+     "fontes": [
+      {
+       "n": "ECO / Bloomberg",
+       "u": "https://eco.sapo.pt/2026/11/23/nvidia-dispara-31-e-ganha-quase-um-biliao-de-dolares-em-valor-de-mercado-anthropic-falta-a-festa-em-wall-street"
+      },
+      {
+       "n": "O Tempo / AFP",
+       "u": "https://otempo.com.br/mundo/2026/11/23/trump-diz-que-falou-com-conselho-de-administracao-da-nvidia-antes-da-restituicao-de-huang"
+      },
+      {
+       "n": "Jornal Económico",
+       "u": "https://jornaleconomico.sapo.pt/noticias/wall-street-dispara-com-nasdaq-a-subir-mais-de-6-e-nvidia-a-valorizar-31/"
+      }
+     ]
+    },
+    {
+     "kicker": "Petrobras",
+     "quando": "Hoje",
+     "titulo": "Petrobras divulga após o fechamento o plano 2027-2031; investimento previsto pode passar de US$ 120 bilhões",
+     "resumo": "O plano em vigor, até 2030, prevê US$ 109 bilhões; fontes ouvidas pela Reuters falam em valor acima de US$ 120 bilhões, e a presidente Magda Chambriard detalha os números em coletiva na terça (24). A estatal passou a ter como meta a autossuficiência total em diesel, hoje em 70%.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/infra/petrobras-deve-anunciar-investimentos-de-ate-us-120-bi-nos-proximos-5-anos/"
+      },
+      {
+       "n": "Forbes Brasil / Reuters",
+       "u": "https://forbes.com.br/forbes-money/2026/11/plano-de-investimentos-da-petrobras-2027-2031-deve-superar-us120-bi-dizem-fontes/"
+      }
+     ]
+    },
     {
      "kicker": "Boletim Focus",
      "quando": "Hoje",
@@ -358,46 +422,6 @@
      ]
     },
     {
-     "kicker": "Bolsa",
-     "quando": "Hoje",
-     "titulo": "Ibovespa perde 1% na volta do feriado; B3 cai após rebaixamento do UBS BB e Petrobras recua antes do plano 2027-2031",
-     "resumo": "A bolsa ajustou-se às perdas de Wall Street na sexta, quando a B3 estava fechada, e chegou à mínima de 164,1 mil pontos. As ações da B3 recuavam 1,33% depois de o UBS BB cortar a recomendação para neutra, e a RD Saúde subia 3,5% com recompra de até R$ 600 milhões.",
-     "fontes": [
-      {
-       "n": "Investing.com / Reuters",
-       "u": "https://br.investing.com/news/stock-market-news/ibovespa-recua-na-abertura-com-ajustes-2135608"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/bolsa-de-valores-ibovespa-hoje"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/tempo-real-23-11-2026-davs/"
-      }
-     ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "Hoje",
-     "titulo": "Nvidia reintegra Jensen Huang como CEO 11 dias após a renúncia, e ações sobem cerca de 30%",
-     "resumo": "O conselho reconduziu Huang por unanimidade e disse ter ouvido o governo dos EUA, que não vê risco à segurança nacional; Trump havia defendido a volta dele no domingo. A empresa criou comitês independentes para apurar suspeitas de contato de uma familiar com autoridades chinesas, e Huang deve responder a comissões da Câmara americana em 1º de dezembro.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/nvidia-reintegra-jensen-huang-ao-cargo-de-ceo"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/23/nvidia-reinstaura-jensen-huang-como-ceo-11-dias-apos-a-sua-renuncia"
-      },
-      {
-       "n": "CNN",
-       "u": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia"
-      }
-     ]
-    },
-    {
      "kicker": "Contas públicas",
      "quando": "Hoje",
      "titulo": "Relator do ajuste prepara novas propostas fiscais, como tirar investimentos públicos das regras de gasto",
@@ -412,26 +436,6 @@
        "u": "https://www.cnnbrasil.com.br/politica/camara-inicia-hoje-analise-do-ajuste-fiscal-apos-resistencias-no-senado/"
       }
      ]
-    },
-    {
-     "kicker": "Criptomoedas",
-     "quando": "Ontem",
-     "titulo": "Bitcoin se recupera para perto de US$ 61 mil depois de cair a US$ 55,1 mil no sábado, menor nível desde 2024",
-     "resumo": "A criptomoeda chegou ao domingo ainda mais de 50% abaixo do recorde de US$ 126 mil e pode fechar a sétima semana seguida de perdas; o índice de medo e ganância do setor marcava 11, faixa de medo extremo. Analistas citam saídas de mais de US$ 1 bilhão dos fundos de bitcoin nos EUA e a expectativa de alta de juros pelo Fed.",
-     "fontes": [
-      {
-       "n": "Bitnotícias",
-       "u": "https://bitnoticias.com.br/mercado/preco-do-bitcoin-hoje-22-de-novembro-de-2026/"
-      },
-      {
-       "n": "Bitcoin.com News",
-       "u": "https://news.bitcoin.com/pt/market-updates/bitcoin-cai-abaixo-de-us-56-mil-arthur-hayes-recomenda-esperar-resgate/"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/22/bitcoin-cai-abaixo-56-mil-minima-2-anos"
-      }
-     ]
     }
    ]
   },
@@ -439,7 +443,7 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Alerta vermelho no Sul e apreensão recorde",
+   "nota": "Alerta vermelho no Sul e temporal em SP",
    "itens": [
     {
      "kicker": "Clima",
@@ -458,6 +462,26 @@
       {
        "n": "Governo do RS",
        "u": "https://estado.rs.gov.br/tempestades-com-chuva-intensa-granizo-e-rajadas-de-vento-atingem-o-rs-durante-a-semana"
+      }
+     ]
+    },
+    {
+     "kicker": "São Paulo",
+     "quando": "Hoje",
+     "titulo": "Temporal em São Paulo provoca alagamentos e quedas de árvores; túnel do Anhangabaú é interditado",
+     "resumo": "Entre 10h e o fim da tarde, os Bombeiros receberam 50 chamados na capital e na Grande SP, 36 deles por quedas de árvores. Às 18h30, o CGE registrava 12 pontos de alagamento, seis intransitáveis; a previsão é de mais chuva forte na terça e de frente fria na quarta.",
+     "fontes": [
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/temporal-em-sp-causa-alagamentos-e-quedas-de-arvores"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-defesa-civil-emite-alerta-de-chuva-forte-na-capital-nesta-segunda-23/"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-esta-em-estado-de-atencao-para-alagamentos-nesta-2a"
       }
      ]
     },
@@ -490,18 +514,6 @@
      ]
     },
     {
-     "kicker": "Segurança",
-     "quando": "Ontem",
-     "titulo": "PRF e Polícia Civil apreendem 6 toneladas de skunk no DF, segunda maior apreensão da história da PRF",
-     "resumo": "A droga, avaliada em até R$ 180 milhões, estava escondida em dois semirreboques na BR-020 e vinha do Amazonas. Com o motorista, que disse receber R$ 12 mil pelo frete, foram achados um fuzil 7,62 e dez placas balísticas.",
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/geral/policiais-interceptam-no-df-seis-toneladas-de-skunk-na-segunda-maior-apreensao-da-historia-da-prf/"
-      }
-     ]
-    },
-    {
      "kicker": "Clima",
      "quando": "Hoje",
      "titulo": "Inmet mantém alerta de tempestade no Sudeste e no DF; Nordeste tem aviso de baixa umidade e calor de até 40 °C",
@@ -520,6 +532,18 @@
        "u": "https://www.comprerural.com/previsao-do-tempo-alerta-inmet-23-novembro/"
       }
      ]
+    },
+    {
+     "kicker": "Segurança",
+     "quando": "Ontem",
+     "titulo": "PRF e Polícia Civil apreendem 6 toneladas de skunk no DF, segunda maior apreensão da história da PRF",
+     "resumo": "A droga, avaliada em até R$ 180 milhões, estava escondida em dois semirreboques na BR-020 e vinha do Amazonas. Com o motorista, que disse receber R$ 12 mil pelo frete, foram achados um fuzil 7,62 e dez placas balísticas.",
+     "fontes": [
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/geral/policiais-interceptam-no-df-seis-toneladas-de-skunk-na-segunda-maior-apreensao-da-historia-da-prf/"
+      }
+     ]
     }
    ]
   },
@@ -529,6 +553,22 @@
    "cor": "--int",
    "nota": "Ucrânia, Israel e EUA",
    "itens": [
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Kremlin diz que nova rodada de negociação sobre a Ucrânia será em breve; Merz afirma que Europa está pronta para participar",
+     "resumo": "O porta-voz Dmitry Peskov não deu data para o encontro trilateral com EUA e Ucrânia, que teve a última rodada em Abu Dhabi em 10 e 11 de novembro. Em Berlim, ao lado do secretário-geral da Otan, o chanceler alemão sugeriu que europeus se juntem às conversas, mas disse que Moscou precisa aceitar esse formato.",
+     "fontes": [
+      {
+       "n": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/11/23/russia-confirma-nova-rodada-de-negociacoes-sobre-a-ucrania-e-planeja-dialogo-com-a-ue/"
+      },
+      {
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/23/1028393-merz-diz-que-europa-esta-pronta-para-negociar-com-a-russia-sobre-ucrania"
+      }
+     ]
+    },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
@@ -618,26 +658,6 @@
        "u": "https://mvsnoticias.com/mundo/2026/11/22/cop31-en-antalya-termina-sin-consenso-politico-tras-rechazo-de-la-ue-754325.html"
       }
      ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Ontem",
-     "titulo": "Após 19 dias de apuração, democratas chegam a 258 cadeiras na Câmara, maior bancada desde 1992",
-     "resumo": "A 258ª vaga veio com a vitória de Chuck Hubbard sobre a republicana Virginia Foxx na Carolina do Norte, por 330 votos após recontagem; os republicanos têm 173. Quatro disputas seguem indefinidas, e Hakeem Jeffries é o favorito para presidir a Casa a partir de janeiro.",
-     "fontes": [
-      {
-       "n": "Jovem Pan",
-       "u": "https://www.jovempan.com.br/mundo/apos-19-dias-de-apuracao-democratas-alcancam-maior-bancada-na-camara-dos-eua-desde-1992/"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/mundo/eua-democratas-conquistam-maior-bancada-na-camara-dos-representantes-desde-1992/"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/democratas-conquistam-maior-bancada-na-camara-dos-eua-desde-1992,79cb7336d099f2335589890d242436c05igywfn0.html"
-      }
-     ]
     }
    ]
   },
@@ -650,7 +670,7 @@
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Inter x Vitória, Botafogo x São Paulo e Santos x Grêmio fecham hoje a 36ª rodada, com Inter e Grêmio no Z4",
+     "titulo": "Inter x Vitória, Botafogo x São Paulo e Santos x Grêmio fecham a 36ª rodada nesta noite, com Inter e Grêmio no Z4",
      "resumo": "Internacional e Grêmio, ambos com 38 pontos, abrem a noite na zona de rebaixamento; o Inter recebe o Vitória às 19h30 no Beira-Rio, e o Grêmio visita o Santos às 21h. No Nilton Santos, às 20h, o Botafogo de Tite (42 pontos) enfrenta o São Paulo de Dorival Júnior (44), há quatro jogos sem vencer.",
      "fontes": [
       {
@@ -664,22 +684,6 @@
       {
        "n": "Bolavip",
        "u": "https://br.bolavip.com/futebol/jogos-de-hoje-23-11-2026-futebol-na-tv"
-      }
-     ]
-    },
-    {
-     "kicker": "Brasileirão",
-     "quando": "21/11",
-     "titulo": "Flamengo garante o título brasileiro com empate por 1 a 1 diante do Palmeiras",
-     "resumo": "Com 80 pontos, o Flamengo não pode mais ser alcançado pelo Palmeiras, segundo colocado com 74, a três rodadas do fim. O Palmeiras agora concentra as atenções na final da Libertadores.",
-     "fontes": [
-      {
-       "n": "Tribuna do Sertão",
-       "u": "https://www.tribunadosertao.com.br/esportes/2026/11/22/1027575-luta-contra-o-rebaixamento-esquenta-a-36a-rodada-do-brasileirao-gremio-e-internacional-entram-em-campo-pressionados"
-      },
-      {
-       "n": "B News",
-       "u": "https://www.bnewssaopaulo.com.br/noticias/esportes/palmeiras-deixa-vice-brasileiro-foco-final-libertadores.html"
       }
      ]
     },
@@ -704,42 +708,54 @@
      ]
     },
     {
-     "kicker": "Fórmula 1",
-     "quando": "22/11",
-     "titulo": "Verstappen vence o GP de Las Vegas por 0s639 sobre Norris; Bortoleto é 12º e Rafael Câmara, 16º",
-     "resumo": "O holandês largou na pole e conquistou a 75ª vitória na carreira, com Piastri completando o pódio. Hamilton e Leclerc foram punidos após nova colisão entre os pilotos da Ferrari.",
+     "kicker": "Futebol feminino",
+     "quando": "Hoje",
+     "titulo": "Fifa confirma EUA, México, Costa Rica e Jamaica como sedes da Copa feminina de 2031 e o Reino Unido em 2035",
+     "resumo": "As duas candidaturas, únicas inscritas, foram aprovadas por aclamação em congresso extraordinário. A edição de 2031 será a primeira com quatro países-sede e 48 seleções; antes, o Brasil recebe a Copa feminina de 24 de junho a 25 de julho de 2027.",
      "fontes": [
+      {
+       "n": "CNN Brasil / Reuters",
+       "u": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fifa-define-oito-sedes-para-as-copas-do-mundo-femininas-de-2031-e-2035/"
+      },
+      {
+       "n": "Bahia Notícias",
+       "u": "https://www.bahianoticias.com.br/esportes/noticia/81132-fifa-define-paises-sede-das-copas-do-mundo-femininas-de-2031-e-2035-em-congresso-virtual"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "Depois da vitória de Verstappen em Las Vegas, F1 vai ao Catar para a penúltima etapa; Bortoleto busca pontos",
+     "resumo": "O GP do Catar é no domingo (29), às 13h de Brasília, em Lusail; a temporada termina em Abu Dhabi em 6 de dezembro. Antonelli, da Mercedes, já é campeão, e Verstappen (304 pontos) disputa o vice com Hamilton (267), Russell e Norris (264).",
+     "fontes": [
+      {
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-e-race-week-gp-do-catar-abre-as-duas-ultimas-etapas-da-temporada-2026/"
+      },
+      {
+       "n": "Canal GOAT",
+       "u": "https://canalgoat.com.br/noticias/formula-1/gp-do-catar-com-antonelli-ja-campeao-verstappen-hamilton-russell-e-norris-disputam-o-vice-e-audi-caca-a-haas.html"
+      },
       {
        "n": "Terra",
        "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-verstappen-vence-o-gp-de-las-vegas-2026-bortoleto-e-12-e-camara-e-16,9450961abd813a86d89789368c0a766fw066t757.html"
-      },
-      {
-       "n": "Fórmula 1",
-       "u": "https://www.formula1.com/en/latest/article/las-vegas-lowdown-all-the-key-moments-as-verstappen-wins-remarkable-race-and-ferraris-drivers-collide-again.62D9SeuQXSboAspMm7N0pN"
-      },
-      {
-       "n": "A Crítica",
-       "u": "https://acritica.net/esportes/automobilismo/gp-las-vegas-2026-resultado/"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Fluminense vence o Mirassol com gol nos acréscimos e fica perto da fase de grupos da Libertadores",
-     "resumo": "O jovem Riquelme Felipe marcou seu primeiro gol como profissional e garantiu o 1 a 0 no Maracanã. O Fluminense chega a 63 pontos, em 4º, e o Mirassol, com 41, segue em 15º.",
+     "quando": "21/11",
+     "titulo": "Flamengo garante o título brasileiro com empate por 1 a 1 diante do Palmeiras",
+     "resumo": "Com 80 pontos, o Flamengo não pode mais ser alcançado pelo Palmeiras, segundo colocado com 74, a três rodadas do fim. O Palmeiras agora concentra as atenções na final da Libertadores.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/brasileirao-fluminense-marca-no-fim-e-derrota-o-mirassol-no-maracana"
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/esportes/2026/11/22/1027575-luta-contra-o-rebaixamento-esquenta-a-36a-rodada-do-brasileirao-gremio-e-internacional-entram-em-campo-pressionados"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/fluminense/fluminense-x-mirassol-36-rodada-brasileirao-22-11-2026/"
-      },
-      {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/fluminense/veja-gol-da-vitoria-do-fluminense-sobre-o-mirassol-no-brasileirao.html"
+       "n": "B News",
+       "u": "https://www.bnewssaopaulo.com.br/noticias/esportes/palmeiras-deixa-vice-brasileiro-foco-final-libertadores.html"
       }
      ]
     }
@@ -927,9 +943,13 @@
     {
      "kicker": "Ciência na escola",
      "quando": "Hoje",
-     "titulo": "Semana Nacional de Ciência e Tecnologia abre hoje na Esplanada com o tema “Ciência Delas”",
-     "resumo": "A 23ª SNCT ocupa o gramado central da Esplanada, em Brasília, até 29 de novembro, com entrada gratuita e programação a partir de terça. Entre as atrações estão robôs humanoides, simulador de barco voador e a maquete do Micro Lançador Brasileiro.",
+     "titulo": "Semana Nacional de Ciência e Tecnologia tem abertura oficial hoje e recebe o público na Esplanada a partir de terça",
+     "resumo": "A 23ª edição, com o tema “Ciência Delas”, vai até domingo (29) em pavilhão no gramado central da Esplanada, com entrada gratuita. A programação inclui cinema científico, robótica, simuladores e premiação de olimpíadas científicas, com participação de MCTI, AEB, Inpe e Cemaden.",
      "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/distrito-federal/ciencia-delas-semana-nacional-de-ciencia-e-tecnologia-segue-ate-domingo"
+      },
       {
        "n": "Correio Braziliense",
        "u": "https://www.correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
@@ -982,14 +1002,38 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Estreias da semana, bilheteria e Dança dos Famosos",
+   "nota": "Streaming, TV e bilheteria",
    "itens": [
+    {
+     "kicker": "TV",
+     "quando": "Hoje",
+     "titulo": "CNN Brasil demite 16 profissionais e reduz equipes após queda na receita publicitária",
+     "resumo": "Segundo comunicado interno do CEO João Vitor Xavier, divulgado pela Folha, os cortes refletem o cenário econômico e do mercado publicitário. Nenhum programa será encerrado nesta etapa, e o canal diz que vai priorizar política, economia, internacional, agronegócio e infraestrutura.",
+     "fontes": [
+      {
+       "n": "TV Pop",
+       "u": "https://www.tvpop.com.br/405451/apos-queda-na-receita-publicitaria-cnn-brasil-demite-16-profissionais-e-muda-prioridades/"
+      },
+      {
+       "n": "Observatório da TV",
+       "u": "https://observatoriodatv.com.br/colunistas/diego-laureano/cnn-brasil-promove-demissoes-em-massa-e-reduz-equipes-apos-queda-na-receita-publicitaria"
+      },
+      {
+       "n": "Correio",
+       "u": "https://www.correio24horas.com.br/em-alta/cnn-brasil-faz-demissoes-apos-eleicoes-e-corta-16-jornalistas-para-diminuir-custos-1126"
+      }
+     ]
+    },
     {
      "kicker": "Streaming",
      "quando": "Hoje",
-     "titulo": "Semana tem ‘Blade Runner 2099’, novo episódio de ‘Cidade de Deus’ e documentário de Tyson Fury",
-     "resumo": "O Prime Video lança a série derivada de Blade Runner na terça (24), e a HBO Max exibe o quarto episódio de ‘Cidade de Deus: A Luta Não Para’ no domingo (29). Na Netflix, chegam o documentário sobre o boxeador Tyson Fury e a animação ‘O Homem-Cão’ na sexta (27).",
+     "titulo": "Semana no streaming tem ‘Blade Runner 2099’, fim de temporada de ‘Os Anéis de Poder’ e reality sobre o BBB",
+     "resumo": "O Prime Video lança ‘Blade Runner 2099’ na terça (24) e os dois últimos episódios da 3ª temporada de ‘O Senhor dos Anéis: Os Anéis de Poder’ na quarta (25). O Globoplay estreia o reality ‘Missão Ícone’ na quarta, e a Netflix traz a 4ª temporada de ‘Ilhados com a Sogra’ no mesmo dia.",
      "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/filmes-e-series/2026/11/23/ilhados-com-a-sogra-reality-sobre-bbb-e-mais-as-estreias-da-semana-no-streaming"
+      },
       {
        "n": "Oficina da Net",
        "u": "https://www.oficinadanet.com.br/entretenimento/74356-lancamentos-netflix-hbo-max-prime-video-disney-plus-23-a-29-novembro-2026"
