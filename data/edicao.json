@@ -1,34 +1,34 @@
 {
  "data": "Terça-feira, 24 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "24/11/2026 · 07h03 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h30 (23/11) e 06h10",
- "fontes": 69,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "24/11/2026 · 12h34 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 11h15 (Ibovespa) e manhã de 24/11",
+ "fontes": 59,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 23/11",
-   "valor": "164.796 pts",
-   "var": "-0,95%",
-   "dir": "down"
-  },
-  {
-   "nome": "Dólar · fechamento 23/11",
-   "valor": "R$ 5,926",
-   "var": "-0,15%",
-   "dir": "down"
-  },
-  {
-   "nome": "Nikkei · Tóquio, 24/11",
-   "valor": "58.644 pts",
-   "var": "+3,91%",
+   "nome": "Ibovespa · 11h15",
+   "valor": "166.649 pts",
+   "var": "+1,12%",
    "dir": "up"
   },
   {
-   "nome": "DI jan/2027 · 23/11, 17h02",
-   "valor": "13,70%",
-   "var": "estável",
-   "dir": ""
+   "nome": "Dólar · fim da manhã",
+   "valor": "R$ 5,85",
+   "var": "-1,30%",
+   "dir": "down"
+  },
+  {
+   "nome": "DI jan/2029 · 9h13",
+   "valor": "15,02%",
+   "var": "-0,07 p.p.",
+   "dir": "down"
+  },
+  {
+   "nome": "Nasdaq · abertura",
+   "valor": "23.746 pts",
+   "var": "-1,43%",
+   "dir": "down"
   },
   {
    "nome": "Selic · Focus fim de 2027",
@@ -44,13 +44,8 @@
    "cat": "economia"
   },
   {
-   "hora": "Ter 24/11 · dia todo",
-   "txt": "Alerta vermelho do Inmet para tempestades em áreas de RS, SC e PR",
-   "cat": "brasil"
-  },
-  {
    "hora": "Ter 24/11 · 17h",
-   "txt": "Champions: Real Madrid x PSV e Arsenal x Borussia Dortmund",
+   "txt": "Champions: Real Madrid x PSV, Arsenal x Dortmund e Manchester City x Napoli",
    "cat": "esporte"
   },
   {
@@ -59,13 +54,18 @@
    "cat": "esporte"
   },
   {
-   "hora": "25 e 26/11",
-   "txt": "STF julga consulta prévia a povos indígenas e a Lei da Liberdade Econômica",
-   "cat": "politica"
+   "hora": "Qua 25/11 · 20h",
+   "txt": "Atlético-MG x Corinthians fecha a 36ª rodada; ciclone deve se formar na costa de SC",
+   "cat": "esporte"
   },
   {
    "hora": "Sáb 28/11 · 17h",
    "txt": "Palmeiras x Estudiantes, final da Libertadores em Montevidéu",
+   "cat": "esporte"
+  },
+  {
+   "hora": "Dom 29/11 · 13h",
+   "txt": "GP do Catar de Fórmula 1, penúltima etapa da temporada",
    "cat": "esporte"
   }
  ],
@@ -162,44 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Ajuste fiscal",
-  "titulo": "Câmara aprova o ajuste fiscal sem mudanças, derruba todos os destaques e envia o texto à sanção de Lula",
-  "resumo": "O texto-base passou por 353 votos a 128 na noite de segunda e, já de madrugada, os deputados rejeitaram todas as tentativas de alteração, inclusive as de partidos aliados. O governo estima melhora de R$ 45 bilhões a R$ 56 bilhões nas contas de 2027.",
+  "kicker": "Mercado",
+  "titulo": "Mercado reage ao ajuste fiscal: Ibovespa sobe mais de 1% e dólar recua para perto de R$ 5,85",
+  "resumo": "Um dia depois de a Câmara aprovar o pacote fiscal sem mudanças, a bolsa chegou a 166.649 pontos no fim da manhã, e os juros futuros caíram. O governo divulga hoje o relatório bimestral, que deve indicar o tamanho da contenção de gastos de 2026.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/d4K9Xc9PqV-22wdKpLg10RvLBK0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/19/0d9a9165.jpg?itok=2GfbeiHU",
-   "credito": "Lula Marques/Agência Brasil (arquivo)"
+   "src": "fotos/real.jpg",
+   "credito": "José Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "O PLP 299/2026, aprovado pelo Senado na semana passada, reduz de 2,5% para 2% o crescimento real máximo dos gastos em anos de contenção, amplia o corte de benefícios tributários, limita o uso de créditos tributários para quitar impostos e reduz de R$ 4 bilhões para R$ 2 bilhões o repasse anual da Lei Kandir aos estados. Como os deputados mantiveram o texto do Senado, o projeto segue direto para a sanção; segundo O Tempo, o presidente tem 15 dias úteis para decidir. O relator, Mauro Benevides Filho (União-CE), diz que Bolsa Família, BPC e seguro-desemprego ficam fora do aperto. O governo queria concluir a votação antes do relatório bimestral de receitas e despesas, previsto para hoje.",
+  "entenda": "O PLP 299/2026, aprovado por 353 a 128 na Câmara depois de passar pelo Senado, reduz de 2,5% para 2% o crescimento real máximo dos gastos nos anos em que as medidas de contenção forem acionadas, corta cerca de 20% dos benefícios tributários e limita o uso de créditos tributários para pagar impostos. A estimativa oficial é de melhora de R$ 45 bilhões a R$ 56 bilhões nas contas de 2027, e o texto vai à sanção. A Consultoria de Orçamento do Senado calcula que até 70% do efeito venha de maior arrecadação das empresas. Na abertura, o dólar ainda operava perto da estabilidade; a queda ganhou força ao longo da manhã, enquanto Wall Street abriu em baixa com a perda de fôlego do rali da Nvidia.",
   "fatos": [
-   "Texto-base: 353 a 128, com 5 abstenções; eram necessários 257 votos",
-   "PL deu 86 votos contra e 7 a favor; PSD, União Brasil, MDB, PP e Republicanos votaram majoritariamente sim",
-   "Destaque sobre o limite a créditos tributários caiu por 333 a 138; Lei Kandir ficou em R$ 2 bi por 310 a 132"
+   "Ibovespa: 166.649 pontos por volta das 11h15 (+1,12%); máxima de 167.046",
+   "Setores industrial (+3,9%) e financeiro (+1,9%) lideraram; energia caiu 1,2% e Vale ON perdia 2,8%",
+   "DI para janeiro de 2029 recuava a 15,02% às 9h13; o Nasdaq abriu em queda de 1,43%"
   ],
   "fontes": [
    {
-    "n": "O Tempo",
-    "u": "https://www.otempo.com.br/politica/2026/11/24/governo-barra-todas-as-mudancas-e-ajuste-fiscal-de-lula-vai-a-sancao-como-saiu-do-senado",
-    "d": "destaques derrubados"
+    "n": "Investing.com / Reuters",
+    "u": "https://br.investing.com/news/stock-market-news/ibovespa-sobe-na-abertura-com-medidas-fiscais-no-radar-petrobras-recua-2136872",
+    "d": "bolsa e ações"
    },
    {
-    "n": "Jovem Pan",
-    "u": "https://jovempan.com.br/politica/como-votou-cada-partido-em-votacao-que-aprovou-texto-base-do-ajuste-fiscal-na-camara/",
-    "d": "voto por partido"
+    "n": "Times Brasil",
+    "u": "https://timesbrasil.com.br/brasil/ibovespa-sobe-mais-de-1-com-avanco-do-ajuste-fiscal-queda-do-dolar-e-recuo-dos-juros",
+    "d": "setores e dólar"
    },
    {
     "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/politica/camara-aprova-pacote-fiscal-proposto-pelo-governo-lula/",
-    "d": "medidas do pacote"
+    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24112026/",
+    "d": "abertura e juros"
    },
    {
-    "n": "Brasil de Fato",
-    "u": "https://www.brasildefato.com.br/2026/11/23/camara-aprova-ajuste-fiscal-sem-alteracoes-texto-vai-a-sancao-presidencial/",
-    "d": "debate em plenário"
+    "n": "CNN Brasil",
+    "u": "https://cnnbrasil.com.br/economia/money/mercado/bolsas-eua-24-novembro-2026",
+    "d": "Wall Street"
    },
    {
-    "n": "Mix Vale",
-    "u": "https://www.mixvale.com.br/2026/11/24/camara-aprova-ajuste-fiscal-com-353-votos-e-limite-de-gastos-de-2/",
-    "d": "meta fiscal de 2027"
+    "n": "TV Guararapes / R7",
+    "u": "https://www.tvguararapes.com.br/economia/2026/11/24/governo-divulga-hoje-relatorio-com-restricao-de-despesas-apos-ajuste-fiscal.html",
+    "d": "relatório bimestral"
    }
   ]
  },
@@ -208,55 +208,75 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Ajuste aprovado, Bolsonaro na UTI e vaga no STF",
+   "nota": "Votos do ajuste, vaga no STF e Bolsonaro na UTI",
    "itens": [
     {
      "kicker": "Ajuste fiscal",
      "quando": "Hoje",
-     "titulo": "Governo derruba todas as emendas e destaques; PL e Novo votam contra o pacote e PSOL entra em obstrução",
-     "resumo": "As emendas foram rejeitadas por 319 a 129, e uma proposta do PL apresentada por Nikolas Ferreira teve 146 votos a favor e 315 contra. O PT votou integralmente a favor, com duas abstenções, enquanto 13 deputados do PSOL deixaram de votar.",
+     "titulo": "Partidos que apoiaram Flávio no 2º turno deram 143 dos 353 votos ao ajuste fiscal; PL votou em peso contra",
+     "resumo": "Republicanos, União Brasil, PP e Podemos votaram majoritariamente a favor, enquanto o PL deu 86 votos contra e 7 a favor e o Novo votou todo contra. Na base, Lindbergh Farias e Natália Bonavides (PT) se abstiveram e o PSOL ficou em obstrução.",
      "lados": [
       {
-       "quem": "Governo e relator",
-       "txt": "Paulo Pimenta (PT-RS), líder do governo, nega cortes em saúde e educação; Lula diz que o ajuste não tira recursos dos mais pobres."
+       "quem": "Defensores do pacote",
+       "txt": "André Janones (Rede-MG) diz que rejeitar o texto elevaria dólar e inflação; o governo afirma que saúde, educação e programas sociais ficam preservados."
       },
       {
        "quem": "Oposição",
-       "txt": "A líder Júlia Zanatta (PL-SC) orientou voto contra, e Sóstenes Cavalcante (PL-RJ) afirmou que o texto aumenta tributos sem ajustar despesas."
-      },
-      {
-       "quem": "PSOL",
-       "txt": "Sâmia Bomfim (PSOL-SP) propôs cortar R$ 22,7 bilhões em emendas parlamentares no lugar das medidas do pacote; a emenda foi rejeitada."
+       "txt": "Cabo Gilberto Silva (PL-PB), líder da oposição, diz que o governo não corta gastos; Flávio Bolsonaro, que votou contra no Senado, afirma que o pacote atinge saúde e educação."
       }
      ],
      "fontes": [
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/2026/11/24/governo-barra-todas-as-mudancas-e-ajuste-fiscal-de-lula-vai-a-sancao-como-saiu-do-senado"
+       "n": "BNC Amazonas",
+       "u": "https://bncamazonas.com.br/poder/partidos-do-bolsonarismo-dao-143-votos-ao-ajuste-fiscal-de-lula/"
       },
       {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/politica/como-votou-cada-partido-em-votacao-que-aprovou-texto-base-do-ajuste-fiscal-na-camara/"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/ajuste-fiscal-passa-com-7-votos-do-pl-mas-sem-apoio-de-lindbergh-e-do-psol/"
       },
       {
-       "n": "Brasil de Fato",
-       "u": "https://www.brasildefato.com.br/2026/11/23/camara-aprova-ajuste-fiscal-sem-alteracoes-texto-vai-a-sancao-presidencial/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/minas-gerais/enterramos-o-tesouraco-do-flavio-diz-janones-apos-camara-aprovar-ajuste"
+      },
+      {
+       "n": "InfoMoney / O Globo",
+       "u": "https://www.infomoney.com.br/politica/apos-defender-tesouraco-flavio-vota-dos-eua-contra-ajuste-do-governo-lula/"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "Lula desiste de reenviar Messias e avalia indicar uma mulher para a vaga de Barroso no STF",
+     "resumo": "Segundo relatos publicados nesta terça, o presidente sinalizou a Alcolumbre e a ministros do Supremo, em jantar no sábado, que não deve reapresentar o nome do advogado-geral, rejeitado pelo Senado por 42 a 34. Entre as cotadas estão ministras do STJ e do STM e a ex-ministra Simone Tebet; Rodrigo Pacheco, preferido de Alcolumbre, não deve ser o escolhido desta vez.",
+     "fontes": [
+      {
+       "n": "Agenda do Poder",
+       "u": "https://agendadopoder.com.br/tebet-e-ministras-de-tribunais-superiores-entram-no-radar-de-lula-para-vaga-no-stf/"
+      },
+      {
+       "n": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/24/lula-considera-indicar-mulher-ao-stf-apos-rejeicao-de-messias/"
+      },
+      {
+       "n": "Tribuna do Norte",
+       "u": "https://tribunadonorte.com.br/politica/lula-avalia-possibilidade-de-indicar-mulher-para-stf-diante-da-resistencia-ao-nome-de-messias/"
       }
      ]
     },
     {
      "kicker": "Bolsonaro",
      "quando": "Hoje",
-     "titulo": "Bolsonaro tem pneumonia bilateral e segue na UTI; equipe mantém tratamento sem cirurgia",
-     "resumo": "O boletim de segunda informou pneumonia nos dois pulmões, ligada a broncoaspiração, e melhora da distensão abdominal causada por obstrução do intestino delgado. Os médicos mantêm tratamento clínico, com sonda e antibióticos, e dizem que o quadro é estável, sem previsão de alta; Moraes autorizou a retirada da tornozeleira durante a internação.",
+     "titulo": "Bolsonaro completa cinco dias na UTI, com pneumonia e obstrução intestinal; médicos mantêm tratamento sem cirurgia",
+     "resumo": "O ex-presidente está internado no DF Star, em Brasília, desde sexta (20), e o boletim mais recente o descreve como estável, consciente e respirando sem aparelhos. O tratamento segue com jejum, sonda e nutrição pela veia, sem previsão de alta; Moraes autorizou a retirada da tornozeleira durante a internação.",
      "foto": {
       "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/df/brasilia/politica/noticia/2026/11/24/bolsonaro-tem-pneumonia-bilateral-segue-na-uti"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/justica/bolsonaro-na-uti-cinco-dias-internado/"
       },
       {
        "n": "Portal O Dia",
@@ -285,42 +305,10 @@
       {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-notifica-flavio-calunia-lula"
-      }
-     ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Ontem",
-     "titulo": "Lula mantém Messias como opção para o STF, mas sinaliza que estuda indicar uma mulher",
-     "resumo": "Segundo o SBT News, no jantar de sábado no Alvorada com Alcolumbre, Hugo Motta e quatro ministros do STF, o presidente citou nomes de mulheres para a vaga de Barroso, sem que eles fossem divulgados. Messias foi rejeitado pelo Senado em abril, por 42 a 34, e parte dos presentes defende Rodrigo Pacheco.",
-     "fontes": [
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/colunas/coluna-do-tulio/lula-sinaliza-a-alcolumbre-e-stf-que-estuda-indicar-mulher"
       },
       {
-       "n": "Jovem Pan",
-       "u": "https://jovempan.com.br/politica/lula-reune-ministros-do-stf-motta-e-alcolumbre-em-jantar-messias-ainda-e-plano-a-para-o-supremo/"
-      },
-      {
-       "n": "ISTOÉ",
-       "u": "https://istoe.com.br/lula-ministros-stf-congresso-jantar-alvorada"
-      }
-     ]
-    },
-    {
-     "kicker": "EUA",
-     "quando": "Ontem",
-     "titulo": "Deputada democrata diz que partido vai investigar o papel do governo Trump na saída de Flávio Bolsonaro do Brasil",
-     "resumo": "Pramila Jayapal afirmou que a apuração será feita quando a nova legislatura, de maioria democrata, assumir em 2027. O secretário de Estado, Marco Rubio, nega participação de Washington; por ora, trata-se de uma intenção declarada, não de um inquérito aberto.",
-     "fontes": [
-      {
-       "n": "Diário do RN / ICL",
-       "u": "https://diariodorn.com.br/com-maioria-no-congresso-democratas-abrirao-inquerito-sobre-flavio-bolsonaro-nos-eua/"
-      },
-      {
-       "n": "RED",
-       "u": "https://red.org.br/noticias/democratas-investigar-apoio-trump-flavio-bolsonaro/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/judiciario/2026/11/23/moraes-chama-flavio-de-foragido-e-da-15-dias-para-responder-a-denuncia-contra-lula"
       }
      ]
     }
@@ -330,81 +318,73 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Petrobras, bolsas em alta na Ásia e meta fiscal",
+   "nota": "Bolsa em alta, relatório bimestral e 13º do INSS",
    "itens": [
     {
-     "kicker": "Petrobras",
-     "quando": "Ontem",
-     "titulo": "Petrobras prevê investir US$ 122 bilhões até 2031, 12% acima do plano anterior, e eleva dividendos",
-     "resumo": "O plano 2027-2031 aprovado pelo conselho destina US$ 86 bilhões à exploração e produção, a maior parte no pré-sal, e US$ 24 bilhões ao refino. A estatal projeta 2,9 milhões de barris por dia já em 2027 e dividendos ordinários de US$ 55 bilhões a US$ 60 bilhões, enquanto a meta de corte de emissões para 2030 caiu de 30% para 18%.",
+     "kicker": "Bolsa",
+     "quando": "Hoje",
+     "titulo": "Ibovespa sobe mais de 1% com ajuste aprovado; bancos e indústria lideram e Vale cai",
+     "resumo": "Por volta das 11h15 o índice marcava 166.649 pontos, com BTG, Bradesco e Itaú em alta de 2% a 3,6% e Hapvida subindo quase 8%. A Petrobras PN avançava cerca de 1,3% depois de anunciar plano de US$ 122 bilhões até 2031 e R$ 15,6 bilhões em remuneração extra aos acionistas; Vale ON caía 2,8%.",
      "fontes": [
+      {
+       "n": "Investing.com / Reuters",
+       "u": "https://br.investing.com/news/stock-market-news/ibovespa-sobe-na-abertura-com-medidas-fiscais-no-radar-petrobras-recua-2136872"
+      },
+      {
+       "n": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/ibovespa-sobe-mais-de-1-com-avanco-do-ajuste-fiscal-queda-do-dolar-e-recuo-dos-juros"
+      },
       {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-aprova-investimentos-de-us-122-bi-em-plano-de-negocios-2027-2031/"
-      },
-      {
-       "n": "InvestNews",
-       "u": "https://investnews.com.br/negocios/petrobras-plano-investimento-2031/"
-      },
-      {
-       "n": "ClimaInfo",
-       "u": "https://climainfo.org.br/2026/11/24/plano-de-negocios-27-31-da-petrobras-preve-us-122-bilhoes-em-investimentos/"
-      }
-     ]
-    },
-    {
-     "kicker": "Mercados",
-     "quando": "Hoje",
-     "titulo": "Bolsas da Ásia sobem após rali da Nvidia; Taiwan avança 9% e Seul, 6%",
-     "resumo": "O índice de Taiwan fechou em alta de 8,99% e o Kospi, de 6,32%, puxados por empresas de tecnologia após a recondução de Jensen Huang ao comando da Nvidia. Tóquio subiu 3,91%, e Hong Kong foi exceção, com queda de 0,73%; na segunda, a Nvidia saltou 31,5% em Nova York.",
-     "fontes": [
-      {
-       "n": "Money Times / Estadão Conteúdo",
-       "u": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-majoritariamente-em-alta-apos-reconducao-de-huang-a-nvidia-fets/"
-      },
-      {
-       "n": "Diário Económico",
-       "u": "https://www.diarioeconomico.co.mz/2026/11/24/mercados/mercados-mercados/wall-street-euforica-com-regresso-de-huang-a-nvidia-accoes-da-empresa-disparam-mais-de-31/"
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24112026/"
       }
      ]
     },
     {
      "kicker": "Contas públicas",
      "quando": "Hoje",
-     "titulo": "Com ajuste aprovado, governo divulga relatório bimestral; meta de 2027 prevê superávit de R$ 18,7 bilhões",
-     "resumo": "O pacote limita a compensação de créditos tributários, com efeito estimado de R$ 12,8 bilhões a R$ 18,3 bilhões em 2027, e permite tirar da meta de 2026 até R$ 10,5 bilhões da subvenção ao diesel. O relatório de receitas e despesas de hoje indica se haverá novo bloqueio no Orçamento deste ano.",
+     "titulo": "Governo divulga hoje o relatório bimestral; contenção de gastos de 2026 deve aumentar mesmo com o ajuste",
+     "resumo": "O documento traz novas estimativas de receitas e despesas e o valor a ser contido no Orçamento deste ano; em setembro, a contenção somava R$ 16,1 bilhões. O pacote aprovado permite deixar fora da meta de 2026 até R$ 10,5 bilhões gastos com a subvenção ao diesel.",
      "fontes": [
       {
+       "n": "TV Guararapes / R7",
+       "u": "https://www.tvguararapes.com.br/economia/2026/11/24/governo-divulga-hoje-relatorio-com-restricao-de-despesas-apos-ajuste-fiscal.html"
+      },
+      {
        "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/24/camara-aprova-ajuste-fiscal-com-353-votos-e-limite-de-gastos-de-2/"
+       "u": "https://www.mixvale.com.br/2026/11/24/contencao-de-despesas-no-orcamento-de-2026-vai-subir-mesmo-apos-aprovacao-de-ajuste-fiscal-na-camara"
       },
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/politica/camara-aprova-pacote-fiscal-proposto-pelo-governo-lula/"
-      },
-      {
-       "n": "Tribuna do Norte",
-       "u": "https://tribunadonorte.com.br/politica/camara-aprova-ajuste-fiscal-que-pode-gerar-economia-de-r-56-bilhoes-ao-governo/"
+       "n": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/financas/2026/11/24/1028799-governo-deve-anunciar-contencao-de-despesas-no-orcamento-mesmo-apos-aprovacao-de-ajuste-fiscal"
       }
      ]
     },
     {
-     "kicker": "Bolsa",
-     "quando": "Ontem",
-     "titulo": "Ibovespa cai 0,95% e tem a terceira queda seguida; dólar fecha em leve baixa após tocar R$ 6",
-     "resumo": "A bolsa terminou a 164.796 pontos, pressionada pelo Focus com inflação e juros maiores e pela espera da votação do ajuste. O dólar fechou a R$ 5,926, com recuo de 0,15%; Petrobras ON perdeu cerca de 3% antes da divulgação do plano de negócios.",
+     "kicker": "INSS",
+     "quando": "Hoje",
+     "titulo": "INSS começa a pagar benefícios de novembro e parcela do 13º; depósitos vão até 7 de dezembro",
+     "resumo": "Quem recebe até um salário mínimo (R$ 1.621) e tem cartão com final 1 é pago hoje, e os demais finais seguem nos próximos dias úteis. Para benefícios acima do mínimo, os depósitos começam em 1º de dezembro; quem recebe BPC não tem direito ao abono.",
      "fontes": [
       {
-       "n": "TradeMap",
-       "u": "https://trademap.com.br/noticias/news-8632330"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inss-comeca-pagar-decimo-terceiro-salario-nesta-terca-feira-24"
       },
       {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/23/dolar-recua-015-e-fecha-a-r-59262-apos-bater-r-6-ibovespa-cai-na-contramao/"
-      },
+       "n": "Jornal da Mídia",
+       "u": "https://jornaldamidia.com.br/2026/11/24/empresas-tem-ate-30-de-novembro-para-pagar-primeira-parcela-do-13o"
+      }
+     ]
+    },
+    {
+     "kicker": "Comércio exterior",
+     "quando": "Hoje",
+     "titulo": "EUA bloqueiam na OMC pedido do Brasil para abrir painel contra as tarifas de Trump",
+     "resumo": "O Brasil sustenta que as sobretaxas violam regras do comércio internacional; os EUA justificam a medida citando o Pix, a política ambiental, o etanol e propriedade intelectual. Pelas regras da OMC, o Itamaraty pode reapresentar o pedido em dezembro, quando o veto deixa de valer e o painel é aberto automaticamente.",
+     "fontes": [
       {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23112026/"
+       "n": "Jornal GGN / ICL",
+       "u": "https://jornalggn.com.br/noticia/eua-vetam-pedido-do-brasil-para-julgar-tarifas-de-trump-na-omc"
       }
      ]
     },
@@ -438,25 +418,45 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Alerta vermelho no Sul e estragos no RS",
+   "nota": "Alerta vermelho no Sul, ciclone a caminho e operações policiais",
    "itens": [
     {
      "kicker": "Clima",
      "quando": "Hoje",
-     "titulo": "Sul tem alerta vermelho para tempestades nesta terça, com chuva acima de 100 mm e ventos de mais de 100 km/h",
-     "resumo": "O aviso de grande perigo do Inmet vale para áreas do Rio Grande do Sul, de Santa Catarina e do Paraná, com risco de granizo, cortes de energia, quedas de árvores e alagamentos. Quase todo o Sul e partes de São Paulo e Mato Grosso do Sul estão sob alerta laranja.",
+     "titulo": "Sul segue em alerta vermelho para tempestades, e ciclone extratropical deve se formar na quarta",
+     "resumo": "O Inmet prevê mais de 100 mm de chuva, rajadas acima de 100 km/h e granizo em áreas do norte e noroeste gaúcho, do centro e oeste catarinense e de boa parte do Paraná; o sul de MS também aparece em algumas listas de risco. O ciclone deve surgir perto da costa de SC na quarta e se intensificar na quinta, com frente fria e menos de 10 °C nas serras.",
      "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/brasil/inmet-emite-alerta-vermelho-para-tres-estados-e-preve-ciclone-extratropical/"
+      },
       {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/nacional/sul/brasil-emite-alerta-vermelho-de-tempestade-para-sul-nesta-terca-feira-24/"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/alerta-vermelho-regiao-sul-esta-sob-risco-de-novas-tempestades-diz-inmet"
+       "n": "ISTOÉ",
+       "u": "https://istoe.com.br/alerta-vermelho-tempestades-quatro-estados-24-novembro-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Polícia Federal",
+     "quando": "Hoje",
+     "titulo": "PF faz três operações contra lavagem de dinheiro com criptoativos que movimentou mais de R$ 4,3 bilhões",
+     "resumo": "Cerca de 130 policiais cumprem 72 mandados de busca e de prisão temporária em cidades de SP, PR, PE, GO, RS e no DF. A Justiça mandou bloquear até R$ 4,3 bilhões; uma das frentes apura golpes digitais e falsas ofertas de emprego no exterior.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pf-investiga-esquema-de-lavagem-de-dinheiro-e-fraude-com-criptoativos"
       },
       {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/variedades/inmet-emite-alerta-vermelho-para-tempestades-no-brasil-veja-quando-e-onde-1.1197398"
+       "n": "Brasil de Fato",
+       "u": "https://brasildefato.com.br/2026/11/24/pf-investiga-esquema-de-lavagem-de-dinheiro-e-fraude-com-criptoativos"
+      },
+      {
+       "n": "Jornal Cruzeiro",
+       "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/11/768158-pf-deflagra-operacoes-contra-lavagem-de-dinheiro-com-acoes-em-sorocaba.html"
       }
      ]
     },
@@ -485,42 +485,14 @@
      ]
     },
     {
-     "kicker": "São Paulo",
-     "quando": "Ontem",
-     "titulo": "Temporal em São Paulo provoca alagamentos e quedas de árvores; túnel do Anhangabaú é interditado",
-     "resumo": "Entre 10h e o fim da tarde, os Bombeiros receberam 50 chamados na capital e na Grande SP, 36 deles por quedas de árvores. Às 18h30, o CGE registrava 12 pontos de alagamento, seis intransitáveis; a previsão é de mais chuva forte na terça e de frente fria na quarta.",
+     "kicker": "Espírito Santo",
+     "quando": "Hoje",
+     "titulo": "Operação com 120 policiais mira facções no noroeste do Espírito Santo; oito são presos",
+     "resumo": "A Polícia Civil cumpre 31 ordens judiciais em Nova Venécia e outros sete municípios da região, com apoio aéreo. Até o fim da manhã, oito pessoas tinham sido presas e um adolescente foi apreendido.",
      "fontes": [
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/brasil/temporal-em-sp-causa-alagamentos-e-quedas-de-arvores"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sp-defesa-civil-emite-alerta-de-chuva-forte-na-capital-nesta-segunda-23/"
-      },
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/sao-paulo/cidade-de-sao-paulo-esta-em-estado-de-atencao-para-alagamentos-nesta-2a"
-      }
-     ]
-    },
-    {
-     "kicker": "Clima",
-     "quando": "Ontem",
-     "titulo": "Sudeste e DF seguem com aviso de tempestade; Nordeste tem baixa umidade e calor de até 40 °C",
-     "resumo": "A previsão é de pancadas com raios e possibilidade de granizo em boa parte do Sudeste, do Centro-Oeste e do Sul nesta segunda; no Rio, a máxima pode chegar a 35 °C. Em áreas de nove estados do Nordeste a umidade pode cair a 20%, e Teresina deve chegar a 40 °C.",
-     "fontes": [
-      {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/rio-e-sudeste-tem-previsao-de-tempestades-nesta-segunda-inmet-mantem-alerta-amarelo/"
-      },
-      {
-       "n": "Sou Brasília",
-       "u": "https://soubrasilia.com/inmet-renova-aviso-tempestade-df-segunda-23-terca-24-novembro-2026-granizo/"
-      },
-      {
-       "n": "CompreRural",
-       "u": "https://www.comprerural.com/previsao-do-tempo-alerta-inmet-23-novembro/"
+       "u": "https://www.metropoles.com/brasil/megaoperacao-mobiliza-120-policiais-contra-faccoes-no-espirito-santo"
       }
      ]
     }
@@ -530,21 +502,33 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Ucrânia, Israel e Oriente Médio",
+   "nota": "Gaza, Ucrânia e Oriente Médio",
    "itens": [
     {
-     "kicker": "Ucrânia",
-     "quando": "Ontem",
-     "titulo": "Ataques russos deixam ao menos 20 civis mortos na Ucrânia; prédio em Dymer tem 11 mortes confirmadas",
-     "resumo": "Na noite de domingo para segunda, a Rússia lançou 153 drones, e a Força Aérea ucraniana diz ter neutralizado 134. Em Vyshneve, também na região de Kiev, um supermercado foi atingido, com ao menos dois mortos e oito feridos.",
+     "kicker": "Gaza",
+     "quando": "Hoje",
+     "titulo": "Ataques israelenses matam ao menos seis pessoas em Gaza, entre elas dois policiais",
+     "resumo": "Segundo equipes médicas, três pessoas morreram num posto policial em Khan Younis e outras três perto do corredor de Netzarim; Israel diz ter atingido militantes. Desde o cessar-fogo de outubro de 2025, ao menos 1.600 palestinos e cinco soldados israelenses morreram, segundo autoridades de cada lado.",
      "fontes": [
       {
-       "n": "Vatican News",
-       "u": "https://www.vaticannews.va/pt/mundo/news/2026-11/ucrania-ataques-russos-22-23-novembro-mortos-feridos.html"
+       "n": "CNN Brasil / Reuters",
+       "u": "https://www.cnnbrasil.com.br/internacional/ataque-israelense-mata-pessoas-em-gaza-dizem-equipes-medicas/"
       },
       {
-       "n": "Euronews / AP",
-       "u": "https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region"
+       "n": "Observador",
+       "u": "https://observador.pt/2026/11/24/resposta-de-israel-a-ataque-do-hamas-e-um-genocidio-diz-ex-primeiro-ministro-da-autoridade-palestiniana/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Zelensky diz que Rússia prepara novos ataques e pede aos EUA fornecimento contínuo de defesa antiaérea",
+     "resumo": "Em mensagem na noite de segunda, o presidente ucraniano afirmou que a inteligência detectou preparativos russos, sem indicar data. Um ataque na segunda feriu cinco pessoas no centro de Kiev, um dia depois de o bombardeio a um prédio em Dymer deixar 11 mortos.",
+     "fontes": [
+      {
+       "n": "Infobae",
+       "u": "https://www.infobae.com/america/mundo/2026/11/24/zelensky-advirtio-que-rusia-prepara-nuevos-ataques-contra-ucrania-y-reclamo-a-eeuu-garantias-para-el-suministro-de-armas-antiaereas/"
       },
       {
        "n": "CNN Portugal",
@@ -606,49 +590,57 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Grêmio sai do Z4, Inter goleado e Champions hoje",
+   "nota": "Palmeiras em campo, Champions e briga contra a queda",
    "itens": [
     {
      "kicker": "Brasileirão",
-     "quando": "Ontem",
-     "titulo": "Vitória goleia o Inter por 5 a 2 no Beira-Rio, e Grêmio vence o Santos e deixa a zona de rebaixamento",
-     "resumo": "Renê marcou para o Vitória com 12 segundos de jogo, e o Inter caiu para o 18º lugar, com 38 pontos. O Grêmio fez 2 a 0 no Santos, com Amuzu e Braithwaite, e subiu para 15º, com 41; no Nilton Santos, Botafogo e São Paulo empataram por 1 a 1, com uma expulsão de cada lado.",
+     "quando": "Hoje",
+     "titulo": "Palmeiras, já garantido como vice, enfrenta a rebaixada Chapecoense com reservas às 18h",
+     "resumo": "O jogo em Chapecó antecipa a 37ª rodada, e Abel Ferreira deve poupar titulares para a final da Libertadores. O Palmeiras tem 74 pontos, atrás do campeão Flamengo, e a Chapecoense, com 21, já está na Série B e vem de cinco derrotas seguidas.",
      "fontes": [
       {
-       "n": "Maringá Post",
-       "u": "https://maringapost.com.br/2026/11/23/vitoria-goleia-o-inter-e-aumenta-drama-na-luta-contra-o-z4-do-brasileirao/"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/futebol-nacional/palmeiras/2026/11/24/chapecoense-x-palmeiras-hoje-horario-onde-assistir-escalacoes-e-situacao-no-brasileirao"
       },
       {
-       "n": "ESPN",
-       "u": "https://espn.com.br/futebol/brasileirao/artigo/_/id/17554559/com-show-weverton-gremio-vence-santos-morumbi-deixa-zona-rebaixamento"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-palmeiras-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
       },
       {
-       "n": "Portal Morada",
-       "u": "https://portalmorada.com.br/brasileirao-sao-paulo-empata-com-botafogo-e-santos-perde-para-o-gremio"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/gremio-vence-e-inter-perde-veja-como-fica-a-luta-contra-o-rebaixamento"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/saiba-onde-assistir-a-chapecoense-x-palmeiras-pelo-brasileirao"
       }
      ]
     },
     {
-     "kicker": "Jogos de hoje",
+     "kicker": "Champions League",
      "quando": "Hoje",
-     "titulo": "Chapecoense x Palmeiras abre a 37ª rodada; Champions tem Real Madrid x PSV e Arsenal x Dortmund",
-     "resumo": "O Palmeiras joga às 18h em Chapecó, quatro dias antes da final da Libertadores. Na Champions, os dois jogos de destaque começam às 17h, e a seleção sub-17 enfrenta a Tanzânia às 12h pela Copa do Mundo da categoria; Atlético-MG x Corinthians fecha a 36ª rodada na quarta, às 20h.",
+     "titulo": "Champions tem nove jogos hoje; Real Madrid, com 100% de aproveitamento, recebe o PSV",
+     "resumo": "Às 17h também jogam Arsenal x Dortmund e Manchester City x Napoli, depois de Galatasaray x Aston Villa e Bodø/Glimt x LASK, às 14h45. O Real tem 12 pontos e pode assumir a liderança provisória da fase de liga.",
      "fontes": [
       {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-24-11-2026-futebol-na-tv"
+       "n": "Alô Alô Bahia",
+       "u": "https://aloalobahia.com/esportes/2026/11/24/champions-league-hoje-24-11-jogos-horarios-e-onde-assistir-a-real-madrid-arsenal-e-manchester-city/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/sports/futebol-internacional/2026/11/23/champions-league-onde-assistir-a-quinta-rodada-com-psg-x-roma-como-grande-destaque"
+       "n": "Exame",
+       "u": "https://exame.com/esporte/champions-league-hoje-veja-os-jogos-e-onde-assistir-ao-vivo/"
+      }
+     ]
+    },
+    {
+     "kicker": "Rebaixamento",
+     "quando": "Hoje",
+     "titulo": "Inter tem 93,7% de risco de queda, segundo a UFMG; Corinthians está no Z4 e joga quarta",
+     "resumo": "Depois da goleada de 5 a 2 sofrida para o Vitória, o Inter é 18º, com 38 pontos, e o Grêmio, que venceu o Santos, subiu para 15º, com 41. O Corinthians, 17º com 40, visita o Atlético-MG na quarta, às 20h, e enfrenta o Grêmio no domingo.",
+     "fontes": [
+      {
+       "n": "Repórter PB",
+       "u": "https://www.reporterpb.com.br/noticia/esportes/2026/11/24/gremio-deixa-o-z4-internacional-ve-risco-disparar-para-93-7-e-corinthians-volta-a-degola-no-brasileirao/194910.html"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/campeonatos/champions-league/real-madrid-x-psv-onde-assistir-provaveis-escalacoes/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/como-fica-a-situacao-do-corinthians-no-brasileirao-apos-jogos-de-inter-e-gremio,d0bae54bb22674a37ea0a613333ced9e2j3ednhn.html"
       }
      ]
     },
@@ -656,7 +648,7 @@
      "kicker": "Libertadores",
      "quando": "Ontem",
      "titulo": "Palmeiras deve ter Paulinho fora da final contra o Estudiantes; Murilo volta aos treinos",
-     "resumo": "O atacante segue com inflamação na panturrilha direita desde a semifinal contra o Fluminense, em 21 de outubro, e está há mais de um mês sem jogar. A final é no sábado (28), às 17h, no Estádio Centenário, em Montevidéu; Abel Ferreira busca o quarto título continental do clube.",
+     "resumo": "O atacante segue com inflamação na panturrilha e está há mais de um mês sem jogar. A final é no sábado (28), às 17h, no Centenário; o Estudiantes diz levar 121 ônibus de torcedores, e do lado palmeirense há caravana de 50 ônibus e dez voos fretados.",
      "fontes": [
       {
        "n": "Terra",
@@ -667,16 +659,16 @@
        "u": "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/"
       },
       {
-       "n": "Boca",
-       "u": "https://boca.com.br/esportes/palmeiras-prepara-final-libertadores-murilo-piquerez"
+       "n": "Portal do Palestra",
+       "u": "https://portaldopalestra.com.br/estudiantes-esgota-121-onibus-torcida-final-libertadores-montevideu-palmeiras/"
       }
      ]
     },
     {
      "kicker": "Fórmula 1",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "F1 chega ao Catar para a penúltima etapa; Bortoleto e Rafa Câmara buscam pontos em Lusail",
-     "resumo": "Os treinos livres são na sexta (27), a classificação no sábado (28) e a corrida no domingo (29), às 13h de Brasília. A Pirelli limitou cada jogo de pneus a 27 voltas, o que obriga ao menos duas paradas nas 57 voltas; Antonelli já é campeão e Verstappen lidera a disputa pelo vice.",
+     "resumo": "Os treinos livres são na sexta (27), a classificação no sábado (28) e a corrida no domingo (29), às 13h; a Pirelli limitou cada jogo de pneus a 27 voltas, o que obriga ao menos duas paradas. Antonelli soma 402 pontos e já tem o título garantido, enquanto a Ferrari vive tensão entre Hamilton e Leclerc após a batida em Las Vegas.",
      "fontes": [
       {
        "n": "Terra",
@@ -684,23 +676,7 @@
       },
       {
        "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-bortoleto-busca-pontos-no-catar-apos-ficar-perto-do-top-10-em-las-vegas/"
-      }
-     ]
-    },
-    {
-     "kicker": "Futebol feminino",
-     "quando": "Ontem",
-     "titulo": "Fifa confirma EUA, México, Costa Rica e Jamaica como sedes da Copa feminina de 2031 e o Reino Unido em 2035",
-     "resumo": "As duas candidaturas, únicas inscritas, foram aprovadas por aclamação em congresso extraordinário. A edição de 2031 será a primeira com quatro países-sede e 48 seleções; antes, o Brasil recebe a Copa feminina de 24 de junho a 25 de julho de 2027.",
-     "fontes": [
-      {
-       "n": "CNN Brasil / Reuters",
-       "u": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fifa-define-oito-sedes-para-as-copas-do-mundo-femininas-de-2031-e-2035/"
-      },
-      {
-       "n": "Bahia Notícias",
-       "u": "https://www.bahianoticias.com.br/esportes/noticia/81132-fifa-define-paises-sede-das-copas-do-mundo-femininas-de-2031-e-2035-em-congresso-virtual"
+       "u": "https://www.f1mania.net/f1/f1-hoje-ferrari-em-crise-mercedes-ameacada-e-gp-do-catar-em-alerta/"
       }
      ]
     }
@@ -710,8 +686,36 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Vacina contra câncer, Anvisa e vacinação",
+   "nota": "Sarampo controlado em SP, alta de mpox e vacina contra câncer",
    "itens": [
+    {
+     "kicker": "Sarampo",
+     "quando": "Hoje",
+     "titulo": "Ministério da Saúde declara encerrada a transmissão de sarampo em São Paulo após três meses sem casos",
+     "resumo": "O fim da cadeia de casos importados, identificada em junho, foi confirmado em reunião com estado e município. O país soma 70 casos em 2026, todos ligados a importação, e a vacinação segue ampliada para pessoas de 6 meses a 59 anos na capital, em Guarulhos e em São Bernardo.",
+     "foto": {
+      "src": "fotos/sarampo.jpg",
+      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Ministério da Saúde",
+       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/transmissao-de-casos-importados-de-sarampo-e-encerrada-em-sao-paulo-apos-tres-meses-sem-novos-registros"
+      }
+     ]
+    },
+    {
+     "kicker": "Mpox",
+     "quando": "Hoje",
+     "titulo": "Brasil registra 627 casos de mpox em novembro, mais que o dobro de outubro; Piauí confirma dois",
+     "resumo": "Segundo dados citados pela imprensa piauiense, o país chega a 1.479 casos confirmados no ano, com uma morte. A vacina não é aplicada em toda a população: é indicada a grupos de risco, como pessoas vivendo com HIV, e a quem teve contato com casos.",
+     "fontes": [
+      {
+       "n": "Cidades em Foco / Cidade Verde",
+       "u": "https://cidadesemfoco.com/piaui-confirma-dois-casos-de-mpox-confira-quais-sao-os-sintomas-e-como-ocorre-a-transmissao/"
+      }
+     ]
+    },
     {
      "kicker": "Câncer",
      "quando": "Ontem",
@@ -725,6 +729,10 @@
       {
        "n": "Brasil 247",
        "u": "https://www.brasil247.com/geral/brasil-testara-vacina-contra-o-cancer-em-2027-anuncia-padilha/"
+      },
+      {
+       "n": "Correio",
+       "u": "https://www.correio24horas.com.br/brasil/brasil-anuncia-desenvolvimento-de-vacina-terapeutica-contra-o-cancer-e-preve-iniciar-testes-em-2027-1126"
       }
      ]
     },
@@ -745,30 +753,6 @@
      ]
     },
     {
-     "kicker": "Covid-19",
-     "quando": "22/11",
-     "titulo": "Com alta de casos leves, estados reforçam vacinação contra a covid para crianças, gestantes, idosos e imunossuprimidos",
-     "resumo": "O Ministério da Saúde enviou doses extras aos estados, como mais de 500 mil para SP e 350 mil para o RJ. Em 2026, o país teve 3.641 casos graves e 445 mortes por covid, quedas de 62% e 70% frente a 2025; crianças, gestantes, idosos e imunossuprimidos são prioridade.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados"
-      },
-      {
-       "n": "Poços Já / Agência Minas",
-       "u": "https://pocosja.com.br/noticia/saude/2026/11/22/saiba-quem-deve-se-vacinar-contra-covid-19"
-      },
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/nacional/2026/11/7539895-ministerio-da-saude-envia-14-milhao-de-doses-contra-a-covid-19-a-dez-estados.html"
-      }
-     ]
-    },
-    {
      "kicker": "Vacinas",
      "quando": "Ontem",
      "titulo": "Ministério da Saúde destina R$ 1,67 bilhão à Opas para comprar vacinas, seringas e insumos",
@@ -777,18 +761,6 @@
       {
        "n": "O Tempo",
        "u": "https://www.otempo.com.br/politica/2026/11/23/ministerio-da-saude-destina-r-167-bilhao-a-opas-para-aquisicao-de-vacinas-e-insumos-em-2026"
-      }
-     ]
-    },
-    {
-     "kicker": "SUS",
-     "quando": "Ontem",
-     "titulo": "Ministério da Saúde marca para 8 de dezembro audiência pública sobre PPPs do complexo de biotecnologia",
-     "resumo": "O aviso publicado no Diário Oficial trata de duas parcerias, de infraestrutura e de operação produtiva, para o Complexo Industrial de Biotecnologia em Saúde. A audiência será híbrida, no BNDES, no Rio, e o regulamento sai em 25 de novembro.",
-     "fontes": [
-      {
-       "n": "Atlas Público / DOU",
-       "u": "https://atlaspublico.com.br/noticias/ministerio-da-saude-convoca-audiencia-publica-em-8-de-104122"
       }
      ]
     }
@@ -871,8 +843,28 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Semana da ciência, Nvidia e panes digitais",
+   "nota": "Volta de Huang, semana da ciência e panes digitais",
    "itens": [
+    {
+     "kicker": "Chips",
+     "quando": "Ontem",
+     "titulo": "Volta de Jensen Huang faz Nvidia ganhar cerca de US$ 1 trilhão em um dia e puxa ações de tecnologia na Europa",
+     "resumo": "A ação subiu cerca de 32% na segunda, o melhor pregão desde 2003, depois de o conselho reconduzir o executivo por unanimidade, menos de duas semanas após a renúncia. A senadora Elizabeth Warren criticou a decisão, e Huang depõe no Senado americano sobre controle de exportações em 3 de dezembro; nesta terça, Wall Street abriu em queda.",
+     "fontes": [
+      {
+       "n": "Euronews",
+       "u": "https://www.euronews.com/2026/11/24/jensen-huang-is-back-at-nvidia-what-does-it-mean-for-europes-ai-stocks"
+      },
+      {
+       "n": "CNN Brasil / Reuters",
+       "u": "https://cnnbrasil.com.br/economia/money/mercado/bolsas-eua-24-novembro-2026"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/nvidia-reintegra-jensen-huang-ao-cargo-de-ceo"
+      }
+     ]
+    },
     {
      "kicker": "Ciência na escola",
      "quando": "Hoje",
@@ -886,22 +878,6 @@
       {
        "n": "Correio Braziliense",
        "u": "https://www.correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Chips",
-     "quando": "Ontem",
-     "titulo": "Conselho da Nvidia cria comitês de segurança nacional e controle de exportações ao reconduzir Huang",
-     "resumo": "As novas instâncias vão apurar relatos do New York Times sobre contato de uma familiar do executivo com o serviço de segurança chinês. Uma petição pela volta de Huang reuniu mais de 206 mil assinaturas, mais de 10 mil de funcionários.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/mundo/nvidia-reintegra-jensen-huang-ao-cargo-de-ceo"
-      },
-      {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/23/estados-unidos-trump-pede-ao-conselho-da-nvidia-que-reintegre-jensen-huang"
       }
      ]
     },
@@ -923,8 +899,36 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Despedida de Chitãozinho & Xororó e streaming",
+   "nota": "Estreias da semana, festival em Paraty e música",
    "itens": [
+    {
+     "kicker": "Streaming",
+     "quando": "Hoje",
+     "titulo": "Netflix estreia hoje documentário sobre Rob Lowe; semana tem ‘The Mosquito Bowl’, de Peter Berg, e jogo da NFL ao vivo",
+     "resumo": "Na quarta (25) chegam o drama de guerra de Peter Berg e a 4ª temporada de ‘Ilhados com a Sogra’, e a plataforma transmite Packers x Rams, com show do U2 no intervalo. Na sexta (27) saem o documentário sobre Tyson Fury e ‘O Menino’; no Prime Video, ‘Blade Runner 2099’ estreou nesta terça.",
+     "fontes": [
+      {
+       "n": "ISTOÉ",
+       "u": "https://istoe.com.br/netflix-lancamentos-filmes-series-23-29-novembro-2026"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/entretenimento/filmes-e-series/2026/11/23/ilhados-com-a-sogra-reality-sobre-bbb-e-mais-as-estreias-da-semana-no-streaming"
+      }
+     ]
+    },
+    {
+     "kicker": "Cinema",
+     "quando": "Hoje",
+     "titulo": "Festival Internacional de Cinema de Brasília leva sessões gratuitas a Paraty de 26 a 29 de novembro",
+     "resumo": "A mostra itinerante do BIFF ocupa o Cinema na Praça com filmes como ‘Por que você não chora?’, ‘Fanon’ e ‘Que Horas Ela Volta?’, além da estreia mundial de ‘EUceano Austrália’. Algumas sessões terão debate com realizadores.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/brasilia-international-film-festival-2026-chega-paraty"
+      }
+     ]
+    },
     {
      "kicker": "Música",
      "quando": "Ontem",
@@ -950,26 +954,6 @@
       {
        "n": "Área VIP",
        "u": "https://www.areavip.com.br/famosos/claudia-leitte-se-irrita-apos-falha-em-novo-album-e-rebate-criticas/"
-      }
-     ]
-    },
-    {
-     "kicker": "Streaming",
-     "quando": "Hoje",
-     "titulo": "‘Blade Runner 2099’ estreia hoje no Prime Video; semana tem fim de ‘Os Anéis de Poder’ e novas séries na Netflix",
-     "resumo": "Na quarta (25) saem os últimos episódios da 3ª temporada de ‘Os Anéis de Poder’, a 4ª temporada de ‘Ilhados com a Sogra’ e o reality ‘Missão Ícone’, no Globoplay. A Netflix também lança a série documental sobre o caso Karen Read e, na sexta (27), ‘O Menino’, adaptação de Fernando Aramburu.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/entretenimento/filmes-e-series/2026/11/23/ilhados-com-a-sogra-reality-sobre-bbb-e-mais-as-estreias-da-semana-no-streaming"
-      },
-      {
-       "n": "Oficina da Net",
-       "u": "https://www.oficinadanet.com.br/entretenimento/74356-lancamentos-netflix-hbo-max-prime-video-disney-plus-23-a-29-novembro-2026"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/revista-do-correio/2026/11/7542859-o-que-estreia-na-netflix-nesta-semana-veja-os-lancamentos-de-23-a-27-de-novembro.html"
       }
      ]
     },
