@@ -1,61 +1,61 @@
 {
  "data": "Quarta-feira, 25 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "25/11/2026 · 07h08 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de fechamento de 24/11 (B3 e Nova York)",
- "fontes": 59,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "25/11/2026 · 12h31 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 12h22",
+ "fontes": 67,
  "mercado": [
   {
-   "nome": "Ibovespa · fech. 24/11",
-   "valor": "164.090 pts",
-   "var": "-0,43%",
-   "dir": "down"
-  },
-  {
-   "nome": "Dólar · fech. 24/11",
-   "valor": "R$ 5,91",
-   "var": "-0,26%",
-   "dir": "down"
-  },
-  {
-   "nome": "Petróleo Brent · 24/11",
-   "valor": "US$ 91,40",
-   "var": "+2,27%",
+   "nome": "Ibovespa · 12h12",
+   "valor": "165.144 pts",
+   "var": "+0,64%",
    "dir": "up"
   },
   {
-   "nome": "DI jan/2029 · fech. 24/11",
-   "valor": "14,90%",
-   "var": "em queda",
+   "nome": "Dólar · 12h22",
+   "valor": "R$ 5,86",
+   "var": "-0,84%",
    "dir": "down"
   },
   {
-   "nome": "Selic · Focus fim de 2027",
-   "valor": "13,00%",
-   "var": "antes 12,75%",
-   "dir": "up"
+   "nome": "Embraer ON · 12h",
+   "valor": "R$ 101,45",
+   "var": "-5,63%",
+   "dir": "down"
+  },
+  {
+   "nome": "Nasdaq · abertura",
+   "valor": "25.410 pts",
+   "var": "-3,98%",
+   "dir": "down"
+  },
+  {
+   "nome": "Petróleo Brent · manhã",
+   "valor": "US$ 91,23",
+   "var": "-0,19%",
+   "dir": "down"
   }
  ],
  "agenda": [
   {
-   "hora": "Qua 25/11 · 17h",
-   "txt": "Champions League: PSG x Roma, Lille x Bayern, Sporting x Manchester United e Club Brugge x Liverpool",
-   "cat": "esporte"
+   "hora": "Qua 25/11 · 15h",
+   "txt": "Lula reúne Alckmin, Fazenda, Planejamento e Casa Civil no Alvorada para discutir a PEC das despesas obrigatórias",
+   "cat": "politica"
   },
   {
    "hora": "Qua 25/11 · 20h",
-   "txt": "Atlético-MG x Corinthians, na Arena MRV, pelo Brasileirão",
+   "txt": "Atlético-MG x Corinthians, na Arena MRV, pelo Brasileirão; Champions tem jogos a partir das 14h45",
    "cat": "esporte"
-  },
-  {
-   "hora": "Qua 25/11",
-   "txt": "EUA divulgam o índice de preços PCE de outubro e a 2ª estimativa do PIB do 3º trimestre",
-   "cat": "economia"
   },
   {
    "hora": "Qui 26/11",
    "txt": "IBGE divulga o IPCA-15 de novembro; bolsas de Nova York fecham pelo Dia de Ação de Graças",
+   "cat": "economia"
+  },
+  {
+   "hora": "Sex 27/11",
+   "txt": "Começa o prazo de comentários à proposta dos EUA de novas tarifas sobre aviões e açúcar do Brasil; sai a PNAD de desemprego",
    "cat": "economia"
   },
   {
@@ -65,7 +65,7 @@
   },
   {
    "hora": "Dom 29/11 · 13h",
-   "txt": "GP do Catar de Fórmula 1, penúltima etapa da temporada",
+   "txt": "GP do Catar de Fórmula 1, penúltima etapa, com Gabriel Bortoleto e Rafa Câmara no grid",
    "cat": "esporte"
   }
  ],
@@ -162,40 +162,40 @@
   }
  ],
  "manchete": {
-  "kicker": "Estreito de Ormuz",
-  "titulo": "Irã diz que petroleiros pegaram fogo após bater em minas em Ormuz e endurece bloqueio; Brent sobe a US$ 91",
-  "resumo": "A Guarda Revolucionária iraniana afirmou que navios que usavam uma rota não autorizada no estreito atingiram minas navais entre terça e a madrugada desta quarta. O Exército do Irã mandou reforçar o fechamento da passagem até que Washington aceite as condições de Teerã.",
-  "entenda": "O estreito de Ormuz, entre o Irã e Omã, é a principal saída marítima do petróleo do Golfo Pérsico. Com a guerra que já dura quase nove meses, segundo a agência Lusa, os incidentes com navios se multiplicaram: foram pelo menos 30 em outubro e quase diários em novembro, e a ONU e a Organização Marítima Internacional classificam a situação como grave. Os relatos iranianos divergem sobre a sequência: a agência estatal IRNA fala em dois petroleiros incendiados, e outros comunicados citam três navios atingidos mesmo com escolta dos EUA, além de um quarto que teria explodido na madrugada. Teerã condiciona a reabertura a sete exigências; Washington rejeitou as propostas, apesar da mediação de Paquistão e Catar. Não há informação oficial sobre vítimas. O petróleo reagiu na terça: o Brent para janeiro subiu 2,27%, a US$ 91,40, e o WTI, 2,35%, a US$ 82,05.",
+  "kicker": "Comércio exterior",
+  "titulo": "EUA propõem tarifa de 10% sobre aviões brasileiros e nova cobrança sobre o açúcar; Embraer cai mais de 5%",
+  "resumo": "O representante comercial dos EUA, Jamieson Greer, abriu nesta quarta uma consulta pública para encerrar a isenção das aeronaves e trocar a tarifa do açúcar fora da cota por valores fixos por quilo. Na bolsa, as ações da Embraer recuavam 5,63% por volta do meio-dia, enquanto o Ibovespa subia e o dólar caía para R$ 5,86.",
+  "entenda": "A proposta altera a ação comercial aberta pelos EUA contra o Brasil em julho, com base na Seção 301 da lei de comércio americana. Aviões acabados, como os jatos regionais da Embraer, são o quarto produto mais exportado pelo Brasil ao mercado americano e até agora estavam isentos. Para o açúcar, a taxa de 25% fora da cota daria lugar a cobranças de US$ 0,44 a US$ 0,60 por quilo, segundo o Estadão Conteúdo. Greer afirma que as negociações estão paradas desde 20 de julho e que os EUA seguem abertos a conversar; o documento cita as ações brasileiras na OMC e a Lei de Reciprocidade Econômica. Na véspera, Washington bloqueou o painel pedido pelo Brasil na OMC e anunciou tarifas de até 35% sobre outras economias. Em Nova York, a abertura teve forte queda, com o Nasdaq perdendo quase 4% numa nova onda de vendas de ações de inteligência artificial. Até a publicação, o governo brasileiro e a Embraer não haviam se manifestado.",
   "fatos": [
-   "Guarda Revolucionária diz que os navios estavam com rastreamento (AIS) desligado e fora da rota autorizada; bandeiras não foram identificadas",
-   "General Amir Hatami ordenou endurecer o bloqueio até o cumprimento de sete condições apresentadas por Teerã",
-   "Brent fechou a US$ 91,40 (+2,27%) e WTI a US$ 82,05 (+2,35%) na terça (24)"
+   "Comentários por escrito serão recebidos de 27/11 a 30/12; a audiência pública está marcada para 14/01/2027",
+   "Embraer ON recuava 5,63%, a R$ 101,45, por volta das 12h; Ibovespa chegou a 165.144 pontos (+0,64%)",
+   "Na abertura de Nova York, Nasdaq caiu 3,98%, com Nvidia perto de -8%; S&P 500 recuou 2,11%"
   ],
   "fontes": [
    {
-    "n": "Jornal Económico (Lusa)",
-    "u": "https://jornaleconomico.sapo.pt/noticias/irao-dois-petroleiros-incendeiam-se-em-ormuz-apos-colidirem-com-minas-marinhas/",
-    "d": "Incêndio em petroleiros"
+    "n": "O Povo (Estadão Conteúdo)",
+    "u": "https://www.opovo.com.br/noticias/economia/2026/11/25/eua-propoem-elevar-tarifas-sobre-acucar-do-brasil-e-taxa-adicional-de-10-sobre-aeronaves.html",
+    "d": "Proposta de tarifas"
    },
    {
-    "n": "Brasil 247 (Xinhua)",
-    "u": "https://www.brasil247.com/mundo/guarda-revolucionaria-do-ira-relata-incendio-em-tres-petroleiros-em-ormuz/",
-    "d": "Versão da Guarda Revolucionária"
-   },
-   {
-    "n": "CNN Portugal",
-    "u": "https://cnnportugal.iol.pt/aominuto/652125bed34e65afa2f62245",
-    "d": "Guerra no Oriente Médio"
-   },
-   {
-    "n": "Executive Digest",
-    "u": "https://executivedigest.sapo.pt/irao-dois-petroleiros-incendeiam-se-em-ormuz-apos-colidirem-com-minas-marinhas/",
-    "d": "Minas em Ormuz"
+    "n": "InvestNews (Bloomberg)",
+    "u": "https://investnews.com.br/economia/eua-propoem-tarifa-de-10-sobre-aeronaves-brasileiras-e-novas-cobrancas-sobre-acucar/",
+    "d": "Prazos e base legal"
    },
    {
     "n": "Money Times",
-    "u": "https://www.moneytimes.com.br/tempo-real-24-11-2026-davs/",
-    "d": "Alta do petróleo"
+    "u": "https://moneytimes.com.br/tempo-real-25-11-2026-davs",
+    "d": "Embraer e Ibovespa"
+   },
+   {
+    "n": "CNN Portugal (EFE)",
+    "u": "https://cnnportugal.iol.pt/wall-street/nasdaq/wall-street-sofre-forte-queda-com-nasdaq-a-cair-quase-4-pressionado-por-vendas-no-setor-da-inteligencia-artificial/20261125/6b06fbbe0cf294b9345ebaae",
+    "d": "Queda em Nova York"
+   },
+   {
+    "n": "Portal do Agronegócio",
+    "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/ibovespa-vira-para-alta-seul-cai-6-16-e-futuros-de-nova-york-recuam",
+    "d": "Abertura da bolsa"
    }
   ]
  },
@@ -204,8 +204,96 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Saúde de Bolsonaro, vaga no STF e Flávio nos EUA",
+   "nota": "PEC das despesas, crise com a Argentina e vaga no STF",
    "itens": [
+    {
+     "kicker": "Contas públicas",
+     "quando": "Hoje",
+     "titulo": "Lula reúne equipe econômica às 15h para definir PEC que limita despesas obrigatórias",
+     "resumo": "O encontro no Alvorada, um dia após a sanção do ajuste fiscal, deve reunir Geraldo Alckmin, Dario Durigan (Fazenda), Bruno Moretti (Planejamento) e Miriam Belchior (Casa Civil); o presidente do BC, Gabriel Galípolo, também é esperado, segundo o SBT News. A proposta, com impacto estimado em R$ 20 bilhões, ainda não tem texto, e Davi Alcolumbre disse que a votação pode ocorrer antes do recesso de 17 de dezembro.",
+     "lados": [
+      {
+       "quem": "Equipe econômica",
+       "txt": "Vê a PEC como necessária para 2027 e diz que ela muda o ritmo de expansão dos gastos, sem cortar o orçamento atual; segundo o SBT News, os pisos de saúde e educação não seriam alterados."
+      },
+      {
+       "quem": "Deputados da base",
+       "txt": "Afirmam não ter sido consultados e temem que os pisos de saúde e educação passem a seguir as regras do arcabouço; a ala política do governo teme novo desgaste após o primeiro pacote."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/11/25/lula-reune-equipe-economica-e-deve-discutir-pec-para-conter-despesas"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-discute-pec-fiscal-com-alckmin-e-tres-ministros"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/lula-autoriza-nova-pec-para-conter-gastos-com-saude-educacao-e-emendas/"
+      },
+      {
+       "n": "A Crítica",
+       "u": "https://acritica.net/noticias/nova-pec-fiscal-preocupa-aliados-de-lula-e-pode-ampliar-divisao-na-base-governista/"
+      }
+     ]
+    },
+    {
+     "kicker": "Argentina",
+     "quando": "Ontem",
+     "titulo": "Lula decide não convidar Milei para a posse e retira em definitivo o embaixador em Buenos Aires",
+     "resumo": "A decisão foi tomada depois que o chanceler argentino, Pablo Quirno, questionou em entrevista a legitimidade da eleição presidencial brasileira, sem apresentar provas. O embaixador Julio Bitelli, chamado para consultas em julho, deixa o posto; segundo o Estado de Minas, não se trata de rompimento de relações, e os dois presidentes devem se cruzar na cúpula do Mercosul, em Montevidéu, na próxima semana.",
+     "lados": [
+      {
+       "quem": "Governo brasileiro",
+       "txt": "Fontes oficiais consideram que a declaração do chanceler ultrapassou uma linha vermelha e classificam a resposta como inédita."
+      },
+      {
+       "quem": "Governo argentino",
+       "txt": "Quirno pôs em dúvida o resultado da eleição brasileira; até a manhã desta quarta, não havia reação formal de Buenos Aires às medidas."
+      }
+     ],
+     "foto": {
+      "src": "https://imagens.ebc.com.br/WFQgyj2UfzbL-UQ8nfU54Oe-VvE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/19/decreto-escala-5x2-mc_abr_19112026-9.jpg?itok=nzsH5AVl",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/11/7543376-retaliacao-lula-decide-nao-convidar-milei-para-a-posse.html"
+      },
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/24/milei-fica-fora-posse-lula-brasil-retira-embaixador"
+      },
+      {
+       "n": "Mais Goiás",
+       "u": "https://www.maisgoias.com.br/politica/lula-decide-nao-convidar-milei-para-posse-e-toma-outra-medida-contra-argentina/"
+      }
+     ]
+    },
+    {
+     "kicker": "STF",
+     "quando": "Hoje",
+     "titulo": "Lula amplia consultas para a vaga de Barroso; advogada Edilene Lobo entra na lista",
+     "resumo": "Segundo a colunista Bela Megale, de O Globo, citada pelo portal Plox, o presidente ouviu ao menos um ministro do STF, que apontou a ex-ministra substituta do TSE Edilene Lobo; as ministras do STJ Daniela Teixeira e Regina Helena Costa e Simone Tebet também são citadas. Jorge Messias, rejeitado pelo Senado em abril, segue com apoio de Lula, e Davi Alcolumbre defende Rodrigo Pacheco; o escolhido precisa de 41 votos.",
+     "fontes": [
+      {
+       "n": "Plox",
+       "u": "https://plox.com.br/noticia/25/11/2026/lula-vaga-stf-resistencia-jorge-messias"
+      },
+      {
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/politica/2026/11/24/lula-avalia-simone-tebet-e-ministras-de-tribunais-superiores-para-vaga-de-barroso-no-stf.html"
+      },
+      {
+       "n": "Tribuna do Norte",
+       "u": "https://tribunadonorte.com.br/politica/lula-avalia-nomes-para-vaga-no-stf-e-pode-indicar-uma-mulher-para-a-corte/"
+      }
+     ]
+    },
     {
      "kicker": "Bolsonaro",
      "quando": "Ontem",
@@ -229,76 +317,6 @@
        "u": "https://www.metropoles.com/brasil/sem-previsao-de-alta-veja-boletim-com-atualizacao-da-saude-de-bolsonaro"
       }
      ]
-    },
-    {
-     "kicker": "STF",
-     "quando": "Ontem",
-     "titulo": "Lula avalia indicar uma mulher para a vaga de Barroso no STF; Tebet e três ministras estão entre os nomes",
-     "resumo": "Segundo relatos do G1 reproduzidos por outros veículos, o presidente considera Simone Tebet, a presidente do STM, Maria Elizabeth Rocha, e as ministras do STJ Regina Helena Costa e Daniela Teixeira, depois de avaliar que uma nova indicação de Jorge Messias, rejeitado pelo Senado em abril, teria pouca chance. O nome de Rodrigo Pacheco, defendido por Davi Alcolumbre, estaria descartado por ora; o escolhido precisa de 41 votos no Senado.",
-     "fontes": [
-      {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/brasil/lula-cogita-tebet-e-ministras-do-stj-e-do-stm-para-vaga-no-stf/"
-      },
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/politica/2026/11/24/lula-avalia-simone-tebet-e-ministras-de-tribunais-superiores-para-vaga-de-barroso-no-stf.html"
-      },
-      {
-       "n": "WSCOM",
-       "u": "https://wscom.com.br/destaque/destaque-relevante/2026/11/24/lula-simone-tebet-vaga-barroso-stf/"
-      },
-      {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/24/lula-abre-espaco-a-terceiro-nome-para-vaga-no-stf-41-votos-sao-necessarios/"
-      }
-     ]
-    },
-    {
-     "kicker": "Gastos",
-     "quando": "Ontem",
-     "titulo": "Lula autoriza estudo de PEC para limitar alta das despesas obrigatórias em 2027",
-     "resumo": "Depois de sancionar o ajuste fiscal sem vetos, o presidente autorizou a preparação de uma proposta de emenda à Constituição que limitaria o crescimento das despesas obrigatórias a 2% acima da inflação em 2027, segundo o portal O Repórter. O texto ainda não foi redigido nem enviado ao Congresso.",
-     "fontes": [
-      {
-       "n": "O Repórter",
-       "u": "https://oreporter.com/economia/dolar-cai-bolsa-recua-vale-24-novembro-2026"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/tempo-real-24-11-2026-davs/"
-      }
-     ]
-    },
-    {
-     "kicker": "Oposição",
-     "quando": "Ontem",
-     "titulo": "Flávio Bolsonaro diz que será candidato em 2030 se o pai continuar inelegível; adversários reagem",
-     "resumo": "Em entrevista à Fox News gravada nos EUA no domingo, o senador afirmou que a candidatura depende de mudanças no sistema eleitoral e criticou a reeleição de Hugo Motta na Câmara. Moraes mandou notificá-lo por edital na sexta (20) em ação da PGR por calúnia contra Lula, por considerar que ele deixou o país.",
-     "lados": [
-      {
-       "quem": "Flávio Bolsonaro",
-       "txt": "Diz ser alvo de perseguição de Alexandre de Moraes e afirma que saiu do país para defender o Brasil; nas redes, ironizou a alta do dólar e o fim da escala 6x1."
-      },
-      {
-       "quem": "Críticos",
-       "txt": "O deputado eleito Marcelo Freixo (PT) afirmou que a ida aos EUA não vai livrá-lo das investigações; a PF apura como ele deixou o país sem registro de saída."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "Hoje em Dia",
-       "u": "https://www.hojeemdia.com.br/politica/flavio-bolsonaro-diz-que-sera-candidato-em-2030-se-jair-bolsonaro-continuar-inelegivel-1.1141955"
-      },
-      {
-       "n": "ND Mais",
-       "u": "https://ndmais.com.br/politica/freixo-flavio-bolsonaro-politica-fuga-internacional/"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://1news.correiobraziliense.com.br/noticia/910313/noticias/apos-ocorrido-no-brasil-flavio-bolsonaro-provoca-lula-so-esqueceu-de-avisar-o-24112026"
-      }
-     ]
     }
    ]
   },
@@ -306,17 +324,69 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Orçamento, bolsa e tarifas dos EUA",
+   "nota": "Tarifas dos EUA, bolsa e inflação americana",
    "itens": [
+    {
+     "kicker": "Mercado",
+     "quando": "Hoje",
+     "titulo": "Ibovespa sobe e dólar cai a R$ 5,86 com leilões do BC, apesar da queda forte em Nova York",
+     "resumo": "O índice abriu em alta de 0,29% e chegou a 165.144 pontos (+0,64%) às 12h12, enquanto o dólar à vista bateu mínima de R$ 5,8613 (-0,84%), com o Banco Central vendendo US$ 2 bilhões em leilões de linha. A Embraer liderava as perdas após a proposta de tarifas dos EUA; o Kospi, de Seul, caiu 6,16% em meio à pressão sobre ações de tecnologia na Ásia.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/FK_Ld555uZXxFMjBIfEhtQlCMQo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221205.jpg?itok=MdcwUUjv",
+      "credito": "Valter Campanato/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://moneytimes.com.br/tempo-real-25-11-2026-davs"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/bolsa-opera-em-alta-e-ibovespa-chega-aos-1645-mil-pontos"
+      },
+      {
+       "n": "Portal do Agronegócio",
+       "u": "https://www.portaldoagronegocio.com.br/economia/mercado-financeiro/noticias/ibovespa-vira-para-alta-seul-cai-6-16-e-futuros-de-nova-york-recuam"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Inflação PCE dos EUA sobe 0,3% em outubro e chega a 3,8% em 12 meses; PIB cresce 4,3%",
+     "resumo": "Os dados, divulgados às 10h30, reforçaram a pressão nos juros americanos: o título de 10 anos era negociado a 4,83%, e o de 2 anos, a 4,60%. O Federal Reserve publica o Livro Bege às 16h.",
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://moneytimes.com.br/tempo-real-25-11-2026-davs"
+      },
+      {
+       "n": "Money Times (pré-abertura)",
+       "u": "https://www.moneytimes.com.br/pce-e-livro-bege-nos-eua-mexem-com-bolsas-hoje-ibovespa-em-dolar-cai-nesta-quarta-feira-25-rens/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ajuste fiscal",
+     "quando": "Ontem",
+     "titulo": "Lula sanciona ajuste fiscal sem vetos; economia prevista é de até R$ 56 bilhões em 2027",
+     "resumo": "A lei, publicada em edição extra do Diário Oficial, prevê superávit primário de cerca de R$ 18,7 bilhões em 2027 e permite bloqueios adicionais de despesas. Nos anos de contenção, o limite de alta real dos gastos cai de 2,5% para 2%, segundo a Agência Brasil.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-discute-pec-fiscal-com-alckmin-e-tres-ministros"
+      }
+     ]
+    },
     {
      "kicker": "Orçamento",
      "quando": "Ontem",
      "titulo": "Governo reduz congelamento do Orçamento para R$ 12,6 bilhões, mas eleva déficit projetado para R$ 89,3 bilhões",
      "resumo": "O relatório do 5º bimestre, divulgado na noite de terça (24) pelo Ministério do Planejamento, baixou o contingenciamento de R$ 13,6 bilhões para R$ 12,3 bilhões e o bloqueio de R$ 2,4 bilhões para R$ 304 milhões. A redução vem da retirada de R$ 10,5 bilhões da subvenção ao diesel do cálculo da meta, permitida pela lei sancionada horas antes; sem ela, o contingenciamento chegaria a R$ 22,8 bilhões, segundo o SBT News.",
-     "foto": {
-      "src": "fotos/real.jpg",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     },
      "fontes": [
       {
        "n": "SBT News",
@@ -333,46 +403,10 @@
      ]
     },
     {
-     "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Ibovespa perde a alta da manhã e fecha em 164 mil pontos; Vale cai 5,5% e dólar termina a R$ 5,91",
-     "resumo": "O índice chegou a 167.579 pontos, mas terminou em 164.090 (-0,43%), pressionado por Vale ON (-5,51%) e Petrobras PN (-1,82%). O dólar, que tocou R$ 5,80 pela manhã, fechou a R$ 5,9107 (-0,26%); em Nova York, o Nasdaq caiu 1,48% e o Dow Jones subiu 0,85%.",
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/tempo-real-24-11-2026-davs/"
-      },
-      {
-       "n": "O Repórter",
-       "u": "https://oreporter.com/economia/dolar-cai-bolsa-recua-vale-24-novembro-2026"
-      }
-     ]
-    },
-    {
-     "kicker": "Comércio exterior",
-     "quando": "Ontem",
-     "titulo": "EUA barram na OMC painel pedido pelo Brasil e devem deixar o país fora de nova rodada de tarifas",
-     "resumo": "Washington bloqueou o pedido brasileiro de um painel na Organização Mundial do Comércio contra as tarifas de 25% e 12,5%. Segundo o Wall Street Journal, citado pelo UOL, o governo Trump prepara novas tarifas sobre China, União Europeia e outras 14 economias, mas não deve incluir o Brasil, que segue com a taxa de 25% sobre mais de 2.200 produtos.",
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/tempo-real-24-11-2026-davs/"
-      },
-      {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://diariodocentrodomundo.com.br/trump-poupa-brasil-nova-rodada-tarifas-mantem-taxa-25"
-      },
-      {
-       "n": "Correio da Manhã (Lusa)",
-       "u": "https://cmjornal.pt/mundo/detalhe/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias"
-      }
-     ]
-    },
-    {
      "kicker": "Agenda",
      "quando": "Hoje",
-     "titulo": "Mercado acompanha inflação dos EUA nesta quarta; IPCA-15 de novembro sai na quinta",
-     "resumo": "Os EUA divulgam hoje o índice de preços PCE de outubro e a segunda estimativa do PIB do 3º trimestre. No Brasil, o IBGE publica o IPCA-15 na quinta (26), com projeção de alta de 0,36% pelo Bradesco; na sexta saem o IGP-M e a taxa de desemprego da PNAD.",
+     "titulo": "IPCA-15 de novembro sai na quinta; Nova York fecha pelo Dia de Ação de Graças",
+     "resumo": "O IBGE publica a prévia da inflação na quinta (26), com projeção de alta de 0,36% pelo Bradesco. Na sexta saem o IGP-M e a taxa de desemprego da PNAD.",
      "fontes": [
       {
        "n": "IstoÉ Dinheiro",
@@ -409,6 +443,10 @@
       {
        "n": "ND Mais",
        "u": "https://ndmais.com.br/tempo/ciclone-extratropical-frente-fria-chuva-ate-200-mm-queda-temperatura/"
+      },
+      {
+       "n": "ACidade ON",
+       "u": "https://www.acidadeon.com/campinas/cotidiano/ciclone-extratropical-se-forma-hoje-e-muda-o-tempo-em-campinas-veja-a-previsao/"
       }
      ]
     },
@@ -478,53 +516,65 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Gaza, guerra na Ucrânia e tarifas americanas",
+   "nota": "Ormuz, Gaza e guerra na Ucrânia",
    "itens": [
+    {
+     "kicker": "Estreito de Ormuz",
+     "quando": "Hoje",
+     "titulo": "Irã diz que petroleiros bateram em minas em Ormuz e alerta navios a coordenar a passagem",
+     "resumo": "Segundo a Guarda Revolucionária, dois petroleiros que tentavam uma rota não autorizada explodiram e pegaram fogo; o porta-voz militar Mohammad Akraminia citou novos sistemas de vigilância. Teerã diz que só normaliza o tráfego com o fim do bloqueio naval americano e da guerra, mas, pela mediação do Catar, oferece reabrir o estreito em 48 horas; o Brent operava perto de US$ 91.",
+     "fontes": [
+      {
+       "n": "InfoMoney (Reuters)",
+       "u": "https://www.infomoney.com.br/mundo/ira-diz-que-navios-colidiram-com-minas-em-ormuz-e-alerta-para-passagem-coordenada/"
+      },
+      {
+       "n": "Jornal Económico (Lusa)",
+       "u": "https://jornaleconomico.sapo.pt/noticias/irao-dois-petroleiros-incendeiam-se-em-ormuz-apos-colidirem-com-minas-marinhas/"
+      },
+      {
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/ira-explosoes-petroleiros-estreito-ormuz-minas-navais"
+      }
+     ]
+    },
     {
      "kicker": "Gaza",
      "quando": "Hoje",
-     "titulo": "Ataque israelense mata chefe de segurança do Hamas no norte de Gaza, a mulher e as duas filhas",
-     "resumo": "O coronel Mohammed Abu al-Uf, de 47 anos, morreu com a família num bombardeio a um apartamento no campo de al-Shati, segundo a Defesa Civil local, ligada ao Hamas; 12 pessoas ficaram feridas. Israel diz ter atingido um integrante do grupo. Desde o cessar-fogo de outubro de 2025, ao menos 1.658 palestinos morreram, pela contagem da AFP.",
+     "titulo": "Israel mata segundo dirigente do Hamas em dois dias; Netanyahu conversa com Kushner sobre ajuda humanitária",
+     "resumo": "Na terça, um bombardeio no campo de al-Shati matou o chefe de segurança Mohammed Abu al-Uf, a mulher e as duas filhas, segundo a Defesa Civil local, ligada ao Hamas; Israel diz ter atingido um integrante do grupo. Nesta quarta, Netanyahu falou com o enviado americano Jared Kushner, um dia depois de ele dizer que Israel corre risco de isolamento internacional.",
      "fontes": [
       {
-       "n": "Executive Digest (Lusa)",
-       "u": "https://executivedigest.sapo.pt/israel-responsavel-de-seguranca-da-faixa-de-gaza-morto-em-ataque-israelita/"
+       "n": "Público",
+       "u": "https://www.publico.pt/2026/11/25/mundo/noticia/israel-mata-segundo-alto-responsavel-hamas-dois-dias-2196235"
       },
       {
-       "n": "Correio da Manhã",
-       "u": "https://www.cmjornal.pt/mais-cm/especiais/guerra-israel-hamas/detalhe/responsavel-de-seguranca-da-faixa-de-gaza-morto-em-ataque-israelita"
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/mundo/2026/11/25/ataque-de-israel-mata-integrante-da-seguranca-do-hamas-e-sua-familia-dizem-autoridades-de-gaza"
       },
       {
-       "n": "The Washington Post",
-       "u": "https://www.washingtonpost.com/world/2026/11/24/israel-kills-hamas-internal-security-chief-gaza/"
+       "n": "The Times of Israel",
+       "u": "https://www.timesofisrael.com/liveblog-november-25-2026/"
       }
      ]
     },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Von der Leyen desafia Rússia a aceitar trégua energética no inverno; UE prepara 22º pacote de sanções",
-     "resumo": "No Parlamento Europeu, a presidente da Comissão Europeia disse que o bloco vai julgar Moscou por ações, não por palavras, e pediu também uma trégua para a exportação de alimentos pelo Mar Negro. O novo pacote proíbe a entrada de ex-combatentes russos na UE; a Comissão propôs ainda um empréstimo de € 45 bilhões à Ucrânia para 2027.",
+     "titulo": "Ataque russo mata um homem perto de Kiev; drones ucranianos atingem refinarias na região de Samara",
+     "resumo": "O bombardeio atingiu uma área comercial em Bila Tserkva, a cerca de 80 km de Kiev, segundo o governador local. A Rússia diz ter derrubado 305 drones, e a UE prepara o 22º pacote de sanções enquanto Ursula von der Leyen cobra de Moscou uma trégua energética no inverno.",
      "fontes": [
+      {
+       "n": "Observador",
+       "u": "https://observador.pt/liveblogs/um-morto-em-ataque-russo-contra-regiao-de-kiev/"
+      },
       {
        "n": "Executive Digest (Lusa)",
        "u": "https://executivedigest.sapo.pt/ucrania-von-der-leyen-desafia-russia-a-cessar-fogo-energetico-para-provar-que-quer-negociar/"
-      }
-     ]
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Hoje",
-     "titulo": "Governo Trump deve anunciar novas tarifas sobre China, União Europeia e outras 14 economias",
-     "resumo": "Segundo a AP, com base em duas fontes, o anúncio pode sair nos próximos dias, a partir de uma investigação sobre subsídios industriais; as medidas substituiriam tarifas de 2025 derrubadas pela Suprema Corte em fevereiro. Os democratas passaram a controlar as duas casas do Congresso após as eleições deste mês, mas Trump pode vetar mudanças.",
-     "fontes": [
-      {
-       "n": "Correio da Manhã (Lusa)",
-       "u": "https://cmjornal.pt/mundo/detalhe/eua-preparam-novas-tarifas-aduaneiras-sobre-china-ue-e-outras-14-economias"
       },
       {
-       "n": "Diário do Centro do Mundo",
-       "u": "https://diariodocentrodomundo.com.br/trump-poupa-brasil-nova-rodada-tarifas-mantem-taxa-25"
+       "n": "Destaques da Geopolítica",
+       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-25-nov-2026"
       }
      ]
     }
@@ -534,29 +584,61 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Corinthians em BH, Palmeiras rumo à final e Champions",
+   "nota": "Corinthians em BH, Champions e final da Libertadores",
    "itens": [
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "Corinthians enfrenta o Atlético-MG às 20h para tentar sair da zona de rebaixamento",
-     "resumo": "O time paulista tem 40 pontos e um jogo a menos, e a Opta calcula em 22% seu risco de queda. Na rodada de segunda, o Vitória goleou o Internacional por 5 a 2, e o Inter, com 38 pontos, passou a ter 92% de risco; o Grêmio venceu o Santos por 2 a 0 e saiu do Z4.",
+     "titulo": "Corinthians enfrenta o Atlético-MG às 20h sem Yuri Alberto e precisa de pontos para deixar o Z4",
+     "resumo": "O time de Clarence Seedorf é o 17º, com 40 pontos e um jogo a menos, e um empate na Arena MRV basta para sair da zona pelo saldo, segundo a CNN Brasil; Yuri Alberto e André Carrillo cumprem suspensão, e Gabriel Paulista está lesionado. O Atlético, 7º com 51 pontos, não terá Fred, suspenso.",
      "fontes": [
       {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-25-11-onde-assistir-a-atletico-mg-x-corinthians-e-mais-na-tv"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-e-corinthians-se-enfrentam-com-objetivos-opostos-no-brasileiro/"
+      },
+      {
+       "n": "ESPN",
+       "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17553477/atletico-mg-x-corinthians-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao"
       },
       {
        "n": "Gazeta Esportiva",
        "u": "https://gazetaesportiva.com/times/corinthians/com-garro-corinthians-chega-a-bh-para-duelo-decisivo-contra-o-atletico-mg"
-      },
+      }
+     ]
+    },
+    {
+     "kicker": "Champions League",
+     "quando": "Ontem",
+     "titulo": "Real Madrid vira sobre o PSV e goleia por 5 a 1; City e Arsenal empatam em casa",
+     "resumo": "Com gol de Vinícius Júnior, o Real chegou a 15 pontos e lidera com 100% de aproveitamento; o Manchester City empatou por 2 a 2 com o Napoli, e o Arsenal, por 1 a 1 com o Borussia Dortmund. Nesta quarta a rodada continua com PSG x Roma, Lille x Bayern e Club Brugge x Liverpool.",
+     "fontes": [
       {
        "n": "O Hoje",
-       "u": "https://ohoje.com/2026/11/24/gremio-e-vitoria-vencem-fora-de-casa-e-internacional-se-complica-na-luta-contra-o-rebaixamento-confira-os-resultados/"
+       "u": "https://ohoje.com/2026/11/25/champions-league-movimenta-terca-feira-com-vitorias-e-empates-confira-os-resultados/"
       },
       {
-       "n": "Diário de São Paulo",
-       "u": "https://spdiario.com.br/noticias/esportes/inter-e-goleado-pelo-vitoria-e-dispara-para-9225-de-risco-de-rebaixamento-gremio-sai-do-z4-e-botafogo-respira.html"
+       "n": "Band",
+       "u": "https://www.band.com.br/esportes/futebol/futebol-internacional/liga-dos-campeoes/real-madrid-mantem-100-e-man-city-tropeca-veja-resultados-da-champions"
+      },
+      {
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-25-11-onde-assistir-a-atletico-mg-x-corinthians-e-mais-na-tv"
+      }
+     ]
+    },
+    {
+     "kicker": "Libertadores",
+     "quando": "Ontem",
+     "titulo": "Estudiantes esgota mais de 120 ônibus para levar torcedores à final contra o Palmeiras",
+     "resumo": "A decisão será no sábado (28), às 17h, no Estádio Centenário, em Montevidéu. A saída dos torcedores argentinos de La Plata está marcada para sexta, com ônibus sem paradas no trajeto; o Palmeiras definiu a programação de viagem ao Uruguai após o jogo em Chapecó.",
+     "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/palmeiras/libertadores-estudiantes-esgota-transporte-para-final-contra-palmeiras,1b8103f056ca35ffcaf1828d292cdd10vtt7vkgk.html"
+      },
+      {
+       "n": "Palmeiras Online",
+       "u": "https://palmeirasonline.com/2026/11/24/palmeiras-define-programacao-para-viagem-ao-uruguai-apos-duelo-com-a-chapecoense/"
       }
      ]
     },
@@ -581,34 +663,18 @@
      ]
     },
     {
-     "kicker": "Libertadores",
-     "quando": "Ontem",
-     "titulo": "Estudiantes esgota mais de 120 ônibus para levar torcedores à final contra o Palmeiras",
-     "resumo": "A decisão será no sábado (28), às 17h, no Estádio Centenário, em Montevidéu. A saída dos torcedores argentinos de La Plata está marcada para sexta, com ônibus sem paradas no trajeto; o Palmeiras definiu a programação de viagem ao Uruguai após o jogo em Chapecó.",
+     "kicker": "Fórmula 1",
+     "quando": "23/11",
+     "titulo": "GP do Catar abre a reta final da F1 com Bortoleto e Rafa Câmara no grid",
+     "resumo": "A corrida de domingo (29), às 13h, terá 57 voltas em Lusail, e a Pirelli limitou cada jogo de pneus a 27 voltas, o que obriga ao menos duas paradas. Com Kimi Antonelli já campeão, a disputa é pelo vice; o treino livre começa na sexta, às 10h30.",
      "fontes": [
       {
        "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/palmeiras/libertadores-estudiantes-esgota-transporte-para-final-contra-palmeiras,1b8103f056ca35ffcaf1828d292cdd10vtt7vkgk.html"
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-confira-horarios-e-onde-assistir-ao-gp-do-catar-com-gabriel-bortoleto-e-rafa-camara,aecd10607385f0d06f712539556bbb4ac8q2kn9h.html"
       },
       {
-       "n": "Palmeiras Online",
-       "u": "https://palmeirasonline.com/2026/11/24/palmeiras-define-programacao-para-viagem-ao-uruguai-apos-duelo-com-a-chapecoense/"
-      }
-     ]
-    },
-    {
-     "kicker": "Champions League",
-     "quando": "Hoje",
-     "titulo": "PSG x Roma, Lille x Bayern e Sporting x Manchester United fecham a rodada da Champions",
-     "resumo": "Os jogos começam às 14h45 (Brasília), com Slavia Praga x Villarreal, e seguem às 17h com Club Brugge x Liverpool e Inter de Milão x Stuttgart, entre outros. Na terça, o Real Madrid manteve 100% de aproveitamento e o Manchester City empatou com o Arsenal.",
-     "fontes": [
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-25-11-onde-assistir-a-atletico-mg-x-corinthians-e-mais-na-tv"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/futebol/futebol-internacional/liga-dos-campeoes/real-madrid-mantem-100-e-man-city-tropeca-veja-resultados-da-champions"
+       "n": "Canal GOAT",
+       "u": "https://canalgoat.com.br/noticias/formula-1/gp-do-catar-com-antonelli-ja-campeao-verstappen-hamilton-russell-e-norris-disputam-o-vice-e-audi-caca-a-haas.html"
       }
      ]
     }
@@ -747,21 +813,37 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Nvidia, semana da ciência e panes digitais",
+   "nota": "Queda das ações de IA, Huawei e semana da ciência",
    "itens": [
     {
-     "kicker": "Chips",
-     "quando": "Ontem",
-     "titulo": "Nvidia cai cerca de 6% um dia após a volta de Jensen Huang; executivo depõe ao Congresso dos EUA em dezembro",
-     "resumo": "As ações haviam subido mais de 30% na segunda, quando a empresa reconduziu Huang ao comando após o governo americano informar que ele não representava risco à segurança nacional. Na terça, ele pediu desculpas a funcionários; há audiência fechada na Câmara em 1º de dezembro e pública no Senado no dia 3, segundo a AFP.",
+     "kicker": "Inteligência artificial",
+     "quando": "Hoje",
+     "titulo": "Ações de IA despencam em Nova York; Nvidia recua cerca de 8% na abertura",
+     "resumo": "A nova onda de vendas derrubou também Oracle (-7,3%) e Alphabet (-5,2%), segundo a EFE, dois dias depois de a Nvidia ter subido mais de 30% com a volta de Jensen Huang ao comando. Huang depõe a comissões do Congresso americano em 1º e 3 de dezembro.",
      "fontes": [
+      {
+       "n": "CNN Portugal (EFE)",
+       "u": "https://cnnportugal.iol.pt/wall-street/nasdaq/wall-street-sofre-forte-queda-com-nasdaq-a-cair-quase-4-pressionado-por-vendas-no-setor-da-inteligencia-artificial/20261125/6b06fbbe0cf294b9345ebaae"
+      },
       {
        "n": "Swissinfo (AFP)",
        "u": "https://www.swissinfo.ch/por/retorno-de-huang-n%C3%A3o-consegue-dissipar-d%C3%BAvidas-e-a%C3%A7%C3%B5es-da-nvidia-caem/92428594"
+      }
+     ]
+    },
+    {
+     "kicker": "Huawei",
+     "quando": "Ontem",
+     "titulo": "Júri em Nova York condena a Huawei em 10 de 12 acusações, incluindo fraude ligada ao Irã",
+     "resumo": "O júri federal do Brooklyn considerou a empresa culpada de fraude bancária e roubo de segredos comerciais, mas a absolveu da acusação de associação criminosa (racketeering). A Huawei disse que vai recorrer.",
+     "fontes": [
+      {
+       "n": "The Times of Israel",
+       "u": "https://www.timesofisrael.com/liveblog-november-25-2026/"
       },
       {
-       "n": "TradingKey",
-       "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262321114-nvidia-return-rally-fades-one-day-stock-slides-6-tradingkey"
+       "n": "Boletim Brasil e Mundo Hoje",
+       "u": "https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/tag/edicao-2026-11-25"
       }
      ]
     },
@@ -780,18 +862,6 @@
        "u": "https://www.correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
       }
      ]
-    },
-    {
-     "kicker": "Tecnologia",
-     "quando": "23/11",
-     "titulo": "Falhas em sistemas da Microsoft, bancos e controle aéreo dos EUA não indicam ataque coordenado, dizem especialistas",
-     "resumo": "A sequência de panes desde 12 de novembro alimentou suspeitas nas redes, mas especialistas ouvidos pela EFE não encontraram evidências de ação coordenada. No caso da aviação americana, a causa foi um roteador defeituoso instalado durante a modernização da rede; o texto aponta a concentração de fornecedores como risco estrutural.",
-     "fontes": [
-      {
-       "n": "Gizmodo Brasil / EFE",
-       "u": "https://gizmodo.com.br/bancos-aeroportos-e-gigantes-da-tecnologia-estao-sofrendo-apagoes-o-que-realmente-esta-acontecendo-com-os-sistemas-digitais-76397"
-      }
-     ]
     }
    ]
   },
@@ -799,7 +869,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Shows de 2027, estreias e música feita por IA",
+   "nota": "Shows, morte de Morgadinho e filme de K-pop",
    "itens": [
     {
      "kicker": "Shows",
@@ -814,6 +884,38 @@
       {
        "n": "Portal Leo Dias",
        "u": "https://portalleodias.com/musica/shakira-anuncia-quatro-shows-no-brasil-em-nova-turne-saiba-quais-cidades-receberao-a-cantora"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Hoje",
+     "titulo": "Morre aos 95 anos Morgadinho, nome histórico da música cabo-verdiana",
+     "resumo": "O cantor, que marcou gerações em Cabo Verde e na diáspora na França, foi fundador do conjunto Voz de Cabo Verde, segundo a imprensa portuguesa e cabo-verdiana.",
+     "fontes": [
+      {
+       "n": "Renascença",
+       "u": "https://rr.pt/noticia/vida/2026/11/25/morreu-morgadinho-o-cantor-que-marcou-geracoes-cabo-verdianas-aos-95-anos/495042/"
+      },
+      {
+       "n": "Diário de Notícias",
+       "u": "https://www.dn.pt/cultura/morre-aos-95-anos-morgadinho-figura-histrica-da-msica-cabo-verdiana"
+      },
+      {
+       "n": "Mindel Insite",
+       "u": "https://mindelinsite.com/cultura/morgadinho-nos-criol-na-franca-parte-aos-95-anos-mas-deixa-a-sua-musica-para-a-eternidade/"
+      }
+     ]
+    },
+    {
+     "kicker": "Cinema",
+     "quando": "Hoje",
+     "titulo": "HYBE anuncia filme sobre competição de K-pop com participações de BTS, KATSEYE e ILLIT",
+     "resumo": "‘K-Pop: O Debut’, dirigido por Benson Lee, acompanha uma estudante de medicina coreano-americana que vai escondida a Seul disputar vaga num novo grupo feminino. A estreia nos cinemas brasileiros está prevista para 25 de fevereiro de 2027.",
+     "fontes": [
+      {
+       "n": "Rolling Stone Brasil",
+       "u": "https://rollingstone.com.br/cinema/hybe-anuncia-filme-sobre-competicao-de-k-pop-com-participacoes-de-bts-e-katseye/"
       }
      ]
     },
@@ -834,22 +936,6 @@
      ]
     },
     {
-     "kicker": "Cinema",
-     "quando": "22/11",
-     "titulo": "Documentário sobre Elizabeth Holmes e comédia com De Niro e Ben Stiller estreiam nos cinemas na quinta",
-     "resumo": "‘Tudo Pode Ser Visto’, de Nathan Fielder e Lance Oppenheim, acompanha a fundadora da Theranos e chega após estreia nos EUA em outubro. A semana traz ainda ‘Entrando numa Grande Fria’, ‘O Ser Querido’, com Javier Bardem, e os nacionais ‘Pecadora’ e ‘Dona Onete’.",
-     "fontes": [
-      {
-       "n": "Ulti Notícias",
-       "u": "https://ulti.com.br/noticias/estreias-cinema-26-novembro-tudo-pode-ser-visto-2026"
-      },
-      {
-       "n": "AdoroCinema",
-       "u": "https://www.adorocinema.com/filmes/agenda/"
-      }
-     ]
-    },
-    {
      "kicker": "Streaming",
      "quando": "Ontem",
      "titulo": "Tidal vai remover músicas feitas inteiramente por IA a partir de 9 de dezembro",
@@ -862,18 +948,6 @@
       {
        "n": "Euronews",
        "u": "https://pt.euronews.com/video/2026/11/24/noticias-do-dia-24-de-novembro-2026-noite"
-      }
-     ]
-    },
-    {
-     "kicker": "Cinema",
-     "quando": "Ontem",
-     "titulo": "Festival Internacional de Cinema de Brasília leva sessões gratuitas a Paraty de 26 a 29 de novembro",
-     "resumo": "A mostra itinerante do BIFF ocupa o Cinema na Praça com filmes como ‘Por que você não chora?’, ‘Fanon’ e ‘Que Horas Ela Volta?’, além da estreia mundial de ‘EUceano Austrália’. Algumas sessões terão debate com realizadores.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/brasilia-international-film-festival-2026-chega-paraty"
       }
      ]
     }
