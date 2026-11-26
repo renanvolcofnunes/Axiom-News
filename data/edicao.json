@@ -1,47 +1,47 @@
 {
  "data": "Quinta-feira, 26 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "26/11/2026 · 07h20 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h30",
- "fontes": 66,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "26/11/2026 · 12h40 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 12h00",
+ "fontes": 71,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 25/11",
-   "valor": "166.684 pts",
-   "var": "+1,58%",
+   "nome": "Ibovespa · 12h00",
+   "valor": "173.139 pts",
+   "var": "+3,87%",
    "dir": "up"
   },
   {
-   "nome": "Dólar · fechamento 25/11",
-   "valor": "R$ 5,82",
-   "var": "-1,59%",
+   "nome": "Dólar · 11h40",
+   "valor": "R$ 5,71",
+   "var": "-1,78%",
    "dir": "down"
   },
   {
-   "nome": "Nasdaq · fechamento 25/11",
-   "valor": "23.586 pts",
-   "var": "-0,62%",
+   "nome": "DI jan/2029 · 9h17",
+   "valor": "14,48%",
+   "var": "-0,18 p.p.",
    "dir": "down"
   },
   {
-   "nome": "Petróleo Brent (jan) · 18h 25/11",
-   "valor": "US$ 94,61",
-   "var": "+3,51%",
-   "dir": "up"
+   "nome": "Petróleo Brent · 7h42",
+   "valor": "US$ 93,86",
+   "var": "-0,79%",
+   "dir": "down"
   },
   {
-   "nome": "IPCA 2026 · Focus",
-   "valor": "5,15%",
-   "var": "projeção",
+   "nome": "IPCA-15 novembro · IBGE",
+   "valor": "0,22%",
+   "var": "4,64% em 12 meses",
    "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Qui 26/11 · 9h",
-   "txt": "IBGE divulga o IPCA-15 de novembro; bolsas de Nova York ficam fechadas pelo Dia de Ação de Graças",
-   "cat": "economia"
+   "hora": "Qui 26/11 · 20h",
+   "txt": "São Paulo x Remo pela 37ª rodada do Brasileirão",
+   "cat": "esporte"
   },
   {
    "hora": "Qui 26/11",
@@ -49,13 +49,13 @@
    "cat": "mundo"
   },
   {
-   "hora": "Sáb 28/11 · 17h",
-   "txt": "Estudiantes x Palmeiras, final da Libertadores no Centenário, em Montevidéu",
-   "cat": "esporte"
+   "hora": "Sex 27/11",
+   "txt": "Black Friday: varejo online projeta R$ 13,3 bilhões em vendas de quinta a domingo, segundo a Neotrust",
+   "cat": "economia"
   },
   {
-   "hora": "Dom 29/11 · 18h30",
-   "txt": "Corinthians x Grêmio, na Neo Química Arena, pela 37ª rodada do Brasileirão",
+   "hora": "Sáb 28/11 · 17h",
+   "txt": "Estudiantes x Palmeiras, final da Libertadores no Centenário, em Montevidéu",
    "cat": "esporte"
   },
   {
@@ -64,8 +64,8 @@
    "cat": "politica"
   },
   {
-   "hora": "4 a 15/12",
-   "txt": "STF julga no plenário virtual o pedido do PSD por segundo turno na eleição para governador do Rio",
+   "hora": "Qua 16/12",
+   "txt": "Começa a redução gradual da jornada de trabalho prevista na Emenda Constitucional 141/2026",
    "cat": "politica"
   }
  ],
@@ -162,44 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Ministério da Fazenda",
-  "titulo": "Lula convida Luiz Carlos Trabuco, do Bradesco, para a Fazenda e espera resposta até segunda, diz coluna",
-  "resumo": "Segundo o SBT News, o convite foi feito na segunda (23), em encontro fora da agenda no Palácio da Alvorada, e o presidente do conselho do Bradesco deve responder até o dia 30. A possibilidade foi citada por analistas como um dos motivos da alta de 1,58% do Ibovespa e da queda do dólar na quarta.",
+  "kicker": "Mercado",
+  "titulo": "Ibovespa dispara quase 4% e passa dos 173 mil pontos; dólar cai a R$ 5,71 com IPCA-15 abaixo do previsto e Trabuco no radar",
+  "resumo": "Ao meio-dia, a bolsa subia 3,87%, aos 173.139 pontos, puxada por bancos, B3 e Petrobras, enquanto o dólar e os juros futuros recuavam. Analistas atribuem o movimento à prévia da inflação de 0,22% em novembro, abaixo de todas as projeções, e à possibilidade de Luiz Carlos Trabuco assumir a Fazenda.",
   "foto": {
-   "src": "fotos/real.jpg",
-   "credito": "José Cruz/Agência Brasil (arquivo)"
+   "src": "https://imagens.ebc.com.br/FK_Ld555uZXxFMjBIfEhtQlCMQo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221205.jpg?itok=MdcwUUjv",
+   "credito": "Valter Campanato/Agência Brasil (arquivo)"
   },
-  "entenda": "Lula começa o quarto mandato em janeiro e ainda não anunciou quem comandará a economia; o atual ministro da Fazenda é Dario Durigan, que conduz a preparação de uma nova PEC para conter o crescimento das despesas obrigatórias a partir de 2027. Trabuco, que integra o Conselhão e é próximo de Lula desde o primeiro mandato, recusou o mesmo cargo em 2014, quando foi sondado pelo governo Dilma Rousseff e alegou compromissos com a sucessão no Bradesco. De acordo com a coluna, ele quer conversar com a família e avaliar o futuro no banco antes de decidir. O vice-presidente Geraldo Alckmin afirmou que Lula não tem pressa para anunciar o nome. O mercado acompanha a escolha junto com a agenda fiscal: o pacote sancionado nesta semana prevê economia de até R$ 56 bilhões em 2027, e a nova PEC ainda depende do aval do presidente e do Congresso.",
+  "entenda": "A alta começou logo na abertura: o índice ganhou cerca de 6 mil pontos nos primeiros minutos, depois de fechar a quarta em 166.684 pontos. O IBGE informou às 9h que o IPCA-15 subiu 0,22%, contra estimativas entre 0,27% e 0,41%, com alimentos em alta (tomate +38,9%) e transportes em queda; em 12 meses, a prévia está em 4,64%, acima do teto da meta, de 4,5%. No campo político, a coluna PlatôBr, do Estado de Minas, relatou que Trabuco, presidente do conselho do Bradesco, disse a pessoas próximas que aceitaria o convite de Lula, o que não foi confirmado oficialmente; o prazo para a resposta, segundo o SBT News, vai até segunda (30). O feriado de Ação de Graças, com Nova York fechada, reduz o volume de negócios, o que tende a ampliar as oscilações.",
   "fatos": [
-   "Convite teria sido feito em 23/11, no Alvorada, fora da agenda oficial; resposta esperada até 30/11",
-   "Ibovespa subiu 1,58%, a 166.684 pontos, e o dólar caiu 1,59%, a R$ 5,82, na quarta (25)",
-   "Em 2014, Trabuco recusou a Fazenda no governo Dilma, que nomeou Joaquim Levy"
+   "Ibovespa: +3,87%, 173.139 pontos às 12h; Bradesco (+4,8%), Banco do Brasil (+4,2%) e B3 (+5,6%) entre os destaques no início do pregão",
+   "Dólar à vista: R$ 5,71 (-1,78%) por volta das 11h40, depois de fechar a quarta a R$ 5,82",
+   "IPCA-15 de novembro: 0,22% no mês e 4,64% em 12 meses; contas externas tiveram déficit de US$ 3,97 bilhões em outubro"
   ],
   "fontes": [
    {
-    "n": "SBT News",
-    "u": "https://sbtnews.sbt.com.br/colunas/coluna-do-tulio/lula-convida-trabuco-para-fazenda-e-quer-resposta-ate-dia-30",
-    "d": "Convite e prazo"
+    "n": "Enfoque",
+    "u": "https://enfoque.com.br/noticias/26-11-2026/giro-das-12h-ibovespa-dispara-quase-4-e-dolar-e-juros-ampliam-queda-com-otimismo-sobre-a-fazenda-o-ibovespa-dispara-387-aos-17313896-pontos-enquanto-o-dolar-e-os-juros-futuros-ampliam-as-quedas-da-abertura-em-meio-a-melhora-das-expectativas-sobre-a-conducao-da-politica-economica-no-quarto-mandato-de-lula-e-hellip?k=165521",
+    "d": "Bolsa ao meio-dia"
    },
    {
-    "n": "Exame",
-    "u": "https://exame.com/invest/mercados/ibovespa-hoje-26-11-2026/",
-    "d": "Efeito no mercado"
+    "n": "Seu Dinheiro",
+    "u": "https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-dispara-mais-de-3-e-dolar-recua-a-r-572-o-que-anima-o-mercado-hoje-davs/",
+    "d": "Dólar e projeções"
    },
    {
-    "n": "ND Mais",
-    "u": "https://ndmais.com.br/politica/lula-sondou-executivo-bradesco-assumir-fazenda/",
-    "d": "Sondagem ao Bradesco"
-   },
-   {
-    "n": "Mais Retorno",
-    "u": "https://maisretorno.com/portal/alckmin-diz-que-lula-nao-esta-com-pressa-de-anunciar-ministro-da-fazenda",
-    "d": "Fala de Alckmin"
+    "n": "Times Brasil (CNBC)",
+    "u": "https://timesbrasil.com.br/brasil/ibovespa-dispara-expectativas-sobre-ministerio-da-fazenda-inflacao/",
+    "d": "Expectativa sobre a Fazenda"
    },
    {
     "n": "BPMoney",
-    "u": "https://bpmoney.com.br/politica/lula-autoriza-nova-pec-conter-gastos-saude-educacao-emendas/",
-    "d": "PEC das despesas"
+    "u": "https://bpmoney.com.br/economia/ibovespa-dispara-mais-de-2-com-bancos-e-petrobras-dolar-cai-a-r-577/",
+    "d": "Ações em destaque"
+   },
+   {
+    "n": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
+    "d": "IPCA-15 de novembro"
+   },
+   {
+    "n": "Estado de Minas (PlatôBr)",
+    "u": "https://www.em.com.br/politica/platobr/2026/11/7544672-o-que-falta-para-trabuco-aceitar-o-convite-de-lula-para-a-fazenda.html",
+    "d": "Resposta de Trabuco"
    }
   ]
  },
@@ -208,8 +213,58 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Sucessão na Câmara, nova PEC fiscal e Bolsonaro na UTI",
+   "nota": "Resposta de Trabuco, nova jornada no STF e sucessão na Câmara",
    "itens": [
+    {
+     "kicker": "Ministério da Fazenda",
+     "quando": "Hoje",
+     "titulo": "Trabuco teria dito a pessoas próximas que aceita a Fazenda, segundo coluna; não há anúncio oficial",
+     "resumo": "A coluna PlatôBr, do Estado de Minas, relata que o presidente do conselho do Bradesco, de 75 anos, sinalizou a amigos que aceitaria comandar a economia no quarto mandato de Lula, mas ainda conversa com a família. Segundo o SBT News, o convite foi feito em 23 de novembro e a resposta é esperada até segunda (30); o governo não comentou.",
+     "fontes": [
+      {
+       "n": "Estado de Minas (PlatôBr)",
+       "u": "https://www.em.com.br/politica/platobr/2026/11/7544672-o-que-falta-para-trabuco-aceitar-o-convite-de-lula-para-a-fazenda.html"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/economia/lula-sondou-trabuco-para-o-ministerio-da-fazenda-banqueiro-ainda-avalia-proposta,89a63fa069d1d9e3170a91f473d17d9a9ndwaeyn.html"
+      },
+      {
+       "n": "SpaceMoney",
+       "u": "https://www.spacemoney.com.br/politica/trabuco-fazenda-convite-lula"
+      }
+     ]
+    },
+    {
+     "kicker": "Jornada de trabalho",
+     "quando": "Hoje",
+     "titulo": "Marinho descarta adiar a nova jornada em 16 de dezembro; CNI pede ao STF que suspenda decreto e portaria",
+     "resumo": "O ministro do Trabalho afirmou nesta quinta, em evento do setor aéreo em Brasília, que a primeira etapa da redução da jornada prevista na Emenda 141/2026 começa na data marcada. A Confederação Nacional da Indústria protocolou na terça (24) uma ação no Supremo contra o Decreto 13.173 e a Portaria 2.041, que regulamentam a mudança.",
+     "lados": [
+      {
+       "quem": "Governo",
+       "txt": "Marinho diz que não há possibilidade de adiamento, critica a CNI por ir ao STF sem procurar o ministério e afirma que pedidos de setores específicos podem ser atendidos; a AGU sustenta que a regulamentação dá segurança jurídica."
+      },
+      {
+       "quem": "CNI",
+       "txt": "A entidade argumenta que o Executivo extrapolou seus poderes e que regras dessa natureza deveriam ser aprovadas por lei no Congresso, e pede a suspensão imediata e a inconstitucionalidade dos dois atos."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "O Povo (Estadão Conteúdo)",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/11/26/marinho-repete-que-nao-ha-possibilidade-de-adiar-inicio-da-implementacao-da-nova-jornada.html"
+      },
+      {
+       "n": "Congresso em Foco",
+       "u": "https://www.congressoemfoco.com.br/noticia/131861/cni-aciona-stf-contra-regulamentacao-do-fim-da-escala-6x1"
+      },
+      {
+       "n": "Estado de Minas (Folhapress)",
+       "u": "https://www.em.com.br/politica/2026/11/7543806-cni-vai-ao-supremo-contra-regulamentacao-do-governo-para-fim-da-escala-6x1.html"
+      }
+     ]
+    },
     {
      "kicker": "Câmara",
      "quando": "Ontem",
@@ -293,48 +348,6 @@
        "u": "https://bpmoney.com.br/politica/bolsonaro-segue-estavel-uti-sem-previsao-alta-boletim-medico/"
       }
      ]
-    },
-    {
-     "kicker": "Senado",
-     "quando": "Ontem",
-     "titulo": "CCJ do Senado aprova PEC que muda o papel da União no custeio da segurança do DF",
-     "resumo": "A proposta, de Izalci Lucas (PL-DF) e relatada por Rogério Carvalho (PT-SE), trata dos recursos do Fundo Constitucional do DF para as polícias Civil, Penal e Militar e os Bombeiros. O texto ainda precisa passar pelos plenários do Senado e da Câmara.",
-     "fontes": [
-      {
-       "n": "ClicRDC",
-       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quinta-feira-26-de-novembro-de-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Eleição no Rio",
-     "quando": "Ontem",
-     "titulo": "STF marca para 4 a 15 de dezembro o julgamento do pedido de segundo turno para governador do Rio",
-     "resumo": "O relator, Cristiano Zanin, liberou para o plenário virtual a ação do PSD, de Eduardo Paes, contra o resultado que deu a vitória a Douglas Ruas (PL) no primeiro turno. A disputa nasceu da decisão do TSE que reconheceu a inelegibilidade de Anthony Garotinho (Republicanos) e anulou seus votos, o que levou Ruas a superar a maioria dos votos válidos.",
-     "lados": [
-      {
-       "quem": "PSD e Eduardo Paes",
-       "txt": "Pedem ao STF que restabeleça o segundo turno; Paes teve 44,16% dos votos válidos no primeiro turno."
-      },
-      {
-       "quem": "Douglas Ruas (PL)",
-       "txt": "Foi declarado eleito no primeiro turno após a recontagem determinada pela decisão do TSE, que anulou os votos de Garotinho."
-      }
-     ],
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/politica/judiciario/2026/11/25/stf-vai-analisar-pedido-de-paes-por-2-turno-no-rio-entre-4-e-15-de-dezembro"
-      },
-      {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/justica/stf-marca-julgamento-de-acao-do-psd-que-pede-2o-turno-no-rio/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/revista-forum/stf-marca-julgamento-que-pode-levar-eleicao-no-rio-de-janeiro-ao-segundo-turno"
-      }
-     ]
     }
    ]
   },
@@ -342,53 +355,50 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "IPCA-15 hoje, tarifas dos EUA e juros americanos",
+   "nota": "Bolsa em forte alta, IPCA-15 e Black Friday",
    "itens": [
     {
-     "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Ibovespa sobe 1,58% e volta aos 166 mil pontos; dólar cai 1,59% e fecha a R$ 5,81",
-     "resumo": "O índice fechou a 166.684 pontos, com a Vale subindo 3,10% e interrompendo dez quedas seguidas, a Petrobras PN avançando 2% e a Natura disparando 10,56%. Analistas citaram a especulação sobre Luiz Carlos Trabuco na Fazenda e a discussão da PEC fiscal; a Embraer, com -4%, foi a maior queda do dia.",
+     "kicker": "Inflação",
+     "quando": "Hoje",
+     "titulo": "Prévia da inflação sobe 0,22% em novembro, abaixo do esperado; tomate dispara quase 39%",
+     "resumo": "O IPCA-15 desacelerou ante os 0,32% de outubro, mas acumula 4,64% em 12 meses, acima do teto da meta. Alimentação e bebidas subiram 1,51%, com alta de 2,02% na comida em casa, enquanto transportes caíram 0,71%.",
      "foto": {
-      "src": "https://imagens.ebc.com.br/FK_Ld555uZXxFMjBIfEhtQlCMQo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221205.jpg?itok=MdcwUUjv",
-      "credito": "Valter Campanato/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/AmxcK43z7LhyveoFtY2Rx8CLlpw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/20231130_110016.jpg?itok=TDHg8p3E",
+      "credito": "Rafa Neddermeyer/Agência Brasil (arquivo)"
      },
+     "destaque": false,
      "fontes": [
       {
-       "n": "Bora Investir (B3)",
-       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro"
       },
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ibovespa-fecha-em-alta-e-recupera-os-166-mil-pontos-com-pec-fiscal-e-expectativas-sobre-equipe-economica-de-lula-davs/"
+       "n": "IBGE",
+       "u": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48751-noticiaipca15novembro"
       },
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/bolsa-fecha-em-alta-de-158-aos-1666-mil-pontos-nesta-quarta-25-11"
-      },
-      {
-       "n": "Canal Rural",
-       "u": "https://www.canalrural.com.br/economia/ibovespa-fecha-em-alta-de-158-e-dolar-comercial-recua-159/"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/tomate-dispara-quase-39-alimentos-pressionam-inflacao-novembro/"
       }
      ]
     },
     {
-     "kicker": "Inflação",
+     "kicker": "Indicadores",
      "quando": "Hoje",
-     "titulo": "IBGE divulga às 9h o IPCA-15 de novembro; Bradesco projeta alta de 0,36%",
-     "resumo": "Em outubro, a prévia da inflação subiu 0,32% no mês e acumulou 4,62% em 12 meses. O último Boletim Focus elevou a projeção do IPCA de 2026 para 5,15%; o dia tem ainda dados de contas externas do Banco Central e liquidez reduzida com o feriado nos EUA.",
+     "titulo": "Contas externas têm déficit de US$ 3,97 bilhões em outubro; confiança da indústria volta a subir",
+     "resumo": "O rombo nas transações correntes informado pelo Banco Central ficou acima da mediana das projeções, de US$ 3 bilhões, mas abaixo do registrado em setembro. O investimento direto no país somou US$ 9,1 bilhões, e o índice de confiança da indústria da FGV subiu 0,4 ponto, para 91,4, após quatro quedas seguidas.",
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/ibovespa-hoje-26-11-2026/"
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/tempo-real-26-11-2026-davs/"
       },
       {
-       "n": "TMC",
-       "u": "https://tmc.com.br/economia/previa-inflacao-novembro-projecao-alimentos-servicos-black-friday/"
+       "n": "Times Brasil (CNBC)",
+       "u": "https://timesbrasil.com.br/brasil/ibovespa-dispara-expectativas-sobre-ministerio-da-fazenda-inflacao/"
       },
       {
-       "n": "IBGE",
-       "u": "https://anda.ibge.gov.br/estatisticas/economicas/precos-e-custos/9260-indice-nacional-de-precos-ao-consumidor-amplo-15.html"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/economia/ibovespa-dispara-mais-de-2-com-bancos-e-petrobras-dolar-cai-a-r-577/"
       }
      ]
     },
@@ -421,18 +431,14 @@
      ]
     },
     {
-     "kicker": "Estados Unidos",
-     "quando": "Ontem",
-     "titulo": "Nova York fecha mista antes do feriado; mercado vê alta quase certa dos juros do Fed em dezembro",
-     "resumo": "O Dow Jones subiu 0,33% e o Nasdaq caiu 0,62% depois de uma abertura em forte queda, com o índice de preços PCE em 3,8% em 12 meses. Segundo a ferramenta do CME citada pela Exame, a chance de alta dos juros americanos em dezembro chegou a cerca de 93%; as bolsas não abrem nesta quinta.",
+     "kicker": "Varejo",
+     "quando": "Hoje",
+     "titulo": "Comércio online projeta R$ 13,3 bilhões em vendas na Black Friday, alta de 20,7%",
+     "resumo": "A estimativa da Neotrust cobre o período de quinta (26) a domingo (29). O Procon-SP mantém a lista de sites que não respondem a reclamações de consumidores e recomenda consultá-la antes das compras.",
      "fontes": [
       {
-       "n": "Exame",
-       "u": "https://exame.com/invest/mercados/ibovespa-hoje-26-11-2026/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-eua-25-novembro-2026/"
+       "n": "Update Diário",
+       "u": "https://updatediario.beehiiv.com/p/as-principais-not-cias-de-26-de-novembro-de-2026"
       }
      ]
     },
@@ -467,28 +473,24 @@
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Frente fria leva alerta de chuva intensa a 1.278 cidades de seis estados; Sul tem madrugadas abaixo de 10 °C",
-     "resumo": "O Inmet emitiu alerta laranja para chuvas fortes em municípios do RJ, SP, MG, ES, GO e MS, incluindo Rio, São Paulo, Belo Horizonte e Vitória, com até 100 mm por dia e rajadas de até 100 km/h. Segundo a Climatempo, a Costa Verde e a região metropolitana do Rio podem somar até 200 mm entre quarta e quinta; nas serras gaúcha e catarinense, as mínimas ficam abaixo de 10 °C.",
+     "titulo": "Frente fria e ciclone na costa de SC mantêm alertas de temporal no Centro-Sul; São Paulo tem máxima de 21 °C",
+     "resumo": "O Inmet mantém avisos de tempestade e alagamento no Sul, Sudeste e Centro-Oeste, com acumulados que podem passar de 50 mm em 24 horas em pontos isolados e alerta laranja para até 100 mm no Rio e em São Paulo. Curitiba deve ter máxima de 19 °C, enquanto o Norte e o Nordeste seguem com calor, perto de 40 °C em Teresina.",
      "foto": {
       "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
       "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/frente-fria-provoca-temporais-e-queda-de-temperatura-no-centro-sul-do-pais"
+      },
+      {
+       "n": "A Cidade ON",
+       "u": "https://www.acidadeon.com/campinas/cotidiano/frente-fria-derruba-temperaturas-no-interior-de-sp-e-inmet-emite-alerta-de-chuvas-intensas-nesta-quinta-feira/"
+      },
+      {
        "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/rio-de-janeiro-entra-em-alerta-para-temporais-com-avanco-de-frente-fria-nesta-quinta-feira"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-extratropical-deve-levar-frio-e-chuva-a-areas-do-sul-e-sudeste/"
-      },
-      {
-       "n": "Exame",
-       "u": "https://exame.com/brasil/inmet-emite-alerta-vermelho-para-tres-estados-e-preve-ciclone-extratropical/"
-      },
-      {
-       "n": "Clima ao Vivo",
-       "u": "https://www.climaaovivo.com.br/noticias/ciclone-extratropical-se-forma-no-sul-impulsiona-frente-fria-e-derruba-temperaturas-no-centro-sul-ate-o-fim-desta-semana-25-11-26"
+       "u": "https://agendadopoder.com.br/rio-de-janeiro-entra-em-alerta-para-temporais-com-avanco-de-frente-fria-nesta-quinta-feira/"
       }
      ]
     },
@@ -530,17 +532,21 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Cúpula da UE, minas em Ormuz, Gaza e Ucrânia",
+   "nota": "Cúpula da UE, Ormuz, Gaza e Ucrânia",
    "itens": [
     {
      "kicker": "União Europeia",
      "quando": "Hoje",
-     "titulo": "Líderes da UE se reúnem em Bruxelas para negociar orçamento até 2034, ajuda à Ucrânia e sucessão no BCE",
-     "resumo": "A proposta de António Costa para o orçamento 2028–2034 fica mais de 10% abaixo da apresentada pela Comissão Europeia, com cortes em competitividade, defesa e ação externa, o que divide países frugais e França e Espanha. Na pauta estão também o empréstimo de até € 45 bilhões à Ucrânia em 2027 e o substituto de Christine Lagarde, que deixa o BCE em fevereiro; Pablo Hernández de Cos e Klaas Knot são os nomes citados.",
+     "titulo": "Cúpula da UE em Bruxelas expõe divisão sobre orçamento até 2034; Eslováquia resiste a novo empréstimo à Ucrânia",
+     "resumo": "O orçamento 2028–2034 exige unanimidade, e os países ‘frugais’ cobram cortes, enquanto a proposta de António Costa reduz em 21% o programa de ação externa e mexe nos fundos de coesão. A Eslováquia resiste ao empréstimo de € 45 bilhões a Kiev; a sucessão de Christine Lagarde no BCE e o impacto no acordo com o Mercosul também estão na mesa.",
      "fontes": [
       {
-       "n": "Times Brasil (CNBC)",
-       "u": "https://timesbrasil.com.br/mundo/lideres-da-uniao-europeia-discutem-orcamento-de-2028-a-2034-e-sucessao-no-banco-central-europeu/"
+       "n": "Terra (RFI)",
+       "u": "https://www.terra.com.br/noticias/mundo/europa/orcamento-e-guerra-na-ucrania-dividem-lideres-da-ue-em-cupula-extraordinaria,d6084c994c64eddb652decba069f8d9dqq1p34dm.html"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/mundo/2026/11/26/saiba-o-que-esta-em-jogo-na-cupula-da-uniao-europeia-orcamento-apoio-a-kiev-e-futuro-monetario"
       },
       {
        "n": "Diário de Notícias (Lusa)",
@@ -550,25 +556,25 @@
     },
     {
      "kicker": "Estreito de Ormuz",
-     "quando": "Ontem",
-     "titulo": "Irã diz que dois petroleiros pegaram fogo após atingir minas em Ormuz; Brent sobe 3,5%",
-     "resumo": "Segundo a Guarda Revolucionária, os navios tentavam passar por uma rota não autorizada; a versão não foi verificada de forma independente. Na madrugada desta quinta, o monitor britânico UKMTO relatou explosão perto de um navio-tanque a 93 km de Dubai, sem danos; os incidentes no estreito passaram a ser quase diários em novembro.",
+     "quando": "Hoje",
+     "titulo": "Irã relata mais dois petroleiros em chamas após minas em Ormuz e condiciona reabertura ao fim do bloqueio dos EUA",
+     "resumo": "A Guarda Revolucionária informou nesta quinta novos incêndios em navios-tanque que atingiram minas no estreito; a versão iraniana não foi verificada de forma independente. Teerã diz que só reabre a passagem com o fim do bloqueio americano, e Washington anunciou sanções a mais de 20 casas de câmbio e empresas ligadas a redes financeiras iranianas.",
      "fontes": [
       {
-       "n": "RTP (Lusa)",
-       "u": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/dois-petroleiros-incendeiam-se-em-ormuz-apos-colidirem-com-minas-marinhas_n1781474"
+       "n": "Diario Siglo XXI (Europa Press)",
+       "u": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261126120329/iran-asegura-otros-petroleros-incendiado-chocar-minas-navales-estrecho-ormuz"
+      },
+      {
+       "n": "Prensa Latina",
+       "u": "https://www.prensa-latina.cu/2026/11/26/incendio-de-dos-petroleros-tras-choque-con-minas-en-ormuz/"
       },
       {
        "n": "Times Brasil (CNBC)",
        "u": "https://timesbrasil.com.br/empresas-e-negocios/energia/ira-confirma-que-petroleiros-atingiram-minas-navais/"
       },
       {
-       "n": "Terra (Reuters)",
-       "u": "https://www.terra.com.br/noticias/mundo/ira-diz-navios-colidiram-com-minas-em-ormuz-e-alerta-embarcacoes-para-coordenarem-passagem,9b4f97281b7318fd9fe692395cd7cc1c61sookhn.html"
-      },
-      {
-       "n": "AP (KSAT)",
-       "u": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/"
+       "n": "Instituto GSEC",
+       "u": "https://institutogsec.substack.com/p/destaques-da-geopolitica-26-nov-2026"
       }
      ]
     },
@@ -610,8 +616,44 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Corinthians fora do Z4, Palmeiras no Uruguai e Champions",
+   "nota": "Palmeiras em Montevidéu, São Paulo x Remo e Liga Europa",
    "itens": [
+    {
+     "kicker": "Libertadores",
+     "quando": "Hoje",
+     "titulo": "Palmeiras faz primeiro treino em Montevidéu nesta quinta; Abel tem dois dias para definir time da final",
+     "resumo": "A delegação desembarcou no Uruguai na noite de quarta (25) e treina às 16h, horário de Brasília, de olho no tetracampeonato da Libertadores. A decisão contra o Estudiantes é no sábado (28), às 17h, no Estádio Centenário, 58 anos depois da final de 1968 entre os dois clubes.",
+     "fontes": [
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-desembarca-em-montevideu-para-final-da-libertadores/"
+      },
+      {
+       "n": "Nosso Palestra",
+       "u": "https://nossopalestra.com.br/noticias/libertadores-da-america/palmeiras-e-estudiantes-voltam-a-decidir-a-libertadores-em-montevideu-apos-58-anos-relembre-final-de-1968"
+      },
+      {
+       "n": "365Scores",
+       "u": "https://www.365scores.com/pt-br/news/magazine/estudiantes-relacionados-final-libertadores/"
+      }
+     ]
+    },
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "São Paulo recebe o Remo às 20h pela 37ª rodada do Brasileirão",
+     "resumo": "O jogo é um dos primeiros da penúltima rodada, que mexe na luta contra o rebaixamento e na briga por vagas na Libertadores. A quinta tem ainda 18 jogos da Liga Europa, entre eles Olympiakos x Milan e Viktoria Plzen x Benfica às 14h45 e Juventus x Omonia às 17h.",
+     "fontes": [
+      {
+       "n": "Lance!",
+       "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-quinta-feira-26-11-2026.html"
+      },
+      {
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-26-11-2026-futebol-na-tv"
+      }
+     ]
+    },
     {
      "kicker": "Brasileirão",
      "quando": "Ontem",
@@ -637,26 +679,6 @@
      ]
     },
     {
-     "kicker": "Libertadores",
-     "quando": "Ontem",
-     "titulo": "Palmeiras chega a Montevidéu com 28 jogadores para a final contra o Estudiantes",
-     "resumo": "A delegação foi recebida por torcedores no hotel e treina nesta quinta, às 16h, com portões fechados. Piquerez e Murilo ainda passam por avaliação, e Paulinho se recupera de lesão na panturrilha; o Palmeiras disputa a oitava final da competição e busca o quarto título no sábado, às 17h.",
-     "fontes": [
-      {
-       "n": "Portal do Palestra",
-       "u": "https://portaldopalestra.com.br/palmeiras-chega-montevideu-relacionados-final-libertadores-2026-estudiantes/"
-      },
-      {
-       "n": "Lance",
-       "u": "https://www.lance.com.br/palmeiras/abel-revive-tatica-no-palmeiras-e-indica-time-para-final-da-libertadores.html"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/palmeiras/libertadores-tecnico-do-estudiantes-tem-duvida-para-a-final-com-o-palmeiras,d9dc733b3e76347763ffbcc14e5567efuc7y0dqa.html"
-      }
-     ]
-    },
-    {
      "kicker": "Champions League",
      "quando": "Ontem",
      "titulo": "Real Madrid fecha a 5ª rodada na liderança; Gabriel Jesus marca na goleada do Barcelona",
@@ -673,22 +695,6 @@
       {
        "n": "Mais Goiás",
        "u": "https://www.maisgoias.com.br/esportes/futebol/futebol-internacional/psg-perde-100-champions-barcelona-goleia-gol-gabriel-jesus-confira-resultados/"
-      }
-     ]
-    },
-    {
-     "kicker": "Copa do Brasil",
-     "quando": "23/11",
-     "titulo": "Final única entre Palmeiras e Grêmio será em 6 de dezembro, no Mané Garrincha",
-     "resumo": "A CBF marcou a decisão, pela primeira vez em jogo único, para as 16h em Brasília, com metade da carga de ingressos para cada clube. A venda é feita pela internet, com reconhecimento facial.",
-     "fontes": [
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/cbf-confirma-data-da-final-da-copa-do-brasil-entre-palmeiras-e-gremio-saiba-dia-e-horario,87111a115055ce8067c026873397d4c7dg54ocn6.html"
-      },
-      {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/esporte/final-copa-do-brasil-2026-data-local-ingressos/"
       }
      ]
     }
@@ -862,9 +868,9 @@
     },
     {
      "kicker": "Huawei",
-     "quando": "24/11",
-     "titulo": "Júri em Nova York condena a Huawei em 10 de 12 acusações, incluindo fraude ligada ao Irã",
-     "resumo": "O júri federal do Brooklyn considerou a empresa culpada de fraude bancária e roubo de segredos comerciais, mas a absolveu da acusação de associação criminosa (racketeering). A Huawei disse que vai recorrer.",
+     "quando": "Hoje",
+     "titulo": "China critica condenação da Huawei por júri de Nova York em 10 de 12 acusações",
+     "resumo": "Pequim reagiu ao veredicto da terça-feira (24), que considerou a empresa culpada de acusações que incluem fraude ligada a negócios com o Irã. A empresa ainda pode contestar a decisão nas instâncias americanas.",
      "fontes": [
       {
        "n": "The Times of Israel",
@@ -873,6 +879,10 @@
       {
        "n": "Boletim Brasil e Mundo Hoje",
        "u": "https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/tag/edicao-2026-11-25"
+      },
+      {
+       "n": "Instituto GSEC",
+       "u": "https://institutogsec.substack.com/p/destaques-da-geopolitica-26-nov-2026"
       }
      ]
     }
@@ -893,6 +903,10 @@
       {
        "n": "Cinema e Afins",
        "u": "https://cinemaeafins.com.br/estreias-de-26-de-novembro-de-2026/"
+      },
+      {
+       "n": "Interior da Bahia",
+       "u": "https://interiordabahia.com.br/2026/11/25/filme-sobre-belchior-alucinacao-estreia-nos-cinemas-de-todo-o-brasil-nesta-quinta-26/"
       }
      ]
     },
