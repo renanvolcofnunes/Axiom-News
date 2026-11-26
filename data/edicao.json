@@ -1,33 +1,33 @@
 {
  "data": "Quinta-feira, 26 de novembro de 2026",
- "edicao": "Edição do meio-dia",
- "atualizado": "26/11/2026 · 12h40 (Brasília)",
- "proxima": "Próxima atualização: 19h",
- "mercado_hora": "Cotações de 12h00",
- "fontes": 71,
+ "edicao": "Edição da noite",
+ "atualizado": "26/11/2026 · 19h20 (Brasília)",
+ "proxima": "Próxima atualização: amanhã, 7h",
+ "mercado_hora": "Cotações de 18h20",
+ "fontes": 61,
  "mercado": [
   {
-   "nome": "Ibovespa · 12h00",
-   "valor": "173.139 pts",
-   "var": "+3,87%",
+   "nome": "Ibovespa · fechamento",
+   "valor": "176.800 pts",
+   "var": "+6,07%",
    "dir": "up"
   },
   {
-   "nome": "Dólar · 11h40",
-   "valor": "R$ 5,71",
-   "var": "-1,78%",
+   "nome": "Dólar · fechamento",
+   "valor": "R$ 5,74",
+   "var": "-1,25%",
    "dir": "down"
   },
   {
-   "nome": "DI jan/2029 · 9h17",
+   "nome": "Dólar PTAX · BC",
+   "valor": "R$ 5,7446",
+   "var": "",
+   "dir": ""
+  },
+  {
+   "nome": "DI jan/2029 · 10h10",
    "valor": "14,48%",
    "var": "-0,18 p.p.",
-   "dir": "down"
-  },
-  {
-   "nome": "Petróleo Brent · 7h42",
-   "valor": "US$ 93,86",
-   "var": "-0,79%",
    "dir": "down"
   },
   {
@@ -40,13 +40,8 @@
  "agenda": [
   {
    "hora": "Qui 26/11 · 20h",
-   "txt": "São Paulo x Remo pela 37ª rodada do Brasileirão",
+   "txt": "São Paulo x Remo, no Morumbis, abre a 37ª rodada do Brasileirão",
    "cat": "esporte"
-  },
-  {
-   "hora": "Qui 26/11",
-   "txt": "Cúpula extraordinária da UE em Bruxelas discute orçamento 2028–2034, empréstimo à Ucrânia e sucessão no BCE",
-   "cat": "mundo"
   },
   {
    "hora": "Sex 27/11",
@@ -54,14 +49,19 @@
    "cat": "economia"
   },
   {
+   "hora": "Sex 27/11",
+   "txt": "Fluminense x Cruzeiro pela 37ª rodada; Botafogo x Bahia no sábado e seis jogos no domingo",
+   "cat": "esporte"
+  },
+  {
    "hora": "Sáb 28/11 · 17h",
    "txt": "Estudiantes x Palmeiras, final da Libertadores no Centenário, em Montevidéu",
    "cat": "esporte"
   },
   {
-   "hora": "Seg 30/11",
-   "txt": "Prazo para Luiz Carlos Trabuco responder ao convite para a Fazenda, segundo o SBT News",
-   "cat": "politica"
+   "hora": "Qua 02/12 · 21h30",
+   "txt": "Última rodada do Brasileirão, com dez jogos simultâneos",
+   "cat": "esporte"
   },
   {
    "hora": "Qua 16/12",
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Mercado",
-  "titulo": "Ibovespa dispara quase 4% e passa dos 173 mil pontos; dólar cai a R$ 5,71 com IPCA-15 abaixo do previsto e Trabuco no radar",
-  "resumo": "Ao meio-dia, a bolsa subia 3,87%, aos 173.139 pontos, puxada por bancos, B3 e Petrobras, enquanto o dólar e os juros futuros recuavam. Analistas atribuem o movimento à prévia da inflação de 0,22% em novembro, abaixo de todas as projeções, e à possibilidade de Luiz Carlos Trabuco assumir a Fazenda.",
+  "kicker": "Ministério da Fazenda",
+  "titulo": "Trabuco aceita convite de Lula para a Fazenda, dizem veículos; Ibovespa fecha em alta de 6% e dólar cai a R$ 5,74",
+  "resumo": "O presidente do conselho do Bradesco, Luiz Carlos Trabuco, aceitou comandar a economia a partir de 2027, segundo Metrópoles, SBT News, CNN Brasil e Veja, com base em fontes do Planalto; o governo ainda não fez anúncio oficial. A bolsa teve a maior alta desde o primeiro turno das eleições e fechou aos 176.800 pontos, sem nenhuma ação do índice em queda.",
   "foto": {
-   "src": "https://imagens.ebc.com.br/FK_Ld555uZXxFMjBIfEhtQlCMQo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221205.jpg?itok=MdcwUUjv",
-   "credito": "Valter Campanato/Agência Brasil (arquivo)"
+   "src": "fotos/real.jpg",
+   "credito": "José Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "A alta começou logo na abertura: o índice ganhou cerca de 6 mil pontos nos primeiros minutos, depois de fechar a quarta em 166.684 pontos. O IBGE informou às 9h que o IPCA-15 subiu 0,22%, contra estimativas entre 0,27% e 0,41%, com alimentos em alta (tomate +38,9%) e transportes em queda; em 12 meses, a prévia está em 4,64%, acima do teto da meta, de 4,5%. No campo político, a coluna PlatôBr, do Estado de Minas, relatou que Trabuco, presidente do conselho do Bradesco, disse a pessoas próximas que aceitaria o convite de Lula, o que não foi confirmado oficialmente; o prazo para a resposta, segundo o SBT News, vai até segunda (30). O feriado de Ação de Graças, com Nova York fechada, reduz o volume de negócios, o que tende a ampliar as oscilações.",
+  "entenda": "Trabuco viajou a Brasília no fim da tarde desta quinta para uma reunião com Lula e a equipe econômica no Palácio da Alvorada. Até a véspera, a informação era de que ele teria até segunda-feira (30) para responder ao convite, feito em 23 de novembro. O mercado reagiu durante todo o dia à possibilidade, somada à prévia da inflação de novembro, de 0,22%, abaixo das projeções. Economistas ouvidos pela CNN Brasil veem no perfil técnico um sinal de previsibilidade fiscal, mas apontam possível conflito com o setor bancário; dentro do PT, o líder da bancada na Câmara, Pedro Uczai, disse, falando por si, que o banqueiro pode não ser a melhor opção.",
   "fatos": [
-   "Ibovespa: +3,87%, 173.139 pontos às 12h; Bradesco (+4,8%), Banco do Brasil (+4,2%) e B3 (+5,6%) entre os destaques no início do pregão",
-   "Dólar à vista: R$ 5,71 (-1,78%) por volta das 11h40, depois de fechar a quarta a R$ 5,82",
-   "IPCA-15 de novembro: 0,22% no mês e 4,64% em 12 meses; contas externas tiveram déficit de US$ 3,97 bilhões em outubro"
+   "Ibovespa: +6,07%, aos 176.799,84 pontos; Localiza (+17,2%) e Petrobras ON (+7,4%) lideraram as altas",
+   "Dólar à vista: R$ 5,74 (-1,25%); PTAX do Banco Central em R$ 5,7446",
+   "Posse prevista para 2027, no início do quarto mandato de Lula; até as 19h não havia confirmação oficial do Planalto"
   ],
   "fontes": [
    {
-    "n": "Enfoque",
-    "u": "https://enfoque.com.br/noticias/26-11-2026/giro-das-12h-ibovespa-dispara-quase-4-e-dolar-e-juros-ampliam-queda-com-otimismo-sobre-a-fazenda-o-ibovespa-dispara-387-aos-17313896-pontos-enquanto-o-dolar-e-os-juros-futuros-ampliam-as-quedas-da-abertura-em-meio-a-melhora-das-expectativas-sobre-a-conducao-da-politica-economica-no-quarto-mandato-de-lula-e-hellip?k=165521",
-    "d": "Bolsa ao meio-dia"
+    "n": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/trabuco-aceita-convite-de-lula-para-comandar-o-ministerio-da-fazenda",
+    "d": "Aceite do convite"
    },
    {
-    "n": "Seu Dinheiro",
-    "u": "https://www.seudinheiro.com/2026/bolsa-dolar/ibovespa-dispara-mais-de-3-e-dolar-recua-a-r-572-o-que-anima-o-mercado-hoje-davs/",
-    "d": "Dólar e projeções"
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/politica/trabuco-aceita-convite-e-sera-ministro-da-fazenda-de-lula",
+    "d": "Trabuco na Fazenda"
    },
    {
-    "n": "Times Brasil (CNBC)",
-    "u": "https://timesbrasil.com.br/brasil/ibovespa-dispara-expectativas-sobre-ministerio-da-fazenda-inflacao/",
-    "d": "Expectativa sobre a Fazenda"
+    "n": "Gazeta do Povo",
+    "u": "https://www.gazetadopovo.com.br/economia/luiz-carlos-trabuco-aceita-convite-de-lula-para-assumir-o-ministerio-da-fazenda/",
+    "d": "Reunião no Alvorada"
    },
    {
-    "n": "BPMoney",
-    "u": "https://bpmoney.com.br/economia/ibovespa-dispara-mais-de-2-com-bancos-e-petrobras-dolar-cai-a-r-577/",
-    "d": "Ações em destaque"
+    "n": "Money Times",
+    "u": "https://www.moneytimes.com.br/ibovespa-dispara-e-recupera-os-176-mil-pontos-com-encontro-entre-lula-e-trabuco-davs/",
+    "d": "Fechamento da bolsa"
    },
    {
-    "n": "Agência Brasil",
-    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
-    "d": "IPCA-15 de novembro"
+    "n": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trabuco-na-fazenda-traz-maior-credibilidade-ao-lula-4-apontam-economistas",
+    "d": "Avaliação de economistas"
    },
    {
-    "n": "Estado de Minas (PlatôBr)",
-    "u": "https://www.em.com.br/politica/platobr/2026/11/7544672-o-que-falta-para-trabuco-aceitar-o-convite-de-lula-para-a-fazenda.html",
-    "d": "Resposta de Trabuco"
+    "n": "InfoMoney",
+    "u": "https://www.infomoney.com.br/politica/trabuco-aceita-convite-de-lula-para-assumir-ministerio-da-fazenda-dizem-agencias/",
+    "d": "Relato das agências"
    }
   ]
  },
@@ -213,25 +213,39 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Resposta de Trabuco, nova jornada no STF e sucessão na Câmara",
+   "nota": "Trabuco na Fazenda, nova jornada no STF e sucessão na Câmara",
    "itens": [
     {
      "kicker": "Ministério da Fazenda",
      "quando": "Hoje",
-     "titulo": "Trabuco teria dito a pessoas próximas que aceita a Fazenda, segundo coluna; não há anúncio oficial",
-     "resumo": "A coluna PlatôBr, do Estado de Minas, relata que o presidente do conselho do Bradesco, de 75 anos, sinalizou a amigos que aceitaria comandar a economia no quarto mandato de Lula, mas ainda conversa com a família. Segundo o SBT News, o convite foi feito em 23 de novembro e a resposta é esperada até segunda (30); o governo não comentou.",
+     "titulo": "Trabuco aceita comandar a Fazenda a partir de 2027, segundo fontes do Planalto; PT tem vozes divergentes",
+     "resumo": "O aceite foi relatado no fim da tarde por Metrópoles, SBT News, CNN Brasil e Veja, depois de Trabuco ir a Brasília para reunião com Lula no Alvorada; o governo não confirmou oficialmente até a noite. A escolha divide opiniões dentro e fora do partido do presidente.",
+     "lados": [
+      {
+       "quem": "Quem apoia",
+       "txt": "Economistas ouvidos pela CNN Brasil dizem que o perfil técnico do banqueiro aumenta a previsibilidade e a credibilidade da política fiscal no próximo mandato, o que o mercado refletiu com a alta da bolsa."
+      },
+      {
+       "quem": "Quem questiona",
+       "txt": "O líder do PT na Câmara, Pedro Uczai, disse, em nome próprio, temer um novo ajuste fiscal como o de Joaquim Levy em 2015 e defende que a prioridade seja investimento, crescimento e queda dos juros; analistas também citam possível conflito com o setor bancário."
+      }
+     ],
      "fontes": [
       {
-       "n": "Estado de Minas (PlatôBr)",
-       "u": "https://www.em.com.br/politica/platobr/2026/11/7544672-o-que-falta-para-trabuco-aceitar-o-convite-de-lula-para-a-fazenda.html"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/trabuco-aceita-convite-de-lula-para-comandar-o-ministerio-da-fazenda"
       },
       {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/economia/lula-sondou-trabuco-para-o-ministerio-da-fazenda-banqueiro-ainda-avalia-proposta,89a63fa069d1d9e3170a91f473d17d9a9ndwaeyn.html"
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/lider-do-pt-diz-que-trabuco-pode-nao-ser-a-melhor-opcao-para-fazenda"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/politica/trabuco-fazenda-convite-lula"
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/luiz-carlos-trabuco-aceita-convite-de-lula-para-assumir-o-ministerio-da-fazenda/"
+      },
+      {
+       "n": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/trabuco-aceita-convite-e-sera-ministro-da-fazenda-de-lula"
       }
      ]
     },
@@ -327,14 +341,18 @@
     },
     {
      "kicker": "Bolsonaro",
-     "quando": "Ontem",
-     "titulo": "Bolsonaro segue na UTI, estável e em jejum, sem previsão de alta, diz boletim",
+     "quando": "Hoje",
+     "titulo": "Bolsonaro segue na UTI, estável e em jejum, sem previsão de alta, diz novo boletim",
      "resumo": "O boletim de quarta do Hospital DF Star, em Brasília, descreve o ex-presidente como clinicamente estável, em jejum oral, com antibióticos e fisioterapia. Ele está internado desde sexta (20) com suboclusão intestinal e pneumonia nos dois pulmões; os médicos descartaram cirurgia imediata e estimam de sete a dez dias de antibiótico na veia.",
      "foto": {
       "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
+      {
+       "n": "O Povo",
+       "u": "https://mais.opovo.com.br/jornal/farol/2026/11/26/bolsonaro-continua-estavel-na-uti-em-jejum-e-sem-previsao-de-alta-diz-boletim-medico.html"
+      },
       {
        "n": "InfoMoney (O Globo)",
        "u": "https://www.infomoney.com.br/politica/bolsonaro-segue-estavel-na-uti-e-sem-previsao-de-alta-diz-boletim-medico/"
@@ -355,8 +373,33 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Bolsa em forte alta, IPCA-15 e Black Friday",
+   "nota": "Bolsa sobe 6%, IPCA-15 e Black Friday",
    "itens": [
+    {
+     "kicker": "Mercado",
+     "quando": "Hoje",
+     "titulo": "Ibovespa tem a maior alta desde o 1º turno e fecha aos 176,8 mil pontos; dólar recua a R$ 5,74",
+     "resumo": "A bolsa subiu 6,07%, e nenhuma das ações do índice terminou o dia em queda; Localiza subiu 17,2%, e Petrobras ON, 7,4%. Analistas atribuem o movimento à expectativa sobre Trabuco na Fazenda e à inflação abaixo do previsto, em um pregão de menor volume por causa do feriado de Ação de Graças nos EUA.",
+     "destaque": false,
+     "fontes": [
+      {
+       "n": "Money Times",
+       "u": "https://www.moneytimes.com.br/ibovespa-dispara-e-recupera-os-176-mil-pontos-com-encontro-entre-lula-e-trabuco-davs/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/economia/dolar-cai-e-ibovespa-dispara-com-possibilidade-de-trabuco-na-fazenda/"
+      },
+      {
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/"
+      },
+      {
+       "n": "Piranot",
+       "u": "https://www.piranot.com.br/2026/11/26/noticias/economia/dolar-ptax-fecha-em-r-57446-nesta-quinta-feira-26-11-2026-veja-a/"
+      }
+     ]
+    },
     {
      "kicker": "Inflação",
      "quando": "Hoje",
@@ -441,26 +484,6 @@
        "u": "https://updatediario.beehiiv.com/p/as-principais-not-cias-de-26-de-novembro-de-2026"
       }
      ]
-    },
-    {
-     "kicker": "Orçamento",
-     "quando": "Ontem",
-     "titulo": "Governo libera R$ 3,43 bilhões do Orçamento e reduz contenção para R$ 12,63 bilhões",
-     "resumo": "Segundo o relatório do 5º bimestre, detalhado pela Agência Brasil, a contenção de despesas caiu de R$ 16,1 bilhões para R$ 12,63 bilhões, enquanto o déficit primário efetivo previsto para 2026 subiu de R$ 67,26 bilhões para R$ 76,98 bilhões. O alívio veio da lei sancionada na terça, que permite tirar da meta até R$ 10,5 bilhões gastos com a subvenção ao diesel.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-libera-r-343-bilhoes-do-orcamento-apos-ajuste-fiscal"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/economia/governo-reduz-contingenciamento-para-r-12-3-bi-em-2026"
-      },
-      {
-       "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/politica/governo-deve-anunciar-contencao-de-despesas-mesmo-apos-aprovacao-de-ajuste-fiscal/"
-      }
-     ]
     }
    ]
   },
@@ -468,29 +491,65 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Frente fria, alerta de temporais no Sudeste e feriados locais",
+   "nota": "Chuva no Rio, fraude bilionária em SP e frio no Sudeste",
    "itens": [
     {
-     "kicker": "Tempo",
+     "kicker": "Rio de Janeiro",
      "quando": "Hoje",
-     "titulo": "Frente fria e ciclone na costa de SC mantêm alertas de temporal no Centro-Sul; São Paulo tem máxima de 21 °C",
-     "resumo": "O Inmet mantém avisos de tempestade e alagamento no Sul, Sudeste e Centro-Oeste, com acumulados que podem passar de 50 mm em 24 horas em pontos isolados e alerta laranja para até 100 mm no Rio e em São Paulo. Curitiba deve ter máxima de 19 °C, enquanto o Norte e o Nordeste seguem com calor, perto de 40 °C em Teresina.",
+     "titulo": "Com alerta de temporais até sexta, Rio suspende aulas na rede estadual e em universidades",
+     "resumo": "O governo fluminense suspendeu as aulas da rede estadual a partir da tarde de quarta (25), e Faetec, Uerj e UFRJ também pararam; a Defesa Civil acionou sirenes em Teresópolis, Magé e Barra do Piraí e enviou alertas por celular. O risco de deslizamentos é maior na Serra e na Costa Verde, e o aviso de tempo instável vale até sexta (27).",
      "foto": {
-      "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
-      "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
+      "src": "https://imagens.ebc.com.br/mkkkb_6IiPWVr4nQg-p5WTqirag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tnrgo_abr_130220193111.jpg?itok=zxp2ihDE",
+      "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/com-alerta-de-chuvas-fortes-rio-suspende-aulas-na-rede-publica"
+      },
+      {
+       "n": "Paulínia News",
+       "u": "https://www.paulinianews.com.br/noticia/com-alerta-de-chuvas-fortes-rio-suspende-aulas-na-rede-publica"
+      }
+     ]
+    },
+    {
+     "kicker": "Investigação",
+     "quando": "Hoje",
+     "titulo": "Operação contra o Grupo Fictor bloqueia até R$ 4,3 bilhões de 233 investigados em São Paulo",
+     "resumo": "A Polícia Civil e o Ministério Público paulista cumpriram 12 mandados de busca em São Paulo e São Bernardo do Campo na operação Dinheiro Fictício. A suspeita é de que o grupo, que tentou comprar o Banco Master, captou mais de R$ 4 bilhões em 2024 e 2025 com promessa de retorno fixo sem lastro real; a empresa não havia se manifestado até a publicação das reportagens.",
+     "fontes": [
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/entenda-operacao-que-investiga-fraude-bilionaria-envolvendo-o-grupo-fictor/"
+      },
+      {
+       "n": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/brasil/operacao-contra-grupo-tentou-comprar-master-bloqueia-4-3-bi/"
+      },
+      {
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/economia/operacao-dinheiro-ficticio-grupo-fictor-bloqueio/"
+      }
+     ]
+    },
+    {
+     "kicker": "Tempo",
+     "quando": "Hoje",
+     "titulo": "Frente fria derruba temperaturas em São Paulo, com máxima perto de 20 °C, após quatro dias de temporais",
+     "resumo": "A capital paulista teve alagamentos, túnel fechado e córregos transbordando no início da semana; nesta quinta, a frente fria se afasta e as temperaturas ficam entre 18 °C e 22 °C, com garoa. O Inmet mantém avisos de tempestade em partes do Sul, Sudeste e Centro-Oeste, e a chuva forte deve voltar no fim de semana.",
+     "fontes": [
+      {
+       "n": "InfoMoney (Estadão Conteúdo)",
+       "u": "https://www.infomoney.com.br/brasil/frente-fria-derruba-temperaturas-em-sp-apos-sequencia-de-temporais"
+      },
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/noticias/brasil/cidades/apos-passagem-de-frente-fria-temperaturas-diminuem-em-sp-veja-quando,928dfef03d9ab6d0e522ad2af139a07016goobu0.html"
+      },
+      {
        "n": "Metrópoles",
        "u": "https://www.metropoles.com/brasil/frente-fria-provoca-temporais-e-queda-de-temperatura-no-centro-sul-do-pais"
-      },
-      {
-       "n": "A Cidade ON",
-       "u": "https://www.acidadeon.com/campinas/cotidiano/frente-fria-derruba-temperaturas-no-interior-de-sp-e-inmet-emite-alerta-de-chuvas-intensas-nesta-quinta-feira/"
-      },
-      {
-       "n": "Agenda do Poder",
-       "u": "https://agendadopoder.com.br/rio-de-janeiro-entra-em-alerta-para-temporais-com-avanco-de-frente-fria-nesta-quinta-feira/"
       }
      ]
     },
@@ -532,14 +591,18 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Cúpula da UE, Ormuz, Gaza e Ucrânia",
+   "nota": "Impasse na UE, Gaza, Ormuz e Ação de Graças",
    "itens": [
     {
      "kicker": "União Europeia",
      "quando": "Hoje",
-     "titulo": "Cúpula da UE em Bruxelas expõe divisão sobre orçamento até 2034; Eslováquia resiste a novo empréstimo à Ucrânia",
-     "resumo": "O orçamento 2028–2034 exige unanimidade, e os países ‘frugais’ cobram cortes, enquanto a proposta de António Costa reduz em 21% o programa de ação externa e mexe nos fundos de coesão. A Eslováquia resiste ao empréstimo de € 45 bilhões a Kiev; a sucessão de Christine Lagarde no BCE e o impacto no acordo com o Mercosul também estão na mesa.",
+     "titulo": "Cúpula da UE termina o dia sem acordo sobre o orçamento até 2034; Hungria vê chance ‘praticamente nula’",
+     "resumo": "Os líderes seguem divididos entre os países que querem gastar menos, como Alemanha e Países Baixos, e a França, que pede mais para a agricultura; a proposta mais recente corta mais de € 200 bilhões dos € 2 trilhões iniciais. O chanceler Friedrich Merz vincula o acordo ao empréstimo de € 45 bilhões à Ucrânia, rejeitado por República Tcheca, Hungria e Eslováquia, e o bloco agora mira dezembro.",
      "fontes": [
+      {
+       "n": "O Povo (AFP)",
+       "u": "https://opovo.com.br/noticias/mundo/2026/11/26/ue-segue-sem-um-acordo-sobre-seu-orcamento.html"
+      },
       {
        "n": "Terra (RFI)",
        "u": "https://www.terra.com.br/noticias/mundo/europa/orcamento-e-guerra-na-ucrania-dividem-lideres-da-ue-em-cupula-extraordinaria,d6084c994c64eddb652decba069f8d9dqq1p34dm.html"
@@ -581,9 +644,13 @@
     {
      "kicker": "Gaza",
      "quando": "Hoje",
-     "titulo": "Ataques israelenses matam ao menos oito em Gaza; Israel diz ter matado dirigente do Hamas",
-     "resumo": "Médicos dos hospitais Shifa e Al-Aqsa relataram mortes em Deir al-Balah e na Cidade de Gaza durante a madrugada. Netanyahu e o ministro Israel Katz afirmaram que um dos alvos foi Khaled Abu Nada, responsável por assuntos econômicos e educacionais do Hamas; os ataques seguem quase diários mais de um ano após o cessar-fogo.",
+     "titulo": "Ministro de Israel ameaça deslocar 1 milhão de palestinos se o Hamas não entregar as armas; ataques matam oito",
+     "resumo": "Israel Katz escreveu no X que o Hamas deve se desarmar voluntariamente ou será desarmado pelo Exército, que intensificou ataques a dirigentes do grupo apesar do cessar-fogo. O Hamas aceitou em julho entregar armas a um comitê palestino apoiado pelo Conselho de Paz de Trump, mas Netanyahu exige desarmamento verificável antes de retirar tropas, e o processo está travado.",
      "fontes": [
+      {
+       "n": "O Tempo (AFP)",
+       "u": "https://www.otempo.com.br/mundo/2026/11/26/ministro-da-defesa-de-israel-ameaca-deslocar-1-milhao-de-palestinos-se-hamas-nao-entregar-as-armas"
+      },
       {
        "n": "AP (KSAT)",
        "u": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/"
@@ -591,6 +658,26 @@
       {
        "n": "Reuters (Internazionale)",
        "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/israel-kills-nine-in-gaza-including-hamas-appointed-deputy-education-minister-officials-say"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Hoje",
+     "titulo": "Na mensagem de Ação de Graças, Trump ataca imigrantes, adversários e responsáveis pelos dados do PIB",
+     "resumo": "Em publicação na Truth Social, o presidente acusou funcionários que divulgam números oficiais da economia de mentir e defendeu a expulsão imediata de imigrantes que dependem de ajuda do governo. Também afirmou, sem apresentar dados, que adversários querem levar o país à extrema esquerda.",
+     "fontes": [
+      {
+       "n": "Reuters (Internazionale)",
+       "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/trump-uses-thanksgiving-message-to-lash-out-at-political-foes-immigrants-federal-government"
+      },
+      {
+       "n": "Demócrata",
+       "u": "https://www.democrata.es/pt/internacional/trump-ataca-imigrantes-e-opositores-em-sua-mensagem-de-acao-de-gracas/"
+      },
+      {
+       "n": "Juruá 24 Horas",
+       "u": "https://jurua24horas.com/noticia/em-post-de-acao-de-gracas-trump-ataca-adversarios-imigrantes-e-governo"
       }
      ]
     },
@@ -616,41 +703,45 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Palmeiras em Montevidéu, São Paulo x Remo e Liga Europa",
+   "nota": "Palmeiras define time, São Paulo x Remo e reta final do Brasileirão",
    "itens": [
     {
      "kicker": "Libertadores",
      "quando": "Hoje",
-     "titulo": "Palmeiras faz primeiro treino em Montevidéu nesta quinta; Abel tem dois dias para definir time da final",
-     "resumo": "A delegação desembarcou no Uruguai na noite de quarta (25) e treina às 16h, horário de Brasília, de olho no tetracampeonato da Libertadores. A decisão contra o Estudiantes é no sábado (28), às 17h, no Estádio Centenário, 58 anos depois da final de 1968 entre os dois clubes.",
+     "titulo": "Vitor Roque deve ganhar vaga de Andreas no Palmeiras para a final da Libertadores, diz ESPN",
+     "resumo": "Depois do primeiro treino em Montevidéu, a provável escalação tem três zagueiros e Piquerez, que se recupera de lesão, disputando a lateral com Arthur. A decisão contra o Estudiantes é no sábado (28), às 17h, no Centenário, 58 anos depois da final de 1968 entre os dois clubes.",
      "fontes": [
+      {
+       "n": "ESPN",
+       "u": "https://www.espn.com.br/futebol/palmeiras/artigo/_/id/17565531/andreas-banco-mudanca-provavel-palmeiras-estudiantes-final-libertadores"
+      },
       {
        "n": "Gazeta Esportiva",
        "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-desembarca-em-montevideu-para-final-da-libertadores/"
       },
       {
-       "n": "Nosso Palestra",
-       "u": "https://nossopalestra.com.br/noticias/libertadores-da-america/palmeiras-e-estudiantes-voltam-a-decidir-a-libertadores-em-montevideu-apos-58-anos-relembre-final-de-1968"
-      },
-      {
-       "n": "365Scores",
-       "u": "https://www.365scores.com/pt-br/news/magazine/estudiantes-relacionados-final-libertadores/"
+       "n": "Portal do Palestra",
+       "u": "https://portaldopalestra.com.br/escalacao-palmeiras-estudiantes-final-libertadores-vitor-roque-titular-andreas-banco/"
       }
      ]
     },
     {
      "kicker": "Brasileirão",
      "quando": "Hoje",
-     "titulo": "São Paulo recebe o Remo às 20h pela 37ª rodada do Brasileirão",
-     "resumo": "O jogo é um dos primeiros da penúltima rodada, que mexe na luta contra o rebaixamento e na briga por vagas na Libertadores. A quinta tem ainda 18 jogos da Liga Europa, entre eles Olympiakos x Milan e Viktoria Plzen x Benfica às 14h45 e Juventus x Omonia às 17h.",
+     "titulo": "São Paulo recebe o já rebaixado Remo às 20h, na despedida do Morumbis em 2026",
+     "resumo": "O jogo abre a 37ª rodada, com Flamengo já campeão e Chapecoense e Remo rebaixados; Internacional (38 pontos) e Mirassol (41) estão na zona, com Grêmio e Corinthians também ameaçados. A última rodada, com dez jogos simultâneos, é na quarta (2), às 21h30.",
      "fontes": [
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/futebol-nacional/2026/11/26/classificacao-do-brasileirao-apos-a-36-rodada-veja-a-tabela-situacao-dos-times-e-proximos-jogos"
+      },
+      {
+       "n": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-remo-brasileirao-26-11-2026/"
+      },
       {
        "n": "Lance!",
        "u": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-quinta-feira-26-11-2026.html"
-      },
-      {
-       "n": "Bolavip",
-       "u": "https://br.bolavip.com/futebol/jogos-de-hoje-26-11-2026-futebol-na-tv"
       }
      ]
     },
@@ -675,6 +766,22 @@
       {
        "n": "O Tempo (Lance)",
        "u": "https://www.otempo.com.br/sports/futebol-nacional/2026/11/25/simulador-veja-cenarios-da-luta-contra-o-rebaixamento-apos-a-36-rodada-do-brasileirao"
+      }
+     ]
+    },
+    {
+     "kicker": "Seleção",
+     "quando": "Ontem",
+     "titulo": "Ancelotti diz que geração eliminada na Copa não aproveitou o talento e se diz confiante no futuro",
+     "resumo": "Na abertura de um seminário da CBF em São Paulo, o técnico afirmou que os jogadores eliminados pela Noruega nas oitavas eram de alto nível, mas não converteram isso em título. Ele disse ver muito talento entre os jovens brasileiros.",
+     "fontes": [
+      {
+       "n": "Diario de Pernambuco (Estadão Conteúdo)",
+       "u": "https://www.diariodepernambuco.com.br/esportes-dp/selecao-brasileira/2026/11/11729921-ancelotti-diz-que-selecao-brasileira-nao-aproveitou-talento-para-ganhar-a-copa-de-2026.html"
+      },
+      {
+       "n": "O Tempo",
+       "u": "https://www.otempo.com.br/sports/selecao-brasileira/2026/11/25/zico-cobra-evolucao-de-ancelotti-na-selecao-e-pede-mais-espaco-a-quem-joga-no-brasil"
       }
      ]
     },
@@ -892,7 +999,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Estreias, homenagem a Patrick Stewart e mortes na música",
+   "nota": "Estreias, festival da Rádio Nacional e mortes na música",
    "itens": [
     {
      "kicker": "Cinema",
@@ -911,10 +1018,30 @@
      ]
     },
     {
+     "kicker": "Música",
+     "quando": "Hoje",
+     "titulo": "Festival de Música Rádio Nacional anuncia final em 12 de dezembro, com show de Teresa Cristina",
+     "resumo": "Dez finalistas, escolhidos entre 1.512 canções inscritas, se apresentam na Caixa Cultural Brasília na 17ª edição, que celebra os 90 anos da emissora. A votação popular fica aberta até domingo (29), e a final terá transmissão ao vivo pela Rádio Nacional.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/B_0gmn72yapg48-8pOzw5J4DyFc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/festival_de_musica_da_radio_nacional_fm_mcajr_abr_2811214168.jpg?itok=oaG4nNxH",
+      "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/festival-de-musica-radio-nacional-celebra-90-anos-da-emissora-com-show"
+      },
+      {
+       "n": "BR230",
+       "u": "https://www.br230.com.br/festival-de-musica-radio-nacional-celebra-90-anos-da-emissora-com-show/"
+      }
+     ]
+    },
+    {
      "kicker": "Cinema",
      "quando": "Ontem",
      "titulo": "Marvel prepara homenagem a Patrick Stewart em ‘Vingadores: Doutor Destino’",
-     "resumo": "O filme, que estreia em dezembro, traz a última atuação de Stewart como Professor Xavier; Kevin Feige disse que o estúdio estuda como honrar o ator. O legista de Los Angeles confirmou em 19 de novembro que a morte, aos 86 anos, teve como causas Alzheimer, demência por corpos de Lewy e parada cardiorrespiratória.",
+     "resumo": "O filme, que estreia no Brasil em 16 de dezembro, traz a última atuação de Stewart como Professor Xavier; Kevin Feige disse que o estúdio estuda como honrar o ator. O legista de Los Angeles confirmou em 19 de novembro que a morte, aos 86 anos, teve como causas Alzheimer, demência por corpos de Lewy e parada cardiorrespiratória.",
      "fontes": [
       {
        "n": "Metrópoles",
@@ -939,26 +1066,6 @@
       {
        "n": "89 A Rádio Rock",
        "u": "https://radiorock.com.br/noticias/andy-taylor-guitarrista-duran-duran-morre-aos-65-anos"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Morre aos 95 anos Morgadinho, nome histórico da música cabo-verdiana",
-     "resumo": "O cantor, que marcou gerações em Cabo Verde e na diáspora na França, foi fundador do conjunto Voz de Cabo Verde, segundo a imprensa portuguesa e cabo-verdiana.",
-     "fontes": [
-      {
-       "n": "Renascença",
-       "u": "https://rr.pt/noticia/vida/2026/11/25/morreu-morgadinho-o-cantor-que-marcou-geracoes-cabo-verdianas-aos-95-anos/495042/"
-      },
-      {
-       "n": "Diário de Notícias",
-       "u": "https://www.dn.pt/cultura/morre-aos-95-anos-morgadinho-figura-histrica-da-msica-cabo-verdiana"
-      },
-      {
-       "n": "Mindel Insite",
-       "u": "https://mindelinsite.com/cultura/morgadinho-nos-criol-na-franca-parte-aos-95-anos-mas-deixa-a-sua-musica-para-a-eternidade/"
       }
      ]
     },
