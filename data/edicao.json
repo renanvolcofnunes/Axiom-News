@@ -1,67 +1,67 @@
 {
- "data": "Quarta-feira, 25 de novembro de 2026",
- "edicao": "Edição da noite",
- "atualizado": "25/11/2026 · 19h03 (Brasília)",
- "proxima": "Próxima atualização: amanhã, 7h",
+ "data": "Quinta-feira, 26 de novembro de 2026",
+ "edicao": "Edição da manhã",
+ "atualizado": "26/11/2026 · 07h20 (Brasília)",
+ "proxima": "Próxima atualização: 12h30",
  "mercado_hora": "Cotações de 18h30",
- "fontes": 70,
+ "fontes": 66,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento",
-   "valor": "166.685 pts",
+   "nome": "Ibovespa · fechamento 25/11",
+   "valor": "166.684 pts",
    "var": "+1,58%",
    "dir": "up"
   },
   {
-   "nome": "Dólar · fechamento",
+   "nome": "Dólar · fechamento 25/11",
    "valor": "R$ 5,82",
    "var": "-1,59%",
    "dir": "down"
   },
   {
-   "nome": "Embraer ON · fechamento",
-   "valor": "R$ 103,20",
-   "var": "-4,00%",
-   "dir": "down"
-  },
-  {
-   "nome": "Nasdaq · fechamento",
+   "nome": "Nasdaq · fechamento 25/11",
    "valor": "23.586 pts",
    "var": "-0,62%",
    "dir": "down"
   },
   {
-   "nome": "Petróleo Brent (jan) · 18h",
+   "nome": "Petróleo Brent (jan) · 18h 25/11",
    "valor": "US$ 94,61",
    "var": "+3,51%",
    "dir": "up"
+  },
+  {
+   "nome": "IPCA 2026 · Focus",
+   "valor": "5,15%",
+   "var": "projeção",
+   "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Qua 25/11 · 20h",
-   "txt": "Atlético-MG x Corinthians, na Arena MRV, pela 36ª rodada do Brasileirão",
-   "cat": "esporte"
-  },
-  {
    "hora": "Qui 26/11 · 9h",
-   "txt": "IBGE divulga o IPCA-15 de novembro; bolsas de Nova York fecham pelo Dia de Ação de Graças",
+   "txt": "IBGE divulga o IPCA-15 de novembro; bolsas de Nova York ficam fechadas pelo Dia de Ação de Graças",
    "cat": "economia"
   },
   {
    "hora": "Qui 26/11",
-   "txt": "Líderes da UE seguem em Bruxelas na negociação do orçamento e do empréstimo de € 45 bilhões à Ucrânia",
+   "txt": "Cúpula extraordinária da UE em Bruxelas discute orçamento 2028–2034, empréstimo à Ucrânia e sucessão no BCE",
    "cat": "mundo"
-  },
-  {
-   "hora": "Sex 27/11",
-   "txt": "Abre o prazo de comentários à proposta dos EUA de tarifas sobre aviões e açúcar do Brasil; sai a PNAD de desemprego",
-   "cat": "economia"
   },
   {
    "hora": "Sáb 28/11 · 17h",
    "txt": "Estudiantes x Palmeiras, final da Libertadores no Centenário, em Montevidéu",
    "cat": "esporte"
+  },
+  {
+   "hora": "Dom 29/11 · 18h30",
+   "txt": "Corinthians x Grêmio, na Neo Química Arena, pela 37ª rodada do Brasileirão",
+   "cat": "esporte"
+  },
+  {
+   "hora": "Seg 30/11",
+   "txt": "Prazo para Luiz Carlos Trabuco responder ao convite para a Fazenda, segundo o SBT News",
+   "cat": "politica"
   },
   {
    "hora": "4 a 15/12",
@@ -162,45 +162,44 @@
   }
  ],
  "manchete": {
-  "kicker": "Comércio exterior",
-  "titulo": "Governo diz que ‘não cederá a ameaças’ após EUA proporem tarifa sobre aviões e açúcar; Embraer fecha em queda de 4%",
-  "resumo": "Em nota da Secom, o Planalto disse ter recebido com indignação a proposta do representante comercial americano, Jamieson Greer, e não descartou ir à OMC ou aplicar a Lei de Reciprocidade se as tarifas saírem do papel. Na bolsa, a Embraer terminou o dia em baixa de 4%, enquanto o Ibovespa subiu 1,58% e o dólar caiu a R$ 5,81.",
-  "entenda": "A proposta, divulgada nesta quarta, faz parte da investigação aberta pelos EUA em julho com base na Seção 301 da lei de comércio americana e prevê tarifa adicional de 10% sobre aviões prontos fabricados no Brasil, que até agora estavam isentos, e uma cobrança nova sobre o açúcar exportado acima da cota. Greer afirma que o Brasil não avançou o suficiente em mais de um ano de conversas, mas diz que Washington segue aberto a negociar. Na nota, o governo brasileiro acusa os EUA de pressionar por mudanças em regras sobre o Pix, o comércio digital e acordos comerciais e lembra que Lula e Donald Trump conversaram por telefone em agosto, seguidos de reuniões de Mauro Vieira e Márcio Elias Rosa com Greer; segundo o Planalto, os termos de referência prometidos pelos americanos ainda não foram enviados. A medida ainda é uma proposta: haverá consulta pública e audiência em janeiro de 2027. No mercado, a queda da Embraer foi atribuída também ao recuo do dólar, que reduz a receita em reais da exportadora.",
+  "kicker": "Ministério da Fazenda",
+  "titulo": "Lula convida Luiz Carlos Trabuco, do Bradesco, para a Fazenda e espera resposta até segunda, diz coluna",
+  "resumo": "Segundo o SBT News, o convite foi feito na segunda (23), em encontro fora da agenda no Palácio da Alvorada, e o presidente do conselho do Bradesco deve responder até o dia 30. A possibilidade foi citada por analistas como um dos motivos da alta de 1,58% do Ibovespa e da queda do dólar na quarta.",
+  "foto": {
+   "src": "fotos/real.jpg",
+   "credito": "José Cruz/Agência Brasil (arquivo)"
+  },
+  "entenda": "Lula começa o quarto mandato em janeiro e ainda não anunciou quem comandará a economia; o atual ministro da Fazenda é Dario Durigan, que conduz a preparação de uma nova PEC para conter o crescimento das despesas obrigatórias a partir de 2027. Trabuco, que integra o Conselhão e é próximo de Lula desde o primeiro mandato, recusou o mesmo cargo em 2014, quando foi sondado pelo governo Dilma Rousseff e alegou compromissos com a sucessão no Bradesco. De acordo com a coluna, ele quer conversar com a família e avaliar o futuro no banco antes de decidir. O vice-presidente Geraldo Alckmin afirmou que Lula não tem pressa para anunciar o nome. O mercado acompanha a escolha junto com a agenda fiscal: o pacote sancionado nesta semana prevê economia de até R$ 56 bilhões em 2027, e a nova PEC ainda depende do aval do presidente e do Congresso.",
   "fatos": [
-   "Comentários por escrito serão aceitos de 27/11 a 30/12; a audiência pública está marcada para 14/01/2027",
-   "Embraer ON fechou a R$ 103,20 (-4,00%), a maior queda do Ibovespa, que subiu 1,58%, a 166.684 pontos",
-   "Governo diz que seguirá negociando, mas não descarta ação na OMC nem medidas de reciprocidade"
+   "Convite teria sido feito em 23/11, no Alvorada, fora da agenda oficial; resposta esperada até 30/11",
+   "Ibovespa subiu 1,58%, a 166.684 pontos, e o dólar caiu 1,59%, a R$ 5,82, na quarta (25)",
+   "Em 2014, Trabuco recusou a Fazenda no governo Dilma, que nomeou Joaquim Levy"
   ],
   "fontes": [
    {
-    "n": "Times Brasil (CNBC)",
-    "u": "https://timesbrasil.com.br/brasil/brasil-rejeita-proposta-de-tarifas-dos-eua-sobre-avioes-e-acucar-e-diz-que-nao-cedera-a-ameacas/",
-    "d": "Nota do governo"
+    "n": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/colunas/coluna-do-tulio/lula-convida-trabuco-para-fazenda-e-quer-resposta-ate-dia-30",
+    "d": "Convite e prazo"
    },
    {
-    "n": "Gazeta Brasil",
-    "u": "https://gazetabrasil.com.br/politica/2026/11/25/a-reacao-do-governo-brasileiro-a-proposta-dos-eua-de-taxar-avioes-e-acucar/",
-    "d": "Reação no Itamaraty"
+    "n": "Exame",
+    "u": "https://exame.com/invest/mercados/ibovespa-hoje-26-11-2026/",
+    "d": "Efeito no mercado"
    },
    {
-    "n": "Money Times",
-    "u": "https://www.moneytimes.com.br/ibovespa-fecha-em-alta-e-recupera-os-166-mil-pontos-com-pec-fiscal-e-expectativas-sobre-equipe-economica-de-lula-davs/",
-    "d": "Embraer no fechamento"
+    "n": "ND Mais",
+    "u": "https://ndmais.com.br/politica/lula-sondou-executivo-bradesco-assumir-fazenda/",
+    "d": "Sondagem ao Bradesco"
    },
    {
-    "n": "Metrópoles",
-    "u": "https://www.metropoles.com/brasil/acoes-da-embraer-despencam-apos-proposta-de-novas-tarifas-dos-eua-ao-brasil",
-    "d": "Ações da Embraer"
+    "n": "Mais Retorno",
+    "u": "https://maisretorno.com/portal/alckmin-diz-que-lula-nao-esta-com-pressa-de-anunciar-ministro-da-fazenda",
+    "d": "Fala de Alckmin"
    },
    {
-    "n": "O Povo (Estadão Conteúdo)",
-    "u": "https://www.opovo.com.br/noticias/economia/2026/11/25/eua-propoem-elevar-tarifas-sobre-acucar-do-brasil-e-taxa-adicional-de-10-sobre-aeronaves.html",
-    "d": "Proposta de tarifas"
-   },
-   {
-    "n": "Radioagência Nacional",
-    "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-11/eua-miram-acucar-e-aeronaves-em-novas-sancoes-contra-o-brasil",
-    "d": "Açúcar e aeronaves"
+    "n": "BPMoney",
+    "u": "https://bpmoney.com.br/politica/lula-autoriza-nova-pec-conter-gastos-saude-educacao-emendas/",
+    "d": "PEC das despesas"
    }
   ]
  },
@@ -209,65 +208,107 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "PEC fiscal, Trabuco na Fazenda e eleição no Rio no STF",
+   "nota": "Sucessão na Câmara, nova PEC fiscal e Bolsonaro na UTI",
    "itens": [
     {
-     "kicker": "Contas públicas",
-     "quando": "Hoje",
-     "titulo": "Lula discute PEC das despesas obrigatórias com Alckmin, ministros e Galípolo; Planejamento diz que não há texto pronto",
-     "resumo": "A reunião no Alvorada, na tarde desta quarta, tratou de uma PEC com impacto estimado em R$ 20 bilhões, que se somaria aos até R$ 56 bilhões do ajuste sancionado na terça. O ministro Bruno Moretti afirmou que o governo não tem uma ‘PEC pronta’ e que a discussão sobre metas fiscais não mexe em direitos sociais; Davi Alcolumbre disse que a votação pode ocorrer antes do recesso de 17 de dezembro, se houver acordo.",
+     "kicker": "Câmara",
+     "quando": "Ontem",
+     "titulo": "Líder do PL diz que partido não apoiará reeleição de Hugo Motta à presidência da Câmara",
+     "resumo": "O deputado Lucas Pavanato (PL-SP) afirmou em entrevista ao Metrópoles que o partido não fará bloco com Motta (Republicanos-PB), a quem acusa de descumprir acordos com a direita. O PL ainda não definiu um candidato próprio; Pavanato defende Nikolas Ferreira (PL-MG), e a ala mais pragmática da sigla teme isolamento na Casa.",
      "lados": [
       {
-       "quem": "Equipe econômica",
-       "txt": "Vê a PEC como necessária para 2027 e diz que ela muda o ritmo de expansão dos gastos, sem cortar o orçamento atual; segundo o SBT News, os pisos de saúde e educação não seriam alterados."
+       "quem": "Lucas Pavanato (PL)",
+       "txt": "Diz que Motta não cumpriu compromissos com a direita e que o PL deve lançar nome próprio, como Nikolas Ferreira."
       },
       {
-       "quem": "Deputados da base",
-       "txt": "Afirmam não ter sido consultados e temem que os pisos de saúde e educação passem a seguir as regras do arcabouço; a ala política do governo teme novo desgaste após o primeiro pacote."
+       "quem": "Ala pragmática do PL",
+       "txt": "Segundo relatos da imprensa, teme que ficar fora do bloco de Motta reduza o espaço do partido na Mesa e nas comissões."
       }
      ],
      "fontes": [
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-discute-pec-fiscal-com-alckmin-e-tres-ministros"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ibovespa-fecha-em-alta-e-recupera-os-166-mil-pontos-com-pec-fiscal-e-expectativas-sobre-equipe-economica-de-lula-davs/"
-      },
-      {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/colunas/matheus-leitao/lula-discute-pec-do-ajuste-fiscal-com-equipe-economica-nesta-quarta"
+       "u": "https://www.metropoles.com/brasil/pavanato-diz-que-motta-traiu-direita-e-nao-tera-o-apoio-do-pl-a-reeleicao"
       },
       {
-       "n": "A Crítica",
-       "u": "https://acritica.net/noticias/nova-pec-fiscal-preocupa-aliados-de-lula-e-pode-ampliar-divisao-na-base-governista/"
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/o-pl-nao-vai-apoiar-o-hugo-motta-diz-pavanato/"
+      },
+      {
+       "n": "Juruá 24 Horas",
+       "u": "https://jurua24horas.com/noticia/sem-apoio-a-hugo-ala-pragmatica-do-pl-teme-risco-de-isolamento-na-camara"
       }
      ]
     },
     {
-     "kicker": "Ministério da Fazenda",
-     "quando": "Hoje",
-     "titulo": "Lula recebe Luiz Carlos Trabuco, do Bradesco, fora da agenda; banqueiro passa a ser cotado para a Fazenda",
-     "resumo": "O encontro no Alvorada, na segunda (23), foi revelado pelo Metrópoles e confirmado por O Globo; segundo aliados do presidente, o presidente do conselho do Bradesco é o nome preferido para comandar a economia no novo mandato. O atual ministro, Dario Durigan, também é cotado para seguir no cargo, e o governo não comentou oficialmente; analistas atribuíram parte da alta da bolsa nesta quarta à notícia.",
+     "kicker": "Contas públicas",
+     "quando": "Ontem",
+     "titulo": "Nova PEC para conter despesas obrigatórias pode cortar R$ 20 bilhões em 2027, segundo relatos",
+     "resumo": "A equipe econômica, autorizada por Lula, estuda mudar regras de gastos com saúde, educação e emendas e avalia incluir repasses ao Fundeb e ao Fundo Constitucional do DF. Integrantes do governo descartam enviar o texto ainda em 2026, e a ala política teme desgaste com parlamentares de esquerda; a PEC precisa de 308 deputados e 49 senadores.",
+     "lados": [
+      {
+       "quem": "Equipe econômica",
+       "txt": "Diz que a medida é necessária para continuar o reequilíbrio fiscal em 2027, após o pacote sancionado nesta semana."
+      },
+      {
+       "quem": "Ala política do governo",
+       "txt": "Teme desgaste com a base de esquerda e com movimentos sociais e diverge sobre o tamanho e o prazo do ajuste."
+      }
+     ],
+     "fontes": [
+      {
+       "n": "O Antagonista",
+       "u": "https://oantagonista.com.br/economia/lula-prepara-nova-tesourada-de-r-20-bilhoes/"
+      },
+      {
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/politica/lula-autoriza-nova-pec-conter-gastos-saude-educacao-emendas/"
+      },
+      {
+       "n": "Brasil 247",
+       "u": "https://www.brasil247.com/economia/apos-aprovacao-do-pacote-fiscal-equipe-economica-vai-apresentar-a-lula-pec-para-conter-despesas-a-partir-de-2027/"
+      }
+     ]
+    },
+    {
+     "kicker": "Bolsonaro",
+     "quando": "Ontem",
+     "titulo": "Bolsonaro segue na UTI, estável e em jejum, sem previsão de alta, diz boletim",
+     "resumo": "O boletim de quarta do Hospital DF Star, em Brasília, descreve o ex-presidente como clinicamente estável, em jejum oral, com antibióticos e fisioterapia. Ele está internado desde sexta (20) com suboclusão intestinal e pneumonia nos dois pulmões; os médicos descartaram cirurgia imediata e estimam de sete a dez dias de antibiótico na veia.",
+     "foto": {
+      "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
+      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
+     },
      "fontes": [
       {
        "n": "InfoMoney (O Globo)",
-       "u": "https://www.infomoney.com.br/politica/lula-se-reuniu-com-trabuco-fora-da-agenda-no-alvorada/"
+       "u": "https://www.infomoney.com.br/politica/bolsonaro-segue-estavel-na-uti-e-sem-previsao-de-alta-diz-boletim-medico/"
       },
       {
-       "n": "Band",
-       "u": "https://www.band.com.br/politica/luiz-carlos-trabuco-do-bradesco-e-cotado-para-o-ministerio-da-fazenda"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/politica/bolsonaro-segue-na-uti-aponta-novo-boletim-medico/"
       },
       {
-       "n": "Tribuna do Norte",
-       "u": "https://tribunadonorte.com.br/politica/luiz-carlos-trabuco-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda-no-governo-lula/"
+       "n": "BPMoney",
+       "u": "https://bpmoney.com.br/politica/bolsonaro-segue-estavel-uti-sem-previsao-alta-boletim-medico/"
+      }
+     ]
+    },
+    {
+     "kicker": "Senado",
+     "quando": "Ontem",
+     "titulo": "CCJ do Senado aprova PEC que muda o papel da União no custeio da segurança do DF",
+     "resumo": "A proposta, de Izalci Lucas (PL-DF) e relatada por Rogério Carvalho (PT-SE), trata dos recursos do Fundo Constitucional do DF para as polícias Civil, Penal e Militar e os Bombeiros. O texto ainda precisa passar pelos plenários do Senado e da Câmara.",
+     "fontes": [
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quinta-feira-26-de-novembro-de-2026/"
       }
      ]
     },
     {
      "kicker": "Eleição no Rio",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "STF marca para 4 a 15 de dezembro o julgamento do pedido de segundo turno para governador do Rio",
      "resumo": "O relator, Cristiano Zanin, liberou para o plenário virtual a ação do PSD, de Eduardo Paes, contra o resultado que deu a vitória a Douglas Ruas (PL) no primeiro turno. A disputa nasceu da decisão do TSE que reconheceu a inelegibilidade de Anthony Garotinho (Republicanos) e anulou seus votos, o que levou Ruas a superar a maioria dos votos válidos.",
      "lados": [
@@ -294,64 +335,6 @@
        "u": "https://revistaforum.com.br/revista-forum/stf-marca-julgamento-que-pode-levar-eleicao-no-rio-de-janeiro-ao-segundo-turno"
       }
      ]
-    },
-    {
-     "kicker": "Bolsonaro",
-     "quando": "Hoje",
-     "titulo": "Bolsonaro segue na UTI, estável e em jejum, sem previsão de alta, diz boletim",
-     "resumo": "O boletim desta quarta, assinado por cinco médicos do Hospital DF Star, em Brasília, descreve quadro clinicamente estável, com jejum oral, fisioterapia e antibióticos. O ex-presidente está internado desde sexta (20) com suboclusão intestinal e broncopneumonia; na segunda, a equipe descartou por ora a cirurgia e optou pelo tratamento clínico.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "O Povo",
-       "u": "https://www.opovo.com.br/noticias/politica/2026/11/25/bolsonaro-continua-na-uti-estavel-e-sem-previsao-de-alta.html"
-      },
-      {
-       "n": "Ric",
-       "u": "https://ric.com.br/politica/bolsonaro-segue-na-uti-e-sem-previsao-de-alta-diz-novo-boletim/"
-      },
-      {
-       "n": "Revista Fórum",
-       "u": "https://revistaforum.com.br/politica/bolsonaro-uti-jejum-sem-alta/"
-      }
-     ]
-    },
-    {
-     "kicker": "Argentina",
-     "quando": "Ontem",
-     "titulo": "Lula decide não convidar Milei para a posse e retira em definitivo o embaixador em Buenos Aires",
-     "resumo": "A decisão foi tomada depois que o chanceler argentino, Pablo Quirno, questionou em entrevista a legitimidade da eleição presidencial brasileira, sem apresentar provas. O embaixador Julio Bitelli, chamado para consultas em julho, deixa o posto; segundo o Estado de Minas, não se trata de rompimento de relações, e os dois presidentes devem se cruzar na cúpula do Mercosul, em Montevidéu, na próxima semana.",
-     "lados": [
-      {
-       "quem": "Governo brasileiro",
-       "txt": "Fontes oficiais consideram que a declaração do chanceler ultrapassou uma linha vermelha e classificam a resposta como inédita."
-      },
-      {
-       "quem": "Governo argentino",
-       "txt": "Quirno pôs em dúvida o resultado da eleição brasileira; até a manhã desta quarta, não havia reação formal de Buenos Aires às medidas."
-      }
-     ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/WFQgyj2UfzbL-UQ8nfU54Oe-VvE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/19/decreto-escala-5x2-mc_abr_19112026-9.jpg?itok=nzsH5AVl",
-      "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/politica/2026/11/7543376-retaliacao-lula-decide-nao-convidar-milei-para-a-posse.html"
-      },
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/24/milei-fica-fora-posse-lula-brasil-retira-embaixador"
-      },
-      {
-       "n": "Mais Goiás",
-       "u": "https://www.maisgoias.com.br/politica/lula-decide-nao-convidar-milei-para-posse-e-toma-outra-medida-contra-argentina/"
-      }
-     ]
     }
    ]
   },
@@ -359,11 +342,11 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Bolsa em alta, Orçamento e juros americanos",
+   "nota": "IPCA-15 hoje, tarifas dos EUA e juros americanos",
    "itens": [
     {
      "kicker": "Mercado",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Ibovespa sobe 1,58% e volta aos 166 mil pontos; dólar cai 1,59% e fecha a R$ 5,81",
      "resumo": "O índice fechou a 166.684 pontos, com a Vale subindo 3,10% e interrompendo dez quedas seguidas, a Petrobras PN avançando 2% e a Natura disparando 10,56%. Analistas citaram a especulação sobre Luiz Carlos Trabuco na Fazenda e a discussão da PEC fiscal; a Embraer, com -4%, foi a maior queda do dia.",
      "foto": {
@@ -390,8 +373,72 @@
      ]
     },
     {
-     "kicker": "Orçamento",
+     "kicker": "Inflação",
      "quando": "Hoje",
+     "titulo": "IBGE divulga às 9h o IPCA-15 de novembro; Bradesco projeta alta de 0,36%",
+     "resumo": "Em outubro, a prévia da inflação subiu 0,32% no mês e acumulou 4,62% em 12 meses. O último Boletim Focus elevou a projeção do IPCA de 2026 para 5,15%; o dia tem ainda dados de contas externas do Banco Central e liquidez reduzida com o feriado nos EUA.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/ibovespa-hoje-26-11-2026/"
+      },
+      {
+       "n": "TMC",
+       "u": "https://tmc.com.br/economia/previa-inflacao-novembro-projecao-alimentos-servicos-black-friday/"
+      },
+      {
+       "n": "IBGE",
+       "u": "https://anda.ibge.gov.br/estatisticas/economicas/precos-e-custos/9260-indice-nacional-de-precos-ao-consumidor-amplo-15.html"
+      }
+     ]
+    },
+    {
+     "kicker": "Comércio exterior",
+     "quando": "Ontem",
+     "titulo": "Governo diz que não cederá a ameaças após EUA proporem tarifa sobre aviões e açúcar; Amcham vai à consulta",
+     "resumo": "A proposta americana, baseada na Seção 301, prevê sobretaxa de 10% sobre aviões brasileiros e cobrança maior sobre o açúcar acima da cota; o Planalto não descarta OMC nem Lei de Reciprocidade. A Amcham Brasil informou que participará da consulta pública, aberta de 27/11 a 30/12, com audiência em 14 de janeiro.",
+     "foto": {
+      "src": "fotos/aviao.jpg",
+      "credito": "Rovena Rosa/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-critica-possivel-novo-tarifaco-dos-eua-e-diz-que-nao-cedera"
+      },
+      {
+       "n": "Times Brasil (CNBC)",
+       "u": "https://timesbrasil.com.br/brasil/brasil-rejeita-proposta-de-tarifas-dos-eua-sobre-avioes-e-acucar-e-diz-que-nao-cedera-a-ameacas/"
+      },
+      {
+       "n": "O Povo (Estadão Conteúdo)",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/11/25/eua-propoem-elevar-tarifas-sobre-acucar-do-brasil-e-taxa-adicional-de-10-sobre-aeronaves.html"
+      },
+      {
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-quinta-feira-26-de-novembro-de-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Estados Unidos",
+     "quando": "Ontem",
+     "titulo": "Nova York fecha mista antes do feriado; mercado vê alta quase certa dos juros do Fed em dezembro",
+     "resumo": "O Dow Jones subiu 0,33% e o Nasdaq caiu 0,62% depois de uma abertura em forte queda, com o índice de preços PCE em 3,8% em 12 meses. Segundo a ferramenta do CME citada pela Exame, a chance de alta dos juros americanos em dezembro chegou a cerca de 93%; as bolsas não abrem nesta quinta.",
+     "fontes": [
+      {
+       "n": "Exame",
+       "u": "https://exame.com/invest/mercados/ibovespa-hoje-26-11-2026/"
+      },
+      {
+       "n": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-eua-25-novembro-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Orçamento",
+     "quando": "Ontem",
      "titulo": "Governo libera R$ 3,43 bilhões do Orçamento e reduz contenção para R$ 12,63 bilhões",
      "resumo": "Segundo o relatório do 5º bimestre, detalhado pela Agência Brasil, a contenção de despesas caiu de R$ 16,1 bilhões para R$ 12,63 bilhões, enquanto o déficit primário efetivo previsto para 2026 subiu de R$ 67,26 bilhões para R$ 76,98 bilhões. O alívio veio da lei sancionada na terça, que permite tirar da meta até R$ 10,5 bilhões gastos com a subvenção ao diesel.",
      "fontes": [
@@ -407,62 +454,6 @@
        "n": "InfoMoney",
        "u": "https://www.infomoney.com.br/politica/governo-deve-anunciar-contencao-de-despesas-mesmo-apos-aprovacao-de-ajuste-fiscal/"
       }
-     ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/AbfzFSG3vlCZz5MeKu3cWN1t4Ws=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220045_1.jpg?itok=zk8i9xAS",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     }
-    },
-    {
-     "kicker": "Estados Unidos",
-     "quando": "Hoje",
-     "titulo": "Nova York fecha mista após PCE de 3,8%; mercado passa a ver alta quase certa dos juros do Fed em dezembro",
-     "resumo": "A inflação PCE subiu 0,3% em outubro e chegou a 3,8% em 12 meses, em linha com o esperado; pela ferramenta FedWatch, a chance de alta de 0,25 ponto na reunião de 8 e 9 de dezembro passou a 97,5%. O Dow Jones fechou em alta de 0,33%, o S&P 500 caiu 0,25%, e o Nasdaq, que chegou a perder quase 4% na abertura, terminou com queda de 0,62%.",
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ibovespa-fecha-em-alta-e-recupera-os-166-mil-pontos-com-pec-fiscal-e-expectativas-sobre-equipe-economica-de-lula-davs/"
-      },
-      {
-       "n": "Bora Investir (B3)",
-       "u": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/"
-      },
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-eua-25-novembro-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Ajuste fiscal",
-     "quando": "Ontem",
-     "titulo": "Lula sanciona ajuste fiscal sem vetos; economia prevista é de até R$ 56 bilhões em 2027",
-     "resumo": "A lei, publicada em edição extra do Diário Oficial, prevê superávit primário de cerca de R$ 18,7 bilhões em 2027 e permite bloqueios adicionais de despesas. Nos anos de contenção, o limite de alta real dos gastos cai de 2,5% para 2%, segundo a Agência Brasil.",
-     "fontes": [
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso"
-      },
-      {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/politica/lula-discute-pec-fiscal-com-alckmin-e-tres-ministros"
-      }
-     ]
-    },
-    {
-     "kicker": "Agenda",
-     "quando": "Hoje",
-     "titulo": "IPCA-15 de novembro sai na quinta; Nova York fecha pelo Dia de Ação de Graças",
-     "resumo": "O IBGE publica a prévia da inflação na quinta (26), dia em que as bolsas de Nova York não abrem; analistas apontam o dado como o próximo teste para os juros futuros. Na sexta saem o IGP-M e a taxa de desemprego da PNAD.",
-     "fontes": [
-      {
-       "n": "IstoÉ Dinheiro",
-       "u": "https://istoedinheiro.com.br/calendario-economico-semana-23-27-novembro-2026"
-      },
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ibovespa-fecha-em-alta-e-recupera-os-166-mil-pontos-com-pec-fiscal-e-expectativas-sobre-equipe-economica-de-lula-davs/"
-      }
      ]
     }
    ]
@@ -471,93 +462,65 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Ciclone e frente fria, chuva em SP e operações da PF",
+   "nota": "Frente fria, alerta de temporais no Sudeste e feriados locais",
    "itens": [
     {
      "kicker": "Tempo",
      "quando": "Hoje",
-     "titulo": "Ciclone se forma na costa de SC e traz frente fria; serras do Sul podem ter menos de 10 °C na quinta",
-     "resumo": "Segundo o Inmet, o sistema se intensifica até quinta (26), quando a frente fria avança pelo litoral do Paraná e de São Paulo e chega ao Espírito Santo e ao extremo sul da Bahia, com chuva e rajadas de vento na costa. A previsão para a semana é de até 100 mm no leste catarinense, no centro do Paraná e no interior paulista; na quinta, São Paulo deve ter entre 15 °C e 20 °C, sem previsão de geada no Sul.",
+     "titulo": "Frente fria leva alerta de chuva intensa a 1.278 cidades de seis estados; Sul tem madrugadas abaixo de 10 °C",
+     "resumo": "O Inmet emitiu alerta laranja para chuvas fortes em municípios do RJ, SP, MG, ES, GO e MS, incluindo Rio, São Paulo, Belo Horizonte e Vitória, com até 100 mm por dia e rajadas de até 100 km/h. Segundo a Climatempo, a Costa Verde e a região metropolitana do Rio podem somar até 200 mm entre quarta e quinta; nas serras gaúcha e catarinense, as mínimas ficam abaixo de 10 °C.",
      "foto": {
       "src": "https://imagens.ebc.com.br/ZUVFcpkvhaM_0Skr4e-xaYOK1Mw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/chuva_2601214145_0.jpg?itok=e8sCHK8P",
       "credito": "Marcello Casal Jr/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
+       "n": "Agenda do Poder",
+       "u": "https://agendadopoder.com.br/rio-de-janeiro-entra-em-alerta-para-temporais-com-avanco-de-frente-fria-nesta-quinta-feira"
+      },
+      {
        "n": "CNN Brasil",
        "u": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-extratropical-deve-levar-frio-e-chuva-a-areas-do-sul-e-sudeste/"
       },
       {
-       "n": "Correio",
-       "u": "https://www.correio24horas.com.br/brasil/ciclone-se-forma-nesta-quarta-25-e-provoca-frente-fria-no-brasil-veja-areas-afetadas-1126"
+       "n": "Exame",
+       "u": "https://exame.com/brasil/inmet-emite-alerta-vermelho-para-tres-estados-e-preve-ciclone-extratropical/"
       },
       {
-       "n": "NSC Total",
-       "u": "https://www.nsctotal.com.br/cotidiano/novo-ciclone-ja-tem-data-para-se-formar-no-litoral-do-brasil-e-tres-estados-estao-na-rota-de-chuvas-severas"
-      },
-      {
-       "n": "Tribuna Online",
-       "u": "https://tribunaonline.com.br/variedades/ciclone-provoca-virada-no-tempo-nesta-quarta-feira-25-e-coloca-sul-e-sudeste-sob-risco-de-temporais/"
+       "n": "Clima ao Vivo",
+       "u": "https://www.climaaovivo.com.br/noticias/ciclone-extratropical-se-forma-no-sul-impulsiona-frente-fria-e-derruba-temperaturas-no-centro-sul-ate-o-fim-desta-semana-25-11-26"
       }
      ]
     },
     {
      "kicker": "São Paulo",
      "quando": "Ontem",
-     "titulo": "Temporal alaga escola infantil na zona leste de SP; bombeiros resgatam crianças e buscam mulher arrastada por rio",
-     "resumo": "As crianças da Emei em Artur Alvim foram retiradas sem ferimentos, e as aulas foram suspensas na terça (24). A chuva de segunda deixou 13 pontos de alagamento, 36 quedas de árvores atendidas pelos bombeiros e falhas nas linhas 10 e 12 da CPTM; uma mulher arrastada pelo rio Tamanduateí no domingo segue desaparecida.",
+     "titulo": "Defesa Civil de SP monta gabinete de crise para temporais que seguem até sexta",
+     "resumo": "O gabinete reúne governo estadual, concessionárias de água, energia e gás, polícia e bombeiros para coordenar a resposta a deslizamentos, alagamentos e enxurradas. A previsão é de tempestades fortes no litoral e na Serra da Mantiqueira nesta quinta, com melhora gradual na sexta (27); na capital, a máxima deve ficar em torno de 20 °C.",
      "fontes": [
       {
-       "n": "Brasil 247",
-       "u": "https://www.brasil247.com/sudeste/temporal-em-sp-inunda-escola-obriga-resgate-de-criancas-e-deixa-desaparecida/"
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/sao-paulo/novas-tempestades-previstas-para-sp-mobilizam-gabinete-da-defesa-civil"
       },
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/brasil/temporal-em-sp-causa-alagamentos-e-quedas-de-arvores"
+       "n": "Grupo Rio Claro SP",
+       "u": "https://www.gruporioclarosp.com.br/seguranca/defesa-civil-mantem-alerta-para-temporais-em-sao-paulo-ate-quinta/"
       },
       {
-       "n": "TV Brasil",
-       "u": "https://tvbrasil.ebc.com.br/reporter-brasil-tarde/2026/11/reporter-brasil-tarde-de-24-de-novembro-de-2026-assista-na-integra"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/tempo-em-sao-paulo-previsao-temporais-ate-quando/"
       }
      ]
     },
     {
-     "kicker": "Polícia Federal",
-     "quando": "Ontem",
-     "titulo": "PF faz três operações contra lavagem de dinheiro com criptoativos que movimentou mais de R$ 4,3 bilhões",
-     "resumo": "Cerca de 130 policiais cumprem 72 mandados de busca e de prisão temporária em cidades de SP, PR, PE, GO, RS e no DF. A Justiça mandou bloquear até R$ 4,3 bilhões; uma das frentes apura golpes digitais e falsas ofertas de emprego no exterior.",
+     "kicker": "Feriado",
+     "quando": "Hoje",
+     "titulo": "Dez cidades de sete estados têm feriado municipal nesta quinta; no resto do país o expediente é normal",
+     "resumo": "Segundo lista da Febraban, bancos e repartições fecham em Mimoso do Sul (ES), Ribeirão Vermelho (MG), Guarabira, Princesa Isabel e Solânea (PB), Cacoal (RO), Vitória das Missões (RS), Nossa Senhora Aparecida e Pirambu (SE) e Tremembé (SP). O próximo feriado nacional é o Natal, em 25 de dezembro.",
      "fontes": [
       {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pf-investiga-esquema-de-lavagem-de-dinheiro-e-fraude-com-criptoativos"
-      },
-      {
-       "n": "Brasil de Fato",
-       "u": "https://brasildefato.com.br/2026/11/24/pf-investiga-esquema-de-lavagem-de-dinheiro-e-fraude-com-criptoativos"
-      },
-      {
-       "n": "Jornal Cruzeiro",
-       "u": "https://www.jornalcruzeiro.com.br/sorocaba/noticias/2026/11/768158-pf-deflagra-operacoes-contra-lavagem-de-dinheiro-com-acoes-em-sorocaba.html"
-      }
-     ]
-    },
-    {
-     "kicker": "Morte",
-     "quando": "Ontem",
-     "titulo": "Morre aos 90 anos o jurista Fábio Konder Comparato, professor emérito da USP e referência em direitos humanos",
-     "resumo": "Ele morreu na madrugada de terça (24), em São Paulo, e o sepultamento foi marcado para a tarde, no Cemitério da Consolação. Formulou a tese da função social da empresa, atuou na defesa de presos políticos durante a ditadura e foi pioneiro no ensino de direitos humanos; Lula, que confirmou presença no velório, citou sua contribuição à Constituição de 1988.",
-     "fontes": [
-      {
-       "n": "TMC",
-       "u": "https://tmc.com.br/politica/lula-comparato-morte-jurista-usp-constituicao"
-      },
-      {
-       "n": "JOTA",
-       "u": "https://jota.info/justica/morre-fabio-konder-comparato-referencia-em-direitos-humanos-e-direito-comercial"
-      },
-      {
-       "n": "TV Brasil",
-       "u": "https://tvbrasil.ebc.com.br/reporter-brasil-tarde/2026/11/reporter-brasil-tarde-de-24-de-novembro-de-2026-assista-na-integra"
+       "n": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/curiosidades/2026/11/26/hoje-26-de-novembro-e-feriado-veja-onde-e-quem-folga-nesta-quinta-feira.html"
       }
      ]
     }
@@ -567,85 +530,77 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Cúpula europeia, Ormuz, Gaza e Ucrânia",
+   "nota": "Cúpula da UE, minas em Ormuz, Gaza e Ucrânia",
    "itens": [
     {
      "kicker": "União Europeia",
      "quando": "Hoje",
-     "titulo": "Cúpula da UE abre com impasse entre orçamento de longo prazo e empréstimo de € 45 bilhões à Ucrânia",
-     "resumo": "António Costa apresentou um compromisso que corta € 204 bilhões da proposta inicial de orçamento para 2028-2034, e a Comissão propôs um empréstimo à Ucrânia garantido por dívida conjunta, que cobriria cerca de dois terços do rombo de € 70 bilhões de Kiev em 2027. Eslováquia, Chéquia, Hungria e Bulgária não querem participar, e o chanceler alemão, Friedrich Merz, ameaçou vetar o orçamento se o apoio não for aprovado pelos 27; as negociações seguem até quinta ou sexta.",
+     "titulo": "Líderes da UE se reúnem em Bruxelas para negociar orçamento até 2034, ajuda à Ucrânia e sucessão no BCE",
+     "resumo": "A proposta de António Costa para o orçamento 2028–2034 fica mais de 10% abaixo da apresentada pela Comissão Europeia, com cortes em competitividade, defesa e ação externa, o que divide países frugais e França e Espanha. Na pauta estão também o empréstimo de até € 45 bilhões à Ucrânia em 2027 e o substituto de Christine Lagarde, que deixa o BCE em fevereiro; Pablo Hernández de Cos e Klaas Knot são os nomes citados.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/25/uniao-europeia-enfrenta-choque-entre-orcamento-e-apoio-a-ucrania-em-cimeira-tensa"
+       "n": "Times Brasil (CNBC)",
+       "u": "https://timesbrasil.com.br/mundo/lideres-da-uniao-europeia-discutem-orcamento-de-2028-a-2034-e-sucessao-no-banco-central-europeu/"
       },
       {
-       "n": "Destaques da Geopolítica",
-       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-25-nov-2026"
+       "n": "Diário de Notícias (Lusa)",
+       "u": "https://www.dn.pt/internacional/lderes-europeus-reunidos-em-bruxelas-com-oramento-at-2034-apoio-ucrnia-e-sucesso-no-bce-na-agenda"
       }
      ]
     },
     {
      "kicker": "Estreito de Ormuz",
-     "quando": "Hoje",
-     "titulo": "Irã diz que petroleiros bateram em minas em Ormuz e alerta navios a coordenar a passagem",
-     "resumo": "Segundo a Guarda Revolucionária, dois petroleiros que tentavam uma rota não autorizada explodiram e pegaram fogo; o porta-voz militar Mohammad Akraminia citou novos sistemas de vigilância. Teerã diz que só normaliza o tráfego com o fim do bloqueio naval americano e da guerra, mas, pela mediação do Catar, oferece reabrir o estreito em 48 horas; o Brent operava perto de US$ 91.",
+     "quando": "Ontem",
+     "titulo": "Irã diz que dois petroleiros pegaram fogo após atingir minas em Ormuz; Brent sobe 3,5%",
+     "resumo": "Segundo a Guarda Revolucionária, os navios tentavam passar por uma rota não autorizada; a versão não foi verificada de forma independente. Na madrugada desta quinta, o monitor britânico UKMTO relatou explosão perto de um navio-tanque a 93 km de Dubai, sem danos; os incidentes no estreito passaram a ser quase diários em novembro.",
      "fontes": [
       {
-       "n": "InfoMoney (Reuters)",
-       "u": "https://www.infomoney.com.br/mundo/ira-diz-que-navios-colidiram-com-minas-em-ormuz-e-alerta-para-passagem-coordenada/"
-      },
-      {
-       "n": "Jornal Económico (Lusa)",
-       "u": "https://jornaleconomico.sapo.pt/noticias/irao-dois-petroleiros-incendeiam-se-em-ormuz-apos-colidirem-com-minas-marinhas/"
-      },
-      {
-       "n": "IstoÉ",
-       "u": "https://istoe.com.br/ira-explosoes-petroleiros-estreito-ormuz-minas-navais"
+       "n": "RTP (Lusa)",
+       "u": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/dois-petroleiros-incendeiam-se-em-ormuz-apos-colidirem-com-minas-marinhas_n1781474"
       },
       {
        "n": "Times Brasil (CNBC)",
        "u": "https://timesbrasil.com.br/empresas-e-negocios/energia/ira-confirma-que-petroleiros-atingiram-minas-navais/"
+      },
+      {
+       "n": "Terra (Reuters)",
+       "u": "https://www.terra.com.br/noticias/mundo/ira-diz-navios-colidiram-com-minas-em-ormuz-e-alerta-embarcacoes-para-coordenarem-passagem,9b4f97281b7318fd9fe692395cd7cc1c61sookhn.html"
+      },
+      {
+       "n": "AP (KSAT)",
+       "u": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/"
       }
      ]
     },
     {
      "kicker": "Gaza",
      "quando": "Hoje",
-     "titulo": "Israel mata segundo dirigente do Hamas em dois dias; Netanyahu conversa com Kushner sobre ajuda humanitária",
-     "resumo": "Na terça, um bombardeio no campo de al-Shati matou o chefe de segurança Mohammed Abu al-Uf, a mulher e as duas filhas, segundo a Defesa Civil local, ligada ao Hamas; Israel diz ter atingido um integrante do grupo. Nesta quarta, Netanyahu falou com o enviado americano Jared Kushner, um dia depois de ele dizer que Israel corre risco de isolamento internacional.",
+     "titulo": "Ataques israelenses matam ao menos oito em Gaza; Israel diz ter matado dirigente do Hamas",
+     "resumo": "Médicos dos hospitais Shifa e Al-Aqsa relataram mortes em Deir al-Balah e na Cidade de Gaza durante a madrugada. Netanyahu e o ministro Israel Katz afirmaram que um dos alvos foi Khaled Abu Nada, responsável por assuntos econômicos e educacionais do Hamas; os ataques seguem quase diários mais de um ano após o cessar-fogo.",
      "fontes": [
       {
-       "n": "Público",
-       "u": "https://www.publico.pt/2026/11/25/mundo/noticia/israel-mata-segundo-alto-responsavel-hamas-dois-dias-2196235"
+       "n": "AP (KSAT)",
+       "u": "https://www.ksat.com/news/world/2026/11/26/israeli-strikes-kill-8-in-gaza-and-other-mideast-news/"
       },
       {
-       "n": "O Tempo",
-       "u": "https://www.otempo.com.br/mundo/2026/11/25/ataque-de-israel-mata-integrante-da-seguranca-do-hamas-e-sua-familia-dizem-autoridades-de-gaza"
-      },
-      {
-       "n": "The Times of Israel",
-       "u": "https://www.timesofisrael.com/liveblog-november-25-2026/"
+       "n": "Reuters (Internazionale)",
+       "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/26/israel-kills-nine-in-gaza-including-hamas-appointed-deputy-education-minister-officials-say"
       }
      ]
     },
     {
      "kicker": "Ucrânia",
      "quando": "Hoje",
-     "titulo": "Ataque russo mata um homem perto de Kiev; drones ucranianos atingem refinarias na região de Samara",
-     "resumo": "O bombardeio atingiu uma área comercial em Bila Tserkva, a cerca de 80 km de Kiev, segundo o governador local. A Rússia diz ter derrubado 305 drones, e a UE prepara o 22º pacote de sanções enquanto Ursula von der Leyen cobra de Moscou uma trégua energética no inverno.",
+     "titulo": "Rússia diz ter atacado fábricas ligadas a drones em Kiev; ucranianos relatam explosões e incêndio",
+     "resumo": "O Ministério da Defesa russo afirmou ter atingido duas instalações industriais na capital e um cargueiro no Mar Negro, sem balanço independente de danos. Autoridades da região de Dnipropetrovsk relataram estragos em Pavlograd e Kryvyi Rih.",
      "fontes": [
       {
-       "n": "Observador",
-       "u": "https://observador.pt/liveblogs/um-morto-em-ataque-russo-contra-regiao-de-kiev/"
+       "n": "Brasil 247 (TASS)",
+       "u": "https://www.brasil247.com/mundo/russia-realiza-ataque-em-larga-escala-contra-instalacoes-da-industria-belica-em-kiev/"
       },
       {
-       "n": "Executive Digest (Lusa)",
-       "u": "https://executivedigest.sapo.pt/ucrania-von-der-leyen-desafia-russia-a-cessar-fogo-energetico-para-provar-que-quer-negociar/"
-      },
-      {
-       "n": "Destaques da Geopolítica",
-       "u": "https://marcoutinho.substack.com/p/destaques-da-geopolitica-25-nov-2026"
+       "n": "CNN Portugal",
+       "u": "https://cnnportugal.iol.pt/aominuto/6207bf6c0cf2cc58e7e276ff"
       }
      ]
     }
@@ -655,109 +610,85 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Corinthians em BH, Champions e final da Libertadores",
+   "nota": "Corinthians fora do Z4, Palmeiras no Uruguai e Champions",
    "itens": [
     {
      "kicker": "Brasileirão",
-     "quando": "Hoje",
-     "titulo": "Corinthians enfrenta o Atlético-MG às 20h sem Yuri Alberto e precisa de pontos para deixar o Z4",
-     "resumo": "O time de Clarence Seedorf é o 17º, com 40 pontos, e um empate na Arena MRV basta para igualar Grêmio e Mirassol, com 41; uma vitória leva o Corinthians à 14ª posição. Yuri Alberto e André Carrillo cumprem suspensão; o Atlético, 7º com 51 pontos, vem da derrota na final da Sul-Americana e não terá Fred.",
+     "quando": "Ontem",
+     "titulo": "Corinthians cede empate no fim ao Atlético-MG, mas deixa a zona de rebaixamento",
+     "resumo": "Kaio César abriu o placar aos 25 do segundo tempo, depois da expulsão de Thiago Borbas, e Cuello empatou aos 47 na Arena MRV. O Corinthians foi a 41 pontos, em 15º, e passou Grêmio e Mirassol nos critérios de desempate; o Mirassol abre o Z4, e o Internacional, com 38, é o 18º.",
      "fontes": [
       {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-e-corinthians-se-enfrentam-com-objetivos-opostos-no-brasileiro/"
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/futebol/corinthians-deixa-escapar-vitoria-no-acrescimo-e-empata-com-o-atletico-mg-em-bh,765d8d94cc28180b96355dc7aaee6592i4qbh4uw.html"
       },
       {
        "n": "ESPN",
-       "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17553477/atletico-mg-x-corinthians-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao"
+       "u": "https://espn.com.br/futebol/brasileirao/artigo/_/id/17563119/corinthians-cede-empate-fim-atletico-mg-segue-colado-zona-de-rebaixamento-brasileirao"
       },
       {
-       "n": "Gazeta Esportiva",
-       "u": "https://gazetaesportiva.com/times/corinthians/com-garro-corinthians-chega-a-bh-para-duelo-decisivo-contra-o-atletico-mg"
+       "n": "Jovem Pan",
+       "u": "https://jovempan.com.br/esportes/futebol/no-fim-atletico-mg-busca-o-1-a-1-com-o-corinthians-25-11-2026/"
       },
       {
-       "n": "Imirante",
-       "u": "https://m.imirante.com/esporte/brasil/2026/11/25/corinthians-tenta-quebrar-tabu-brasileirao-minas"
-      }
-     ]
-    },
-    {
-     "kicker": "Champions League",
-     "quando": "Hoje",
-     "titulo": "Lille vence o Bayern por 2 a 1, PSG empata com a Roma e Liverpool faz 3 a 0 no Brugge",
-     "resumo": "Na quinta rodada da fase de liga, Alexander Isak marcou duas vezes para o Liverpool, e o goleiro Alisson deu o lançamento que originou um dos gols; o Barcelona venceu o Sabah por 4 a 1 e a Inter bateu o Stuttgart por 2 a 0. Sporting e Manchester United empataram por 2 a 2; na terça, o Real Madrid, com gol de Vinícius Júnior, goleou o PSV por 5 a 1 e manteve 100% de aproveitamento.",
-     "fontes": [
-      {
-       "n": "Bola na Rede",
-       "u": "https://bolanarede.pt/especial-bola-na-rede/atualidade/lille-derruba-o-bayern-munique-psg-empata-frente-a-as-roma-e-liverpool-volta-a-golear-eis-todos-os-resultados-do-dia-na-champions-league/"
-      },
-      {
-       "n": "VAVEL",
-       "u": "https://vavel.com/br/futebol-internacional/2026/11/25/1280595-sporting-x-manchester-united-ao-vivo-uefa-champions-league.html"
-      },
-      {
-       "n": "Band",
-       "u": "https://www.band.com.br/esportes/futebol/futebol-internacional/liga-dos-campeoes/real-madrid-mantem-100-e-man-city-tropeca-veja-resultados-da-champions"
+       "n": "O Tempo (Lance)",
+       "u": "https://www.otempo.com.br/sports/futebol-nacional/2026/11/25/simulador-veja-cenarios-da-luta-contra-o-rebaixamento-apos-a-36-rodada-do-brasileirao"
       }
      ]
     },
     {
      "kicker": "Libertadores",
-     "quando": "Hoje",
-     "titulo": "Palmeiras viaja a Montevidéu para a final; Estudiantes tem dúvida para substituir suspenso",
-     "resumo": "A decisão da Libertadores será no sábado (28), às 17h, no Estádio Centenário, e Abel Ferreira ainda não definiu a escalação. Do lado argentino, o técnico Cacique Medina escolhe entre Tomás Palacios e Eric Meza para a vaga de Baltasar Rodríguez, expulso na semifinal; a torcida do Estudiantes esgotou mais de 120 ônibus para a viagem.",
+     "quando": "Ontem",
+     "titulo": "Palmeiras chega a Montevidéu com 28 jogadores para a final contra o Estudiantes",
+     "resumo": "A delegação foi recebida por torcedores no hotel e treina nesta quinta, às 16h, com portões fechados. Piquerez e Murilo ainda passam por avaliação, e Paulinho se recupera de lesão na panturrilha; o Palmeiras disputa a oitava final da competição e busca o quarto título no sábado, às 17h.",
      "fontes": [
+      {
+       "n": "Portal do Palestra",
+       "u": "https://portaldopalestra.com.br/palmeiras-chega-montevideu-relacionados-final-libertadores-2026-estudiantes/"
+      },
+      {
+       "n": "Lance",
+       "u": "https://www.lance.com.br/palmeiras/abel-revive-tatica-no-palmeiras-e-indica-time-para-final-da-libertadores.html"
+      },
       {
        "n": "Terra",
        "u": "https://www.terra.com.br/esportes/palmeiras/libertadores-tecnico-do-estudiantes-tem-duvida-para-a-final-com-o-palmeiras,d9dc733b3e76347763ffbcc14e5567efuc7y0dqa.html"
-      },
-      {
-       "n": "ES Brasil",
-       "u": "https://esbrasil.com.br/palmeiras-embarca-montevideu-final-libertadores/"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-final-libertadores-viagem-uruguai/"
       }
      ]
     },
     {
-     "kicker": "Brasileirão",
+     "kicker": "Champions League",
      "quando": "Ontem",
-     "titulo": "Com reservas, Palmeiras perde por 3 a 0 para a lanterna Chapecoense antes da final",
-     "resumo": "Camilo, Max Alves e Miguel Carvalho marcaram na Arena Condá. O Palmeiras segue vice-líder, com 74 pontos, e a Chapecoense, última, tem 24.",
+     "titulo": "Real Madrid fecha a 5ª rodada na liderança; Gabriel Jesus marca na goleada do Barcelona",
+     "resumo": "O Real fez 5 a 1 no PSV e chegou a 15 pontos, enquanto o PSG empatou com a Roma e ficou em segundo. Na vitória do Barcelona por 4 a 1 sobre o Sabah, Gabriel Jesus chegou a 28 gols e virou o quarto brasileiro que mais marcou na competição; o Lille bateu o Bayern por 2 a 1.",
      "fontes": [
       {
        "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/chapecoense-vence-palmeiras-em-ultimo-jogo-do-brasileirao-na-arena-conda"
+       "u": "https://www.metropoles.com/esportes/rodada-da-champions-league-termina-com-real-madrid-lider-veja-resultados"
       },
       {
-       "n": "Imirante",
-       "u": "https://imirante.com/esporte/brasil/2026/11/24/chapecoense-vence-palmeiras-penultima-rodada"
+       "n": "Renascença",
+       "u": "https://rr.pt/bola-branca/noticia/futebol-internacional/2026/11/25/bayern-perde-psg-empata-liverpool-ganha/495147/"
       },
       {
-       "n": "VAVEL",
-       "u": "https://www.vavel.com/br/futebol/2026/11/24/chapecoense/1280580-chapecoense-vence-palmeiras-escalado-apenas-com-reservas.html"
+       "n": "Mais Goiás",
+       "u": "https://www.maisgoias.com.br/esportes/futebol/futebol-internacional/psg-perde-100-champions-barcelona-goleia-gol-gabriel-jesus-confira-resultados/"
       }
      ]
     },
     {
-     "kicker": "Fórmula 1",
+     "kicker": "Copa do Brasil",
      "quando": "23/11",
-     "titulo": "GP do Catar abre a reta final da F1 com Bortoleto e Rafa Câmara no grid",
-     "resumo": "A corrida de domingo (29), às 13h, terá 57 voltas em Lusail, e a Pirelli limitou cada jogo de pneus a 27 voltas, o que obriga ao menos duas paradas. Com Kimi Antonelli já campeão, a disputa é pelo vice; o treino livre começa na sexta, às 10h30.",
+     "titulo": "Final única entre Palmeiras e Grêmio será em 6 de dezembro, no Mané Garrincha",
+     "resumo": "A CBF marcou a decisão, pela primeira vez em jogo único, para as 16h em Brasília, com metade da carga de ingressos para cada clube. A venda é feita pela internet, com reconhecimento facial.",
      "fontes": [
       {
        "n": "Terra",
-       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-confira-horarios-e-onde-assistir-ao-gp-do-catar-com-gabriel-bortoleto-e-rafa-camara,aecd10607385f0d06f712539556bbb4ac8q2kn9h.html"
+       "u": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/cbf-confirma-data-da-final-da-copa-do-brasil-entre-palmeiras-e-gremio-saiba-dia-e-horario,87111a115055ce8067c026873397d4c7dg54ocn6.html"
       },
       {
-       "n": "Canal GOAT",
-       "u": "https://canalgoat.com.br/noticias/formula-1/gp-do-catar-com-antonelli-ja-campeao-verstappen-hamilton-russell-e-norris-disputam-o-vice-e-audi-caca-a-haas.html"
-      },
-      {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-bortoleto-busca-pontos-no-catar-apos-ficar-perto-do-top-10-em-las-vegas/"
+       "n": "Revista Oeste",
+       "u": "https://revistaoeste.com/esporte/final-copa-do-brasil-2026-data-local-ingressos/"
       }
      ]
     }
@@ -767,11 +698,47 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Parceria contra o câncer, mpox e novos remédios",
+   "nota": "Pesquisa clínica, vacina contra mpox e parceria contra o câncer",
    "itens": [
     {
+     "kicker": "Pesquisa clínica",
+     "quando": "Ontem",
+     "titulo": "Governo lança edital de R$ 120 milhões para pesquisa clínica e novos tratamentos no SUS",
+     "resumo": "O edital, gerido pela Finep, destina R$ 60 milhões a ensaios clínicos e redes, R$ 40 milhões a plataformas tecnológicas e R$ 20 milhões a inteligência artificial, com ao menos 30% para Norte, Nordeste e Centro-Oeste. Segundo o ministro Alexandre Padilha, o Brasil subiu do 18º para o 12º lugar no ranking mundial de pesquisa clínica em 2025.",
+     "fontes": [
+      {
+       "n": "Ministério da Saúde",
+       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/governo-do-brasil-anuncia-r-120-milhoes-para-ampliar-pesquisas-clinicas-e-acelerar-o-desenvolvimento-de-novos-tratamentos-para-o-sus"
+      }
+     ]
+    },
+    {
+     "kicker": "Mpox",
+     "quando": "Ontem",
+     "titulo": "Com estoque esgotado, Rio recebe nesta semana doses de vacina contra mpox para até 10 mil aplicações",
+     "resumo": "A capital fluminense vacinou mais de 8 mil pessoas desde 6 de novembro, e a nova remessa vai prioritariamente para a segunda dose. O Ministério da Saúde garantiu 25 mil doses pelo fundo da Opas; a vacina é restrita a grupos prioritários, como pessoas com HIV e usuários de PrEP.",
+     "foto": {
+      "src": "fotos/vacina.jpg",
+      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
+     },
+     "fontes": [
+      {
+       "n": "O Povo (Agência Brasil)",
+       "u": "https://www.opovo.com.br/noticias/saude/2026/11/25/rio-recebe-nesta-semana-novas-doses-de-vacina-contra-a-mpox.html"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/ministerio-informa-ter-adquirido-25-mil-doses-de-vacina-contra-mpox"
+      },
+      {
+       "n": "Agência Gov",
+       "u": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-compra-lote-com-25-mil-doses-da-vacina-contra-mpox"
+      }
+     ]
+    },
+    {
      "kicker": "Câncer",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "SUS fecha parceria com centro de pesquisa e tratamento de câncer de Liverpool",
      "resumo": "O acordo foi anunciado pelo ministro Alexandre Padilha ao fim de missão ao Reino Unido e deve apoiar instituições brasileiras ligadas à Rede Brasil Contra o Câncer. Padilha também discutiu com a secretária de Saúde britânica, Yvette Cooper, a cooperação entre o SUS e o NHS; valores e prazos não foram divulgados.",
      "fontes": [
@@ -780,54 +747,6 @@
        "u": "https://sbtnews.sbt.com.br/noticia/saude/sus-tera-parceria-com-centro-de-tratamento-de-cancer-ingles"
       }
      ]
-    },
-    {
-     "kicker": "Mpox",
-     "quando": "Ontem",
-     "titulo": "Brasil registra 627 casos de mpox em novembro, o dobro de outubro; São Paulo lidera",
-     "resumo": "Segundo o Ministério da Saúde, citado pela CNN Brasil, o país soma 1.479 casos no ano; São Paulo tem 533, o Rio, 432, e o Ceará, 189. A vacinação segue restrita a grupos prioritários, a partir de pessoas vivendo com HIV, e movimentos no Rio cobram a ampliação depois de o estoque local ter se esgotado; o ministério enviou mil frascos à cidade.",
-     "foto": {
-      "src": "fotos/vacina.jpg",
-      "credito": "Tomaz Silva/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "CNN Brasil",
-       "u": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-teve-mais-de-600-casos-de-mpox-em-novembro-sp-lidera-disparada/"
-      },
-      {
-       "n": "Plox",
-       "u": "https://plox.com.br/noticia/23/11/2026/casos-mpox-brasil-vacina"
-      },
-      {
-       "n": "Agência UVA",
-       "u": "https://agenciauva.net/2026/11/25/mpox-surto-da-infeccao-preocupa-a-populacao-que-busca-a-vacinacao-no-rio/"
-      }
-     ]
-    },
-    {
-     "kicker": "Anvisa",
-     "quando": "Ontem",
-     "titulo": "Anvisa amplia uso de imunoterapia contra câncer de bexiga e aprova remédio para câncer de mama HER2-positivo",
-     "resumo": "O durvalumabe (Imfinzi), combinado à enfortumabe vedotina antes da cirurgia, passa a ser indicado a pacientes que não podem receber cisplatina; em estudo com 695 pessoas, o risco de morte caiu 42%, com mais efeitos adversos graves. A mesma resolução aprovou o Hertuzo, para tumores de mama HER2-positivos.",
-     "fontes": [
-      {
-       "n": "TV Sim Brasil",
-       "u": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/24/anvisa-aprova-remedio-reduz-risco-morte-cancer-bexiga"
-      },
-      {
-       "n": "Imirante",
-       "u": "https://m.imirante.com/noticias/brasil/2026/11/23/anvisa-aprova-novo-medicamento-tratar-cancer-mama"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-aprova-novo-medicamento-para-tratar-cancer-de-mama"
-      }
-     ],
-     "foto": {
-      "src": "https://imagens.ebc.com.br/U6ui5Dy6o_KJp6MI_5Hy0FTO54Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/01/0d9a1826a.jpg?itok=btM0CqVm",
-      "credito": "José Cruz/Agência Brasil (arquivo)"
-     }
     }
    ]
   },
@@ -835,13 +754,13 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Pé-de-Meia, Celpe-Bras e Enem",
+   "nota": "Pé-de-Meia, formação de professores e Celpe-Bras",
    "itens": [
     {
      "kicker": "Pé-de-Meia",
      "quando": "Hoje",
      "titulo": "Caixa segue pagando a parcela de novembro do Pé-de-Meia; calendário vai até o dia 30",
-     "resumo": "Nesta quarta recebem os estudantes nascidos em maio e junho, e os demais grupos são pagos até domingo (30). A parcela é de R$ 200 no ensino regular e R$ 225 na EJA, para quem teve ao menos 80% de frequência em setembro.",
+     "resumo": "Os pagamentos seguem por grupos de mês de nascimento até domingo (30). A parcela é de R$ 200 no ensino regular e R$ 225 na EJA, para quem teve ao menos 80% de frequência em setembro.",
      "foto": {
       "src": "fotos/pedemeia.jpg",
       "credito": "Antônio Cruz/Agência Brasil (arquivo)"
@@ -862,8 +781,28 @@
      ]
     },
     {
-     "kicker": "Celpe-Bras",
+     "kicker": "Professores",
      "quando": "Ontem",
+     "titulo": "MEC oferece cerca de 70 mil vagas em cursos gratuitos de educação especial inclusiva",
+     "resumo": "As vagas de formação continuada são para professores da rede pública e fazem parte de um conjunto de cursos a distância reunidos pelo ministério para 2026. As inscrições são feitas nas plataformas indicadas pelo MEC.",
+     "fontes": [
+      {
+       "n": "Ministério da Educação",
+       "u": "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/novembro/mec-oferta-cerca-de-70-mil-vagas-em-formacao-continuada-em-educacao-especial-inclusiva"
+      },
+      {
+       "n": "Conecta Professores",
+       "u": "https://conectaprofessores.com/2026/11/25/cursos-gratuitos-para-professores-mec-reune-oportunidades-de-formacao-continuada-em-2026"
+      },
+      {
+       "n": "PEBSP",
+       "u": "https://www.pebsp.com/mec-abre-70-mil-vagas-em-cursos-de-qualificacao-para-professores-de-todo-o-brasil/"
+      }
+     ]
+    },
+    {
+     "kicker": "Celpe-Bras",
+     "quando": "24/11",
      "titulo": "Celpe-Bras, exame de proficiência em português para estrangeiros, é aplicado até sexta no exterior",
      "resumo": "A segunda edição de 2026 do Celpe-Bras, aplicada pelo Inep, ocorre de 24 a 27 de novembro em universidades, consulados e centros culturais. A prova tem parte escrita de 3 horas e entrevista oral de 20 minutos.",
      "fontes": [
@@ -872,35 +811,6 @@
        "u": "https://panoramainconfidentes.com.br/noticia/celpe-bras-provas-serao-aplicadas-no-exterior-a-partir-desta-terca"
       }
      ]
-    },
-    {
-     "kicker": "Enem",
-     "quando": "20/11",
-     "titulo": "Terminou na sexta o prazo para pedir a reaplicação do Enem; provas serão em 15 e 16 de dezembro",
-     "resumo": "O Inep recebeu até as 23h59 de sexta (20) os pedidos de quem faltou por problemas de logística, doença ou outras situações previstas no edital. O resultado das solicitações será divulgado pelo instituto na Página do Participante.",
-     "foto": {
-      "src": "https://imagens.ebc.com.br/Q7BgPCRhxf_HiZDekpjkd2-JBUA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/08/_int4931.jpg?itok=upOndC78",
-      "credito": "Paulo Pinto/Agência Brasil (arquivo)"
-     },
-     "fontes": [
-      {
-       "n": "Inep",
-       "u": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-prazo-para-solicitar-reaplicacao-termina-nesta-sexta-20"
-      },
-      {
-       "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-em-um-dia-prazo-para-pedir-reaplicacao-do-enem-2026"
-      },
-      {
-       "n": "Agência Gov",
-       "u": "https://agenciagov.ebc.com.br/noticias/202611/nota-do-enem-pode-ser-usada-para-concorrer-a-1-5-milhao-de-vagas-no-sisu-prouni-e-fies"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/educacao/enem/enem-2026-como-pedir-a-reaplicacao-quando-sai-o-gabarito-e-o-resultado-tire-duvidas-sobre-o-exame,48d6e348ff3168425167e0d8bad992cd4bpysfnr.html"
-      }
-     ],
-     "destaque": false
     }
    ]
   },
@@ -908,31 +818,51 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Queda das ações de IA, Huawei e semana da ciência",
+   "nota": "Tombo das ações de IA, Semana da Ciência e Huawei",
    "itens": [
     {
      "kicker": "Inteligência artificial",
-     "quando": "Hoje",
-     "titulo": "Ações de IA despencam na abertura em Nova York; Nvidia chega a cair mais de 8%",
-     "resumo": "A venda derrubou também Oracle e Alphabet, dois dias depois de a Nvidia ter subido mais de 30% com a volta de Jensen Huang ao comando; ao longo da tarde o Nasdaq reduziu as perdas e fechou com queda de 0,62%. Huang depõe a comissões do Congresso americano em 1º e 3 de dezembro.",
+     "quando": "Ontem",
+     "titulo": "Nvidia chega a cair 9% e fecha em baixa de 3,9% com temor sobre dívida dos data centers de IA",
+     "resumo": "A pressão veio do mercado de crédito: títulos e seguros contra calote da CoreWeave dispararam, reforçando dúvidas sobre o financiamento da expansão da IA. Na Ásia, o Kospi coreano caiu 6,16%, a SK Hynix 11% e o SoftBank quase 15%; a Oracle recuou 5,1% em Nova York.",
      "fontes": [
       {
-       "n": "CNN Portugal (EFE)",
-       "u": "https://cnnportugal.iol.pt/wall-street/nasdaq/wall-street-sofre-forte-queda-com-nasdaq-a-cair-quase-4-pressionado-por-vendas-no-setor-da-inteligencia-artificial/20261125/6b06fbbe0cf294b9345ebaae"
+       "n": "ANTI/HYPE",
+       "u": "https://antihype.com.br/c/negocios/acoes-ia-caem-nvidia-coreweave-kospi-25-novembro/"
       },
       {
-       "n": "Swissinfo (AFP)",
-       "u": "https://www.swissinfo.ch/por/retorno-de-huang-n%C3%A3o-consegue-dissipar-d%C3%BAvidas-e-a%C3%A7%C3%B5es-da-nvidia-caem/92428594"
+       "n": "CNN (KESQ)",
+       "u": "https://kesq.com/kunamundo/noticias-cnn/cnn-spanish/2026/11/25/los-temores-sobre-la-ia-acentuan-la-caida-de-las-acciones-tecnologicas-pese-al-regreso-de-huang-a-nvidia/"
       },
       {
-       "n": "SpaceMoney",
-       "u": "https://www.spacemoney.com.br/economia/exterior/wall-street-tarifas-propostas-ia"
+       "n": "HeyGoTrade",
+       "u": "https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-26-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Ciência na escola",
+     "quando": "Ontem",
+     "titulo": "Semana Nacional de Ciência e Tecnologia, com o tema ‘Ciência Delas’, segue até sábado em Brasília",
+     "resumo": "A 23ª edição tem programação gratuita na Esplanada dos Ministérios, com foco na participação feminina na ciência. Foi no evento que os ministérios da Saúde e da Ciência lançaram o edital de R$ 120 milhões para pesquisa clínica.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/semana-nacional-de-ciencia-e-tecnologia-segue-ate-sabado"
+      },
+      {
+       "n": "MCTI",
+       "u": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2026/11/23a-semana-nacional-de-ciencia-e-tecnologia-comeca-nesta-terca-feira-24-com-programacao-gratuita-em-brasilia"
+      },
+      {
+       "n": "Vermelho",
+       "u": "https://vermelho.org.br/2026/11/23/semana-de-ciencia-e-tecnologia-comeca-nesta-terca-24-com-protagonismo-feminino-na-esplanada/"
       }
      ]
     },
     {
      "kicker": "Huawei",
-     "quando": "Ontem",
+     "quando": "24/11",
      "titulo": "Júri em Nova York condena a Huawei em 10 de 12 acusações, incluindo fraude ligada ao Irã",
      "resumo": "O júri federal do Brooklyn considerou a empresa culpada de fraude bancária e roubo de segredos comerciais, mas a absolveu da acusação de associação criminosa (racketeering). A Huawei disse que vai recorrer.",
      "fontes": [
@@ -945,22 +875,6 @@
        "u": "https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/tag/edicao-2026-11-25"
       }
      ]
-    },
-    {
-     "kicker": "Ciência na escola",
-     "quando": "Ontem",
-     "titulo": "Semana Nacional de Ciência e Tecnologia, com o tema ‘Ciência Delas’, segue até domingo na Esplanada",
-     "resumo": "A programação gratuita vai até domingo (29) no gramado central da Esplanada dos Ministérios, em Brasília. Entre as atrações estão o simulador de um barco voador, robôs humanoides e drones, uma maquete de laboratório e atividades de caça a asteroides.",
-     "fontes": [
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/distrito-federal/ciencia-delas-semana-nacional-de-ciencia-e-tecnologia-segue-ate-domingo"
-      },
-      {
-       "n": "Correio Braziliense",
-       "u": "https://www.correiobraziliense.com.br/euestudante/cultura/2026/11/7540257-esplanada-recebe-23-semana-nacional-de-ciencia-e-tecnologia.html"
-      }
-     ]
     }
    ]
   },
@@ -968,11 +882,35 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Morte de Andy Taylor, shows e filme de K-pop",
+   "nota": "Estreias, homenagem a Patrick Stewart e mortes na música",
    "itens": [
     {
-     "kicker": "Morte",
+     "kicker": "Cinema",
      "quando": "Hoje",
+     "titulo": "Comédia com De Niro, Stiller e Ariana Grande e documentário sobre Belchior estreiam nos cinemas",
+     "resumo": "‘Entrando Numa Grande Fria’ retoma a franquia com Robert De Niro e Ben Stiller, e ‘Alucinação’ revisita o álbum de Belchior de 1976. A semana traz ainda ‘O Ser Querido’, com Javier Bardem, e o brasileiro ‘Yellow Cake’, ficção científica ambientada no sertão da Paraíba.",
+     "fontes": [
+      {
+       "n": "Cinema e Afins",
+       "u": "https://cinemaeafins.com.br/estreias-de-26-de-novembro-de-2026/"
+      }
+     ]
+    },
+    {
+     "kicker": "Cinema",
+     "quando": "Ontem",
+     "titulo": "Marvel prepara homenagem a Patrick Stewart em ‘Vingadores: Doutor Destino’",
+     "resumo": "O filme, que estreia em dezembro, traz a última atuação de Stewart como Professor Xavier; Kevin Feige disse que o estúdio estuda como honrar o ator. O legista de Los Angeles confirmou em 19 de novembro que a morte, aos 86 anos, teve como causas Alzheimer, demência por corpos de Lewy e parada cardiorrespiratória.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/entretenimento/marvel-prepara-homenagem-a-patrick-stewart-em-vingadores-doutor-destino"
+      }
+     ]
+    },
+    {
+     "kicker": "Morte",
+     "quando": "Ontem",
      "titulo": "Morre aos 65 anos Andy Taylor, ex-guitarrista do Duran Duran",
      "resumo": "Segundo comunicado da banda divulgado nesta quarta, ele morreu na segunda (23), em casa, cercado pela família, após longa batalha contra um câncer de próstata. Taylor tocou em sucessos dos anos 1980 como ‘Hungry Like the Wolf’ e ‘Rio’ e deixa a mulher, Tracey Wilson.",
      "fontes": [
@@ -992,7 +930,7 @@
     },
     {
      "kicker": "Morte",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Morre aos 95 anos Morgadinho, nome histórico da música cabo-verdiana",
      "resumo": "O cantor, que marcou gerações em Cabo Verde e na diáspora na França, foi fundador do conjunto Voz de Cabo Verde, segundo a imprensa portuguesa e cabo-verdiana.",
      "fontes": [
@@ -1011,46 +949,14 @@
      ]
     },
     {
-     "kicker": "Shows",
-     "quando": "Ontem",
-     "titulo": "Shakira anuncia quatro shows no Brasil, com réveillon em Balneário Camboriú",
-     "resumo": "As apresentações da turnê ‘Las Mujeres Ya No Lloran’ fazem parte de um festival de verão, com ingressos de R$ 250 (meia) a cerca de R$ 3.120. A venda geral está prevista para quinta (26).",
-     "fontes": [
-      {
-       "n": "O Liberal",
-       "u": "https://www.oliberal.com/cultura/shakira-anuncia-shows-no-brasil-com-ingressos-que-chegam-a-r-3-mil-1.1197566"
-      },
-      {
-       "n": "Portal Leo Dias",
-       "u": "https://portalleodias.com/musica/shakira-anuncia-quatro-shows-no-brasil-em-nova-turne-saiba-quais-cidades-receberao-a-cantora"
-      }
-     ]
-    },
-    {
      "kicker": "Cinema",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "HYBE anuncia filme sobre competição de K-pop com participações de BTS, KATSEYE e ILLIT",
      "resumo": "‘K-Pop: O Debut’, dirigido por Benson Lee, acompanha uma estudante de medicina coreano-americana que vai escondida a Seul disputar vaga num novo grupo feminino. A estreia nos cinemas brasileiros está prevista para 25 de fevereiro de 2027.",
      "fontes": [
       {
        "n": "Rolling Stone Brasil",
        "u": "https://rollingstone.com.br/cinema/hybe-anuncia-filme-sobre-competicao-de-k-pop-com-participacoes-de-bts-e-katseye/"
-      }
-     ]
-    },
-    {
-     "kicker": "Música",
-     "quando": "Ontem",
-     "titulo": "Sandy & Junior anunciam seis shows em São Paulo em julho de 2027",
-     "resumo": "A temporada ‘Nada É Por Acaso’ será no Nubank Parque nos dias 1, 3, 9, 11, 23 e 25 de julho e marca 20 anos do anúncio da separação da dupla. A pré-venda começa em 1º de dezembro, e a venda geral, no dia 3.",
-     "fontes": [
-      {
-       "n": "Diário do Grande ABC",
-       "u": "https://www.dgabc.com.br/Noticia/4370544/sandy-e-junior-anunciam-seis-shows-em-sao-paulo-para-2027-"
-      },
-      {
-       "n": "Jornal Opção",
-       "u": "https://www.jornalopcao.com.br/entretenimento/sandy-e-junior-anunciam-retorno-aos-palcos-em-2027-veja-detalhes-e-datas-dos-shows-899674/"
       }
      ]
     }
