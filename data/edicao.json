@@ -1,57 +1,52 @@
 {
  "data": "Sexta-feira, 27 de novembro de 2026",
- "edicao": "Edição da manhã",
- "atualizado": "27/11/2026 · 07h05 (Brasília)",
- "proxima": "Próxima atualização: 12h30",
- "mercado_hora": "Cotações de 18h20",
- "fontes": 72,
+ "edicao": "Edição do meio-dia",
+ "atualizado": "27/11/2026 · 12h40 (Brasília)",
+ "proxima": "Próxima atualização: 19h",
+ "mercado_hora": "Cotações de 11h40",
+ "fontes": 70,
  "mercado": [
   {
-   "nome": "Ibovespa · fechamento 26/11",
-   "valor": "176.800 pts",
-   "var": "+6,07%",
+   "nome": "Ibovespa · 11h40",
+   "valor": "≈179,2 mil pts",
+   "var": "+1,38%",
    "dir": "up"
   },
   {
-   "nome": "Dólar · fechamento 26/11",
-   "valor": "R$ 5,74",
-   "var": "-1,25%",
+   "nome": "Dólar · 11h40",
+   "valor": "≈R$ 5,57",
+   "var": "-3,0%",
    "dir": "down"
   },
   {
-   "nome": "Dólar PTAX · BC 26/11",
-   "valor": "R$ 5,7446",
-   "var": "",
+   "nome": "DI jan/2029 · abertura",
+   "valor": "13,56%",
+   "var": "-0,64 p.p.",
+   "dir": "down"
+  },
+  {
+   "nome": "Desemprego · trimestre até out. · IBGE",
+   "valor": "5,1%",
+   "var": "menor da série",
    "dir": ""
   },
   {
-   "nome": "DI jan/2029 · 26/11",
-   "valor": "14,48%",
-   "var": "-0,18 p.p.",
-   "dir": "down"
-  },
-  {
-   "nome": "IPCA-15 novembro · IBGE",
-   "valor": "0,22%",
-   "var": "4,64% em 12 meses",
+   "nome": "IGP-M novembro · FGV",
+   "valor": "1,24%",
+   "var": "6,26% em 12 meses",
    "dir": ""
   }
  ],
  "agenda": [
   {
-   "hora": "Sex 27/11 · 10h30",
-   "txt": "Primeiro treino livre do GP do Catar de Fórmula 1; o segundo é às 14h",
+   "hora": "Sex 27/11 · 14h",
+   "txt": "Segundo treino livre do GP do Catar de Fórmula 1, em Lusail",
    "cat": "esporte"
   },
   {
    "hora": "Sex 27/11 · 20h",
-   "txt": "Fluminense x Cruzeiro, no Maracanã, em duelo pelo 3º lugar do Brasileirão",
+   "txt": "Fluminense x Cruzeiro, no Maracanã; empate garante o 3º lugar ao Cruzeiro",
    "cat": "esporte"
-  },
-  {
-   "hora": "Sex 27/11",
-   "txt": "Black Friday; começa também a consulta pública dos EUA sobre tarifas para aviões e açúcar",
-   "cat": "economia"
   },
   {
    "hora": "Sáb 28/11 · 17h",
@@ -60,13 +55,18 @@
   },
   {
    "hora": "Seg 30/11 · 14h30",
-   "txt": "Ministério do Trabalho divulga o Novo Caged de outubro",
+   "txt": "Ministério do Trabalho divulga o Novo Caged de outubro; vence a 1ª parcela do 13º",
    "cat": "economia"
   },
   {
    "hora": "Qua 02/12 · 21h30",
    "txt": "Última rodada do Brasileirão, com dez jogos simultâneos",
    "cat": "esporte"
+  },
+  {
+   "hora": "Qui 03/12",
+   "txt": "Lula viaja para a cúpula do Mercosul",
+   "cat": "politica"
   }
  ],
  "acervo": [
@@ -162,49 +162,49 @@
   }
  ],
  "manchete": {
-  "kicker": "Ministério da Fazenda",
-  "titulo": "Planalto confirma Trabuco na Fazenda a partir de 2027; escolha agrada cúpula do Congresso e divide aliados",
-  "resumo": "Em nota divulgada na noite de quinta, o governo informou que Luiz Carlos Trabuco Cappi, de 75 anos e presidente do conselho do Bradesco, aceitou o convite de Lula em reunião no Palácio da Alvorada. É o primeiro nome anunciado da equipe do novo mandato, e a bolsa reage hoje à confirmação depois de subir 6% na véspera.",
+  "kicker": "Mercado",
+  "titulo": "‘Efeito Trabuco’: bolsa abre em alta de quase 4% e dólar cai abaixo de R$ 5,50 na manhã seguinte ao anúncio",
+  "resumo": "No primeiro pregão após o Planalto confirmar Luiz Carlos Trabuco na Fazenda, o Ibovespa chegou a 183,6 mil pontos e o dólar tocou R$ 5,48, queda de até 4,6%. Perto do meio-dia os movimentos perdiam força: a bolsa subia cerca de 1,4% e o dólar recuava 3%.",
   "foto": {
    "src": "fotos/real.jpg",
    "credito": "José Cruz/Agência Brasil (arquivo)"
   },
-  "entenda": "O encontro no Alvorada durou pouco menos de duas horas; na saída, perguntado se já era ministro, Trabuco respondeu que ainda não, e a confirmação veio depois, em nota do Planalto. Segundo a Folha, citada pelo InfoMoney, Lula chamou em seguida Dario Durigan (Fazenda) e Bruno Moretti (Planejamento) para tratar da transição. Formado em Filosofia pela USP, Trabuco entrou no Bradesco aos 17 anos e foi seu presidente executivo de 2009 a 2018; em 2014 recusou convite semelhante de Dilma Rousseff, que acabou nomeando Joaquim Levy. Reportagem do Estadão aponta como principal desafio conter a alta da dívida pública.",
+  "entenda": "O mercado já havia reagido na quinta, quando o Ibovespa subiu 6,07% com as notícias do convite; a confirmação veio à noite, em nota do Planalto. Nesta sexta, a B3 ampliou só para a sessão o limite de oscilação do dólar futuro, de 6% para 8,4%, e vários contratos de juros futuros chegaram a ter negociação suspensa pelo limite, com quedas de até 0,97 ponto nos vencimentos longos. Analistas ouvidos pelo Seu Dinheiro e pelo InfoMoney atribuem o movimento à leitura de que um nome ligado ao sistema financeiro reduz o risco fiscal; outros lembram que nenhuma medida de ajuste foi anunciada e que Trabuco só assume em janeiro. Também ajudaram o dia a volta de Wall Street após o feriado, com futuros em alta, e o desemprego de 5,1%, o menor da série do IBGE.",
   "fatos": [
-   "Mandato na Fazenda começa em janeiro de 2027, no quarto governo Lula",
-   "Ibovespa fechou quinta em alta de 6,07%, aos 176.799 pontos, com giro de R$ 23,2 bilhões; dólar caiu a R$ 5,74",
-   "Alckmin chamou a escolha de excelente notícia; Alcolumbre e Hugo Motta reagiram com otimismo"
+   "Abertura: Ibovespa +3,76%, a 183.439 pontos; máxima de 183.623 às 10h40",
+   "Dólar abriu a R$ 5,54 e marcou mínima de R$ 5,4793; fechara quinta a R$ 5,74",
+   "Juros futuros com vencimento em 2029 caíram cerca de 0,64 ponto na abertura, para 13,56%"
   ],
   "fontes": [
    {
+    "n": "Seu Dinheiro",
+    "u": "https://www.seudinheiro.com/2026/bolsa-dolar/efeito-trabuco-leva-ibovespa-aos-182-mil-pontos-e-derruba-dolar-em-mais-de-3-davs/",
+    "d": "Máximas e juros"
+   },
+   {
+    "n": "Correio Braziliense",
+    "u": "https://www.correiobraziliense.com.br/economia/2026/11/7545375-ibovespa-abre-alta-de-376-e-dolar-cai-288-com-trabuco-na-fazenda.html",
+    "d": "Abertura do pregão"
+   },
+   {
     "n": "InfoMoney",
-    "u": "https://www.infomoney.com.br/politica/governo-lula-anuncia-luiz-carlos-trabuco-para-ministerio-da-fazenda/",
-    "d": "Anúncio do governo"
+    "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27112026/",
+    "d": "Cobertura ao vivo"
    },
    {
-    "n": "Gazeta do Povo",
-    "u": "https://www.gazetadopovo.com.br/republica/governo-lula-anuncia-luiz-carlos-trabuco-para-o-ministerio-da-fazenda/",
-    "d": "Reação no Congresso"
+    "n": "IstoÉ",
+    "u": "https://istoe.com.br/dolar-cai-ibovespa-sobe-trabuco-fazenda-27-11-2026",
+    "d": "Câmbio e ressalvas"
    },
    {
-    "n": "CartaCapital",
-    "u": "https://www.cartacapital.com.br/politica/escolha-de-trabuco-para-a-fazenda-divide-lulistas-e-provoca-criticas-da-oposicao/",
-    "d": "Divisão entre aliados"
-   },
-   {
-    "n": "Diario de Pernambuco (Estadão Conteúdo)",
-    "u": "https://www.diariodepernambuco.com.br/economia/2026/11/11730086-trabuco-tera-desafio-de-equilibrar-contas-publicas-e-conter-trajetoria-de-alta-da-divida.html",
-    "d": "Desafio fiscal"
+    "n": "Exame",
+    "u": "https://exame.com/invest/mercados/ibovespa-hoje-27-11-2026/",
+    "d": "Leitura do mercado"
    },
    {
     "n": "Agência Brasil",
     "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabuco-aceita-convite-de-lula-para-comandar-fazenda-diz-planalto",
     "d": "Nota do Planalto"
-   },
-   {
-    "n": "Diário de S. Paulo",
-    "u": "https://spdiario.com.br/noticias/politica/dos-eua-flavio-bolsonaro-critica-anuncio-de-luiz-trabuco-na-fazenda.html",
-    "d": "Crítica da oposição"
    }
   ]
  },
@@ -213,67 +213,79 @@
    "id": "politica",
    "nome": "Política",
    "cor": "--pol",
-   "nota": "Reações a Trabuco, saúde de Bolsonaro e disputa na Câmara",
+   "nota": "Casa Civil, reações a Trabuco e saúde de Bolsonaro",
    "itens": [
     {
-     "kicker": "Ministério da Fazenda",
-     "quando": "Ontem",
-     "titulo": "Escolha de Trabuco é bem recebida por Alckmin e cúpula do Congresso, mas gera críticas na esquerda e na oposição",
-     "resumo": "Depois da nota do Planalto, governistas, parlamentares de esquerda e a oposição reagiram de formas diferentes à indicação do banqueiro para comandar a economia a partir de 2027. Dentro do PT, Paulo Teixeira disse confiar em Lula, e Carlos Zarattini pediu clareza sobre juros e investimento público.",
+     "kicker": "Novo governo",
+     "quando": "Hoje",
+     "titulo": "Camilo Santana é o favorito para a Casa Civil; anúncio pode sair nesta sexta, segundo aliados",
+     "resumo": "O senador e ex-ministro da Educação Camilo Santana (PT-CE) deve ser o próximo nome confirmado da equipe do quarto mandato, depois que Fernando Haddad descartou voltar à Esplanada, segundo o Metrópoles. Até o fim da manhã não havia confirmação oficial; aliados esperam novos anúncios antes da viagem de Lula ao Mercosul, em 3 de dezembro. Reportagens apontam ainda a permanência de Bruno Moretti no Planejamento e Alckmin como aposta para a futura pasta da Segurança Pública.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/com-anuncio-na-fazenda-lula-4-comeca-a-tomar-forma-e-prepara-novos-nomes"
+      },
+      {
+       "n": "Poder News",
+       "u": "https://podernews.com.br/2026/11/27/lula-deve-anunciar-camilo-como-novo-ministro-da-casa-civil-nesta-sexta-27/"
+      },
+      {
+       "n": "TMC",
+       "u": "https://tmc.com.br/politica/ministros-lula-trinca-fazenda-planejamento-casa-civil/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fazenda",
+     "quando": "Hoje",
+     "titulo": "Escolha de Trabuco tem apoio da cúpula do Congresso e de governistas, e críticas no PSOL, em parte do PT e na oposição",
+     "resumo": "As reações seguiram pela manhã desta sexta. Alckmin, Alcolumbre, Hugo Motta, Haddad e governadores do PT elogiaram o nome, enquanto deputados do PSOL e parte da bancada petista compararam a escolha à de Joaquim Levy, em 2015. Na oposição, houve críticas à suposta incoerência de Lula e também quem desejasse sucesso ao futuro ministro.",
      "lados": [
       {
-       "quem": "Governo e cúpula do Congresso",
-       "txt": "Alckmin classificou a escolha como excelente notícia; os presidentes do Senado, Davi Alcolumbre, e da Câmara, Hugo Motta, receberam o nome com otimismo, e Wellington Dias descreveu Trabuco como humanista."
+       "quem": "Governistas e cúpula do Congresso",
+       "txt": "Alckmin falou em excelente notícia; Alcolumbre e Motta disseram receber o anúncio com otimismo, e Camilo Santana chamou a decisão de acertada."
       },
       {
        "quem": "Críticos na esquerda",
-       "txt": "Lindbergh Farias (PT-RJ) comparou o momento à nomeação de Joaquim Levy em 2015, Elias Jabbour (PCdoB) falou em sinal negativo e Glauber Braga (PSOL) chamou a escolha de estelionato eleitoral."
+       "txt": "Lindbergh Farias e Carlos Zarattini (PT) cobraram posição sobre juros e investimento; deputados do PSOL como Glauber Braga e Sâmia Bomfim viram mau sinal para a área social."
       },
       {
        "quem": "Oposição",
-       "txt": "Flávio Bolsonaro (PL-RJ) escreveu que Lula virou Faria Limer e também falou em estelionato eleitoral; o líder do PL, Sóstenes Cavalcante, questionou a autonomia que Trabuco terá e cobrou responsabilidade fiscal."
+       "txt": "Flávio Bolsonaro e Sóstenes Cavalcante (PL) apontaram contradição com o discurso da campanha; Nikolas Ferreira desejou sucesso e disse ver reconhecimento da necessidade de conter gastos."
       }
      ],
      "fontes": [
       {
        "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/republica/governo-lula-anuncia-luiz-carlos-trabuco-para-o-ministerio-da-fazenda/"
+       "u": "https://www.gazetadopovo.com.br/republica/trabuco-na-fazenda-agrada-cupula-congresso-mas-irrita-esquerda-e-oposicao/"
       },
       {
-       "n": "CartaCapital",
-       "u": "https://www.cartacapital.com.br/politica/escolha-de-trabuco-para-a-fazenda-divide-lulistas-e-provoca-criticas-da-oposicao/"
+       "n": "Congresso em Foco",
+       "u": "https://www.congressoemfoco.com.br/noticia/131946/parlamentares-e-autoridades-reagem-a-escolha-de-trabuco-para-a-fazenda"
       },
       {
-       "n": "Diário de S. Paulo",
-       "u": "https://spdiario.com.br/noticias/politica/dos-eua-flavio-bolsonaro-critica-anuncio-de-luiz-trabuco-na-fazenda.html"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/noticias/brasil/politica/deputados-governistas-falam-em-preocupacao-com-nome-de-trabuco-para-assumir-ministerio-da-fazenda,8c64bd682b2a65592ef2c9471e434947ohgyjlsu.html"
+       "n": "InfoMoney",
+       "u": "https://www.infomoney.com.br/politica/por-que-a-esquerda-resiste-a-trabuco-na-fazenda-entenda-as-criticas-ao-banqueiro/"
       }
      ]
     },
     {
      "kicker": "Bolsonaro",
-     "quando": "Ontem",
-     "titulo": "Bolsonaro tem melhora na UTI e começa dieta líquida, mas segue sem previsão de alta",
-     "resumo": "O boletim da noite de quinta do Hospital DF Star, em Brasília, relata melhora clínica, laboratorial e radiológica do ex-presidente, que tolerou bem a dieta líquida oral e continua com antibióticos na veia. Internado desde sexta (20) com suboclusão intestinal e broncopneumonia, ele faz fisioterapia diária, e a equipe descartou por ora cirurgia no abdômen.",
+     "quando": "Hoje",
+     "titulo": "Bolsonaro tem obstrução intestinal revertida e começa fisioterapia, diz Michelle; segue na UTI sem previsão de alta",
+     "resumo": "Segundo publicação de Michelle Bolsonaro nesta sexta, a sonda nasogástrica foi retirada na quinta e o ex-presidente já se alimenta com caldo e faz a barba sozinho. O último boletim médico, da noite de quinta, relatou melhora clínica, laboratorial e radiológica e manteve o tratamento com antibióticos. Ele está internado no DF Star, em Brasília, desde 20 de novembro, com obstrução intestinal e pneumonia.",
      "foto": {
       "src": "https://imagens.ebc.com.br/WAi2FCaz7XgY5wC4pGFFxYy78go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-1.jpg?itok=cWVAvarJ",
       "credito": "Marcelo Camargo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "SBT News",
-       "u": "https://sbtnews.sbt.com.br/noticia/politica/bolsonaro-tem-melhora-na-uti-mas-segue-sem-previsao-de-alta"
+       "n": "Imirante (Metrópoles)",
+       "u": "https://imirante.com/noticias/brasil/2026/11/27/ipolitica-michelle-bolsonaro-quadro-melhorou"
       },
       {
-       "n": "Revista Oeste",
-       "u": "https://revistaoeste.com/politica/bolsonaro-melhora-e-comeca-a-receber-dieta-liquida"
-      },
-      {
-       "n": "InfoMoney (O Globo)",
-       "u": "https://www.infomoney.com.br/politica/bolsonaro-segue-estavel-na-uti-e-sem-previsao-de-alta-diz-boletim-medico/"
+       "n": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/politica/2026/11/7545145-boletim-medico-atualiza-estado-de-saude-de-jair-bolsonaro.html"
       }
      ]
     },
@@ -343,50 +355,62 @@
    "id": "economia",
    "nome": "Economia",
    "cor": "--eco",
-   "nota": "Bolsa após Trabuco, Black Friday e tarifas dos EUA",
+   "nota": "Emprego, carne na Europa e Black Friday",
    "itens": [
     {
-     "kicker": "Mercado",
-     "quando": "Ontem",
-     "titulo": "Ibovespa tem a maior alta desde o 1º turno e fecha aos 176,8 mil pontos; dólar recua a R$ 5,74",
-     "resumo": "A bolsa subiu 6,07%, com giro de R$ 23,2 bilhões, e nenhuma ação do índice terminou em queda; Localiza subiu 17,2%, e Petrobras ON, 7,4%. O movimento foi atribuído à expectativa sobre Trabuco, confirmada à noite, e à inflação abaixo do previsto; nesta sexta, o mercado americano opera em horário reduzido após a Ação de Graças.",
+     "kicker": "Emprego",
+     "quando": "Hoje",
+     "titulo": "Desemprego cai a 5,1% no trimestre até outubro, o menor da série do IBGE; IGP-M de novembro sobe 1,24%",
+     "resumo": "O resultado da Pnad Contínua veio em linha com o esperado pelo mercado, segundo a Reuters, e é o mais baixo desde 2012. Um economista do Inter observou que, na conta mensal dessazonalizada, a taxa subiu de setembro para outubro. A FGV também informou queda na confiança do comércio, ao menor nível desde março de 2021, e dos serviços.",
      "destaque": false,
      "fontes": [
       {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/ibovespa-dispara-e-recupera-os-176-mil-pontos-com-encontro-entre-lula-e-trabuco-davs/"
-      },
-      {
-       "n": "Gazeta do Povo",
-       "u": "https://www.gazetadopovo.com.br/economia/dolar-cai-e-ibovespa-dispara-com-possibilidade-de-trabuco-na-fazenda/"
-      },
-      {
        "n": "InfoMoney",
-       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26112026/"
+       "u": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-27112026/"
       },
       {
-       "n": "Piranot",
-       "u": "https://www.piranot.com.br/2026/11/26/noticias/economia/dolar-ptax-fecha-em-r-57446-nesta-quinta-feira-26-11-2026-veja-a/"
+       "n": "IstoÉ",
+       "u": "https://istoe.com.br/dolar-cai-ibovespa-sobe-trabuco-fazenda-27-11-2026"
+      }
+     ]
+    },
+    {
+     "kicker": "Comércio exterior",
+     "quando": "Ontem",
+     "titulo": "Governo acusa Macron de desinformação após presidente francês chamar carne brasileira de ‘dopada’",
+     "resumo": "Em nota conjunta, os ministérios da Agricultura e das Relações Exteriores disseram que a declaração, feita a agricultores em Paris, tem motivação política e protecionista e lembraram que o Brasil vende carne para 177 mercados. A Abiec citou auditoria europeia favorável aos controles brasileiros. A UE restringe desde setembro a carne do Brasil por regras sobre antimicrobianos.",
+     "fontes": [
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/brasil-rebate-macron-apos-presidente-chamar-carne-brasileira-de-dopada"
+      },
+      {
+       "n": "CNN Portugal (Lusa)",
+       "u": "https://cnnportugal.iol.pt/carne-brasileira/emmanuel-macron/governo-brasileiro-critica-macron-por-classificar-carne-brasileira-como-dopada-e-acusa-franca-de-desinformacao/20261127/6b091f230cf294b9345ebe80"
+      },
+      {
+       "n": "BP Money",
+       "u": "https://bpmoney.com.br/agro/brasil-rebate-macron-carne-dopada-mercosul-protecionismo/"
       }
      ]
     },
     {
      "kicker": "Varejo",
      "quando": "Hoje",
-     "titulo": "Black Friday chega ao dia principal com projeção de R$ 13,3 bilhões no comércio online e alerta de Procons",
-     "resumo": "A Neotrust estima alta de 20,7% nas vendas pela internet de quinta (26) a domingo (29). Procons de vários estados orientam o consumidor a comparar o histórico de preços, conferir o custo total das parcelas e consultar listas de sites com reclamações antes de comprar.",
+     "titulo": "Black Friday deve movimentar R$ 11,5 bilhões, com o menor crescimento em anos; transações sobem 9,5% na semana",
+     "resumo": "A CNC projeta alta real de 1,8% nas vendas, abaixo dos 3,2% de 2025, e cita juros altos e endividamento das famílias. Dados do Itaú mostram transações 9,5% maiores entre segunda e quarta. O Procon-RJ encontrou aumentos de até 258% em preços antes da data e orienta comparar históricos e o custo total com frete.",
      "fontes": [
       {
-       "n": "Update Diário",
-       "u": "https://updatediario.beehiiv.com/p/as-principais-not-cias-de-26-de-novembro-de-2026"
+       "n": "NC News",
+       "u": "https://ncnews.com.br/2026/11/27/black-friday-deve-movimentar-r-115-bilhoes-mas-crescimento-das-vendas-perde-forca/"
       },
       {
-       "n": "Jornal de Brasília",
-       "u": "https://jornaldebrasilia.com.br/brasilia/black-friday-procon-df-alerta-para-golpes-e-precos-maquiados-nas-promocoes/"
+       "n": "TV Brasil",
+       "u": "https://tvbrasil.ebc.com.br/reporter-brasil-tarde/2026/11/procon-identifica-aumento-de-ate-258-em-precos-antes-da-black-friday"
       },
       {
-       "n": "Diário de Suzano",
-       "u": "https://www.diariodesuzano.com.br/cidades/2026/11/25/procon-movel-realiza-mais-de-cem-atendimentos-em-acao-sobre-black-friday-na-estacao-suzano.html"
+       "n": "Folha de Alphaville",
+       "u": "https://folhadealphaville.com.br/2026/11/27/black-friday-deve-movimentar-r-1151-bilhoes-e-bater-recorde.html"
       }
      ]
     },
@@ -437,26 +461,6 @@
        "u": "https://www.gazetadopovo.com.br/economia/tomate-dispara-quase-39-alimentos-pressionam-inflacao-novembro/"
       }
      ]
-    },
-    {
-     "kicker": "Indicadores",
-     "quando": "Ontem",
-     "titulo": "Contas externas têm déficit de US$ 3,97 bilhões em outubro; confiança da indústria volta a subir",
-     "resumo": "O rombo nas transações correntes informado pelo Banco Central ficou acima da mediana das projeções, de US$ 3 bilhões, mas abaixo do registrado em setembro. O investimento direto no país somou US$ 9,1 bilhões, e o índice de confiança da indústria da FGV subiu 0,4 ponto, para 91,4, após quatro quedas seguidas.",
-     "fontes": [
-      {
-       "n": "Money Times",
-       "u": "https://www.moneytimes.com.br/tempo-real-26-11-2026-davs/"
-      },
-      {
-       "n": "Times Brasil (CNBC)",
-       "u": "https://timesbrasil.com.br/brasil/ibovespa-dispara-expectativas-sobre-ministerio-da-fazenda-inflacao/"
-      },
-      {
-       "n": "BPMoney",
-       "u": "https://bpmoney.com.br/economia/ibovespa-dispara-mais-de-2-com-bancos-e-petrobras-dolar-cai-a-r-577/"
-      }
-     ]
     }
    ]
   },
@@ -464,45 +468,41 @@
    "id": "brasil",
    "nome": "Brasil",
    "cor": "--bra",
-   "nota": "Chuva no Sudeste, fraude bilionária e feriados",
+   "nota": "Pane digital em SP e alerta de chuva",
    "itens": [
+    {
+     "kicker": "São Paulo",
+     "quando": "Hoje",
+     "titulo": "Rompimento de cabos de fibra óptica derruba portais e sistemas do governo paulista; Poupatempo remarca atendimentos",
+     "resumo": "Na manhã desta sexta, serviços como Detran-SP, Poupatempo e sistemas de segurança, saúde e educação ficaram fora do ar ou instáveis. Segundo a Prodesp, uma escavação de obra em Taboão da Serra danificou dois cabos. Quem teve atendimento afetado no Poupatempo será remarcado para a próxima semana.",
+     "fontes": [
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/sp-rompimento-de-cabos-de-fibra-optica-causa-instabilidade"
+      }
+     ]
+    },
     {
      "kicker": "Rio de Janeiro",
      "quando": "Hoje",
-     "titulo": "Sudeste tem nova sexta de alerta para chuva forte; Rio mantém aulas suspensas e São Paulo fica perto de 20 °C",
-     "resumo": "O Inmet mantém avisos de chuva intensa e rajadas de vento nesta sexta para Rio, Espírito Santo, Minas Gerais e leste de São Paulo, depois de alagamentos no estado do Rio, onde a rede estadual e universidades suspenderam as aulas até hoje. O risco de deslizamentos é maior em Petrópolis, Angra dos Reis e Duque de Caxias; na capital paulista, a previsão é de mínima de 16 °C e máxima de 20 °C.",
+     "titulo": "Inmet põe 2.154 cidades de dez estados em alerta para chuva; Angra dos Reis registra mais de 180 mm",
+     "resumo": "O alerta amarelo vale até a noite desta sexta no Sul, Sudeste e parte do Centro-Oeste, com até 50 mm de chuva e rajadas de 60 km/h. No Rio, Angra dos Reis teve o maior volume do estado na madrugada de quinta e manteve as aulas suspensas nas ilhas; Petrópolis registrou 33 ocorrências, sem vítimas. Em Santa Catarina, a Defesa Civil prevê chuva volumosa até sábado.",
      "foto": {
       "src": "https://imagens.ebc.com.br/mkkkb_6IiPWVr4nQg-p5WTqirag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tnrgo_abr_130220193111.jpg?itok=zxp2ihDE",
       "credito": "Tânia Rêgo/Agência Brasil (arquivo)"
      },
      "fontes": [
       {
-       "n": "Brasil 61",
-       "u": "https://brasil61.com/n/apos-alagamentos-no-rio-sexta-feira-mantem-alertas-de-chuva-e-derruba-temperaturas-no-sudeste-ptsd264632"
+       "n": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/chuvas-intensas-2-154-cidades-10-estados-alerta-amarelo-ultima-sexta-novembro/"
       },
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/com-alerta-de-chuvas-fortes-rio-suspende-aulas-na-rede-publica"
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/angra-dos-reis-registra-maior-volume-de-chuva-no-estado-nesta-quinta"
       },
       {
-       "n": "Itatiaia",
-       "u": "https://www.itatiaia.com.br/brasil/sudeste/rj/com-alerta-de-chuvas-fortes-estado-do-rio-de-janeiro-suspende-aulas-na-rede-publica-ate-sexta-feira-27/"
-      }
-     ]
-    },
-    {
-     "kicker": "Belo Horizonte",
-     "quando": "Hoje",
-     "titulo": "Chuva de novembro em BH já passa de 150% da média em três regionais; sexta tem risco de trovoadas",
-     "resumo": "Segundo a Defesa Civil, a Centro-Sul acumulou 396 mm até quinta, 168% da média do mês, seguida por Pampulha e Oeste; a média climatológica de novembro é de 236 mm. A previsão para hoje é de máxima de 24 °C e chuva com trovoadas à tarde.",
-     "fontes": [
-      {
-       "n": "Estado de Minas",
-       "u": "https://www.em.com.br/gerais/2026/11/7545287-bh-temporal-continua-nesta-sexta-feira-27-veja-previsao.html"
-      },
-      {
-       "n": "Brasil 61",
-       "u": "https://brasil61.com/n/apos-alagamentos-no-rio-sexta-feira-mantem-alertas-de-chuva-e-derruba-temperaturas-no-sudeste-ptsd264632"
+       "n": "Agência SP",
+       "u": "https://www.agenciasp.sp.gov.br/defesa-civil/previsao-do-tempo-para-sexta-feira-27-em-sp-instabilidades-perdem-forca/"
       }
      ]
     },
@@ -544,8 +544,24 @@
    "id": "mundo",
    "nome": "Mundo",
    "cor": "--int",
-   "nota": "Tempestades nos EUA, impasse na UE e guerra na Ucrânia",
+   "nota": "Ucrânia, impasse na UE e Golfo",
    "itens": [
+    {
+     "kicker": "Ucrânia",
+     "quando": "Hoje",
+     "titulo": "Zelensky pede que EUA pressionem Putin e estranha Trump chamá-lo de ‘amigo’; ataques com drones deixam mortos dos dois lados",
+     "resumo": "Em entrevista à BBC, o presidente ucraniano também cobrou a entrega de mísseis Patriot já pagos. Na noite de quinta para sexta, a Ucrânia diz ter derrubado 110 de 155 drones russos, com ao menos um morto; a Rússia relatou 318 drones ucranianos interceptados e dois mortos. Trump disse que receberá Putin no G20 de Miami, em dezembro.",
+     "fontes": [
+      {
+       "n": "Diário do Grande ABC (AP)",
+       "u": "https://www.dgabc.com.br/Noticia/4371045/zelenski-pede-que-eua-pressionem-putin-e-estranha-trump-chama-lo-de-amigo-"
+      },
+      {
+       "n": "Instituto GSEC",
+       "u": "https://institutogsec.substack.com/p/destaques-da-geopolitica-27-nov-2026"
+      }
+     ]
+    },
     {
      "kicker": "Estados Unidos",
      "quando": "Hoje",
@@ -569,64 +585,36 @@
     {
      "kicker": "União Europeia",
      "quando": "Hoje",
-     "titulo": "Cúpula da UE chega ao segundo dia sem acordo sobre o orçamento até 2034; Meloni vê entendimento ‘a anos-luz’",
-     "resumo": "A proposta de compromisso do presidente do Conselho Europeu, António Costa, prevê € 1,78 trilhão para 2028-2034, abaixo dos € 1,98 trilhão sugeridos pela Comissão. A italiana Giorgia Meloni disse que não assinará nada que considere injusto para o país, e o premiê húngaro, Péter Magyar, vê chances praticamente nulas de acordo neste ano; o empréstimo à Ucrânia também divide os líderes.",
+     "titulo": "Cúpula da UE termina sem acordo sobre o orçamento até 2034, e ajuda à Ucrânia para 2027 fica para dezembro",
+     "resumo": "Os líderes europeus encerraram a reunião em Bruxelas sem consenso sobre o orçamento plurianual; a Alemanha pediu cortes maiores e a França criticou a redução proposta. O novo pacote de apoio a Kiev para 2027 também foi adiado, com resistência de Hungria, Eslováquia e República Tcheca.",
      "fontes": [
+      {
+       "n": "Diário do Grande ABC (AP)",
+       "u": "https://www.dgabc.com.br/Noticia/4371045/zelenski-pede-que-eua-pressionem-putin-e-estranha-trump-chama-lo-de-amigo-"
+      },
+      {
+       "n": "Instituto GSEC",
+       "u": "https://institutogsec.substack.com/p/destaques-da-geopolitica-27-nov-2026"
+      },
       {
        "n": "Observador (Lusa)",
        "u": "https://observador.pt/2026/11/26/orcamento-da-uniao-europeia-italia-ve-acordo-sobre-orcamento-a-anos-luz-hungria-sem-esperanca-de-fecha-lo-este-ano/"
-      },
-      {
-       "n": "O Povo (AFP)",
-       "u": "https://opovo.com.br/noticias/mundo/2026/11/26/ue-segue-sem-um-acordo-sobre-seu-orcamento.html"
-      },
-      {
-       "n": "Sol",
-       "u": "https://sol.iol.pt/internacional/noticias/orcamento-da-ue-meloni-diz-que-acordo-esta-a-anos-luz-e-hungria-duvida-de-entendimento/20261126/6b0870150cf2c0fc744b7bb6"
-      }
-     ]
-    },
-    {
-     "kicker": "Ucrânia",
-     "quando": "Hoje",
-     "titulo": "Zelensky diz que Rússia prepara novo ataque à rede de energia e critica proximidade entre Trump e Putin",
-     "resumo": "Em entrevista à BBC, o presidente ucraniano reclamou de atrasos na entrega de mísseis americanos e disse estranhar a foto em que Trump abraça Putin. Na véspera, ataque com mísseis e 113 drones deixou seis regiões sem energia, segundo Kiev; o enviado americano Jared Kushner afirmou que Putin se comprometeu a não usar armas nucleares, e Lavrov disse que Washington está aberto ao diálogo.",
-     "fontes": [
-      {
-       "n": "Notícias ao Minuto (Lusa)",
-       "u": "https://www.noticiasaominuto.com/mundo/3091121/ucrania-zelensky-manifestou-preocupacao-sobre-falta-de-auxilio-dos-eua"
-      },
-      {
-       "n": "Diário do Grande ABC (AP)",
-       "u": "https://www.dgabc.com.br/Noticia/4370930/zelenski-diz-que-russia-prepara-nova-ofensiva-contra-infraestrutura-energetica-da-ucrania"
-      },
-      {
-       "n": "Newsweek",
-       "u": "https://www.newsweek.com/zelensky-rips-trump-over-putin-embrace-compares-it-to-befriending-hitler-12772292"
       }
      ]
     },
     {
      "kicker": "Estreito de Ormuz",
-     "quando": "Ontem",
-     "titulo": "Irã relata mais dois petroleiros em chamas após minas em Ormuz e condiciona reabertura ao fim do bloqueio dos EUA",
-     "resumo": "A Guarda Revolucionária informou nesta quinta novos incêndios em navios-tanque que atingiram minas no estreito; a versão iraniana não foi verificada de forma independente. Teerã diz que só reabre a passagem com o fim do bloqueio americano, e Washington anunciou sanções a mais de 20 casas de câmbio e empresas ligadas a redes financeiras iranianas.",
+     "quando": "Hoje",
+     "titulo": "Dois italianos morrem no Kuwait após ataque de drones atribuído ao Irã; Teerã nega e tráfego em Ormuz segue reduzido",
+     "resumo": "Segundo a agência italiana Ansa, os dois morreram após a interceptação de drones; o Irã nega autoria e propôs investigação conjunta. A Guarda Revolucionária relatou dois petroleiros atingidos por minas perto de Omã, e a passagem pelo estreito está em cerca de 38 navios por dia, ante 138 em 2025. Em Gaza, ataques israelenses mataram dez pessoas, segundo hospitais locais.",
      "fontes": [
       {
-       "n": "Diario Siglo XXI (Europa Press)",
-       "u": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261126120329/iran-asegura-otros-petroleros-incendiado-chocar-minas-navales-estrecho-ormuz"
-      },
-      {
-       "n": "Prensa Latina",
-       "u": "https://www.prensa-latina.cu/2026/11/26/incendio-de-dos-petroleros-tras-choque-con-minas-en-ormuz/"
-      },
-      {
-       "n": "Times Brasil (CNBC)",
-       "u": "https://timesbrasil.com.br/empresas-e-negocios/energia/ira-confirma-que-petroleiros-atingiram-minas-navais/"
+       "n": "Tribuna do Agreste",
+       "u": "https://www.tribunadoagreste.com.br/internacional/2026/11/26/1030934-ataques-israelenses-matam-10-em-gaza-drones-iranianos-matam-2-italianos-no-kuwait-e-outras-noticias-do-oriente-medio"
       },
       {
        "n": "Instituto GSEC",
-       "u": "https://institutogsec.substack.com/p/destaques-da-geopolitica-26-nov-2026"
+       "u": "https://institutogsec.substack.com/p/destaques-da-geopolitica-27-nov-2026"
       }
      ]
     },
@@ -656,8 +644,68 @@
    "id": "esporte",
    "nome": "Esporte",
    "cor": "--esp",
-   "nota": "Vitória do São Paulo, Flu x Cruzeiro e véspera da final",
+   "nota": "Flu x Cruzeiro, véspera da final e F1 no Catar",
    "itens": [
+    {
+     "kicker": "Brasileirão",
+     "quando": "Hoje",
+     "titulo": "Fluminense e Cruzeiro decidem no Maracanã, às 20h, quem fica com o 3º lugar",
+     "resumo": "O Cruzeiro tem 66 pontos e o Fluminense, 63, na 37ª rodada; como o primeiro critério de desempate é o número de vitórias (20 a 18), vencer não basta ao Flu para passar o rival nesta noite. O 3º lugar dá vaga direta na fase de grupos da Libertadores 2027. A Rádio Nacional e a SporTV transmitem.",
+     "fontes": [
+      {
+       "n": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/rj/rio-de-janeiro/esportes/noticia/2026/11/27/fluminense-cruzeiro-decide-3-lugar-brasileirao"
+      },
+      {
+       "n": "Band",
+       "u": "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/fluminense-x-cruzeiro-veja-as-provaveis-escalacoes-pelo-brasileirao"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/radio-nacional-transmite-fluminense-e-cruzeiro-pelo-brasileirao"
+      }
+     ]
+    },
+    {
+     "kicker": "Libertadores",
+     "quando": "Hoje",
+     "titulo": "Abel corta cinco do Palmeiras para a final da Libertadores; Paulinho, lesionado, está fora",
+     "resumo": "O técnico precisa reduzir a lista de 28 para 23 nomes para o jogo de sábado, às 17h, no Centenário, em Montevidéu. Além de Paulinho, ficam de fora o goleiro Bruno Bertinato, o volante Luis Pacheco e os atacantes Heittor e Fabiano, segundo o UOL. Leila Pereira confirmou que Abel fica até 2027 qualquer que seja o resultado.",
+     "fontes": [
+      {
+       "n": "Bolavip",
+       "u": "https://br.bolavip.com/palmeiras/palmeiras-cortes-final-libertadores"
+      },
+      {
+       "n": "Inside World Football",
+       "u": "https://www.insideworldfootball.com/2026/11/27/palmeiras-start-as-favourites-for-copa-libertadores-against-estudiantes/"
+      },
+      {
+       "n": "Portal do Palestra",
+       "u": "https://portaldopalestra.com.br/estudiantes-veteranos-muslera-carrillo-piovi-final-libertadores-palmeiras/"
+      }
+     ]
+    },
+    {
+     "kicker": "Fórmula 1",
+     "quando": "Hoje",
+     "titulo": "Antonelli lidera o primeiro treino do GP do Catar; Bortoleto é 11º e Rafael Câmara, 15º",
+     "resumo": "O italiano da Mercedes marcou 1min23s217 em Lusail, à frente de George Russell e Isack Hadjar. O segundo treino livre é às 14h desta sexta, na penúltima etapa da temporada.",
+     "fontes": [
+      {
+       "n": "Terra",
+       "u": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-antonelli-e-o-mais-rapido-no-tl1-do-gp-do-catar-bortoleto-e-11-e-camara-15,e0b481152d3c74575bb5a0c595aff3ffdepqfayq.html"
+      },
+      {
+       "n": "Metrópoles",
+       "u": "https://www.metropoles.com/esportes/f1-antonelli-lidera-1o-treino-livre-no-catar-bortoleto-e-11o-e-camara-15o"
+      },
+      {
+       "n": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-bortoleto-termina-primeiro-treino-no-catar-em-11o/"
+      }
+     ]
+    },
     {
      "kicker": "Brasileirão",
      "quando": "Ontem",
@@ -679,74 +727,18 @@
      ]
     },
     {
-     "kicker": "Brasileirão",
+     "kicker": "Futebol feminino",
      "quando": "Hoje",
-     "titulo": "Fluminense e Cruzeiro decidem no Maracanã, às 20h, quem fica com o 3º lugar",
-     "resumo": "O Cruzeiro, terceiro colocado e com seis vitórias seguidas, garante a posição com vitória ou empate; o Fluminense, quarto e com quatro triunfos seguidos, precisa vencer. O restante da 37ª rodada é disputado no sábado e no domingo.",
+     "titulo": "Copinha Feminina abre a 2ª rodada com Tarumã x Flamengo; Inter, Santos e Corinthians venceram na estreia",
+     "resumo": "O jogo das amazonenses do Tarumã contra o Flamengo é às 21h, com transmissão da TV Brasil. Na primeira rodada, o Internacional bateu o Botafogo por 2 a 0 e o Corinthians goleou o Ação-MT por 6 a 0.",
      "fontes": [
       {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/esportes/fluminense-e-cruzeiro-fazem-confronto-direto-pelo-3-lugar-do-brasileirao"
+       "n": "ClicRDC",
+       "u": "https://clicrdc.com.br/fique-bem-informado/cafe-com-noticias-de-sexta-feira-27-de-novembro-de-2026/"
       },
       {
-       "n": "Lance!",
-       "u": "https://www.lance.com.br/onde-assistir/fluminense-x-cruzeiro-onde-assistir-ao-vivo-e-provaveis-escalacoes.html"
-      },
-      {
-       "n": "ESPN",
-       "u": "https://espn.com.br/futebol/brasileirao/artigo/_/id/17567617/classificacao-do-brasileirao-como-ficou-a-tabela-apos-sao-paulo-x-remo"
-      }
-     ]
-    },
-    {
-     "kicker": "Libertadores",
-     "quando": "Hoje",
-     "titulo": "Palmeiras busca o tetra da Libertadores contra o Estudiantes, que tenta o quinto título, no sábado em Montevidéu",
-     "resumo": "A provável escalação do Palmeiras tem três zagueiros e Vitor Roque ao lado de Flaco López; o Estudiantes, de Alexander Medina, não terá o suspenso Baltasar Rodríguez. O venezuelano Jesús Valenzuela apita a final, às 17h, no Centenário; os dois clubes chegaram eliminando Fluminense e Flamengo nos pênaltis.",
-     "fontes": [
-      {
-       "n": "ESPN",
-       "u": "https://www.espn.com.br/futebol/libertadores/artigo/_/id/17566905/palmeiras-x-estudiantes-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-final-libertadores"
-      },
-      {
-       "n": "Terra",
-       "u": "https://www.terra.com.br/parceiros/woo-magazine/palmeiras-e-estudiantes-disputam-a-final-da-libertadores-neste-sabado-veja-escalacoes,80c22ce19f6d3a8c6a78ecf6d580991e8f6k88t6.html"
-      },
-      {
-       "n": "Gazeta Esportiva",
-       "u": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-desembarca-em-montevideu-para-final-da-libertadores/"
-      }
-     ]
-    },
-    {
-     "kicker": "Fórmula 1",
-     "quando": "Hoje",
-     "titulo": "GP do Catar abre fim de semana com treinos às 10h30 e 14h; Bortoleto e Rafael Câmara estão no grid",
-     "resumo": "A penúltima etapa da temporada tem corrida no domingo (29), às 13h, em Lusail, com transmissão pelo sportv3. Kimi Antonelli já garantiu o título, e Verstappen, vencedor em Las Vegas, é o vice com 304 pontos; a temporada termina em Abu Dhabi, em 6 de dezembro.",
-     "fontes": [
-      {
-       "n": "Grande Prêmio",
-       "u": "https://grandepremio.com/br/f1/tem-f1-na-tv-hoje-onde-assistir-aos-treinos-livres-do-gp-do-catar-nesta-sexta-feira/"
-      },
-      {
-       "n": "F1Mania",
-       "u": "https://www.f1mania.net/f1/f1-e-race-week-gp-do-catar-abre-as-duas-ultimas-etapas-da-temporada-2026/"
-      }
-     ]
-    },
-    {
-     "kicker": "Seleção",
-     "quando": "25/11",
-     "titulo": "Zico diz que esperava mais de Ancelotti na Seleção e pede espaço a quem joga no Brasil",
-     "resumo": "Em evento em Brumadinho (MG), o ex-jogador afirmou que o italiano ainda não construiu o time que ele imaginava, embora fosse seu preferido entre os técnicos europeus. No mesmo dia, Ancelotti disse em seminário da CBF que a geração eliminada na Copa não aproveitou o próprio talento.",
-     "fontes": [
-      {
-       "n": "O Tempo",
-       "u": "https://otempo.com.br/sports/selecao-brasileira/2026/11/25/zico-cobra-evolucao-de-ancelotti-na-selecao-e-pede-mais-espaco-a-quem-joga-no-brasil"
-      },
-      {
-       "n": "Diario de Pernambuco (Estadão Conteúdo)",
-       "u": "https://www.diariodepernambuco.com.br/esportes-dp/selecao-brasileira/2026/11/11729921-ancelotti-diz-que-selecao-brasileira-nao-aproveitou-talento-para-ganhar-a-copa-de-2026.html"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copinha-f-internacional-vence-botafogo-no-encerramento-da-1a-rodada"
       }
      ]
     }
@@ -756,29 +748,37 @@
    "id": "saude",
    "nome": "Saúde",
    "cor": "--sau",
-   "nota": "Dados e IA no SUS, pesquisa clínica e vacina contra mpox",
+   "nota": "Covid, orçamento e mpox",
    "itens": [
     {
-     "kicker": "Saúde digital",
-     "quando": "25/11",
-     "titulo": "Ministério da Saúde firma acordo para usar dados e inteligência artificial na comunicação com usuários do SUS",
-     "resumo": "A cooperação com a organização ImpulsoGov vale por cinco anos, sem repasse de dinheiro, e prevê assistentes virtuais e mensagens sobre prevenção do câncer, saúde da mulher, materno-infantil e mental. Os dados serão anonimizados ou agregados, processados no Brasil e não poderão ter uso comercial.",
+     "kicker": "Covid-19",
+     "quando": "Hoje",
+     "titulo": "Com buscas por covid em alta, Ministério da Saúde manda mensagens por WhatsApp e libera 2,1 milhões de doses",
+     "resumo": "A pasta passou a enviar convites à vacinação pelo WhatsApp e pelo GOV.BR e distribuiu doses extras aos estados. A Fiocruz registrou alta recente de casos graves em seis unidades da federação, mas, no acumulado do ano, casos e mortes estão bem abaixo de 2025, segundo o ministério.",
      "fontes": [
       {
-       "n": "Ministério da Saúde",
-       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus"
+       "n": "Estado de Minas",
+       "u": "https://www.em.com.br/bem-viver/2026/11/7545461-buscas-por-covid-sobem-1-000-no-google-e-ministerio-da-saude-reforca-vacinacao.html"
+      },
+      {
+       "n": "BP Money",
+       "u": "https://bpmoney.com.br/politica/governo/ministerio-saude-whatsapp-incentivo-vacina-covid/"
+      },
+      {
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/fiocruz-aumentam-casos-de-sindrome-respiratoria-aguda-por-covid-19"
       }
      ]
     },
     {
-     "kicker": "Pesquisa clínica",
-     "quando": "25/11",
-     "titulo": "Governo lança edital de R$ 120 milhões para pesquisa clínica e novos tratamentos no SUS",
-     "resumo": "O edital, gerido pela Finep, destina R$ 60 milhões a ensaios clínicos e redes, R$ 40 milhões a plataformas tecnológicas e R$ 20 milhões a inteligência artificial, com ao menos 30% para Norte, Nordeste e Centro-Oeste. Segundo o ministro Alexandre Padilha, o Brasil subiu do 18º para o 12º lugar no ranking mundial de pesquisa clínica em 2025.",
+     "kicker": "Orçamento",
+     "quando": "Ontem",
+     "titulo": "Relatório preliminar do Orçamento de 2027 reserva R$ 272 bilhões à saúde pública",
+     "resumo": "O texto foi aprovado pela Comissão Mista de Orçamento do Congresso, segundo a Agência Senado. O valor ainda pode mudar até a votação final da lei orçamentária.",
      "fontes": [
       {
-       "n": "Ministério da Saúde",
-       "u": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/governo-do-brasil-anuncia-r-120-milhoes-para-ampliar-pesquisas-clinicas-e-acelerar-o-desenvolvimento-de-novos-tratamentos-para-o-sus"
+       "n": "Boletim Brasil e Mundo Hoje (Agência Senado)",
+       "u": "https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/tag/edicao-2026-11-27"
       }
      ]
     },
@@ -812,13 +812,13 @@
    "id": "educacao",
    "nome": "Educação",
    "cor": "--edu",
-   "nota": "Pé-de-Meia, calendário do Enem e formação de professores",
+   "nota": "Pé-de-Meia, chuva e Enem",
    "itens": [
     {
      "kicker": "Pé-de-Meia",
      "quando": "Hoje",
-     "titulo": "Caixa segue pagando a parcela de novembro do Pé-de-Meia; calendário vai até o dia 30",
-     "resumo": "Os pagamentos seguem por grupos de mês de nascimento até domingo (30). A parcela é de R$ 200 no ensino regular e R$ 225 na EJA, para quem teve ao menos 80% de frequência em setembro.",
+     "titulo": "Pé-de-Meia paga hoje a nascidos em setembro e outubro; parcela é de R$ 200 no ensino regular",
+     "resumo": "Os estudantes da EJA recebem R$ 225. É preciso ter tido ao menos 80% de frequência em setembro, e o calendário escalonado termina em 30 de novembro.",
      "foto": {
       "src": "fotos/pedemeia.jpg",
       "credito": "Antônio Cruz/Agência Brasil (arquivo)"
@@ -826,15 +826,19 @@
      "fontes": [
       {
        "n": "Agência Brasil",
-       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-comeca-pagar-oitava-parcela-de-2026-estudantes"
-      },
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pe-de-meia-nascidos-em-setembro-e-outubro-recebem-parcela-de-r-200"
+      }
+     ]
+    },
+    {
+     "kicker": "Clima",
+     "quando": "Hoje",
+     "titulo": "Chuva mantém aulas suspensas nas escolas das ilhas de Angra dos Reis",
+     "resumo": "Na quinta, a suspensão valeu para toda a rede municipal; nesta sexta, só para as unidades nas ilhas, após mais de 180 mm de chuva na madrugada anterior, segundo a prefeitura.",
+     "fontes": [
       {
-       "n": "Mix Vale",
-       "u": "https://www.mixvale.com.br/2026/11/25/pagamento-do-pe-de-meia-em-25-de-novembro-libera-parcela-para-nascidos-em-maio-e-junho-no-brasil/"
-      },
-      {
-       "n": "Metrópoles",
-       "u": "https://www.metropoles.com/brasil/pe-de-meia-pagamentos-de-novembro-comecam-nesta-segunda-feira-23-11"
+       "n": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/angra-dos-reis-registra-maior-volume-de-chuva-no-estado-nesta-quinta"
       }
      ]
     },
@@ -888,11 +892,11 @@
    "id": "ciencia",
    "nome": "Ciência e tecnologia",
    "cor": "--cie",
-   "nota": "Nvidia na Ásia, ações da SpaceX e Semana da Ciência",
+   "nota": "Nvidia, SpaceX e Semana da Ciência",
    "itens": [
     {
      "kicker": "Inteligência artificial",
-     "quando": "Hoje",
+     "quando": "Ontem",
      "titulo": "Nvidia suspende envio de servidores de IA para quatro países do Sudeste Asiático, diz Financial Times",
      "resumo": "Segundo o jornal, a empresa pediu a parceiros como Dell e Supermicro que parem de entregar equipamentos a compradores em Singapura, Tailândia, Malásia e Indonésia; não está claro se a medida é temporária. A decisão ocorre após Washington endurecer controles de exportação e quatro dias depois de Jensen Huang voltar ao comando da empresa.",
      "fontes": [
@@ -909,19 +913,19 @@
     {
      "kicker": "Espaço",
      "quando": "Ontem",
-     "titulo": "Musk promete duas ações da SpaceX a cada criança americana com conta do programa do governo Trump",
-     "resumo": "A SpaceX vai depositar uma ação em cada conta ativa em dezembro, e Musk promete igualar com uma ação própria em junho de 2027. Com cerca de 70 milhões de contas criadas, a promessa pode chegar a US$ 17,8 bilhões, segundo cálculo da Euronews.",
+     "titulo": "Agência dos EUA autoriza SpaceX a lançar até 1 milhão de satélites para centros de dados em órbita",
+     "resumo": "A aprovação da FCC, noticiada pela NPR e pelo TechCrunch, abre caminho para o plano da empresa de processar dados no espaço. Não há prazo definido para os lançamentos.",
      "fontes": [
       {
-       "n": "Euronews",
-       "u": "https://pt.euronews.com/2026/11/26/estados-unidos-musk-promete-duas-acoes-da-spacex-a-cada-crianca"
+       "n": "Boletim Brasil e Mundo Hoje (NPR/TechCrunch)",
+       "u": "https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/tag/edicao-2026-11-27"
       }
      ]
     },
     {
      "kicker": "Ciência na escola",
      "quando": "Hoje",
-     "titulo": "Semana Nacional de Ciência e Tecnologia, com o tema ‘Ciência Delas’, vai até sábado em Brasília",
+     "titulo": "Semana Nacional de Ciência e Tecnologia, com o tema ‘Ciência Delas’, segue até o fim de semana na Esplanada",
      "resumo": "A 23ª edição tem programação gratuita na Esplanada dos Ministérios, com foco na participação feminina na ciência. Foi no evento que os ministérios da Saúde e da Ciência lançaram o edital de R$ 120 milhões para pesquisa clínica.",
      "fontes": [
       {
@@ -964,7 +968,7 @@
    "id": "cultura",
    "nome": "Cultura e entretenimento",
    "cor": "--cul",
-   "nota": "Estreias do fim de semana, festival da Rádio Nacional e Andy Taylor",
+   "nota": "Estreias, Festival da Rádio Nacional e prêmio literário",
    "itens": [
     {
      "kicker": "Streaming",
@@ -1011,6 +1015,18 @@
       {
        "n": "BR230",
        "u": "https://www.br230.com.br/festival-de-musica-radio-nacional-celebra-90-anos-da-emissora-com-show/"
+      }
+     ]
+    },
+    {
+     "kicker": "Literatura",
+     "quando": "Ontem",
+     "titulo": "Hannah Lillith Assadi e Abdelrahman ElGendy vencem o National Book Awards nos EUA",
+     "resumo": "A escritora levou o prêmio de ficção e ElGendy o de não ficção, na cerimônia anual da National Book Foundation, segundo a France 24.",
+     "fontes": [
+      {
+       "n": "Boletim Brasil e Mundo Hoje (France 24)",
+       "u": "https://github.com/devops-arnaldomenezes/boletim-brasil-mundo/releases/tag/edicao-2026-11-27"
       }
      ]
     },
